@@ -1,0 +1,329 @@
+{
+  "key": 8761,
+  "messages": [
+    {
+      "id": "msg_0195_00000",
+      "de_DE": [
+        "Zunächst behalten wir deine Pokémon\n",
+        "als Pfand für die ausgeliehenen ein.\r",
+        "Darf ich also vorschlagen, Pokémon\n",
+        "mit Bedacht zu wählen?\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00001",
+      "de_DE": "Bitte warte einen Moment."
+    },
+    {
+      "id": "msg_0195_00002",
+      "de_DE": "Bitte geh hinein."
+    },
+    {
+      "id": "msg_0195_00003",
+      "de_DE": [
+        "Gut gemacht!\n",
+        "Dein Team wird nun geheilt."
+      ]
+    },
+    {
+      "id": "msg_0195_00004",
+      "de_DE": [
+        "Als Nächstes kommt Kampf Nr. {STRVAR_1 53, 0, 0}!\n",
+        "Bist du bereit?"
+      ]
+    },
+    {
+      "id": "msg_0195_00005",
+      "de_DE": [
+        "Möchtest du vor dem Kampf\n",
+        "noch Pokémon tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0195_00006",
+      "de_DE": [
+        "Möchtest du den letzten Kampf\n",
+        "als dein Kampfvideo speichern?"
+      ]
+    },
+    {
+      "id": "msg_0195_00007",
+      "de_DE": [
+        "Kampf von {STRVAR_1 3, 0, 0} wurde\n",
+        "als Kampfvideo gespeichert.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00008",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten. Kampf-\n",
+        "video konnte nicht gespeichert werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00009",
+      "de_DE": [
+        "Dein existierendes Kampfvideo löschen\n",
+        "und den letzten Kampf speichern?"
+      ]
+    },
+    {
+      "id": "msg_0195_00010",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0195_00011",
+      "de_DE": [
+        "Möchtest du speichern und\n",
+        "eine Pause einlegen?"
+      ]
+    },
+    {
+      "id": "msg_0195_00012",
+      "de_DE": [
+        "Möchtest du dich aus dieser Kampf-\n",
+        "fabrik-Herausforderung zurückziehen?"
+      ]
+    },
+    {
+      "id": "msg_0195_00013",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wählt gerade.\n",
+        "Bitte warten."
+      ]
+    },
+    {
+      "id": "msg_0195_00014",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0195_00015",
+      "de_DE": "{STRVAR_1 3, 0, 0} hat sich zurückgezogen."
+    },
+    {
+      "id": "msg_0195_00016",
+      "de_DE": [
+        "Du hast dein siebtes Spiel in der\n",
+        "Kampffabrik geschafft! Glückwunsch!\r",
+        "In Anerkennung deines umfassenden\n",
+        "Wissens über Pokémon belohnen\f",
+        "wir dich mit GP!\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00017",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_1 51, 1, 0} GP!\r"
+    },
+    {
+      "id": "msg_0195_00018",
+      "de_DE": [
+        "Die als Pfand einbehaltenen Pokémon\n",
+        "werden nun zurückgegeben.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00019",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0195_00020",
+      "garbage": 48
+    },
+    {
+      "id": "msg_0195_00021",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deinen nächsten Gegner angestellt.\r",
+        "Rechne mit {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 3, 0} und {STRVAR_1 0, 5, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00022",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deinen nächsten Gegner angestellt.\r",
+        "Rechne mit {STRVAR_1 0, 1, 0} und\n",
+        "{STRVAR_1 0, 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00023",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deinen nächsten Gegner angestellt.\r",
+        "Du triffst erst auf ein {STRVAR_1 0, 1, 0},\n",
+        "das {STRVAR_1 6, 0, 0} anwendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00024",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deinen nächsten Gegner angestellt.\r",
+        "Du triffst erst auf ein Pokémon, das\n",
+        "die Attacke {STRVAR_1 6, 0, 0} anwendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00025",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deinen nächsten Gegner angestellt.\r",
+        "{STRVAR_1 15, 0, 0} ist wohl die Stärke\n",
+        "dieses Gegners.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00026",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deinen nächsten Gegner angestellt.\r",
+        "Der Gegner legt wohl keinen großen\n",
+        "Wert auf Typen.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00027",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deine nächsten Gegner angestellt.\r",
+        "Rechne mit {STRVAR_1 0, 1, 0},\n",
+        "{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} und\f",
+        "{STRVAR_1 0, 4, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00028",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deine nächsten Gegner angestellt.\r",
+        "Rechne zuerst mit {STRVAR_1 0, 1, 0}\n",
+        "und {STRVAR_1 0, 2, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00029",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deine nächsten Gegner angestellt.\r",
+        "Die Attacken {STRVAR_1 6, 0, 0} und\n",
+        "{STRVAR_1 6, 1, 0} sind zu erwarten.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00030",
+      "de_DE": [
+        "Ich habe einige Nachforschungen über\n",
+        "deinen nächsten Gegner angestellt.\r",
+        "Die Attacke {STRVAR_1 6, 0, 0} ist beim\n",
+        "ersten Pokémon des Gegners\f",
+        "zu erwarten.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00031",
+      "de_DE": "FORTFAHREN"
+    },
+    {
+      "id": "msg_0195_00032",
+      "de_DE": "AUFZEICHNEN"
+    },
+    {
+      "id": "msg_0195_00033",
+      "de_DE": "AUSRUHEN"
+    },
+    {
+      "id": "msg_0195_00034",
+      "de_DE": "ZURÜCKZIEHEN"
+    },
+    {
+      "id": "msg_0195_00035",
+      "de_DE": [
+        "Glückwunsch, Trainer!\r",
+        "In Anerkennung deiner außergewöhn-\n",
+        "lichen Siegesserie fordert dich unsere\f",
+        "Kampfkoryphäe zu einem Spiel heraus.\r",
+        "Dein nächstes Spiel bestreitest du also\n",
+        "gegen den Fabrikleiter.\f",
+        "Keine Widerrede!\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00036",
+      "de_DE": [
+        "Distmar: Bieeeeeep!\r",
+        "’tschuldige, lass dich nicht stören.\r",
+        "Das hier ist eine Erfindung von mir.\n",
+        "Eine Maschine zur Datenanalyse.\r",
+        "Sie verrät mir, was du für dieses\n",
+        "Spiel ausgeliehen hast.\r",
+        "Aha! Ausgeliehen hast du {STRVAR_1 0, 0, 0},\n",
+        "{STRVAR_1 0, 1, 0} und {STRVAR_1 0, 2, 0}.\r",
+        "Eine gute Wahl, muss ich sagen.\n",
+        "Hmmm, so um die {STRVAR_1 51, 3, 0} Prozent?\f",
+        "Oh, vergiss das mit der Prozentzahl!\r",
+        "Gut, legen wir also los!\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00037",
+      "de_DE": [
+        "Distmar: Bieeeeeep!\r",
+        "Mal sehen, was mir meine Datenanalyse-\n",
+        "Maschine über dich verrät.\r",
+        "Was hast du dir denn für\n",
+        "dieses Spiel ausgeliehen?\r",
+        "Aha! Ausgeliehen hast du {STRVAR_1 0, 0, 0},\n",
+        "{STRVAR_1 0, 1, 0} und {STRVAR_1 0, 2, 0}.\r",
+        "Zugegebenermaßen eine gute Wahl.\r",
+        "Freundschaft und Zusammenspiel\n",
+        "in einem umfassenden Paket.\r",
+        "So um die {STRVAR_1 51, 3, 0} Prozent würde ich sagen.\f",
+        "Oh, vergiss das mit der Prozentzahl!\r",
+        "Gut legen wir also los!\n",
+        "Dieses Mal verliere ich nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00038",
+      "de_DE": [
+        "Distmar: Hmm...\n",
+        "Habe wohl eine Niederlage eingefahren.\r",
+        "Verlieren macht mich echt nicht froh.\n",
+        "Trotz allem konnte ich aber einige\f",
+        "nützliche Daten sammeln.\r",
+        "Daher freue ich mich dennoch\n",
+        "über den Kampf gegen dich.\r",
+        "Haben dir denn die ausgeliehenen\n",
+        "Pokémon gefallen?\r",
+        "Mich als Fabrikleiter würde das\n",
+        "sehr fröhlich stimmen.\r",
+        "Leih dir doch beim nächsten Mal\n",
+        "andere Pokémon aus.\r"
+      ]
+    },
+    {
+      "id": "msg_0195_00039",
+      "de_DE": [
+        "Distmar: Hmm...\n",
+        "Wieder mal verloren.\r",
+        "Das gefällt mir ganz und gar nicht.\n",
+        "Ich koche schon vor Wut.\r",
+        "Dabei dachte ich, ich hätte seit meiner\n",
+        "Niederlage etwas über Pokémon gelernt.\r",
+        "Aber das geht schon in Ordnung.\n",
+        "Manche Dinge lernt man durch Gewinnen,\f",
+        "andere wiederum durch Verlieren.\r",
+        "Leih dir bitte weiterhin unsere Pokémon\n",
+        "aus, ich möchte eine Revanche!\r"
+      ]
+    }
+  ]
+}

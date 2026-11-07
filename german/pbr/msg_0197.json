@@ -1,0 +1,373 @@
+{
+  "key": 38210,
+  "messages": [
+    {
+      "id": "msg_0197_00000",
+      "de_DE": "Agiere nächste"
+    },
+    {
+      "id": "msg_0197_00001",
+      "de_DE": "Runde zuerst."
+    },
+    {
+      "id": "msg_0197_00002",
+      "de_DE": "Agiere nächste"
+    },
+    {
+      "id": "msg_0197_00003",
+      "de_DE": "Runde zuletzt."
+    },
+    {
+      "id": "msg_0197_00004",
+      "de_DE": "Jeder doppelte"
+    },
+    {
+      "id": "msg_0197_00005",
+      "de_DE": "Juror: +2."
+    },
+    {
+      "id": "msg_0197_00006",
+      "de_DE": "Wenn Spannung"
+    },
+    {
+      "id": "msg_0197_00007",
+      "de_DE": "steigt: +2."
+    },
+    {
+      "id": "msg_0197_00008",
+      "de_DE": "Basisaktion"
+    },
+    {
+      "id": "msg_0197_00009",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0197_00010",
+      "de_DE": "Wenn kein Juror"
+    },
+    {
+      "id": "msg_0197_00011",
+      "de_DE": "doppelt: +3."
+    },
+    {
+      "id": "msg_0197_00012",
+      "de_DE": "Zwei Runden lang"
+    },
+    {
+      "id": "msg_0197_00013",
+      "de_DE": "anwendbar."
+    },
+    {
+      "id": "msg_0197_00014",
+      "de_DE": "Spannungspunkte"
+    },
+    {
+      "id": "msg_0197_00015",
+      "de_DE": "werden addiert."
+    },
+    {
+      "id": "msg_0197_00016",
+      "de_DE": "Ein Juror für"
+    },
+    {
+      "id": "msg_0197_00017",
+      "de_DE": "alle: +15."
+    },
+    {
+      "id": "msg_0197_00018",
+      "de_DE": "Senkt Spannung"
+    },
+    {
+      "id": "msg_0197_00019",
+      "de_DE": "um 1."
+    },
+    {
+      "id": "msg_0197_00020",
+      "de_DE": "Nächste Runde"
+    },
+    {
+      "id": "msg_0197_00021",
+      "de_DE": "Punkte x2."
+    },
+    {
+      "id": "msg_0197_00022",
+      "de_DE": "Nimmt Spannung"
+    },
+    {
+      "id": "msg_0197_00023",
+      "de_DE": "von Besserem."
+    },
+    {
+      "id": "msg_0197_00024",
+      "de_DE": "1 Runde keine"
+    },
+    {
+      "id": "msg_0197_00025",
+      "de_DE": "Spannung +."
+    },
+    {
+      "id": "msg_0197_00026",
+      "de_DE": "1 Runde zufällige"
+    },
+    {
+      "id": "msg_0197_00027",
+      "de_DE": "Reihenfolge."
+    },
+    {
+      "id": "msg_0197_00028",
+      "de_DE": "Für letzte Att."
+    },
+    {
+      "id": "msg_0197_00029",
+      "de_DE": "Punkte x2."
+    },
+    {
+      "id": "msg_0197_00030",
+      "de_DE": "Spannung niedrig"
+    },
+    {
+      "id": "msg_0197_00031",
+      "de_DE": "= viele Punkte."
+    },
+    {
+      "id": "msg_0197_00032",
+      "de_DE": "Wenn erste"
+    },
+    {
+      "id": "msg_0197_00033",
+      "de_DE": "Attacke: +2."
+    },
+    {
+      "id": "msg_0197_00034",
+      "de_DE": "Wenn letzte"
+    },
+    {
+      "id": "msg_0197_00035",
+      "de_DE": "Attacke: +2."
+    },
+    {
+      "id": "msg_0197_00036",
+      "de_DE": "1 Runde keine"
+    },
+    {
+      "id": "msg_0197_00037",
+      "de_DE": "Spannung -."
+    },
+    {
+      "id": "msg_0197_00038",
+      "de_DE": "Steigt Spannung"
+    },
+    {
+      "id": "msg_0197_00039",
+      "de_DE": "in Folge: +3."
+    },
+    {
+      "id": "msg_0197_00040",
+      "de_DE": "Später Zug"
+    },
+    {
+      "id": "msg_0197_00041",
+      "de_DE": "= viele Punkte."
+    },
+    {
+      "id": "msg_0197_00042",
+      "de_DE": "Wenn Spannung"
+    },
+    {
+      "id": "msg_0197_00043",
+      "de_DE": "max.: +3."
+    },
+    {
+      "id": "msg_0197_00044",
+      "de_DE": "Schlechtester"
+    },
+    {
+      "id": "msg_0197_00045",
+      "de_DE": "= +3."
+    },
+    {
+      "id": "msg_0197_00046",
+      "de_DE": [
+        "Anwender agiert in\n",
+        "der nächsten Runde\n",
+        "als Erster."
+      ]
+    },
+    {
+      "id": "msg_0197_00047",
+      "de_DE": [
+        "Anwender agiert in\n",
+        "der nächsten Runde\n",
+        "als Letzter."
+      ]
+    },
+    {
+      "id": "msg_0197_00048",
+      "de_DE": [
+        "Anwender erhält +2,\n",
+        "wenn der gleiche\n",
+        "Juror gewählt wird."
+      ]
+    },
+    {
+      "id": "msg_0197_00049",
+      "de_DE": [
+        "Anwender erhält +2,\n",
+        "wenn die Spannung\n",
+        "des Jurors steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_00050",
+      "de_DE": [
+        "Anwender verwendet\n",
+        "eine ihm bekannte\n",
+        "Attacke."
+      ]
+    },
+    {
+      "id": "msg_0197_00051",
+      "de_DE": [
+        "Anwender erhält +3,\n",
+        "wenn niemand sonst\n",
+        "den Juror wählt."
+      ]
+    },
+    {
+      "id": "msg_0197_00052",
+      "de_DE": [
+        "Ermöglicht Anwendung\n",
+        "der gleichen Attacke\n",
+        "2x hintereinander."
+      ]
+    },
+    {
+      "id": "msg_0197_00053",
+      "de_DE": [
+        "Erhöhte Spannung\n",
+        "wird zur Punktzahl\n",
+        "addiert."
+      ]
+    },
+    {
+      "id": "msg_0197_00054",
+      "de_DE": [
+        "Anwender erhält +15,\n",
+        "wenn alle den gleichen\n",
+        "Juror wählen."
+      ]
+    },
+    {
+      "id": "msg_0197_00055",
+      "de_DE": [
+        "Senkt die Spannung\n",
+        "aller Juroren\n",
+        "um 1."
+      ]
+    },
+    {
+      "id": "msg_0197_00056",
+      "de_DE": [
+        "Verdoppelt die in der\n",
+        "nächsten Runde\n",
+        "erhaltenen Punkte."
+      ]
+    },
+    {
+      "id": "msg_0197_00057",
+      "de_DE": [
+        "Stiehlt die Spannung\n",
+        "des vorherigen\n",
+        "Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0197_00058",
+      "de_DE": [
+        "In dieser Runde kann\n",
+        "die Spannung nicht\n",
+        "steigen."
+      ]
+    },
+    {
+      "id": "msg_0197_00059",
+      "de_DE": [
+        "Die Reihenfolge in der\n",
+        "nächsten Runde wird\n",
+        "zufällig bestimmt."
+      ]
+    },
+    {
+      "id": "msg_0197_00060",
+      "de_DE": [
+        "Anwender erhält\n",
+        "doppelte Punkte für\n",
+        "letzten Auftritt."
+      ]
+    },
+    {
+      "id": "msg_0197_00061",
+      "de_DE": [
+        "Erhöht die Punkte,\n",
+        "wenn die Spannung\n",
+        "niedrig ist."
+      ]
+    },
+    {
+      "id": "msg_0197_00062",
+      "de_DE": [
+        "Anwender erhält +2,\n",
+        "wenn er als\n",
+        "Erster agiert."
+      ]
+    },
+    {
+      "id": "msg_0197_00063",
+      "de_DE": [
+        "Anwender erhält +2,\n",
+        "wenn er als\n",
+        "Letzter agiert."
+      ]
+    },
+    {
+      "id": "msg_0197_00064",
+      "de_DE": [
+        "In dieser Runde kann\n",
+        "die Spannung nicht\n",
+        "sinken."
+      ]
+    },
+    {
+      "id": "msg_0197_00065",
+      "de_DE": [
+        "Anwender erhält +3,\n",
+        "wenn Spannung 2x\n",
+        "hintereinander steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_00066",
+      "de_DE": [
+        "Je später Anwender\n",
+        "agiert, desto mehr\n",
+        "Punkte erhält er."
+      ]
+    },
+    {
+      "id": "msg_0197_00067",
+      "de_DE": [
+        "Erzielt vorherig. PKMN\n",
+        "max. Spannung, erhält\n",
+        "Anwender +3."
+      ]
+    },
+    {
+      "id": "msg_0197_00068",
+      "de_DE": [
+        "Wenn Anwender die\n",
+        "wenigsten Punkte hat,\n",
+        "erhält er +3."
+      ]
+    }
+  ]
+}

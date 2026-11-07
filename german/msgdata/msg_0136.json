@@ -1,0 +1,135 @@
+{
+  "key": 13443,
+  "messages": [
+    {
+      "id": "msg_0136_00000",
+      "de_DE": [
+        "Hey, du! Höre mir mal kurz zu!\r",
+        "Hier hinten soll demnächst ein\n",
+        "Ort entstehen, der sich sehr\f",
+        "spannend anhört! Eine Safari-Zone!\r",
+        "Da soll es seltene Pokémon in\n",
+        "Hülle und Fülle geben...\f",
+        "Ein regelrechtes Paradies für Trainer!\f",
+        "Damit machen die doch Verluste, oder?\r",
+        "Ich freue mich auch schon wie eine\n",
+        "Schneekönigin auf diese Safari-Zone.\f",
+        "Wann kann man da wohl endlich hin?"
+      ]
+    },
+    {
+      "id": "msg_0136_00001",
+      "de_DE": [
+        "Hey, du! Höre mir mal kurz zu!\r",
+        "Hier hinten gibt es einen\n",
+        "sehr, sehr spannenden Ort!\f",
+        "Die Safari-Zone!\r",
+        "Da soll es seltene Pokémon in\n",
+        "Hülle und Fülle geben...\f",
+        "Ein regelrechtes Paradies für Trainer!\f",
+        "Damit machen die doch Verluste, oder?\r",
+        "Es ist gar nicht weit! Wenn du dort\n",
+        "hochgehst, bist du sofort da!\f",
+        "Na? Schaust du mal vorbei? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0136_00002",
+      "de_DE": [
+        "Wunderbar!\n",
+        "Es ist wirklich nicht weit!\r",
+        "Nimm die Treppen hier und verlasse die\n",
+        "Höhle. Dann bist du schon fast da!"
+      ]
+    },
+    {
+      "id": "msg_0136_00003",
+      "de_DE": "Du hättest es nicht bereut..."
+    },
+    {
+      "id": "msg_0136_00004",
+      "de_DE": [
+        "Na? Schon toll, diese Safari-Zone, was?\r",
+        "Nein, du brauchst gar nichts zu sagen!\n",
+        "Es steht dir förmlich ins Gesicht\f",
+        "geschrieben: “Das war ein Riesenspaß!”"
+      ]
+    },
+    {
+      "id": "msg_0136_00005",
+      "de_DE": [
+        "Oh?\n",
+        "Willst du auch in die Safari-Zone?\r",
+        "Die Bauarbeiten sind noch nicht fertig.\n",
+        "Sei noch ein wenig geduldig!"
+      ]
+    },
+    {
+      "id": "msg_0136_00006",
+      "de_DE": [
+        "Es freut uns ja, dass alle so hohe \n",
+        "Erwartungen an die Safari-Zone haben...\f",
+        "aber die Dame am Empfang tönt ein\f",
+        "bisschen zu laut durch die Gegend!\r",
+        "Setze doch einfach ein gesundes Maß\n",
+        "an Erwartungen in die Safari-Zone, ja?"
+      ]
+    },
+    {
+      "id": "msg_0136_00007",
+      "de_DE": [
+        "Hartwig: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Schön zu sehen, dass es dir gut geht!\r",
+        "Dir hier über den Weg zu laufen,\n",
+        "kann eigentlich nur eins bedeuten...\f",
+        "Du willst zum Felsenherzturm, richtig?\r",
+        "Legenden zufolge wurde der Turm von\n",
+        "den Pokémon errichtet, die einst das\f",
+        "Meer und das Festland erschufen. Er\f",
+        "war einmal echt riesig! Bis über die\f",
+        "Wolken hat er gereicht. Aber inzwischen\f",
+        "liegt er zu einem Großteil in Trümmern.\r"
+      ]
+    },
+    {
+      "id": "msg_0136_00008",
+      "de_DE": [
+        "Hartwig: Der Weg zum Felsenherzturm\n",
+        "ist beschwerlicher, als man denkt!\r",
+        "Neben der Geheimtechnik zum Überqueren\n",
+        "der See wirst du außerdem noch eine\f",
+        "Attacke namens Kraxler benötigen!\r"
+      ]
+    },
+    {
+      "id": "msg_0136_00009",
+      "de_DE": [
+        "Hartwig: So ist das also! Die Kanto-\n",
+        "Arenen hast du also auch gemeistert!\r",
+        "Dann brauche ich mir um dich wohl\n",
+        "wirklich keine Sorgen mehr zu machen!\r",
+        "Folge einfach weiter zielstrebig deinem\n",
+        "Kurs und glaube an deine Wahl!\f",
+        "Mwahaha!\r"
+      ]
+    },
+    {
+      "id": "msg_0136_00010",
+      "de_DE": [
+        "Erlebe wilde Pokémon-Abenteuer,\n",
+        "völlig ohne Stress und Sorgen!\r",
+        "Bald eröffnet die Safari-Zone von\n",
+        "Wärter Baoba ihre Pforten!"
+      ]
+    },
+    {
+      "id": "msg_0136_00011",
+      "de_DE": [
+        "Erlebe wilde Pokémon-Abenteuer,\n",
+        "völlig ohne Stress und Sorgen!\r",
+        "Die allseits beliebte Safari-Zone von\n",
+        "Wärter Baoba wartet auf dich!"
+      ]
+    }
+  ]
+}

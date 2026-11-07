@@ -1,0 +1,620 @@
+{
+  "key": 3393,
+  "messages": [
+    {
+      "id": "msg_0314_00000",
+      "de_DE": "Es scheint ein Problem zu geben..."
+    },
+    {
+      "id": "msg_0314_00001",
+      "de_DE": [
+        "Antwort von {STRVAR_1 3, 1} wird\n",
+        "erwartet..."
+      ]
+    },
+    {
+      "id": "msg_0314_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 1} registriert gerade\n",
+        "Mitglieder. Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0314_00003",
+      "de_DE": "Möchtest du die Gruppe verlassen?"
+    },
+    {
+      "id": "msg_0314_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 1} antwortet\n",
+        "“O.K.”"
+      ]
+    },
+    {
+      "id": "msg_0314_00005",
+      "de_DE": "{STRVAR_1 3, 1} antwortet... “NEIN...”\r"
+    },
+    {
+      "id": "msg_0314_00006",
+      "de_DE": "Du hast die Gruppe verlassen."
+    },
+    {
+      "id": "msg_0314_00007",
+      "garbage": 49
+    },
+    {
+      "id": "msg_0314_00008",
+      "de_DE": "Einzelkampf! Warte auf einen Mitspieler."
+    },
+    {
+      "id": "msg_0314_00009",
+      "de_DE": "Doppelkampf! Warte auf einen Mitspieler."
+    },
+    {
+      "id": "msg_0314_00010",
+      "de_DE": "Multikampf! Warte auf Mitspieler."
+    },
+    {
+      "id": "msg_0314_00011",
+      "de_DE": "Mischkampf! Warte auf einen Mitspieler."
+    },
+    {
+      "id": "msg_0314_00012",
+      "de_DE": [
+        "Wenn die Spieler bereit sind...\n",
+        "A-Knopf: Bestätigen\f",
+        "B-Knopf: Abbruch"
+      ]
+    },
+    {
+      "id": "msg_0314_00013",
+      "de_DE": [
+        "Statistiktausch! Warte auf einen\n",
+        "Mitspieler."
+      ]
+    },
+    {
+      "id": "msg_0314_00014",
+      "de_DE": [
+        "Wenn die Spieler bereit sind...\n",
+        "A-Knopf: Bestätigen\f",
+        "B-Knopf: Abbruch"
+      ]
+    },
+    {
+      "id": "msg_0314_00015",
+      "de_DE": "Duellturm! Warte auf einen Mitspieler."
+    },
+    {
+      "id": "msg_0314_00016",
+      "de_DE": [
+        "{STRVAR_1 3, 1} fragt bei dir nach einem\n",
+        "Pokémon-Tausch. Annehmen?"
+      ]
+    },
+    {
+      "id": "msg_0314_00017",
+      "de_DE": [
+        "{STRVAR_1 3, 1} würde gerne an diesem\n",
+        "Einzelkampf teilnehmen. Akzeptieren?"
+      ]
+    },
+    {
+      "id": "msg_0314_00018",
+      "de_DE": [
+        "{STRVAR_1 3, 1} würde gerne an diesem \n",
+        "Doppelkampf teilnehmen. Akzeptieren?"
+      ]
+    },
+    {
+      "id": "msg_0314_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 1} würde gerne an diesem \n",
+        "Mischkampf teilnehmen. Akzeptieren?"
+      ]
+    },
+    {
+      "id": "msg_0314_00020",
+      "de_DE": [
+        "{STRVAR_1 3, 1} ist bereit.\n",
+        "Als Mitglied aufnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0314_00021",
+      "de_DE": [
+        "{STRVAR_1 3, 1} ist bereit. Duellturm-\n",
+        "Herausforderung annehmen?"
+      ]
+    },
+    {
+      "id": "msg_0314_00022",
+      "de_DE": [
+        "{STRVAR_1 3, 1} ist bereit.\n",
+        "Als Mitglied aufnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0314_00023",
+      "de_DE": "Multikampf! Sind das die Mitglieder?"
+    },
+    {
+      "id": "msg_0314_00024",
+      "de_DE": "Sind das die Mitglieder?"
+    },
+    {
+      "id": "msg_0314_00025",
+      "de_DE": [
+        "Statistiktausch! Sind das die\n",
+        "Mitglieder?"
+      ]
+    },
+    {
+      "id": "msg_0314_00026",
+      "de_DE": "Wettbewerb! Sind das die Mitglieder?"
+    },
+    {
+      "id": "msg_0314_00027",
+      "de_DE": [
+        "Multikampf-Modus mit diesen Mitgliedern\n",
+        "beenden?"
+      ]
+    },
+    {
+      "id": "msg_0314_00028",
+      "de_DE": "Die Kochpartie abbrechen?"
+    },
+    {
+      "id": "msg_0314_00029",
+      "de_DE": [
+        "Statistiktausch-Modus mit diesen\n",
+        "Mitgliedern beenden?"
+      ]
+    },
+    {
+      "id": "msg_0314_00030",
+      "de_DE": [
+        "Wettbewerb-Modus mit diesen Mitgliedern\n",
+        "beenden?"
+      ]
+    },
+    {
+      "id": "msg_0314_00031",
+      "de_DE": [
+        "Wähle den Freund, mit dem du Pokémon\n",
+        "tauschen möchtest."
+      ]
+    },
+    {
+      "id": "msg_0314_00032",
+      "de_DE": [
+        "Wähle den Einzelkampf, an dem du\n",
+        "teilnehmen möchtest."
+      ]
+    },
+    {
+      "id": "msg_0314_00033",
+      "de_DE": [
+        "Wähle den Doppelkampf, an dem du\n",
+        "teilnehmen möchtest."
+      ]
+    },
+    {
+      "id": "msg_0314_00034",
+      "de_DE": [
+        "Wähle den Multikampf, an dem du\n",
+        "teilnehmen möchtest."
+      ]
+    },
+    {
+      "id": "msg_0314_00035",
+      "de_DE": [
+        "Wähle den Mischkampf, an dem du\n",
+        "teilnehmen möchtest."
+      ]
+    },
+    {
+      "id": "msg_0314_00036",
+      "de_DE": "Wähle, mit wem du kochen möchtest."
+    },
+    {
+      "id": "msg_0314_00037",
+      "de_DE": [
+        "Wähle, mit wem du Statistiken tauschen\n",
+        "möchtest."
+      ]
+    },
+    {
+      "id": "msg_0314_00038",
+      "de_DE": [
+        "Wähle, mit wem du einen Wettbewerb\n",
+        "bestreiten willst."
+      ]
+    },
+    {
+      "id": "msg_0314_00039",
+      "de_DE": [
+        "Wähle, mit wem du in den Duellturm gehen\n",
+        "möchtest."
+      ]
+    },
+    {
+      "id": "msg_0314_00040",
+      "de_DE": [
+        "Ein Mitglied ist ausgetreten.\n",
+        "Bitte beginne die Registrierung erneut."
+      ]
+    },
+    {
+      "id": "msg_0314_00041",
+      "de_DE": [
+        "Statistiktausch mit dieser Gruppe wird\n",
+        "abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0314_00042",
+      "de_DE": [
+        "Wettbewerb mit dieser Gruppe wird\n",
+        "abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0314_00043",
+      "de_DE": [
+        "{STRVAR_1 3, 1} wurde “O.K.”\n",
+        "übersandt."
+      ]
+    },
+    {
+      "id": "msg_0314_00044",
+      "de_DE": [
+        "Multikampf! Warte auf weitere\n",
+        "Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00045",
+      "de_DE": "Warte auf weitere Mitglieder!"
+    },
+    {
+      "id": "msg_0314_00046",
+      "de_DE": [
+        "Statistiktausch! Warte auf weitere\n",
+        "Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00047",
+      "de_DE": [
+        "Wettbewerb! Warte auf weitere\n",
+        "Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00048",
+      "de_DE": [
+        "{STRVAR_1 3, 0}\n",
+        "ID: {STRVAR_1 54, 1}"
+      ]
+    },
+    {
+      "id": "msg_0314_00049",
+      "de_DE": "{STRVAR_1 51, 0}: {STRVAR_1 3, 1}"
+    },
+    {
+      "id": "msg_0314_00050",
+      "de_DE": "{STRVAR_1 51, 0}:"
+    },
+    {
+      "id": "msg_0314_00051",
+      "de_DE": "ID: {STRVAR_1 54, 2}"
+    },
+    {
+      "id": "msg_0314_00052",
+      "de_DE": "{STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0314_00053",
+      "de_DE": "Noch {STRVAR_1 50, 0} nötig."
+    },
+    {
+      "id": "msg_0314_00054",
+      "de_DE": "{STRVAR_1 50, 0} Spieler"
+    },
+    {
+      "id": "msg_0314_00055",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0314_00056",
+      "de_DE": "STANDARD"
+    },
+    {
+      "id": "msg_0314_00057",
+      "de_DE": "SCHICK"
+    },
+    {
+      "id": "msg_0314_00058",
+      "de_DE": "KLEIN"
+    },
+    {
+      "id": "msg_0314_00059",
+      "de_DE": "LEICHT"
+    },
+    {
+      "id": "msg_0314_00060",
+      "de_DE": "DOPPEL"
+    },
+    {
+      "id": "msg_0314_00061",
+      "de_DE": "Anzahl Pokémon:"
+    },
+    {
+      "id": "msg_0314_00062",
+      "de_DE": "Pokémon-Level:"
+    },
+    {
+      "id": "msg_0314_00063",
+      "de_DE": "Level gesamt:"
+    },
+    {
+      "id": "msg_0314_00064",
+      "de_DE": "Größe:"
+    },
+    {
+      "id": "msg_0314_00065",
+      "de_DE": "Gewicht:"
+    },
+    {
+      "id": "msg_0314_00066",
+      "de_DE": "Entwickelte Pokémon:"
+    },
+    {
+      "id": "msg_0314_00067",
+      "de_DE": "Spezielle Pokémon:"
+    },
+    {
+      "id": "msg_0314_00068",
+      "de_DE": "Identische Pokémon:"
+    },
+    {
+      "id": "msg_0314_00069",
+      "de_DE": "Identische Items:"
+    },
+    {
+      "id": "msg_0314_00070",
+      "de_DE": "{STRVAR_1 50, 0}"
+    },
+    {
+      "id": "msg_0314_00071",
+      "de_DE": "Max. {STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0314_00072",
+      "de_DE": "Max. {STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0314_00073",
+      "de_DE": "Max. {STRVAR_1 50, 0},{STRVAR_1 50, 1} m"
+    },
+    {
+      "id": "msg_0314_00074",
+      "de_DE": "Min. {STRVAR_1 50, 0},{STRVAR_1 50, 1} m"
+    },
+    {
+      "id": "msg_0314_00075",
+      "de_DE": "Max. {STRVAR_1 51, 0} kg"
+    },
+    {
+      "id": "msg_0314_00076",
+      "de_DE": "Min. {STRVAR_1 51, 0} kg"
+    },
+    {
+      "id": "msg_0314_00077",
+      "de_DE": "Erlaubt"
+    },
+    {
+      "id": "msg_0314_00078",
+      "de_DE": "Verboten"
+    },
+    {
+      "id": "msg_0314_00079",
+      "de_DE": "Erlaubt"
+    },
+    {
+      "id": "msg_0314_00080",
+      "de_DE": "Verboten"
+    },
+    {
+      "id": "msg_0314_00081",
+      "de_DE": "{STRVAR_1 26, 0} Cup"
+    },
+    {
+      "id": "msg_0314_00082",
+      "de_DE": "KEINE EINSCHRÄNK."
+    },
+    {
+      "id": "msg_0314_00083",
+      "de_DE": [
+        "Die Spieler haben verschiedene Regeln\n",
+        "gewählt. Ihr müsst die gleichen wählen."
+      ]
+    },
+    {
+      "id": "msg_0314_00084",
+      "de_DE": [
+        "Coolness-Wettbewerb! Warte auf einen\n",
+        "Mitspieler."
+      ]
+    },
+    {
+      "id": "msg_0314_00085",
+      "de_DE": [
+        "Schönheitswettbewerb! Warte auf einen\n",
+        "Mitspieler."
+      ]
+    },
+    {
+      "id": "msg_0314_00086",
+      "de_DE": [
+        "Anmut-Wettbewerb! Warte auf einen\n",
+        "Mitspieler."
+      ]
+    },
+    {
+      "id": "msg_0314_00087",
+      "de_DE": [
+        "Klugheits-Wettbewerb! Warte auf einen\n",
+        "Mitspieler."
+      ]
+    },
+    {
+      "id": "msg_0314_00088",
+      "de_DE": [
+        "Stärke-Wettbewerb! Warte auf einen\n",
+        "Mitspieler."
+      ]
+    },
+    {
+      "id": "msg_0314_00089",
+      "de_DE": [
+        "Coolness-Wettbewerb! Wähle einen\n",
+        "Leiter."
+      ]
+    },
+    {
+      "id": "msg_0314_00090",
+      "de_DE": [
+        "Schönheitswettbewerb! Wähle einen\n",
+        "Leiter."
+      ]
+    },
+    {
+      "id": "msg_0314_00091",
+      "de_DE": [
+        "Anmut-Wettbewerb! Wähle einen\n",
+        "Leiter."
+      ]
+    },
+    {
+      "id": "msg_0314_00092",
+      "de_DE": [
+        "Klugheits-Wettbewerb! Wähle einen\n",
+        "Leiter."
+      ]
+    },
+    {
+      "id": "msg_0314_00093",
+      "de_DE": [
+        "Stärke-Wettbewerb! Wähle einen\n",
+        "Leiter."
+      ]
+    },
+    {
+      "id": "msg_0314_00094",
+      "de_DE": [
+        "Coolness-Wettbewerb! Warte auf\n",
+        "Verbindung! A-Knopf: Bereit."
+      ]
+    },
+    {
+      "id": "msg_0314_00095",
+      "de_DE": [
+        "Schönheitswettbewerb! Warte auf\n",
+        "Verbindung! A-Knopf: Bereit."
+      ]
+    },
+    {
+      "id": "msg_0314_00096",
+      "de_DE": [
+        "Anmut-Wettbewerb! Warte auf\n",
+        "Verbindung! A-Knopf: Bereit."
+      ]
+    },
+    {
+      "id": "msg_0314_00097",
+      "de_DE": [
+        "Klugheits-Wettbewerb! Warte auf\n",
+        "Verbindung! A-Knopf: Bereit."
+      ]
+    },
+    {
+      "id": "msg_0314_00098",
+      "de_DE": [
+        "Stärke-Wettbewerb! Warte auf\n",
+        "Verbindung! A-Knopf: Bereit."
+      ]
+    },
+    {
+      "id": "msg_0314_00099",
+      "de_DE": [
+        "Coolness-Wettbewerb!\n",
+        "Warte auf weitere Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00100",
+      "de_DE": [
+        "Schönheitswettbewerb!\n",
+        "Warte auf weitere Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00101",
+      "de_DE": [
+        "Anmut-Wettbewerb!\n",
+        "Warte auf weitere Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00102",
+      "de_DE": [
+        "Klugheits-Wettbewerb!\n",
+        "Warte auf weitere Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00103",
+      "de_DE": [
+        "Stärke-Wettbewerb!\n",
+        "Warte auf weitere Mitglieder!"
+      ]
+    },
+    {
+      "id": "msg_0314_00104",
+      "de_DE": [
+        "Der Coolness-Wettbewerb mit diesen\n",
+        "Mitgliedern wird abgesagt."
+      ]
+    },
+    {
+      "id": "msg_0314_00105",
+      "de_DE": [
+        "Der Schönheitswettbewerb mit diesen\n",
+        "Mitgliedern wird abgesagt."
+      ]
+    },
+    {
+      "id": "msg_0314_00106",
+      "de_DE": [
+        "Der Anmut-Wettbewerb mit diesen\n",
+        "Mitgliedern wird abgesagt."
+      ]
+    },
+    {
+      "id": "msg_0314_00107",
+      "de_DE": [
+        "Der Klugheits-Wettbewerb mit diesen\n",
+        "Mitgliedern wird abgesagt."
+      ]
+    },
+    {
+      "id": "msg_0314_00108",
+      "de_DE": [
+        "Der Stärke-Wettbewerb mit diesen\n",
+        "Mitgliedern wird abgesagt."
+      ]
+    }
+  ]
+}

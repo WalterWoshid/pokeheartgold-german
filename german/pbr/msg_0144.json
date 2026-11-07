@@ -1,0 +1,84 @@
+{
+  "key": 9227,
+  "messages": [
+    {
+      "id": "msg_0144_00000",
+      "de_DE": [
+        "Ich habe jetzt erst mal genug\n",
+        "eingekauft.\r",
+        "Jetzt brauche ich was zu trinken."
+      ]
+    },
+    {
+      "id": "msg_0144_00001",
+      "de_DE": [
+        "Seit Jahren kaufe ich hier ein. Ha! Und\n",
+        "jetzt soll ich eine normale Kundin sein?"
+      ]
+    },
+    {
+      "id": "msg_0144_00002",
+      "de_DE": [
+        "Ah, ein junger Pokémon-Trainer...\r",
+        "Ich bin alt und brauche diesen Klett-\n",
+        "dorn nicht mehr. Ich schenke ihn dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0144_00003",
+      "de_DE": [
+        "Ein Pokémon kann den Klettdorn halten.\n",
+        "Wenn es getroffen wird...\r",
+        "Dann heftet sich der Klettdorn an den\n",
+        "Gegner und fügt ihm Schaden zu!"
+      ]
+    },
+    {
+      "id": "msg_0144_00004",
+      "de_DE": [
+        "Zwei starke Jungs stehen hier.\n",
+        "Das ist alles. Wo ist das Problem?"
+      ]
+    },
+    {
+      "id": "msg_0144_00005",
+      "de_DE": [
+        "EG: Alles für den Trainer\r",
+        "1S: Alles für den Kampf\r",
+        "2S: TM\r",
+        "3S: Poképuppen und Deko\r",
+        "4S: Dachterrasse"
+      ]
+    },
+    {
+      "id": "msg_0144_00006",
+      "de_DE": [
+        "Das ist ein Getränkeautomat.\n",
+        "Möchtest du etwas trinken?"
+      ]
+    },
+    {
+      "id": "msg_0144_00007",
+      "de_DE": [
+        "Deng!\r",
+        "{STRVAR_1 8, 0} fällt heraus.\r"
+      ]
+    },
+    {
+      "id": "msg_0144_00008",
+      "de_DE": [
+        "Deng!\r",
+        "Treffer! Eine weitere Dose\n",
+        "{STRVAR_1 8, 0} fällt heraus!\r"
+      ]
+    },
+    {
+      "id": "msg_0144_00009",
+      "de_DE": "Nicht genug Geld..."
+    },
+    {
+      "id": "msg_0144_00010",
+      "de_DE": "Keinen Durst!"
+    }
+  ]
+}

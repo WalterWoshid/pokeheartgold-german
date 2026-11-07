@@ -1,0 +1,43 @@
+{
+  "key": 50210,
+  "messages": [
+    {
+      "id": "msg_0037_00000",
+      "de_DE": [
+        "Ist so ein Pokétch nicht\n",
+        "eine faszinierende Sache?\r",
+        "Ohne Pokétch wäre man als\n",
+        "Trainer doch wirklich verloren!"
+      ]
+    },
+    {
+      "id": "msg_0037_00001",
+      "de_DE": "PIKACHU: Piika pi!"
+    },
+    {
+      "id": "msg_0037_00002",
+      "de_DE": "PACHIRISU: Pachipachii?"
+    },
+    {
+      "id": "msg_0037_00003",
+      "de_DE": [
+        "Oh, dein Pokémon ist wirklich reizend!\r",
+        "Hier, lass es diese {STRVAR_1 8, 0}\n",
+        "halten.\r"
+      ]
+    },
+    {
+      "id": "msg_0037_00004",
+      "de_DE": [
+        "Ein Pokémon, das die Flinkklaue trägt,\n",
+        "steigert seine Schnelligkeit und greift\f",
+        "eventuell schneller an als sein Gegner.\r",
+        "Es gibt noch weitere Items, die nur\n",
+        "dann eine Wirkung zeigen, wenn sie\f",
+        "von einem Pokémon gehalten werden.\r",
+        "Das solltest du mal ausprobieren.\n",
+        "...Äh... Ich klinge wie ein Lehrer, was?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "key": 24307,
+  "messages": [
+    {
+      "id": "msg_0446_00000",
+      "de_DE": [
+        "Dr. Schrittritt: Für mich ist es sehr\n",
+        "einfach, Pokémon zu lesen.\r",
+        "Ich muss mir nur ihre Fußabdrücke\n",
+        "ansehen und ich kann ihre\f",
+        "innersten Gedanken erkennen!\r",
+        "Oh?\n",
+        "Du glaubst mir nicht?!?\r",
+        "Nun, dann lass dein {STRVAR_1 0, 0} doch\n",
+        "einmal vor mir herlaufen.\r",
+        "Aus seinen Fußspuren werde ich lesen\n",
+        "können, was es für dich empfindet.\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00001",
+      "de_DE": [
+        "Dr. Schrittritt: Möchtest du die Gefühle\n",
+        "deines Pokémon noch einmal prüfen?\r",
+        "Dann lass dein {STRVAR_1 0, 0} doch\n",
+        "genau hier vor mir herlaufen.\r",
+        "Und aus den Spuren, die es hinterlässt,\n",
+        "werde ich lesen, wie es zu dir steht.\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00002",
+      "de_DE": [
+        "Dr. Schrittritt: ...Und das denkt dein\n",
+        "{STRVAR_1 0, 0} über dich."
+      ]
+    },
+    {
+      "id": "msg_0446_00003",
+      "de_DE": [
+        "Dr. Schrittritt: ...Hmm... {STRVAR_1 0, 0} \n",
+        "hat gar keine Fußspuren hinterlassen.\r",
+        "Da ist es natürlich sehr schwierig für\n",
+        "mich, seine Gedanken zu erkennen."
+      ]
+    },
+    {
+      "id": "msg_0446_00004",
+      "de_DE": [
+        "Dr. Schrittritt: ...Hmm... {STRVAR_1 0, 0}\n",
+        "ist ein eher schweigsamer Typ!"
+      ]
+    },
+    {
+      "id": "msg_0446_00005",
+      "de_DE": [
+        "Dr. Schrittritt: ...Und das denkt dein\n",
+        "{STRVAR_1 0, 0} über dich.\r",
+        "Ich muss sagen, dein {STRVAR_1 0, 0} und\n",
+        "du, ihr steht euch wirklich sehr nahe.\f",
+        "Hier, das schenke ich dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00006",
+      "de_DE": [
+        "Dr. Schrittritt: ...Hmm... {STRVAR_1 0, 0} \n",
+        "hat gar keine Fußspuren hinterlassen.\r",
+        "Da ist es natürlich sehr schwierig für\n",
+        "mich, seine Gedanken zu erkennen.\r",
+        "Aber ich kann sagen, dein {STRVAR_1 0, 0} \n",
+        "und du, ihr steht euch wirklich sehr\f",
+        "nahe. Hier, das schenke ich dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00007",
+      "de_DE": [
+        "Dr. Schrittritt: ...Hmm... {STRVAR_1 0, 0}\n",
+        "ist ein eher schweigsamer Typ!\r",
+        "Aber ich kann sagen, dein {STRVAR_1 0, 0} \n",
+        "und du, ihr steht euch wirklich sehr\f",
+        "nahe. Hier, das schenke ich dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 1} erhält das\n",
+        "Fußabdruck-Band.\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 1} steckt {STRVAR_1 0, 0}\n",
+        "das Fußabdruck-Band an."
+      ]
+    },
+    {
+      "id": "msg_0446_00010",
+      "de_DE": [
+        "Es denkt: “Ooh... {STRVAR_1 3, 1} spielt\n",
+        "nur mit anderen Pokémon...”\r",
+        "{STRVAR_1 1, 2} fühlt sich\n",
+        "ausgeschlossen...\r",
+        "Vielleicht mag {STRVAR_1 3, 1} \n",
+        "{STRVAR_1 1, 2} nicht so sehr?\r",
+        "{STRVAR_1 1, 2} wird sich für\n",
+        "{STRVAR_1 3, 1} noch mehr anstrengen.\r",
+        "Es sagt: “Bitte, sei netter zu mir!”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00011",
+      "de_DE": [
+        "Manche sagen, es gäbe Menschen,\n",
+        "die nicht sehr nett zu Pokémon seien.\r",
+        "Ich frage mich, wie {STRVAR_1 3, 1} zu\n",
+        "Pokémon ist...\r",
+        "Wird {STRVAR_1 3, 1} sich gut um\n",
+        "{STRVAR_1 1, 2} kümmern?\r",
+        "Kommt man gut mit diesem\n",
+        "Trainer aus?\r",
+        "Es fragt: “Können wir... \n",
+        "Freunde werden?”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00012",
+      "de_DE": [
+        "Es denkt: “Diese Abenteuerreise mit\n",
+        "{STRVAR_1 3, 1} macht sehr viel Spaß.”\r",
+        "{STRVAR_1 1, 2} sieht so Orte, zu denen\n",
+        "es allein nie gehen könnte.\r",
+        "Und es kann gegen Pokémon kämpfen,\n",
+        "die es nie zuvor gesehen hat.\r",
+        "Es sagt: “Für {STRVAR_1 3, 1} werde ich\n",
+        "stärker und stärker werden!”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00013",
+      "de_DE": [
+        "{STRVAR_1 1, 2} und {STRVAR_1 3, 1} bilden\n",
+        "ein absolutes Traumpaar!\r",
+        "{STRVAR_1 1, 2} meint: “Ich habe bisher\n",
+        "schon viele Menschen getroffen...\r",
+        "Aber {STRVAR_1 3, 1} versteht mich\n",
+        "am besten!\r",
+        "Ich könnte übrigens etwas zu\n",
+        "essen vertragen...\f",
+        "Aber das weißt du, nicht wahr?”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00014",
+      "de_DE": [
+        "Wenn ich sagen würde, dass eine tiefe\n",
+        "Freundschaft zwischen Mensch und\r",
+        "Pokémon möglich ist, würden die Freunde\n",
+        "von {STRVAR_1 0, 0} das verstehen?\r",
+        "Aber wenn sie dann {STRVAR_1 3, 1} und\n",
+        "{STRVAR_1 1, 2} zusammen sehen würden,\f",
+        "würden sie verstehen.\r",
+        "Denn {STRVAR_1 3, 1} und {STRVAR_1 1, 2}\n",
+        "sind Freunde!\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00015",
+      "de_DE": [
+        "{STRVAR_1 1, 2} langweilt sich...\n",
+        "Es sagt: “Du musst viel mehr mit\f",
+        "mir spielen...”\r",
+        "{STRVAR_1 1, 2} und {STRVAR_1 3, 1},\n",
+        "ihr solltet eure Freizeit teilen...\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00016",
+      "de_DE": [
+        "Es sagt: “Mit {STRVAR_1 3, 1} würde ich\n",
+        "überallhin gehen...”\r",
+        "Also sei nett zu {STRVAR_1 1, 2}...\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00017",
+      "de_DE": [
+        "Es denkt: “Ich, {STRVAR_1 1, 2}, werde\n",
+        "stark werden, so dass {STRVAR_1 3, 1}\f",
+        "stolz auf mich sein kann.”\r",
+        "Runde, eckige, dreieckige...\r",
+        "{STRVAR_1 1, 2} möchte all die\n",
+        "verschiedenen Pokémon sehen,\f",
+        "die es gibt...\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00018",
+      "de_DE": [
+        "{STRVAR_1 1, 2} und {STRVAR_1 3, 1}\n",
+        "sind in Freundschaft verbunden.\r",
+        "{STRVAR_1 1, 2} versteht die Gefühle\n",
+        "von {STRVAR_1 3, 1}.\r",
+        "{STRVAR_1 3, 1} versteht die Gefühle\n",
+        "von {STRVAR_1 1, 2}.\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00019",
+      "de_DE": [
+        "{STRVAR_1 1, 2} ist sehr stolz auf\n",
+        "{STRVAR_1 3, 1}!\r",
+        "{STRVAR_1 0, 0} gibt vor Freunden\n",
+        "mit {STRVAR_1 3, 1} an!\r",
+        "{STRVAR_1 3, 1} und {STRVAR_1 1, 2} sind\n",
+        "die besten Freunde!\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00020",
+      "de_DE": [
+        "Es denkt: “Warum setzt {STRVAR_1 3, 1} \n",
+        "immer nur andere Pokémon ein, nie mich?\r",
+        "Werde ich nicht gebraucht?\r",
+        "Wäre ich besser in der Wildnis\n",
+        "geblieben?\r",
+        "Nein! Ich sollte diesem Trainer\n",
+        "auch weiterhin eine Chance geben...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00021",
+      "de_DE": [
+        "Es denkt: “Menschen können unsere\n",
+        "Rufe nicht verstehen, auch nicht unsere\f",
+        "Gefühle.\r",
+        "Aber unter uns gibt es einige, die die\n",
+        "menschliche Sprache verstehen!\r",
+        "Hahaha, {STRVAR_1 3, 1}, für einen\n",
+        "Menschen bist du gar nicht mal so übel.”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00022",
+      "de_DE": [
+        "Es denkt: “Wenn ein Pokémon allein\n",
+        "reist, kann es nicht überallhin gehen.\r",
+        "Aber wenn es mit einem Menschen reist,\n",
+        "dann sieht es sehr viel von der Welt.\r",
+        "Mit {STRVAR_1 3, 1} zu reisen ist absolut\n",
+        "lohnenswert und gibt einem ein\f",
+        "beruhigendes Gefühl.\r",
+        "Und es ist immer unterhaltsam...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00023",
+      "de_DE": [
+        "Es denkt: “Einige wilde Pokémon blicken\n",
+        "auf uns, die mit Menschen reisen, hinab.\r",
+        "Sie sagen, gefangene Pokémon hätten\n",
+        "‘die Wildnis vergessen’.\r",
+        "Aber da irren sie sich.\r",
+        "Sie haben niemals einen Trainer\n",
+        "getroffen, der ihnen ein guter\f",
+        "Freund ist.\r",
+        "Einen Freund wie {STRVAR_1 3, 1}...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00024",
+      "de_DE": [
+        "Es denkt: “{STRVAR_1 3, 1} ist...\n",
+        "Ein bemerkenswerter Mensch und\f",
+        "Trainer.\r",
+        "Dass ich in der Lage bin, das Beste,\n",
+        "was ein {STRVAR_1 0, 0} geben kann, zu\f",
+        "geben...\r",
+        "Verdanke ich allein meinem Freund\n",
+        "und Partner {STRVAR_1 3, 1}.\r",
+        "Auf unserer Reise sehe ich oft wilde\n",
+        "Pokémon, die uns mit neidischen\f",
+        "Blicken betrachten...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00025",
+      "de_DE": [
+        "Es denkt: “Wird {STRVAR_1 3, 1} mich auch\n",
+        "weiterhin ignorieren?!?\r",
+        "Bitte gib mir die Gelegenheit,\n",
+        "mit meinem Können zu glänzen...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00026",
+      "de_DE": [
+        "Es denkt: “Wird ein Pokémon wie ein\n",
+        "Freund behandelt, erwidert es\f",
+        "die Freundschaft.\r",
+        "Wir stehen den Menschen nahe, die\n",
+        "gut zu uns sind und uns mögen...\r",
+        "Ob {STRVAR_1 3, 1} mich, {STRVAR_1 1, 2},\n",
+        "überhaupt mag?”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00027",
+      "de_DE": [
+        "Es denkt: “Bin ich, {STRVAR_1 1, 2},\n",
+        "stärker geworden?\r",
+        "Wem habe ich das zu verdanken?\n",
+        "{STRVAR_1 3, 1}?\r",
+        "Ist das der Trainer, dem mein\n",
+        "Dank gebührt?”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00028",
+      "de_DE": [
+        "Es denkt: “{STRVAR_1 3, 1} und ich,\n",
+        "{STRVAR_1 1, 2}, sind uns in manchen\f",
+        "Dingen sehr ähnlich.\r",
+        "Ein Mensch würde sagen, wir passen\n",
+        "perfekt zusammen.\r",
+        "Ob {STRVAR_1 3, 1} auch so denkt?!?”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00029",
+      "de_DE": [
+        "Es denkt: “{STRVAR_1 3, 1} ist sehr\n",
+        "beeindruckend, besonders für\f",
+        "einen Menschen.\r",
+        "Ich, {STRVAR_1 1, 2}, bin dank dieses\n",
+        "Trainers in der Lage, meine ganze\f",
+        "Stärke perfekt einzusetzen.\r",
+        "Es ist eine Schande, dass {STRVAR_1 3, 1} \n",
+        "nur ein Mensch ist...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00030",
+      "de_DE": [
+        "Es denkt: “Was denkt sich\n",
+        "{STRVAR_1 3, 1} nur?\r",
+        "Warum bin ich im Team dieses\n",
+        "Trainers, wenn ich nicht zeigen\f",
+        "darf, was ich kann?!?\r",
+        "Bin ich etwa nicht gut genug?!?\n",
+        "Bereut es der Trainer, mich\f",
+        "dabei zu haben?\r",
+        "Oder mag der Trainer mich\n",
+        "vielleicht nicht?”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00031",
+      "de_DE": [
+        "Es denkt: “Ich verstehe {STRVAR_1 3, 1} \n",
+        "als Menschen kaum...\r",
+        "{STRVAR_1 3, 1} ist wohl kein schlechter\n",
+        "Mensch, da ich, {STRVAR_1 0, 0}, in seinem\f",
+        "Team sein darf.\r",
+        "Denn normalerweise gehen die\n",
+        "Menschen mir aus dem Weg.\r",
+        "Allerdings werde ich deswegen nicht\n",
+        "fröhlich gegenüber {STRVAR_1 3, 1} sein.”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00032",
+      "de_DE": [
+        "Es denkt: “Normalerweise lauert meine\n",
+        "Art in dunklen und feuchten Ecken.\r",
+        "Aber wenn ich mit {STRVAR_1 3, 1} zusammen\n",
+        "bin, dann sind belebte, helle Orte\f",
+        "weniger Schrecken erregend für mich...\r",
+        "{STRVAR_1 3, 1} hat schon eine eigenartige\n",
+        "Ausstrahlung...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00033",
+      "de_DE": [
+        "Es denkt: “Niemals im Leben hätte ich\n",
+        "gedacht, dass ich irgendwann einmal mit\f",
+        "einem Menschen zusammen reisen würde.\r",
+        "Wenn meine {STRVAR_1 0, 0}-Freunde mich\n",
+        "so sehen würden, wären sie vermutlich\f",
+        "erstaunt und schockiert.\r",
+        "Oder aber auch neidisch...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00034",
+      "de_DE": [
+        "Es denkt: “{STRVAR_1 3, 1} ist der\n",
+        "eindrucksvollste Mensch, den ich je\f",
+        "getroffen habe.\r",
+        "Es ist schwer, mich, {STRVAR_1 1, 2}, in\n",
+        "eine strahlend gute Laune zu bringen.\r",
+        "Vielleicht sollte ich dem Trainer meine\n",
+        "Zuneigung zeigen, indem ich kräftig in\f",
+        "seinen Nacken beiße!\r",
+        "Hahahaha... Keine Bange...\n",
+        "Ich mache nur Spaß... Hahahaha...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00035",
+      "de_DE": [
+        "Es denkt: “Uaaaahaaa...\n",
+        "Ich, {STRVAR_1 1, 2}, habe nichts zu tun!\r",
+        "Wenn ich mich weiterhin so langweile,\n",
+        "schleiche ich mich an den Trainer heran\f",
+        "und beiße zu...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00036",
+      "de_DE": [
+        "Es denkt: “Gibt es wirklich einen\n",
+        "Menschen, der uns {STRVAR_1 0, 0} mag?\r",
+        "Nun? Mag {STRVAR_1 3, 1} mich,\n",
+        "{STRVAR_1 1, 2}?\r",
+        "{STRVAR_1 1, 2} mag nicht...\n",
+        "Nein, wahrscheinlich nicht...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00037",
+      "de_DE": [
+        "Es denkt: “{STRVAR_1 3, 1} behandelt\n",
+        "mich, {STRVAR_1 1, 2}, sehr nett - ohne\f",
+        "Angst vor mir zu haben.\r",
+        "Aber ich, {STRVAR_1 1, 2}, werde ab sofort\n",
+        "noch Furcht erregender sein.\r",
+        "Schließlich bin ich ein {STRVAR_1 0, 0}...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00038",
+      "de_DE": [
+        "Es denkt: “Ich, {STRVAR_1 1, 2}, vergesse\n",
+        "langsam, wie es in der freien Wildnis war.\r",
+        "Aber das macht mich nicht traurig.\n",
+        "Denn mit {STRVAR_1 3, 1} ist es niemals\f",
+        "langweilig!”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00039",
+      "de_DE": [
+        "Es denkt: “Es gibt keine Pokémon, die\n",
+        "Menschen nicht mögen...\r",
+        "Nur Menschen, die Pokémon nicht mögen.\r",
+        "Wir {STRVAR_1 0, 0} werden von den\n",
+        "Menschen besonders abgelehnt.\r",
+        "Aber {STRVAR_1 3, 1} behandelt mich\n",
+        "immer wie einen Freund und Partner!”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00040",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Hah?\n",
+        "Wie? Wo? Was?\r",
+        "Dies ist das Haus von {STRVAR_1 3, 1}?!?\n",
+        "Ach, nicht?!? Hnarrr...\r",
+        "Kann ich wieder in meinen Ball\n",
+        "zurück oder werde ich noch gebraucht?\r",
+        "Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00041",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Ich? Ähm...\n",
+        "Ich schlafe sehr gerne.\r",
+        "Ach, und ich liebe es, zu essen! Ja!\n",
+        "Aber meine Lieblingsbeschäftigung\r",
+        "ist das Nachdenken. Ich denke\n",
+        "immer sehr viel und fest nach.\r",
+        "Wenn ich an die Zukunft von uns\n",
+        "{STRVAR_1 0, 0} denke...\r",
+        "...Hnarrr... ratzepüh...\r",
+        "OH! Ich vergesse dabei doch\n",
+        "glatt die Zeit. Hnarrrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00042",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Ich? Ähm...\n",
+        "Es gibt so viele Attacken.\r",
+        "Ich mag Unlicht-Attacken!\n",
+        "Oh, und Drachen-Attacken...\r",
+        "Ob ich, ein {STRVAR_1 0, 0}, die wohl\n",
+        "lernen kann?!? Ja, kann ich?!?\r",
+        "Oder doch eher nicht?!?\n",
+        "Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00043",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Ich weiß nicht,\n",
+        "wie ich es sagen soll...\r",
+        "Bevor ich {STRVAR_1 3, 1} getroffen habe,\n",
+        "habe ich ruhig vor mich hingelebt. Sssh.\r",
+        "Aber mir macht es Spaß mit \n",
+        "{STRVAR_1 3, 1} zu reisen.\r",
+        "Ich denke, ich bin verrückter\n",
+        "geworden. Meinst du nicht?\r",
+        "Nicht? Nicht verrückt und flippig?\n",
+        "Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00044",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Ich? Ähm...\n",
+        "Andere Pokémon sagen mir immer...\r",
+        "‘Du setzt niemals deinen Kopf ein.’\n",
+        "Wie können sie mich nur so beleidigen?\r",
+        "Und das stimmt überhaupt nicht!\n",
+        "Denken, denken, denken, das tue ich.\r",
+        "Ich denke immer darüber nach, wie\n",
+        "ich {STRVAR_1 3, 1} helfen kann.\f",
+        "Ganz konzentriert!\r",
+        "Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00045",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Ich weiß\n",
+        "das nicht? Weiß ich wirklich nicht? Was\f",
+        "soll das? Ich weiß nicht, was ich denke.\f",
+        "Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00046",
+      "de_DE": [
+        "Es denkt: “Hnarr... Nun, ich...\n",
+        "Ich denke, ich bin motiviert.\f",
+        "So motiviert wie alle anderen auch.\f",
+        "Aber so einfach ist es dann auch\f",
+        "wieder nicht. Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00047",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Wie soll ich sagen?\n",
+        "Wir passen aufeinander auf.\f",
+        "Zumindest versuchen wir das, denke ich.\f",
+        "Und das ist das Beste.\f",
+        "Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00048",
+      "de_DE": [
+        "Es denkt: “Hnarrr... Wie sage ich das\n",
+        "jetzt? Wie soll ich uns beschreiben?\r",
+        "Wir sind wie eine Einheit,\n",
+        "{STRVAR_1 3, 1} und ich.\f",
+        "Hnarrr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00049",
+      "de_DE": [
+        "Es denkt: “Hnarrr...\n",
+        "Was soll man da noch sagen?\r",
+        "Wir sind so weit gekommen, da werden\n",
+        "wir jetzt nicht umkehren.\r",
+        "Ruhmeshalle...\n",
+        "Welch süße Worte...\r",
+        "Hnarr...”\r"
+      ]
+    },
+    {
+      "id": "msg_0446_00050",
+      "de_DE": [
+        "Sssshhnnn...\n",
+        "...\f",
+        "...Ssshhhnnn...\f",
+        "...\f",
+        "Ssshhhnnn...\f",
+        "...\r"
+      ]
+    }
+  ]
+}

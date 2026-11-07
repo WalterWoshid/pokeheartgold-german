@@ -1,0 +1,19 @@
+{
+  "key": 37072,
+  "messages": [
+    {
+      "id": "msg_0327_00000",
+      "de_DE": [
+        "ALLE GLÜCKLICH\n",
+        "Wi-Fi CONNECTION"
+      ]
+    },
+    {
+      "id": "msg_0327_00001",
+      "de_DE": [
+        "{STRVAR_1 28, 0} {STRVAR_1 28, 1}\n",
+        "{STRVAR_1 28, 2} {STRVAR_1 28, 3}"
+      ]
+    }
+  ]
+}

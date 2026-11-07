@@ -1,0 +1,945 @@
+{
+  "key": 2566,
+  "messages": [
+    {
+      "id": "msg_0279_00000",
+      "de_DE": "Mysteriöser Ort"
+    },
+    {
+      "id": "msg_0279_00001",
+      "de_DE": "Zweiblattdorf"
+    },
+    {
+      "id": "msg_0279_00002",
+      "de_DE": "Sandgemme"
+    },
+    {
+      "id": "msg_0279_00003",
+      "de_DE": "Flori"
+    },
+    {
+      "id": "msg_0279_00004",
+      "de_DE": "Trostu"
+    },
+    {
+      "id": "msg_0279_00005",
+      "de_DE": "Elyses"
+    },
+    {
+      "id": "msg_0279_00006",
+      "de_DE": "Jubelstadt"
+    },
+    {
+      "id": "msg_0279_00007",
+      "de_DE": "Fleetburg"
+    },
+    {
+      "id": "msg_0279_00008",
+      "de_DE": "Erzelingen"
+    },
+    {
+      "id": "msg_0279_00009",
+      "de_DE": "Ewigenau"
+    },
+    {
+      "id": "msg_0279_00010",
+      "de_DE": "Herzhofen"
+    },
+    {
+      "id": "msg_0279_00011",
+      "de_DE": "Weideburg"
+    },
+    {
+      "id": "msg_0279_00012",
+      "de_DE": "Schleiede"
+    },
+    {
+      "id": "msg_0279_00013",
+      "de_DE": "Sonnewik"
+    },
+    {
+      "id": "msg_0279_00014",
+      "de_DE": "Blizzach"
+    },
+    {
+      "id": "msg_0279_00015",
+      "de_DE": "Pokémon Liga"
+    },
+    {
+      "id": "msg_0279_00016",
+      "de_DE": "Route 201"
+    },
+    {
+      "id": "msg_0279_00017",
+      "de_DE": "Route 202"
+    },
+    {
+      "id": "msg_0279_00018",
+      "de_DE": "Route 203"
+    },
+    {
+      "id": "msg_0279_00019",
+      "de_DE": "Route 204"
+    },
+    {
+      "id": "msg_0279_00020",
+      "de_DE": "Route 205"
+    },
+    {
+      "id": "msg_0279_00021",
+      "de_DE": "Route 206"
+    },
+    {
+      "id": "msg_0279_00022",
+      "de_DE": "Route 207"
+    },
+    {
+      "id": "msg_0279_00023",
+      "de_DE": "Route 208"
+    },
+    {
+      "id": "msg_0279_00024",
+      "de_DE": "Route 209"
+    },
+    {
+      "id": "msg_0279_00025",
+      "de_DE": "Route 210"
+    },
+    {
+      "id": "msg_0279_00026",
+      "de_DE": "Route 211"
+    },
+    {
+      "id": "msg_0279_00027",
+      "de_DE": "Route 212"
+    },
+    {
+      "id": "msg_0279_00028",
+      "de_DE": "Route 213"
+    },
+    {
+      "id": "msg_0279_00029",
+      "de_DE": "Route 214"
+    },
+    {
+      "id": "msg_0279_00030",
+      "de_DE": "Route 215"
+    },
+    {
+      "id": "msg_0279_00031",
+      "de_DE": "Route 216"
+    },
+    {
+      "id": "msg_0279_00032",
+      "de_DE": "Route 217"
+    },
+    {
+      "id": "msg_0279_00033",
+      "de_DE": "Route 218"
+    },
+    {
+      "id": "msg_0279_00034",
+      "de_DE": "Route 219"
+    },
+    {
+      "id": "msg_0279_00035",
+      "de_DE": "Route 220"
+    },
+    {
+      "id": "msg_0279_00036",
+      "de_DE": "Route 221"
+    },
+    {
+      "id": "msg_0279_00037",
+      "de_DE": "Route 222"
+    },
+    {
+      "id": "msg_0279_00038",
+      "de_DE": "Route 223"
+    },
+    {
+      "id": "msg_0279_00039",
+      "de_DE": "Route 224"
+    },
+    {
+      "id": "msg_0279_00040",
+      "de_DE": "Route 225"
+    },
+    {
+      "id": "msg_0279_00041",
+      "de_DE": "Route 226"
+    },
+    {
+      "id": "msg_0279_00042",
+      "de_DE": "Route 227"
+    },
+    {
+      "id": "msg_0279_00043",
+      "de_DE": "Route 228"
+    },
+    {
+      "id": "msg_0279_00044",
+      "de_DE": "Route 229"
+    },
+    {
+      "id": "msg_0279_00045",
+      "de_DE": "Route 230"
+    },
+    {
+      "id": "msg_0279_00046",
+      "de_DE": "Erzelingen-Mine"
+    },
+    {
+      "id": "msg_0279_00047",
+      "de_DE": "Windkraftwerk"
+    },
+    {
+      "id": "msg_0279_00048",
+      "de_DE": "Ewigwald"
+    },
+    {
+      "id": "msg_0279_00049",
+      "de_DE": "Feuriohütte"
+    },
+    {
+      "id": "msg_0279_00050",
+      "de_DE": "Kraterberg"
+    },
+    {
+      "id": "msg_0279_00051",
+      "de_DE": "Speersäule"
+    },
+    {
+      "id": "msg_0279_00052",
+      "de_DE": "Großmoor"
+    },
+    {
+      "id": "msg_0279_00053",
+      "de_DE": "Trostu-Ruinen"
+    },
+    {
+      "id": "msg_0279_00054",
+      "de_DE": "Siegesstraße"
+    },
+    {
+      "id": "msg_0279_00055",
+      "de_DE": "Park der Freunde"
+    },
+    {
+      "id": "msg_0279_00056",
+      "de_DE": "Platz der Treue"
+    },
+    {
+      "id": "msg_0279_00057",
+      "de_DE": "Verwüsteter Pfad"
+    },
+    {
+      "id": "msg_0279_00058",
+      "de_DE": "Auen von Flori"
+    },
+    {
+      "id": "msg_0279_00059",
+      "de_DE": "Erzelingen-Tor"
+    },
+    {
+      "id": "msg_0279_00060",
+      "de_DE": "Vollmond-Insel"
+    },
+    {
+      "id": "msg_0279_00061",
+      "de_DE": "Scheidequelle"
+    },
+    {
+      "id": "msg_0279_00062",
+      "de_DE": "Höhle der Umkehr"
+    },
+    {
+      "id": "msg_0279_00063",
+      "de_DE": "Blumenparadies"
+    },
+    {
+      "id": "msg_0279_00064",
+      "de_DE": "Blizzach-Tempel"
+    },
+    {
+      "id": "msg_0279_00065",
+      "de_DE": "Bizarre Höhle"
+    },
+    {
+      "id": "msg_0279_00066",
+      "de_DE": "Maniac-Höhle"
+    },
+    {
+      "id": "msg_0279_00067",
+      "de_DE": "Maniac-Tunnel"
+    },
+    {
+      "id": "msg_0279_00068",
+      "de_DE": "Trophäengarten"
+    },
+    {
+      "id": "msg_0279_00069",
+      "de_DE": "Eiseninsel"
+    },
+    {
+      "id": "msg_0279_00070",
+      "de_DE": "Alte Villa"
+    },
+    {
+      "id": "msg_0279_00071",
+      "de_DE": "Galakti-Zentrale"
+    },
+    {
+      "id": "msg_0279_00072",
+      "de_DE": "Wahrheitsufer"
+    },
+    {
+      "id": "msg_0279_00073",
+      "de_DE": "Kühnheitsufer"
+    },
+    {
+      "id": "msg_0279_00074",
+      "de_DE": "Stärkeufer"
+    },
+    {
+      "id": "msg_0279_00075",
+      "de_DE": "Frühlingspfad"
+    },
+    {
+      "id": "msg_0279_00076",
+      "de_DE": "See der Wahrheit"
+    },
+    {
+      "id": "msg_0279_00077",
+      "de_DE": "See der Kühnheit"
+    },
+    {
+      "id": "msg_0279_00078",
+      "de_DE": "See der Stärke"
+    },
+    {
+      "id": "msg_0279_00079",
+      "de_DE": "Neumond-Insel"
+    },
+    {
+      "id": "msg_0279_00080",
+      "de_DE": "Duellturm"
+    },
+    {
+      "id": "msg_0279_00081",
+      "de_DE": "Kampfareal"
+    },
+    {
+      "id": "msg_0279_00082",
+      "de_DE": "Überlebensareal"
+    },
+    {
+      "id": "msg_0279_00083",
+      "de_DE": "Erholungsgebiet"
+    },
+    {
+      "id": "msg_0279_00084",
+      "de_DE": "Kahlberg"
+    },
+    {
+      "id": "msg_0279_00085",
+      "de_DE": "Buhnen-Pfad"
+    },
+    {
+      "id": "msg_0279_00086",
+      "de_DE": "Halle d. Beginns"
+    },
+    {
+      "id": "msg_0279_00087",
+      "de_DE": "Wahrheitsgrotte"
+    },
+    {
+      "id": "msg_0279_00088",
+      "de_DE": "Kühnheitsgrotte"
+    },
+    {
+      "id": "msg_0279_00089",
+      "de_DE": "Stärkegrotte"
+    },
+    {
+      "id": "msg_0279_00090",
+      "de_DE": "Jubelstadt TV"
+    },
+    {
+      "id": "msg_0279_00091",
+      "de_DE": "Pokétch Ges."
+    },
+    {
+      "id": "msg_0279_00092",
+      "de_DE": "GTS"
+    },
+    {
+      "id": "msg_0279_00093",
+      "de_DE": "Trainerschule"
+    },
+    {
+      "id": "msg_0279_00094",
+      "de_DE": "Bergbaumuseum"
+    },
+    {
+      "id": "msg_0279_00095",
+      "de_DE": "Blumenladen"
+    },
+    {
+      "id": "msg_0279_00096",
+      "de_DE": "Fahrradladen"
+    },
+    {
+      "id": "msg_0279_00097",
+      "de_DE": "Wettbewerbshalle"
+    },
+    {
+      "id": "msg_0279_00098",
+      "de_DE": "Knursperei"
+    },
+    {
+      "id": "msg_0279_00099",
+      "de_DE": "Begegnungsstätte"
+    },
+    {
+      "id": "msg_0279_00100",
+      "de_DE": "Pokémon-Pension"
+    },
+    {
+      "id": "msg_0279_00101",
+      "de_DE": "Schleiede-Kaufh."
+    },
+    {
+      "id": "msg_0279_00102",
+      "de_DE": "Spielhalle"
+    },
+    {
+      "id": "msg_0279_00103",
+      "de_DE": "Fleetburg-Bibl."
+    },
+    {
+      "id": "msg_0279_00104",
+      "de_DE": "Leuchtturm"
+    },
+    {
+      "id": "msg_0279_00105",
+      "de_DE": "Sonnewik-Markt"
+    },
+    {
+      "id": "msg_0279_00106",
+      "de_DE": "PKMN-Landgut"
+    },
+    {
+      "id": "msg_0279_00107",
+      "de_DE": "Schrittritt-Haus"
+    },
+    {
+      "id": "msg_0279_00108",
+      "de_DE": "Café"
+    },
+    {
+      "id": "msg_0279_00109",
+      "de_DE": "Prachtsee"
+    },
+    {
+      "id": "msg_0279_00110",
+      "de_DE": "Restaurant"
+    },
+    {
+      "id": "msg_0279_00111",
+      "de_DE": "Duellpark"
+    },
+    {
+      "id": "msg_0279_00112",
+      "de_DE": "Kampfzone"
+    },
+    {
+      "id": "msg_0279_00113",
+      "de_DE": "Kampffabrik"
+    },
+    {
+      "id": "msg_0279_00114",
+      "de_DE": "Kampfpalais"
+    },
+    {
+      "id": "msg_0279_00115",
+      "de_DE": "Kampfarkaden"
+    },
+    {
+      "id": "msg_0279_00116",
+      "de_DE": "Kampfsaal"
+    },
+    {
+      "id": "msg_0279_00117",
+      "de_DE": "Zerrwelt"
+    },
+    {
+      "id": "msg_0279_00118",
+      "de_DE": "Global. Terminal"
+    },
+    {
+      "id": "msg_0279_00119",
+      "de_DE": "Villa"
+    },
+    {
+      "id": "msg_0279_00120",
+      "de_DE": "Duellareal"
+    },
+    {
+      "id": "msg_0279_00121",
+      "de_DE": "Raum von ROTOM"
+    },
+    {
+      "id": "msg_0279_00122",
+      "de_DE": "Galaktik-Gebäude"
+    },
+    {
+      "id": "msg_0279_00123",
+      "de_DE": "Eisen-Ruinen"
+    },
+    {
+      "id": "msg_0279_00124",
+      "de_DE": "Eisberg-Ruinen"
+    },
+    {
+      "id": "msg_0279_00125",
+      "de_DE": "Gipfelruinen"
+    },
+    {
+      "id": "msg_0279_00126",
+      "de_DE": "Neuborkia"
+    },
+    {
+      "id": "msg_0279_00127",
+      "de_DE": "Rosalia City"
+    },
+    {
+      "id": "msg_0279_00128",
+      "de_DE": "Viola City"
+    },
+    {
+      "id": "msg_0279_00129",
+      "de_DE": "Azalea City"
+    },
+    {
+      "id": "msg_0279_00130",
+      "de_DE": "Anemonia City"
+    },
+    {
+      "id": "msg_0279_00131",
+      "de_DE": "Dukatia City"
+    },
+    {
+      "id": "msg_0279_00132",
+      "de_DE": "Oliviana City"
+    },
+    {
+      "id": "msg_0279_00133",
+      "de_DE": "Teak City"
+    },
+    {
+      "id": "msg_0279_00134",
+      "de_DE": "Mahagonia City"
+    },
+    {
+      "id": "msg_0279_00135",
+      "de_DE": "See des Zorns"
+    },
+    {
+      "id": "msg_0279_00136",
+      "de_DE": "Ebenholz City"
+    },
+    {
+      "id": "msg_0279_00137",
+      "de_DE": "Silberberg"
+    },
+    {
+      "id": "msg_0279_00138",
+      "de_DE": "Alabastia"
+    },
+    {
+      "id": "msg_0279_00139",
+      "de_DE": "Vertania City"
+    },
+    {
+      "id": "msg_0279_00140",
+      "de_DE": "Marmoria City"
+    },
+    {
+      "id": "msg_0279_00141",
+      "de_DE": "Azuria City"
+    },
+    {
+      "id": "msg_0279_00142",
+      "de_DE": "Lavandia"
+    },
+    {
+      "id": "msg_0279_00143",
+      "de_DE": "Orania City"
+    },
+    {
+      "id": "msg_0279_00144",
+      "de_DE": "Prismania City"
+    },
+    {
+      "id": "msg_0279_00145",
+      "de_DE": "Fuchsania City"
+    },
+    {
+      "id": "msg_0279_00146",
+      "de_DE": "Zinnoberinsel"
+    },
+    {
+      "id": "msg_0279_00147",
+      "de_DE": "Indigo Plateau"
+    },
+    {
+      "id": "msg_0279_00148",
+      "de_DE": "Saffronia City"
+    },
+    {
+      "id": "msg_0279_00149",
+      "de_DE": "Route 1"
+    },
+    {
+      "id": "msg_0279_00150",
+      "de_DE": "Route 2"
+    },
+    {
+      "id": "msg_0279_00151",
+      "de_DE": "Route 3"
+    },
+    {
+      "id": "msg_0279_00152",
+      "de_DE": "Route 4"
+    },
+    {
+      "id": "msg_0279_00153",
+      "de_DE": "Route 5"
+    },
+    {
+      "id": "msg_0279_00154",
+      "de_DE": "Route 6"
+    },
+    {
+      "id": "msg_0279_00155",
+      "de_DE": "Route 7"
+    },
+    {
+      "id": "msg_0279_00156",
+      "de_DE": "Route 8"
+    },
+    {
+      "id": "msg_0279_00157",
+      "de_DE": "Route 9"
+    },
+    {
+      "id": "msg_0279_00158",
+      "de_DE": "Route 10"
+    },
+    {
+      "id": "msg_0279_00159",
+      "de_DE": "Route 11"
+    },
+    {
+      "id": "msg_0279_00160",
+      "de_DE": "Route 12"
+    },
+    {
+      "id": "msg_0279_00161",
+      "de_DE": "Route 13"
+    },
+    {
+      "id": "msg_0279_00162",
+      "de_DE": "Route 14"
+    },
+    {
+      "id": "msg_0279_00163",
+      "de_DE": "Route 15"
+    },
+    {
+      "id": "msg_0279_00164",
+      "de_DE": "Route 16"
+    },
+    {
+      "id": "msg_0279_00165",
+      "de_DE": "Route 17"
+    },
+    {
+      "id": "msg_0279_00166",
+      "de_DE": "Route 18"
+    },
+    {
+      "id": "msg_0279_00167",
+      "de_DE": "Route 19"
+    },
+    {
+      "id": "msg_0279_00168",
+      "de_DE": "Route 20"
+    },
+    {
+      "id": "msg_0279_00169",
+      "de_DE": "Route 21"
+    },
+    {
+      "id": "msg_0279_00170",
+      "de_DE": "Route 22"
+    },
+    {
+      "id": "msg_0279_00171",
+      "de_DE": "Route 23"
+    },
+    {
+      "id": "msg_0279_00172",
+      "de_DE": "Route 24"
+    },
+    {
+      "id": "msg_0279_00173",
+      "de_DE": "Route 25"
+    },
+    {
+      "id": "msg_0279_00174",
+      "de_DE": "Route 26"
+    },
+    {
+      "id": "msg_0279_00175",
+      "de_DE": "Route 27"
+    },
+    {
+      "id": "msg_0279_00176",
+      "de_DE": "Route 28"
+    },
+    {
+      "id": "msg_0279_00177",
+      "de_DE": "Route 29"
+    },
+    {
+      "id": "msg_0279_00178",
+      "de_DE": "Route 30"
+    },
+    {
+      "id": "msg_0279_00179",
+      "de_DE": "Route 31"
+    },
+    {
+      "id": "msg_0279_00180",
+      "de_DE": "Route 32"
+    },
+    {
+      "id": "msg_0279_00181",
+      "de_DE": "Route 33"
+    },
+    {
+      "id": "msg_0279_00182",
+      "de_DE": "Route 34"
+    },
+    {
+      "id": "msg_0279_00183",
+      "de_DE": "Route 35"
+    },
+    {
+      "id": "msg_0279_00184",
+      "de_DE": "Route 36"
+    },
+    {
+      "id": "msg_0279_00185",
+      "de_DE": "Route 37"
+    },
+    {
+      "id": "msg_0279_00186",
+      "de_DE": "Route 38"
+    },
+    {
+      "id": "msg_0279_00187",
+      "de_DE": "Route 39"
+    },
+    {
+      "id": "msg_0279_00188",
+      "de_DE": "Route 40"
+    },
+    {
+      "id": "msg_0279_00189",
+      "de_DE": "Route 41"
+    },
+    {
+      "id": "msg_0279_00190",
+      "de_DE": "Route 42"
+    },
+    {
+      "id": "msg_0279_00191",
+      "de_DE": "Route 43"
+    },
+    {
+      "id": "msg_0279_00192",
+      "de_DE": "Route 44"
+    },
+    {
+      "id": "msg_0279_00193",
+      "de_DE": "Route 45"
+    },
+    {
+      "id": "msg_0279_00194",
+      "de_DE": "Route 46"
+    },
+    {
+      "id": "msg_0279_00195",
+      "de_DE": "Route 47"
+    },
+    {
+      "id": "msg_0279_00196",
+      "de_DE": "Route 48"
+    },
+    {
+      "id": "msg_0279_00197",
+      "de_DE": "DIGDAs Höhle"
+    },
+    {
+      "id": "msg_0279_00198",
+      "de_DE": "Mondberg"
+    },
+    {
+      "id": "msg_0279_00199",
+      "de_DE": "Azuria-Höhle"
+    },
+    {
+      "id": "msg_0279_00200",
+      "de_DE": "Felstunnel"
+    },
+    {
+      "id": "msg_0279_00201",
+      "de_DE": "Kraftwerk"
+    },
+    {
+      "id": "msg_0279_00202",
+      "de_DE": "Safari-Zone"
+    },
+    {
+      "id": "msg_0279_00203",
+      "de_DE": "Seeschauminseln"
+    },
+    {
+      "id": "msg_0279_00204",
+      "de_DE": "KNOFENSA-Turm"
+    },
+    {
+      "id": "msg_0279_00205",
+      "de_DE": "Glockenturm"
+    },
+    {
+      "id": "msg_0279_00206",
+      "de_DE": "Turmruine"
+    },
+    {
+      "id": "msg_0279_00207",
+      "de_DE": "Nationalpark"
+    },
+    {
+      "id": "msg_0279_00208",
+      "de_DE": "Radioturm"
+    },
+    {
+      "id": "msg_0279_00209",
+      "de_DE": "Alph-Ruinen"
+    },
+    {
+      "id": "msg_0279_00210",
+      "de_DE": "Einheitstunnel"
+    },
+    {
+      "id": "msg_0279_00211",
+      "de_DE": "FLEGMON-Brunnen"
+    },
+    {
+      "id": "msg_0279_00212",
+      "de_DE": "Leuchtturm"
+    },
+    {
+      "id": "msg_0279_00213",
+      "de_DE": "Rocket-Versteck"
+    },
+    {
+      "id": "msg_0279_00214",
+      "de_DE": "Steineichenwald"
+    },
+    {
+      "id": "msg_0279_00215",
+      "de_DE": "Dukatia-Passage"
+    },
+    {
+      "id": "msg_0279_00216",
+      "de_DE": "Kesselberg"
+    },
+    {
+      "id": "msg_0279_00217",
+      "de_DE": "Eispfad"
+    },
+    {
+      "id": "msg_0279_00218",
+      "de_DE": "Strudelinseln"
+    },
+    {
+      "id": "msg_0279_00219",
+      "de_DE": "Silberberghöhle"
+    },
+    {
+      "id": "msg_0279_00220",
+      "de_DE": "Dunkelhöhle"
+    },
+    {
+      "id": "msg_0279_00221",
+      "de_DE": "Siegesstraße"
+    },
+    {
+      "id": "msg_0279_00222",
+      "de_DE": "Drachenhöhle"
+    },
+    {
+      "id": "msg_0279_00223",
+      "de_DE": "Tohjo-Fälle"
+    },
+    {
+      "id": "msg_0279_00224",
+      "de_DE": "Vertania-Wald"
+    },
+    {
+      "id": "msg_0279_00225",
+      "de_DE": "Pokéathlonhallen"
+    },
+    {
+      "id": "msg_0279_00226",
+      "de_DE": "M.S. Aqua"
+    },
+    {
+      "id": "msg_0279_00227",
+      "de_DE": "Safari-Eingang"
+    },
+    {
+      "id": "msg_0279_00228",
+      "de_DE": "Felsschlundhöhle"
+    },
+    {
+      "id": "msg_0279_00229",
+      "de_DE": "Kampfzonenzugang"
+    },
+    {
+      "id": "msg_0279_00230",
+      "de_DE": "Glockenklangpfad"
+    },
+    {
+      "id": "msg_0279_00231",
+      "de_DE": "Sinjoh-Ruinen"
+    },
+    {
+      "id": "msg_0279_00232",
+      "de_DE": "Felsenherzturm"
+    },
+    {
+      "id": "msg_0279_00233",
+      "de_DE": "Pokéwalker"
+    },
+    {
+      "id": "msg_0279_00234",
+      "de_DE": "Felsklippentor"
+    }
+  ]
+}

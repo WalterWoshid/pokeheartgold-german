@@ -1,0 +1,181 @@
+{
+  "key": 9218,
+  "messages": [
+    {
+      "id": "msg_0047_00000",
+      "de_DE": [
+        "Da ist plötzlich eine ganze Herde von\n",
+        "DIGDA aus dem Boden gesprungen!\f",
+        "Mann, das war vielleicht ein Schock!"
+      ]
+    },
+    {
+      "id": "msg_0047_00001",
+      "de_DE": [
+        "Rocko: An Orten, wo ich ringsum\n",
+        "von Felsen umgeben bin, fühle\f",
+        "ich mich wohlbehütet und sicher.\f",
+        "Geht’s dir da genauso wie mir?\r",
+        "Übrigens, wie wär’s, wenn wir\n",
+        "Telefonnummern austauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0047_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Rockos Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0047_00003",
+      "de_DE": [
+        "Rocko: Mit dir will ich auf jeden\n",
+        "Fall mal wieder kämpfen!\r",
+        "Ruf mich unbedingt samstag-\n",
+        "abends an! Ich bestehe drauf!"
+      ]
+    },
+    {
+      "id": "msg_0047_00004",
+      "de_DE": [
+        "Rocko: Oh? Schade drum!\n",
+        "Ich hätte wirklich gerne mal\f",
+        "wieder gegen dich gekämpft."
+      ]
+    },
+    {
+      "id": "msg_0047_00005",
+      "de_DE": [
+        "Rocko: Komm schon, lass uns\n",
+        "Telefonnummern austauschen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0047_00006",
+      "de_DE": [
+        "Rocko: Hey, sag mal, Kindchen...\n",
+        "Wie wär’s, wenn wir ein Foto von\f",
+        "uns beiden schießen würden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0047_00007",
+      "de_DE": [
+        "Rocko: Gut! Stell dich hier neben mich,\n",
+        "und dann immer ganz locker bleiben!\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00008",
+      "de_DE": [
+        "Rocko: Hübsch! Das ist\n",
+        "eins fürs Fotoalbum!"
+      ]
+    },
+    {
+      "id": "msg_0047_00009",
+      "de_DE": [
+        "Rocko: Oh, in Ordnung...\n",
+        "Schade drum, aber damit muss ich leben."
+      ]
+    },
+    {
+      "id": "msg_0047_00010",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    },
+    {
+      "id": "msg_0047_00011",
+      "de_DE": [
+        "Rocko: Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Hast du schon mal ein\f",
+        "MOBAI gesehen?\r",
+        "Diese Ehre hat man scheinbar nur,\n",
+        "wenn man sich eins aus einem Ei besorgt.\f",
+        "Sie sind wirklich äußerst selten.\r",
+        "Hast du zufällig ein MOBAI dabei?\n",
+        "Wenn ja, würdest du es mir\f",
+        "für mein RIHORN abtreten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0047_00012",
+      "de_DE": [
+        "Rocko: Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Hast du schon mal ein\f",
+        "MOBAI gesehen?\r",
+        "Diese Ehre hat man scheinbar nur,\n",
+        "wenn man sich eins aus einem Ei besorgt.\f",
+        "Sie sind wirklich äußerst selten.\r",
+        "Hast du zufällig ein MOBAI dabei?\n",
+        "Wenn ja, würdest du es mir\f",
+        "für mein RIHORN abtreten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0047_00013",
+      "de_DE": [
+        "Rocko: Klasse!\n",
+        "In Ordnung, lass uns tauschen!\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00014",
+      "de_DE": [
+        "Rocko: Hm, dann hast also wirklich\n",
+        "nicht einmal du ein MOBAI...\r",
+        "Lass uns tauschen, wenn du\n",
+        "eins finden solltest, ja?"
+      ]
+    },
+    {
+      "id": "msg_0047_00015",
+      "de_DE": [
+        "Rocko: Ich bin auf der Suche\n",
+        "nach einem MOBAI, weißt du?\f",
+        "Würdest du mir eins im Tausch für\f",
+        "mein RIHORN abtreten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0047_00016",
+      "de_DE": [
+        "Rocko: Vielen Dank!\n",
+        "Ich wollte unbedingt ein MOBAI haben!\r",
+        "Das RIHORN, das jetzt dir gehört, habe\n",
+        "ich vom Ei auf großgezogen!\r",
+        "Ich bin extrem stolz auf dieses RIHORN,\n",
+        "weil es sogar Donnerzahn gelernt hat!\r",
+        "RIHORN sind eigentlich schwach gegen\n",
+        "Wasser-Pokémon, aber dieses hier wischt\f",
+        "mit ihnen den Boden auf!\f",
+        "Trainiere es mit viel Liebe!"
+      ]
+    },
+    {
+      "id": "msg_0047_00017",
+      "de_DE": [
+        "Rocko: Das RIHORN, das jetzt dir\n",
+        "gehört, habe ich vom Ei auf trainiert!\r",
+        "Ich bin extrem stolz auf dieses RIHORN,\n",
+        "weil es sogar Donnerzahn gelernt hat!\r",
+        "RIHORN sind eigentlich schwach gegen\n",
+        "Wasser-Pokémon, aber dieses hier wischt\f",
+        "mit ihnen den Boden auf!\f",
+        "Trainiere es mit viel Liebe!"
+      ]
+    },
+    {
+      "id": "msg_0047_00018",
+      "de_DE": [
+        "Rocko: Hey, Moment mal! Dieses\n",
+        "Pokémon ist ja gar kein MOBAI!"
+      ]
+    }
+  ]
+}

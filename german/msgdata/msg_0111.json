@@ -1,0 +1,128 @@
+{
+  "key": 25698,
+  "messages": [
+    {
+      "id": "msg_0111_00000",
+      "de_DE": [
+        "W-wie meinen?\r",
+        "Du kannst irgendwo in diesem Zimmer\n",
+        "einen Luftzug pfeifen hören?\f",
+        "Das, äh... pfiiiep, pfiiiep...\r",
+        "Das bin nur ich! Ich war gerade dabei,\n",
+        "mich ein wenig im Pfeifen zu üben!\r",
+        "Aber das ist doch auch völlig egal.\n",
+        "Willst du nicht was kaufen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0111_00001",
+      "de_DE": [
+        "Woher wusstest du von der geheimen\n",
+        "Treppe in die unteren Stockwerke?\f",
+        "Ich hatte sie doch so gut versteckt!"
+      ]
+    },
+    {
+      "id": "msg_0111_00002",
+      "de_DE": [
+        "Hehehe!\n",
+        "Das Experiment war ein voller Erfolg!\r",
+        "KARPADOR sind echte Ladenhüter, aber\n",
+        "GARADOS will einfach jeder!"
+      ]
+    },
+    {
+      "id": "msg_0111_00003",
+      "de_DE": [
+        "Hngh...\r",
+        "Seine Drachen-Pokémon sind...\n",
+        "einfach... zu stark..."
+      ]
+    },
+    {
+      "id": "msg_0111_00004",
+      "de_DE": "Siegfried: DRAGORAN! Den Hyperstrahl!\r"
+    },
+    {
+      "id": "msg_0111_00005",
+      "de_DE": [
+        "Wo bleibst du denn bloß, {STRVAR_1 3, 0, 0}?\r",
+        "Es ist, wie ich mir dachte. Die seltsamen\n",
+        "Radiowellen stammen von hier.\r"
+      ]
+    },
+    {
+      "id": "msg_0111_00006",
+      "de_DE": [
+        "Wo bleibst du denn bloß, {STRVAR_1 3, 0, 0}?\r",
+        "Es ist, wie ich mir dachte. Die seltsamen\n",
+        "Radiowellen stammen von hier.\r"
+      ]
+    },
+    {
+      "id": "msg_0111_00007",
+      "de_DE": "Und hier... haben wir die Treppe!\r"
+    },
+    {
+      "id": "msg_0111_00008",
+      "de_DE": [
+        "Siegfried: {STRVAR_1 3, 0, 0}! Wir sollten\n",
+        "uns aufteilen und diesen Ort\f",
+        "erforschen. Ich bilde die Vorhut!\r"
+      ]
+    },
+    {
+      "id": "msg_0111_00009",
+      "de_DE": [
+        "Siegfried: {STRVAR_1 3, 0, 0}! Wir sollten\n",
+        "uns aufteilen und diesen Ort\f",
+        "erforschen. Ich bilde die Vorhut!\r"
+      ]
+    },
+    {
+      "id": "msg_0111_00010",
+      "de_DE": [
+        "Oh, dieses pfeifende Geräusch?\r",
+        "Wo das herkommt, willst du wissen?\n",
+        "Meine Zahnfüllungen sind etwas löchrig,\f",
+        "und durch die Lücken strömt Luft aus.\r",
+        "Aber egal! Willst du was kaufen?\r"
+      ]
+    },
+    {
+      "id": "msg_0111_00011",
+      "de_DE": [
+        "Das Radio läuft.\r",
+        "Im Unterhaltungskanal wird gerade\n",
+        "vom Pokémon-Suchtrupp berichtet!"
+      ]
+    },
+    {
+      "id": "msg_0111_00012",
+      "de_DE": [
+        "Das Radio läuft.\r",
+        "Der Unterhaltungskanal sendet gerade\n",
+        "ein Hörspiel in mehreren Teilen!"
+      ]
+    },
+    {
+      "id": "msg_0111_00013",
+      "de_DE": [
+        "Das Radio läuft.\r",
+        "Buena gibt auf dem Unterhaltungskanal\n",
+        "gerade das heutige Passwort bekannt!"
+      ]
+    },
+    {
+      "id": "msg_0111_00014",
+      "de_DE": [
+        "Aus dem Radio ertönt die Verkündung\n",
+        "der Rückkehr von Team Rocket!"
+      ]
+    },
+    {
+      "id": "msg_0111_00015",
+      "de_DE": "Du hörst ein merkwürdiges Geräusch..."
+    }
+  ]
+}

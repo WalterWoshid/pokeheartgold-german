@@ -1,0 +1,144 @@
+{
+  "key": 10685,
+  "messages": [
+    {
+      "id": "msg_0709_00000",
+      "de_DE": "Einhardt"
+    },
+    {
+      "id": "msg_0709_00001",
+      "de_DE": [
+        "Ey!\n",
+        "Gib mir mal deine Telefonnummer,\f",
+        "Winzling! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0709_00002",
+      "de_DE": [
+        "Klingel mal ab und zu durch!\n",
+        "Ich lass auch mal von mir hören."
+      ]
+    },
+    {
+      "id": "msg_0709_00003",
+      "de_DE": "Das ist jetzt nicht dein Ernst?"
+    },
+    {
+      "id": "msg_0709_00004",
+      "de_DE": [
+        "Hey, hey, hey! Diesmal tauschen wir\n",
+        "aber Telefonnummern, oder es setzt\f",
+        "was, Winzling! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0709_00005",
+      "de_DE": [
+        "Wahahaha! {STRVAR_1 3, 0, 0}!\n",
+        "War ja klar! Wenn es um Funkelsteine\f",
+        "geht, kommst du angelaufen!\r",
+        "Hier hast du.\r",
+        "...Und jetzt mach dich dünne.\r"
+      ]
+    },
+    {
+      "id": "msg_0709_00006",
+      "de_DE": [
+        "Telefonieren und gleichzeitig\n",
+        "Fahrrad fahren ist gefährlich!\r",
+        "Reden wir lieber persönlich,\n",
+        "wenn du schon in der Nähe bist."
+      ]
+    },
+    {
+      "id": "msg_0709_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist schon\n",
+        "mächtig stark geworden!\r",
+        "Neulich hat es sogar zwei {STRVAR_1 0, 11, 0}\n",
+        "auf einmal plattgemacht!\f",
+        "Mwaaahahaharr!\r",
+        "...Was?\n",
+        "Du glaubst, ich übertreibe?\r",
+        "Ach, was weißt du denn schon?!"
+      ]
+    },
+    {
+      "id": "msg_0709_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0}\n",
+        "ist unglaublich stark!\r",
+        "Wenn ich so weitermache, schnappe\n",
+        "ich mir demnächst ein {STRVAR_1 0, 11, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0709_00009",
+      "de_DE": [
+        "Neulich kam direkt vor mir ein\n",
+        "{STRVAR_1 0, 11, 0} über die Straße gewetzt!\r",
+        "Ich bin ausgewichen, aber es kam\n",
+        "so plötzlich, dass ich mein Bike\f",
+        "der Länge nach hingelegt habe!\r",
+        "Ich hatte Glück, dass ich\n",
+        "nur ein paar Schrammen davontrug!\r",
+        "Ich mag fies aussehen, aber auf wilde\n",
+        "Pokémon nehme ich stets Rücksicht!"
+      ]
+    },
+    {
+      "id": "msg_0709_00010",
+      "de_DE": [
+        "He! Ich stehe gerade hier. Wo?\n",
+        "Na, {STRVAR_1 4, 3, 0}!\r",
+        "Und ich bewege mich nicht vom Fleck!\n",
+        "Also komm her und kämpfe mit mir!"
+      ]
+    },
+    {
+      "id": "msg_0709_00011",
+      "de_DE": [
+        "Bist du taub? Ich stehe hier:\n",
+        "{STRVAR_1 4, 3, 0}!\r",
+        "Ein fairer und anständiger Kampf, klar?\n",
+        "Also komm allein!\r",
+        "...Äh, ich meine...\n",
+        "Deine Pokémon bringst du natürlich mit!\f",
+        "Wie sollten wir denn sonst kämpfen?"
+      ]
+    },
+    {
+      "id": "msg_0709_00012",
+      "de_DE": [
+        "Hmmm... du lässt dein Pokémon immer\n",
+        "neben dir herlaufen, richtig?\r",
+        "He, das...\n",
+        "sieht nach Spaß aus.\r",
+        "Für jemanden wie mich, der ständig auf\n",
+        "seinem Bike herumrast, ist das\f",
+        "natürlich keine Option.\r",
+        "Um ehrlich zu sein, ein bisschen\n",
+        "beneide ich dich!"
+      ]
+    },
+    {
+      "id": "msg_0709_00013",
+      "de_DE": [
+        "Boah! Du glaubst nicht, was ich\n",
+        "gefunden habe!\r",
+        "Ich hab’s einem Experten gezeigt,\n",
+        "und das Ding nennt sich Funkelstein.\r",
+        "Wenn du ihn willst, komm her zu\n",
+        "mir. {STRVAR_1 4, 3, 0}, alles klar?"
+      ]
+    },
+    {
+      "id": "msg_0709_00014",
+      "de_DE": [
+        "Gib Gas und hol dir den Funkelstein!\n",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    }
+  ]
+}

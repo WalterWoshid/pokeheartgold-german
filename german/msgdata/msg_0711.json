@@ -1,0 +1,116 @@
+{
+  "key": 51558,
+  "messages": [
+    {
+      "id": "msg_0711_00000",
+      "de_DE": "Tom"
+    },
+    {
+      "id": "msg_0711_00001",
+      "de_DE": [
+        "Ich bin übrigens Wanderer und\n",
+        "gehe oft in Berge und Höhlen.\r",
+        "In Städten dagegen kenne ich mich\n",
+        "so gut wie gar nicht aus.\r",
+        "Du aber scheinst mir schon in vielen\n",
+        "Städten Abenteuer erlebt zu haben.\r",
+        "Wenn wir zwei Telefonnummern\n",
+        "austauschen, könnten wir einander\f",
+        "doch sicher jede Menge nützliche\f",
+        "Infos geben! Was hältst du davon? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0711_00002",
+      "de_DE": [
+        "Wenn mir wieder mal eine herzerwärmende\n",
+        "Geschichte einfällt, rufe ich dich an!"
+      ]
+    },
+    {
+      "id": "msg_0711_00003",
+      "de_DE": [
+        "Bist du kalt! Da könnte ich auch\n",
+        "genauso gut in die Berge gehen..."
+      ]
+    },
+    {
+      "id": "msg_0711_00004",
+      "de_DE": [
+        "Was meinst du?\n",
+        "Wir lieben beide das Abenteuer!\f",
+        "Gibst du mir deine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0711_00005",
+      "de_DE": [
+        "Du stehst praktisch um die Ecke\n",
+        "und rufst mich an?!\r",
+        "Blendet dich meine geistige\n",
+        "Größe denn so sehr?"
+      ]
+    },
+    {
+      "id": "msg_0711_00006",
+      "de_DE": [
+        "Neulich habe ich beobachtet, wie mein\n",
+        "{STRVAR_1 0, 10, 0} einige Beeren fraß.\f",
+        "Es schien das Mahl zu genießen.\f",
+        "Also aß ich auch welche.\r",
+        "Ich weiß nicht, ob die Leute sie\n",
+        "essen sollten, aber sie schmecken gut!\r",
+        "In Ordnung! Bleib sauber!"
+      ]
+    },
+    {
+      "id": "msg_0711_00007",
+      "de_DE": [
+        "In letzter Zeit sind mir viele\n",
+        "wilde {STRVAR_1 0, 11, 0} begegnet!\f",
+        "Zum Glück kann man sie leicht besiegen.\r",
+        "In Ordnung! Bleib sauber!"
+      ]
+    },
+    {
+      "id": "msg_0711_00008",
+      "de_DE": [
+        "Oh ja, ich kämpfte neulich gegen\n",
+        "dieses {STRVAR_1 0, 11, 0}...\f",
+        "Aber es ist mir entwischt, als ich einer\f",
+        "vorbeilaufenden Schönheit nachsah.\r",
+        "Lerne aus meinem Fehler - konzentriere\n",
+        "dich immer auf die Aufgabe vor dir!\r",
+        "In Ordnung! Bleib sauber!"
+      ]
+    },
+    {
+      "id": "msg_0711_00009",
+      "de_DE": [
+        "Komm schon, lass uns jetzt kämpfen!\r",
+        "Ich warte an {STRVAR_1 4, 3, 0}. Schau\n",
+        "vorbei, wenn du dich fit genug fühlst!"
+      ]
+    },
+    {
+      "id": "msg_0711_00010",
+      "de_DE": [
+        "Haaallo! Du hast unseren Kampf doch\n",
+        "nicht vergessen, oder etwa doch?\r",
+        "{STRVAR_1 4, 3, 0}! Ich warte!"
+      ]
+    },
+    {
+      "id": "msg_0711_00011",
+      "de_DE": [
+        "Warum ich die Berge so liebe?\r",
+        "Zum einen sicherlich wegen der\n",
+        "Pokémon, die dort leben.\f",
+        "Aber der eigentliche Grund\f",
+        "sind dann doch die Berge selbst.\r",
+        "Diese Schwimmer mit ihren Badehosen\n",
+        "werde ich jedenfalls nie verstehen..."
+      ]
+    }
+  ]
+}

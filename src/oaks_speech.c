@@ -948,8 +948,8 @@ static BOOL OakSpeech_PrintDialogMsg(OakSpeechData *data, int msgNum, int waitBu
         String *temp = String_New(0x400, data->heapID);
         data->string = String_New(0x400, data->heapID);
         ReadMsgDataIntoString(data->msgData, msgNum, temp);
-        BufferString(data->msgFormat, 0, data->namingScreenArgs_Player->nameInputString, data->playerGender, 1, 2);
-        BufferString(data->msgFormat, 1, data->namingScreenArgs_Rival->nameInputString, 0, 1, 2);
+        BufferString(data->msgFormat, 0, data->namingScreenArgs_Player->nameInputString, data->playerGender, 1, GAME_LANGUAGE);
+        BufferString(data->msgFormat, 1, data->namingScreenArgs_Rival->nameInputString, 0, 1, GAME_LANGUAGE);
         StringExpandPlaceholders(data->msgFormat, data->string, temp);
         String_Delete(temp);
 

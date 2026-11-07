@@ -1,0 +1,39 @@
+{
+  "key": 18411,
+  "messages": [
+    {
+      "id": "msg_0352_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Ha ha! Auf zum See!\n",
+        "Holen wir uns ein Rotes GARADOS!\r"
+      ]
+    },
+    {
+      "id": "msg_0352_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Lass uns gehen...\r",
+        "...Wir müssen diese Pokémon\n",
+        "zurückbringen. Sie gehören uns nicht.\r",
+        "Aber trotzdem... Ich würde zu gerne\n",
+        "mehr Zeit mit meinem Pokémon\f",
+        "verbringen...\r"
+      ]
+    },
+    {
+      "id": "msg_0352_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, Moment mal!\n",
+        "Wo willst du denn hin?\r",
+        "Wir müssen diese Pokémon\n",
+        "zurückbringen...\r"
+      ]
+    },
+    {
+      "id": "msg_0352_00003",
+      "de_DE": [
+        "See der Wahrheit voraus\n",
+        "Der See der Gefühle"
+      ]
+    }
+  ]
+}

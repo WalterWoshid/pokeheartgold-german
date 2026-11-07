@@ -1,0 +1,355 @@
+{
+  "key": 46175,
+  "messages": [
+    {
+      "id": "msg_0545_00000",
+      "de_DE": [
+        "Ah, da bist du ja endlich, {STRVAR_1 3, 0, 0}!\r",
+        "Du hast ganz knapp deine Freundin Lyra\n",
+        "verpasst! Sie war bis eben noch hier!\r",
+        "Es sah so aus, als würde sie mit ihrem\n",
+        "MARILL einen Wettlauf veranstalten!\r",
+        "Ach übrigens! Professor Lind aus der\n",
+        "Nachbarschaft hat nach dir gesucht!\r",
+        "Er meinte, er habe eine dringende\n",
+        "Bitte an dich.\r",
+        "Du kennst den Weg, oder? Sein Labor\n",
+        "ist schließlich direkt nebenan.\r",
+        "Pass auf, dass du nichts Wichtiges\n",
+        "vergisst, bevor du das Haus verlässt!\r",
+        "Hier, packen wir alles, was du so\n",
+        "brauchst, in diesen Beutel...\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00001",
+      "de_DE": [
+        "Ah, da bist du ja endlich, {STRVAR_1 3, 0, 0}!\r",
+        "Du hast ganz knapp deinen Freund Klarin\n",
+        "verpasst! Er war bis eben noch hier!\r",
+        "Es sah so aus, als würde er mit seinem\n",
+        "MARILL einen Wettlauf veranstalten!\r",
+        "Ach übrigens! Professor Lind aus der\n",
+        "Nachbarschaft hat nach dir gesucht!\r",
+        "Er meinte, er habe eine dringende\n",
+        "Bitte an dich.\r",
+        "Du kennst den Weg, oder? Sein Labor\n",
+        "ist schließlich direkt nebenan.\r",
+        "Pass auf, dass du nichts Wichtiges\n",
+        "vergisst, bevor du das Haus verlässt!\r",
+        "Hier, packen wir alles, was du so\n",
+        "brauchst, in diesen Beutel...\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00002",
+      "de_DE": "Hier hast du deinen Trainerpass...\r"
+    },
+    {
+      "id": "msg_0545_00003",
+      "de_DE": [
+        "Das kannst du benutzen, um dein Spiel\n",
+        "zu speichern...\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00004",
+      "de_DE": [
+        "Und das hier wird dir auch eine\n",
+        "große Hilfe sein...\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00005",
+      "de_DE": [
+        "Probier’s einfach mal aus! Berühren\n",
+        "geht über Studieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00006",
+      "de_DE": [
+        "So, und jetzt ab mit dir! Professor Lind\n",
+        "wartet auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0545_00007",
+      "de_DE": [
+        "Ach je! Da hast du aber ein niedliches\n",
+        "Pokémon im Schlepptau, {STRVAR_1 3, 0, 0}!\f",
+        "Hat dir das Professor Lind geschenkt?\r",
+        "Was wollte er eigentlich von dir?\r",
+        "... ... ...\r",
+        "Hm, das hört sich nach Arbeit an!\n",
+        "Aber manchmal ist es gut, von Leuten\f",
+        "um einen Gefallen gebeten zu werden!\r",
+        "Ach ja! Fast hätte ich’s vergessen!\r",
+        "Dein Pokécom ist von der Reparatur\n",
+        "zurück! Hier hast du ihn wieder.\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Pokécom!\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00009",
+      "de_DE": [
+        "Der Pokécom ist ein kleiner,\n",
+        "tragbarer Computer.\r",
+        "Wenn aus dir mal ein ordentlicher\n",
+        "Trainer werden soll, kommst auch\f",
+        "du nicht um so ein Gerät herum!\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00010",
+      "de_DE": [
+        "Ach übrigens, mit dem Pokécom kannst\n",
+        "du auch Telefongespräche führen!\f",
+        "Weißt du, wie das funktioniert? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0545_00011",
+      "de_DE": [
+        "Es ist ganz leicht, nicht wahr?\n",
+        "Du musst nur den Pokécom anwerfen\f",
+        "und das Telefonsymbol auswählen.\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00012",
+      "de_DE": [
+        "Gut, ich lese dir aus der Anleitung vor.\r",
+        "Wähle aus dem Menü auf dem unteren\n",
+        "Bildschirm den Punkt “Pokécom” aus\f",
+        "und gehe dann auf das Telefonsymbol.\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00013",
+      "de_DE": [
+        "Der Pokécom speichert automatisch\n",
+        "die Namen aller Personen ab, die du\f",
+        "anrufen kannst.\r",
+        "Alles, was du tun musst, um den\n",
+        "gewünschten Gesprächspartner an\f",
+        "die Strippe zu bekommen, ist seinen\f",
+        "Namen auszuwählen. Kinderleicht, was?"
+      ]
+    },
+    {
+      "id": "msg_0545_00014",
+      "de_DE": [
+        "Wo drückt dich der Schuh? Oh, du hast\n",
+        "den Weg zu Mr. Pokémon vergessen?\r",
+        "Er wohnt ein paar Schritte nördlich die\n",
+        "Route 30 hinauf.\f",
+        "Pass auf, dass dir auf dem Weg zu ihm\f",
+        "nichts zustößt!!!"
+      ]
+    },
+    {
+      "id": "msg_0545_00015",
+      "de_DE": [
+        "... ... ...\r",
+        "So so, du möchtest also auf ein\n",
+        "Abenteuer gehen...\r",
+        "In Ordnung! Du hast natürlich meine\n",
+        "volle Unterstützung!\r",
+        "Hm, lass mich mal überlegen, was ich\n",
+        "für dich tun kann...\r",
+        "Aber ja!\r",
+        "Ich könnte jedes Mal, wenn du Geld\n",
+        "verdienst, einen kleinen Teil davon\f",
+        "an mich nehmen und für dich sparen!\r",
+        "Du hast eine lange Reise vor dir, da\n",
+        "achtest du besser auf deine Finanzen!\r",
+        "Na, was hältst du von meinem Sparplan?\r",
+        "Bist du einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0545_00016",
+      "de_DE": [
+        "Auf mich kannst du immer zählen, wenn\n",
+        "du bei deinen Abenteuern Unterstützung\f",
+        "brauchst, {STRVAR_1 3, 0, 0}!\r",
+        "Lass mich mal überlegen, was ich\n",
+        "für dich tun kann...\r",
+        "Aber ja!\r",
+        "Jedes Mal, wenn du Geld verdienst,\n",
+        "bewahre ich einfach einen\f",
+        "kleinen Teil davon auf und\f",
+        "spare ihn für dich.\r",
+        "Du hast eine lange Reise vor dir.\r",
+        "Achte also gut auf deine Finanzen!\n",
+        "Na, was hältst du von meinem Sparplan?\r",
+        "Bist du einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0545_00017",
+      "de_DE": [
+        "Okay, du kannst auf mich zählen!\r",
+        "... ... ...\n",
+        "Aber pass mir gut auf dich auf, ja?\r",
+        "Du und deine Pokémon, ihr seid ein Team!\n",
+        "Wenn ihr zusammenhaltet, könnt\f",
+        "ihr Berge versetzen!\r",
+        "Also dann! Schöne Reise!"
+      ]
+    },
+    {
+      "id": "msg_0545_00018",
+      "de_DE": [
+        "Aber pass mir gut auf dich auf, ja?\r",
+        "Du und deine Pokémon, ihr seid ein Team!\n",
+        "Wenn ihr zusammenhaltet, könnt\f",
+        "ihr Berge versetzen!\r",
+        "Also dann! Schöne Reise!"
+      ]
+    },
+    {
+      "id": "msg_0545_00019",
+      "de_DE": [
+        "Zeig’s ihnen, {STRVAR_1 3, 0, 0}!\n",
+        "Ich stehe voll hinter dir!"
+      ]
+    },
+    {
+      "id": "msg_0545_00020",
+      "de_DE": [
+        "Oh, schön! Du bist wieder da!\n",
+        "Du scheinst dir viel Mühe zu geben!\r",
+        "Dein Zimmer oben im ersten Stock\n",
+        "ist aufgeräumt und wartet wie immer\f",
+        "nur darauf, von dir bewohnt zu werden!\f",
+        "Oder... bist du vielleicht wegen\f",
+        "deines Geldes hier? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0545_00021",
+      "de_DE": "Übernimm dich nicht!"
+    },
+    {
+      "id": "msg_0545_00022",
+      "de_DE": [
+        "Oh, sieht so aus, als hätte ich keine\n",
+        "Spareinlagen von dir..."
+      ]
+    },
+    {
+      "id": "msg_0545_00023",
+      "de_DE": [
+        "Keine Sorge, bei mir ist dein Geld sicher.\n",
+        "Und jetzt gib dein Bestes!"
+      ]
+    },
+    {
+      "id": "msg_0545_00024",
+      "de_DE": [
+        "Denke immer gut darüber nach, wofür\n",
+        "du dein Geld ausgibst, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0545_00025",
+      "de_DE": [
+        "Soll ich immer ein bisschen was von\n",
+        "deinem Geld sparen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0545_00026",
+      "de_DE": [
+        "Oh, du hast keine Geldreserven mehr!\n",
+        "Wirf dein Geld nicht zum Fenster hinaus!\r",
+        "Aber ich kenne dich. Du bist wie deine\n",
+        "Mutter und achtest auf deine Finanzen!"
+      ]
+    },
+    {
+      "id": "msg_0545_00027",
+      "de_DE": [
+        "Ich bewahre schon so viel Geld für dich\n",
+        "auf, dass noch mehr keinen Sinn macht!"
+      ]
+    },
+    {
+      "id": "msg_0545_00028",
+      "de_DE": [
+        "Du trägst schon zu viel Geld bei dir!\n",
+        "Noch mehr kannst du nicht mitnehmen."
+      ]
+    },
+    {
+      "id": "msg_0545_00029",
+      "de_DE": "MITNEHMEN"
+    },
+    {
+      "id": "msg_0545_00030",
+      "de_DE": "SPAREN"
+    },
+    {
+      "id": "msg_0545_00031",
+      "de_DE": "SPARPLAN ÄNDERN"
+    },
+    {
+      "id": "msg_0545_00032",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0545_00033",
+      "de_DE": [
+        "Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Professor Lind sagt, er habe\f",
+        "irgendwas für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00034",
+      "de_DE": [
+        "Professor Lind meinte, er habe etwas,\n",
+        "das er dir geben möchte. Warum schaust\f",
+        "du nicht mal bei ihm im Labor vorbei?"
+      ]
+    },
+    {
+      "id": "msg_0545_00035",
+      "de_DE": [
+        "Da läuft ein Film im Fernsehen!\n",
+        "Zwei Jungs suchen nach einem Schatz!\r",
+        "...So, jetzt aber weiter!"
+      ]
+    },
+    {
+      "id": "msg_0545_00036",
+      "de_DE": [
+        "Deine Mutter brät ihre\n",
+        "berühmten Zinnoberburger!"
+      ]
+    },
+    {
+      "id": "msg_0545_00037",
+      "de_DE": [
+        "Der Ausguss ist strahlend sauber!\n",
+        "Deine Mutter ist ein wahrer Putzteufel!"
+      ]
+    },
+    {
+      "id": "msg_0545_00038",
+      "de_DE": [
+        "Der Kühlschrank ist randvoll...\r",
+        "Du siehst erfrischendes Tafelwasser\n",
+        "und zuckersüße Limonade darin!"
+      ]
+    }
+  ]
+}

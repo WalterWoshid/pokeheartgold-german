@@ -1,0 +1,121 @@
+{
+  "key": 51106,
+  "messages": [
+    {
+      "id": "msg_0689_00000",
+      "de_DE": "Holger"
+    },
+    {
+      "id": "msg_0689_00001",
+      "de_DE": [
+        "Ich laufe immer mit der Nase tief in\n",
+        "einem Schulbuch herum. Weil ich\f",
+        "nach unten schaue, sehe ich dabei\f",
+        "ab und zu Items auf dem Boden.\r",
+        "He, was sagst du dazu? Das nächste\n",
+        "Item, das ich finde, gehört dir.\f",
+        "Gibst du mir deine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0689_00002",
+      "de_DE": [
+        "Ich rufe an, wenn ich etwas für dich\n",
+        "habe. Du kannst auf mich zählen!"
+      ]
+    },
+    {
+      "id": "msg_0689_00003",
+      "de_DE": [
+        "Oh... nun, ich dachte, ein Anruf wäre\n",
+        "eine willkommene Lernpause..."
+      ]
+    },
+    {
+      "id": "msg_0689_00004",
+      "de_DE": [
+        "Finde ich etwas, gehört es dir.\n",
+        "Gibst du mir deine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0689_00005",
+      "de_DE": [
+        "Dies ist für dich!\n",
+        "Nimm es! Ta-da!\r"
+      ]
+    },
+    {
+      "id": "msg_0689_00006",
+      "de_DE": [
+        "He?\n",
+        "Bist du etwa gerade hier?\r",
+        "Habe ich dich übersehen, weil ich\n",
+        "wieder mal nach unten gesehen habe?"
+      ]
+    },
+    {
+      "id": "msg_0689_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wird immer stärker!\n",
+        "Genau wie ich berechnet habe!\r",
+        "Apropos, neulich haben wir ein\n",
+        "wildes {STRVAR_1 0, 11, 0} bezwungen.\r",
+        "Vorbereitung lohnt sich!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0689_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wird immer stärker!\n",
+        "Genau wie ich berechnet habe!\r",
+        "Übrigens, gestern entkam mir ein\n",
+        "wildes {STRVAR_1 0, 11, 0}.\r",
+        "Da habe ich mich wohl verrechnet...\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0689_00009",
+      "de_DE": [
+        "Ich habe inzwischen einiges\n",
+        "dazugelernt!\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\r",
+        "Schau doch auf einen Kampf vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0689_00010",
+      "de_DE": [
+        "Falls wir nicht bald kämpfen, vergesse\n",
+        "ich noch meine Strategie!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0689_00011",
+      "de_DE": [
+        "Ich habe noch nichts gefunden...\r",
+        "Ich rufe an, wenn ich etwas finde."
+      ]
+    },
+    {
+      "id": "msg_0689_00012",
+      "de_DE": [
+        "Hehe! Ich habe eben was Tolles\n",
+        "gefunden!\r",
+        "Du kannst es haben. Komm es dir\n",
+        "doch hier abholen: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0689_00013",
+      "de_DE": [
+        "Komm bitte schnell zum Abholen vorbei,\n",
+        "ich muss noch Hausaufgaben machen!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    }
+  ]
+}

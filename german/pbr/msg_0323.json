@@ -1,0 +1,53 @@
+{
+  "key": 54176,
+  "messages": [
+    {
+      "id": "msg_0323_00000",
+      "de_DE": "POKéDEX"
+    },
+    {
+      "id": "msg_0323_00001",
+      "de_DE": "POKéMON"
+    },
+    {
+      "id": "msg_0323_00002",
+      "de_DE": "BEUTEL"
+    },
+    {
+      "id": "msg_0323_00003",
+      "de_DE": "{STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0323_00004",
+      "de_DE": "SICHERN"
+    },
+    {
+      "id": "msg_0323_00005",
+      "de_DE": "OPTION."
+    },
+    {
+      "id": "msg_0323_00006",
+      "de_DE": "BEENDEN"
+    },
+    {
+      "id": "msg_0323_00007",
+      "de_DE": "CHAT"
+    },
+    {
+      "id": "msg_0323_00008",
+      "de_DE": "SCHLUSS"
+    },
+    {
+      "id": "msg_0323_00009",
+      "de_DE": "SAFARIBÄLLE"
+    },
+    {
+      "id": "msg_0323_00010",
+      "de_DE": "FREUNDESBÄLLE"
+    },
+    {
+      "id": "msg_0323_00011",
+      "de_DE": "Vorrat: {STRVAR_1 51, 0}"
+    }
+  ]
+}

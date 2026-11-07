@@ -92,7 +92,7 @@ void RadioShow_BuenasPassword_Init(RadioShow *radioShow) {
     bpMsgData = NewMsgDataFromNarc(MSGDATA_LOAD_DIRECT, NARC_msgdata_msg, msg_0066_D23R0102, radioShow->heapID);
     setID = Save_VarsFlags_GetBuenasPasswordSet(Save_VarsFlags_Get(radioShow->saveData)) % 30;
     answer = NewString_ReadMsgData(bpMsgData, msg_0066_D23R0102_00040 + setID);
-    BufferString(radioShow->msgFormat, 0, answer, 2, 1, 2);
+    BufferString(radioShow->msgFormat, 0, answer, 2, 1, GAME_LANGUAGE);
     String_Delete(answer);
     DestroyMsgData(bpMsgData);
 }

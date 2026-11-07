@@ -1,0 +1,28 @@
+{
+  "key": 11219,
+  "messages": [
+    {
+      "id": "msg_0050_00000",
+      "de_DE": [
+        "Die gleichen Pokémon-Arten können\n",
+        "unterschiedliche Fähigkeiten haben.\r",
+        "Ich denke, ich werde zwei aufziehen,\n",
+        "die sich in ihrem Wesen unterscheiden."
+      ]
+    },
+    {
+      "id": "msg_0050_00001",
+      "de_DE": [
+        "Ich kann die Versteckte Maschine\n",
+        "Stärke erst einsetzen, wenn ich Adam,\f",
+        "den Arenaleiter, besiegt habe.\r",
+        "Ich habe die VM aus dem Turm der\n",
+        "Ruhenden an der Route 209, daher..."
+      ]
+    },
+    {
+      "id": "msg_0050_00002",
+      "garbage": 0
+    }
+  ]
+}

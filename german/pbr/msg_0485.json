@@ -1,0 +1,42 @@
+{
+  "key": 5612,
+  "messages": [
+    {
+      "id": "msg_0485_00000",
+      "de_DE": [
+        "Ding-Dong! Die Zeit ist abgelaufen!\n",
+        "Dein Safari-Spiel ist vorbei."
+      ]
+    },
+    {
+      "id": "msg_0485_00001",
+      "de_DE": [
+        "Ding-Dong! Du hast keine Safaribälle\n",
+        "mehr. Dein Safari-Spiel ist vorbei."
+      ]
+    },
+    {
+      "id": "msg_0485_00002",
+      "de_DE": [
+        "Ding-Dong!\n",
+        "Du hast keinen Platz mehr für Pokémon!\r",
+        "Dein Safari-Spiel ist vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0485_00003",
+      "de_DE": "Wohin soll es gehen?"
+    },
+    {
+      "id": "msg_0485_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0} ist nicht in\n",
+        "die Eilbahn gestiegen."
+      ]
+    },
+    {
+      "id": "msg_0485_00005",
+      "de_DE": "Möchtest du das Großmoor verlassen?"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "key": 42589,
+  "messages": [
+    {
+      "id": "msg_0669_00000",
+      "de_DE": "Ilona"
+    },
+    {
+      "id": "msg_0669_00001",
+      "de_DE": [
+        "Hi! Du magst PIEPI auch?\r",
+        "Sie sind so niedlich, oder?\r",
+        "Ich denke, wir werden gute Freunde!\n",
+        "Gib mir doch deine Telefonnummer!\r",
+        "Wir können über PIEPI reden! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0669_00002",
+      "de_DE": "Ist mein PIEPI nicht total niedlich?"
+    },
+    {
+      "id": "msg_0669_00003",
+      "de_DE": [
+        "Oh, schade! \n",
+        "Nun, dann melde dich einfach, wenn\f",
+        "du über PIEPI reden möchtest."
+      ]
+    },
+    {
+      "id": "msg_0669_00004",
+      "de_DE": [
+        "Gib mir doch deine Telefonnummer!\r",
+        "Wir können über PIEPI reden! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0669_00005",
+      "de_DE": [
+        "Oh, da bist du ja!\n",
+        "In Ordnung, hier, das ist für dich!\f",
+        "Eine Poképuppe!\r"
+      ]
+    },
+    {
+      "id": "msg_0669_00006",
+      "de_DE": [
+        "Ähm...\n",
+        "Hast du Angst, direkt mit mir zu reden?\r",
+        "Wir können zwar auch telefonieren, aber\n",
+        "wo du schon einmal in der Nähe bist...\f",
+        "Komm doch einfach vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0669_00007",
+      "de_DE": [
+        "Hallo, {STRVAR_1 14, 4, 0}! Es ist furchtbar!\n",
+        "Mein PIEPI ist...\f",
+        "Huch? Bist du das, {STRVAR_1 3, 0, 0}?\r",
+        "Oh, das tut mir leid!\n",
+        "Ich war in Eile und hab mich wohl\f",
+        "verwählt...\r",
+        "Nun denn, tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0669_00008",
+      "de_DE": [
+        "Hallo, {STRVAR_1 14, 4, 0}! Es ist furchtbar!\n",
+        "Mein PIEPI ist...\f",
+        "Huch? Bist du das, {STRVAR_1 3, 0, 0}?\r",
+        "Oh, das tut mir leid!\n",
+        "Ich war in Eile und hab mich wohl\f",
+        "verwählt...\r",
+        "Nun denn, tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0669_00009",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist so bezaubernd,\n",
+        "findest du nicht?\r",
+        "Ich schlafe immer an seiner Seite -\n",
+        "es ist so schön weich und warm!\r",
+        "Ich musste vor Kurzem gegen\n",
+        "ein wildes {STRVAR_1 0, 11, 0} kämpfen...\r",
+        "Mein PIEPI war fast besiegt!\n",
+        "Schrecklich, oder?\r",
+        "Ich hasse diese {STRVAR_1 0, 11, 0}!\n",
+        "Nun denn, tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0669_00010",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist so bezaubernd,\n",
+        "findest du nicht?\r",
+        "Ich schlafe immer an seiner Seite -\n",
+        "es ist so schön weich und warm!\r",
+        "Ich musste vor Kurzem gegen\n",
+        "ein wildes {STRVAR_1 0, 11, 0} kämpfen...\r",
+        "Mein PIEPI hatte ziemliche Angst und\n",
+        "floh, so schnell es konnte!\r",
+        "Ich muss mein PIEPI einfach\n",
+        "beschützen!\r",
+        "Nun denn, tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0669_00011",
+      "de_DE": [
+        "Das kommt jetzt vielleicht ein bisschen\n",
+        "plötzlich, aber lass uns doch kämpfen!\r",
+        "Ich und mein PIEPI sind hier:\n",
+        "{STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0669_00012",
+      "de_DE": [
+        "Was ist los? Kannst du nicht kommen?\r",
+        "PIEPI ist vom Warten müde geworden\n",
+        "und eingeschlafen.\f",
+        "Hoffentlich ist es rechtzeitig zum Kampf\f",
+        "wieder wach...\r",
+        "Komm bitte hierher: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0669_00013",
+      "de_DE": [
+        "Ich liebe es, mein PIEPI\n",
+        "herauszuputzen!"
+      ]
+    },
+    {
+      "id": "msg_0669_00014",
+      "de_DE": [
+        "Ich habe neulich eine total niedliche\n",
+        "Poképuppe im Kaufhaus von Dukatia City\f",
+        "entdeckt!\f",
+        "Ich möchte sie dir gerne schenken!\r",
+        "Hol sie dir einfach hier ab:\n",
+        "{STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0669_00015",
+      "de_DE": [
+        "Du holst die Poképuppe nicht ab?\n",
+        "Wo sie doch sooo niedlich ist!\r",
+        "Hol sie dir doch bitte ab!\n",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0669_00016",
+      "de_DE": "Großpapa"
+    },
+    {
+      "id": "msg_0669_00017",
+      "de_DE": "Großmama"
+    },
+    {
+      "id": "msg_0669_00018",
+      "de_DE": "Mama"
+    },
+    {
+      "id": "msg_0669_00019",
+      "de_DE": "Papa"
+    },
+    {
+      "id": "msg_0669_00020",
+      "de_DE": "Schwester"
+    },
+    {
+      "id": "msg_0669_00021",
+      "de_DE": "Bruderherz"
+    }
+  ]
+}

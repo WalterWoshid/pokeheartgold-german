@@ -1,0 +1,254 @@
+{
+  "key": 42199,
+  "messages": [
+    {
+      "id": "msg_0441_00000",
+      "de_DE": "Bitte warte einen Moment."
+    },
+    {
+      "id": "msg_0441_00001",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0441_00002",
+      "de_DE": "{STRVAR_1 0, 0, 0} komplett geheilt."
+    },
+    {
+      "id": "msg_0441_00003",
+      "de_DE": [
+        "Als Nächstes kommt Kampf Nr. {STRVAR_1 53, 0, 0}!\n",
+        "Bist du bereit?"
+      ]
+    },
+    {
+      "id": "msg_0441_00004",
+      "de_DE": [
+        "Möchtest du den letzten Kampf als dein\n",
+        "Kampfvideo speichern?"
+      ]
+    },
+    {
+      "id": "msg_0441_00005",
+      "de_DE": [
+        "Kampf von {STRVAR_1 3, 0, 0} wurde als\n",
+        "Kampfvideo gespeichert.\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00006",
+      "de_DE": [
+        "Ein Fehler ist aufgetreten. Das Kampf-\n",
+        "video konnte nicht gespeichert werden."
+      ]
+    },
+    {
+      "id": "msg_0441_00007",
+      "de_DE": [
+        "Dein existierendes Kampfvideo löschen\n",
+        "und den letzten Kampf speichern?"
+      ]
+    },
+    {
+      "id": "msg_0441_00008",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0441_00009",
+      "de_DE": [
+        "Möchtest du speichern und\n",
+        "eine Pause einlegen?"
+      ]
+    },
+    {
+      "id": "msg_0441_00010",
+      "de_DE": [
+        "Möchtest du dich aus dieser Kampfsaal-\n",
+        "Herausforderung zurückziehen?"
+      ]
+    },
+    {
+      "id": "msg_0441_00011",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wählt gerade.\n",
+        "Bitte warten."
+      ]
+    },
+    {
+      "id": "msg_0441_00012",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0441_00013",
+      "de_DE": "{STRVAR_1 3, 0, 0} hat sich zurückgezogen."
+    },
+    {
+      "id": "msg_0441_00014",
+      "de_DE": [
+        "Du hast dein zehntes Spiel im Kampfsaal\n",
+        "geschafft! Glückwunsch!\r",
+        "Für deine enorme Siegesserie gebühren\n",
+        "dir und {STRVAR_1 0, 0, 0} GP als Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00015",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_1 51, 1, 0} GP!\r"
+    },
+    {
+      "id": "msg_0441_00016",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0441_00017",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0441_00018",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0441_00019",
+      "de_DE": "FORTFAHREN"
+    },
+    {
+      "id": "msg_0441_00020",
+      "de_DE": "AUFZEICHNEN"
+    },
+    {
+      "id": "msg_0441_00021",
+      "de_DE": "AUSRUHEN"
+    },
+    {
+      "id": "msg_0441_00022",
+      "de_DE": "ZURÜCKZIEHEN"
+    },
+    {
+      "id": "msg_0441_00023",
+      "de_DE": [
+        "Bitte wähle den Pokémon-Typ, gegen\n",
+        "den du antreten möchtest.\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00024",
+      "de_DE": [
+        "Möchtest du gegen {STRVAR_1 15, 0, 0}-Pokémon,\n",
+        "Rang {STRVAR_1 51, 1, 0}, antreten?"
+      ]
+    },
+    {
+      "id": "msg_0441_00025",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0441_00026",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0441_00027",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0441_00028",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0441_00029",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0441_00030",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0441_00031",
+      "de_DE": "Gegen die Saaldiva antreten?"
+    },
+    {
+      "id": "msg_0441_00032",
+      "de_DE": [
+        "Entschuldige bitte!\n",
+        "Warte bitte einen Moment.\r",
+        "In Anerkennung deiner bemerkenswerten\n",
+        "Siegesserie fordert dich unsere\f",
+        "Kampfkoryphäe zu einem Kampf heraus.\r",
+        "Im Grunde genommen hast du keine Wahl.\r",
+        "Du musst gegen unsere Saaldiva\n",
+        "antreten!\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00033",
+      "de_DE": [
+        "Argenta: In meinem Kampfsaal können\n",
+        "Trainer Herausforderungen mit ihrem\f",
+        "Lieblings-Pokémon bestreiten.\r",
+        "Es war sicher nicht leicht, mit deinem\n",
+        "Lieblings-Pokémon hierher zu kommen.\r",
+        "Aber eine echte Herausforderung macht\n",
+        "einen Sieg umso bedeutender.\r",
+        "Ich heiße Argenta. Dies ist deine letzte\n",
+        "und anspruchvollste Herausforderung.\r",
+        "Stelle dich ihr, wenn du dich traust!\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00034",
+      "de_DE": [
+        "Argenta: Unglaublich!\n",
+        "Du meine Güte, dein Pokémon...\f",
+        "Es ist so unglaublich stark.\r",
+        "Selbst aus dem Inneren seines Pokéballs\n",
+        "dringt seine Ausstrahlung zu mir durch.\r",
+        "Aber ich bin die Saaldiva.\n",
+        "Ich werde das selbst beurteilen.\r",
+        "Ein Kampf wird beweisen, ob ich mit\n",
+        "meinem Gefühl richtig liege.\r",
+        "Daher müssen wir jetzt gegeneinander\n",
+        "antreten.\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00035",
+      "de_DE": [
+        "Argenta: Ein guter Trainer zwingt\n",
+        "niemandem sein Lieblings-Pokémon auf.\r",
+        "Ein guter Trainer hält ohne großes\n",
+        "Aufsehen daran fest.\r",
+        "So sehe ich das zumindest.\r",
+        "Und meiner Ansicht nach bist du ein\n",
+        "hervorragender Trainer!\r",
+        "Besuche den Kampfsaal erneut mit\n",
+        "einem deiner liebsten Pokémon.\r",
+        "Bis dann also, auf Wiedersehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00036",
+      "de_DE": [
+        "Argenta: Du darfst nicht vergessen,\n",
+        "dass an diesem Ort jeder glänzen kann!\r",
+        "Das gilt auch für alle Arten von\n",
+        "Pokémon.\r",
+        "Sage das allen in deinen eigenen Worten\n",
+        "weiter. Jeder sollte das wissen.\r",
+        "Und nun, nach meiner Niederlage, habe\n",
+        "ich nichts weiter zu sagen bis auf...\r",
+        "Auf Wiedersehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00037",
+      "de_DE": [
+        "Bitte wähle den Pokémon-Typ, gegen\n",
+        "den du antreten möchtest."
+      ]
+    }
+  ]
+}

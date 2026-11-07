@@ -1,0 +1,310 @@
+{
+  "key": 62028,
+  "messages": [
+    {
+      "id": "msg_0748_00000",
+      "de_DE": "{STRVAR_1 6, 0, 0}{CURSOR_X 120}{STRVAR_1 51, 1, 0} GP"
+    },
+    {
+      "id": "msg_0748_00001",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0}\n",
+        "      {STRVAR_1 51, 1, 0} GP"
+      ]
+    },
+    {
+      "id": "msg_0748_00002",
+      "de_DE": "WEITER"
+    },
+    {
+      "id": "msg_0748_00003",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0748_00004",
+      "de_DE": [
+        "Wenn du an nichts anderes als Pokémon-\n",
+        "Kämpfe denken kannst, will ich dir etwas\f",
+        "behilflich sein! Man nennt mich\f",
+        "den alten Attacken-Tutor!\r",
+        "Wenn du deine Gewinnpunkte mit mir\n",
+        "teilst, bringe ich dir dafür\f",
+        "Techniken und Attacken bei! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00005",
+      "de_DE": [
+        "So ein Pech aber auch!\n",
+        "Diesem Pokémon kann ich leider\f",
+        "keine Attacken beibringen!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00006",
+      "de_DE": [
+        "So ein Pech aber auch!\n",
+        "Deine Gewinnpunkte reichen nicht aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00007",
+      "de_DE": [
+        "Du willst es also sein lassen,\n",
+        "{STRVAR_1 0, 0, 0} etwas beizubringen?\f",
+        "Habe ich dich richtig verstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00008",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} versucht, {STRVAR_1 6, 1, 0}\n",
+        "neu dazuzulernen...\r",
+        "Oh, aber leider verfügt\n",
+        "{STRVAR_1 0, 0, 0} schon über vier Attacken\f",
+        "und kann keine neuen mehr lernen!\r",
+        "Willst du für {STRVAR_1 6, 1, 0} eine\n",
+        "andere Attacke vergessen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00009",
+      "de_DE": [
+        "Du willst, dass es {STRVAR_1 6, 2, 0}\n",
+        "vergisst? Ist das richtig so? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00010",
+      "de_DE": [
+        "Das heißt, du willst es sein lassen,\n",
+        "{STRVAR_1 6, 1, 0} dazuzulernen. Habe\f",
+        "ich dich richtig verstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00011",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00012",
+      "de_DE": "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}...puff!"
+    },
+    {
+      "id": "msg_0748_00013",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "vergessen!\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00014",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} gelernt! Wahnsinn!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00015",
+      "de_DE": [
+        "Dann bis dann mal! Ich freue mich\n",
+        "schon darauf, dich wiederzusehen!"
+      ]
+    },
+    {
+      "id": "msg_0748_00016",
+      "de_DE": [
+        "Ich bin’s, der alte Attacken-Tutor!\n",
+        "Leuten wie dir, die bei Pokémon-Kämpfen\f",
+        "aufs Ganze gehen, stehe ich immer mit\f",
+        "Rat und Tat zur Seite!\r",
+        "Wenn du deine Gewinnpunkte mit mir\n",
+        "teilst, bringe ich dir doch glatt ein\f",
+        "paar übermächtige Attacken bei! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00017",
+      "de_DE": [
+        "Zu dumm!\n",
+        "Diesem Pokémon kann ich\f",
+        "keine Attacken beibringen!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00018",
+      "de_DE": [
+        "Zu dumm!\n",
+        "Deine Gewinnpunkte reichen nicht aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00019",
+      "de_DE": [
+        "Du willst es also sein lassen,\n",
+        "{STRVAR_1 0, 0, 0} etwas beizubringen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00020",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} versucht, {STRVAR_1 6, 1, 0}\n",
+        "neu dazuzulernen...\r",
+        "Oh, aber leider verfügt\n",
+        "{STRVAR_1 0, 0, 0} schon über vier Attacken\f",
+        "und kann keine neuen mehr lernen!\r",
+        "Willst du für {STRVAR_1 6, 1, 0} eine\n",
+        "andere Attacke vergessen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00021",
+      "de_DE": [
+        "{STRVAR_1 6, 2, 0} soll also vergessen\n",
+        "werden. Das stimmt doch so, oder? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00022",
+      "de_DE": [
+        "Hm... dann soll {STRVAR_1 6, 1, 0} also\n",
+        "nicht dazugelernt werden?\f",
+        "Na, wenn du meinst! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00023",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00024",
+      "de_DE": "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}...kaploff!"
+    },
+    {
+      "id": "msg_0748_00025",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "vergessen!\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00026",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} gelernt! Jippieh!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00027",
+      "de_DE": "Also dann! Bis zum nächsten Mal!"
+    },
+    {
+      "id": "msg_0748_00028",
+      "de_DE": [
+        "Ich bin’s, der alte Attacken-Tutor! Ein\n",
+        "Freund leidenschaftlicher Pokémon-\f",
+        "Kämpfe ist auch mein Freund!\r",
+        "Wenn du deine Gewinnpunkte mit mir\n",
+        "teilst, bringe ich dir mark-\f",
+        "erschütternde neue Attacken bei! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00029",
+      "de_DE": [
+        "Tja...\n",
+        "Ich glaube, diesem Pokémon kann\f",
+        "ich keine neuen Attacken beibringen.\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00030",
+      "de_DE": [
+        "Ach, Verdruss!\n",
+        "Du hast nicht genügend Gewinnpunkte.\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00031",
+      "de_DE": [
+        "Soll {STRVAR_1 0, 0, 0} keine neue\n",
+        "Attacke erlernen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00032",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} versucht, {STRVAR_1 6, 1, 0}\n",
+        "neu dazuzulernen...\r",
+        "Oh, aber leider verfügt\n",
+        "{STRVAR_1 0, 0, 0} schon über vier Attacken\f",
+        "und kann keine neuen mehr lernen!\r",
+        "Willst du für {STRVAR_1 6, 1, 0}\n",
+        "eine andere Attacke vergessen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00033",
+      "de_DE": [
+        "{STRVAR_1 6, 2, 0} soll also vergessen\n",
+        "werden. Das stimmt doch so, oder? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00034",
+      "de_DE": [
+        "Das heißt... {STRVAR_1 6, 1, 0} soll\n",
+        "also nicht dazugelernt werden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0748_00035",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00036",
+      "de_DE": "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}...fwump!"
+    },
+    {
+      "id": "msg_0748_00037",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "vergessen!\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00038",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} gelernt!\r"
+      ]
+    },
+    {
+      "id": "msg_0748_00039",
+      "de_DE": [
+        "Dann bis zum nächsten Mal!\n",
+        "Komm jederzeit wieder, wenn du\f",
+        "Gewinnpunkte ausgeben möchtest!"
+      ]
+    },
+    {
+      "id": "msg_0748_00040",
+      "de_DE": [
+        "Also, einem Ei eine Attacke beizubringen\n",
+        "ist mir dann doch zu albern..."
+      ]
+    }
+  ]
+}

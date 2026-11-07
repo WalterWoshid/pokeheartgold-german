@@ -1,0 +1,133 @@
+{
+  "key": 30168,
+  "messages": [
+    {
+      "id": "msg_0710_00000",
+      "de_DE": "Wolf"
+    },
+    {
+      "id": "msg_0710_00001",
+      "de_DE": [
+        "Willste mit ’nem alten Feuerspucker\n",
+        "wie mir Telefonnummern tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0710_00002",
+      "de_DE": [
+        "Sauber!\r",
+        "Wenn ich telefoniere, höre ich\n",
+        "ausnahmsweise auf mit Feuerspucken.\f",
+        "Also ruf mich an!"
+      ]
+    },
+    {
+      "id": "msg_0710_00003",
+      "de_DE": [
+        "Wusste ich’s doch.\n",
+        "Keiner mag Leute, denen ständig\f",
+        "Flammen aus dem Mund kommen..."
+      ]
+    },
+    {
+      "id": "msg_0710_00004",
+      "de_DE": [
+        "Oho?!?\n",
+        "Willst du auch mit mir Feuer spucken?\r",
+        "...Ach was, ich meine natürlich...\r",
+        "Willst du nun doch Nummern mit\n",
+        "mir tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0710_00005",
+      "de_DE": [
+        "Keine Panik!\n",
+        "Ich verbrenne dich schon nicht.\f",
+        "Du kannst ruhig rüberkommen."
+      ]
+    },
+    {
+      "id": "msg_0710_00006",
+      "de_DE": [
+        "Wir Feuerspucker sind sehr\n",
+        "missverstandene Individuen.\f",
+        "Die Leute denken, wir würden\f",
+        "unsere Pokémon mit Feuer gefügig\f",
+        "machen, aber das stimmt nicht!\r",
+        "Wir trainieren sie ganz normal wie\n",
+        "andere Leute auch!\f",
+        "Nicht wahr, {STRVAR_1 0, 10, 0}?\r",
+        "Feuerspucken ist einfach nur ein\n",
+        "Hobby für uns!"
+      ]
+    },
+    {
+      "id": "msg_0710_00007",
+      "de_DE": [
+        "Fwoooosch!\r",
+        "Na, wie war das?\n",
+        "Ich habe eine neue Feuerspuck-\f",
+        "Technik entdeckt!\r",
+        "Aber über das Telefon kommt das nicht\n",
+        "so gut herüber.\r",
+        "Themawechsel! Gestern habe ich\n",
+        "ein {STRVAR_1 0, 11, 0} gefangen!\r",
+        "Bald ist es trainiert und kampfbereit."
+      ]
+    },
+    {
+      "id": "msg_0710_00008",
+      "de_DE": [
+        "Moment, magst du etwa {STRVAR_1 0, 11, 0}?\r",
+        "Ich? ...Na ja, ich finde sie ganz okay.\r",
+        "Aber so läuft es eben in der Welt."
+      ]
+    },
+    {
+      "id": "msg_0710_00009",
+      "de_DE": [
+        "Fwoooosch!\n",
+        "Oh, heute bin ich gut in Form!\r",
+        "Willst du nicht mal wieder mit mir\n",
+        "kämpfen? Ich habe viel geübt!\f",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0710_00010",
+      "de_DE": [
+        "Ich bin kampfbereit und warte\n",
+        "hier: {STRVAR_1 4, 3, 0}!\f",
+        "Beeil dich mal ein bisschen!"
+      ]
+    },
+    {
+      "id": "msg_0710_00011",
+      "de_DE": [
+        "Dass es viele verschiedene Typen\n",
+        "von Pokémon gibt, ist dir ja nicht neu.\r",
+        "Alle haben sie ihre Schwächen und\n",
+        "Stärken, also kann man nicht einfach\f",
+        "pauschal behaupten, ein Typ wäre\f",
+        "besser als ein anderer.\r",
+        "Und dennoch...\r",
+        "Ich kann nicht anders! Feuer-Pokémon\n",
+        "sind mir eindeutig die liebsten!\f",
+        "Fwooooosch!"
+      ]
+    },
+    {
+      "id": "msg_0710_00012",
+      "de_DE": [
+        "Wusstest du schon?\n",
+        "Heute findet das Käferturnier statt.\r",
+        "Ich stehe zwar nicht so besonders auf\n",
+        "Käfer-Pokémon, doch der Nationalpark\f",
+        "liegt auf Route 35 und damit quasi\f",
+        "um die Ecke. Vielleicht sollte ich\f",
+        "es einmal damit versuchen?"
+      ]
+    }
+  ]
+}

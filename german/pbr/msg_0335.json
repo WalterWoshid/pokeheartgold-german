@@ -1,0 +1,388 @@
+{
+  "key": 2287,
+  "messages": [
+    {
+      "id": "msg_0335_00000",
+      "de_DE": [
+        "Eibe: Ah, {STRVAR_1 3, 0}!\r",
+        "Du kommst, um mir deine Fortschritte\n",
+        "beim Pokédex zu zeigen?"
+      ]
+    },
+    {
+      "id": "msg_0335_00001",
+      "de_DE": [
+        "Hmmm...\r",
+        "Du bist {STRVAR_1 52, 0} Pokémon\n",
+        "in Sinnoh begegnet...\r"
+      ]
+    },
+    {
+      "id": "msg_0335_00002",
+      "de_DE": [
+        "Stimmt etwas nicht?\r",
+        "Du willst mir doch nicht etwa sagen,\n",
+        "dass du dich schämst?\r",
+        "Bist du etwa so wenigen begegnet?"
+      ]
+    },
+    {
+      "id": "msg_0335_00003",
+      "de_DE": [
+        "Eibe: Wie ich sehe, arbeitest du sehr\n",
+        "hart an deinem Nationalen Pokédex.\r",
+        "Du bist für Großes geschaffen!"
+      ]
+    },
+    {
+      "id": "msg_0335_00004",
+      "de_DE": [
+        "Ausgezeichnet!\r",
+        "Wie ich sehe, bist du schon allen Arten\n",
+        "von Pokémon in Sinnoh begegnet!\r",
+        "{STRVAR_1 3, 0}, komm unbedingt in mein\n",
+        "Labor. Ich warte dort auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0335_00005",
+      "de_DE": [
+        "Wie ich sehe, bist du schon allen Arten\n",
+        "von Pokémon in Sinnoh begegnet!"
+      ]
+    },
+    {
+      "id": "msg_0335_00006",
+      "de_DE": [
+        "Du musst dich mehr bemühen,\n",
+        "wilden Pokémon zu begegnen.\r",
+        "Trau dich ruhig, und lauf durch\n",
+        "hohes Gras!"
+      ]
+    },
+    {
+      "id": "msg_0335_00007",
+      "de_DE": [
+        "Du wirst immer besser. Es ist\n",
+        "eindeutig eine Verbesserung zu sehen!"
+      ]
+    },
+    {
+      "id": "msg_0335_00008",
+      "de_DE": [
+        "Gib nicht so schnell auf.\n",
+        "Suche nach Pokémon, die nur\f",
+        "an bestimmten Orten auftauchen."
+      ]
+    },
+    {
+      "id": "msg_0335_00009",
+      "de_DE": [
+        "Pokémon verstecken sich nicht\n",
+        "nur im hohen Gras.\r",
+        "Du findest auch viele von ihnen\n",
+        "in Höhlen oder im Wasser."
+      ]
+    },
+    {
+      "id": "msg_0335_00010",
+      "de_DE": [
+        "Dein Pokédex sieht von\n",
+        "Mal zu Mal besser aus!"
+      ]
+    },
+    {
+      "id": "msg_0335_00011",
+      "de_DE": [
+        "Angelst du auch manchmal?\r",
+        "Pokémon, die im Wasser leben, können\n",
+        "mit Angeln gefangen werden."
+      ]
+    },
+    {
+      "id": "msg_0335_00012",
+      "de_DE": [
+        "Trainer, die dich herausfordern, haben\n",
+        "selbstverständlich auch Pokémon.\r",
+        "Manche davon könnten seltene Exemplare\n",
+        "sein, mit denen du den Pokédex füllst."
+      ]
+    },
+    {
+      "id": "msg_0335_00013",
+      "de_DE": [
+        "Dein Pokédex ist auf dem besten Weg,\n",
+        "vollständig ausgefüllt zu werden.\r",
+        "Betrachte diesen Pokédex als eine\n",
+        "Art Tagebuch deines Abenteuers."
+      ]
+    },
+    {
+      "id": "msg_0335_00014",
+      "de_DE": [
+        "Bald schon bist du jedem Pokémon\n",
+        "begegnet, das es in Sinnoh gibt!"
+      ]
+    },
+    {
+      "id": "msg_0335_00015",
+      "de_DE": [
+        "Eich: Ah, {STRVAR_1 3, 0}!\r",
+        "Du kommst, um mir deine Fortschritte\n",
+        "beim Pokédex zu zeigen?"
+      ]
+    },
+    {
+      "id": "msg_0335_00016",
+      "de_DE": [
+        "Eich: Ah, {STRVAR_1 3, 0}!\r",
+        "Du kommst, um mir deine Fortschritte\n",
+        "beim Pokédex zu zeigen?"
+      ]
+    },
+    {
+      "id": "msg_0335_00017",
+      "de_DE": [
+        "Hmmm...\n",
+        "Du hast bislang {STRVAR_1 52, 0} gefangen...\r"
+      ]
+    },
+    {
+      "id": "msg_0335_00018",
+      "de_DE": [
+        "Wie du meinst...\r",
+        "Besuch mich ruhig, wenn ich einen\n",
+        "Blick auf deinen Pokédex werfen soll."
+      ]
+    },
+    {
+      "id": "msg_0335_00019",
+      "de_DE": [
+        "Man sagt, es gibt mindestens 400 Arten\n",
+        "von Pokémon im ganzen Land.\r",
+        "Willst du sie alle fangen, musst du\n",
+        "mit dem Herzen bei der Sache sein."
+      ]
+    },
+    {
+      "id": "msg_0335_00020",
+      "de_DE": [
+        "Hm! Nach und nach füllt sich dein\n",
+        "Pokédex mit den Daten der Pokémon,\f",
+        "denen du begegnet bist.\r",
+        "Mach weiter so!"
+      ]
+    },
+    {
+      "id": "msg_0335_00021",
+      "de_DE": [
+        "Ein kleiner Tipp zum Fangen\n",
+        "von wilden Pokémon.\r",
+        "Reduziere ihre KP, bevor du versuchst,\n",
+        "sie mit einem Pokéball zu fangen."
+      ]
+    },
+    {
+      "id": "msg_0335_00022",
+      "de_DE": [
+        "Bedenke: Wenn du sie nicht fangen\n",
+        "kannst, hilft vielleicht Tauschen.\r",
+        "Sobald du ein Pokémon eintauschst,\n",
+        "hast du seine Daten im Pokédex.\r",
+        "Deshalb solltest du so viel tauschen,\n",
+        "wie es irgendwie nur möglich ist."
+      ]
+    },
+    {
+      "id": "msg_0335_00023",
+      "de_DE": [
+        "Warst du schon am Großmoor?\r",
+        "Manche Pokémon tauchen nur an\n",
+        "besonderen Orten wie diesem auf."
+      ]
+    },
+    {
+      "id": "msg_0335_00024",
+      "de_DE": [
+        "Bestimmt ist dir bekannt, dass\n",
+        "sich manche Pokémon entwickeln.\r",
+        "Auch das solltest du bei deiner Arbeit\n",
+        "mit dem Pokédex nicht vergessen."
+      ]
+    },
+    {
+      "id": "msg_0335_00025",
+      "de_DE": [
+        "Du hast dich würdig erwiesen.\n",
+        "Also mach dir keine Sorgen.\r",
+        "Fang weiter Pokémon, so wie du\n",
+        "das bislang auch getan hast."
+      ]
+    },
+    {
+      "id": "msg_0335_00026",
+      "de_DE": [
+        "Ist dir bewusst, dass es mehr als\n",
+        "einen Entwicklungsstil gibt?\r",
+        "Manche Pokémon entwickeln sich\n",
+        "erst, wenn sie Freundschaft mit\f",
+        "dem Trainer geschlossen haben."
+      ]
+    },
+    {
+      "id": "msg_0335_00027",
+      "de_DE": [
+        "Offenbar gibt es Pokémon, die\n",
+        "gelegentlich in Schwärmen auftauchen.\r",
+        "Lass dir das nicht entgehen!"
+      ]
+    },
+    {
+      "id": "msg_0335_00028",
+      "de_DE": [
+        "Hervorragend! Du bist schon\n",
+        "über 300 Pokémon begegnet!\r",
+        "Das an sich ist bereits eine\n",
+        "besondere Errungenschaft!\r",
+        "Aber ich weiß, dass du dich\n",
+        "noch steigern kannst."
+      ]
+    },
+    {
+      "id": "msg_0335_00029",
+      "de_DE": [
+        "Manche wilden Pokémon tauchen nur\n",
+        "zu einer bestimmten Tageszeit auf.\r",
+        "Du musst rund um die Uhr nach \n",
+        "Pokémon Ausschau halten."
+      ]
+    },
+    {
+      "id": "msg_0335_00030",
+      "de_DE": [
+        "Ich habe Berichte über verschiedene\n",
+        "Pokémon-Sichtungen erhalten.\r",
+        "Ich meine, Sichtungen von Pokémon,\n",
+        "die normalerweise nicht in Sinnoh\f",
+        "vorkommen.\r",
+        "Vielleicht solltest du in Gegenden\n",
+        "zurückgehen, die du bereits kennst.\r",
+        "Womöglich begegnest du dort Pokémon,\n",
+        "die vorher noch nicht da waren."
+      ]
+    },
+    {
+      "id": "msg_0335_00031",
+      "de_DE": [
+        "{STRVAR_1 3, 0}, warst du in letzter\n",
+        "Zeit im Park der Freunde?\r",
+        "Es könnte dort Pokémon geben, die\n",
+        "in Sinnoh eine echte Rarität sind."
+      ]
+    },
+    {
+      "id": "msg_0335_00032",
+      "de_DE": [
+        "{STRVAR_1 3, 0}, warst du in letzter\n",
+        "Zeit im Park der Freunde?\r",
+        "Es könnte dort Pokémon geben, die\n",
+        "in Sinnoh eine echte Rarität sind."
+      ]
+    },
+    {
+      "id": "msg_0335_00033",
+      "de_DE": [
+        "Hm! Dein Pokédex ist ja\n",
+        "beinahe vollständig.\r",
+        "Könntest du dir eine Karriere als\n",
+        "Pokémon-Professor vorstellen?"
+      ]
+    },
+    {
+      "id": "msg_0335_00034",
+      "de_DE": [
+        "Hm... Deine Sammlung an gefangenen\n",
+        "Pokémon ist geradezu beeindruckend.\r",
+        "Du musstest sicher alle möglichen Kniffe\n",
+        "einsetzen, um sie dir alle zu holen.\r",
+        "Halte Ausschau nach raschelndem hohen\n",
+        "Gras und sieh dich dort genau um."
+      ]
+    },
+    {
+      "id": "msg_0335_00035",
+      "de_DE": [
+        "Die Vielseitigkeit der Pokémon\n",
+        "ist mir nach wie vor ein Rätsel.\r",
+        "Auch heute erwische ich mich noch dabei,\n",
+        "dass ich immer wieder baff bin."
+      ]
+    },
+    {
+      "id": "msg_0335_00036",
+      "de_DE": [
+        "Gute Arbeit! Lange dauert es nicht\n",
+        "mehr, bis dein Pokédex vollständig ist.\r",
+        "Auf diesen Moment freue\n",
+        "ich mich jetzt schon.\r",
+        "Dann dürfte sich auch deine Meinung\n",
+        "über Pokémon geändert haben!"
+      ]
+    },
+    {
+      "id": "msg_0335_00037",
+      "de_DE": [
+        "Hm... Es dauert nicht mehr lange,\n",
+        "bis dein Pokédex vollständig ist.\r",
+        "Überlege doch mal, was dir fehlt.\n",
+        "Hast du vielleicht etwas übersehen?\r",
+        "Du bist SO nah dran! Gib jetzt nicht\n",
+        "auf! Dein Pokédex muss vollständig sein."
+      ]
+    },
+    {
+      "id": "msg_0335_00038",
+      "de_DE": [
+        "{STRVAR_1 3, 0}!\n",
+        "Schlussendlich hast du es geschafft!\r",
+        "Du hast tatsächlich den \n",
+        "Nationalen Pokédex vervollständigt!\r",
+        "Das ist noch besser, als exotischen\n",
+        "Pokémon zum ersten Mal zu begegnen!\r",
+        "Ich bin geehrt, einen solchen Trainer\n",
+        "als meinen Freund bezeichnen zu dürfen!\r",
+        "Aus tiefstem Herzen danke ich dir für\n",
+        "deine aufopferungsvolle Arbeit!"
+      ]
+    },
+    {
+      "id": "msg_0335_00039",
+      "de_DE": [
+        "{STRVAR_1 3, 0}!\n",
+        "Schlussendlich hast du es geschafft!\r",
+        "Du hast tatsächlich den \n",
+        "Nationalen Pokédex vervollständigt!\r",
+        "Das ist noch besser, als exotischen\n",
+        "Pokémon zum ersten Mal zu begegnen!\r",
+        "Ich bin geehrt, eine solche Trainerin\n",
+        "als Freundin bezeichnen zu dürfen!\r",
+        "Aus tiefstem Herzen danke ich dir für\n",
+        "deine aufopferungsvolle Arbeit!"
+      ]
+    },
+    {
+      "id": "msg_0335_00040",
+      "de_DE": [
+        "Die Verbindung zu Prof. Eibes\n",
+        "PC wurde hergestellt.\r"
+      ]
+    },
+    {
+      "id": "msg_0335_00041",
+      "de_DE": [
+        "Die Verbindung zu Prof. Eichs\n",
+        "PC wurde hergestellt.\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "key": 17183,
+  "messages": [
+    {
+      "id": "msg_0341_00000",
+      "de_DE": [
+        "Major Bob: Oh, Salut!\n",
+        "Das Pokémon, das da für dich stramm-\f",
+        "steht, ist ein PIKACHU! Die verehre ich!\r",
+        "Ausgezeichnet, Rekrut!\r",
+        "Ich werde dir meine Telefonnummer\n",
+        "verraten!\f",
+        "Du willst doch, dass ich sie dir\f",
+        "verrate, oder Rekrut? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0341_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Major Bobs Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0341_00002",
+      "de_DE": [
+        "Major Bob: Anfragen wegen\n",
+        "Pokémon-Kämpfen werden\f",
+        "grundsätzlich ausschließlich\f",
+        "Freitag früh angenommen!"
+      ]
+    },
+    {
+      "id": "msg_0341_00003",
+      "de_DE": [
+        "Major Bob: Unfassbar!\n",
+        "Du enttäuschst mich, Rekrut!"
+      ]
+    },
+    {
+      "id": "msg_0341_00004",
+      "de_DE": [
+        "Major Bob: Wie zu erwarten war.\n",
+        "Jetzt bettelst du also doch noch\f",
+        "um meine Telefonnummer, was? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0341_00005",
+      "de_DE": [
+        "Major Bob: Oha! So sieht man sich\n",
+        "wieder. Das nennt man wohl Zufall.\r",
+        "In der Nähe des Kraftwerks kann\n",
+        "man das Prickeln der Elektrizität\f",
+        "auf seiner Haut spüren!\r",
+        "Wenn du dir im Vertania-Wald ein\n",
+        "PIKACHU schnappst und es mit hierher\f",
+        "bringst, wäre das strategisch sinnvoll."
+      ]
+    },
+    {
+      "id": "msg_0341_00006",
+      "de_DE": [
+        "Ein großes Pokémon\n",
+        "starrt dir ins Gesicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0341_00007",
+      "de_DE": "ZAPDOS: Zap, zap, zap!\r"
+    },
+    {
+      "id": "msg_0341_00008",
+      "de_DE": "Kanto-Kraftwerk"
+    },
+    {
+      "id": "msg_0341_00009",
+      "de_DE": "Der Felstunnel"
+    }
+  ]
+}

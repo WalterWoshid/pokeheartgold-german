@@ -1,0 +1,140 @@
+{
+  "key": 54704,
+  "messages": [
+    {
+      "id": "msg_0692_00000",
+      "de_DE": "Bert"
+    },
+    {
+      "id": "msg_0692_00001",
+      "de_DE": [
+        "Lass uns Telefonnummern austauschen!\n",
+        "Gemeinsam entdecken wir bestimmt\f",
+        "viele Vorteile der Käfer-Pokémon! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0692_00002",
+      "de_DE": [
+        "Super! Danke dir!\n",
+        "Ich rufe dich ganz bestimmt an!"
+      ]
+    },
+    {
+      "id": "msg_0692_00003",
+      "de_DE": "Och, sei doch nicht so kratzbürstig..."
+    },
+    {
+      "id": "msg_0692_00004",
+      "de_DE": [
+        "Rückst du nun endlich mit\n",
+        "deiner Nummer raus? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0692_00005",
+      "de_DE": [
+        "Ah, da kommst du ja endlich!\r",
+        "Ich warte hier schon eine halbe\n",
+        "Ewigkeit, um dir diese Beere zu geben.\r",
+        "Hier hast du sie!\r"
+      ]
+    },
+    {
+      "id": "msg_0692_00006",
+      "de_DE": [
+        "So geht das aber nicht!\r",
+        "Du bist doch ganz in der Nähe!\n",
+        "Da ruft man nicht an,\f",
+        "sondern kommt persönlich vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0692_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} entwickelt sich\n",
+        "ziemlich ordentlich!\r",
+        "Erst neulich hat es ein {STRVAR_1 0, 11, 0}...\r",
+        "Zack!\r",
+        "...mit einem Angriff umgehauen!\r",
+        "Zack!\r",
+        "Das ist schon ein Ding, oder?"
+      ]
+    },
+    {
+      "id": "msg_0692_00008",
+      "de_DE": [
+        "Mann, das war vielleicht eine\n",
+        "Stimmungsbremse! Mein {STRVAR_1 0, 10, 0} ist\f",
+        "schon ziemlich stark geworden.\r",
+        "Da dachte ich, so ein {STRVAR_1 0, 11, 0}\n",
+        "besiegt es mit Leichtigkeit.\r",
+        "Aber auf den zweiten Blick hatte es\n",
+        "einen weit höheren Level als meins!\f",
+        "Wir haben haushoch verloren!"
+      ]
+    },
+    {
+      "id": "msg_0692_00009",
+      "de_DE": [
+        "Neulich kam urplötzlich ein {STRVAR_1 0, 11, 0}\n",
+        "vor mir auf die Straße gesprungen!\r",
+        "Es hat mich zu Tode erschreckt - meine\n",
+        "Liebe zu Pokémon hin oder her, da wäre\f",
+        "wohl jeder überrascht gewesen!\r",
+        "Können die sich nicht vorher anmelden,\n",
+        "anstatt mich so zu überrumpeln?"
+      ]
+    },
+    {
+      "id": "msg_0692_00010",
+      "de_DE": [
+        "Ich würde dir gerne mal wieder eine\n",
+        "Lektion in Sachen\f",
+        "Vorzüge der Käfer-Pokémon erteilen!\r",
+        "Wann passt es dir gut?\n",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\f",
+        "Komm rüber und kämpfe mit mir!"
+      ]
+    },
+    {
+      "id": "msg_0692_00011",
+      "de_DE": [
+        "Lass uns mal wieder kämpfen!\n",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\f",
+        "Und vergiss mich nicht!"
+      ]
+    },
+    {
+      "id": "msg_0692_00012",
+      "de_DE": [
+        "Mein Vater war Pokémon-Forscher, und\n",
+        "sein Spezialgebiet waren Käfer-Pokémon.\r",
+        "Darum wimmelte es bei mir zu Hause schon\n",
+        "von klein auf nur so vor Käfer-Pokémon.\r",
+        "Dank seiner Passion bin ich nun auch\n",
+        "verrückt nach ihnen.\r",
+        "Nur meine Mutter... die Arme kommt aus\n",
+        "dem Kreischen gar nicht mehr heraus."
+      ]
+    },
+    {
+      "id": "msg_0692_00013",
+      "de_DE": [
+        "Ich habe eine Beere aufgetan!\n",
+        "Ich habe schon mehr als genug,\f",
+        "also schenke ich sie dir!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\n",
+        "Komm und hol sie dir ab!"
+      ]
+    },
+    {
+      "id": "msg_0692_00014",
+      "de_DE": [
+        "Willst du nun die Beere oder nicht?\r",
+        "Ich schenke sie dir.\n",
+        "Komm hierher: {STRVAR_1 4, 3, 0}!"
+      ]
+    }
+  ]
+}

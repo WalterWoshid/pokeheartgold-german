@@ -1,0 +1,125 @@
+{
+  "key": 9246,
+  "messages": [
+    {
+      "id": "msg_0449_00000",
+      "de_DE": [
+        "Sarah: Hi! Mein kleiner Bruder\n",
+        "ist Arenaleiter in Vertania City.\r",
+        "Aber er verlässt die Stadt so oft,\n",
+        "dass er den Trainern damit das\f",
+        "Leben schwer macht."
+      ]
+    },
+    {
+      "id": "msg_0449_00001",
+      "de_DE": [
+        "Sarah: Hallo! Gutes Timing!\n",
+        "Ich war gerade dabei, Tee zu machen.\r",
+        "Nanu? Dein Pokémon-Team scheint sich\n",
+        "etwas schmutzig gemacht zu haben!\r",
+        "Wenn du sie ein bisschen hübsch machst,\n",
+        "steigt ihr Glanz. Dadurch werden sie\f",
+        "hübscher und auch zutraulicher!\r",
+        "Was sagst du, soll ich sie für dich\n",
+        "ein wenig aufstylen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0449_00002",
+      "de_DE": [
+        "Sarah: Welches Pokémon\n",
+        "soll ich verschönern?\r"
+      ]
+    },
+    {
+      "id": "msg_0449_00003",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} scheint es sehr\n",
+        "zu genießen!"
+      ]
+    },
+    {
+      "id": "msg_0449_00004",
+      "de_DE": [
+        "Sarah: Fertig!\n",
+        "Ist es nicht wunderschön geworden?\r",
+        "Hihihi...\n",
+        "Es ist ja so ein süßes Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0449_00005",
+      "de_DE": [
+        "Sarah: Ich trinke jeden Tag um\n",
+        "diese Zeit meinen Tee.\f",
+        "Komm ruhig mal wieder!"
+      ]
+    },
+    {
+      "id": "msg_0449_00006",
+      "de_DE": [
+        "Sarah: Ich soll also keins deiner\n",
+        "Pokémon ein bisschen aufstylen?\f",
+        "Gut, dann trinke ich jetzt meinen Tee."
+      ]
+    },
+    {
+      "id": "msg_0449_00007",
+      "de_DE": [
+        "Sarah: Hihihi! Ein Ei kann ich nun\n",
+        "wirklich nicht aufstylen!"
+      ]
+    },
+    {
+      "id": "msg_0449_00008",
+      "de_DE": [
+        "Sarah: Hihihi!\n",
+        "Du bist wirklich sehr auf gepflegte\f",
+        "Pokémon bedacht, was?\r",
+        "Also gut!\n",
+        "Ich glaube, ich gebe dir die\f",
+        "Nummer meines kleinen Bruders.\r",
+        "Er ist Arenaleiter in Vertania City.\n",
+        "Hast du schon gegen ihn gekämpft?\r",
+        "Also, wie sieht’s aus?\n",
+        "Willst du seine Nummer wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0449_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Blaus Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0449_00010",
+      "de_DE": [
+        "Sarah: Ruf ihn doch mal an, wenn\n",
+        "du Lust darauf hast!\r",
+        "Er ist zwar ein bisschen ungehobelt,\n",
+        "aber er fühlt sich schnell alleine.\r",
+        "Erreichen kannst du ihn...\n",
+        "Ja, ich glaube, er sagte, dass er immer\f",
+        "sonntagabends erreichbar sei!\f",
+        "Hihihi!"
+      ]
+    },
+    {
+      "id": "msg_0449_00011",
+      "de_DE": [
+        "Sarah: Wie? Du willst die Nummer nicht?\n",
+        "Ach so...\f",
+        "Das finde ich jetzt aber echt schade..."
+      ]
+    },
+    {
+      "id": "msg_0449_00012",
+      "de_DE": [
+        "Sarah: Soll ich dir die Nummer\n",
+        "meines Bruders verraten? {YESNO 0}"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "key": 41994,
+  "messages": [
+    {
+      "id": "msg_0262_00000",
+      "de_DE": [
+        "Oh, ich verstehe! Dann spielst du also\n",
+        "gerade mit meiner Enkelin Verstecken!\r",
+        "Na ja, solange sie auf dem Schiff ist,\n",
+        "brauche ich mir keine Sorgen machen."
+      ]
+    },
+    {
+      "id": "msg_0262_00001",
+      "de_DE": [
+        "Oh, hallo... ich kann meine Enkelin\n",
+        "immer noch nicht finden!\r",
+        "Wenn ich nur wüsste, dass sie hier an\n",
+        "Bord ist, wäre ich bereits beruhigt...\r",
+        "Aber andererseits ist sie so ein\n",
+        "Energiebündel, dass sie wahrscheinlich\f",
+        "irgendjemandem zur Last fällt.\f",
+        "Oh nein, jetzt mache ich mir\f",
+        "noch mehr Sorgen als zuvor!"
+      ]
+    },
+    {
+      "id": "msg_0262_00002",
+      "de_DE": [
+        "Hallo Opa, da bin ich wieder!\r",
+        "Der Onkel hier und ich haben\n",
+        "auf dem Schiff Verstecken gespielt!\r"
+      ]
+    },
+    {
+      "id": "msg_0262_00003",
+      "de_DE": [
+        "Hallo Opa, da bin ich wieder!\r",
+        "Die Tante hier und ich haben\n",
+        "auf dem Schiff Verstecken gespielt!\r"
+      ]
+    },
+    {
+      "id": "msg_0262_00004",
+      "de_DE": [
+        "Ähm, {STRVAR_1 3, 0, 0} war dein Name, oder?\n",
+        "Vielen Dank, dass du meine Enkelin\f",
+        "bei Laune gehalten hast!\r",
+        "Weißt du was? Ich möchte dir etwas\n",
+        "schenken! Hier, bitte nimm das.\r"
+      ]
+    },
+    {
+      "id": "msg_0262_00005",
+      "de_DE": [
+        "Ähm, {STRVAR_1 3, 0, 0} war dein Name, oder?\n",
+        "Vielen Dank, dass du meine Enkelin\f",
+        "bei Laune gehalten hast!\r",
+        "Weißt du was? Ich möchte dir etwas\n",
+        "schenken! Hier, bitte nimm das.\r"
+      ]
+    },
+    {
+      "id": "msg_0262_00006",
+      "de_DE": [
+        "Die M.S. Aqua hat nun in\n",
+        "Orania City angelegt!"
+      ]
+    },
+    {
+      "id": "msg_0262_00007",
+      "de_DE": [
+        "Wir machen eine Reise\n",
+        "rund um die Welt!"
+      ]
+    },
+    {
+      "id": "msg_0262_00008",
+      "de_DE": "Das Spielen hat echt Spaß gemacht!"
+    }
+  ]
+}

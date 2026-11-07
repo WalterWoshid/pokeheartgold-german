@@ -1,0 +1,32 @@
+{
+  "key": 41388,
+  "messages": [
+    {
+      "id": "msg_0801_00000",
+      "de_DE": [
+        "Zum Anzeigen d. Spielerposition X-Knopf\n",
+        "über einem farbigen Punkt drücken."
+      ]
+    },
+    {
+      "id": "msg_0801_00001",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0801_00002",
+      "de_DE": "ORTSNAME"
+    },
+    {
+      "id": "msg_0801_00003",
+      "de_DE": "{STRVAR_1 36, 0, 0}"
+    },
+    {
+      "id": "msg_0801_00004",
+      "de_DE": "{STRVAR_1 37, 0, 0}"
+    },
+    {
+      "id": "msg_0801_00005",
+      "de_DE": "Gast-Profile verlassen?"
+    }
+  ]
+}

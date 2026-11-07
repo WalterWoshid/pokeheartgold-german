@@ -1,0 +1,1865 @@
+{
+  "key": 41760,
+  "messages": [
+    {
+      "id": "msg_0346_00000",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00001",
+      "de_DE": "{COLOR 255}Meisterball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00002",
+      "de_DE": "{COLOR 255}Hyperball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00003",
+      "de_DE": "{COLOR 255}Superball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00004",
+      "de_DE": "{COLOR 255}Pokéball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00005",
+      "de_DE": "{COLOR 255}Safariball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00006",
+      "de_DE": "{COLOR 255}Netzball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00007",
+      "de_DE": "{COLOR 255}Tauchball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00008",
+      "de_DE": "{COLOR 255}Nestball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00009",
+      "de_DE": "{COLOR 255}Wiederball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00010",
+      "de_DE": "{COLOR 255}Timerball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00011",
+      "de_DE": "{COLOR 255}Luxusball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00012",
+      "de_DE": "{COLOR 255}Premierball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00013",
+      "de_DE": "{COLOR 255}Finsterball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00014",
+      "de_DE": "{COLOR 255}Heilball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00015",
+      "de_DE": "{COLOR 255}Flottball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00016",
+      "de_DE": "{COLOR 255}Jubelball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00017",
+      "de_DE": "{COLOR 255}Trank{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00018",
+      "de_DE": "{COLOR 255}Gegengift{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00019",
+      "de_DE": "{COLOR 255}Feuerheiler{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00020",
+      "de_DE": "{COLOR 255}Eisheiler{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00021",
+      "de_DE": "{COLOR 255}Aufwecker{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00022",
+      "de_DE": "{COLOR 255}Para-Heiler{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00023",
+      "de_DE": "{COLOR 255}Top-Genesung{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00024",
+      "de_DE": "{COLOR 255}Top-Trank{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00025",
+      "de_DE": "{COLOR 255}Hypertrank{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00026",
+      "de_DE": "{COLOR 255}Supertrank{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00027",
+      "de_DE": "{COLOR 255}Hyperheiler{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00028",
+      "de_DE": "{COLOR 255}Beleber{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00029",
+      "de_DE": "{COLOR 255}Top-Beleber{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00030",
+      "de_DE": "{COLOR 255}Tafelwasser{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00031",
+      "de_DE": "{COLOR 255}Sprudel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00032",
+      "de_DE": "{COLOR 255}Limonade{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00033",
+      "de_DE": "{COLOR 255}Kuhmuh-Milch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00034",
+      "de_DE": "{COLOR 255}Energiestaub{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00035",
+      "de_DE": "{COLOR 255}Kraftwurzel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00036",
+      "de_DE": "{COLOR 255}Heilpuder{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00037",
+      "de_DE": "{COLOR 255}Vitalkraut{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00038",
+      "de_DE": "{COLOR 255}Äther{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00039",
+      "de_DE": "{COLOR 255}Top-Äther{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00040",
+      "de_DE": "{COLOR 255}Elixier{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00041",
+      "de_DE": "{COLOR 255}Top-Elixier{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00042",
+      "de_DE": "{COLOR 255}Lavakeks{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00043",
+      "de_DE": "{COLOR 255}Beerensaft{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00044",
+      "de_DE": "{COLOR 255}Zauberasche{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00045",
+      "de_DE": "{COLOR 255}KP-Plus{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00046",
+      "de_DE": "{COLOR 255}Protein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00047",
+      "de_DE": "{COLOR 255}Eisen{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00048",
+      "de_DE": "{COLOR 255}Carbon{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00049",
+      "de_DE": "{COLOR 255}Kalzium{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00050",
+      "de_DE": "{COLOR 255}Sonderbonbon{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00051",
+      "de_DE": "{COLOR 255}AP-Plus{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00052",
+      "de_DE": "{COLOR 255}Zink{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00053",
+      "de_DE": "{COLOR 255}AP-Top{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00054",
+      "de_DE": "{COLOR 255}Spezialität{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00055",
+      "de_DE": "{COLOR 255}Megablock{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00056",
+      "de_DE": "{COLOR 255}Angriffplus{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00057",
+      "de_DE": "{COLOR 255}X-Angriff{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00058",
+      "de_DE": "{COLOR 255}X-Abwehr{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00059",
+      "de_DE": "{COLOR 255}X-Tempo{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00060",
+      "de_DE": "{COLOR 255}X-Treffer{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00061",
+      "de_DE": "{COLOR 255}X-Spezial{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00062",
+      "de_DE": "{COLOR 255}X-SpezialVer{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00063",
+      "de_DE": "{COLOR 255}Poképuppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00064",
+      "de_DE": "{COLOR 255}Eneco-Rute{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00065",
+      "de_DE": "{COLOR 255}Blaue Flöte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00066",
+      "de_DE": "{COLOR 255}Gelbe Flöte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00067",
+      "de_DE": "{COLOR 255}Rote Flöte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00068",
+      "de_DE": "{COLOR 255}Schw. Flöte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00069",
+      "de_DE": "{COLOR 255}Weiße Flöte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00070",
+      "de_DE": "{COLOR 255}Küstensalze{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00071",
+      "de_DE": "{COLOR 255}Küstenschale{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00072",
+      "de_DE": "{COLOR 255}Purpurstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00073",
+      "de_DE": "{COLOR 255}Indigostück{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00074",
+      "de_DE": "{COLOR 255}Gelbstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00075",
+      "de_DE": "{COLOR 255}Grünstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00076",
+      "de_DE": "{COLOR 255}Superschutz{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00077",
+      "de_DE": "{COLOR 255}Top-Schutz{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00078",
+      "de_DE": "{COLOR 255}Fluchtseil{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00079",
+      "de_DE": "{COLOR 255}Schutz{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00080",
+      "de_DE": "{COLOR 255}Sonnenstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00081",
+      "de_DE": "{COLOR 255}Mondstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00082",
+      "de_DE": "{COLOR 255}Feuerstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00083",
+      "de_DE": "{COLOR 255}Donnerstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00084",
+      "de_DE": "{COLOR 255}Wasserstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00085",
+      "de_DE": "{COLOR 255}Blattstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00086",
+      "de_DE": "{COLOR 255}Minipilz{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00087",
+      "de_DE": "{COLOR 255}Riesenpilz{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00088",
+      "de_DE": "{COLOR 255}Perle{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00089",
+      "de_DE": "{COLOR 255}Riesenperle{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00090",
+      "de_DE": "{COLOR 255}Sternenstaub{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00091",
+      "de_DE": "{COLOR 255}Sternenstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00092",
+      "de_DE": "{COLOR 255}Nugget{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00093",
+      "de_DE": "{COLOR 255}Herzschuppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00094",
+      "de_DE": "{COLOR 255}Honig{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00095",
+      "de_DE": "{COLOR 255}Wachsmulch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00096",
+      "de_DE": "{COLOR 255}Feuchtmulch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00097",
+      "de_DE": "{COLOR 255}Stabilmulch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00098",
+      "de_DE": "{COLOR 255}Neumulch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00099",
+      "de_DE": "{COLOR 255}Wurzelfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00100",
+      "de_DE": "{COLOR 255}Klauenfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00101",
+      "de_DE": "{COLOR 255}Helixfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00102",
+      "de_DE": "{COLOR 255}Domfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00103",
+      "de_DE": "{COLOR 255}Altbernstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00104",
+      "de_DE": "{COLOR 255}Panzerfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00105",
+      "de_DE": "{COLOR 255}Kopffossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00106",
+      "de_DE": "{COLOR 255}Steinknochen{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00107",
+      "de_DE": "{COLOR 255}Leuchtstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00108",
+      "de_DE": "{COLOR 255}Finsterstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00109",
+      "de_DE": "{COLOR 255}Funkelstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00110",
+      "de_DE": "{COLOR 255}Ovaler Stein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00111",
+      "de_DE": "{COLOR 255}Spiritkern{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00112",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00113",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00114",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00115",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00116",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00117",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00118",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00119",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00120",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00121",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00122",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00123",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00124",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00125",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00126",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00127",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00128",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00129",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00130",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00131",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00132",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00133",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00134",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0346_00135",
+      "de_DE": "{COLOR 255}Adamant-Orb{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00136",
+      "de_DE": "{COLOR 255}Weiß-Orb{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00137",
+      "de_DE": "{COLOR 255}Wiesenbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00138",
+      "de_DE": "{COLOR 255}Feuerbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00139",
+      "de_DE": "{COLOR 255}Wasserbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00140",
+      "de_DE": "{COLOR 255}Blütenbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00141",
+      "de_DE": "{COLOR 255}Minenbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00142",
+      "de_DE": "{COLOR 255}Stahlbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00143",
+      "de_DE": "{COLOR 255}Rosabrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00144",
+      "de_DE": "{COLOR 255}Schneebrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00145",
+      "de_DE": "{COLOR 255}Sternbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00146",
+      "de_DE": "{COLOR 255}Luftbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00147",
+      "de_DE": "{COLOR 255}Mosaikbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00148",
+      "de_DE": "{COLOR 255}Ziegelbrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00149",
+      "de_DE": "{COLOR 255}Amrenabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00150",
+      "de_DE": "{COLOR 255}Maronbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00151",
+      "de_DE": "{COLOR 255}Pirsifbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00152",
+      "de_DE": "{COLOR 255}Fragiabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00153",
+      "de_DE": "{COLOR 255}Wilbirbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00154",
+      "de_DE": "{COLOR 255}Jonagobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00155",
+      "de_DE": "{COLOR 255}Sinelbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00156",
+      "de_DE": "{COLOR 255}Persimbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00157",
+      "de_DE": "{COLOR 255}Prunusbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00158",
+      "de_DE": "{COLOR 255}Tsitrubeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00159",
+      "de_DE": "{COLOR 255}Giefebeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00160",
+      "de_DE": "{COLOR 255}Wikibeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00161",
+      "de_DE": "{COLOR 255}Magobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00162",
+      "de_DE": "{COLOR 255}Gauvebeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00163",
+      "de_DE": "{COLOR 255}Yapabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00164",
+      "de_DE": "{COLOR 255}Himmihbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00165",
+      "de_DE": "{COLOR 255}Morbbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00166",
+      "de_DE": "{COLOR 255}Nanabbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00167",
+      "de_DE": "{COLOR 255}Nirbebeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00168",
+      "de_DE": "{COLOR 255}Sananabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00169",
+      "de_DE": "{COLOR 255}Granabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00170",
+      "de_DE": "{COLOR 255}Setangbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00171",
+      "de_DE": "{COLOR 255}Qualotbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00172",
+      "de_DE": "{COLOR 255}Honmelbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00173",
+      "de_DE": "{COLOR 255}Labrusbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00174",
+      "de_DE": "{COLOR 255}Tamotbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00175",
+      "de_DE": "{COLOR 255}Saimbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00176",
+      "de_DE": "{COLOR 255}Magostbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00177",
+      "de_DE": "{COLOR 255}Rabutabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00178",
+      "de_DE": "{COLOR 255}Tronzibeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00179",
+      "de_DE": "{COLOR 255}Kiwanbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00180",
+      "de_DE": "{COLOR 255}Pallmbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00181",
+      "de_DE": "{COLOR 255}Wasmelbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00182",
+      "de_DE": "{COLOR 255}Durinbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00183",
+      "de_DE": "{COLOR 255}Myrtilbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00184",
+      "de_DE": "{COLOR 255}Koakobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00185",
+      "de_DE": "{COLOR 255}Foepasbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00186",
+      "de_DE": "{COLOR 255}Kerzalbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00187",
+      "de_DE": "{COLOR 255}Grindobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00188",
+      "de_DE": "{COLOR 255}Kiroyabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00189",
+      "de_DE": "{COLOR 255}Rospelbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00190",
+      "de_DE": "{COLOR 255}Grarzbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00191",
+      "de_DE": "{COLOR 255}Schukebeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00192",
+      "de_DE": "{COLOR 255}Kobabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00193",
+      "de_DE": "{COLOR 255}Pyapabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00194",
+      "de_DE": "{COLOR 255}Tanigabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00195",
+      "de_DE": "{COLOR 255}Chiaribeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00196",
+      "de_DE": "{COLOR 255}Zitarzbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00197",
+      "de_DE": "{COLOR 255}Terirobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00198",
+      "de_DE": "{COLOR 255}Burleobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00199",
+      "de_DE": "{COLOR 255}Babiribeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00200",
+      "de_DE": "{COLOR 255}Latchibeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00201",
+      "de_DE": "{COLOR 255}Lydzibeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00202",
+      "de_DE": "{COLOR 255}Linganbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00203",
+      "de_DE": "{COLOR 255}Salkabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00204",
+      "de_DE": "{COLOR 255}Tahaybeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00205",
+      "de_DE": "{COLOR 255}Apikobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00206",
+      "de_DE": "{COLOR 255}Lansatbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00207",
+      "de_DE": "{COLOR 255}Krambobeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00208",
+      "de_DE": "{COLOR 255}Enigmabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00209",
+      "de_DE": "{COLOR 255}Wunfrubeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00210",
+      "de_DE": "{COLOR 255}Eipfelbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00211",
+      "de_DE": "{COLOR 255}Jabocabeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00212",
+      "de_DE": "{COLOR 255}Roselbeere{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00213",
+      "de_DE": "{COLOR 255}Blendpuder{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00214",
+      "de_DE": "{COLOR 255}Schlohkraut{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00215",
+      "de_DE": "{COLOR 255}Machoband{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00216",
+      "de_DE": "{COLOR 255}EP-Teiler{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00217",
+      "de_DE": "{COLOR 255}Flinkklaue{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00218",
+      "de_DE": "{COLOR 255}Sanftglocke{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00219",
+      "de_DE": "{COLOR 255}Mentalkraut{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00220",
+      "de_DE": "{COLOR 255}Wahlband{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00221",
+      "de_DE": "{COLOR 255}King-Stein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00222",
+      "de_DE": "{COLOR 255}Silberstaub{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00223",
+      "de_DE": "{COLOR 255}Münzamulett{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00224",
+      "de_DE": "{COLOR 255}Schutzband{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00225",
+      "de_DE": "{COLOR 255}Seelentau{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00226",
+      "de_DE": "{COLOR 255}Abysszahn{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00227",
+      "de_DE": "{COLOR 255}Abyssplatte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00228",
+      "de_DE": "{COLOR 255}Rauchball{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00229",
+      "de_DE": "{COLOR 255}Ewigstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00230",
+      "de_DE": "{COLOR 255}Fokus-Band{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00231",
+      "de_DE": "{COLOR 255}Glücks-Ei{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00232",
+      "de_DE": "{COLOR 255}Scope-Linse{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00233",
+      "de_DE": "{COLOR 255}Metallmantel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00234",
+      "de_DE": "{COLOR 255}Überreste{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00235",
+      "de_DE": "{COLOR 255}Drachenhaut{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00236",
+      "de_DE": "{COLOR 255}Kugelblitz{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00237",
+      "de_DE": "{COLOR 255}Pudersand{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00238",
+      "de_DE": "{COLOR 255}Granitstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00239",
+      "de_DE": "{COLOR 255}Wundersaat{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00240",
+      "de_DE": "{COLOR 255}Schattenglas{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00241",
+      "de_DE": "{COLOR 255}Schwarzgurt{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00242",
+      "de_DE": "{COLOR 255}Magnet{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00243",
+      "de_DE": "{COLOR 255}Zauberwasser{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00244",
+      "de_DE": "{COLOR 255}Hackattack{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00245",
+      "de_DE": "{COLOR 255}Giftstich{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00246",
+      "de_DE": "{COLOR 255}Ewiges Eis{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00247",
+      "de_DE": "{COLOR 255}Bannsticker{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00248",
+      "de_DE": "{COLOR 255}Krummlöffel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00249",
+      "de_DE": "{COLOR 255}Holzkohle{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00250",
+      "de_DE": "{COLOR 255}Drachenzahn{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00251",
+      "de_DE": "{COLOR 255}Seidenschal{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00252",
+      "de_DE": "{COLOR 255}Up-Grade{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00253",
+      "de_DE": "{COLOR 255}Seegesang{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00254",
+      "de_DE": "{COLOR 255}Seerauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00255",
+      "de_DE": "{COLOR 255}Laxrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00256",
+      "de_DE": "{COLOR 255}LuckyPunch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00257",
+      "de_DE": "{COLOR 255}Metallstaub{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00258",
+      "de_DE": "{COLOR 255}Kampfknochen{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00259",
+      "de_DE": "{COLOR 255}Lauchstange{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00260",
+      "de_DE": "{COLOR 255}Roter Schal{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00261",
+      "de_DE": "{COLOR 255}Blauer Schal{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00262",
+      "de_DE": "{COLOR 255}Rosa Schal{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00263",
+      "de_DE": "{COLOR 255}Grüner Schal{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00264",
+      "de_DE": "{COLOR 255}Gelber Schal{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00265",
+      "de_DE": "{COLOR 255}Großlinse{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00266",
+      "de_DE": "{COLOR 255}Muskelband{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00267",
+      "de_DE": "{COLOR 255}Schlauglas{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00268",
+      "de_DE": "{COLOR 255}Expertengürtel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00269",
+      "de_DE": "{COLOR 255}Lichtlehm{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00270",
+      "de_DE": "{COLOR 255}Leben-Orb{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00271",
+      "de_DE": "{COLOR 255}Energiekraut{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00272",
+      "de_DE": "{COLOR 255}Toxik-Orb{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00273",
+      "de_DE": "{COLOR 255}Heiß-Orb{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00274",
+      "de_DE": "{COLOR 255}Flottstaub{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00275",
+      "de_DE": "{COLOR 255}Fokusgurt{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00276",
+      "de_DE": "{COLOR 255}Zoomlinse{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00277",
+      "de_DE": "{COLOR 255}Metronom{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00278",
+      "de_DE": "{COLOR 255}Eisenkugel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00279",
+      "de_DE": "{COLOR 255}Schwerschwf.{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00280",
+      "de_DE": "{COLOR 255}Fatumknoten{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00281",
+      "de_DE": "{COLOR 255}Giftschleim{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00282",
+      "de_DE": "{COLOR 255}Eisbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00283",
+      "de_DE": "{COLOR 255}Glattbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00284",
+      "de_DE": "{COLOR 255}Heißbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00285",
+      "de_DE": "{COLOR 255}Nassbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00286",
+      "de_DE": "{COLOR 255}Griffklaue{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00287",
+      "de_DE": "{COLOR 255}Wahlschal{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00288",
+      "de_DE": "{COLOR 255}Klettdorn{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00289",
+      "de_DE": "{COLOR 255}Machtreif{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00290",
+      "de_DE": "{COLOR 255}Machtgurt{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00291",
+      "de_DE": "{COLOR 255}Machtlinse{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00292",
+      "de_DE": "{COLOR 255}Machtband{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00293",
+      "de_DE": "{COLOR 255}Machtkette{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00294",
+      "de_DE": "{COLOR 255}Machtgewicht{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00295",
+      "de_DE": "{COLOR 255}Wechselhülle{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00296",
+      "de_DE": "{COLOR 255}Großwurzel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00297",
+      "de_DE": "{COLOR 255}Wahlglas{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00298",
+      "de_DE": "{COLOR 255}Feuertafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00299",
+      "de_DE": "{COLOR 255}Wassertafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00300",
+      "de_DE": "{COLOR 255}Blitztafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00301",
+      "de_DE": "{COLOR 255}Wiesentafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00302",
+      "de_DE": "{COLOR 255}Frosttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00303",
+      "de_DE": "{COLOR 255}Fausttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00304",
+      "de_DE": "{COLOR 255}Gifttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00305",
+      "de_DE": "{COLOR 255}Erdtafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00306",
+      "de_DE": "{COLOR 255}Wolkentafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00307",
+      "de_DE": "{COLOR 255}Hirntafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00308",
+      "de_DE": "{COLOR 255}Käfertafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00309",
+      "de_DE": "{COLOR 255}Steintafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00310",
+      "de_DE": "{COLOR 255}Spuktafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00311",
+      "de_DE": "{COLOR 255}Dracotafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00312",
+      "de_DE": "{COLOR 255}Furchttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00313",
+      "de_DE": "{COLOR 255}Eisentafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00314",
+      "de_DE": "{COLOR 255}Schrägrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00315",
+      "de_DE": "{COLOR 255}Steinrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00316",
+      "de_DE": "{COLOR 255}Lahmrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00317",
+      "de_DE": "{COLOR 255}Wellenrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00318",
+      "de_DE": "{COLOR 255}Rosenrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00319",
+      "de_DE": "{COLOR 255}Glücksrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00320",
+      "de_DE": "{COLOR 255}Scheuchrauch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00321",
+      "de_DE": "{COLOR 255}Schützer{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00322",
+      "de_DE": "{COLOR 255}Stromisierer{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00323",
+      "de_DE": "{COLOR 255}Magmaisierer{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00324",
+      "de_DE": "{COLOR 255}Dubiosdisc{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00325",
+      "de_DE": "{COLOR 255}Düsterumhang{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00326",
+      "de_DE": "{COLOR 255}Scharfklaue{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00327",
+      "de_DE": "{COLOR 255}Scharfzahn{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00328",
+      "de_DE": "{COLOR 255}TM01{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00329",
+      "de_DE": "{COLOR 255}TM02{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00330",
+      "de_DE": "{COLOR 255}TM03{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00331",
+      "de_DE": "{COLOR 255}TM04{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00332",
+      "de_DE": "{COLOR 255}TM05{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00333",
+      "de_DE": "{COLOR 255}TM06{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00334",
+      "de_DE": "{COLOR 255}TM07{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00335",
+      "de_DE": "{COLOR 255}TM08{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00336",
+      "de_DE": "{COLOR 255}TM09{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00337",
+      "de_DE": "{COLOR 255}TM10{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00338",
+      "de_DE": "{COLOR 255}TM11{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00339",
+      "de_DE": "{COLOR 255}TM12{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00340",
+      "de_DE": "{COLOR 255}TM13{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00341",
+      "de_DE": "{COLOR 255}TM14{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00342",
+      "de_DE": "{COLOR 255}TM15{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00343",
+      "de_DE": "{COLOR 255}TM16{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00344",
+      "de_DE": "{COLOR 255}TM17{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00345",
+      "de_DE": "{COLOR 255}TM18{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00346",
+      "de_DE": "{COLOR 255}TM19{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00347",
+      "de_DE": "{COLOR 255}TM20{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00348",
+      "de_DE": "{COLOR 255}TM21{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00349",
+      "de_DE": "{COLOR 255}TM22{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00350",
+      "de_DE": "{COLOR 255}TM23{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00351",
+      "de_DE": "{COLOR 255}TM24{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00352",
+      "de_DE": "{COLOR 255}TM25{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00353",
+      "de_DE": "{COLOR 255}TM26{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00354",
+      "de_DE": "{COLOR 255}TM27{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00355",
+      "de_DE": "{COLOR 255}TM28{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00356",
+      "de_DE": "{COLOR 255}TM29{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00357",
+      "de_DE": "{COLOR 255}TM30{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00358",
+      "de_DE": "{COLOR 255}TM31{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00359",
+      "de_DE": "{COLOR 255}TM32{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00360",
+      "de_DE": "{COLOR 255}TM33{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00361",
+      "de_DE": "{COLOR 255}TM34{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00362",
+      "de_DE": "{COLOR 255}TM35{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00363",
+      "de_DE": "{COLOR 255}TM36{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00364",
+      "de_DE": "{COLOR 255}TM37{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00365",
+      "de_DE": "{COLOR 255}TM38{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00366",
+      "de_DE": "{COLOR 255}TM39{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00367",
+      "de_DE": "{COLOR 255}TM40{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00368",
+      "de_DE": "{COLOR 255}TM41{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00369",
+      "de_DE": "{COLOR 255}TM42{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00370",
+      "de_DE": "{COLOR 255}TM43{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00371",
+      "de_DE": "{COLOR 255}TM44{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00372",
+      "de_DE": "{COLOR 255}TM45{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00373",
+      "de_DE": "{COLOR 255}TM46{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00374",
+      "de_DE": "{COLOR 255}TM47{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00375",
+      "de_DE": "{COLOR 255}TM48{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00376",
+      "de_DE": "{COLOR 255}TM49{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00377",
+      "de_DE": "{COLOR 255}TM50{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00378",
+      "de_DE": "{COLOR 255}TM51{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00379",
+      "de_DE": "{COLOR 255}TM52{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00380",
+      "de_DE": "{COLOR 255}TM53{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00381",
+      "de_DE": "{COLOR 255}TM54{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00382",
+      "de_DE": "{COLOR 255}TM55{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00383",
+      "de_DE": "{COLOR 255}TM56{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00384",
+      "de_DE": "{COLOR 255}TM57{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00385",
+      "de_DE": "{COLOR 255}TM58{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00386",
+      "de_DE": "{COLOR 255}TM59{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00387",
+      "de_DE": "{COLOR 255}TM60{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00388",
+      "de_DE": "{COLOR 255}TM61{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00389",
+      "de_DE": "{COLOR 255}TM62{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00390",
+      "de_DE": "{COLOR 255}TM63{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00391",
+      "de_DE": "{COLOR 255}TM64{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00392",
+      "de_DE": "{COLOR 255}TM65{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00393",
+      "de_DE": "{COLOR 255}TM66{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00394",
+      "de_DE": "{COLOR 255}TM67{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00395",
+      "de_DE": "{COLOR 255}TM68{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00396",
+      "de_DE": "{COLOR 255}TM69{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00397",
+      "de_DE": "{COLOR 255}TM70{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00398",
+      "de_DE": "{COLOR 255}TM71{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00399",
+      "de_DE": "{COLOR 255}TM72{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00400",
+      "de_DE": "{COLOR 255}TM73{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00401",
+      "de_DE": "{COLOR 255}TM74{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00402",
+      "de_DE": "{COLOR 255}TM75{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00403",
+      "de_DE": "{COLOR 255}TM76{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00404",
+      "de_DE": "{COLOR 255}TM77{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00405",
+      "de_DE": "{COLOR 255}TM78{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00406",
+      "de_DE": "{COLOR 255}TM79{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00407",
+      "de_DE": "{COLOR 255}TM80{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00408",
+      "de_DE": "{COLOR 255}TM81{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00409",
+      "de_DE": "{COLOR 255}TM82{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00410",
+      "de_DE": "{COLOR 255}TM83{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00411",
+      "de_DE": "{COLOR 255}TM84{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00412",
+      "de_DE": "{COLOR 255}TM85{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00413",
+      "de_DE": "{COLOR 255}TM86{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00414",
+      "de_DE": "{COLOR 255}TM87{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00415",
+      "de_DE": "{COLOR 255}TM88{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00416",
+      "de_DE": "{COLOR 255}TM89{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00417",
+      "de_DE": "{COLOR 255}TM90{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00418",
+      "de_DE": "{COLOR 255}TM91{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00419",
+      "de_DE": "{COLOR 255}TM92{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00420",
+      "de_DE": "{COLOR 255}VM01{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00421",
+      "de_DE": "{COLOR 255}VM02{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00422",
+      "de_DE": "{COLOR 255}VM03{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00423",
+      "de_DE": "{COLOR 255}VM04{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00424",
+      "de_DE": "{COLOR 255}VM05{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00425",
+      "de_DE": "{COLOR 255}VM06{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00426",
+      "de_DE": "{COLOR 255}VM07{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00427",
+      "de_DE": "{COLOR 255}VM08{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00428",
+      "de_DE": "{COLOR 255}Forschersack{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00429",
+      "de_DE": "{COLOR 255}Beutesack{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00430",
+      "de_DE": "{COLOR 255}Regelbuch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00431",
+      "de_DE": "{COLOR 255}Pokéradar{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00432",
+      "de_DE": "{COLOR 255}Punktekarte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00433",
+      "de_DE": "{COLOR 255}Tagebuch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00434",
+      "de_DE": "{COLOR 255}Stick.Koffer{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00435",
+      "de_DE": "{COLOR 255}Modekoffer{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00436",
+      "de_DE": "{COLOR 255}Stickertüte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00437",
+      "de_DE": "{COLOR 255}Adressbuch{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00438",
+      "de_DE": "{COLOR 255}K-Schlüssel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00439",
+      "de_DE": "{COLOR 255}Talisman{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00440",
+      "de_DE": "{COLOR 255}G-Schlüssel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00441",
+      "de_DE": "{COLOR 255}RoteKette{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00442",
+      "de_DE": "{COLOR 255}Karte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00443",
+      "de_DE": "{COLOR 255}Kampffahnder{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00444",
+      "de_DE": "{COLOR 255}Münzkorb{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00445",
+      "de_DE": "{COLOR 255}Angel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00446",
+      "de_DE": "{COLOR 255}Profiangel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00447",
+      "de_DE": "{COLOR 255}Superangel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00448",
+      "de_DE": "{COLOR 255}Entonkanne{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00449",
+      "de_DE": "{COLOR 255}Knurspbox{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00450",
+      "de_DE": "{COLOR 255}Fahrrad{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00451",
+      "de_DE": "{COLOR 255}B-Schlüssel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00452",
+      "de_DE": "{COLOR 255}EichsBrief{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00453",
+      "de_DE": "{COLOR 255}Lunarfeder{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00454",
+      "de_DE": "{COLOR 255}Mitgl.Karte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00455",
+      "de_DE": "{COLOR 255}Azurflöte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00456",
+      "de_DE": "{COLOR 255}Bootsticket{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00457",
+      "de_DE": "{COLOR 255}Wettb.-Karte{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00458",
+      "de_DE": "{COLOR 255}Magmastein{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00459",
+      "de_DE": "{COLOR 255}Paket{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00460",
+      "de_DE": "{COLOR 255}Kupon1{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00461",
+      "de_DE": "{COLOR 255}Kupon2{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00462",
+      "de_DE": "{COLOR 255}Kupon3{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00463",
+      "de_DE": "{COLOR 255}L-Schlüssel{COLOR 0}"
+    },
+    {
+      "id": "msg_0346_00464",
+      "de_DE": "{COLOR 255}Geheimtrank{COLOR 0}"
+    }
+  ]
+}

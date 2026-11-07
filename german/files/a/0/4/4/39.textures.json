@@ -1,0 +1,28 @@
+{
+  "textures": [
+    {
+      "name": "t_d_01f",
+      "source": "files/a/0/4/4/39.t_d_01f.png"
+    },
+    {
+      "name": "t_d_02f",
+      "source": "files/a/0/4/4/39.t_d_02f.png"
+    },
+    {
+      "name": "t_d_03f",
+      "source": "files/a/0/4/4/39.t_d_03f.png"
+    },
+    {
+      "name": "t_d_04f",
+      "source": "files/a/0/4/4/39.t_d_04f.png"
+    },
+    {
+      "name": "t_d_05f",
+      "source": "files/a/0/4/4/39.t_d_05f.png"
+    },
+    {
+      "name": "t_d_06f",
+      "source": "files/a/0/4/4/39.t_d_06f.png"
+    }
+  ]
+}

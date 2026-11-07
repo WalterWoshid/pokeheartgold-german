@@ -1,0 +1,242 @@
+{
+  "key": 46179,
+  "messages": [
+    {
+      "id": "msg_0549_00000",
+      "de_DE": [
+        "Lyra: Oh, {STRVAR_1 3, 0, 0}!\r",
+        "Professor Lind hat nach dir verlangt.\n",
+        "Warst du schon bei ihm im Labor?"
+      ]
+    },
+    {
+      "id": "msg_0549_00001",
+      "de_DE": [
+        "Klarin: Oh, {STRVAR_1 3, 0, 0}!\r",
+        "Professor Lind hat nach dir verlangt.\n",
+        "Warst du schon bei ihm im Labor?"
+      ]
+    },
+    {
+      "id": "msg_0549_00002",
+      "de_DE": [
+        "Lyra: Mein MARILL ist so süß...\n",
+        "einfach zum Dahinschmelzen!\f",
+        "Aber dein {STRVAR_1 0, 1, 0} ist auch\f",
+        "sehr putzig, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0549_00003",
+      "de_DE": [
+        "Klarin: Mein MARILL ist so süß...\n",
+        "einfach zum Dahinschmelzen!\f",
+        "Aber dein {STRVAR_1 0, 1, 0} ist auch\f",
+        "sehr putzig, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0549_00004",
+      "de_DE": "MARILL: Mariiill!"
+    },
+    {
+      "id": "msg_0549_00005",
+      "de_DE": [
+        "Lyra: Schon komisch, oder? Wenn man\n",
+        "sein Pokémon dabeihat, macht es gleich\f",
+        "viel mehr Spaß, draußen zu spielen!\f",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "Egal, wo du auch hingehst, du solltest\n",
+        "dein Pokémon immer mitspazieren lassen!\r",
+        "Und vergiss nicht, von Zeit zu Zeit auch\n",
+        "mal ein bisschen mit ihm zu sprechen!\r",
+        "Du wirst dabei sicher viele neue Dinge\n",
+        "über dich und dein Pokémon erfahren!"
+      ]
+    },
+    {
+      "id": "msg_0549_00006",
+      "de_DE": [
+        "Klarin: Schon komisch, oder? Wenn man\n",
+        "sein Pokémon dabeihat, macht es gleich\f",
+        "viel mehr Spaß, draußen zu spielen!\r",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "Egal, wo du auch hingehst, du solltest\n",
+        "dein Pokémon immer mitspazieren lassen!\r",
+        "Und vergiss nicht, von Zeit zu Zeit auch\n",
+        "mal ein bisschen mit ihm zu sprechen!\r",
+        "Du wirst dabei sicher viele neue Dinge\n",
+        "über dich und dein Pokémon erfahren!"
+      ]
+    },
+    {
+      "id": "msg_0549_00007",
+      "de_DE": [
+        "Lyra: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Ist das Pokémon, das du da gerade\f",
+        "spazieren führst, gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem...\n",
+        "Nanu? Dieses Pokémon trägt\f",
+        "irgendeine Art Blatt bei sich...\r",
+        "Ist das etwa ein Glänzendes Blatt?\n",
+        "Die Legenden besagen, dass nur ein\f",
+        "Pokémon, das eine tiefe Freundschaft\f",
+        "mit einem Menschen eingegangen ist,\f",
+        "diese Blätter finden kann...\r",
+        "Außerdem soll man aus fünf von\n",
+        "ihnen eine wunderschöne Krone\f",
+        "flechten können!\r",
+        "Das ist echt unglaublich! Du bist\n",
+        "einfach der Größte, {STRVAR_1 3, 0, 0}!\r",
+        "Wenn du noch ein Glänzendes Blatt\n",
+        "findest, dann zeige es mir bitte wieder!"
+      ]
+    },
+    {
+      "id": "msg_0549_00008",
+      "de_DE": [
+        "Klarin: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Ist das Pokémon, das du da gerade\f",
+        "spazieren führst, gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem...\n",
+        "Nanu? Dieses Pokémon trägt\f",
+        "irgendeine Art Blatt bei sich...\r",
+        "Ist das etwa ein Glänzendes Blatt?\n",
+        "Die Legenden besagen, dass nur ein\f",
+        "Pokémon, das eine tiefe Freundschaft\f",
+        "mit einem Menschen eingegangen ist,\f",
+        "diese Blätter finden kann...\r",
+        "Außerdem soll man aus fünf von\n",
+        "ihnen eine wunderschöne Krone\f",
+        "flechten können!\r",
+        "Das ist echt unglaublich! Du bist\n",
+        "einfach die Größte, {STRVAR_1 3, 0, 0}!\r",
+        "Wenn du noch ein Glänzendes Blatt\n",
+        "findest, dann zeige es mir bitte wieder!"
+      ]
+    },
+    {
+      "id": "msg_0549_00009",
+      "de_DE": [
+        "Lyra: Oh, hallo {STRVAR_1 3, 0, 0}! Ist dein\n",
+        "Pokémon hier gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem\n",
+        "du es von Zeit zu Zeit mal ansprichst!\r",
+        "... ... ...\n",
+        "Wow, und es hat ein Glänzendes Blatt!\r",
+        "Lass mal sehen... damit hast du jetzt\n",
+        "{STRVAR_1 50, 1, 0} Stück gefunden.\f",
+        "Das kann sich doch sehen lassen!\r",
+        "Dann streng dich mal an! {STRVAR_1 50, 2, 0} Stück\n",
+        "noch, und die Krone ist dein!\n"
+      ]
+    },
+    {
+      "id": "msg_0549_00010",
+      "de_DE": [
+        "Klarin: Oh, hallo {STRVAR_1 3, 0, 0}! Ist dein\n",
+        "Pokémon hier gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem\n",
+        "du es von Zeit zu Zeit mal ansprichst!\r",
+        "... ... ...\n",
+        "Wow, und es hat ein Glänzendes Blatt!\r",
+        "Lass mal sehen... damit hast du jetzt\n",
+        "{STRVAR_1 50, 1, 0} Stück gefunden.\f",
+        "Das kann sich doch sehen lassen!\r",
+        "Dann streng dich mal an! {STRVAR_1 50, 2, 0} Stück\n",
+        "noch, und die Krone ist dein!"
+      ]
+    },
+    {
+      "id": "msg_0549_00011",
+      "de_DE": [
+        "Lyra: Oh, hallo {STRVAR_1 3, 0, 0}! Ist dein\n",
+        "Pokémon hier gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem\n",
+        "du es von Zeit zu Zeit mal ansprichst!\r",
+        "... ... ...\n",
+        "Klasse! Das macht die fünf Stück voll!\r",
+        "Alles klar, dann lehne dich jetzt mal\n",
+        "zurück und überlasse den Rest mir!\r",
+        "Ich werde dir eine Krone aus deinen\n",
+        "Glänzenden Blättern flechten!\r",
+        "Und hier hast du noch etwas...\n",
+        "Als kleines Andenken!\r"
+      ]
+    },
+    {
+      "id": "msg_0549_00012",
+      "de_DE": [
+        "Klarin: Oh, hallo {STRVAR_1 3, 0, 0}! Ist dein\n",
+        "Pokémon hier gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem\n",
+        "du es von Zeit zu Zeit mal ansprichst!\r",
+        "... ... ...\n",
+        "Klasse! Das macht die fünf Stück voll!\r",
+        "Alles klar, dann lehne dich jetzt mal\n",
+        "zurück und überlasse den Rest mir!\r",
+        "Ich werde dir eine Krone aus deinen\n",
+        "Glänzenden Blättern flechten!\r",
+        "Und hier hast du noch etwas...\n",
+        "Als kleines Andenken!\r"
+      ]
+    },
+    {
+      "id": "msg_0549_00013",
+      "de_DE": [
+        "Lyra: Vernachlässige nie die\n",
+        "Freundschaft zu deinen Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0549_00014",
+      "de_DE": [
+        "Klarin: Vernachlässige nie die\n",
+        "Freundschaft zu deinen Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0549_00015",
+      "de_DE": [
+        "Lyra: Ach, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Ist das Pokémon, das du gerade\f",
+        "spazieren führst, gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem\n",
+        "du es von Zeit zu Zeit mal ansprichst!\r",
+        "... ... ...\r",
+        "Oh! Du möchtest bestimmt noch einmal\n",
+        "sehen, was du und {STRVAR_1 1, 1, 0}\f",
+        "sich verdient haben, nicht wahr?\r"
+      ]
+    },
+    {
+      "id": "msg_0549_00016",
+      "de_DE": [
+        "Klarin: Ach, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Ist das Pokémon, das du gerade\f",
+        "spazieren führst, gut in Form?\r",
+        "Vertiefe eure Freundschaft, indem\n",
+        "du es von Zeit zu Zeit mal ansprichst!\r",
+        "... ... ...\r",
+        "Oh! Du möchtest bestimmt noch einmal\n",
+        "sehen, was du und {STRVAR_1 1, 1, 0}\f",
+        "sich verdient haben, nicht wahr?\r"
+      ]
+    },
+    {
+      "id": "msg_0549_00017",
+      "de_DE": [
+        "Da steht eine Wii-Konsole!\r",
+        "Auch in Johto sind alle ganz verrückt\n",
+        "nach dieser Wunderkiste!"
+      ]
+    },
+    {
+      "id": "msg_0549_00018",
+      "de_DE": [
+        "Du solltest nicht mit den PCs\n",
+        "anderer Leuten herumspielen."
+      ]
+    }
+  ]
+}

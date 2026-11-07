@@ -1,0 +1,1262 @@
+{
+  "key": 61106,
+  "messages": [
+    {
+      "id": "msg_0203_00000",
+      "garbage": 308
+    },
+    {
+      "id": "msg_0203_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0203_00002",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0203_00003",
+      "de_DE": [
+        "Willkommen in der Wettbewerbshalle.\r",
+        "Ich kann dir helfen, dich für einen\n",
+        "Wettbewerb einzutragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00004",
+      "de_DE": [
+        "Möchtest du dein Pokémon für einen\n",
+        "Wettbewerb anmelden?"
+      ]
+    },
+    {
+      "id": "msg_0203_00005",
+      "de_DE": "Worüber möchtest du mehr erfahren?"
+    },
+    {
+      "id": "msg_0203_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0203_00007",
+      "de_DE": [
+        "Willkommen in der Wettbewerbshalle!\r",
+        "Hier ist die Rezeption für \n",
+        "Link-Wettbewerbe.\r",
+        "Du kannst einer Gruppe von Freunden\n",
+        "beitreten, damit dein Pokémon\f",
+        "am gleichen Wettbewerb teilnimmt.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00008",
+      "de_DE": "EINTRAGEN"
+    },
+    {
+      "id": "msg_0203_00009",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0203_00010",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00011",
+      "de_DE": [
+        "Wir freuen uns auf deine Teilnahme\n",
+        "beim nächsten Mal."
+      ]
+    },
+    {
+      "id": "msg_0203_00012",
+      "de_DE": [
+        "Möchtest du an einem\n",
+        "Link-Wettbewerb teilnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0203_00013",
+      "de_DE": [
+        "Über einen Link können zwei bis vier\n",
+        "Spieler gegeneinander antreten.\r",
+        "Wähle zuerst den Wettbewerb, an dem du\n",
+        "teilnehmen möchtest.\r",
+        "Danach stelle sicher, dass die anderen\n",
+        "Mitglieder deiner Gruppe den gleichen\f",
+        "Wettbewerb auswählen.\r",
+        "Jetzt kann jeder Spieler ein Pokémon\n",
+        "in den Wettbewerb schicken.\f",
+        "Und das war es auch schon!\r",
+        "Dann kann der Wettbewerb ganz normal\n",
+        "beginnen. Versuch es mal.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00014",
+      "de_DE": [
+        "An einem Pokémon Wettbewerb nehmen\n",
+        "immer vier Trainer teil.\r",
+        "Jeder führt ein Pokémon ins Feld, das\n",
+        "gegen die anderen antritt.\r",
+        "Bewertet wird in drei verschiedenen\n",
+        "Kategorien: Model, Tanz und\f",
+        "Aktion.\r",
+        "Wer die meisten Gesamtpunkte erhält,\n",
+        "gewinnt. Einfach, oder?\r",
+        "Wenn du zum ersten Mal hier bist,\n",
+        "solltest du zuerst etwas üben, bevor\f",
+        "du am Wettbewerb teilnimmst.\r",
+        "Der Schalter für Übungswettbewerbe\n",
+        "ist ganz rechts zu finden.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00015",
+      "de_DE": [
+        "Im Modelwettstreit werden Pokémon nach\n",
+        "ihrer äußeren Erscheinung bewertet.\r",
+        "Die Punktzahl hängt von der Reaktion\n",
+        "des Publikums ab.\r",
+        "Details erfährst du an dem\n",
+        "Übungsschalter rechts.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00016",
+      "de_DE": [
+        "Im Tanzwettstreit zeigen die Pokémon\n",
+        "ihre flinken Füße.\r",
+        "Versuche, so gut wie möglich zu\n",
+        "tanzen!\r",
+        "Details erfährst du an dem\n",
+        "Übungsschalter rechts.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00017",
+      "de_DE": [
+        "Im Aktionswettstreit zeigen die\n",
+        "Pokémon den Juroren ihre Attacken.\r",
+        "Dein Pokémon muss die Juroren mehr\n",
+        "als die anderen beeindrucken!\r",
+        "Details erfährst du an dem\n",
+        "Übungsschalter rechts.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00018",
+      "de_DE": [
+        "Es gibt fünf Wettbewerbe: Coolness,\n",
+        "Schönheit, Anmut, Klugheit und Stärke.\r",
+        "Achte darauf, dass du den richtigen\n",
+        "Wettbewerb für dein Pokémon wählst.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00019",
+      "de_DE": [
+        "Es gibt vier verschiedene Klassen\n",
+        "für die Pokémon Wettbewerbe.\r",
+        "Die vier Klassen sind Normal, Mega,\n",
+        "Ultra und Master.\r",
+        "Die Normal-Klasse steht jedem\n",
+        "Pokémon offen.\r",
+        "Wenn ein Pokémon einen Wettbewerb in\n",
+        "der Normal-Klasse gewonnen hat,\r",
+        "kann es in dieser Kategorie in die\n",
+        "Mega-Klasse aufrücken.\r",
+        "Wer einen Wettbewerb der Mega-Klasse\n",
+        "gewinnt, kann in die Ultra-Klasse\f",
+        "aufrücken.\r",
+        "Wer einen Wettbewerb der Ultra-Klasse\n",
+        "gewinnt, kann in die Master-Klasse\f",
+        "aufrücken.\r",
+        "Und wer einen Wettbewerb der Master-\n",
+        "Klasse gewinnt, kann beliebig\f",
+        "oft an Master-Wettbewerben teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00020",
+      "de_DE": [
+        "Welches Pokémon soll am Wettbewerb\n",
+        "teilnehmen?\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00021",
+      "de_DE": "Wähle ein Pokémon.\r"
+    },
+    {
+      "id": "msg_0203_00022",
+      "de_DE": [
+        "Gut! Dein Pokémon wurde für diesen\n",
+        "Wettbewerb eingetragen!\r",
+        "Deine Nummer lautet {STRVAR_1 50, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00023",
+      "de_DE": [
+        "Wir freuen uns auf deine Teilnahme\n",
+        "beim nächsten Mal."
+      ]
+    },
+    {
+      "id": "msg_0203_00024",
+      "de_DE": "EINTRAGEN"
+    },
+    {
+      "id": "msg_0203_00025",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0203_00026",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00027",
+      "de_DE": "Welche Klasse wählst du?"
+    },
+    {
+      "id": "msg_0203_00028",
+      "de_DE": "Welchen Wettbewerb wählst du?"
+    },
+    {
+      "id": "msg_0203_00029",
+      "de_DE": "Teilnahme absagen?"
+    },
+    {
+      "id": "msg_0203_00030",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0203_00031",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0203_00032",
+      "de_DE": "1x1 DES WETTBEWERBS"
+    },
+    {
+      "id": "msg_0203_00033",
+      "de_DE": "WETTBEWERB-ARTEN"
+    },
+    {
+      "id": "msg_0203_00034",
+      "de_DE": "KLASSEN"
+    },
+    {
+      "id": "msg_0203_00035",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00036",
+      "de_DE": "WAS IST EIN WETTBEWERB?"
+    },
+    {
+      "id": "msg_0203_00037",
+      "de_DE": "MODELWETTSTREIT"
+    },
+    {
+      "id": "msg_0203_00038",
+      "de_DE": "TANZWETTSTREIT"
+    },
+    {
+      "id": "msg_0203_00039",
+      "de_DE": "AKTIONSWETTSTREIT"
+    },
+    {
+      "id": "msg_0203_00040",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00041",
+      "de_DE": "NORMAL"
+    },
+    {
+      "id": "msg_0203_00042",
+      "de_DE": "MEGA"
+    },
+    {
+      "id": "msg_0203_00043",
+      "de_DE": "ULTRA"
+    },
+    {
+      "id": "msg_0203_00044",
+      "de_DE": "MASTER"
+    },
+    {
+      "id": "msg_0203_00045",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00046",
+      "de_DE": "COOLNESS-W."
+    },
+    {
+      "id": "msg_0203_00047",
+      "de_DE": "SCHÖNHEITSW."
+    },
+    {
+      "id": "msg_0203_00048",
+      "de_DE": "ANMUT-W."
+    },
+    {
+      "id": "msg_0203_00049",
+      "de_DE": "KLUGHEIT-W."
+    },
+    {
+      "id": "msg_0203_00050",
+      "de_DE": "STÄRKE-W."
+    },
+    {
+      "id": "msg_0203_00051",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00052",
+      "garbage": 145
+    },
+    {
+      "id": "msg_0203_00053",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0203_00054",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0203_00055",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0203_00056",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0203_00057",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0203_00058",
+      "garbage": 34
+    },
+    {
+      "id": "msg_0203_00059",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0203_00060",
+      "garbage": 51
+    },
+    {
+      "id": "msg_0203_00061",
+      "garbage": 154
+    },
+    {
+      "id": "msg_0203_00062",
+      "garbage": 163
+    },
+    {
+      "id": "msg_0203_00063",
+      "garbage": 156
+    },
+    {
+      "id": "msg_0203_00064",
+      "de_DE": [
+        "Der Wettbewerb wird gleich beginnen.\n",
+        "Hier entlang, bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00065",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0203_00066",
+      "de_DE": "{STRVAR_1 3, 0} zog den Smoking an!\r"
+    },
+    {
+      "id": "msg_0203_00067",
+      "de_DE": "{STRVAR_1 3, 0} zog das Kleid an!\r"
+    },
+    {
+      "id": "msg_0203_00068",
+      "de_DE": [
+        "Hier entlang, bitte!\n",
+        "Viel Glück!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00069",
+      "de_DE": [
+        "MC: Gleich fängt er an:\n",
+        "Der {STRVAR_1 35, 0} Pokémon\f",
+        "{STRVAR_1 34, 1}!\r",
+        "Mein Name ist Dexter. Ich bin der MC\n",
+        "und einer der Juroren!\r",
+        "Die Ergebnisse werden am Ende\n",
+        "bekannt gegeben, also lauft mir\f",
+        "nicht weg!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00070",
+      "de_DE": [
+        "Und hier sind unsere Teilnehmer!\r",
+        "Nummer 1!\n",
+        "Hier ist {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00071",
+      "de_DE": [
+        "Und hier ist Nummer 2!\n",
+        "{STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00072",
+      "de_DE": [
+        "Einen Applaus für Nummer 3!\n",
+        "{STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00073",
+      "de_DE": [
+        "Und schließlich noch\n",
+        "Nummer 4! {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00074",
+      "de_DE": [
+        "Als Erstes muss die Garderobe stimmen,\n",
+        "damit wir zur Bewertung kommen können.\r",
+        "Schmückt eure Pokémon für den\n",
+        "Modelwettstreit!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00075",
+      "garbage": 164
+    },
+    {
+      "id": "msg_0203_00076",
+      "de_DE": "Dexter: Herzlichen Glückwunsch!\r"
+    },
+    {
+      "id": "msg_0203_00077",
+      "de_DE": [
+        "Der Gewinner ist {STRVAR_1 1, 1} von\n",
+        "{STRVAR_1 3, 0}!\r",
+        "Und hier ist der Preis:\n",
+        "{STRVAR_1 39, 2}!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00078",
+      "de_DE": [
+        "Wir freuen uns auf deine nächste\n",
+        "Teilnahme!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00079",
+      "de_DE": [
+        "Wir erwarten noch große Taten von dem\n",
+        "Gewinnerteam {STRVAR_1 3, 0} und\f",
+        "{STRVAR_1 1, 1}!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00080",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Hier ist dein Preis!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00081",
+      "garbage": 24
+    },
+    {
+      "id": "msg_0203_00082",
+      "de_DE": [
+        "Danke für’s Mitmachen und bis zum\n",
+        "nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0203_00083",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0203_00084",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0203_00085",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0203_00086",
+      "garbage": 51
+    },
+    {
+      "id": "msg_0203_00087",
+      "garbage": 328
+    },
+    {
+      "id": "msg_0203_00088",
+      "garbage": 34
+    },
+    {
+      "id": "msg_0203_00089",
+      "garbage": 59
+    },
+    {
+      "id": "msg_0203_00090",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0203_00091",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0203_00092",
+      "garbage": 32
+    },
+    {
+      "id": "msg_0203_00093",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0203_00094",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0203_00095",
+      "garbage": 37
+    },
+    {
+      "id": "msg_0203_00096",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0203_00097",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0203_00098",
+      "garbage": 36
+    },
+    {
+      "id": "msg_0203_00099",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0203_00100",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0203_00101",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0203_00102",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0203_00103",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0203_00104",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0203_00105",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0203_00106",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0203_00107",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0203_00108",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0203_00109",
+      "garbage": 45
+    },
+    {
+      "id": "msg_0203_00110",
+      "garbage": 97
+    },
+    {
+      "id": "msg_0203_00111",
+      "de_DE": [
+        "Hi! Hier ist der Schalter für\n",
+        "Übungswettbewerbe.\r",
+        "Du kannst hier die Kategorien Model,\n",
+        "Tanz und Aktion üben.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00112",
+      "de_DE": [
+        "Möchtest du einen Übungswettbewerb\n",
+        "versuchen?"
+      ]
+    },
+    {
+      "id": "msg_0203_00113",
+      "de_DE": "ÜBUNG"
+    },
+    {
+      "id": "msg_0203_00114",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0203_00115",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00116",
+      "de_DE": "Bis zum nächsten Mal."
+    },
+    {
+      "id": "msg_0203_00117",
+      "de_DE": "Worüber möchtest du mehr wissen?"
+    },
+    {
+      "id": "msg_0203_00118",
+      "de_DE": "MODEL"
+    },
+    {
+      "id": "msg_0203_00119",
+      "de_DE": "TANZ"
+    },
+    {
+      "id": "msg_0203_00120",
+      "de_DE": "AKTION"
+    },
+    {
+      "id": "msg_0203_00121",
+      "de_DE": "ÜBUNG"
+    },
+    {
+      "id": "msg_0203_00122",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00123",
+      "de_DE": "Bis zum nächsten Mal."
+    },
+    {
+      "id": "msg_0203_00124",
+      "de_DE": [
+        "Ein Wettbewerb umfasst drei\n",
+        "Kategorien: Model, Tanz und\f",
+        "Aktion.\r",
+        "Hier kannst du diese Kategorien üben,\n",
+        "bevor du tatsächlich an einem\f",
+        "Wettbewerb teilnimmst.\r",
+        "Nur eine Bedingung gibt es: Dein Pokémon\n",
+        "muss mindestens zwei Attacken kennen.\r",
+        "Ansonsten kann es leider nicht zum\n",
+        "Wettbewerb zugelassen werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00125",
+      "de_DE": "GESAMTFLUSS"
+    },
+    {
+      "id": "msg_0203_00126",
+      "de_DE": "ATTRIBUTSPUNKTE"
+    },
+    {
+      "id": "msg_0203_00127",
+      "de_DE": "KLEIDUNGSPUNKTE"
+    },
+    {
+      "id": "msg_0203_00128",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0203_00129",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00130",
+      "de_DE": [
+        "Die Bewertung hängt von dem äußeren\n",
+        "Erscheinungsbild der Pokémon ab.\r",
+        "Die Punktzahl wird vom Publikum\n",
+        "bestimmt.\r",
+        "Je beliebter ein Pokémon ist, desto mehr\n",
+        "Punkte erhält es!\r",
+        "Es wird in zwei Bereichen bewertet:\n",
+        "Attributspunkte und Kleidungspunkte.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00131",
+      "de_DE": [
+        "Attributspunkte basieren auf dem Wert,\n",
+        "den das Pokémon in einer der fünf\f",
+        "Attribute hat.\r",
+        "Diese Attribute sind: Coolness,\n",
+        "Schönheit, Klugheit, Anmut und Stärke.\r",
+        "Wenn du deinen Pokémon Knurspe gibst,\n",
+        "erhöht das die Attribute.\r",
+        "Wenn es dem Publikum gefällt,\n",
+        "erscheinen {COLOR 1}♡{COLOR 0}.\r",
+        "Je mehr {COLOR 1}♡{COLOR 0} erscheinen, desto\n",
+        "beliebter ist das Pokémon. Logisch.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00132",
+      "de_DE": [
+        "Kleidungspunkte erhältst du, wenn du\n",
+        "dein Pokémon mit Accessoires\f",
+        "ausstattest.\r",
+        "Am Anfang wird ein Modemotto\n",
+        "vorgegeben.\r",
+        "Dein fertig geschmücktes Pokémon wird\n",
+        "danach bewertet, wie passend es zu\f",
+        "diesem Motto angezogen ist.\r",
+        "Die Zustimmung des Publikums\n",
+        "erscheint als pinkfarbenes {COLOR 1}♡{COLOR 0}.\r",
+        "Setze die Accessoires fest an die\n",
+        "richtige Stelle.\f",
+        "Sonst halten sie nicht.\r",
+        "Das Zeitlimit beträgt 60 Sekunden.\r",
+        "In dieser Zeit musst du dein Pokémon\n",
+        "angezogen haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00133",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0203_00134",
+      "de_DE": "Bis zum nächsten Mal."
+    },
+    {
+      "id": "msg_0203_00135",
+      "de_DE": "GESAMTFLUSS"
+    },
+    {
+      "id": "msg_0203_00136",
+      "de_DE": "NEBENTÄNZER"
+    },
+    {
+      "id": "msg_0203_00137",
+      "de_DE": "HAUPTTÄNZER"
+    },
+    {
+      "id": "msg_0203_00138",
+      "de_DE": "FELD"
+    },
+    {
+      "id": "msg_0203_00139",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00140",
+      "de_DE": [
+        "In einem Tanzwettstreit erfüllen die\n",
+        "Teilnehmer verschiedene Funktionen.\r",
+        "Einer ist der Haupttänzer und die\n",
+        "anderen sind die Nebentänzer.\r",
+        "Der Haupttänzer erhält Punkte, wenn\n",
+        "die Nebentänzer seine innovativen\f",
+        "Schritte nicht kopieren können.\r",
+        "Die Nebentänzer erhalten Punkte, wenn\n",
+        "sie es schaffen, die Schritte des\f",
+        "Haupttänzers zu kopieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00141",
+      "de_DE": [
+        "Dein Pokémon wird zuerst als\n",
+        "Nebentänzer auftreten.\r",
+        "Lass es tanzen. Das Timing muss dabei\n",
+        "mit dem des Haupttänzers identisch\f",
+        "sein.\r",
+        "Mit den Kastagnetten zeigst du deinem\n",
+        "Pokémon, in welche Richtung sich der\f",
+        "Haupttänzer dreht.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00142",
+      "de_DE": [
+        "Jeder Nebentänzer agiert ein Mal als\n",
+        "Haupttänzer. Keine Sorge also,\f",
+        "jeder kommt mal dran.\r",
+        "Wenn dein Pokémon der Haupttänzer ist,\n",
+        "zeig ihm, wie es tanzen soll!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00143",
+      "de_DE": [
+        "Die Melodie wird auf den roten und\n",
+        "blauen Feldern sichtbar gemacht.\r",
+        "Die Farben geben an, wer gerade tanzen\n",
+        "soll und wer nicht.\r",
+        "Der Haupttänzer tanzt, wenn die Melodie\n",
+        "in den blauen Feldern ist.\r",
+        "Die Nebentänzer tanzen nur während\n",
+        "der roten Felder.\r",
+        "Die Tänzer müssen die vorgegebene\n",
+        "Anzahl der Schritte während ihrer\f",
+        "jeweiligen Zeitfenster ausführen.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00144",
+      "de_DE": "Bis zum nächsten Mal."
+    },
+    {
+      "id": "msg_0203_00145",
+      "de_DE": "GESAMTFLUSS"
+    },
+    {
+      "id": "msg_0203_00146",
+      "de_DE": "WETT.-ATTACKEN"
+    },
+    {
+      "id": "msg_0203_00147",
+      "de_DE": "JUROREN"
+    },
+    {
+      "id": "msg_0203_00148",
+      "de_DE": "SPANNUNG"
+    },
+    {
+      "id": "msg_0203_00149",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00150",
+      "de_DE": [
+        "Im Aktionswettstreit führen vier\n",
+        "Pokémon ihre Attacken den Juroren vor.\r",
+        "Je beeindruckender ein Pokémon ist,\n",
+        "desto mehr Punkte erhält es.\r",
+        "Jedes Pokémon darf 4 Mal etwas\n",
+        "vorführen.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00151",
+      "de_DE": [
+        "Jede Attacke hat {COLOR 1}♡{COLOR 0}, die\n",
+        "die Punktzahl darstellen.\r",
+        "Je mehr {COLOR 1}♡{COLOR 0} du sammelst, desto\n",
+        "mehr Punkte erhält dein Pokémon.\r",
+        "Aber ein Pokémon darf nicht die gleiche\n",
+        "Attacke 2-mal hintereinander\f",
+        "vorführen.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00152",
+      "de_DE": [
+        "Es gibt insgesamt drei Juroren.\r",
+        "Du darfst wählen, welcher von ihnen dein\n",
+        "Pokémon bewerten soll.\r",
+        "Versuche es zu arrangieren, dass dein\n",
+        "Pokémon allein von einem Juror bewertet\f",
+        "wird, damit es besser hervorsticht.\r",
+        "Wenn dein Pokémon einen guten Eindruck\n",
+        "macht, wird es besser bewertet und\f",
+        "erhält mehr {COLOR 1}♡{COLOR 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00153",
+      "de_DE": [
+        "Spannung zeigt das Ausmaß an\n",
+        "Aufgeregtheit bei den Juroren.\r",
+        "Wenn ein Pokémon in einem Coolness-\n",
+        "Wettbewerb eine Coole Attacke\f",
+        "verwendet, steigt die Spannung.\r",
+        "Wenn aber in diesem Wettbewerb eine\n",
+        "Kluge oder Schöne Attacke verwendet\f",
+        "wird, sinkt die Spannung.\r",
+        "Erreicht die Spannung den Wert 5,\n",
+        "erhält das Pokémon Bonuspunkte.\r",
+        "Wurde der Spezialjuror in der Mitte\n",
+        "gewählt, bringt die Spannungsspitze\f",
+        "8 Punkte ein.\r",
+        "Wurde einer der anderen Juroren\n",
+        "gewählt, gibt es immerhin 5 Punkte.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00154",
+      "de_DE": "Bis zum nächsten Mal."
+    },
+    {
+      "id": "msg_0203_00155",
+      "de_DE": "MODELÜBUNG"
+    },
+    {
+      "id": "msg_0203_00156",
+      "de_DE": "TANZÜBUNG"
+    },
+    {
+      "id": "msg_0203_00157",
+      "de_DE": "AKTIONSÜBUNG"
+    },
+    {
+      "id": "msg_0203_00158",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00159",
+      "de_DE": "Bis zum nächsten Mal."
+    },
+    {
+      "id": "msg_0203_00160",
+      "de_DE": [
+        "An welchem Wettbewerb möchtest du\n",
+        "teilnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0203_00161",
+      "de_DE": "COOLNESS"
+    },
+    {
+      "id": "msg_0203_00162",
+      "de_DE": "SCHÖNHEIT"
+    },
+    {
+      "id": "msg_0203_00163",
+      "de_DE": "ANMUT"
+    },
+    {
+      "id": "msg_0203_00164",
+      "de_DE": "KLUGHEIT"
+    },
+    {
+      "id": "msg_0203_00165",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0203_00166",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0203_00167",
+      "de_DE": "Bis zum nächsten Mal!"
+    },
+    {
+      "id": "msg_0203_00168",
+      "garbage": 39
+    },
+    {
+      "id": "msg_0203_00169",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0203_00170",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0203_00171",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0203_00172",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0203_00173",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0203_00174",
+      "garbage": 35
+    },
+    {
+      "id": "msg_0203_00175",
+      "de_DE": [
+        "Welches Pokémon soll am\n",
+        "Wettbewerb teilnehmen?\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00176",
+      "de_DE": "Wähle ein Pokémon.\r"
+    },
+    {
+      "id": "msg_0203_00177",
+      "de_DE": [
+        "Gut! Dein Pokémon wurde für diesen\n",
+        "Übungswettbewerb eingetragen!\r",
+        "Deine Nummer lautet {STRVAR_1 50, 0}.\n",
+        "Der Übungswettbewerb beginnt sofort.\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00178",
+      "de_DE": [
+        "Hier entlang, bitte.\n",
+        "Viel Glück!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00179",
+      "de_DE": [
+        "Dein Pokémon wird vom Publikum bewertet\n",
+        "werden.\r",
+        "Du kannst seine Attribute verbessern,\n",
+        "wenn du es mit Knurspen fütterst.\r",
+        "Und du brauchst Accessoires, die du ihm\n",
+        "anziehen kannst.\r",
+        "Möchtest du jetzt eine Übung beginnen?"
+      ]
+    },
+    {
+      "id": "msg_0203_00180",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0203_00181",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0203_00182",
+      "de_DE": "Bis zum nächsten Mal."
+    },
+    {
+      "id": "msg_0203_00183",
+      "de_DE": "Alles klar. Hier entlang, bitte!\r"
+    },
+    {
+      "id": "msg_0203_00184",
+      "de_DE": [
+        "Danke für’s Mitmachen! Dein Pokémon\n",
+        "war ja wirklich richtig beliebt!\r",
+        "Es ist jetzt bereit für einen echten\n",
+        "Wettbewerb!\r",
+        "Oder möchtest du noch einmal üben?"
+      ]
+    },
+    {
+      "id": "msg_0203_00185",
+      "de_DE": [
+        "Danke für’s Mitmachen!\n",
+        "Zu schade, dass es so gelaufen ist...\r",
+        "Vielleicht möchtest du deinem Pokémon\n",
+        "ein paar Knurspe zu essen geben, um\f",
+        "seine Attribute zu erhöhen?\r",
+        "Du solltest außerdem nur solche\n",
+        "Accessoires wählen, die zum gegebenen\f",
+        "Motto passen.\r",
+        "Möchtest du noch einmal üben?"
+      ]
+    },
+    {
+      "id": "msg_0203_00186",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0203_00187",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0203_00188",
+      "de_DE": "Bis zum nächsten Mal!"
+    },
+    {
+      "id": "msg_0203_00189",
+      "garbage": 301
+    },
+    {
+      "id": "msg_0203_00190",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0203_00191",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0203_00192",
+      "garbage": 35
+    },
+    {
+      "id": "msg_0203_00193",
+      "garbage": 48
+    },
+    {
+      "id": "msg_0203_00194",
+      "de_DE": [
+        "Danke für’s Mitmachen! Dein\n",
+        "Pokémon tanzt wirklich richtig gut!\r",
+        "Es ist jetzt bereit für einen\n",
+        "echten Wettbewerb!\r",
+        "Oder möchtest du noch einmal üben?"
+      ]
+    },
+    {
+      "id": "msg_0203_00195",
+      "de_DE": [
+        "Danke für’s Mitmachen!\n",
+        "Zu schade, dass es so gelaufen ist...\r",
+        "Das Wichtigste ist, sich zu merken, in\n",
+        "welche Richtungen der Haupttänzer\f",
+        "sich dreht.\r",
+        "Und dann musst du die gleichen Schritte\n",
+        "zur gleichen Zeit vorführen.\r",
+        "Möchtest du noch einmal üben?"
+      ]
+    },
+    {
+      "id": "msg_0203_00196",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0203_00197",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0203_00198",
+      "de_DE": "Bis zum nächsten Mal!"
+    },
+    {
+      "id": "msg_0203_00199",
+      "garbage": 286
+    },
+    {
+      "id": "msg_0203_00200",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0203_00201",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0203_00202",
+      "garbage": 35
+    },
+    {
+      "id": "msg_0203_00203",
+      "garbage": 48
+    },
+    {
+      "id": "msg_0203_00204",
+      "de_DE": [
+        "Danke für’s Mitmachen! Dein Pokémon\n",
+        "stach richtig gut hervor!\r",
+        "Denk daran, dass es fünf verschiedene\n",
+        "Wettbewerbe gibt: Coolness, Schönheit,\f",
+        "Anmut, Klugheit und Stärke.\r",
+        "Schicke dein Pokémon nur in die\n",
+        "passenden Wettbewerbe.\r",
+        "Dann kann es dort umso besser\n",
+        "hervorstechen!\r",
+        "Möchtest du noch einmal üben?"
+      ]
+    },
+    {
+      "id": "msg_0203_00205",
+      "de_DE": [
+        "Danke für’s Mitmachen!\n",
+        "Zu schade, dass es so gelaufen ist...\r",
+        "Wichtig ist, den richtigen Juror zu\n",
+        "wählen, der dein Pokémon bewerten soll.\r",
+        "Wählst du einen Juror, der von\n",
+        "niemandem sonst gewählt wurde,\f",
+        "erhältst du mehr Punkte.\r",
+        "Suche dir einen Juror, der nur auf\n",
+        "dein Pokémon schaut.\r",
+        "Möchtest du noch einmal üben?"
+      ]
+    },
+    {
+      "id": "msg_0203_00206",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0203_00207",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0203_00208",
+      "garbage": 35
+    },
+    {
+      "id": "msg_0203_00209",
+      "de_DE": "Worüber möchtest du mehr erfahren?"
+    },
+    {
+      "id": "msg_0203_00210",
+      "de_DE": "Verbindung wird gehalten..."
+    },
+    {
+      "id": "msg_0203_00211",
+      "de_DE": [
+        "Hier entlang, bitte!\n",
+        "Viel Glück!\r"
+      ]
+    },
+    {
+      "id": "msg_0203_00212",
+      "de_DE": [
+        "Die Drahtlose DS-Datenübertragung wird\n",
+        "gestartet."
+      ]
+    },
+    {
+      "id": "msg_0203_00213",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0203_00214",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0203_00215",
+      "de_DE": "Teilnahme absagen?"
+    },
+    {
+      "id": "msg_0203_00216",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0203_00217",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0203_00218",
+      "de_DE": "Bis zum nächsten Mal!"
+    },
+    {
+      "id": "msg_0203_00219",
+      "de_DE": [
+        "Eine Person in der Gruppe muss\n",
+        "“LEITER” auswählen.\r",
+        "Alle anderen müssen\n",
+        "“MITSPIELER” wählen."
+      ]
+    }
+  ]
+}

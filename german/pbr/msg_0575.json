@@ -1,0 +1,1029 @@
+{
+  "key": 37978,
+  "messages": [
+    {
+      "id": "msg_0575_00000",
+      "de_DE": [
+        "Hey!\n",
+        "Wie geht’s denn so?"
+      ]
+    },
+    {
+      "id": "msg_0575_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00002",
+      "de_DE": [
+        "...\n",
+        "Die Person ist beschäftigt."
+      ]
+    },
+    {
+      "id": "msg_0575_00003",
+      "de_DE": "BEGRÜSSEN"
+    },
+    {
+      "id": "msg_0575_00004",
+      "de_DE": "FRAGE"
+    },
+    {
+      "id": "msg_0575_00005",
+      "de_DE": "DEKO GEBEN"
+    },
+    {
+      "id": "msg_0575_00006",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0575_00007",
+      "de_DE": [
+        "Du zeigst mir tatsächlich deinen\n",
+        "Trainer-Koffer?\r",
+        "Dann zeige ich dir meinen auch!"
+      ]
+    },
+    {
+      "id": "msg_0575_00008",
+      "de_DE": [
+        "Hm? Wo ist mein Trainer-Koffer nur\n",
+        "abgeblieben.\r",
+        "Tut mir schrecklich leid!\n",
+        "Vielleicht beim nächsten Mal."
+      ]
+    },
+    {
+      "id": "msg_0575_00009",
+      "de_DE": [
+        "Vielen Dank!\n",
+        "Komm mal wieder vorbei!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00010",
+      "de_DE": [
+        "Möchtest du vielleicht etwas anderes\n",
+        "machen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00011",
+      "de_DE": [
+        "Oh, das geht schon in Ordnung.\n",
+        "Dann eben nächstes Mal."
+      ]
+    },
+    {
+      "id": "msg_0575_00012",
+      "de_DE": [
+        "Hm? {STRVAR_1 25, 2}? Bist du sicher,\n",
+        "dass du mir das Item geben willst?"
+      ]
+    },
+    {
+      "id": "msg_0575_00013",
+      "de_DE": [
+        "Danke, aber ich muss ablehnen.\n",
+        "Das kann ich dir doch nicht wegnehmen.\r",
+        "Vielleicht ein anderes Mal!"
+      ]
+    },
+    {
+      "id": "msg_0575_00014",
+      "de_DE": [
+        "Vielen Dank!\r",
+        "{STRVAR_1 3, 0} hat {STRVAR_1 25, 2}\n",
+        "erhalten."
+      ]
+    },
+    {
+      "id": "msg_0575_00015",
+      "de_DE": "Dann bis später!"
+    },
+    {
+      "id": "msg_0575_00016",
+      "de_DE": [
+        "Tut mir leid!\n",
+        "Mir ist etwas dazwischengekommen!"
+      ]
+    },
+    {
+      "id": "msg_0575_00017",
+      "de_DE": [
+        "{STRVAR_1 25, 2}\n",
+        "erhalten."
+      ]
+    },
+    {
+      "id": "msg_0575_00018",
+      "de_DE": [
+        "{STRVAR_1 25, 3} im Boden gefunden!\r",
+        "{STRVAR_1 3, 1} hat\n",
+        "{STRVAR_1 25, 3} entschärft!"
+      ]
+    },
+    {
+      "id": "msg_0575_00019",
+      "de_DE": [
+        "Die Wand gibt leicht nach.\n",
+        "Willst du versuchen, da zu graben?"
+      ]
+    },
+    {
+      "id": "msg_0575_00020",
+      "de_DE": [
+        "Jammerschade!\n",
+        "Dein Beutel ist voll!"
+      ]
+    },
+    {
+      "id": "msg_0575_00021",
+      "de_DE": [
+        "Jammerschade!\n",
+        "Dein Beutel ist voll!"
+      ]
+    },
+    {
+      "id": "msg_0575_00022",
+      "de_DE": "Hallo!"
+    },
+    {
+      "id": "msg_0575_00023",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00024",
+      "de_DE": [
+        "Sieh dir meinen Trainer-Koffer an.\r",
+        "Darf ich deinen auch mal sehen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00025",
+      "de_DE": [
+        "Keine Zeit? Oh, ich wollte dich nicht\n",
+        "stören! Vielleicht nächstes Mal!"
+      ]
+    },
+    {
+      "id": "msg_0575_00026",
+      "de_DE": [
+        "War schön, dich kennenzulernen,\n",
+        "{STRVAR_1 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0575_00027",
+      "de_DE": "Also..."
+    },
+    {
+      "id": "msg_0575_00028",
+      "de_DE": [
+        "Ach, ja! Ich habe da etwas für dich:\n",
+        "{STRVAR_1 25, 2}!\r",
+        "Viel Spaß damit."
+      ]
+    },
+    {
+      "id": "msg_0575_00029",
+      "de_DE": [
+        "Oh?\n",
+        "So ein Item hast du schon?"
+      ]
+    },
+    {
+      "id": "msg_0575_00030",
+      "de_DE": [
+        "Oh? Du hast ja nicht genug Platz in\n",
+        "deinem Beutel.\r",
+        "Also gut, dann eben nächstes Mal!"
+      ]
+    },
+    {
+      "id": "msg_0575_00031",
+      "de_DE": [
+        "Hier, das gehört dir!\n",
+        "Halte das Item in Ehren!\r",
+        "{STRVAR_1 25, 2} von\n",
+        "{STRVAR_1 3, 0} erhalten!"
+      ]
+    },
+    {
+      "id": "msg_0575_00032",
+      "de_DE": "Dann mach’s gut!"
+    },
+    {
+      "id": "msg_0575_00033",
+      "de_DE": "{STRVAR_1 25, 3} verwendet!"
+    },
+    {
+      "id": "msg_0575_00034",
+      "de_DE": "Du hast eine kleine Höhle entdeckt!\r"
+    },
+    {
+      "id": "msg_0575_00035",
+      "de_DE": [
+        "Möchtest du hier deine\n",
+        "Geheimbasis errichten?"
+      ]
+    },
+    {
+      "id": "msg_0575_00036",
+      "de_DE": "Möchtest du hierher umziehen?"
+    },
+    {
+      "id": "msg_0575_00037",
+      "de_DE": [
+        "Willst du den Eingang offen lassen?\n",
+        "Oder lieber schließen, um zu dekorieren?"
+      ]
+    },
+    {
+      "id": "msg_0575_00038",
+      "de_DE": "Tür offen lassen"
+    },
+    {
+      "id": "msg_0575_00039",
+      "de_DE": "Zu und dekorieren"
+    },
+    {
+      "id": "msg_0575_00040",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00041",
+      "de_DE": [
+        "Es ist deine eigene Geheimbasis.\n",
+        "Möchtest du eintreten?"
+      ]
+    },
+    {
+      "id": "msg_0575_00042",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00043",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00044",
+      "de_DE": [
+        "Du hast deine eigene Geheimbasis\n",
+        "betreten."
+      ]
+    },
+    {
+      "id": "msg_0575_00045",
+      "de_DE": [
+        "Du hast eine kleine Höhle entdeckt!\n",
+        "Möchtest du eintreten?"
+      ]
+    },
+    {
+      "id": "msg_0575_00046",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00047",
+      "de_DE": [
+        "Möchtest du die Tür öffnen und\n",
+        "die Geheimbasis verlassen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00048",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "wird gestartet."
+      ]
+    },
+    {
+      "id": "msg_0575_00049",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00050",
+      "de_DE": "Geheimbasis verlassen?"
+    },
+    {
+      "id": "msg_0575_00051",
+      "de_DE": [
+        "Ein Erdbeben!\r",
+        "Du bist in den Gang geflüchtet, um\n",
+        "der Gefahr zu entgehen!"
+      ]
+    },
+    {
+      "id": "msg_0575_00052",
+      "de_DE": [
+        "Möchtest du wieder an die Stelle\n",
+        "zurück, an der du eingestiegen bist?"
+      ]
+    },
+    {
+      "id": "msg_0575_00053",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00054",
+      "de_DE": "Das kann hier nicht verwendet werden!"
+    },
+    {
+      "id": "msg_0575_00055",
+      "de_DE": "Das kann hier nicht vergraben werden."
+    },
+    {
+      "id": "msg_0575_00056",
+      "de_DE": "Du hast das Loch zugeschüttet."
+    },
+    {
+      "id": "msg_0575_00057",
+      "de_DE": [
+        "Jemand befindet sich in deiner Geheim-\n",
+        "basis. Du kannst jetzt nicht umziehen."
+      ]
+    },
+    {
+      "id": "msg_0575_00058",
+      "de_DE": [
+        "{STRVAR_1 25, 0} {STRVAR_1 51, 1}\n",
+        "wurde vergraben."
+      ]
+    },
+    {
+      "id": "msg_0575_00059",
+      "de_DE": "Da ist bereits etwas vergraben."
+    },
+    {
+      "id": "msg_0575_00060",
+      "de_DE": [
+        "Du kannst nichts in einer Wand\n",
+        "vergraben."
+      ]
+    },
+    {
+      "id": "msg_0575_00061",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00062",
+      "de_DE": [
+        "Du bist auf etwas in der Wand gestoßen!\n",
+        "{STRVAR_1 50, 0} bestätigt!"
+      ]
+    },
+    {
+      "id": "msg_0575_00063",
+      "de_DE": "Die Wand ist eingestürzt!"
+    },
+    {
+      "id": "msg_0575_00064",
+      "de_DE": "Du hast alle Gegenstände ausgegraben!"
+    },
+    {
+      "id": "msg_0575_00065",
+      "de_DE": [
+        "Schade aber auch!\n",
+        "Dein Beutel ist voll!"
+      ]
+    },
+    {
+      "id": "msg_0575_00066",
+      "de_DE": [
+        "Du kannst von einer Geheimbasis aus\n",
+        "nicht direkt an die Oberfläche gelangen."
+      ]
+    },
+    {
+      "id": "msg_0575_00067",
+      "de_DE": [
+        "Das ist wohl die Geheimbasis von\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Willst du die Trainer-Fahne mitnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00068",
+      "de_DE": [
+        "Du hast den Eingang blockiert, um die\n",
+        "Geheimbasis zu dekorieren."
+      ]
+    },
+    {
+      "id": "msg_0575_00069",
+      "de_DE": "{STRVAR_1 25, 2}, Größe {STRVAR_1 51, 1} erhalten!"
+    },
+    {
+      "id": "msg_0575_00070",
+      "de_DE": [
+        "Ups!\n",
+        "{STRVAR_1 25, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0575_00071",
+      "de_DE": "Du hast {STRVAR_1 3, 0} geholfen!"
+    },
+    {
+      "id": "msg_0575_00072",
+      "de_DE": [
+        "Ich grabe gerade nach Schätzen,\n",
+        "siehst du das nicht?!?\r",
+        "Möchtest du auch? Es gibt bestimmt\n",
+        "Stellen, an denen sich das lohnt!"
+      ]
+    },
+    {
+      "id": "msg_0575_00073",
+      "de_DE": [
+        "Du kannst eine Falle nicht in einer\n",
+        "Geheimbasis ablegen."
+      ]
+    },
+    {
+      "id": "msg_0575_00074",
+      "de_DE": [
+        "Du kannst in einer Geheimbasis\n",
+        "keine Löcher bohren!"
+      ]
+    },
+    {
+      "id": "msg_0575_00075",
+      "de_DE": [
+        "Sie ist um {STRVAR_1 51, 0} Größe(n) gewachsen,\n",
+        "seitdem sie vergraben wurde!"
+      ]
+    },
+    {
+      "id": "msg_0575_00076",
+      "de_DE": "Puste die Falle weg!"
+    },
+    {
+      "id": "msg_0575_00077",
+      "de_DE": "Entschärfe die Falle mit dem Touchpen!"
+    },
+    {
+      "id": "msg_0575_00078",
+      "de_DE": [
+        "Du hast eine Falle gefunden, aber dein\n",
+        "Beutel ist voll. Du lässt sie liegen."
+      ]
+    },
+    {
+      "id": "msg_0575_00079",
+      "de_DE": [
+        "{STRVAR_1 25, 0} wurde in der\n",
+        "{COLOR 2}♈{COLOR 0}ITEM-Tasche deines Beutels abgelegt."
+      ]
+    },
+    {
+      "id": "msg_0575_00080",
+      "de_DE": [
+        "Dein Beutel ist voll. {STRVAR_1 25, 0}\n",
+        "konnte nicht verstaut werden."
+      ]
+    },
+    {
+      "id": "msg_0575_00081",
+      "de_DE": [
+        "{STRVAR_1 25, 0} wurde in der {COLOR 2}♌{COLOR 0}-\n",
+        "MEDIZIN-Tasche des Beutels verstaut."
+      ]
+    },
+    {
+      "id": "msg_0575_00082",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00083",
+      "de_DE": [
+        "Du hast eine Sphäre gefunden, aber dein\n",
+        "Beutel ist voll. Du lässt sie liegen."
+      ]
+    },
+    {
+      "id": "msg_0575_00084",
+      "de_DE": [
+        "Du kannst eine Sphäre nicht innerhalb\n",
+        "einer Geheimbasis vergraben."
+      ]
+    },
+    {
+      "id": "msg_0575_00085",
+      "de_DE": [
+        "...\r",
+        "Oh? Im Forschersack befindet\n",
+        "sich eine Notiz.\r",
+        "“Nach Schätzen und Sphären graben!”\r",
+        "In deinem Forschersack findest du\n",
+        "einen Hammer und eine Spitzhacke!\r",
+        "Mit diesen Werkzeugen kannst du in\n",
+        "Wänden wahre Schätze ausgraben!\r",
+        "Bestimmt holst du sie heraus, bevor\n",
+        "die Wand einstürzt!\r",
+        "Du schaffst es!\n",
+        "Viel Glück, Trainer!"
+      ]
+    },
+    {
+      "id": "msg_0575_00086",
+      "de_DE": [
+        "So etwas Wichtiges kann ich\n",
+        "einfach nicht annehmen!"
+      ]
+    },
+    {
+      "id": "msg_0575_00087",
+      "de_DE": [
+        "Danke für das großzügige Angebot, aber\n",
+        "nein. Sehe dich dann morgen."
+      ]
+    },
+    {
+      "id": "msg_0575_00088",
+      "de_DE": [
+        "...\r",
+        "Die Wand bröckelt schon.\n",
+        "Zu gefährlich, um reinzugehen."
+      ]
+    },
+    {
+      "id": "msg_0575_00089",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00090",
+      "de_DE": "{STRVAR_1 3, 0} hat eine Falle entschärft!"
+    },
+    {
+      "id": "msg_0575_00091",
+      "de_DE": "{STRVAR_1 3, 1} ist eingetreten."
+    },
+    {
+      "id": "msg_0575_00092",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00093",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00094",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00095",
+      "de_DE": [
+        "{STRVAR_1 25, 2}\n",
+        "erhalten!"
+      ]
+    },
+    {
+      "id": "msg_0575_00096",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00097",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00098",
+      "de_DE": [
+        "{STRVAR_1 3, 0} konnte\n",
+        "der Falle entkommen."
+      ]
+    },
+    {
+      "id": "msg_0575_00099",
+      "de_DE": "{STRVAR_1 3, 0} hat eine Falle ausgelöst!"
+    },
+    {
+      "id": "msg_0575_00100",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat die Falle von\n",
+        "{STRVAR_1 3, 1} ausgelöst!"
+      ]
+    },
+    {
+      "id": "msg_0575_00101",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00102",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00103",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00104",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat die Geheimbasis von\n",
+        "{STRVAR_1 3, 1} betreten."
+      ]
+    },
+    {
+      "id": "msg_0575_00105",
+      "de_DE": "{STRVAR_1 3, 0} gräbt nach Schätzen!"
+    },
+    {
+      "id": "msg_0575_00106",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00107",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00108",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat die Fahne von\n",
+        "{STRVAR_1 3, 1} erobert!"
+      ]
+    },
+    {
+      "id": "msg_0575_00109",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat die Fahne\n",
+        "zurückerobert!"
+      ]
+    },
+    {
+      "id": "msg_0575_00110",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat die Fahne von\n",
+        "{STRVAR_1 3, 1} an sich gerissen!"
+      ]
+    },
+    {
+      "id": "msg_0575_00111",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat mit\n",
+        "{STRVAR_1 3, 1} geredet."
+      ]
+    },
+    {
+      "id": "msg_0575_00112",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat mit jemandem\n",
+        "geredet."
+      ]
+    },
+    {
+      "id": "msg_0575_00113",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00114",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00115",
+      "de_DE": [
+        "{STRVAR_1 3, 0} ist an die Oberfläche\n",
+        "zurückgekehrt."
+      ]
+    },
+    {
+      "id": "msg_0575_00116",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat\n",
+        "{STRVAR_1 3, 1} geholfen!"
+      ]
+    },
+    {
+      "id": "msg_0575_00117",
+      "de_DE": [
+        "Eine Nachricht von {STRVAR_1 3, 0}!\n",
+        "“Hallo! Schön, dich zu sehen!”"
+      ]
+    },
+    {
+      "id": "msg_0575_00118",
+      "de_DE": [
+        "Eine Nachricht von {STRVAR_1 3, 0}!\n",
+        "“Tschüss! Ich gehe wieder nach oben!”"
+      ]
+    },
+    {
+      "id": "msg_0575_00119",
+      "de_DE": [
+        "Eine Nachricht von {STRVAR_1 3, 0}!\n",
+        "“Los, auf zum Konnex-Klub!”"
+      ]
+    },
+    {
+      "id": "msg_0575_00120",
+      "de_DE": [
+        "Eine Nachricht von {STRVAR_1 3, 0}!\n",
+        "“Kommt bitte alle her!”"
+      ]
+    },
+    {
+      "id": "msg_0575_00121",
+      "de_DE": "FALLEN"
+    },
+    {
+      "id": "msg_0575_00122",
+      "de_DE": "SPHÄREN"
+    },
+    {
+      "id": "msg_0575_00123",
+      "de_DE": "DEKO"
+    },
+    {
+      "id": "msg_0575_00124",
+      "de_DE": "SCHÄTZE"
+    },
+    {
+      "id": "msg_0575_00125",
+      "de_DE": "{STRVAR_1 1, 1}"
+    },
+    {
+      "id": "msg_0575_00126",
+      "de_DE": "HINAUF"
+    },
+    {
+      "id": "msg_0575_00127",
+      "de_DE": "BEENDEN"
+    },
+    {
+      "id": "msg_0575_00128",
+      "de_DE": "{STRVAR_1 8, 2}{STRVAR_1 51, 6}"
+    },
+    {
+      "id": "msg_0575_00129",
+      "de_DE": [
+        "{STRVAR_1 25, 2}... Was willst du\n",
+        "damit machen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00130",
+      "de_DE": "{STRVAR_1 25, 2} weggeworfen."
+    },
+    {
+      "id": "msg_0575_00131",
+      "de_DE": "{STRVAR_1 25, 3} im Boden vergraben."
+    },
+    {
+      "id": "msg_0575_00132",
+      "de_DE": "MÜLL"
+    },
+    {
+      "id": "msg_0575_00133",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0575_00134",
+      "de_DE": "VERGR."
+    },
+    {
+      "id": "msg_0575_00135",
+      "de_DE": "EINSTECKEN"
+    },
+    {
+      "id": "msg_0575_00136",
+      "de_DE": [
+        "Was ist denn?\n",
+        "Wolltest du mich etwas fragen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00137",
+      "de_DE": [
+        "{STRVAR_1 29, 5}?\n",
+        "Mal sehen..."
+      ]
+    },
+    {
+      "id": "msg_0575_00138",
+      "de_DE": [
+        "Ja, ich glaube, ich weiß die Antwort.\r",
+        "Was würdest du antworten?"
+      ]
+    },
+    {
+      "id": "msg_0575_00139",
+      "de_DE": [
+        "Hmmm...\n",
+        "Kann mich nicht so recht entscheiden.\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00140",
+      "de_DE": [
+        "Wirklich?\n",
+        "{STRVAR_1 30, 5}?\r",
+        "Also ich wäre eher für...\n",
+        "{STRVAR_1 30, 6}!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00141",
+      "de_DE": [
+        "Wirklich?\n",
+        "{STRVAR_1 30, 5}?\r",
+        "Also ich wäre für...\n",
+        "{STRVAR_1 30, 6}!\r",
+        "...Oh!\n",
+        "Das ist ja dieselbe Antwort!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00142",
+      "de_DE": "Verstehe..."
+    },
+    {
+      "id": "msg_0575_00143",
+      "de_DE": [
+        "Hi, darf ich dich etwas fragen?\r",
+        "Mal sehen...\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00144",
+      "de_DE": [
+        "Und das hier? {STRVAR_1 29, 5}!\n",
+        "Was würdest du dazu sagen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00145",
+      "de_DE": [
+        "Keine Sorge! Du musst nicht\n",
+        "antworten, wenn du nicht willst.\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00146",
+      "de_DE": [
+        "Du hast dich entschieden?\r",
+        "Dann lass mal sehen...\n",
+        "Wenn ich antworten müsste..."
+      ]
+    },
+    {
+      "id": "msg_0575_00147",
+      "de_DE": [
+        "Ich hätte wohl {STRVAR_1 30, 5}\n",
+        "gesagt, schätze ich mal.\r",
+        "Was war deine Antwort?\r",
+        "...\n",
+        "{STRVAR_1 30, 6}! Gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00148",
+      "de_DE": [
+        "{STRVAR_1 30, 5} wäre meine\n",
+        "Antwort, denke ich mir mal.\r",
+        "Was wäre deine?\r",
+        "...\n",
+        "{STRVAR_1 30, 6}! Gut!\r",
+        "Oh, richtig.\n",
+        "Dieselbe wie bei mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00149",
+      "de_DE": "Verstehe..."
+    },
+    {
+      "id": "msg_0575_00150",
+      "de_DE": [
+        "Danke für deine Antworten!\r",
+        "Hoffentlich sieht man sich bald wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00151",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00152",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00153",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00154",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0575_00155",
+      "de_DE": [
+        "Wie bitte?\n",
+        "Du wolltest mich etwas fragen?"
+      ]
+    },
+    {
+      "id": "msg_0575_00156",
+      "de_DE": [
+        "{STRVAR_1 29, 5}?\n",
+        "Hm, gib mir ’nen Moment..."
+      ]
+    },
+    {
+      "id": "msg_0575_00157",
+      "de_DE": [
+        "Ja, jetzt weiß ich’s!\r",
+        "Was hättest du denn geantwortet?"
+      ]
+    },
+    {
+      "id": "msg_0575_00158",
+      "de_DE": [
+        "Keine Ahnung...\n",
+        "Ich kann mich einfach nicht entscheiden.\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00159",
+      "de_DE": [
+        "Ach wirklich?\n",
+        "{STRVAR_1 30, 5}?\r",
+        "Meine Antwort wäre...\n",
+        "{STRVAR_1 30, 6}!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00160",
+      "de_DE": [
+        "Ach wirklich?\n",
+        "{STRVAR_1 30, 5}?\r",
+        "Meine Antwort wäre...\n",
+        "{STRVAR_1 30, 6}!\r",
+        "...Oh!\n",
+        "Das ist ja dieselbe Antwort!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00161",
+      "de_DE": "Verstehe..."
+    },
+    {
+      "id": "msg_0575_00162",
+      "de_DE": [
+        "Hi, darf ich dich etwas fragen?\r",
+        "Mal sehen...\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00163",
+      "de_DE": [
+        "Und was meinst du hierzu?\n",
+        "{STRVAR_1 29, 5}?"
+      ]
+    },
+    {
+      "id": "msg_0575_00164",
+      "de_DE": [
+        "Mach dir keinen Kopf! Du musst nicht\n",
+        "antworten, wenn’s dir unangenehm ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00165",
+      "de_DE": [
+        "Du weißt es schon?\r",
+        "Lass mich mal nachdenken...\n",
+        "Ich hätte..."
+      ]
+    },
+    {
+      "id": "msg_0575_00166",
+      "de_DE": [
+        "Vielleicht {STRVAR_1 30, 5}?\r",
+        "Was hast du geantwortet?\r",
+        "...\n",
+        "{STRVAR_1 30, 6}! Gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00167",
+      "de_DE": [
+        "Vielleicht {STRVAR_1 30, 5}?\r",
+        "Was hast du geantwortet?\r",
+        "...\n",
+        "{STRVAR_1 30, 6}! Gut!\r",
+        "Ach, richtig.\n",
+        "Dieselbe Antwort wie ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00168",
+      "de_DE": "Verstehe..."
+    },
+    {
+      "id": "msg_0575_00169",
+      "de_DE": [
+        "Danke für deine Antworten!\r",
+        "Hoffentlich sehen wir uns bald wieder!\r"
+      ]
+    }
+  ]
+}

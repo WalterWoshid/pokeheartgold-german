@@ -1,0 +1,1574 @@
+{
+  "key": 35849,
+  "messages": [
+    {
+      "id": "msg_0662_00000",
+      "de_DE": "Klarin"
+    },
+    {
+      "id": "msg_0662_00001",
+      "de_DE": [
+        "Klarin: Das habe ich ja völlig\n",
+        "vergessen! Lass uns Telefonnummern\f",
+        "austauschen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00002",
+      "de_DE": [
+        "Klarin: Du kannst mich jederzeit\n",
+        "anrufen! Wir können uns gegenseitig\f",
+        "über Pokémon austauschen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, wie geht es dir?\r",
+        "Wenn man telefoniert, spricht man oft\n",
+        "lauter als sonst. Man hat nämlich\f",
+        "das Gefühl, der andere sei weit weg,\f",
+        "auch wenn er ganz in der Nähe ist!"
+      ]
+    },
+    {
+      "id": "msg_0662_00004",
+      "de_DE": [
+        "Oh, {STRVAR_1 3, 0, 0}?\n",
+        "Guten Morgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0662_00005",
+      "de_DE": [
+        "Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0662_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}?\n",
+        "Guten Abend!\r"
+      ]
+    },
+    {
+      "id": "msg_0662_00007",
+      "de_DE": [
+        "Hallo? Hier ist Klarin!\n",
+        "Guten Morgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0662_00008",
+      "de_DE": [
+        "Hallo? Hier ist Klarin!\n",
+        "Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0662_00009",
+      "de_DE": [
+        "Hallo? Hier ist Klarin!\n",
+        "Guten Abend!\r"
+      ]
+    },
+    {
+      "id": "msg_0662_00010",
+      "de_DE": [
+        "Mein Vater ist von einem Pokémon zu\n",
+        "Boden geworfen worden und hat sich\f",
+        "dabei an der Hüfte verletzt!\r",
+        "Das Pokémon wollte einfach nur ein\n",
+        "bisschen spielen.\r",
+        "Und zum Glück war es auch keine\n",
+        "schlimme Verletzung!\f",
+        "Ich rufe die Tage wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0662_00011",
+      "de_DE": [
+        "Wenn MARILL sich über etwas ärgert,\n",
+        "dann zieht es sich ins Wasser zurück.\r",
+        "Neulich ist es in unsere Badewanne\n",
+        "gesprungen und hat das ganze\f",
+        "Badezimmer unter Wasser gesetzt!\r",
+        "Lass uns demnächst wieder über Pokémon\n",
+        "sprechen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00012",
+      "de_DE": [
+        "Es ist wirklich praktisch, dass die\n",
+        "Pokémon im Pokémon-Center gratis\f",
+        "geheilt werden.\r",
+        "Das Pokémon-Center sollte immer das\n",
+        "Erste sein, was man in einer Stadt\f",
+        "aufsucht!\r",
+        "Nun denn, {STRVAR_1 3, 0, 0}, gib auf dich\n",
+        "acht!"
+      ]
+    },
+    {
+      "id": "msg_0662_00013",
+      "de_DE": [
+        "Versuch einmal, ein BISASAM auf Route 1\n",
+        "mitzunehmen!\r",
+        "Das wird ihm sicherlich gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00014",
+      "de_DE": [
+        "Sag mal, wie wäre es, wenn du mal ein\n",
+        "GLUMANDA zur Route 2 mitnimmst?\r",
+        "Ich habe gehört, dass GLUMANDA diese\n",
+        "Gegend sehr mögen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00015",
+      "de_DE": [
+        "Ich habe gehört, dass SCHIGGY ins\n",
+        "Stolpern geraten, wenn du sie auf\f",
+        "Route 3 mitnimmst!\n"
+      ]
+    },
+    {
+      "id": "msg_0662_00016",
+      "de_DE": [
+        "Apropos: An Route 4 liegt doch der\n",
+        "Mondberg, nicht wahr?\r",
+        "Wenn mich nicht alles täuscht, mögen\n",
+        "PIEPI den Mondberg gerne!"
+      ]
+    },
+    {
+      "id": "msg_0662_00017",
+      "de_DE": [
+        "Du kennst doch das Dojo von Saffronia\n",
+        "City, oder?\r",
+        "Alle Pokémon, die dort gewesen sind,\n",
+        "waren ziemlich überrascht!"
+      ]
+    },
+    {
+      "id": "msg_0662_00018",
+      "de_DE": [
+        "Als ich im Hafen von Orania City war,\n",
+        "haben meine Pokémon sich sehr gefreut,\f",
+        "als sie an Bord der M.S. Aqua gehen\f",
+        "konnten!"
+      ]
+    },
+    {
+      "id": "msg_0662_00019",
+      "de_DE": [
+        "Soweit ich weiß, sollen PORYGON ein\n",
+        "seltsames Geräusch von sich geben,\f",
+        "wenn man sie in Prismania City\f",
+        "herumführt."
+      ]
+    },
+    {
+      "id": "msg_0662_00020",
+      "de_DE": [
+        "Du kennst doch Mr. Psycho aus\n",
+        "Saffronia City, nicht wahr?\r",
+        "Was wäre wohl, wenn du ein\n",
+        "Psycho-Pokémon zu ihm mitnähmst?"
+      ]
+    },
+    {
+      "id": "msg_0662_00021",
+      "de_DE": [
+        "Bist du schon einmal zum Felstunnel\n",
+        "gegangen?\r",
+        "ONIX freuen sich bestimmt, wenn du sie\n",
+        "dorthin mitnimmst!"
+      ]
+    },
+    {
+      "id": "msg_0662_00022",
+      "de_DE": [
+        "Solltest du einmal zum Kraftwerk gehen,\n",
+        "dann nimm PIKACHU mit.\r",
+        "Das wird bestimmt lustig!"
+      ]
+    },
+    {
+      "id": "msg_0662_00023",
+      "de_DE": [
+        "Hör mal, in der Nähe von Route 11 liegt\n",
+        "doch DIGDAs Höhle, nicht wahr?\r",
+        "Welche Pokémon du dorthin mitnehmen\n",
+        "solltest, muss ich dir ja wohl nicht\f",
+        "extra sagen, oder?"
+      ]
+    },
+    {
+      "id": "msg_0662_00024",
+      "de_DE": [
+        "Wo bist du gerade? In der Nähe von\n",
+        "Route 12?\r",
+        "Ah!\n",
+        "Dann solltest du zum Waisenhaus von\f",
+        "Lavandia gehen. Das wird dir bestimmt\f",
+        "gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00025",
+      "de_DE": [
+        "Wo bist du gerade? In der Nähe von\n",
+        "Route 13?\r",
+        "Der Weg dort gleicht einem Labyrinth,\n",
+        "nicht wahr?\r",
+        "Vielleicht wirken die Pokémon dort daher\n",
+        "auch ein bisschen verloren und hilflos."
+      ]
+    },
+    {
+      "id": "msg_0662_00026",
+      "de_DE": [
+        "Bist du jetzt gerade in der Nähe von\n",
+        "Route 14?\r",
+        "Die Landschaft dort ist schön,\n",
+        "nicht wahr? Mit all den Windrädern!"
+      ]
+    },
+    {
+      "id": "msg_0662_00027",
+      "de_DE": [
+        "Wo bist du gerade? Route 15?\n",
+        "Wenn ja, dann statte doch dem Wärter\f",
+        "des Parks der Freunde in Fuchsania City\f",
+        "einen Besuch ab!\r",
+        "Zu Hause hat er ganz viele GRIFFEL, das\n",
+        "wird bestimmt lustig!"
+      ]
+    },
+    {
+      "id": "msg_0662_00028",
+      "de_DE": [
+        "Du bist gerade auf Route 16?\n",
+        "Das heißt also, dass du ganz in der Nähe\f",
+        "des Radweges bist, nicht wahr?\r",
+        "Es gibt nichts Schöneres, als dort mit\n",
+        "seinen Pokémon entlangzufahren!\f",
+        "Aber es ist nicht ganz ungefährlich!"
+      ]
+    },
+    {
+      "id": "msg_0662_00029",
+      "de_DE": [
+        "Du bist gerade auf Route 17?\n",
+        "Das heißt also, dass du genau auf dem\f",
+        "Radweg bist, nicht wahr?\r",
+        "Es gibt nichts Schöneres, als dort mit\n",
+        "seinen Pokémon entlangzufahren!\f",
+        "Aber es ist nicht ganz ungefährlich!"
+      ]
+    },
+    {
+      "id": "msg_0662_00030",
+      "de_DE": [
+        "Du bist gerade auf Route 18?\n",
+        "Das heißt also, dass du ganz in der Nähe\f",
+        "des Radweges bist, nicht wahr?\r",
+        "Es gibt nichts Schöneres, als dort mit\n",
+        "seinen Pokémon entlangzufahren!\f",
+        "Aber es ist nicht ganz ungefährlich!"
+      ]
+    },
+    {
+      "id": "msg_0662_00031",
+      "de_DE": [
+        "Also, wenn ich zur Route 19 gehen\n",
+        "würde, dann würde ich dort mit meinen\f",
+        "Pokémon im Wasser planschen!\f",
+        "Das ist so angenehm!"
+      ]
+    },
+    {
+      "id": "msg_0662_00032",
+      "de_DE": [
+        "Es scheint, dass Feuer-Pokémon sich\n",
+        "nur ungern am Ufer aufhalten...\f",
+        "Das kann ich gut nachvollziehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00033",
+      "de_DE": [
+        "Was gibt es Schöneres, als sich\n",
+        "zusammen mit seinem Pokémon den\f",
+        "Sonnenuntergang über dem Meer bei\f",
+        "Route 21 anzuschauen!\f",
+        "Wie romantisch!\f",
+        "Da werde ich ja glatt rot..."
+      ]
+    },
+    {
+      "id": "msg_0662_00034",
+      "de_DE": [
+        "Route 22 führt doch zur Pokémon Liga,\n",
+        "nicht wahr?\r",
+        "Die Pokémon sind sicherlich nervös, wenn\n",
+        "sie da entlanglaufen..."
+      ]
+    },
+    {
+      "id": "msg_0662_00035",
+      "de_DE": [
+        "Die Brücke an der Route 24 wird\n",
+        "Goldballbrücke genannt.\r",
+        "Das ist zwar kein offizieller Name, aber\n",
+        "viele Menschen nennen sie so.\r",
+        "Die Sonnenstrahlen werden dort vom\n",
+        "Wasser reflektiert - es blendet einen\f",
+        "richtig!"
+      ]
+    },
+    {
+      "id": "msg_0662_00036",
+      "de_DE": [
+        "Also, ich persönlich glaube ja, dass\n",
+        "Pokémon gar keine Ahnung haben, wie\f",
+        "sie selbst eigentlich aussehen.\r",
+        "Wie sie wohl reagieren werden, wenn sie\n",
+        "ihr eigenes Spiegelbild in der Pfütze auf\f",
+        "der Route 25 entdecken?"
+      ]
+    },
+    {
+      "id": "msg_0662_00037",
+      "de_DE": [
+        "Entlang der Route 26 hat sich noch sehr\n",
+        "viel unberührte Natur erhalten, was\f",
+        "den Pokémon eigentlich sehr gefallen\f",
+        "sollte.\r",
+        "Da diese Route aber gleichzeitig auch\n",
+        "zur Pokémon Liga führt, dürften sie\f",
+        "sicherlich sehr aufgeregt sein..."
+      ]
+    },
+    {
+      "id": "msg_0662_00038",
+      "de_DE": [
+        "Ein Pokémon soll auf der Route 27\n",
+        "irgendetwas aufgesammelt haben.\r",
+        "Wie wäre es, wenn du einmal ein dir sehr\n",
+        "nahestehendes Pokémon dorthin\f",
+        "mitnimmst?"
+      ]
+    },
+    {
+      "id": "msg_0662_00039",
+      "de_DE": [
+        "Route 28 führt doch zum Silberberg,\n",
+        "nicht wahr?\r",
+        "Da werden die Pokémon sicherlich auch\n",
+        "ein wenig Bammel haben..."
+      ]
+    },
+    {
+      "id": "msg_0662_00040",
+      "de_DE": [
+        "Warum nimmst du nicht einmal ENDIVIE mit\n",
+        "auf Route 29?\r",
+        "Das wird ihm sicher gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00041",
+      "de_DE": [
+        "Warum nimmst du nicht einmal KARNIMANI\n",
+        "mit auf Route 30?\r",
+        "Das wird ihm sicher gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00042",
+      "de_DE": [
+        "Nimm doch einmal ein FEURIGEL mit auf\n",
+        "Route 31! Das könnte interessant\f",
+        "werden!\r",
+        "Ich habe nämlich gehört, dass FEURIGEL\n",
+        "diese Gegend mögen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00043",
+      "de_DE": [
+        "Hör mal! In den Alph-Ruinen lassen sich\n",
+        "doch ICOGNITO finden, nicht wahr?\f",
+        "Solltest du schon eines besitzen, dann\f",
+        "nimm es doch einfach einmal dorthin mit!"
+      ]
+    },
+    {
+      "id": "msg_0662_00044",
+      "de_DE": [
+        "Auf Route 33 regnet es doch\n",
+        "ununterbrochen, nicht wahr?\r",
+        "Ich blase ja an Regentagen stets\n",
+        "Trübsal... aber es gibt auch Pokémon,\f",
+        "die den Regen geradezu lieben!\r",
+        "Zum Beispiel KARNIMANI!"
+      ]
+    },
+    {
+      "id": "msg_0662_00045",
+      "de_DE": [
+        "Offenbar übt der Steineichenwald auf\n",
+        "PORENTA eine so große Faszination aus,\f",
+        "dass sie ganz aus dem Häuschen sind.\r",
+        "Ich werde demnächst auch einmal ein\n",
+        "PORENTA dorthin mitnehmen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00046",
+      "de_DE": [
+        "Wusstest du das schon?\n",
+        "Die Teilnahme am Pokéathlon macht\f",
+        "deinen Pokémon Spaß und hält sie auf\f",
+        "Trab! Ich werde meine demnächst auch\f",
+        "einmal dorthin mitnehmen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00047",
+      "de_DE": [
+        "Nimm einmal MOGELBAUM mit auf Route 36!\n",
+        "Das wird sehr interessant!\r",
+        "Inwiefern? \n",
+        "Nun, das musst du schon selbst\f",
+        "herausfinden..."
+      ]
+    },
+    {
+      "id": "msg_0662_00048",
+      "de_DE": [
+        "Hast du auf Route 37 schon einmal die\n",
+        "Zwillinge getroffen?\r",
+        "Bei den Pokémon sind sie sehr beliebt!\n",
+        "Aber sie sind ja auch wirklich reizend!"
+      ]
+    },
+    {
+      "id": "msg_0662_00049",
+      "de_DE": [
+        "Neulich habe ich TAUROS auf die\n",
+        "Kuhmuh-Farm mitgenommen...\r",
+        "Das war vielleicht ein Durcheinander,\n",
+        "kann ich dir sagen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00050",
+      "de_DE": [
+        "Nimm doch einmal MILTANK mit auf\n",
+        "Route 39!\r",
+        "Es wird dort viele Freunde treffen und\n",
+        "sich prächtig amüsieren!"
+      ]
+    },
+    {
+      "id": "msg_0662_00051",
+      "de_DE": [
+        "Versuch einmal, ein QUAPSEL auf\n",
+        "Route 40 mitzunehmen!\r",
+        "Das könnte interessant werden!"
+      ]
+    },
+    {
+      "id": "msg_0662_00052",
+      "de_DE": [
+        "Wasser-Pokémon können vom Meer gar\n",
+        "nicht genug bekommen!\r",
+        "Es macht mich immer wieder froh, sie\n",
+        "so glücklich und zufrieden zu sehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00053",
+      "de_DE": [
+        "Alles in Ordnung?\n",
+        "Route 42 ist sehr bergig.\f",
+        "Gestein-Pokémon sollte es daher dort\f",
+        "besonders gut gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00054",
+      "de_DE": [
+        "Wenn du KARPADOR in Topform sehen\n",
+        "möchtest, dann geh mit ihm zum\f",
+        "See des Zorns!"
+      ]
+    },
+    {
+      "id": "msg_0662_00055",
+      "de_DE": [
+        "Du bist jetzt gerade auf Route 44,\n",
+        "stimmt’s? Sag schon, habe ich recht?\r",
+        "Es ist ziemlich kalt dort!\n",
+        "Kälteempfindliche Pokémon können einem\f",
+        "da schon leidtun!\r",
+        "Eis-Pokémon hingegen werden sich\n",
+        "bestimmt wohlfühlen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00056",
+      "de_DE": [
+        "Der im Zickzack verlaufende Kurs des\n",
+        "Flusses bei Route 45 ist wirklich nett\f",
+        "anzusehen!\r",
+        "Als ich neulich mit meinen Pokémon dort\n",
+        "war, waren sie alle vom Anblick des\f",
+        "Flusses hingerissen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00057",
+      "de_DE": [
+        "An Route 46 steht viel hohes Gras,\n",
+        "nicht wahr?\f",
+        "Meine Pokémon und ich sind stets ein\f",
+        "wenig besorgt... man weiß nie, wann sich\f",
+        "ein wildes Pokémon zeigt!"
+      ]
+    },
+    {
+      "id": "msg_0662_00058",
+      "de_DE": [
+        "Die Landschaft bei Route 47 ist schon\n",
+        "fantastisch, oder?\r",
+        "Apropos...\n",
+        "kennst du DITTO?\r",
+        "Sie sollen die Gegend um Route 47 sehr\n",
+        "mögen...\f",
+        "Seltsam..."
+      ]
+    },
+    {
+      "id": "msg_0662_00059",
+      "de_DE": [
+        "In der Nähe von Route 48 gibt es doch\n",
+        "eine hohe Klippe, nicht wahr?\r",
+        "Die Pokémon scheinen ziemliche Angst zu\n",
+        "haben, wenn sie dort vorbeigehen!\r",
+        "Ob ich auch?\n",
+        "Ja, selbst mir schlottern da die Knie!"
+      ]
+    },
+    {
+      "id": "msg_0662_00060",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "In Alabastia? Mit anderen Worten: Dort,\f",
+        "wo Professor Eich lebt, nicht wahr?\r",
+        "Alle Pokémon lieben den Professor!\n",
+        "Nimm doch deine Pokémon mit zu ihm ins\f",
+        "Forschungslabor!"
+      ]
+    },
+    {
+      "id": "msg_0662_00061",
+      "de_DE": [
+        "Wo bist du gerade? In Vertania City? Da\n",
+        "gibt es doch das Trainer-Haus, nicht?\r",
+        "Es scheint, als würden die Pokémon zur\n",
+        "Höchstform auflaufen, wenn sie dorthin\f",
+        "gehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00062",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "In der Nähe von Vertania City?\f",
+        "Ach so, Marmoria City?\r",
+        "In Marmoria City gibt es doch ein\n",
+        "Museum, nicht wahr?\r",
+        "Es macht wirklich Spaß, dem Museum\n",
+        "zusammen mit seinen Pokémon einen\f",
+        "Besuch abzustatten!"
+      ]
+    },
+    {
+      "id": "msg_0662_00063",
+      "de_DE": [
+        "Hm, wo bist du gerade?\n",
+        "In Azuria City?\r",
+        "Hast du dort übrigens Misty getroffen,\n",
+        "die Arenaleiterin der Stadt?\r",
+        "Ähm, schon gut! Ist nicht so wichtig.\n",
+        "Ich musste nur gerade daran denken..."
+      ]
+    },
+    {
+      "id": "msg_0662_00064",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "In Lavandia?\f",
+        "Dann bist du aber weit gekommen!\r",
+        "Dort gibt es doch das Haus der Erinne-\n",
+        "rungen mit den Grabmalen dahingegange-\f",
+        "ner Pokémon, nicht wahr?\r",
+        "Als Trainer solltest du mit deinen\n",
+        "Pokémon einmal dorthin gehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00065",
+      "de_DE": [
+        "Wo bist du gerade? In Orania City?\r",
+        "Wenn mich nicht alles täuscht, gibt es\n",
+        "dort doch den Pokémon Fan Club, oder?\r",
+        "Warum gehst du nicht dorthin und sagst\n",
+        "LORBLATT einmal Guten Tag?"
+      ]
+    },
+    {
+      "id": "msg_0662_00066",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "Oh! In Prismania City?\r",
+        "Ich habe einmal TANGELA in die dortige\n",
+        "Arena mitgenommen und es hat sich sehr\f",
+        "gefreut!\r",
+        "Versuch es doch auch einmal!"
+      ]
+    },
+    {
+      "id": "msg_0662_00067",
+      "de_DE": [
+        "Wo bist du gerade? In Fuchsania City?\n",
+        "Du bist ja immer woanders!\r",
+        "TAUROS sollen in dieser Stadt stets\n",
+        "sehr aufgeregt sein!\r",
+        "Ich kann mir zwar nicht denken, weshalb\n",
+        "das so ist, aber es könnte interessant\f",
+        "sein, einmal ein TAUROS dorthin\f",
+        "mitzunehmen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00068",
+      "de_DE": [
+        "Wo bist du gerade? Auf der\n",
+        "Zinnoberinsel? Unglaublich!!\r",
+        "Von jener unter Lava begrabenen Stadt\n",
+        "aus das Meer betrachten...\f",
+        "Zusammen mit seinen Pokémon...\r",
+        "Wäre das nicht die perfekte\n",
+        "Schlussszene für einen Film?"
+      ]
+    },
+    {
+      "id": "msg_0662_00069",
+      "de_DE": [
+        "Als mein Bekannter zum Indigo Plateau\n",
+        "aufbrach, sollen die Pokémon, die bei ihm\f",
+        "waren, bester Stimmung gewesen und\f",
+        "sogar ein bisschen übermütig geworden\f",
+        "sein!"
+      ]
+    },
+    {
+      "id": "msg_0662_00070",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "In Saffronia City?\r",
+        "Steht dort nicht das Haus der\n",
+        "Nachahmerin?\f",
+        "Nimm einmal PANTIMIMI mit zu ihr!\r",
+        "Das könnte interessant werden!"
+      ]
+    },
+    {
+      "id": "msg_0662_00071",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "Wie bitte? Neuborkia?\r",
+        "Bist du nach Hause zurückgekehrt?\n",
+        "Denk daran, deiner Mutter deine\f",
+        "Pokémon vorzustellen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00072",
+      "de_DE": [
+        "Wo bist du gerade? In Rosalia City?\n",
+        "Bei Rosalia City muss ich immer an den\f",
+        "Strand denken!\r",
+        "Was gibt es Angenehmeres, als mit\n",
+        "seinen Pokémon beim Klang der Wellen\f",
+        "die Dünen entlangzulaufen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00073",
+      "de_DE": [
+        "Wo bist du gerade? In Viola City?\n",
+        "Bei Viola City muss ich immer an den\f",
+        "KNOFENSA-Turm denken!\r",
+        "Es heißt, dass KNOFENSA zu tanzen\n",
+        "beginnen, wenn man sie dorthin mitnimmt!\r",
+        "Ob das wohl wahr ist?\n",
+        "Vergewissere dich doch einfach selbst!"
+      ]
+    },
+    {
+      "id": "msg_0662_00074",
+      "de_DE": [
+        "Wo bist du gerade?\r",
+        "Hm... Anemonia City!\r",
+        "Daneben? In Azalea City also!\r",
+        "Die Arena dort ist beeindruckend,\n",
+        "nicht? Bist du schon einmal auf ein\f",
+        "mechanisches WEBARAK gestiegen?\r",
+        "Was passiert wohl, wenn man ein echtes\n",
+        "WEBARAK in die Arena mitnimmt?\r",
+        "Das würde ich gerne wissen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00075",
+      "de_DE": [
+        "Wo bist du gerade?\r",
+        "Hm... Anemonia City!\r",
+        "Ja? Treffer!\r",
+        "Dann solltest du KRABBY mitnehmen!\n",
+        "Schau selbst einmal, was dann\f",
+        "geschieht!"
+      ]
+    },
+    {
+      "id": "msg_0662_00076",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "In Dukatia City?\r",
+        "Die Arena der Stadt hat, wenn man genau\n",
+        "hinschaut, die Form eines PIEPI, oder?\r",
+        "Nimm doch einmal ein PIEPI mit dorthin!\n",
+        "Es wird bestimmt etwas Niedliches\f",
+        "machen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00077",
+      "de_DE": [
+        "Das Wahrzeichen von Oliviana City ist\n",
+        "und bleibt der Leuchtturm!\r",
+        "Nimm doch einmal ein AMPHAROS\n",
+        "dorthin mit!\f",
+        "Vielleicht leuchtet es ja?"
+      ]
+    },
+    {
+      "id": "msg_0662_00078",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "In der Gegend von Teak City?\r",
+        "Solltest du PICHU bei dir haben, dann\n",
+        "nimm es doch mit ins Tanztheater!\r",
+        "Es möchte bestimmt sofort anfangen zu\n",
+        "tanzen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00079",
+      "de_DE": [
+        "Besitzt du eigentlich bereits\n",
+        "Eis-Pokémon?\r",
+        "Eis-Pokémon lieben es, sich auf dem Eis\n",
+        "zu vergnügen.\f",
+        "Gönne ihnen den Spaß!"
+      ]
+    },
+    {
+      "id": "msg_0662_00080",
+      "de_DE": [
+        "Wenn du KARPADOR einmal in Höchstform\n",
+        "erleben möchtest, dann nimm es einfach\f",
+        "mit zum See des Zorns!"
+      ]
+    },
+    {
+      "id": "msg_0662_00081",
+      "de_DE": [
+        "In Ebenholz City gibt es jemanden, der\n",
+        "die Pokémon ihre Attacken vergessen\f",
+        "lassen kann...\f",
+        "Aber in jenem Haus vergessen die\f",
+        "Pokémon nicht nur ihre Attacken,\f",
+        "sondern auch ihre Items...\r",
+        "Reingefallen! Das war nur ein Scherz!\n",
+        "Sie vergessen lediglich ihre Attacken!"
+      ]
+    },
+    {
+      "id": "msg_0662_00082",
+      "de_DE": [
+        "Also, ich bin bislang selbst noch nicht\n",
+        "zum Silberberg gegangen...\r",
+        "Meine Pokémon werden bestimmt auch ein\n",
+        "wenig Bammel haben..."
+      ]
+    },
+    {
+      "id": "msg_0662_00083",
+      "de_DE": [
+        "Wo bist du gerade? Ah, im Nationalpark!\n",
+        "Dort bin ich auch sehr gerne!\r",
+        "Vielleicht irre ich mich, aber den\n",
+        "Käfer-Pokémon scheint es dort\f",
+        "ebenfalls zu gefallen!\n"
+      ]
+    },
+    {
+      "id": "msg_0662_00084",
+      "de_DE": [
+        "Bist du gerade in den Alph-Ruinen?\r",
+        "Dort kann man doch ICOGNITO finden,\n",
+        "nicht wahr?\f",
+        "Hast du schon eines gefangen?\r",
+        "Wenn ja, dann nimm es doch einfach\n",
+        "einmal dorthin mit!"
+      ]
+    },
+    {
+      "id": "msg_0662_00085",
+      "de_DE": [
+        "Wo bist du gerade?\n",
+        "In der Safari-Zone?\r",
+        "Es ist ein sehr weiter Fußmarsch bis\n",
+        "dorthin, aber die Mühe lohnt sich auf\f",
+        "jeden Fall!\f",
+        "Es gibt dort so viele Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0662_00086",
+      "de_DE": [
+        "Solltest du einmal Route 1 entlang-\n",
+        "müssen, dann nimm BISASAM mit.\r",
+        "Es wird sicherlich sehr zufrieden sein!"
+      ]
+    },
+    {
+      "id": "msg_0662_00087",
+      "de_DE": [
+        "Solltest du einmal Route 2 entlang-\n",
+        "müssen, dann nimm doch GLUMANDA mit!\r",
+        "Ich habe nämlich gehört, dass GLUMANDA\n",
+        "jene Gegend mögen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00088",
+      "de_DE": [
+        "Hör mal, warst du schon auf Route 3?\n",
+        "Ich habe gehört, dass SCHIGGY dort\f",
+        "ins Stolpern geraten!"
+      ]
+    },
+    {
+      "id": "msg_0662_00089",
+      "de_DE": [
+        "In der Nähe von Route 4 liegt doch der\n",
+        "Mondberg, nicht wahr?\r",
+        "Ich habe gehört, dass PIEPI diesen Ort\n",
+        "gernhaben!"
+      ]
+    },
+    {
+      "id": "msg_0662_00090",
+      "de_DE": [
+        "Du kennst doch das Dojo von Saffronia\n",
+        "City, nicht wahr? Wohl weil man dort\f",
+        "kämpfen kann, waren alle Pokémon, die\f",
+        "ich dorthin mitgenommen hatte, sehr\f",
+        "überrascht!"
+      ]
+    },
+    {
+      "id": "msg_0662_00091",
+      "de_DE": [
+        "Als ich meine Pokémon im Hafen von\n",
+        "Orania City an Bord der M.S. Aqua gehen\f",
+        "ließ, haben sie sich sehr gefreut!"
+      ]
+    },
+    {
+      "id": "msg_0662_00092",
+      "de_DE": [
+        "Warst du schon einmal in Prismania City?\n",
+        "Es heißt, dass PORYGON ein seltsames\f",
+        "Geräusch von sich geben, wenn man sie\f",
+        "in Prismania City herumführt..."
+      ]
+    },
+    {
+      "id": "msg_0662_00093",
+      "de_DE": [
+        "In Saffronia City wohnt doch Mr.\n",
+        "Psycho, nicht wahr?\r",
+        "Was würde wohl passieren, wenn du ein\n",
+        "Psycho-Pokémon zu ihm mitnähmst?\f",
+        "Das könnte interessant sein!"
+      ]
+    },
+    {
+      "id": "msg_0662_00094",
+      "de_DE": [
+        "Solltest du je zum Felstunnel\n",
+        "müssen, dann nimm doch mal ein ONIX\f",
+        "mit!\r",
+        "Ich habe neulich eines dorthin\n",
+        "mitgenommen und es hat sich sehr\f",
+        "gefreut!"
+      ]
+    },
+    {
+      "id": "msg_0662_00095",
+      "de_DE": [
+        "Bist du schon zum Kraftwerk gegangen?\r",
+        "Wenn du ein PIKACHU besitzt, dann nimm\n",
+        "es einfach einmal dorthin mit!\f",
+        "Das wird bestimmt lustig!"
+      ]
+    },
+    {
+      "id": "msg_0662_00096",
+      "de_DE": [
+        "Warst du schon in DIGDAs Höhle?\n",
+        "Welche Pokémon du dorthin mitnehmen\f",
+        "solltest, muss ich dir ja wohl nicht\f",
+        "extra sagen, oder?"
+      ]
+    },
+    {
+      "id": "msg_0662_00097",
+      "de_DE": [
+        "Du kennst das Waisenhaus von Lavandia,\n",
+        "nicht wahr?\f",
+        "Nimm deine Pokémon doch einmal dorthin\f",
+        "mit. Sie freuen sich bestimmt!"
+      ]
+    },
+    {
+      "id": "msg_0662_00098",
+      "de_DE": [
+        "Hör mal! In der Nähe von Route 13\n",
+        "gleicht der Weg doch einem Labyrinth,\f",
+        "nicht wahr?\r",
+        "Vielleicht wirken die Pokémon dort daher\n",
+        "auch ein bisschen verloren und hilflos."
+      ]
+    },
+    {
+      "id": "msg_0662_00099",
+      "de_DE": [
+        "Hör mal! Wenn du noch nicht auf\n",
+        "Route 14 warst, dann solltest du das\f",
+        "unbedingt nachholen!\r",
+        "Die Landschaft mit all den großen\n",
+        "Windrädern ist einfach umwerfend!"
+      ]
+    },
+    {
+      "id": "msg_0662_00100",
+      "de_DE": [
+        "Hast du schon einmal den Wärter des\n",
+        "Parks der Freunde in Fuchsania City\f",
+        "besucht?\r",
+        "Zu Hause hat er ganz viele GRIFFEL!\n",
+        "Das wird bestimmt lustig!"
+      ]
+    },
+    {
+      "id": "msg_0662_00101",
+      "de_DE": [
+        "Hast du den Radweg schon befahren?\r",
+        "Es gibt nichts Schöneres, als dort mit\n",
+        "seinen Pokémon entlangzufahren!\f",
+        "Aber es ist nicht ganz ungefährlich!"
+      ]
+    },
+    {
+      "id": "msg_0662_00102",
+      "de_DE": [
+        "Hast du den Radweg schon befahren?\r",
+        "Es gibt nichts Schöneres, als dort mit\n",
+        "seinen Pokémon entlangzufahren!\f",
+        "Aber es ist nicht ganz ungefährlich!"
+      ]
+    },
+    {
+      "id": "msg_0662_00103",
+      "de_DE": [
+        "Hast du den Radweg schon befahren?\r",
+        "Es gibt nichts Schöneres, als dort mit\n",
+        "seinen Pokémon entlangzufahren!\f",
+        "Aber es ist nicht ganz ungefährlich!"
+      ]
+    },
+    {
+      "id": "msg_0662_00104",
+      "de_DE": [
+        "Es gibt nichts Schöneres, als mit seinen\n",
+        "Pokémon am Strand zu spielen!\r",
+        "Und Route 19 liegt ja praktisch direkt\n",
+        "am Meer..."
+      ]
+    },
+    {
+      "id": "msg_0662_00105",
+      "de_DE": [
+        "Es scheint, dass Feuer-Pokémon sich\n",
+        "nur ungern am Ufer aufhalten...\f",
+        "Das kann ich gut nachvollziehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00106",
+      "de_DE": [
+        "Solltest du Route 21 entlangmüssen,\n",
+        "dann kann ich dir nur empfehlen,\f",
+        "zusammen mit deinem Pokémon den\f",
+        "Sonnenuntergang anzuschauen!\r",
+        "Wie romantisch! Da werde ich ja glatt\n",
+        "rot..."
+      ]
+    },
+    {
+      "id": "msg_0662_00107",
+      "de_DE": [
+        "Route 22 führt doch zur Pokémon Liga,\n",
+        "nicht wahr?\r",
+        "Die Pokémon sind sicherlich nervös, wenn\n",
+        "sie da entlanglaufen..."
+      ]
+    },
+    {
+      "id": "msg_0662_00108",
+      "de_DE": [
+        "Die Brücke an der Route 24 wird\n",
+        "Goldballbrücke genannt.\r",
+        "Das ist zwar kein offizieller Name, aber\n",
+        "viele Menschen nennen sie so.\r",
+        "Die Sonnenstrahlen werden dort vom\n",
+        "Wasser reflektiert - es blendet einen\f",
+        "richtig!"
+      ]
+    },
+    {
+      "id": "msg_0662_00109",
+      "de_DE": [
+        "Hör mal! An Route 25 liegen doch einige\n",
+        "Pfützen, nicht wahr?\r",
+        "Also, ich persönlich glaube ja, dass\n",
+        "Pokémon gar keine Ahnung haben, wie\f",
+        "sie selbst eigentlich aussehen.\r",
+        "Wie sie wohl reagieren werden, wenn sie\n",
+        "ihr eigenes Spiegelbild in einer Pfütze\f",
+        "entdecken?"
+      ]
+    },
+    {
+      "id": "msg_0662_00110",
+      "de_DE": [
+        "Entlang der Route 26 hat sich noch sehr\n",
+        "viel unberührte Natur erhalten, was\f",
+        "den Pokémon eigentlich sehr gefallen\f",
+        "sollte.\r",
+        "Da diese Route aber gleichzeitig auch\n",
+        "zur Pokémon Liga führt, dürften sie\f",
+        "sicherlich sehr aufgeregt sein..."
+      ]
+    },
+    {
+      "id": "msg_0662_00111",
+      "de_DE": [
+        "Ein Pokémon soll auf der Route 27\n",
+        "irgendetwas aufgesammelt haben.\r",
+        "Wie wäre es, wenn du einmal ein dir sehr\n",
+        "nahestehendes Pokémon dorthin\f",
+        "mitnimmst?"
+      ]
+    },
+    {
+      "id": "msg_0662_00112",
+      "de_DE": [
+        "Route 28 führt doch zum Silberberg,\n",
+        "nicht wahr?\r",
+        "Da werden die Pokémon dir sicherlich\n",
+        "mucksmäuschenstill folgen... \f",
+        "Sie werden bestimmt auch ein wenig\f",
+        "Bammel haben..."
+      ]
+    },
+    {
+      "id": "msg_0662_00113",
+      "de_DE": [
+        "Versuche einmal, ENDIVIE mit auf\n",
+        "Route 29 zu nehmen!\r",
+        "Das wird ihm sicher gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00114",
+      "de_DE": [
+        "Versuche einmal, KARNIMANI mit auf\n",
+        "Route 30 zu nehmen!\r",
+        "Das wird ihm sicher gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00115",
+      "de_DE": [
+        "Versuche doch einmal, ein FEURIGEL mit\n",
+        "auf Route 31 zu nehmen!\r",
+        "Das wird ihm sicher gefallen!\n"
+      ]
+    },
+    {
+      "id": "msg_0662_00116",
+      "de_DE": [
+        "Es heißt, dass man in den Alph-Ruinen\n",
+        "ICOGNITO finden könne.\r",
+        "Wenn du also mit einem ICOGNITO zu den\n",
+        "Alph-Ruinen gehst, könnte etwas\f",
+        "Seltsames passieren, nicht wahr?"
+      ]
+    },
+    {
+      "id": "msg_0662_00117",
+      "de_DE": [
+        "Auf Route 33 regnet es doch\n",
+        "ständig, nicht wahr?\r",
+        "Ich blase ja an Regentagen stets\n",
+        "Trübsal... aber es gibt auch Pokémon,\f",
+        "die den Regen geradezu lieben!\r",
+        "Zum Beispiel KARNIMANI!"
+      ]
+    },
+    {
+      "id": "msg_0662_00118",
+      "de_DE": [
+        "Offenbar verfügt der Steineichenwald\n",
+        "über die magische Kraft, PORENTA in\f",
+        "einen Trancezustand zu versetzen.\r",
+        "Ich werde demnächst auch einmal ein\n",
+        "PORENTA dorthin mitnehmen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00119",
+      "de_DE": [
+        "Kennst du den Pokéathlon?\n",
+        "Die Teilnahme daran macht deinen\f",
+        "Pokémon Spaß und hält sie auf Trab!\r",
+        "Ich werde meine demnächst auch\n",
+        "einmal dorthin mitnehmen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00120",
+      "de_DE": [
+        "Wenn du MOGELBAUM besitzt, dann nimm es\n",
+        "einmal mit auf Route 36!\f",
+        "Das wird sehr interessant!\r",
+        "Inwiefern? Nun, das musst du schon\n",
+        "selbst herausfinden..."
+      ]
+    },
+    {
+      "id": "msg_0662_00121",
+      "de_DE": [
+        "Hast du auf Route 37 schon einmal die\n",
+        "Zwillinge getroffen?\r",
+        "Bei den Pokémon sind sie sehr beliebt!\n",
+        "Aber sie sind ja auch wirklich reizend!"
+      ]
+    },
+    {
+      "id": "msg_0662_00122",
+      "de_DE": [
+        "Neulich habe ich TAUROS auf die\n",
+        "Kuhmuh-Farm an der Route 39\f",
+        "mitgenommen... das war vielleicht ein\f",
+        "Durcheinander, kann ich dir sagen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00123",
+      "de_DE": [
+        "Nimm doch einmal MILTANK mit auf\n",
+        "Route 39, wenn du dort entlangmusst!\r",
+        "Es wird dort viele Freunde treffen und\n",
+        "sich prächtig amüsieren!"
+      ]
+    },
+    {
+      "id": "msg_0662_00124",
+      "de_DE": [
+        "Versuch einmal, ein QUAPSEL auf\n",
+        "Route 40 mitzunehmen, wenn du dort\f",
+        "entlang musst!\r",
+        "Das könnte interessant werden!"
+      ]
+    },
+    {
+      "id": "msg_0662_00125",
+      "de_DE": [
+        "Als ich neulich einen Ausflug zur\n",
+        "Route 41 gemacht habe, fiel mir auf,\f",
+        "dass Wasser-Pokémon vom Meer gar nicht\f",
+        "genug bekommen können!\r",
+        "Es macht mich immer wieder froh, sie\n",
+        "so glücklich und zufrieden zu sehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00126",
+      "de_DE": [
+        "Route 42 ist sehr bergig.\n",
+        "Gestein-Pokémon sollte es daher dort\f",
+        "besonders gut gefallen! Nimm doch\f",
+        "einfach einmal eines dorthin mit!"
+      ]
+    },
+    {
+      "id": "msg_0662_00127",
+      "de_DE": [
+        "Wenn du KARPADOR in Topform sehen\n",
+        "möchtest, dann geh mit ihm zum See des\f",
+        "Zorns!"
+      ]
+    },
+    {
+      "id": "msg_0662_00128",
+      "de_DE": [
+        "Ah! Route 44!\n",
+        "Es ist ziemlich kalt dort! Da können\f",
+        "einem kälteempfindliche Pokémon schon\f",
+        "leidtun!\r",
+        "Eis-Pokémon hingegen werden sich\n",
+        "bestimmt wohlfühlen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00129",
+      "de_DE": [
+        "Der im Zickzack verlaufende Kurs des\n",
+        "Flusses bei Route 45 ist wirklich nett\f",
+        "anzusehen!\r",
+        "Auch als ich neulich mit meinen Pokémon\n",
+        "dort war, waren sie alle vom Anblick des\f",
+        "Flusses hingerissen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00130",
+      "de_DE": [
+        "An Route 46 steht viel hohes Gras,\n",
+        "nicht wahr?\f",
+        "Meine Pokémon und ich sind stets ein\f",
+        "wenig besorgt... man weiß nie, wann sich\f",
+        "ein wildes Pokémon zeigt!"
+      ]
+    },
+    {
+      "id": "msg_0662_00131",
+      "de_DE": [
+        "Warst du schon auf Route 47?\n",
+        "Die Landschaft dort ist schon\f",
+        "fantastisch, oder?\r",
+        "Apropos...\n",
+        "kennst du DITTO?\r",
+        "Sie sollen die Gegend um Route 47 sehr\n",
+        "mögen...\f",
+        "Seltsam..."
+      ]
+    },
+    {
+      "id": "msg_0662_00132",
+      "de_DE": [
+        "An der Route 47 gibt es eine hohe\n",
+        "Klippe.\r",
+        "Die Pokémon werden wohl ziemliche Angst\n",
+        "haben, wenn sie dort vorbeigehen!\r",
+        "Ob ich auch?\n",
+        "Ja, selbst mir schlottern da die Knie!"
+      ]
+    },
+    {
+      "id": "msg_0662_00133",
+      "de_DE": [
+        "Alle Pokémon lieben Professor Eich aus\n",
+        "Alabastia!\r",
+        "Nimm doch deine Pokémon einmal mit zu ihm\n",
+        "ins Forschungslabor!"
+      ]
+    },
+    {
+      "id": "msg_0662_00134",
+      "de_DE": [
+        "In Vertania City gibt es doch das\n",
+        "Trainer-Haus, nicht wahr?\r",
+        "Es scheint, als würden die Pokémon zur\n",
+        "Höchstform auflaufen, wenn sie dorthin\f",
+        "gehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00135",
+      "de_DE": [
+        "In Marmoria City gibt es ein Museum, und\n",
+        "es macht wirklich Spaß, diesem zusammen\f",
+        "mit seinen Pokémon einen Besuch\f",
+        "abzustatten!"
+      ]
+    },
+    {
+      "id": "msg_0662_00136",
+      "de_DE": [
+        "Hast du eigentlich Misty getroffen,\n",
+        "die Arenaleiterin von Azuria City?\r",
+        "Ähm, schon gut! Ist nicht so wichtig.\n",
+        "Ich musste nur gerade daran denken..."
+      ]
+    },
+    {
+      "id": "msg_0662_00137",
+      "de_DE": [
+        "In Lavandia gibt es ein Haus der Erin-\n",
+        "nerungen mit den Grabmalen dahingegan-\f",
+        "gener Pokémon.\r",
+        "Als Trainer solltest du einmal dorthin\n",
+        "gehen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00138",
+      "de_DE": [
+        "In Orania City befindet sich der\n",
+        "Pokémon Fan Club.\r",
+        "Warum gehst du nicht dorthin und sagst\n",
+        "LORBLATT einmal Guten Tag?"
+      ]
+    },
+    {
+      "id": "msg_0662_00139",
+      "de_DE": [
+        "Ich habe übrigens TANGELA einmal in die\n",
+        "Arena von Prismania City mitgenommen\f",
+        "und es hat sich sehr gefreut!\r",
+        "Versuch es doch auch einmal!"
+      ]
+    },
+    {
+      "id": "msg_0662_00140",
+      "de_DE": [
+        "Ich habe übrigens gehört, dass TAUROS\n",
+        "in Fuchsania City stets sehr aufgeregt\f",
+        "sein sollen!\r",
+        "Ich kann mir zwar nicht denken, weshalb\n",
+        "das so ist, aber es könnte interessant\f",
+        "sein, einmal ein TAUROS dorthin\f",
+        "mitzunehmen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00141",
+      "de_DE": [
+        "Ich würde gerne einmal auf die\n",
+        "Zinnoberinsel, um zusammen mit meinen\f",
+        "Pokémon von jener unter Lava\f",
+        "begrabenen Stadt aus das Meer zu\f",
+        "betrachten...\r",
+        "Wäre das nicht die perfekte\n",
+        "Schlussszene für einen Film?"
+      ]
+    },
+    {
+      "id": "msg_0662_00142",
+      "de_DE": [
+        "Das Indigo Plateau ist nicht weit\n",
+        "entfernt von der Pokémon Liga.\r",
+        "Als ich mit meinen Pokémon dorthin\n",
+        "gegangen bin, wurden sie ganz\f",
+        "übermütig!"
+      ]
+    },
+    {
+      "id": "msg_0662_00143",
+      "de_DE": [
+        "In Saffronia City wohnt die Nachahmerin,\n",
+        "ein etwas schräges Mädchen.\r",
+        "Nimm doch einmal PANTIMIMI mit zu ihr!\r",
+        "Das könnte interessant werden!"
+      ]
+    },
+    {
+      "id": "msg_0662_00144",
+      "de_DE": [
+        "Wenn du nach Neuborkia zurückkommen\n",
+        "solltest, denk daran, deiner Mutter\f",
+        "deine Pokémon vorzustellen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00145",
+      "de_DE": [
+        "Ich mag den Strand von Rosalia City\n",
+        "sehr gerne!\r",
+        "Was gibt es auch Angenehmeres, als mit\n",
+        "seinen Pokémon beim Klang der Wellen\f",
+        "die Dünen entlangzulaufen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00146",
+      "de_DE": [
+        "Bei Viola City muss ich immer an den\n",
+        "KNOFENSA-Turm denken!\r",
+        "Es heißt, dass KNOFENSA zu tanzen\n",
+        "beginnen, wenn man sie dorthin mitnimmt!\r",
+        "Ob das wohl wahr ist?\n",
+        "Vergewissere dich doch einfach selbst!"
+      ]
+    },
+    {
+      "id": "msg_0662_00147",
+      "de_DE": [
+        "Die Arena in Azalea City ist\n",
+        "wirklich beeindruckend, nicht?\r",
+        "Bist du schon einmal auf ein\n",
+        "mechanisches WEBARAK gestiegen?\r",
+        "Was passiert wohl, wenn man ein echtes\n",
+        "WEBARAK in die Arena mitnimmt?\r",
+        "Das würde ich gerne wissen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00148",
+      "de_DE": [
+        "Du solltest mit KRABBY nach Anemonia\n",
+        "City gehen!\r",
+        "Schau selbst einmal, was dann\n",
+        "geschieht!"
+      ]
+    },
+    {
+      "id": "msg_0662_00149",
+      "de_DE": [
+        "Die Arena von Dukatia City hat, wenn\n",
+        "man genau hinschaut, die Form eines\f",
+        "PIEPI, oder?\r",
+        "Nimm doch einmal ein PIEPI mit dorthin!\n",
+        "Es wird bestimmt etwas Niedliches\f",
+        "machen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00150",
+      "de_DE": [
+        "Das Wahrzeichen von Oliviana City ist\n",
+        "und bleibt der Leuchtturm!\r",
+        "Nimm doch einmal ein AMPHAROS\n",
+        "dorthin mit!\f",
+        "Vielleicht leuchtet es ja?"
+      ]
+    },
+    {
+      "id": "msg_0662_00151",
+      "de_DE": [
+        "Solltest du PICHU bei dir haben, dann\n",
+        "nimm es doch mit ins Tanztheater\f",
+        "von Teak City!\r",
+        "Es möchte bestimmt sofort anfangen zu\n",
+        "tanzen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00152",
+      "de_DE": [
+        "Besitzt du eigentlich bereits\n",
+        "Eis-Pokémon?\r",
+        "Eis-Pokémon lieben es, sich auf dem Eis\n",
+        "zu vergnügen.\f",
+        "Gönne ihnen den Spaß!"
+      ]
+    },
+    {
+      "id": "msg_0662_00153",
+      "de_DE": [
+        "Wenn du KARPADOR einmal in Höchstform\n",
+        "erleben möchtest, dann nimm es einfach\f",
+        "mit zum See des Zorns!"
+      ]
+    },
+    {
+      "id": "msg_0662_00154",
+      "de_DE": [
+        "In Ebenholz City gibt es jemanden, der\n",
+        "die Pokémon ihre Attacken vergessen\f",
+        "lassen kann...\f",
+        "Aber in jenem Haus vergessen die\f",
+        "Pokémon nicht nur ihre Attacken,\f",
+        "sondern auch ihre Items...\r",
+        "Reingefallen! Das war nur ein Scherz!\n",
+        "Sie vergessen lediglich ihre Attacken!"
+      ]
+    },
+    {
+      "id": "msg_0662_00155",
+      "de_DE": [
+        "Hör mal, kennst du den Silberberg?\n",
+        "Also, ich bin bislang auch noch nicht\f",
+        "dorthin gegangen...\r",
+        "Meine Pokémon werden bestimmt auch ein\n",
+        "wenig Bammel haben..."
+      ]
+    },
+    {
+      "id": "msg_0662_00156",
+      "de_DE": [
+        "Im Nationalpark gibt es so viele\n",
+        "Käfer-Pokémon, dass man dort sogar ein\f",
+        "Käferturnier veranstaltet! Nimm doch\f",
+        "einmal ein Käfer-Pokémon dorthin mit!\f",
+        "Es wird sich sicherlich freuen!"
+      ]
+    },
+    {
+      "id": "msg_0662_00157",
+      "de_DE": [
+        "Es heißt, dass man in den Alph-Ruinen\n",
+        "ICOGNITO finden könne.\r",
+        "Wenn du also mit einem ICOGNITO zu den\n",
+        "Alph-Ruinen gehst, könnte etwas\f",
+        "Seltsames passieren, nicht wahr?"
+      ]
+    },
+    {
+      "id": "msg_0662_00158",
+      "de_DE": [
+        "Es ist ein sehr weiter Fußmarsch bis\n",
+        "zur Safari-Zone, aber die Mühe lohnt\f",
+        "sich auf jeden Fall!\f",
+        "Es gibt dort so viele Pokémon!"
+      ]
+    }
+  ]
+}

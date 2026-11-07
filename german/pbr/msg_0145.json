@@ -1,0 +1,70 @@
+{
+  "key": 9223,
+  "messages": [
+    {
+      "id": "msg_0145_00000",
+      "de_DE": [
+        "Hallo. Danke, dass du heute bei uns\n",
+        "einkaufst.\r",
+        "In welches Stockwerk möchtest du?"
+      ]
+    },
+    {
+      "id": "msg_0145_00001",
+      "de_DE": "Komm bald wieder!"
+    },
+    {
+      "id": "msg_0145_00002",
+      "de_DE": [
+        "Aber sicher.\n",
+        "Aufwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0145_00003",
+      "de_DE": [
+        "Aber sicher.\n",
+        "Abwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0145_00004",
+      "de_DE": "Wir sind bereits dort!"
+    },
+    {
+      "id": "msg_0145_00005",
+      "de_DE": [
+        "Erdgeschoss: Medizin und Items für alle\n",
+        "mutigen Abenteurer."
+      ]
+    },
+    {
+      "id": "msg_0145_00006",
+      "de_DE": [
+        "Erster Stock: Nützliche Items für alle\n",
+        "Pokémon-Kämpfe."
+      ]
+    },
+    {
+      "id": "msg_0145_00007",
+      "de_DE": [
+        "Zweiter Stock: TM, um deine Pokémon\n",
+        "stärker zu machen."
+      ]
+    },
+    {
+      "id": "msg_0145_00008",
+      "de_DE": [
+        "Dritter Stock: Wunderschöne\n",
+        "Dekoartikel und Poképuppen."
+      ]
+    },
+    {
+      "id": "msg_0145_00009",
+      "de_DE": [
+        "Vierter Stock: Die Dachterrasse lädt\n",
+        "zu einer entspannenden Pause ein."
+      ]
+    }
+  ]
+}

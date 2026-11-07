@@ -1,0 +1,70 @@
+{
+  "key": 9222,
+  "messages": [
+    {
+      "id": "msg_0499_00000",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Oh, hi,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Du suchst bestimmt {STRVAR_1 3, 1}?\r",
+        "Er war kurz verschwunden und ist\n",
+        "dann wieder nach Hause gekommen.\r",
+        "Der Junge kann einfach nicht still\n",
+        "sitzen.\f",
+        "Was er jetzt wohl wieder vorhat?"
+      ]
+    },
+    {
+      "id": "msg_0499_00001",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Oh, hi,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Du suchst bestimmt {STRVAR_1 3, 1}?\r",
+        "Er war kurz verschwunden und ist\n",
+        "dann wieder nach Hause gekommen.\r",
+        "Der Junge kann einfach nicht still\n",
+        "sitzen.\f",
+        "Was er jetzt wohl wieder vorhat?"
+      ]
+    },
+    {
+      "id": "msg_0499_00002",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Dieses Kind\n",
+        "ist, wie üblich, wieder losgerannt.\r",
+        "Ich denke, du müsstest ihn jetzt\n",
+        "auf Route 201 antreffen können.\r",
+        "Kann einfach nicht still sitzen,\n",
+        "der Junge. Wo er jetzt wohl hin will?"
+      ]
+    },
+    {
+      "id": "msg_0499_00003",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: {STRVAR_1 3, 1}\n",
+        "sollte jetzt bei Route 201 sein.\r",
+        "Er kann einfach nicht still sitzen.\n",
+        "Wo er jetzt wohl hin will?"
+      ]
+    },
+    {
+      "id": "msg_0499_00004",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Oh, du hast\n",
+        "dich also auch mit einem Pokémon\f",
+        "angefreundet."
+      ]
+    },
+    {
+      "id": "msg_0499_00005",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: {STRVAR_1 3, 1}\n",
+        "ist losgestürmt wie eine Rakete.\r",
+        "Er meinte, er wolle der größte Trainer\n",
+        "aller Zeiten werden...\r",
+        "Ob er wohl irgendwann mal still sitzen\n",
+        "kann? Das würde mich echt wundern."
+      ]
+    }
+  ]
+}

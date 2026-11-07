@@ -1,0 +1,41 @@
+{
+  "key": 46175,
+  "messages": [
+    {
+      "id": "msg_0252_00000",
+      "de_DE": [
+        "Das ist die Statue eines Pokémon.\n",
+        "Sie scheint Energie abzugeben...\r",
+        "{STRVAR_1 3, 0} liest die Inschrift...\r",
+        "Ein Körper aus Stein.\r",
+        "Ein Körper aus Eis.\r",
+        "Ein Körper aus Stahl.\r",
+        "Versammelt man die drei Pokémon,\n",
+        "soll der König erscheinen."
+      ]
+    },
+    {
+      "id": "msg_0252_00001",
+      "de_DE": [
+        "Das ist die Statue eines Pokémon.\n",
+        "Sie scheint Energie abzugeben...\r",
+        "{STRVAR_1 3, 0} liest die Inschrift...\r",
+        "Ein Körper aus Stein.\r",
+        "Ein Körper aus Eis.\r",
+        "Ein Körper aus Stahl.\r",
+        "Versammelt man die drei Pokémon,\n",
+        "soll der König erscheinen.\r",
+        "...\n",
+        "...\r"
+      ]
+    },
+    {
+      "id": "msg_0252_00002",
+      "de_DE": "...Zut zutt!\r"
+    },
+    {
+      "id": "msg_0252_00003",
+      "de_DE": "REGIGIGAS verschwand..."
+    }
+  ]
+}

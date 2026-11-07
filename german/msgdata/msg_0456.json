@@ -1,0 +1,30 @@
+{
+  "key": 5150,
+  "messages": [
+    {
+      "id": "msg_0456_00000",
+      "de_DE": [
+        "Denkst du dir denn auch immer gute\n",
+        "Spitznamen für deine Pokémon aus?\r",
+        "Das Tauschen von Pokémon macht\n",
+        "mehr Spaß, wenn sie alle interessante\f",
+        "Spitznamen haben!"
+      ]
+    },
+    {
+      "id": "msg_0456_00001",
+      "de_DE": [
+        "Das hier sind Habbi, ein HABITAK,\n",
+        "und Fratzi, ein RATTFRATZ!"
+      ]
+    },
+    {
+      "id": "msg_0456_00002",
+      "de_DE": "Habbi: Habi, tak!"
+    },
+    {
+      "id": "msg_0456_00003",
+      "de_DE": "Fratzi: Rattattatt!"
+    }
+  ]
+}

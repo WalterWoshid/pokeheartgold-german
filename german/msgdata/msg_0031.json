@@ -1,0 +1,512 @@
+{
+  "key": 14690,
+  "messages": [
+    {
+      "id": "msg_0031_00000",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00001",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00002",
+      "de_DE": "{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0031_00003",
+      "de_DE": "{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0031_00004",
+      "de_DE": "{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0031_00005",
+      "de_DE": "Bitte wähle ein Pokémon."
+    },
+    {
+      "id": "msg_0031_00006",
+      "de_DE": "{ALN_CENTER}ENDE"
+    },
+    {
+      "id": "msg_0031_00007",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0031_00008",
+      "de_DE": "{STRVAR_1 3, 0, 0} ist ausgeschieden."
+    },
+    {
+      "id": "msg_0031_00009",
+      "de_DE": "HEILEN"
+    },
+    {
+      "id": "msg_0031_00010",
+      "de_DE": "LEIHEN"
+    },
+    {
+      "id": "msg_0031_00011",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0031_00012",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0031_00013",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0031_00014",
+      "de_DE": [
+        "Stellt KP und/oder AP\n",
+        "wieder her."
+      ]
+    },
+    {
+      "id": "msg_0031_00015",
+      "de_DE": [
+        "Du kannst dir eine Beere\n",
+        "oder ein Item ausleihen."
+      ]
+    },
+    {
+      "id": "msg_0031_00016",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0031_00017",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0031_00018",
+      "de_DE": [
+        "Zurück zur Pokémon-\n",
+        "Auswahlseite."
+      ]
+    },
+    {
+      "id": "msg_0031_00019",
+      "de_DE": "KP WIEDERHST."
+    },
+    {
+      "id": "msg_0031_00020",
+      "de_DE": "AP WIEDERHST."
+    },
+    {
+      "id": "msg_0031_00021",
+      "de_DE": "ALLES WDHST."
+    },
+    {
+      "id": "msg_0031_00022",
+      "de_DE": "RANG +"
+    },
+    {
+      "id": "msg_0031_00023",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0031_00024",
+      "de_DE": "Was möchtest du verwenden?"
+    },
+    {
+      "id": "msg_0031_00025",
+      "de_DE": [
+        "Wenn du einen neuen Rang erreichst,\n",
+        "kannst du AP wiederherstellen."
+      ]
+    },
+    {
+      "id": "msg_0031_00026",
+      "de_DE": [
+        "Wenn du einen neuen Rang erreichst,\n",
+        "kannst du KP und AP wiederherstellen."
+      ]
+    },
+    {
+      "id": "msg_0031_00027",
+      "de_DE": "Dein Rang kann nicht weiter steigen."
+    },
+    {
+      "id": "msg_0031_00028",
+      "de_DE": "Zur vorherigen Auswahl zurückkehren."
+    },
+    {
+      "id": "msg_0031_00029",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0031_00030",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0031_00031",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0031_00032",
+      "de_DE": "Du hast nicht genügend PP."
+    },
+    {
+      "id": "msg_0031_00033",
+      "de_DE": [
+        "Dein Heilrang ist zu niedrig, um dieses\n",
+        "Menü-Item verwenden zu können."
+      ]
+    },
+    {
+      "id": "msg_0031_00034",
+      "de_DE": [
+        "KP von {STRVAR_1 0, 0, 0} wurden\n",
+        "wiederhergestellt."
+      ]
+    },
+    {
+      "id": "msg_0031_00035",
+      "de_DE": [
+        "AP von {STRVAR_1 0, 0, 0} wurden\n",
+        "wiederhergestellt."
+      ]
+    },
+    {
+      "id": "msg_0031_00036",
+      "de_DE": [
+        "KP und AP von {STRVAR_1 0, 0, 0} wurden\n",
+        "wiederhergestellt."
+      ]
+    },
+    {
+      "id": "msg_0031_00037",
+      "de_DE": [
+        "Das Einsetzen dieses Befehls\n",
+        "hat keinen Effekt."
+      ]
+    },
+    {
+      "id": "msg_0031_00038",
+      "de_DE": [
+        "Soll dein Rang zum Preis von {STRVAR_1 52, 0, 0} PP\n",
+        "gesteigert werden?"
+      ]
+    },
+    {
+      "id": "msg_0031_00039",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0031_00040",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0031_00041",
+      "de_DE": "Du hast nicht genügend PP."
+    },
+    {
+      "id": "msg_0031_00042",
+      "de_DE": [
+        "{STRVAR_1 3, 5, 0} erhielt die Fähigkeit,\n",
+        "AP wiederherzustellen!"
+      ]
+    },
+    {
+      "id": "msg_0031_00043",
+      "de_DE": [
+        "{STRVAR_1 3, 5, 0} erhielt die Fähigkeit,\n",
+        "KP und AP wiederherzustellen!"
+      ]
+    },
+    {
+      "id": "msg_0031_00044",
+      "de_DE": "BEEREN"
+    },
+    {
+      "id": "msg_0031_00045",
+      "de_DE": "ITEMS"
+    },
+    {
+      "id": "msg_0031_00046",
+      "de_DE": "RANG +"
+    },
+    {
+      "id": "msg_0031_00047",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0031_00048",
+      "de_DE": [
+        "Du kannst eine Beere für\n",
+        "dieses Pokémon ausleihen."
+      ]
+    },
+    {
+      "id": "msg_0031_00049",
+      "de_DE": [
+        "Du kannst ein Item für\n",
+        "dieses Pokémon ausleihen."
+      ]
+    },
+    {
+      "id": "msg_0031_00050",
+      "de_DE": [
+        "Wenn du im Rang steigst, kannst du\n",
+        "Items für deine Pokémon ausleihen."
+      ]
+    },
+    {
+      "id": "msg_0031_00051",
+      "de_DE": [
+        "Deine Auswahl an Items und Beeren\n",
+        "wird mit steigendem Rang erhöht."
+      ]
+    },
+    {
+      "id": "msg_0031_00052",
+      "de_DE": "Dein Rang kann nicht weiter steigen."
+    },
+    {
+      "id": "msg_0031_00053",
+      "de_DE": [
+        "Kehre zu den letzten\n",
+        "Auswahlmöglichkeiten zurück."
+      ]
+    },
+    {
+      "id": "msg_0031_00054",
+      "de_DE": [
+        "Dein Rang ist zu niedrig, um\n",
+        "PP verwenden zu können."
+      ]
+    },
+    {
+      "id": "msg_0031_00055",
+      "de_DE": [
+        "Das macht {STRVAR_1 51, 0, 0} PP.\n",
+        "Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0031_00056",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0031_00057",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0031_00058",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0031_00059",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} wurde das Item\n",
+        "{STRVAR_1 8, 1, 0} zum Tragen gegeben."
+      ]
+    },
+    {
+      "id": "msg_0031_00060",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} trägt das Item\n",
+        "{STRVAR_1 8, 1, 0} bereits."
+      ]
+    },
+    {
+      "id": "msg_0031_00061",
+      "de_DE": [
+        "Möchtest du die beiden\n",
+        "Items austauschen?"
+      ]
+    },
+    {
+      "id": "msg_0031_00062",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0031_00063",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0031_00064",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0031_00065",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0031_00066",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0031_00067",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0031_00068",
+      "de_DE": [
+        "{STRVAR_1 3, 5, 0} darf von nun\n",
+        "an Items ausleihen!"
+      ]
+    },
+    {
+      "id": "msg_0031_00069",
+      "de_DE": [
+        "Die Auswahl an ausleihbaren Beeren und\n",
+        "Items für {STRVAR_1 3, 5, 0} wurde größer!"
+      ]
+    },
+    {
+      "id": "msg_0031_00070",
+      "de_DE": "Item"
+    },
+    {
+      "id": "msg_0031_00071",
+      "de_DE": "{STRVAR_1 8, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00072",
+      "de_DE": "Wesen"
+    },
+    {
+      "id": "msg_0031_00073",
+      "de_DE": "{STRVAR_1 7, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00074",
+      "de_DE": "Fähigkeit"
+    },
+    {
+      "id": "msg_0031_00075",
+      "de_DE": "{STRVAR_1 5, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00076",
+      "de_DE": "Angriff"
+    },
+    {
+      "id": "msg_0031_00077",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00078",
+      "de_DE": "Vert."
+    },
+    {
+      "id": "msg_0031_00079",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00080",
+      "de_DE": "Sp. Ang."
+    },
+    {
+      "id": "msg_0031_00081",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00082",
+      "de_DE": "Sp. Ver."
+    },
+    {
+      "id": "msg_0031_00083",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00084",
+      "de_DE": "Init."
+    },
+    {
+      "id": "msg_0031_00085",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00086",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0031_00087",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0031_00088",
+      "de_DE": "Lv."
+    },
+    {
+      "id": "msg_0031_00089",
+      "de_DE": "KP"
+    },
+    {
+      "id": "msg_0031_00090",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0031_00091",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00092",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0031_00093",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0031_00094",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00095",
+      "de_DE": "{STRVAR_1 52, 0, 0}/{STRVAR_1 52, 1, 0}"
+    },
+    {
+      "id": "msg_0031_00096",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00097",
+      "de_DE": "{STRVAR_1 6, 1, 0}"
+    },
+    {
+      "id": "msg_0031_00098",
+      "de_DE": "{STRVAR_1 6, 2, 0}"
+    },
+    {
+      "id": "msg_0031_00099",
+      "de_DE": "{STRVAR_1 6, 3, 0}"
+    },
+    {
+      "id": "msg_0031_00100",
+      "de_DE": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}"
+    },
+    {
+      "id": "msg_0031_00101",
+      "de_DE": "{STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0031_00102",
+      "de_DE": "--"
+    },
+    {
+      "id": "msg_0031_00103",
+      "de_DE": "{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}"
+    },
+    {
+      "id": "msg_0031_00104",
+      "de_DE": "{STRVAR_1 51, 0, 0} PP"
+    },
+    {
+      "id": "msg_0031_00105",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0031_00106",
+      "de_DE": "Leihen/Beeren"
+    },
+    {
+      "id": "msg_0031_00107",
+      "de_DE": "Leihen/Items"
+    }
+  ]
+}

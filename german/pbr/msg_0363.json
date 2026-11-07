@@ -1,0 +1,1989 @@
+{
+  "key": 59681,
+  "messages": [
+    {
+      "id": "msg_0363_00000",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0363_00001",
+      "de_DE": "{COLOR 255}BISASAM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00002",
+      "de_DE": "{COLOR 255}BISAKNOSP{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00003",
+      "de_DE": "{COLOR 255}BISAFLOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00004",
+      "de_DE": "{COLOR 255}GLUMANDA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00005",
+      "de_DE": "{COLOR 255}GLUTEXO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00006",
+      "de_DE": "{COLOR 255}GLURAK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00007",
+      "de_DE": "{COLOR 255}SCHIGGY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00008",
+      "de_DE": "{COLOR 255}SCHILLOK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00009",
+      "de_DE": "{COLOR 255}TURTOK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00010",
+      "de_DE": "{COLOR 255}RAUPY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00011",
+      "de_DE": "{COLOR 255}SAFCON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00012",
+      "de_DE": "{COLOR 255}SMETTBO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00013",
+      "de_DE": "{COLOR 255}HORNLIU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00014",
+      "de_DE": "{COLOR 255}KOKUNA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00015",
+      "de_DE": "{COLOR 255}BIBOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00016",
+      "de_DE": "{COLOR 255}TAUBSI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00017",
+      "de_DE": "{COLOR 255}TAUBOGA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00018",
+      "de_DE": "{COLOR 255}TAUBOSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00019",
+      "de_DE": "{COLOR 255}RATTFRATZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00020",
+      "de_DE": "{COLOR 255}RATTIKARL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00021",
+      "de_DE": "{COLOR 255}HABITAK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00022",
+      "de_DE": "{COLOR 255}IBITAK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00023",
+      "de_DE": "{COLOR 255}RETTAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00024",
+      "de_DE": "{COLOR 255}ARBOK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00025",
+      "de_DE": "{COLOR 255}PIKACHU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00026",
+      "de_DE": "{COLOR 255}RAICHU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00027",
+      "de_DE": "{COLOR 255}SANDAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00028",
+      "de_DE": "{COLOR 255}SANDAMER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00029",
+      "de_DE": "{COLOR 255}NIDORAN♀{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00030",
+      "de_DE": "{COLOR 255}NIDORINA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00031",
+      "de_DE": "{COLOR 255}NIDOQUEEN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00032",
+      "de_DE": "{COLOR 255}NIDORAN♂{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00033",
+      "de_DE": "{COLOR 255}NIDORINO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00034",
+      "de_DE": "{COLOR 255}NIDOKING{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00035",
+      "de_DE": "{COLOR 255}PIEPI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00036",
+      "de_DE": "{COLOR 255}PIXI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00037",
+      "de_DE": "{COLOR 255}VULPIX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00038",
+      "de_DE": "{COLOR 255}VULNONA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00039",
+      "de_DE": "{COLOR 255}PUMMELUFF{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00040",
+      "de_DE": "{COLOR 255}KNUDDELUFF{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00041",
+      "de_DE": "{COLOR 255}ZUBAT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00042",
+      "de_DE": "{COLOR 255}GOLBAT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00043",
+      "de_DE": "{COLOR 255}MYRAPLA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00044",
+      "de_DE": "{COLOR 255}DUFLOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00045",
+      "de_DE": "{COLOR 255}GIFLOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00046",
+      "de_DE": "{COLOR 255}PARAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00047",
+      "de_DE": "{COLOR 255}PARASEK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00048",
+      "de_DE": "{COLOR 255}BLUZUK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00049",
+      "de_DE": "{COLOR 255}OMOT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00050",
+      "de_DE": "{COLOR 255}DIGDA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00051",
+      "de_DE": "{COLOR 255}DIGDRI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00052",
+      "de_DE": "{COLOR 255}MAUZI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00053",
+      "de_DE": "{COLOR 255}SNOBILIKAT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00054",
+      "de_DE": "{COLOR 255}ENTON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00055",
+      "de_DE": "{COLOR 255}ENTORON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00056",
+      "de_DE": "{COLOR 255}MENKI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00057",
+      "de_DE": "{COLOR 255}RASAFF{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00058",
+      "de_DE": "{COLOR 255}FUKANO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00059",
+      "de_DE": "{COLOR 255}ARKANI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00060",
+      "de_DE": "{COLOR 255}QUAPSEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00061",
+      "de_DE": "{COLOR 255}QUAPUTZI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00062",
+      "de_DE": "{COLOR 255}QUAPPO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00063",
+      "de_DE": "{COLOR 255}ABRA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00064",
+      "de_DE": "{COLOR 255}KADABRA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00065",
+      "de_DE": "{COLOR 255}SIMSALA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00066",
+      "de_DE": "{COLOR 255}MACHOLLO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00067",
+      "de_DE": "{COLOR 255}MASCHOCK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00068",
+      "de_DE": "{COLOR 255}MACHOMEI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00069",
+      "de_DE": "{COLOR 255}KNOFENSA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00070",
+      "de_DE": "{COLOR 255}ULTRIGARIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00071",
+      "de_DE": "{COLOR 255}SARZENIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00072",
+      "de_DE": "{COLOR 255}TENTACHA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00073",
+      "de_DE": "{COLOR 255}TENTOXA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00074",
+      "de_DE": "{COLOR 255}KLST{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00075",
+      "de_DE": "{COLOR 255}GEOROK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00076",
+      "de_DE": "{COLOR 255}GEOWAZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00077",
+      "de_DE": "{COLOR 255}PONITA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00078",
+      "de_DE": "{COLOR 255}GALLOPA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00079",
+      "de_DE": "{COLOR 255}FLEGMON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00080",
+      "de_DE": "{COLOR 255}LAHMUS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00081",
+      "de_DE": "{COLOR 255}MAGNETILO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00082",
+      "de_DE": "{COLOR 255}MAGNETON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00083",
+      "de_DE": "{COLOR 255}PORENTA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00084",
+      "de_DE": "{COLOR 255}DODU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00085",
+      "de_DE": "{COLOR 255}DODRI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00086",
+      "de_DE": "{COLOR 255}JUROB{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00087",
+      "de_DE": "{COLOR 255}JUGONG{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00088",
+      "de_DE": "{COLOR 255}SLEIMA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00089",
+      "de_DE": "{COLOR 255}SLEIMOK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00090",
+      "de_DE": "{COLOR 255}MUSCHAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00091",
+      "de_DE": "{COLOR 255}AUSTOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00092",
+      "de_DE": "{COLOR 255}NEBULAK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00093",
+      "de_DE": "{COLOR 255}ALPOLLO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00094",
+      "de_DE": "{COLOR 255}GENGAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00095",
+      "de_DE": "{COLOR 255}ONIX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00096",
+      "de_DE": "{COLOR 255}TRAUMATO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00097",
+      "de_DE": "{COLOR 255}HYPNO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00098",
+      "de_DE": "{COLOR 255}KRABBY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00099",
+      "de_DE": "{COLOR 255}KINGLER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00100",
+      "de_DE": "{COLOR 255}VOLTOBAL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00101",
+      "de_DE": "{COLOR 255}LEKTROBAL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00102",
+      "de_DE": "{COLOR 255}OWEI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00103",
+      "de_DE": "{COLOR 255}KOKOWEI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00104",
+      "de_DE": "{COLOR 255}TRAGOSSO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00105",
+      "de_DE": "{COLOR 255}KNOGGA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00106",
+      "de_DE": "{COLOR 255}KICKLEE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00107",
+      "de_DE": "{COLOR 255}NOCKCHAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00108",
+      "de_DE": "{COLOR 255}SCHLURP{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00109",
+      "de_DE": "{COLOR 255}SMOGON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00110",
+      "de_DE": "{COLOR 255}SMOGMOG{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00111",
+      "de_DE": "{COLOR 255}RIHORN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00112",
+      "de_DE": "{COLOR 255}RIZEROS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00113",
+      "de_DE": "{COLOR 255}CHANEIRA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00114",
+      "de_DE": "{COLOR 255}TANGELA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00115",
+      "de_DE": "{COLOR 255}KANGAMA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00116",
+      "de_DE": "{COLOR 255}SEEPER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00117",
+      "de_DE": "{COLOR 255}SEEMON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00118",
+      "de_DE": "{COLOR 255}GOLDINI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00119",
+      "de_DE": "{COLOR 255}GOLKING{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00120",
+      "de_DE": "{COLOR 255}STERNDU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00121",
+      "de_DE": "{COLOR 255}STARMIE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00122",
+      "de_DE": "{COLOR 255}PANTIMOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00123",
+      "de_DE": "{COLOR 255}SICHLOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00124",
+      "de_DE": "{COLOR 255}ROSSANA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00125",
+      "de_DE": "{COLOR 255}ELEKTEK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00126",
+      "de_DE": "{COLOR 255}MAGMAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00127",
+      "de_DE": "{COLOR 255}PINSIR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00128",
+      "de_DE": "{COLOR 255}TAUROS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00129",
+      "de_DE": "{COLOR 255}KARPADOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00130",
+      "de_DE": "{COLOR 255}GARADOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00131",
+      "de_DE": "{COLOR 255}LAPRAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00132",
+      "de_DE": "{COLOR 255}DITTO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00133",
+      "de_DE": "{COLOR 255}EVOLI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00134",
+      "de_DE": "{COLOR 255}AQUANA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00135",
+      "de_DE": "{COLOR 255}BLITZA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00136",
+      "de_DE": "{COLOR 255}FLAMARA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00137",
+      "de_DE": "{COLOR 255}PORYGON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00138",
+      "de_DE": "{COLOR 255}AMONITAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00139",
+      "de_DE": "{COLOR 255}AMOROSO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00140",
+      "de_DE": "{COLOR 255}KABUTO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00141",
+      "de_DE": "{COLOR 255}KABUTOPS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00142",
+      "de_DE": "{COLOR 255}AERODACTYL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00143",
+      "de_DE": "{COLOR 255}RELAXO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00144",
+      "de_DE": "{COLOR 255}ARKTOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00145",
+      "de_DE": "{COLOR 255}ZAPDOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00146",
+      "de_DE": "{COLOR 255}LAVADOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00147",
+      "de_DE": "{COLOR 255}DRATINI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00148",
+      "de_DE": "{COLOR 255}DRAGONIR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00149",
+      "de_DE": "{COLOR 255}DRAGORAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00150",
+      "de_DE": "{COLOR 255}MEWTU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00151",
+      "de_DE": "{COLOR 255}MEW{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00152",
+      "de_DE": "{COLOR 255}ENDIVIE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00153",
+      "de_DE": "{COLOR 255}LORBLATT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00154",
+      "de_DE": "{COLOR 255}MEGANIE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00155",
+      "de_DE": "{COLOR 255}FEURIGEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00156",
+      "de_DE": "{COLOR 255}IGELAVAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00157",
+      "de_DE": "{COLOR 255}TORNUPTO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00158",
+      "de_DE": "{COLOR 255}KARNIMANI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00159",
+      "de_DE": "{COLOR 255}TYRACROC{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00160",
+      "de_DE": "{COLOR 255}IMPERGATOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00161",
+      "de_DE": "{COLOR 255}WIESOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00162",
+      "de_DE": "{COLOR 255}WIESENIOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00163",
+      "de_DE": "{COLOR 255}HOOTHOOT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00164",
+      "de_DE": "{COLOR 255}NOCTUH{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00165",
+      "de_DE": "{COLOR 255}LEDYBA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00166",
+      "de_DE": "{COLOR 255}LEDIAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00167",
+      "de_DE": "{COLOR 255}WEBARAK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00168",
+      "de_DE": "{COLOR 255}ARIADOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00169",
+      "de_DE": "{COLOR 255}IKSBAT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00170",
+      "de_DE": "{COLOR 255}LAMPI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00171",
+      "de_DE": "{COLOR 255}LANTURN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00172",
+      "de_DE": "{COLOR 255}PICHU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00173",
+      "de_DE": "{COLOR 255}PII{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00174",
+      "de_DE": "{COLOR 255}FLUFFELUFF{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00175",
+      "de_DE": "{COLOR 255}TOGEPI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00176",
+      "de_DE": "{COLOR 255}TOGETIC{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00177",
+      "de_DE": "{COLOR 255}NATU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00178",
+      "de_DE": "{COLOR 255}XATU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00179",
+      "de_DE": "{COLOR 255}VOLTILAMM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00180",
+      "de_DE": "{COLOR 255}WAATY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00181",
+      "de_DE": "{COLOR 255}AMPHAROS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00182",
+      "de_DE": "{COLOR 255}BLUBELLA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00183",
+      "de_DE": "{COLOR 255}MARILL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00184",
+      "de_DE": "{COLOR 255}AZUMARILL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00185",
+      "de_DE": "{COLOR 255}MOGELBAUM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00186",
+      "de_DE": "{COLOR 255}QUAXO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00187",
+      "de_DE": "{COLOR 255}HOPPSPROSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00188",
+      "de_DE": "{COLOR 255}HUBELUPF{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00189",
+      "de_DE": "{COLOR 255}PAPUNGHA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00190",
+      "de_DE": "{COLOR 255}GRIFFEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00191",
+      "de_DE": "{COLOR 255}SONNKERN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00192",
+      "de_DE": "{COLOR 255}SONNFLORA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00193",
+      "de_DE": "{COLOR 255}YANMA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00194",
+      "de_DE": "{COLOR 255}FELINO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00195",
+      "de_DE": "{COLOR 255}MORLORD{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00196",
+      "de_DE": "{COLOR 255}PSIANA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00197",
+      "de_DE": "{COLOR 255}NACHTARA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00198",
+      "de_DE": "{COLOR 255}KRAMURX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00199",
+      "de_DE": "{COLOR 255}LASCHOKING{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00200",
+      "de_DE": "{COLOR 255}TRAUNFUGIL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00201",
+      "de_DE": "{COLOR 255}ICOGNITO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00202",
+      "de_DE": "{COLOR 255}WOINGENAU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00203",
+      "de_DE": "{COLOR 255}GIRAFARIG{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00204",
+      "de_DE": "{COLOR 255}TANNZA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00205",
+      "de_DE": "{COLOR 255}FORSTELLKA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00206",
+      "de_DE": "{COLOR 255}DUMMISEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00207",
+      "de_DE": "{COLOR 255}SKORGLA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00208",
+      "de_DE": "{COLOR 255}STAHLOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00209",
+      "de_DE": "{COLOR 255}SNUBBULL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00210",
+      "de_DE": "{COLOR 255}GRANBULL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00211",
+      "de_DE": "{COLOR 255}BALDORFISH{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00212",
+      "de_DE": "{COLOR 255}SCHEROX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00213",
+      "de_DE": "{COLOR 255}POTTROTT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00214",
+      "de_DE": "{COLOR 255}SKARABORN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00215",
+      "de_DE": "{COLOR 255}SNIEBEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00216",
+      "de_DE": "{COLOR 255}TEDDIURSA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00217",
+      "de_DE": "{COLOR 255}URSARING{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00218",
+      "de_DE": "{COLOR 255}SCHNECKMAG{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00219",
+      "de_DE": "{COLOR 255}MAGCARGO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00220",
+      "de_DE": "{COLOR 255}QUIEKEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00221",
+      "de_DE": "{COLOR 255}KEIFEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00222",
+      "de_DE": "{COLOR 255}CORASONN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00223",
+      "de_DE": "{COLOR 255}REMORAID{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00224",
+      "de_DE": "{COLOR 255}OCTILLERY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00225",
+      "de_DE": "{COLOR 255}BOTOGEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00226",
+      "de_DE": "{COLOR 255}MANTAX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00227",
+      "de_DE": "{COLOR 255}PANZAERON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00228",
+      "de_DE": "{COLOR 255}HUNDUSTER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00229",
+      "de_DE": "{COLOR 255}HUNDEMON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00230",
+      "de_DE": "{COLOR 255}SEEDRAKING{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00231",
+      "de_DE": "{COLOR 255}PHANPY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00232",
+      "de_DE": "{COLOR 255}DONPHAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00233",
+      "de_DE": "{COLOR 255}PORYGON2{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00234",
+      "de_DE": "{COLOR 255}DAMHIRPLEX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00235",
+      "de_DE": "{COLOR 255}FARBEAGLE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00236",
+      "de_DE": "{COLOR 255}RABAUZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00237",
+      "de_DE": "{COLOR 255}KAPOERA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00238",
+      "de_DE": "{COLOR 255}KUSSILLA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00239",
+      "de_DE": "{COLOR 255}ELEKID{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00240",
+      "de_DE": "{COLOR 255}MAGBY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00241",
+      "de_DE": "{COLOR 255}MILTANK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00242",
+      "de_DE": "{COLOR 255}HEITEIRA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00243",
+      "de_DE": "{COLOR 255}RAIKOU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00244",
+      "de_DE": "{COLOR 255}ENTEI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00245",
+      "de_DE": "{COLOR 255}SUICUNE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00246",
+      "de_DE": "{COLOR 255}LARVITAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00247",
+      "de_DE": "{COLOR 255}PUPITAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00248",
+      "de_DE": "{COLOR 255}DESPOTAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00249",
+      "de_DE": "{COLOR 255}LUGIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00250",
+      "de_DE": "{COLOR 255}HO-OH{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00251",
+      "de_DE": "{COLOR 255}CELEBI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00252",
+      "de_DE": "{COLOR 255}GECKARBOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00253",
+      "de_DE": "{COLOR 255}REPTAIN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00254",
+      "de_DE": "{COLOR 255}GEWALDRO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00255",
+      "de_DE": "{COLOR 255}FLEMMLI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00256",
+      "de_DE": "{COLOR 255}JUNGGLUT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00257",
+      "de_DE": "{COLOR 255}LOHGOCK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00258",
+      "de_DE": "{COLOR 255}HYDROPI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00259",
+      "de_DE": "{COLOR 255}MOORABBEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00260",
+      "de_DE": "{COLOR 255}SUMPEX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00261",
+      "de_DE": "{COLOR 255}FIFFYEN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00262",
+      "de_DE": "{COLOR 255}MAGNAYEN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00263",
+      "de_DE": "{COLOR 255}ZIGZACHS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00264",
+      "de_DE": "{COLOR 255}GERADAKS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00265",
+      "de_DE": "{COLOR 255}WAUMPEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00266",
+      "de_DE": "{COLOR 255}SCHALOKO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00267",
+      "de_DE": "{COLOR 255}PAPINELLA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00268",
+      "de_DE": "{COLOR 255}PANEKON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00269",
+      "de_DE": "{COLOR 255}PUDOX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00270",
+      "de_DE": "{COLOR 255}LOTURZEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00271",
+      "de_DE": "{COLOR 255}LOMBRERO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00272",
+      "de_DE": "{COLOR 255}KAPPALORES{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00273",
+      "de_DE": "{COLOR 255}SAMURZEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00274",
+      "de_DE": "{COLOR 255}BLANAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00275",
+      "de_DE": "{COLOR 255}TENGULIST{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00276",
+      "de_DE": "{COLOR 255}SCHWALBINI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00277",
+      "de_DE": "{COLOR 255}SCHWALBOSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00278",
+      "de_DE": "{COLOR 255}WINGULL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00279",
+      "de_DE": "{COLOR 255}PELIPPER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00280",
+      "de_DE": "{COLOR 255}TRASLA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00281",
+      "de_DE": "{COLOR 255}KIRLIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00282",
+      "de_DE": "{COLOR 255}GUARDEVOIR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00283",
+      "de_DE": "{COLOR 255}GEHWEIHER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00284",
+      "de_DE": "{COLOR 255}MASKEREGEN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00285",
+      "de_DE": "{COLOR 255}KNILZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00286",
+      "de_DE": "{COLOR 255}KAPILZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00287",
+      "de_DE": "{COLOR 255}BUMMELZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00288",
+      "de_DE": "{COLOR 255}MUNTIER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00289",
+      "de_DE": "{COLOR 255}LETARKING{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00290",
+      "de_DE": "{COLOR 255}NINCADA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00291",
+      "de_DE": "{COLOR 255}NINJASK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00292",
+      "de_DE": "{COLOR 255}NINJATOM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00293",
+      "de_DE": "{COLOR 255}FLURMEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00294",
+      "de_DE": "{COLOR 255}KRAKEELO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00295",
+      "de_DE": "{COLOR 255}KRAWUMMS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00296",
+      "de_DE": "{COLOR 255}MAKUHITA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00297",
+      "de_DE": "{COLOR 255}HARIYAMA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00298",
+      "de_DE": "{COLOR 255}AZURILL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00299",
+      "de_DE": "{COLOR 255}NASGNET{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00300",
+      "de_DE": "{COLOR 255}ENECO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00301",
+      "de_DE": "{COLOR 255}ENEKORO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00302",
+      "de_DE": "{COLOR 255}ZOBIRIS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00303",
+      "de_DE": "{COLOR 255}FLUNKIFER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00304",
+      "de_DE": "{COLOR 255}STOLLUNIOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00305",
+      "de_DE": "{COLOR 255}STOLLRAK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00306",
+      "de_DE": "{COLOR 255}STOLLOSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00307",
+      "de_DE": "{COLOR 255}MEDITIE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00308",
+      "de_DE": "{COLOR 255}MEDITALIS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00309",
+      "de_DE": "{COLOR 255}FRIZELBLIZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00310",
+      "de_DE": "{COLOR 255}VOLTENSO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00311",
+      "de_DE": "{COLOR 255}PLUSLE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00312",
+      "de_DE": "{COLOR 255}MINUN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00313",
+      "de_DE": "{COLOR 255}VOLBEAT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00314",
+      "de_DE": "{COLOR 255}ILLUMISE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00315",
+      "de_DE": "{COLOR 255}ROSELIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00316",
+      "de_DE": "{COLOR 255}SCHLUPPUCK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00317",
+      "de_DE": "{COLOR 255}SCHLUKWECH{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00318",
+      "de_DE": "{COLOR 255}KANIVANHA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00319",
+      "de_DE": "{COLOR 255}TOHAIDO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00320",
+      "de_DE": "{COLOR 255}WAILMER{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00321",
+      "de_DE": "{COLOR 255}WAILORD{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00322",
+      "de_DE": "{COLOR 255}CAMAUB{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00323",
+      "de_DE": "{COLOR 255}CAMERUPT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00324",
+      "de_DE": "{COLOR 255}QURTEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00325",
+      "de_DE": "{COLOR 255}SPOINK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00326",
+      "de_DE": "{COLOR 255}GROINK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00327",
+      "de_DE": "{COLOR 255}PANDIR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00328",
+      "de_DE": "{COLOR 255}KNACKLION{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00329",
+      "de_DE": "{COLOR 255}VIBRAVA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00330",
+      "de_DE": "{COLOR 255}LIBELLDRA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00331",
+      "de_DE": "{COLOR 255}TUSKA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00332",
+      "de_DE": "{COLOR 255}NOKTUSKA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00333",
+      "de_DE": "{COLOR 255}WABLU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00334",
+      "de_DE": "{COLOR 255}ALTARIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00335",
+      "de_DE": "{COLOR 255}SENGO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00336",
+      "de_DE": "{COLOR 255}VIPITIS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00337",
+      "de_DE": "{COLOR 255}LUNAST{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00338",
+      "de_DE": "{COLOR 255}SONNFEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00339",
+      "de_DE": "{COLOR 255}SCHMERBE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00340",
+      "de_DE": "{COLOR 255}WELSAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00341",
+      "de_DE": "{COLOR 255}KREBSCORPS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00342",
+      "de_DE": "{COLOR 255}KREBUTACK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00343",
+      "de_DE": "{COLOR 255}PUPPANCE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00344",
+      "de_DE": "{COLOR 255}LEPUMENTAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00345",
+      "de_DE": "{COLOR 255}LILIEP{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00346",
+      "de_DE": "{COLOR 255}WIELIE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00347",
+      "de_DE": "{COLOR 255}ANORITH{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00348",
+      "de_DE": "{COLOR 255}ARMALDO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00349",
+      "de_DE": "{COLOR 255}BARSCHWA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00350",
+      "de_DE": "{COLOR 255}MILOTIC{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00351",
+      "de_DE": "{COLOR 255}FORMEO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00352",
+      "de_DE": "{COLOR 255}KECLEON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00353",
+      "de_DE": "{COLOR 255}SHUPPET{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00354",
+      "de_DE": "{COLOR 255}BANETTE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00355",
+      "de_DE": "{COLOR 255}ZWIRRLICHT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00356",
+      "de_DE": "{COLOR 255}ZWIRRKLOP{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00357",
+      "de_DE": "{COLOR 255}TROPIUS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00358",
+      "de_DE": "{COLOR 255}PALIMPALIM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00359",
+      "de_DE": "{COLOR 255}ABSOL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00360",
+      "de_DE": "{COLOR 255}ISSO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00361",
+      "de_DE": "{COLOR 255}SCHNEPPKE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00362",
+      "de_DE": "{COLOR 255}FIRNONTOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00363",
+      "de_DE": "{COLOR 255}SEEMOPS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00364",
+      "de_DE": "{COLOR 255}SEEJONG{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00365",
+      "de_DE": "{COLOR 255}WALRAISA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00366",
+      "de_DE": "{COLOR 255}PERLU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00367",
+      "de_DE": "{COLOR 255}AALABYSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00368",
+      "de_DE": "{COLOR 255}SAGANABYSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00369",
+      "de_DE": "{COLOR 255}RELICANTH{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00370",
+      "de_DE": "{COLOR 255}LIEBISKUS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00371",
+      "de_DE": "{COLOR 255}KINDWURM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00372",
+      "de_DE": "{COLOR 255}DRASCHEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00373",
+      "de_DE": "{COLOR 255}BRUTALANDA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00374",
+      "de_DE": "{COLOR 255}TANHEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00375",
+      "de_DE": "{COLOR 255}METANG{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00376",
+      "de_DE": "{COLOR 255}METAGROSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00377",
+      "de_DE": "{COLOR 255}REGIROCK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00378",
+      "de_DE": "{COLOR 255}REGICE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00379",
+      "de_DE": "{COLOR 255}REGISTEEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00380",
+      "de_DE": "{COLOR 255}LATIAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00381",
+      "de_DE": "{COLOR 255}LATIOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00382",
+      "de_DE": "{COLOR 255}KYOGRE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00383",
+      "de_DE": "{COLOR 255}GROUDON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00384",
+      "de_DE": "{COLOR 255}RAYQUAZA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00385",
+      "de_DE": "{COLOR 255}JIRACHI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00386",
+      "de_DE": "{COLOR 255}DEOXYS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00387",
+      "de_DE": "{COLOR 255}CHELAST{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00388",
+      "de_DE": "{COLOR 255}CHELCARAIN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00389",
+      "de_DE": "{COLOR 255}CHELTERRAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00390",
+      "de_DE": "{COLOR 255}PANFLAM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00391",
+      "de_DE": "{COLOR 255}PANPYRO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00392",
+      "de_DE": "{COLOR 255}PANFERNO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00393",
+      "de_DE": "{COLOR 255}PLINFA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00394",
+      "de_DE": "{COLOR 255}PLIPRIN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00395",
+      "de_DE": "{COLOR 255}IMPOLEON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00396",
+      "de_DE": "{COLOR 255}STARALILI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00397",
+      "de_DE": "{COLOR 255}STARAVIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00398",
+      "de_DE": "{COLOR 255}STARAPTOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00399",
+      "de_DE": "{COLOR 255}BIDIZA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00400",
+      "de_DE": "{COLOR 255}BIDIFAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00401",
+      "de_DE": "{COLOR 255}ZIRPURZE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00402",
+      "de_DE": "{COLOR 255}ZIRPEISE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00403",
+      "de_DE": "{COLOR 255}SHUX{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00404",
+      "de_DE": "{COLOR 255}LUXIO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00405",
+      "de_DE": "{COLOR 255}LUXTRA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00406",
+      "de_DE": "{COLOR 255}KNOSPI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00407",
+      "de_DE": "{COLOR 255}ROSERADE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00408",
+      "de_DE": "{COLOR 255}KOKNODON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00409",
+      "de_DE": "{COLOR 255}RAMEIDON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00410",
+      "de_DE": "{COLOR 255}SCHILTERUS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00411",
+      "de_DE": "{COLOR 255}BOLLTERUS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00412",
+      "de_DE": "{COLOR 255}BURMY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00413",
+      "de_DE": "{COLOR 255}BURMADAME{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00414",
+      "de_DE": "{COLOR 255}MOTERPEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00415",
+      "de_DE": "{COLOR 255}WADRIBIE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00416",
+      "de_DE": "{COLOR 255}HONWEISEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00417",
+      "de_DE": "{COLOR 255}PACHIRISU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00418",
+      "de_DE": "{COLOR 255}BAMELIN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00419",
+      "de_DE": "{COLOR 255}BOJELIN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00420",
+      "de_DE": "{COLOR 255}KIKUGI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00421",
+      "de_DE": "{COLOR 255}KONOSO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00422",
+      "de_DE": "{COLOR 255}SCHALELLOS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00423",
+      "de_DE": "{COLOR 255}GASTRODON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00424",
+      "de_DE": "{COLOR 255}AMBIDIFFEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00425",
+      "de_DE": "{COLOR 255}DRIFTLON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00426",
+      "de_DE": "{COLOR 255}DRIFZEPELI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00427",
+      "de_DE": "{COLOR 255}HASPIROR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00428",
+      "de_DE": "{COLOR 255}SCHLAPOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00429",
+      "de_DE": "{COLOR 255}TRAUNMAGIL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00430",
+      "de_DE": "{COLOR 255}KRAMSHEF{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00431",
+      "de_DE": "{COLOR 255}CHARMIAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00432",
+      "de_DE": "{COLOR 255}SHNURGARST{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00433",
+      "de_DE": "{COLOR 255}KLINGPLIM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00434",
+      "de_DE": "{COLOR 255}SKUNKAPUH{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00435",
+      "de_DE": "{COLOR 255}SKUNTANK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00436",
+      "de_DE": "{COLOR 255}BRONZEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00437",
+      "de_DE": "{COLOR 255}BRONZONG{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00438",
+      "de_DE": "{COLOR 255}MOBAI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00439",
+      "de_DE": "{COLOR 255}PANTIMIMI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00440",
+      "de_DE": "{COLOR 255}WONNEIRA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00441",
+      "de_DE": "{COLOR 255}PLAUDAGEI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00442",
+      "de_DE": "{COLOR 255}KRYPPUK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00443",
+      "de_DE": "{COLOR 255}KAUMALAT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00444",
+      "de_DE": "{COLOR 255}KNARKSEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00445",
+      "de_DE": "{COLOR 255}KNAKRACK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00446",
+      "de_DE": "{COLOR 255}MAMPFAXO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00447",
+      "de_DE": "{COLOR 255}RIOLU{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00448",
+      "de_DE": "{COLOR 255}LUCARIO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00449",
+      "de_DE": "{COLOR 255}HIPPOPOTAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00450",
+      "de_DE": "{COLOR 255}HIPPOTERUS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00451",
+      "de_DE": "{COLOR 255}PIONSKORA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00452",
+      "de_DE": "{COLOR 255}PIONDRAGI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00453",
+      "de_DE": "{COLOR 255}GLIBUNKEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00454",
+      "de_DE": "{COLOR 255}TOXIQUAK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00455",
+      "de_DE": "{COLOR 255}VENUFLIBIS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00456",
+      "de_DE": "{COLOR 255}FINNEON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00457",
+      "de_DE": "{COLOR 255}LUMINEON{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00458",
+      "de_DE": "{COLOR 255}MANTIRPS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00459",
+      "de_DE": "{COLOR 255}SHNEBEDECK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00460",
+      "de_DE": "{COLOR 255}REXBLISAR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00461",
+      "de_DE": "{COLOR 255}SNIBUNNA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00462",
+      "de_DE": "{COLOR 255}MAGNEZONE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00463",
+      "de_DE": "{COLOR 255}SCHLURPLEK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00464",
+      "de_DE": "{COLOR 255}RIHORNIOR{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00465",
+      "de_DE": "{COLOR 255}TANGOLOSS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00466",
+      "de_DE": "{COLOR 255}ELEVOLTEK{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00467",
+      "de_DE": "{COLOR 255}MAGBRANT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00468",
+      "de_DE": "{COLOR 255}TOGEKISS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00469",
+      "de_DE": "{COLOR 255}YANMEGA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00470",
+      "de_DE": "{COLOR 255}FOLIPURBA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00471",
+      "de_DE": "{COLOR 255}GLAZIOLA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00472",
+      "de_DE": "{COLOR 255}SKORGRO{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00473",
+      "de_DE": "{COLOR 255}MAMUTEL{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00474",
+      "de_DE": "{COLOR 255}PORYGON-Z{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00475",
+      "de_DE": "{COLOR 255}GALAGLADI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00476",
+      "de_DE": "{COLOR 255}VOLUMINAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00477",
+      "de_DE": "{COLOR 255}ZWIRRFINST{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00478",
+      "de_DE": "{COLOR 255}FROSDEDJE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00479",
+      "de_DE": "{COLOR 255}ROTOM{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00480",
+      "de_DE": "{COLOR 255}SELFE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00481",
+      "de_DE": "{COLOR 255}VESPRIT{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00482",
+      "de_DE": "{COLOR 255}TOBUTZ{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00483",
+      "de_DE": "{COLOR 255}DIALGA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00484",
+      "de_DE": "{COLOR 255}PALKIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00485",
+      "de_DE": "{COLOR 255}HEATRAN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00486",
+      "de_DE": "{COLOR 255}REGIGIGAS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00487",
+      "de_DE": "{COLOR 255}GIRATINA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00488",
+      "de_DE": "{COLOR 255}CRESSELIA{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00489",
+      "de_DE": "{COLOR 255}PHIONE{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00490",
+      "de_DE": "{COLOR 255}MANAPHY{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00491",
+      "de_DE": "{COLOR 255}DARKRAI{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00492",
+      "de_DE": "{COLOR 255}SHAYMIN{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00493",
+      "de_DE": "{COLOR 255}ARCEUS{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00494",
+      "de_DE": "{COLOR 255}Ei{COLOR 0}"
+    },
+    {
+      "id": "msg_0363_00495",
+      "de_DE": "{COLOR 255}Schl. Ei{COLOR 0}"
+    }
+  ]
+}

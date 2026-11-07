@@ -1,0 +1,74 @@
+{
+  "key": 54351,
+  "messages": [
+    {
+      "id": "msg_0263_00000",
+      "de_DE": [
+        "Da steht ein Bett...\n",
+        "Willst du schlafen?"
+      ]
+    },
+    {
+      "id": "msg_0263_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0} schlief schnell im Bett\n",
+        "ein...\r"
+      ]
+    },
+    {
+      "id": "msg_0263_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} und die Pokémon wurden\n",
+        "durch den Schlaf vollständig geheilt!"
+      ]
+    },
+    {
+      "id": "msg_0263_00003",
+      "de_DE": [
+        "Schlafraum Team Galaktik\r",
+        "Bevor du ins Bett steigst,\n",
+        "prüfe bitte, ob es leer ist!"
+      ]
+    },
+    {
+      "id": "msg_0263_00004",
+      "de_DE": [
+        "TV-Zimmer Team Galaktik\r",
+        "Die besten Audio- und\n",
+        "Video-Systeme nur für Mitglieder!\r",
+        "Auf zu einem neuen Universum!\n",
+        "Das Team Galaktik!"
+      ]
+    },
+    {
+      "id": "msg_0263_00005",
+      "de_DE": [
+        "Das Credo des Teams Galaktik:\n",
+        "Alles gehört uns!\r",
+        "Und schau über die Welt hinaus -\n",
+        "der ganze Weltraum wird\f",
+        "Team Galaktik gehören!"
+      ]
+    },
+    {
+      "id": "msg_0263_00006",
+      "de_DE": [
+        "Über der Spüle hängt ein Plakat.\r",
+        "“Wohlstand und Stärke durch frische\n",
+        "und gesunde Kost!”\r",
+        "Um die Spüle herum liegen vergammelte,\n",
+        "unidentifizierbare Essensreste..."
+      ]
+    },
+    {
+      "id": "msg_0263_00007",
+      "de_DE": [
+        "Am Kühlschrank hängt ein Plakat.\r",
+        "“Trinke, so viel du möchtest.\n",
+        "Mehr Energie für mehr Erfolg!”\r",
+        "Der Kühlschrank ist mit verschimmelten,\n",
+        "halbleeren Getränkeflaschen gefüllt..."
+      ]
+    }
+  ]
+}

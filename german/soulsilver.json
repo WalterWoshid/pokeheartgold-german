@@ -1,0 +1,4674 @@
+{
+  "game_code": "IPGD",
+  "reference_sha1": "576cdb7eec728c49aed85b9dd7e1e084ba1f08f9",
+  "files": {
+    "a/0/0/8": {
+      "sha1": "b2211b85462a86dc234d46bae6507e5486642d26",
+      "members": {
+        "188": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/188.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "191": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/191.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "194": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/194.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "197": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/197.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "200": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/200.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "203": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/203.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "219": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/219.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "220": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/220.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "221": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/221.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "222": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/222.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "223": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/223.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "224": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/224.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "225": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/225.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "226": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/226.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "227": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/227.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "228": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/228.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "229": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/229.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "230": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/230.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "231": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/231.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "232": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/232.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "233": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/233.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "235": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/235.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "237": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/237.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "238": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/238.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "239": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/239.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "240": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/240.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "241": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/0/8/241.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        }
+      }
+    },
+    "a/0/1/5": {
+      "sha1": "93a713d8f813b58f0b72e259274d18495e006466",
+      "members": {
+        "37": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/bag/bag_graphics/37.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "26"
+          ]
+        }
+      }
+    },
+    "a/0/1/6": {
+      "sha1": "a93128e7b4a95f6353a8258d4609a58a8883cf61",
+      "members": {
+        "5": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/font/5.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "23"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/0/1/9": {
+      "sha1": "fdf02d6d359943f1cbf9ef8d2bf7a86e5d0a7e63",
+      "members": {
+        "66": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/1/9/66.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "206"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "67": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/1/9/67.cell.json",
+          "target": "NCER",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/0/2/1": {
+      "sha1": "26efc3c0d0cdb71ed28c0fe44a5c7a45c0766872",
+      "members": {
+        "15": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/plist_gra/15.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "160"
+          ]
+        }
+      }
+    },
+    "a/0/2/7": {
+      "sha1": "ca19577241e109a32afa5e6912a3d38a52243ce5",
+      "members": {
+        "0": "msgdata/msg_0000.json",
+        "1": "msgdata/msg_0001.json",
+        "2": "msgdata/msg_0002.json",
+        "3": "msgdata/msg_0003.json",
+        "4": "msgdata/msg_0004.json",
+        "5": "msgdata/msg_0005.json",
+        "6": "msgdata/msg_0006.json",
+        "7": "msgdata/msg_0007.json",
+        "8": "msgdata/msg_0008.json",
+        "9": "msgdata/msg_0009.json",
+        "10": "msgdata/msg_0010.json",
+        "11": "msgdata/msg_0011.json",
+        "12": "msgdata/msg_0012.json",
+        "13": "msgdata/msg_0013.json",
+        "14": "msgdata/msg_0014.json",
+        "15": "msgdata/msg_0015.json",
+        "16": "msgdata/msg_0016.json",
+        "17": "msgdata/msg_0017.json",
+        "18": "msgdata/msg_0018.json",
+        "19": "msgdata/msg_0019.json",
+        "20": "msgdata/msg_0020.json",
+        "21": "msgdata/msg_0021.json",
+        "22": "msgdata/msg_0022.json",
+        "23": "msgdata/msg_0023.json",
+        "24": "msgdata/msg_0024.json",
+        "25": "msgdata/msg_0025.json",
+        "26": "msgdata/msg_0026.json",
+        "27": "msgdata/msg_0027.json",
+        "28": "msgdata/msg_0028.json",
+        "29": "msgdata/msg_0029.json",
+        "30": "msgdata/msg_0030.json",
+        "31": "msgdata/msg_0031.json",
+        "32": "msgdata/msg_0032.json",
+        "33": "msgdata/msg_0033.json",
+        "34": "msgdata/msg_0034.json",
+        "38": "msgdata/msg_0038.json",
+        "39": "msgdata/msg_0039.json",
+        "40": "msgdata/msg_0040.json",
+        "41": "msgdata/msg_0041.json",
+        "44": "msgdata/msg_0044.json",
+        "45": "msgdata/msg_0045.json",
+        "46": "msgdata/msg_0046.json",
+        "47": "msgdata/msg_0047.json",
+        "48": "msgdata/msg_0048.json",
+        "49": "msgdata/msg_0049.json",
+        "50": "msgdata/msg_0050.json",
+        "51": "msgdata/msg_0051.json",
+        "52": "msgdata/msg_0052.json",
+        "53": "msgdata/msg_0053.json",
+        "54": "msgdata/msg_0054.json",
+        "55": "msgdata/msg_0055.json",
+        "56": "msgdata/msg_0056.json",
+        "57": "msgdata/msg_0057.json",
+        "58": "msgdata/msg_0058.json",
+        "59": "msgdata/msg_0059.json",
+        "60": "msgdata/msg_0060.json",
+        "61": "msgdata/msg_0061.json",
+        "62": "msgdata/msg_0062.json",
+        "63": "msgdata/msg_0063.json",
+        "65": "msgdata/msg_0065.json",
+        "66": "msgdata/msg_0066.json",
+        "67": "msgdata/msg_0067.json",
+        "68": "msgdata/msg_0068.json",
+        "69": "msgdata/msg_0069.json",
+        "70": "msgdata/msg_0070.json",
+        "71": "msgdata/msg_0071.json",
+        "72": "msgdata/msg_0072.json",
+        "73": "msgdata/msg_0073.json",
+        "74": "msgdata/msg_0074.json",
+        "75": "msgdata/msg_0075.json",
+        "76": "msgdata/msg_0076.json",
+        "77": "msgdata/msg_0077.json",
+        "79": "msgdata/msg_0079.json",
+        "80": "msgdata/msg_0080.json",
+        "81": "msgdata/msg_0081.json",
+        "82": "msgdata/msg_0082.json",
+        "83": "msgdata/msg_0083.json",
+        "84": "msgdata/msg_0084.json",
+        "85": "msgdata/msg_0085.json",
+        "86": "msgdata/msg_0086.json",
+        "90": "msgdata/msg_0090.json",
+        "91": "msgdata/msg_0091.json",
+        "92": "msgdata/msg_0092.json",
+        "93": "msgdata/msg_0093.json",
+        "94": "msgdata/msg_0094.json",
+        "95": "msgdata/msg_0095.json",
+        "96": "msgdata/msg_0096.json",
+        "97": "msgdata/msg_0097.json",
+        "98": "msgdata/msg_0098.json",
+        "99": "msgdata/msg_0099.json",
+        "100": "msgdata/msg_0100.json",
+        "101": "msgdata/msg_0101.json",
+        "102": "msgdata/msg_0102.json",
+        "103": "msgdata/msg_0103.json",
+        "104": "msgdata/msg_0104.json",
+        "107": "msgdata/msg_0107.json",
+        "108": "msgdata/msg_0108.json",
+        "109": "msgdata/msg_0109.json",
+        "110": "msgdata/msg_0110.json",
+        "111": "msgdata/msg_0111.json",
+        "112": "msgdata/msg_0112.json",
+        "113": "msgdata/msg_0113.json",
+        "114": "msgdata/msg_0114.json",
+        "115": "msgdata/msg_0115.json",
+        "116": "msgdata/msg_0116.json",
+        "117": "msgdata/msg_0117.json",
+        "118": "msgdata/msg_0118.json",
+        "119": "msgdata/msg_0119.json",
+        "120": "msgdata/msg_0120.json",
+        "121": "msgdata/msg_0121.json",
+        "122": "msgdata/msg_0122.json",
+        "123": "msgdata/msg_0123.json",
+        "124": "msgdata/msg_0124.json",
+        "125": "msgdata/msg_0125.json",
+        "126": "msgdata/msg_0126.json",
+        "127": "msgdata/msg_0127.json",
+        "128": "msgdata/msg_0128.json",
+        "129": "msgdata/msg_0129.json",
+        "130": "msgdata/msg_0130.json",
+        "131": "msgdata/msg_0131.json",
+        "132": "msgdata/msg_0132.json",
+        "133": "msgdata/msg_0133.json",
+        "134": "msgdata/msg_0134.json",
+        "135": "msgdata/msg_0135.json",
+        "136": "msgdata/msg_0136.json",
+        "137": "msgdata/msg_0137.json",
+        "138": "msgdata/msg_0138.json",
+        "139": "msgdata/msg_0139.json",
+        "140": "msgdata/msg_0140.json",
+        "141": "msgdata/msg_0141.json",
+        "142": "msgdata/msg_0142.json",
+        "143": "msgdata/msg_0143.json",
+        "144": "msgdata/msg_0144.json",
+        "145": "msgdata/msg_0145.json",
+        "146": "msgdata/msg_0146.json",
+        "147": "msgdata/msg_0147.json",
+        "148": "msgdata/msg_0148.json",
+        "149": "msgdata/msg_0149.json",
+        "150": "msgdata/msg_0150.json",
+        "158": "msgdata/msg_0158.json",
+        "179": "msgdata/msg_0179.json",
+        "180": "msgdata/msg_0180.json",
+        "181": "msgdata/msg_0181.json",
+        "182": "msgdata/msg_0182.json",
+        "183": "msgdata/msg_0183.json",
+        "186": "msgdata/msg_0186.json",
+        "187": "msgdata/msg_0187.json",
+        "188": "msgdata/msg_0188.json",
+        "190": "msgdata/msg_0190.json",
+        "191": "msgdata/msg_0191.json",
+        "194": "msgdata/msg_0194.json",
+        "195": "msgdata/msg_0195.json",
+        "196": "msgdata/msg_0196.json",
+        "197": "msgdata/msg_0197.json",
+        "198": "msgdata/msg_0198.json",
+        "199": "msgdata/msg_0199.json",
+        "200": "msgdata/msg_0200.json",
+        "203": "msgdata/msg_0203.json",
+        "204": "msgdata/msg_0204.json",
+        "206": "msgdata/msg_0206.json",
+        "207": "msgdata/msg_0207.json",
+        "209": "msgdata/msg_0209.json",
+        "210": "msgdata/msg_0210.json",
+        "211": "msgdata/msg_0211.json",
+        "212": "msgdata/msg_0212.json",
+        "215": "msgdata/msg_0215.json",
+        "216": "msgdata/msg_0216.json",
+        "217": "msgdata/msg_0217.json",
+        "218": "msgdata/msg_0218.json",
+        "219": "msgdata/msg_0219.json",
+        "221": "msgdata/msg_0221.json",
+        "222": "msgdata/msg_0222.json",
+        "223": "msgdata/msg_0223.json",
+        "224": "msgdata/msg_0224.json",
+        "226": "msgdata/msg_0226.json",
+        "229": "msgdata/msg_0229.json",
+        "230": "msgdata/msg_0230.json",
+        "232": "msgdata/msg_0232.json",
+        "233": "msgdata/msg_0233.json",
+        "234": "msgdata/msg_0234.json",
+        "235": "msgdata/msg_0235.json",
+        "236": "msgdata/msg_0236.json",
+        "237": "msgdata/msg_0237.json",
+        "238": "msgdata/msg_0238.json",
+        "239": "msgdata/msg_0239.json",
+        "246": "msgdata/msg_0246.json",
+        "247": "msgdata/msg_0247.json",
+        "248": "msgdata/msg_0248.json",
+        "249": "msgdata/msg_0249.json",
+        "251": "msgdata/msg_0251.json",
+        "252": "msgdata/msg_0252.json",
+        "254": "msgdata/msg_0254.json",
+        "255": "msgdata/msg_0255.json",
+        "256": "msgdata/msg_0256.json",
+        "257": "msgdata/msg_0257.json",
+        "258": "msgdata/msg_0258.json",
+        "259": "msgdata/msg_0259.json",
+        "260": "msgdata/msg_0260.json",
+        "261": "msgdata/msg_0261.json",
+        "262": "msgdata/msg_0262.json",
+        "263": "msgdata/msg_0263.json",
+        "265": "msgdata/msg_0265.json",
+        "267": "msgdata/msg_0267.json",
+        "268": "msgdata/msg_0268.json",
+        "270": "msgdata/msg_0270.json",
+        "271": "msgdata/msg_0271.json",
+        "273": "msgdata/msg_0273.json",
+        "274": "msgdata/msg_0274.json",
+        "275": "msgdata/msg_0275.json",
+        "276": "msgdata/msg_0276.json",
+        "277": "msgdata/msg_0277.json",
+        "278": "msgdata/msg_0278.json",
+        "279": "msgdata/msg_0279.json",
+        "280": "msgdata/msg_0280.json",
+        "281": "msgdata/msg_0281.json",
+        "282": "msgdata/msg_0282.json",
+        "283": "msgdata/msg_0283.json",
+        "284": "msgdata/msg_0284.json",
+        "285": "msgdata/msg_0285.json",
+        "286": "msgdata/msg_0286.json",
+        "287": "msgdata/msg_0287.json",
+        "288": "msgdata/msg_0288.json",
+        "289": "msgdata/msg_0289.json",
+        "290": "msgdata/msg_0290.json",
+        "291": "msgdata/msg_0291.json",
+        "292": "msgdata/msg_0292.json",
+        "293": "msgdata/msg_0293.json",
+        "294": "msgdata/msg_0294.json",
+        "295": "msgdata/msg_0295.json",
+        "296": "msgdata/msg_0296.json",
+        "298": "msgdata/msg_0298.json",
+        "300": "msgdata/msg_0300.json",
+        "301": "msgdata/msg_0301.json",
+        "302": "msgdata/msg_0302.json",
+        "309": "msgdata/msg_0309.json",
+        "310": "msgdata/msg_0310.json",
+        "311": "msgdata/msg_0311.json",
+        "312": "msgdata/msg_0312.json",
+        "313": "msgdata/msg_0313.json",
+        "314": "msgdata/msg_0314.json",
+        "319": "msgdata/msg_0319.json",
+        "320": "msgdata/msg_0320.json",
+        "321": "msgdata/msg_0321.json",
+        "322": "msgdata/msg_0322.json",
+        "323": "msgdata/msg_0323.json",
+        "324": "msgdata/msg_0324.json",
+        "325": "msgdata/msg_0325.json",
+        "326": "msgdata/msg_0326.json",
+        "327": "msgdata/msg_0327.json",
+        "328": "msgdata/msg_0328.json",
+        "329": "msgdata/msg_0329.json",
+        "330": "msgdata/msg_0330.json",
+        "331": "msgdata/msg_0331.json",
+        "332": "msgdata/msg_0332.json",
+        "333": "msgdata/msg_0333.json",
+        "334": "msgdata/msg_0334.json",
+        "335": "msgdata/msg_0335.json",
+        "336": "msgdata/msg_0336.json",
+        "337": "msgdata/msg_0337.json",
+        "338": "msgdata/msg_0338.json",
+        "339": "msgdata/msg_0339.json",
+        "340": "msgdata/msg_0340.json",
+        "341": "msgdata/msg_0341.json",
+        "342": "msgdata/msg_0342.json",
+        "343": "msgdata/msg_0343.json",
+        "344": "msgdata/msg_0344.json",
+        "345": "msgdata/msg_0345.json",
+        "346": "msgdata/msg_0346.json",
+        "347": "msgdata/msg_0347.json",
+        "348": "msgdata/msg_0348.json",
+        "349": "msgdata/msg_0349.json",
+        "350": "msgdata/msg_0350.json",
+        "351": "msgdata/msg_0351.json",
+        "352": "msgdata/msg_0352.json",
+        "353": "msgdata/msg_0353.json",
+        "354": "msgdata/msg_0354.json",
+        "355": "msgdata/msg_0355.json",
+        "356": "msgdata/msg_0356.json",
+        "358": "msgdata/msg_0358.json",
+        "359": "msgdata/msg_0359.json",
+        "360": "msgdata/msg_0360.json",
+        "361": "msgdata/msg_0361.json",
+        "362": "msgdata/msg_0362.json",
+        "363": "msgdata/msg_0363.json",
+        "364": "msgdata/msg_0364.json",
+        "365": "msgdata/msg_0365.json",
+        "366": "msgdata/msg_0366.json",
+        "367": "msgdata/msg_0367.json",
+        "369": "msgdata/msg_0369.json",
+        "370": "msgdata/msg_0370.json",
+        "371": "msgdata/msg_0371.json",
+        "372": "msgdata/msg_0372.json",
+        "373": "msgdata/msg_0373.json",
+        "374": "msgdata/msg_0374.json",
+        "375": "msgdata/msg_0375.json",
+        "376": "msgdata/msg_0376.json",
+        "377": "msgdata/msg_0377.json",
+        "378": "msgdata/msg_0378.json",
+        "379": "msgdata/msg_0379.json",
+        "380": "msgdata/msg_0380.json",
+        "381": "msgdata/msg_0381.json",
+        "382": "msgdata/msg_0382.json",
+        "383": "msgdata/msg_0383.json",
+        "384": "msgdata/msg_0384.json",
+        "385": "msgdata/msg_0385.json",
+        "386": "msgdata/msg_0386.json",
+        "387": "msgdata/msg_0387.json",
+        "388": "msgdata/msg_0388.json",
+        "389": "msgdata/msg_0389.json",
+        "390": "msgdata/msg_0390.json",
+        "391": "msgdata/msg_0391.json",
+        "393": "msgdata/msg_0393.json",
+        "394": "msgdata/msg_0394.json",
+        "395": "msgdata/msg_0395.json",
+        "396": "msgdata/msg_0396.json",
+        "397": "msgdata/msg_0397.json",
+        "398": "msgdata/msg_0398.json",
+        "399": "msgdata/msg_0399.json",
+        "400": "msgdata/msg_0400.json",
+        "401": "msgdata/msg_0401.json",
+        "402": "msgdata/msg_0402.json",
+        "403": "msgdata/msg_0403.json",
+        "404": "msgdata/msg_0404.json",
+        "405": "msgdata/msg_0405.json",
+        "406": "msgdata/msg_0406.json",
+        "407": "msgdata/msg_0407.json",
+        "408": "msgdata/msg_0408.json",
+        "409": "msgdata/msg_0409.json",
+        "410": "msgdata/msg_0410.json",
+        "411": "msgdata/msg_0411.json",
+        "412": "msgdata/msg_0412.json",
+        "413": "msgdata/msg_0413.json",
+        "414": "msgdata/msg_0414.json",
+        "415": "msgdata/msg_0415.json",
+        "416": "msgdata/msg_0416.json",
+        "417": "msgdata/msg_0417.json",
+        "418": "msgdata/msg_0418.json",
+        "419": "msgdata/msg_0419.json",
+        "420": "msgdata/msg_0420.json",
+        "421": "msgdata/msg_0421.json",
+        "422": "msgdata/msg_0422.json",
+        "423": "msgdata/msg_0423.json",
+        "424": "msgdata/msg_0424.json",
+        "426": "msgdata/msg_0426.json",
+        "427": "msgdata/msg_0427.json",
+        "428": "msgdata/msg_0428.json",
+        "429": "msgdata/msg_0429.json",
+        "430": "msgdata/msg_0430.json",
+        "432": "msgdata/msg_0432.json",
+        "433": "msgdata/msg_0433.json",
+        "435": "msgdata/msg_0435.json",
+        "439": "msgdata/msg_0439.json",
+        "440": "msgdata/msg_0440.json",
+        "441": "msgdata/msg_0441.json",
+        "442": "msgdata/msg_0442.json",
+        "443": "msgdata/msg_0443.json",
+        "445": "msgdata/msg_0445.json",
+        "446": "msgdata/msg_0446.json",
+        "447": "msgdata/msg_0447.json",
+        "448": "msgdata/msg_0448.json",
+        "449": "msgdata/msg_0449.json",
+        "450": "msgdata/msg_0450.json",
+        "451": "msgdata/msg_0451.json",
+        "452": "msgdata/msg_0452.json",
+        "453": "msgdata/msg_0453.json",
+        "454": "msgdata/msg_0454.json",
+        "455": "msgdata/msg_0455.json",
+        "456": "msgdata/msg_0456.json",
+        "457": "msgdata/msg_0457.json",
+        "458": "msgdata/msg_0458.json",
+        "459": "msgdata/msg_0459.json",
+        "460": "msgdata/msg_0460.json",
+        "461": "msgdata/msg_0461.json",
+        "462": "msgdata/msg_0462.json",
+        "463": "msgdata/msg_0463.json",
+        "464": "msgdata/msg_0464.json",
+        "465": "msgdata/msg_0465.json",
+        "466": "msgdata/msg_0466.json",
+        "467": "msgdata/msg_0467.json",
+        "468": "msgdata/msg_0468.json",
+        "469": "msgdata/msg_0469.json",
+        "470": "msgdata/msg_0470.json",
+        "471": "msgdata/msg_0471.json",
+        "472": "msgdata/msg_0472.json",
+        "473": "msgdata/msg_0473.json",
+        "474": "msgdata/msg_0474.json",
+        "475": "msgdata/msg_0475.json",
+        "476": "msgdata/msg_0476.json",
+        "477": "msgdata/msg_0477.json",
+        "478": "msgdata/msg_0478.json",
+        "479": "msgdata/msg_0479.json",
+        "480": "msgdata/msg_0480.json",
+        "481": "msgdata/msg_0481.json",
+        "482": "msgdata/msg_0482.json",
+        "483": "msgdata/msg_0483.json",
+        "484": "msgdata/msg_0484.json",
+        "485": "msgdata/msg_0485.json",
+        "486": "msgdata/msg_0486.json",
+        "487": "msgdata/msg_0487.json",
+        "488": "msgdata/msg_0488.json",
+        "489": "msgdata/msg_0489.json",
+        "490": "msgdata/msg_0490.json",
+        "491": "msgdata/msg_0491.json",
+        "492": "msgdata/msg_0492.json",
+        "493": "msgdata/msg_0493.json",
+        "494": "msgdata/msg_0494.json",
+        "495": "msgdata/msg_0495.json",
+        "496": "msgdata/msg_0496.json",
+        "497": "msgdata/msg_0497.json",
+        "498": "msgdata/msg_0498.json",
+        "499": "msgdata/msg_0499.json",
+        "500": "msgdata/msg_0500.json",
+        "501": "msgdata/msg_0501.json",
+        "502": "msgdata/msg_0502.json",
+        "503": "msgdata/msg_0503.json",
+        "504": "msgdata/msg_0504.json",
+        "505": "msgdata/msg_0505.json",
+        "506": "msgdata/msg_0506.json",
+        "507": "msgdata/msg_0507.json",
+        "509": "msgdata/msg_0509.json",
+        "510": "msgdata/msg_0510.json",
+        "511": "msgdata/msg_0511.json",
+        "512": "msgdata/msg_0512.json",
+        "513": "msgdata/msg_0513.json",
+        "514": "msgdata/msg_0514.json",
+        "515": "msgdata/msg_0515.json",
+        "516": "msgdata/msg_0516.json",
+        "517": "msgdata/msg_0517.json",
+        "518": "msgdata/msg_0518.json",
+        "519": "msgdata/msg_0519.json",
+        "520": "msgdata/msg_0520.json",
+        "521": "msgdata/msg_0521.json",
+        "522": "msgdata/msg_0522.json",
+        "523": "msgdata/msg_0523.json",
+        "524": "msgdata/msg_0524.json",
+        "525": "msgdata/msg_0525.json",
+        "526": "msgdata/msg_0526.json",
+        "527": "msgdata/msg_0527.json",
+        "528": "msgdata/msg_0528.json",
+        "529": "msgdata/msg_0529.json",
+        "530": "msgdata/msg_0530.json",
+        "531": "msgdata/msg_0531.json",
+        "532": "msgdata/msg_0532.json",
+        "533": "msgdata/msg_0533.json",
+        "534": "msgdata/msg_0534.json",
+        "535": "msgdata/msg_0535.json",
+        "536": "msgdata/msg_0536.json",
+        "537": "msgdata/msg_0537.json",
+        "538": "msgdata/msg_0538.json",
+        "539": "msgdata/msg_0539.json",
+        "540": "msgdata/msg_0540.json",
+        "541": "msgdata/msg_0541.json",
+        "542": "msgdata/msg_0542.json",
+        "543": "msgdata/msg_0543.json",
+        "544": "msgdata/msg_0544.json",
+        "545": "msgdata/msg_0545.json",
+        "546": "msgdata/msg_0546.json",
+        "547": "msgdata/msg_0547.json",
+        "548": "msgdata/msg_0548.json",
+        "549": "msgdata/msg_0549.json",
+        "550": "msgdata/msg_0550.json",
+        "551": "msgdata/msg_0551.json",
+        "552": "msgdata/msg_0552.json",
+        "553": "msgdata/msg_0553.json",
+        "554": "msgdata/msg_0554.json",
+        "555": "msgdata/msg_0555.json",
+        "556": "msgdata/msg_0556.json",
+        "557": "msgdata/msg_0557.json",
+        "558": "msgdata/msg_0558.json",
+        "559": "msgdata/msg_0559.json",
+        "560": "msgdata/msg_0560.json",
+        "561": "msgdata/msg_0561.json",
+        "562": "msgdata/msg_0562.json",
+        "563": "msgdata/msg_0563.json",
+        "564": "msgdata/msg_0564.json",
+        "565": "msgdata/msg_0565.json",
+        "566": "msgdata/msg_0566.json",
+        "567": "msgdata/msg_0567.json",
+        "568": "msgdata/msg_0568.json",
+        "569": "msgdata/msg_0569.json",
+        "570": "msgdata/msg_0570.json",
+        "571": "msgdata/msg_0571.json",
+        "572": "msgdata/msg_0572.json",
+        "574": "msgdata/msg_0574.json",
+        "575": "msgdata/msg_0575.json",
+        "576": "msgdata/msg_0576.json",
+        "577": "msgdata/msg_0577.json",
+        "578": "msgdata/msg_0578.json",
+        "579": "msgdata/msg_0579.json",
+        "580": "msgdata/msg_0580.json",
+        "581": "msgdata/msg_0581.json",
+        "582": "msgdata/msg_0582.json",
+        "583": "msgdata/msg_0583.json",
+        "584": "msgdata/msg_0584.json",
+        "585": "msgdata/msg_0585.json",
+        "586": "msgdata/msg_0586.json",
+        "587": "msgdata/msg_0587.json",
+        "588": "msgdata/msg_0588.json",
+        "589": "msgdata/msg_0589.json",
+        "590": "msgdata/msg_0590.json",
+        "591": "msgdata/msg_0591.json",
+        "592": "msgdata/msg_0592.json",
+        "593": "msgdata/msg_0593.json",
+        "594": "msgdata/msg_0594.json",
+        "595": "msgdata/msg_0595.json",
+        "596": "msgdata/msg_0596.json",
+        "597": "msgdata/msg_0597.json",
+        "598": "msgdata/msg_0598.json",
+        "600": "msgdata/msg_0600.json",
+        "601": "msgdata/msg_0601.json",
+        "602": "msgdata/msg_0602.json",
+        "603": "msgdata/msg_0603.json",
+        "604": "msgdata/msg_0604.json",
+        "605": "msgdata/msg_0605.json",
+        "606": "msgdata/msg_0606.json",
+        "607": "msgdata/msg_0607.json",
+        "608": "msgdata/msg_0608.json",
+        "609": "msgdata/msg_0609.json",
+        "610": "msgdata/msg_0610.json",
+        "611": "msgdata/msg_0611.json",
+        "612": "msgdata/msg_0612.json",
+        "613": "msgdata/msg_0613.json",
+        "614": "msgdata/msg_0614.json",
+        "615": "msgdata/msg_0615.json",
+        "616": "msgdata/msg_0616.json",
+        "617": "msgdata/msg_0617.json",
+        "618": "msgdata/msg_0618.json",
+        "619": "msgdata/msg_0619.json",
+        "620": "msgdata/msg_0620.json",
+        "622": "msgdata/msg_0622.json",
+        "623": "msgdata/msg_0623.json",
+        "624": "msgdata/msg_0624.json",
+        "625": "msgdata/msg_0625.json",
+        "626": "msgdata/msg_0626.json",
+        "627": "msgdata/msg_0627.json",
+        "628": "msgdata/msg_0628.json",
+        "629": "msgdata/msg_0629.json",
+        "630": "msgdata/msg_0630.json",
+        "631": "msgdata/msg_0631.json",
+        "632": "msgdata/msg_0632.json",
+        "633": "msgdata/msg_0633.json",
+        "634": "msgdata/msg_0634.json",
+        "635": "msgdata/msg_0635.json",
+        "636": "msgdata/msg_0636.json",
+        "637": "msgdata/msg_0637.json",
+        "638": "msgdata/msg_0638.json",
+        "639": "msgdata/msg_0639.json",
+        "640": "msgdata/msg_0640.json",
+        "641": "msgdata/msg_0641.json",
+        "642": "msgdata/msg_0642.json",
+        "643": "msgdata/msg_0643.json",
+        "644": "msgdata/msg_0644.json",
+        "645": "msgdata/msg_0645.json",
+        "646": "msgdata/msg_0646.json",
+        "647": "msgdata/msg_0647.json",
+        "648": "msgdata/msg_0648.json",
+        "649": "msgdata/msg_0649.json",
+        "650": "msgdata/msg_0650.json",
+        "651": "msgdata/msg_0651.json",
+        "652": "msgdata/msg_0652.json",
+        "653": "msgdata/msg_0653.json",
+        "654": "msgdata/msg_0654.json",
+        "655": "msgdata/msg_0655.json",
+        "656": "msgdata/msg_0656.json",
+        "657": "msgdata/msg_0657.json",
+        "658": "msgdata/msg_0658.json",
+        "659": "msgdata/msg_0659.json",
+        "660": "msgdata/msg_0660.json",
+        "661": "msgdata/msg_0661.json",
+        "662": "msgdata/msg_0662.json",
+        "663": "msgdata/msg_0663.json",
+        "664": "msgdata/msg_0664.json",
+        "665": "msgdata/msg_0665.json",
+        "666": "msgdata/msg_0666.json",
+        "667": "msgdata/msg_0667.json",
+        "669": "msgdata/msg_0669.json",
+        "670": "msgdata/msg_0670.json",
+        "671": "msgdata/msg_0671.json",
+        "672": "msgdata/msg_0672.json",
+        "673": "msgdata/msg_0673.json",
+        "674": "msgdata/msg_0674.json",
+        "675": "msgdata/msg_0675.json",
+        "676": "msgdata/msg_0676.json",
+        "677": "msgdata/msg_0677.json",
+        "678": "msgdata/msg_0678.json",
+        "679": "msgdata/msg_0679.json",
+        "680": "msgdata/msg_0680.json",
+        "681": "msgdata/msg_0681.json",
+        "682": "msgdata/msg_0682.json",
+        "683": "msgdata/msg_0683.json",
+        "684": "msgdata/msg_0684.json",
+        "685": "msgdata/msg_0685.json",
+        "686": "msgdata/msg_0686.json",
+        "687": "msgdata/msg_0687.json",
+        "688": "msgdata/msg_0688.json",
+        "689": "msgdata/msg_0689.json",
+        "690": "msgdata/msg_0690.json",
+        "691": "msgdata/msg_0691.json",
+        "692": "msgdata/msg_0692.json",
+        "693": "msgdata/msg_0693.json",
+        "694": "msgdata/msg_0694.json",
+        "695": "msgdata/msg_0695.json",
+        "696": "msgdata/msg_0696.json",
+        "697": "msgdata/msg_0697.json",
+        "698": "msgdata/msg_0698.json",
+        "699": "msgdata/msg_0699.json",
+        "700": "msgdata/msg_0700.json",
+        "701": "msgdata/msg_0701.json",
+        "702": "msgdata/msg_0702.json",
+        "703": "msgdata/msg_0703.json",
+        "704": "msgdata/msg_0704.json",
+        "705": "msgdata/msg_0705.json",
+        "706": "msgdata/msg_0706.json",
+        "707": "msgdata/msg_0707.json",
+        "708": "msgdata/msg_0708.json",
+        "709": "msgdata/msg_0709.json",
+        "710": "msgdata/msg_0710.json",
+        "711": "msgdata/msg_0711.json",
+        "712": "msgdata/msg_0712.json",
+        "713": "msgdata/msg_0713.json",
+        "714": "msgdata/msg_0714.json",
+        "715": "msgdata/msg_0715.json",
+        "716": "msgdata/msg_0716.json",
+        "719": "msgdata/msg_0719.json",
+        "720": "msgdata/msg_0720.json",
+        "721": "msgdata/msg_0721.json",
+        "722": "msgdata/msg_0722.json",
+        "723": "msgdata/msg_0723.json",
+        "724": "msgdata/msg_0724.json",
+        "726": "msgdata/msg_0726.json",
+        "727": "msgdata/msg_0727.json",
+        "728": "msgdata/msg_0728.json",
+        "729": "msgdata/msg_0729.json",
+        "730": "msgdata/msg_0730.json",
+        "731": "msgdata/msg_0731.json",
+        "733": "msgdata/msg_0733.json",
+        "735": "msgdata/msg_0735.json",
+        "738": "msgdata/msg_0738.json",
+        "740": "msgdata/msg_0740.json",
+        "741": "msgdata/msg_0741.json",
+        "742": "msgdata/msg_0742.json",
+        "744": "msgdata/msg_0744.json",
+        "745": "msgdata/msg_0745.json",
+        "747": "msgdata/msg_0747.json",
+        "748": "msgdata/msg_0748.json",
+        "749": "msgdata/msg_0749.json",
+        "750": "msgdata/msg_0750.json",
+        "751": "msgdata/msg_0751.json",
+        "752": "msgdata/msg_0752.json",
+        "753": "msgdata/msg_0753.json",
+        "754": "msgdata/msg_0754.json",
+        "755": "msgdata/msg_0755.json",
+        "756": "msgdata/msg_0756.json",
+        "757": "msgdata/msg_0757.json",
+        "758": "msgdata/msg_0758.json",
+        "759": "msgdata/msg_0759.json",
+        "760": "msgdata/msg_0760.json",
+        "761": "msgdata/msg_0761.json",
+        "762": "msgdata/msg_0762.json",
+        "763": "msgdata/msg_0763.json",
+        "764": "msgdata/msg_0764.json",
+        "765": "msgdata/msg_0765.json",
+        "766": "msgdata/msg_0766.json",
+        "772": "msgdata/msg_0772.json",
+        "774": "msgdata/msg_0774.json",
+        "775": "msgdata/msg_0775.json",
+        "776": "msgdata/msg_0776.json",
+        "777": "msgdata/msg_0777.json",
+        "778": "msgdata/msg_0778.json",
+        "779": "msgdata/msg_0779.json",
+        "780": "msgdata/msg_0780.json",
+        "781": "msgdata/msg_0781.json",
+        "782": "msgdata/msg_0782.json",
+        "783": "msgdata/msg_0783.json",
+        "784": "msgdata/msg_0784.json",
+        "785": "msgdata/msg_0785.json",
+        "786": "msgdata/msg_0786.json",
+        "787": "msgdata/msg_0787.json",
+        "788": "msgdata/msg_0788.json",
+        "789": "msgdata/msg_0789.json",
+        "790": "msgdata/msg_0790.json",
+        "791": "msgdata/msg_0791.json",
+        "792": "msgdata/msg_0792.json",
+        "793": "msgdata/msg_0793.json",
+        "794": "msgdata/msg_0794.json",
+        "795": "msgdata/msg_0795.json",
+        "796": "msgdata/msg_0796.json",
+        "797": "msgdata/msg_0797.json",
+        "798": "msgdata/msg_0798.json",
+        "800": "msgdata/msg_0800.json",
+        "801": "msgdata/msg_0801.json",
+        "802": "msgdata/msg_0802.json",
+        "803": "msgdata/msg_0803.json",
+        "804": "msgdata/msg_0804.json",
+        "812": "msgdata/msg_0812.json",
+        "813": "msgdata/msg_0813.json",
+        "814": "msgdata/msg_0814.json",
+        "815": "msgdata/msg_0815.json",
+        "816": "msgdata/msg_0816.json"
+      }
+    },
+    "a/0/3/1": {
+      "sha1": "00004d16afa13961c997056f0e36d27244c77239",
+      "members": {
+        "10": {
+          "kind": "nitrogfx",
+          "source": "files/data/namein/10.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "837"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/0/3/9": {
+      "sha1": "68684c220dbb5480567bfc1e5db7fac4ce4d28b2",
+      "members": {
+        "0": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/3/9/0.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "480"
+          ]
+        },
+        "64": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/3/9/64.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "21"
+          ]
+        }
+      }
+    },
+    "a/0/4/4": {
+      "sha1": "fb78b95000c7545dd76f1c2fa25e37601c94c14d",
+      "members": {
+        "39": {
+          "kind": "textures",
+          "source": "files/a/0/4/4/39.textures.json",
+          "target": "nsbtx"
+        },
+        "62": {
+          "kind": "textures",
+          "source": "files/a/0/4/4/62.textures.json",
+          "target": "nsbtx"
+        },
+        "72": {
+          "kind": "textures",
+          "source": "files/a/0/4/4/72.textures.json",
+          "target": "nsbtx"
+        }
+      }
+    },
+    "a/0/4/6": {
+      "sha1": "0fe38b0e917d9a27b32f0eb0cdb9d504cf87e7af",
+      "members": {
+        "0": {
+          "kind": "screen",
+          "source": "files/demo/title/titledemo/0.screen.json",
+          "target": "NSCR"
+        },
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/demo/title/titledemo/1.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "459"
+          ]
+        },
+        "2": {
+          "kind": "nitrogfx",
+          "source": "files/demo/title/titledemo/2.pal",
+          "target": "NCLR"
+        },
+        "3": {
+          "kind": "nitrogfx",
+          "source": "files/demo/title/titledemo/3.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "459"
+          ]
+        },
+        "4": {
+          "kind": "nitrogfx",
+          "source": "files/demo/title/titledemo/4.pal",
+          "target": "NCLR"
+        }
+      }
+    },
+    "a/0/4/9": {
+      "sha1": "fb8685e3fb862e98ee71d2d8b46bac042aa355ab",
+      "members": {
+        "41": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/4/9/41.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "416"
+          ]
+        },
+        "43": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/4/9/43.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ]
+        }
+      }
+    },
+    "a/0/6/5": {
+      "sha1": "ceb10500751fd3fd0efef8c2f71e95e8e6ee4a89",
+      "members": {
+        "468": {
+          "kind": "land_model",
+          "source": "files/fielddata/landdata/land_data/0468.nsbmd",
+          "target": "bin"
+        },
+        "473": {
+          "kind": "land_model",
+          "source": "files/fielddata/landdata/land_data/0473.nsbmd",
+          "target": "bin"
+        },
+        "475": {
+          "kind": "land_model",
+          "source": "files/fielddata/landdata/land_data/0475.nsbmd",
+          "target": "bin"
+        },
+        "476": {
+          "kind": "land_model",
+          "source": "files/fielddata/landdata/land_data/0476.nsbmd",
+          "target": "bin"
+        }
+      }
+    },
+    "a/0/6/8": {
+      "sha1": "51f62d337f883ed92b9d30fff284c5a9dc88c857",
+      "members": {
+        "0": {
+          "kind": "screen",
+          "source": "files/graphic/zukan_gra/0.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/1.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "280"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "4": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/4.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "192"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "8": {
+          "kind": "screen",
+          "source": "files/graphic/zukan_gra/8.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "12": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/12.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "386"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "13": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/13.cell.json",
+          "target": "NCER",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "14": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/14.anim.json",
+          "target": "NANR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "37": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/37.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "38": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/38.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "39": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/39.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "40": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/40.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "41": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/41.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "42": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/42.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "43": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/43.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "44": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/44.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "45": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/45.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "46": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/46.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "47": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/47.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "48": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/48.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "49": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/49.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "50": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/50.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "51": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/51.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "52": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/52.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "12"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "53": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/53.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "72"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "57": {
+          "kind": "screen",
+          "source": "files/graphic/zukan_gra/57.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "58": {
+          "kind": "nitrogfx",
+          "source": "files/graphic/zukan_gra/58.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "288"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "65": {
+          "kind": "screen",
+          "source": "files/graphic/zukan_gra/65.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "66": {
+          "kind": "screen",
+          "source": "files/graphic/zukan_gra/66.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "89": {
+          "kind": "screen",
+          "source": "files/graphic/zukan_gra/89.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "91": {
+          "kind": "screen",
+          "source": "files/graphic/zukan_gra/91.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/0/7/1": {
+      "sha1": "ee0ad9b584dd4db9fb52eafe184afa266ab4392a",
+      "members": {
+        "22": {
+          "kind": "nitrogfx",
+          "source": "files/a/0/7/1/22.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ]
+        }
+      }
+    },
+    "a/1/0/4": {
+      "sha1": "6b3b0727dbc04972bcc555c1c744c5696a5b3f59",
+      "members": {
+        "5": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/0/4/5.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "112"
+          ]
+        }
+      }
+    },
+    "a/1/1/2": {
+      "sha1": "2a30e3d01fbeb5ec07b6edc63fe0a94ad21f4546",
+      "members": {
+        "0": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/00.json",
+          "target": "bin"
+        },
+        "1": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/01.json",
+          "target": "bin"
+        },
+        "2": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/02.json",
+          "target": "bin"
+        },
+        "3": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/03.json",
+          "target": "bin"
+        },
+        "4": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/04.json",
+          "target": "bin"
+        },
+        "5": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/05.json",
+          "target": "bin"
+        },
+        "6": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/06.json",
+          "target": "bin"
+        },
+        "7": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/07.json",
+          "target": "bin"
+        },
+        "8": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/08.json",
+          "target": "bin"
+        },
+        "9": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/09.json",
+          "target": "bin"
+        },
+        "10": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/10.json",
+          "target": "bin"
+        },
+        "11": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/11.json",
+          "target": "bin"
+        },
+        "12": {
+          "kind": "npc_trade",
+          "source": "files/data/npc_trades/12.json",
+          "target": "bin"
+        }
+      }
+    },
+    "a/1/1/3": {
+      "sha1": "225ec62126c9bfaadd6e2c4c6a0cc2713bf39205",
+      "members": {
+        "30": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/1/3/30.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "581"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/1/4/3": {
+      "sha1": "136272c15794e20274aea3173330e30a48ce1b4c",
+      "members": {
+        "6": {
+          "kind": "nitrogfx",
+          "source": "files/application/pokegear/pgear_gra/6.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "212"
+          ]
+        },
+        "7": {
+          "kind": "nitrogfx",
+          "source": "files/application/pokegear/pgear_gra/7.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "212"
+          ]
+        },
+        "8": {
+          "kind": "nitrogfx",
+          "source": "files/application/pokegear/pgear_gra/8.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "212"
+          ]
+        },
+        "9": {
+          "kind": "nitrogfx",
+          "source": "files/application/pokegear/pgear_gra/9.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "212"
+          ]
+        },
+        "10": {
+          "kind": "nitrogfx",
+          "source": "files/application/pokegear/pgear_gra/10.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "212"
+          ]
+        },
+        "11": {
+          "kind": "nitrogfx",
+          "source": "files/application/pokegear/pgear_gra/11.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "212"
+          ]
+        }
+      }
+    },
+    "a/1/5/2": {
+      "sha1": "52c4db0f81a65e0c19e7eaa5ed7aaad9a56a5a14",
+      "members": {
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/system/touch_subwindow/1.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "60"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/1/5/3": {
+      "sha1": "f0c81337c74690ff24a874748e9ccef77ebc9aff",
+      "members": {
+        "3": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/5/3/3.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "384"
+          ]
+        },
+        "13": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/5/3/13.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "48"
+          ]
+        },
+        "19": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/5/3/19.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "184"
+          ]
+        },
+        "22": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/5/3/22.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "96"
+          ]
+        },
+        "28": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/5/3/28.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "96"
+          ]
+        }
+      }
+    },
+    "a/1/5/6": {
+      "sha1": "cc5885e739ec3e4a27ecef775691cb41ce161d99",
+      "members": {
+        "28": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/5/6/28.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "960"
+          ]
+        }
+      }
+    },
+    "a/1/6/2": {
+      "sha1": "79796db22f9e3ae765df5e41189ba92b33162708",
+      "members": {
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/6/2/1.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "512"
+          ]
+        },
+        "2": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/6/2/2.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "256"
+          ]
+        }
+      }
+    },
+    "a/1/6/7": {
+      "sha1": "1accc41cb3e60bd38c504c2aed461178b188ea2e",
+      "members": {
+        "5": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/6/7/5.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "480"
+          ]
+        },
+        "9": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/6/7/9.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "128"
+          ]
+        },
+        "10": {
+          "kind": "screen",
+          "source": "files/a/1/6/7/10.screen.json",
+          "target": "NSCR"
+        },
+        "32": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/6/7/32.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "216"
+          ]
+        }
+      }
+    },
+    "a/1/6/8": {
+      "sha1": "dd95afb47ee5c2c1908f46b4c3950575251a3c1e",
+      "members": {
+        "3": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/6/8/3.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "216"
+          ]
+        }
+      }
+    },
+    "a/1/7/3": {
+      "sha1": "7cf0e32a513f238dee2a263c41a1b1cdbee8f5f6",
+      "members": {
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/7/3/1.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "256"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "6": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/7/3/6.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "176"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/1/7/7": {
+      "sha1": "0cb746487f0711651d05ea702e83332b7fc4df9b",
+      "members": {
+        "13": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/7/7/13.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "24"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "52": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/7/7/52.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "512"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/1/7/8": {
+      "sha1": "46c3328864435dc6b7028c3019baf5dc0c93e432",
+      "members": {
+        "6": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/7/8/6.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ]
+        },
+        "17": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/7/8/17.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "1064"
+          ]
+        }
+      }
+    },
+    "a/1/8/3": {
+      "sha1": "0ecdcfcad9b872c80a6c65e529c0688c6681d548",
+      "members": {
+        "23": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/8/3/23.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "93": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/8/3/93.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "101": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/8/3/101.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "113": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/8/3/113.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "115": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/8/3/115.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        }
+      }
+    },
+    "a/1/8/4": {
+      "sha1": "6fea09e02c6b7695db5489bc4c89c75dc768ba10",
+      "members": {
+        "18": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/8/4/18.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "585"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        }
+      }
+    },
+    "a/1/9/1": {
+      "sha1": "8d6cf680f679fedb21a31d341cd19d2fa3bccb36",
+      "members": {
+        "17": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/1/17.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "128",
+            "-num_tiles",
+            "192"
+          ]
+        },
+        "48": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/1/48.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "128",
+            "-num_tiles",
+            "304"
+          ]
+        },
+        "54": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/1/54.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "256"
+          ]
+        },
+        "62": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/1/62.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "128"
+          ]
+        },
+        "66": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/1/66.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "128",
+            "-num_tiles",
+            "88"
+          ]
+        },
+        "67": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/1/67.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "256"
+          ]
+        },
+        "68": {
+          "kind": "screen",
+          "source": "files/a/1/9/1/68.screen.json",
+          "target": "NSCR"
+        }
+      }
+    },
+    "a/1/9/8": {
+      "sha1": "3a8d495001b41682fff4597d8d22d52891c5587d",
+      "members": {
+        "2": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/8/2.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "128",
+            "-num_tiles",
+            "936"
+          ]
+        },
+        "12": {
+          "kind": "nitrogfx",
+          "source": "files/a/1/9/8/12.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "144"
+          ]
+        }
+      }
+    },
+    "a/2/1/5": {
+      "sha1": "cc105612f325af85a4302aca462825582463d0e1",
+      "members": {
+        "16": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/5/16.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "128",
+            "-num_tiles",
+            "204"
+          ]
+        }
+      }
+    },
+    "a/2/1/7": {
+      "sha1": "53cb52968f1a2855f84521e1a97ced07987730aa",
+      "members": {
+        "5": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/7/5.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ]
+        },
+        "7": {
+          "kind": "screen",
+          "source": "files/a/2/1/7/7.screen.json",
+          "target": "NSCR"
+        },
+        "17": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/7/17.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "80"
+          ]
+        }
+      }
+    },
+    "a/2/1/9": {
+      "sha1": "8182e5761d4c0a34d3b198e0c99be5b75de74a27",
+      "members": {
+        "42": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/42.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "44": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/44.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "45": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/45.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "46": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/46.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "47": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/47.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "48": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/48.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "49": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/49.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "50": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/50.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "51": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/1/9/51.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "8",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/2/2/4": {
+      "sha1": "0100115cf1f992f885665bad3014c2d5d44df7b9",
+      "members": {
+        "6": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/2/4/6.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ]
+        },
+        "8": {
+          "kind": "screen",
+          "source": "files/a/2/2/4/8.screen.json",
+          "target": "NSCR"
+        },
+        "13": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/2/4/13.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "208"
+          ]
+        },
+        "17": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/2/4/17.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "528"
+          ]
+        }
+      }
+    },
+    "a/2/3/2": {
+      "sha1": "426337388527ab471939981b784185df60e85fc1",
+      "members": {
+        "8": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/3/2/8.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "1800"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/2/3/4": {
+      "sha1": "77d00ae4336e3c342b88cbe6d74d4b8ab9af01bf",
+      "members": {
+        "6": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/3/4/6.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ]
+        },
+        "18": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/3/4/18.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "584"
+          ]
+        }
+      }
+    },
+    "a/2/3/5": {
+      "sha1": "a2f3f5a06b4c346186e1a8ec234521ea3632b707",
+      "members": {
+        "1": {
+          "kind": "screen",
+          "source": "files/a/2/3/5/1.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "2": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/3/5/2.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "11": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/3/5/11.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "768"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "12": {
+          "kind": "screen",
+          "source": "files/a/2/3/5/12.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "22": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/3/5/22.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "448"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/2/4/0": {
+      "sha1": "a8f98811d0e3a98cbfe7ef45e5b529db18556184",
+      "members": {
+        "16": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/4/0/16.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "256",
+            "-num_tiles",
+            "1088"
+          ],
+          "compression": [
+            "-extfmt",
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/2/4/2": {
+      "sha1": "cd058deac065769e9174c3b6bb8ff2bcc10dccc2",
+      "members": {
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/4/2/1.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "94"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "2": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/4/2/2.cell.json",
+          "target": "NCER",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/2/6/2": {
+      "sha1": "921ddcceac04986b47e742247bec75e8d9025b5b",
+      "members": {
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/demo/opening/gs_opening/1.pal",
+          "target": "NCLR",
+          "options": [
+            "-bitdepth",
+            "4"
+          ]
+        },
+        "3": {
+          "kind": "nitrogfx",
+          "source": "files/demo/opening/gs_opening/3.pal",
+          "target": "NCLR",
+          "options": [
+            "-bitdepth",
+            "4"
+          ]
+        },
+        "5": {
+          "kind": "nitrogfx",
+          "source": "files/demo/opening/gs_opening/5.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "13": {
+          "kind": "screen",
+          "source": "files/demo/opening/gs_opening/13.screen.json",
+          "target": "NSCR",
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "a/2/6/3": {
+      "sha1": "883a2dd88af25c997005c92312a7499315a98f79",
+      "members": {
+        "6": {
+          "kind": "nitrogfx",
+          "source": "files/a/2/6/3/6.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "384"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "pbr/b_plist_gra.narc": {
+      "sha1": "2d576d62e9bf36f04209b9c9c0b392621a8ed9bc",
+      "members": {
+        "4": {
+          "kind": "screen",
+          "source": "files/pbr/b_plist_gra/4.screen.json",
+          "target": "NSCR"
+        },
+        "22": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/b_plist_gra/22.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "1024"
+          ]
+        }
+      }
+    },
+    "pbr/bag_gra.narc": {
+      "sha1": "cf3807d102d63f912de3ac62b2886acd6c69dc40",
+      "members": {
+        "7": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/bag_gra/7.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "224"
+          ]
+        },
+        "38": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/bag_gra/38.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "16"
+          ]
+        }
+      }
+    },
+    "pbr/batt_obj.narc": {
+      "sha1": "d0dc06154d3ee99001e2157bbe8e6c67dcf151b4",
+      "members": {
+        "124": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/124.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "127": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/127.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "130": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/130.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "133": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/133.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "136": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/136.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "139": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/139.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "64",
+            "-num_tiles",
+            "128"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "155": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/155.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "156": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/156.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "157": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/157.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "158": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/158.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "159": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/159.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "160": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/160.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "161": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/161.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "162": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/162.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "163": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/163.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "164": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/164.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "165": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/165.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "166": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/166.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "167": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/167.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "168": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/168.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "169": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/169.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "171": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/171.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "173": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/173.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "174": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/174.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "175": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/175.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "176": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/176.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        },
+        "177": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/batt_obj/177.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "8"
+          ],
+          "compression": [
+            "-search",
+            "2"
+          ]
+        }
+      }
+    },
+    "pbr/font.narc": {
+      "sha1": "e7942d618dec7ada9491b5afa9bfa4edeabddb99",
+      "members": {
+        "0": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/font/0.png",
+          "target": "NFGR",
+          "metadata": "files/pbr/font/0.font.json"
+        },
+        "1": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/font/1.png",
+          "target": "NFGR",
+          "metadata": "files/pbr/font/1.font.json"
+        },
+        "2": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/font/2.png",
+          "target": "NFGR",
+          "metadata": "files/pbr/font/2.font.json"
+        },
+        "4": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/font/4.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "23"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "pbr/msg.narc": {
+      "sha1": "60d78f758c763add52669e00693aeb2fb3e41eac",
+      "members": {
+        "0": "pbr/msg_0000.json",
+        "1": "pbr/msg_0001.json",
+        "2": "pbr/msg_0002.json",
+        "3": "pbr/msg_0003.json",
+        "4": "pbr/msg_0004.json",
+        "5": "pbr/msg_0005.json",
+        "6": "pbr/msg_0006.json",
+        "7": "pbr/msg_0007.json",
+        "8": "pbr/msg_0008.json",
+        "9": "pbr/msg_0009.json",
+        "10": "pbr/msg_0010.json",
+        "11": "pbr/msg_0011.json",
+        "12": "pbr/msg_0012.json",
+        "13": "pbr/msg_0013.json",
+        "14": "pbr/msg_0014.json",
+        "15": "pbr/msg_0015.json",
+        "16": "pbr/msg_0016.json",
+        "17": "pbr/msg_0017.json",
+        "18": "pbr/msg_0018.json",
+        "19": "pbr/msg_0019.json",
+        "20": "pbr/msg_0020.json",
+        "21": "pbr/msg_0021.json",
+        "22": "pbr/msg_0022.json",
+        "23": "pbr/msg_0023.json",
+        "24": "pbr/msg_0024.json",
+        "25": "pbr/msg_0025.json",
+        "26": "pbr/msg_0026.json",
+        "27": "pbr/msg_0027.json",
+        "28": "pbr/msg_0028.json",
+        "29": "pbr/msg_0029.json",
+        "30": "pbr/msg_0030.json",
+        "31": "pbr/msg_0031.json",
+        "32": "pbr/msg_0032.json",
+        "33": "pbr/msg_0033.json",
+        "34": "pbr/msg_0034.json",
+        "35": "pbr/msg_0035.json",
+        "36": "pbr/msg_0036.json",
+        "37": "pbr/msg_0037.json",
+        "38": "pbr/msg_0038.json",
+        "39": "pbr/msg_0039.json",
+        "40": "pbr/msg_0040.json",
+        "41": "pbr/msg_0041.json",
+        "42": "pbr/msg_0042.json",
+        "43": "pbr/msg_0043.json",
+        "44": "pbr/msg_0044.json",
+        "45": "pbr/msg_0045.json",
+        "46": "pbr/msg_0046.json",
+        "47": "pbr/msg_0047.json",
+        "48": "pbr/msg_0048.json",
+        "49": "pbr/msg_0049.json",
+        "50": "pbr/msg_0050.json",
+        "51": "pbr/msg_0051.json",
+        "52": "pbr/msg_0052.json",
+        "53": "pbr/msg_0053.json",
+        "54": "pbr/msg_0054.json",
+        "55": "pbr/msg_0055.json",
+        "56": "pbr/msg_0056.json",
+        "57": "pbr/msg_0057.json",
+        "58": "pbr/msg_0058.json",
+        "59": "pbr/msg_0059.json",
+        "60": "pbr/msg_0060.json",
+        "61": "pbr/msg_0061.json",
+        "62": "pbr/msg_0062.json",
+        "63": "pbr/msg_0063.json",
+        "64": "pbr/msg_0064.json",
+        "65": "pbr/msg_0065.json",
+        "66": "pbr/msg_0066.json",
+        "67": "pbr/msg_0067.json",
+        "68": "pbr/msg_0068.json",
+        "69": "pbr/msg_0069.json",
+        "70": "pbr/msg_0070.json",
+        "71": "pbr/msg_0071.json",
+        "72": "pbr/msg_0072.json",
+        "73": "pbr/msg_0073.json",
+        "74": "pbr/msg_0074.json",
+        "75": "pbr/msg_0075.json",
+        "76": "pbr/msg_0076.json",
+        "77": "pbr/msg_0077.json",
+        "78": "pbr/msg_0078.json",
+        "79": "pbr/msg_0079.json",
+        "80": "pbr/msg_0080.json",
+        "81": "pbr/msg_0081.json",
+        "82": "pbr/msg_0082.json",
+        "83": "pbr/msg_0083.json",
+        "84": "pbr/msg_0084.json",
+        "85": "pbr/msg_0085.json",
+        "86": "pbr/msg_0086.json",
+        "87": "pbr/msg_0087.json",
+        "88": "pbr/msg_0088.json",
+        "89": "pbr/msg_0089.json",
+        "90": "pbr/msg_0090.json",
+        "91": "pbr/msg_0091.json",
+        "92": "pbr/msg_0092.json",
+        "93": "pbr/msg_0093.json",
+        "94": "pbr/msg_0094.json",
+        "95": "pbr/msg_0095.json",
+        "96": "pbr/msg_0096.json",
+        "97": "pbr/msg_0097.json",
+        "98": "pbr/msg_0098.json",
+        "99": "pbr/msg_0099.json",
+        "100": "pbr/msg_0100.json",
+        "101": "pbr/msg_0101.json",
+        "102": "pbr/msg_0102.json",
+        "103": "pbr/msg_0103.json",
+        "104": "pbr/msg_0104.json",
+        "105": "pbr/msg_0105.json",
+        "106": "pbr/msg_0106.json",
+        "107": "pbr/msg_0107.json",
+        "108": "pbr/msg_0108.json",
+        "109": "pbr/msg_0109.json",
+        "110": "pbr/msg_0110.json",
+        "111": "pbr/msg_0111.json",
+        "112": "pbr/msg_0112.json",
+        "113": "pbr/msg_0113.json",
+        "114": "pbr/msg_0114.json",
+        "115": "pbr/msg_0115.json",
+        "116": "pbr/msg_0116.json",
+        "117": "pbr/msg_0117.json",
+        "118": "pbr/msg_0118.json",
+        "119": "pbr/msg_0119.json",
+        "120": "pbr/msg_0120.json",
+        "121": "pbr/msg_0121.json",
+        "122": "pbr/msg_0122.json",
+        "123": "pbr/msg_0123.json",
+        "124": "pbr/msg_0124.json",
+        "125": "pbr/msg_0125.json",
+        "126": "pbr/msg_0126.json",
+        "127": "pbr/msg_0127.json",
+        "128": "pbr/msg_0128.json",
+        "129": "pbr/msg_0129.json",
+        "130": "pbr/msg_0130.json",
+        "131": "pbr/msg_0131.json",
+        "132": "pbr/msg_0132.json",
+        "133": "pbr/msg_0133.json",
+        "134": "pbr/msg_0134.json",
+        "135": "pbr/msg_0135.json",
+        "136": "pbr/msg_0136.json",
+        "137": "pbr/msg_0137.json",
+        "138": "pbr/msg_0138.json",
+        "139": "pbr/msg_0139.json",
+        "140": "pbr/msg_0140.json",
+        "141": "pbr/msg_0141.json",
+        "142": "pbr/msg_0142.json",
+        "143": "pbr/msg_0143.json",
+        "144": "pbr/msg_0144.json",
+        "145": "pbr/msg_0145.json",
+        "146": "pbr/msg_0146.json",
+        "147": "pbr/msg_0147.json",
+        "148": "pbr/msg_0148.json",
+        "149": "pbr/msg_0149.json",
+        "150": "pbr/msg_0150.json",
+        "151": "pbr/msg_0151.json",
+        "152": "pbr/msg_0152.json",
+        "153": "pbr/msg_0153.json",
+        "154": "pbr/msg_0154.json",
+        "155": "pbr/msg_0155.json",
+        "156": "pbr/msg_0156.json",
+        "157": "pbr/msg_0157.json",
+        "158": "pbr/msg_0158.json",
+        "159": "pbr/msg_0159.json",
+        "160": "pbr/msg_0160.json",
+        "161": "pbr/msg_0161.json",
+        "162": "pbr/msg_0162.json",
+        "163": "pbr/msg_0163.json",
+        "164": "pbr/msg_0164.json",
+        "165": "pbr/msg_0165.json",
+        "166": "pbr/msg_0166.json",
+        "167": "pbr/msg_0167.json",
+        "168": "pbr/msg_0168.json",
+        "169": "pbr/msg_0169.json",
+        "170": "pbr/msg_0170.json",
+        "171": "pbr/msg_0171.json",
+        "172": "pbr/msg_0172.json",
+        "173": "pbr/msg_0173.json",
+        "174": "pbr/msg_0174.json",
+        "175": "pbr/msg_0175.json",
+        "176": "pbr/msg_0176.json",
+        "177": "pbr/msg_0177.json",
+        "178": "pbr/msg_0178.json",
+        "179": "pbr/msg_0179.json",
+        "180": "pbr/msg_0180.json",
+        "181": "pbr/msg_0181.json",
+        "182": "pbr/msg_0182.json",
+        "183": "pbr/msg_0183.json",
+        "184": "pbr/msg_0184.json",
+        "185": "pbr/msg_0185.json",
+        "186": "pbr/msg_0186.json",
+        "187": "pbr/msg_0187.json",
+        "188": "pbr/msg_0188.json",
+        "189": "pbr/msg_0189.json",
+        "190": "pbr/msg_0190.json",
+        "191": "pbr/msg_0191.json",
+        "192": "pbr/msg_0192.json",
+        "193": "pbr/msg_0193.json",
+        "194": "pbr/msg_0194.json",
+        "195": "pbr/msg_0195.json",
+        "196": "pbr/msg_0196.json",
+        "197": "pbr/msg_0197.json",
+        "198": "pbr/msg_0198.json",
+        "199": "pbr/msg_0199.json",
+        "200": "pbr/msg_0200.json",
+        "201": "pbr/msg_0201.json",
+        "202": "pbr/msg_0202.json",
+        "203": "pbr/msg_0203.json",
+        "204": "pbr/msg_0204.json",
+        "205": "pbr/msg_0205.json",
+        "206": "pbr/msg_0206.json",
+        "207": "pbr/msg_0207.json",
+        "208": "pbr/msg_0208.json",
+        "209": "pbr/msg_0209.json",
+        "210": "pbr/msg_0210.json",
+        "211": "pbr/msg_0211.json",
+        "212": "pbr/msg_0212.json",
+        "213": "pbr/msg_0213.json",
+        "214": "pbr/msg_0214.json",
+        "215": "pbr/msg_0215.json",
+        "216": "pbr/msg_0216.json",
+        "217": "pbr/msg_0217.json",
+        "218": "pbr/msg_0218.json",
+        "219": "pbr/msg_0219.json",
+        "220": "pbr/msg_0220.json",
+        "221": "pbr/msg_0221.json",
+        "222": "pbr/msg_0222.json",
+        "223": "pbr/msg_0223.json",
+        "224": "pbr/msg_0224.json",
+        "225": "pbr/msg_0225.json",
+        "226": "pbr/msg_0226.json",
+        "227": "pbr/msg_0227.json",
+        "228": "pbr/msg_0228.json",
+        "229": "pbr/msg_0229.json",
+        "230": "pbr/msg_0230.json",
+        "231": "pbr/msg_0231.json",
+        "232": "pbr/msg_0232.json",
+        "233": "pbr/msg_0233.json",
+        "234": "pbr/msg_0234.json",
+        "235": "pbr/msg_0235.json",
+        "236": "pbr/msg_0236.json",
+        "237": "pbr/msg_0237.json",
+        "238": "pbr/msg_0238.json",
+        "239": "pbr/msg_0239.json",
+        "240": "pbr/msg_0240.json",
+        "241": "pbr/msg_0241.json",
+        "242": "pbr/msg_0242.json",
+        "243": "pbr/msg_0243.json",
+        "244": "pbr/msg_0244.json",
+        "245": "pbr/msg_0245.json",
+        "246": "pbr/msg_0246.json",
+        "247": "pbr/msg_0247.json",
+        "248": "pbr/msg_0248.json",
+        "250": "pbr/msg_0250.json",
+        "251": "pbr/msg_0251.json",
+        "252": "pbr/msg_0252.json",
+        "253": "pbr/msg_0253.json",
+        "254": "pbr/msg_0254.json",
+        "255": "pbr/msg_0255.json",
+        "256": "pbr/msg_0256.json",
+        "257": "pbr/msg_0257.json",
+        "258": "pbr/msg_0258.json",
+        "259": "pbr/msg_0259.json",
+        "260": "pbr/msg_0260.json",
+        "261": "pbr/msg_0261.json",
+        "262": "pbr/msg_0262.json",
+        "263": "pbr/msg_0263.json",
+        "264": "pbr/msg_0264.json",
+        "265": "pbr/msg_0265.json",
+        "266": "pbr/msg_0266.json",
+        "267": "pbr/msg_0267.json",
+        "268": "pbr/msg_0268.json",
+        "269": "pbr/msg_0269.json",
+        "270": "pbr/msg_0270.json",
+        "271": "pbr/msg_0271.json",
+        "272": "pbr/msg_0272.json",
+        "273": "pbr/msg_0273.json",
+        "274": "pbr/msg_0274.json",
+        "275": "pbr/msg_0275.json",
+        "276": "pbr/msg_0276.json",
+        "277": "pbr/msg_0277.json",
+        "278": "pbr/msg_0278.json",
+        "279": "pbr/msg_0279.json",
+        "280": "pbr/msg_0280.json",
+        "281": "pbr/msg_0281.json",
+        "282": "pbr/msg_0282.json",
+        "283": "pbr/msg_0283.json",
+        "284": "pbr/msg_0284.json",
+        "285": "pbr/msg_0285.json",
+        "286": "pbr/msg_0286.json",
+        "311": "pbr/msg_0311.json",
+        "312": "pbr/msg_0312.json",
+        "313": "pbr/msg_0313.json",
+        "314": "pbr/msg_0314.json",
+        "315": "pbr/msg_0315.json",
+        "316": "pbr/msg_0316.json",
+        "317": "pbr/msg_0317.json",
+        "318": "pbr/msg_0318.json",
+        "319": "pbr/msg_0319.json",
+        "320": "pbr/msg_0320.json",
+        "321": "pbr/msg_0321.json",
+        "322": "pbr/msg_0322.json",
+        "323": "pbr/msg_0323.json",
+        "324": "pbr/msg_0324.json",
+        "325": "pbr/msg_0325.json",
+        "326": "pbr/msg_0326.json",
+        "327": "pbr/msg_0327.json",
+        "328": "pbr/msg_0328.json",
+        "329": "pbr/msg_0329.json",
+        "330": "pbr/msg_0330.json",
+        "331": "pbr/msg_0331.json",
+        "332": "pbr/msg_0332.json",
+        "333": "pbr/msg_0333.json",
+        "334": "pbr/msg_0334.json",
+        "335": "pbr/msg_0335.json",
+        "337": "pbr/msg_0337.json",
+        "338": "pbr/msg_0338.json",
+        "339": "pbr/msg_0339.json",
+        "340": "pbr/msg_0340.json",
+        "341": "pbr/msg_0341.json",
+        "342": "pbr/msg_0342.json",
+        "343": "pbr/msg_0343.json",
+        "344": "pbr/msg_0344.json",
+        "345": "pbr/msg_0345.json",
+        "346": "pbr/msg_0346.json",
+        "347": "pbr/msg_0347.json",
+        "348": "pbr/msg_0348.json",
+        "349": "pbr/msg_0349.json",
+        "350": "pbr/msg_0350.json",
+        "351": "pbr/msg_0351.json",
+        "352": "pbr/msg_0352.json",
+        "353": "pbr/msg_0353.json",
+        "354": "pbr/msg_0354.json",
+        "355": "pbr/msg_0355.json",
+        "356": "pbr/msg_0356.json",
+        "357": "pbr/msg_0357.json",
+        "358": "pbr/msg_0358.json",
+        "359": "pbr/msg_0359.json",
+        "360": "pbr/msg_0360.json",
+        "361": "pbr/msg_0361.json",
+        "362": "pbr/msg_0362.json",
+        "363": "pbr/msg_0363.json",
+        "364": "pbr/msg_0364.json",
+        "365": "pbr/msg_0365.json",
+        "366": "pbr/msg_0366.json",
+        "367": "pbr/msg_0367.json",
+        "368": "pbr/msg_0368.json",
+        "369": "pbr/msg_0369.json",
+        "370": "pbr/msg_0370.json",
+        "371": "pbr/msg_0371.json",
+        "372": "pbr/msg_0372.json",
+        "373": "pbr/msg_0373.json",
+        "374": "pbr/msg_0374.json",
+        "375": "pbr/msg_0375.json",
+        "376": "pbr/msg_0376.json",
+        "377": "pbr/msg_0377.json",
+        "378": "pbr/msg_0378.json",
+        "379": "pbr/msg_0379.json",
+        "380": "pbr/msg_0380.json",
+        "381": "pbr/msg_0381.json",
+        "382": "pbr/msg_0382.json",
+        "383": "pbr/msg_0383.json",
+        "384": "pbr/msg_0384.json",
+        "385": "pbr/msg_0385.json",
+        "386": "pbr/msg_0386.json",
+        "387": "pbr/msg_0387.json",
+        "388": "pbr/msg_0388.json",
+        "389": "pbr/msg_0389.json",
+        "390": "pbr/msg_0390.json",
+        "391": "pbr/msg_0391.json",
+        "392": "pbr/msg_0392.json",
+        "393": "pbr/msg_0393.json",
+        "394": "pbr/msg_0394.json",
+        "395": "pbr/msg_0395.json",
+        "396": "pbr/msg_0396.json",
+        "397": "pbr/msg_0397.json",
+        "398": "pbr/msg_0398.json",
+        "399": "pbr/msg_0399.json",
+        "402": "pbr/msg_0402.json",
+        "403": "pbr/msg_0403.json",
+        "404": "pbr/msg_0404.json",
+        "405": "pbr/msg_0405.json",
+        "406": "pbr/msg_0406.json",
+        "407": "pbr/msg_0407.json",
+        "408": "pbr/msg_0408.json",
+        "409": "pbr/msg_0409.json",
+        "410": "pbr/msg_0410.json",
+        "411": "pbr/msg_0411.json",
+        "412": "pbr/msg_0412.json",
+        "413": "pbr/msg_0413.json",
+        "414": "pbr/msg_0414.json",
+        "415": "pbr/msg_0415.json",
+        "416": "pbr/msg_0416.json",
+        "417": "pbr/msg_0417.json",
+        "418": "pbr/msg_0418.json",
+        "419": "pbr/msg_0419.json",
+        "420": "pbr/msg_0420.json",
+        "421": "pbr/msg_0421.json",
+        "422": "pbr/msg_0422.json",
+        "423": "pbr/msg_0423.json",
+        "424": "pbr/msg_0424.json",
+        "425": "pbr/msg_0425.json",
+        "426": "pbr/msg_0426.json",
+        "427": "pbr/msg_0427.json",
+        "428": "pbr/msg_0428.json",
+        "429": "pbr/msg_0429.json",
+        "430": "pbr/msg_0430.json",
+        "431": "pbr/msg_0431.json",
+        "432": "pbr/msg_0432.json",
+        "433": "pbr/msg_0433.json",
+        "434": "pbr/msg_0434.json",
+        "435": "pbr/msg_0435.json",
+        "436": "pbr/msg_0436.json",
+        "437": "pbr/msg_0437.json",
+        "438": "pbr/msg_0438.json",
+        "439": "pbr/msg_0439.json",
+        "440": "pbr/msg_0440.json",
+        "441": "pbr/msg_0441.json",
+        "442": "pbr/msg_0442.json",
+        "443": "pbr/msg_0443.json",
+        "444": "pbr/msg_0444.json",
+        "445": "pbr/msg_0445.json",
+        "446": "pbr/msg_0446.json",
+        "447": "pbr/msg_0447.json",
+        "448": "pbr/msg_0448.json",
+        "449": "pbr/msg_0449.json",
+        "450": "pbr/msg_0450.json",
+        "451": "pbr/msg_0451.json",
+        "452": "pbr/msg_0452.json",
+        "453": "pbr/msg_0453.json",
+        "454": "pbr/msg_0454.json",
+        "455": "pbr/msg_0455.json",
+        "456": "pbr/msg_0456.json",
+        "457": "pbr/msg_0457.json",
+        "458": "pbr/msg_0458.json",
+        "459": "pbr/msg_0459.json",
+        "460": "pbr/msg_0460.json",
+        "461": "pbr/msg_0461.json",
+        "462": "pbr/msg_0462.json",
+        "463": "pbr/msg_0463.json",
+        "464": "pbr/msg_0464.json",
+        "465": "pbr/msg_0465.json",
+        "466": "pbr/msg_0466.json",
+        "467": "pbr/msg_0467.json",
+        "468": "pbr/msg_0468.json",
+        "469": "pbr/msg_0469.json",
+        "470": "pbr/msg_0470.json",
+        "471": "pbr/msg_0471.json",
+        "472": "pbr/msg_0472.json",
+        "473": "pbr/msg_0473.json",
+        "474": "pbr/msg_0474.json",
+        "475": "pbr/msg_0475.json",
+        "476": "pbr/msg_0476.json",
+        "477": "pbr/msg_0477.json",
+        "478": "pbr/msg_0478.json",
+        "479": "pbr/msg_0479.json",
+        "480": "pbr/msg_0480.json",
+        "481": "pbr/msg_0481.json",
+        "482": "pbr/msg_0482.json",
+        "483": "pbr/msg_0483.json",
+        "484": "pbr/msg_0484.json",
+        "485": "pbr/msg_0485.json",
+        "486": "pbr/msg_0486.json",
+        "487": "pbr/msg_0487.json",
+        "488": "pbr/msg_0488.json",
+        "489": "pbr/msg_0489.json",
+        "492": "pbr/msg_0492.json",
+        "493": "pbr/msg_0493.json",
+        "494": "pbr/msg_0494.json",
+        "495": "pbr/msg_0495.json",
+        "496": "pbr/msg_0496.json",
+        "497": "pbr/msg_0497.json",
+        "498": "pbr/msg_0498.json",
+        "499": "pbr/msg_0499.json",
+        "500": "pbr/msg_0500.json",
+        "501": "pbr/msg_0501.json",
+        "502": "pbr/msg_0502.json",
+        "503": "pbr/msg_0503.json",
+        "504": "pbr/msg_0504.json",
+        "505": "pbr/msg_0505.json",
+        "506": "pbr/msg_0506.json",
+        "507": "pbr/msg_0507.json",
+        "508": "pbr/msg_0508.json",
+        "509": "pbr/msg_0509.json",
+        "510": "pbr/msg_0510.json",
+        "511": "pbr/msg_0511.json",
+        "512": "pbr/msg_0512.json",
+        "513": "pbr/msg_0513.json",
+        "514": "pbr/msg_0514.json",
+        "515": "pbr/msg_0515.json",
+        "516": "pbr/msg_0516.json",
+        "517": "pbr/msg_0517.json",
+        "518": "pbr/msg_0518.json",
+        "519": "pbr/msg_0519.json",
+        "520": "pbr/msg_0520.json",
+        "521": "pbr/msg_0521.json",
+        "522": "pbr/msg_0522.json",
+        "523": "pbr/msg_0523.json",
+        "524": "pbr/msg_0524.json",
+        "525": "pbr/msg_0525.json",
+        "526": "pbr/msg_0526.json",
+        "527": "pbr/msg_0527.json",
+        "528": "pbr/msg_0528.json",
+        "529": "pbr/msg_0529.json",
+        "530": "pbr/msg_0530.json",
+        "531": "pbr/msg_0531.json",
+        "532": "pbr/msg_0532.json",
+        "533": "pbr/msg_0533.json",
+        "534": "pbr/msg_0534.json",
+        "535": "pbr/msg_0535.json",
+        "536": "pbr/msg_0536.json",
+        "537": "pbr/msg_0537.json",
+        "538": "pbr/msg_0538.json",
+        "539": "pbr/msg_0539.json",
+        "540": "pbr/msg_0540.json",
+        "541": "pbr/msg_0541.json",
+        "542": "pbr/msg_0542.json",
+        "543": "pbr/msg_0543.json",
+        "544": "pbr/msg_0544.json",
+        "545": "pbr/msg_0545.json",
+        "546": "pbr/msg_0546.json",
+        "547": "pbr/msg_0547.json",
+        "548": "pbr/msg_0548.json",
+        "549": "pbr/msg_0549.json",
+        "550": "pbr/msg_0550.json",
+        "551": "pbr/msg_0551.json",
+        "552": "pbr/msg_0552.json",
+        "553": "pbr/msg_0553.json",
+        "554": "pbr/msg_0554.json",
+        "555": "pbr/msg_0555.json",
+        "556": "pbr/msg_0556.json",
+        "557": "pbr/msg_0557.json",
+        "558": "pbr/msg_0558.json",
+        "559": "pbr/msg_0559.json",
+        "560": "pbr/msg_0560.json",
+        "561": "pbr/msg_0561.json",
+        "562": "pbr/msg_0562.json",
+        "563": "pbr/msg_0563.json",
+        "564": "pbr/msg_0564.json",
+        "565": "pbr/msg_0565.json",
+        "566": "pbr/msg_0566.json",
+        "567": "pbr/msg_0567.json",
+        "568": "pbr/msg_0568.json",
+        "569": "pbr/msg_0569.json",
+        "570": "pbr/msg_0570.json",
+        "571": "pbr/msg_0571.json",
+        "572": "pbr/msg_0572.json",
+        "573": "pbr/msg_0573.json",
+        "574": "pbr/msg_0574.json",
+        "575": "pbr/msg_0575.json",
+        "576": "pbr/msg_0576.json",
+        "577": "pbr/msg_0577.json",
+        "578": "pbr/msg_0578.json",
+        "579": "pbr/msg_0579.json",
+        "580": "pbr/msg_0580.json",
+        "581": "pbr/msg_0581.json",
+        "582": "pbr/msg_0582.json",
+        "583": "pbr/msg_0583.json",
+        "584": "pbr/msg_0584.json",
+        "585": "pbr/msg_0585.json",
+        "586": "pbr/msg_0586.json",
+        "587": "pbr/msg_0587.json",
+        "588": "pbr/msg_0588.json",
+        "589": "pbr/msg_0589.json",
+        "590": "pbr/msg_0590.json",
+        "591": "pbr/msg_0591.json",
+        "592": "pbr/msg_0592.json",
+        "593": "pbr/msg_0593.json",
+        "594": "pbr/msg_0594.json",
+        "595": "pbr/msg_0595.json",
+        "596": "pbr/msg_0596.json",
+        "597": "pbr/msg_0597.json",
+        "598": "pbr/msg_0598.json",
+        "599": "pbr/msg_0599.json",
+        "600": "pbr/msg_0600.json",
+        "601": "pbr/msg_0601.json",
+        "602": "pbr/msg_0602.json",
+        "603": "pbr/msg_0603.json",
+        "604": "pbr/msg_0604.json",
+        "605": "pbr/msg_0605.json",
+        "606": "pbr/msg_0606.json",
+        "607": "pbr/msg_0607.json",
+        "608": "pbr/msg_0608.json",
+        "609": "pbr/msg_0609.json",
+        "610": "pbr/msg_0610.json",
+        "611": "pbr/msg_0611.json",
+        "612": "pbr/msg_0612.json",
+        "613": "pbr/msg_0613.json",
+        "614": "pbr/msg_0614.json",
+        "615": "pbr/msg_0615.json",
+        "616": "pbr/msg_0616.json",
+        "617": "pbr/msg_0617.json",
+        "618": "pbr/msg_0618.json",
+        "619": "pbr/msg_0619.json",
+        "620": "pbr/msg_0620.json",
+        "621": "pbr/msg_0621.json"
+      }
+    },
+    "pbr/plist_gra.narc": {
+      "sha1": "2e39d84579559ac1d5948cf56086fe529b4f39d0",
+      "members": {
+        "15": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/plist_gra/15.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "160"
+          ]
+        }
+      }
+    },
+    "pbr/poketch.narc": {
+      "sha1": "c95b525e877d75f60d487b2439c26268f48174b6",
+      "members": {
+        "94": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/poketch/94.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "328"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    },
+    "pbr/pst_gra.narc": {
+      "sha1": "68684c220dbb5480567bfc1e5db7fac4ce4d28b2",
+      "members": {
+        "0": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/pst_gra/0.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "480"
+          ]
+        },
+        "64": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/pst_gra/64.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "21"
+          ]
+        }
+      }
+    },
+    "pbr/zukan.narc": {
+      "sha1": "57ce9c519665a3b71639aeb0ad8431a6890ae139",
+      "members": {
+        "28": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/zukan/28.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "256"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "34": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/zukan/34.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-sopc",
+            "-num_tiles",
+            "480"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "90": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/zukan/90.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-mappingtype",
+            "128",
+            "-num_tiles",
+            "284"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "96": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/zukan/96.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "84"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        },
+        "99": {
+          "kind": "nitrogfx",
+          "source": "files/pbr/zukan/99.png",
+          "target": "NCGR",
+          "options": [
+            "-bitdepth",
+            "4",
+            "-version101",
+            "-clobbersize",
+            "-num_tiles",
+            "68"
+          ],
+          "compression": [
+            "-search",
+            "2",
+            "-nopad"
+          ]
+        }
+      }
+    }
+  }
+}

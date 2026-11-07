@@ -1,0 +1,228 @@
+{
+  "key": 37835,
+  "messages": [
+    {
+      "id": "msg_0747_00000",
+      "de_DE": [
+        "Welche Attacke soll {STRVAR_1 1, 0, 0}\n",
+        "beigebracht werden?"
+      ]
+    },
+    {
+      "id": "msg_0747_00001",
+      "de_DE": "{STRVAR_1 6, 1, 0} beibringen?"
+    },
+    {
+      "id": "msg_0747_00002",
+      "de_DE": [
+        "Soll {STRVAR_1 1, 0, 0} keine neue\n",
+        "Attacke erlernen?"
+      ]
+    },
+    {
+      "id": "msg_0747_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernt\n",
+        "{STRVAR_1 6, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0747_00004",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht,\n",
+        "{STRVAR_1 6, 1, 0} zu erlernen.\r",
+        "Aber {STRVAR_1 1, 0, 0} kann nur maximal\n",
+        "vier Attacken erlernen.\r",
+        "Soll eine andere Attacke durch\n",
+        "{STRVAR_1 6, 1, 0} ersetzt werden?"
+      ]
+    },
+    {
+      "id": "msg_0747_00005",
+      "de_DE": [
+        "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... schwupp!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0, 0} vergaß\n",
+        "{STRVAR_1 6, 1, 0}.\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0747_00006",
+      "de_DE": "{STRVAR_1 1, 0, 0} erlernt {STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r"
+    },
+    {
+      "id": "msg_0747_00007",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} nicht\n",
+        "erlernen?"
+      ]
+    },
+    {
+      "id": "msg_0747_00008",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0747_00009",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0747_00010",
+      "de_DE": "{STRVAR_1 6, 0, 0} soll vergessen werden?"
+    },
+    {
+      "id": "msg_0747_00011",
+      "de_DE": [
+        "An welche Attacke soll {STRVAR_1 1, 0, 0}\n",
+        "sich erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0747_00012",
+      "de_DE": [
+        "Soll es sich an die Attacke\n",
+        "{STRVAR_1 6, 1, 0} erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0747_00013",
+      "de_DE": [
+        "Soll {STRVAR_1 1, 0, 0} aufgeben und\n",
+        "sich nicht an eine Attacke erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0747_00014",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erinnert sich wieder\n",
+        "an die Attacke {STRVAR_1 6, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0747_00015",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} möchte sich an die\n",
+        "Attacke {STRVAR_1 6, 1, 0} erinnern.\r",
+        "Aber {STRVAR_1 1, 0, 0} kann nur vier\n",
+        "Attacken lernen.\r",
+        "Soll eine Attacke vergessen werden,\n",
+        "damit es {STRVAR_1 6, 1, 0} lernen kann?"
+      ]
+    },
+    {
+      "id": "msg_0747_00016",
+      "de_DE": [
+        "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}...schwupp!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} vergessen.\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0747_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erinnert sich wieder an die\n",
+        "Attacke {STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0747_00018",
+      "de_DE": [
+        "Soll das Pokémon aufgeben und\n",
+        "sich nicht an {STRVAR_1 6, 1, 0} erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0747_00019",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann sich nicht an die\n",
+        "Attacke {STRVAR_1 6, 1, 0} erinnern.\r"
+      ]
+    },
+    {
+      "id": "msg_0747_00020",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0747_00021",
+      "de_DE": [
+        "Bist du einverstanden, dass das\n",
+        "Pokémon {STRVAR_1 6, 0, 0} vergisst?"
+      ]
+    },
+    {
+      "id": "msg_0747_00022",
+      "de_DE": "ART"
+    },
+    {
+      "id": "msg_0747_00023",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0747_00024",
+      "de_DE": "GENAU."
+    },
+    {
+      "id": "msg_0747_00025",
+      "de_DE": "AP"
+    },
+    {
+      "id": "msg_0747_00026",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0747_00027",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0747_00028",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0747_00029",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0747_00030",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0747_00031",
+      "de_DE": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}"
+    },
+    {
+      "id": "msg_0747_00032",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0747_00033",
+      "de_DE": "---"
+    },
+    {
+      "id": "msg_0747_00034",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0747_00035",
+      "de_DE": "LERNEN"
+    },
+    {
+      "id": "msg_0747_00036",
+      "de_DE": "Welche Attacke soll erlernt werden?"
+    },
+    {
+      "id": "msg_0747_00037",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0747_00038",
+      "de_DE": "Lv. {STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0747_00039",
+      "de_DE": "ERLERNTE ATT."
+    }
+  ]
+}

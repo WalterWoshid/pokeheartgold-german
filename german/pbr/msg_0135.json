@@ -1,0 +1,500 @@
+{
+  "key": 18315,
+  "messages": [
+    {
+      "id": "msg_0135_00000",
+      "de_DE": [
+        "Lucia: Hi, {STRVAR_1 3, 0}!\n",
+        "Kannst du mir bitte helfen?\r",
+        "Ich habe aus Versehen meinen\n",
+        "Pokédex fallen lassen und Team\f",
+        "Galaktik hat ihn sich geschnappt.\r",
+        "Und nun wollen sie ihn nicht\n",
+        "wieder hergeben. Bitte, hilf mir!\r",
+        "Ich warte vor dem Gelände des\n",
+        "Teams Galaktik. Bitte komm!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00001",
+      "de_DE": [
+        "Lucius: Hallo, {STRVAR_1 3, 0}!\n",
+        "Kannst du mir bitte helfen?\r",
+        "Ich habe aus Versehen meinen\n",
+        "Pokédex fallen lassen und Team\f",
+        "Galaktik hat ihn sich geschnappt.\r",
+        "Und nun wollen sie ihn nicht\n",
+        "wieder hergeben. Bitte, hilf mir!\r",
+        "Ich warte vor dem Gelände des\n",
+        "Teams Galaktik. Bitte komm!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00002",
+      "de_DE": [
+        "Lucia: {STRVAR_1 3, 0}, nimmst du die\n",
+        "Herausforderungen in den Arenen an?\r",
+        "Hui, du wirst von Mal zu Mal\n",
+        "stärker, oder meine ich das nur?\r",
+        "Was ich hier mache? Oh, ich war\n",
+        "einkaufen im Kaufhaus und...\r",
+        "Ich meine, ich arbeite natürlich auch\n",
+        "an meinem Pokédex, aber...\r",
+        "Nun, man sieht sich später!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00003",
+      "de_DE": [
+        "Lucius: {STRVAR_1 3, 0}, nimmst du die\n",
+        "Herausforderung in den Arenen an?\r",
+        "Hui, du wirst von Mal zu Mal\n",
+        "stärker, oder meine ich das nur?\r",
+        "Was ich hier mache? Oh, ich habe\n",
+        "mir die Spielhalle angesehen und...\r",
+        "Ich meine, ich arbeite natürlich auch\n",
+        "an meinem Pokédex, aber...\r",
+        "Wie dem auch sei. Halt die Ohren\n",
+        "steif! Man sieht sich später!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00004",
+      "de_DE": [
+        "Rüpel 1: Hey, du!\n",
+        "Ja, du!\r",
+        "Du befindest dich auf dem\n",
+        "Gelände des Teams Galaktik!\r",
+        "Das hier ist kein Kinderspielplatz!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00005",
+      "de_DE": [
+        "Rüpel 1: Hey, du!\n",
+        "Ja, du!\r",
+        "Du befindest dich auf dem\n",
+        "Gelände des Teams Galaktik!\r",
+        "Das hier ist kein Kinderspielplatz!"
+      ]
+    },
+    {
+      "id": "msg_0135_00006",
+      "de_DE": [
+        "Rüpel 2: Dies ist das unglaubliche\n",
+        "Gelände des unglaublichen\f",
+        "Teams Galaktik!\r",
+        "Ein Kind wie du sollte lieber\n",
+        "in einer Pokémon Arena spielen.\r",
+        "Schließlich ist die Arenaleiterin\n",
+        "auch nur ein kleines Kind wie du!"
+      ]
+    },
+    {
+      "id": "msg_0135_00007",
+      "de_DE": [
+        "Rüpel 1: Was? Nun hast du auch\n",
+        "noch deinen rotznasigen Freund\r",
+        "mitgebracht, nur um deinen\n",
+        "Pokédex zurückzubekommen?!?\r",
+        "Nun, es wird uns eine Freude sein,\n",
+        "euch jammernd und weinend zu\f",
+        "euren Mamis zurückzuschicken!"
+      ]
+    },
+    {
+      "id": "msg_0135_00008",
+      "de_DE": [
+        "Rüpel 2: Du willst den Pokédex\n",
+        "von uns zurückhaben?!?\r",
+        "Aber nicht doch! Nicht, wenn wir, das\n",
+        "Team Galaktik, eine viel bessere\f",
+        "Verwendung für ihn haben!\r",
+        "Aber ihr habt Glück! Ich langweile\n",
+        "mich hier beim Wacheschieben!\r",
+        "Lasst uns kämpfen!"
+      ]
+    },
+    {
+      "id": "msg_0135_00009",
+      "de_DE": [
+        "Rüpel 1: Argh, das stinkt doch zum\n",
+        "Himmel!!! Unsere Pokémon sind die\f",
+        "reinsten Blindgänger!\r",
+        "Wir sollten uns im Hauptquartier\n",
+        "neue besorgen.\r",
+        "Hmpf! Wen interessiert schon so\n",
+        "ein dämlicher Pokédex?!?\r",
+        "Team Galaktik werden schon\n",
+        "bald ALLE Pokémon der Welt gehören...\f",
+        "Nein, des ganzen Universums!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00010",
+      "de_DE": [
+        "Hier! Nimm schon! Nimm deinen\n",
+        "dämlichen Pokédex! Pah!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00011",
+      "de_DE": [
+        "Rüpel 2: All den Kram, den wir bei uns\n",
+        "auf dem Gelände hatten, haben wir\r",
+        "sowieso schon weggeschafft nach\n",
+        "Weideburg...\r",
+        "Und so benehmen wir uns wie das,\n",
+        "was wir sind: wie Rüpel. Frei nach dem\f",
+        "Motto: “Ihr bekommt euren Senf ab!”\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00012",
+      "de_DE": [
+        "Lucia: Hi, {STRVAR_1 3, 0}!\n",
+        "Kannst du mir bitte helfen?\r",
+        "Ich habe aus Versehen meinen\n",
+        "Pokédex fallen lassen und Team\f",
+        "Galaktik hat ihn sich geschnappt.\r",
+        "Und nun wollen sie ihn nicht\n",
+        "wieder hergeben. Bitte, hilf mir!\r",
+        "Wir schließen uns zusammen und\n",
+        "treten gegen das Team an!"
+      ]
+    },
+    {
+      "id": "msg_0135_00013",
+      "de_DE": [
+        "Lucia: Du und deine Pokémon zusammen\n",
+        "mit mir und meinen Pokémon...\r",
+        "Ein Traumteam, das einfach nicht\n",
+        "verlieren kann!\r",
+        "Diese fiesen Schurken werden mit ihren\n",
+        "Machenschaften nicht davonkommen!\f",
+        "Dafür sorge ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00014",
+      "de_DE": [
+        "Lucia: Ich werde hier auf dich\n",
+        "warten! Bereite dich gut vor\f",
+        "und komm schnell zurück!"
+      ]
+    },
+    {
+      "id": "msg_0135_00015",
+      "de_DE": [
+        "Lucia: Was geht hier vor?\r",
+        "Warum laufen die Typen vom Team\n",
+        "Galaktik hier durch die Straßen und\r",
+        "benehmen sich, als ob ihnen alles\n",
+        "gehört?\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00016",
+      "de_DE": [
+        "Lucia: Vielen Dank, {STRVAR_1 3, 0},\n",
+        "ganz ehrlich.\r",
+        "Wenn Prof. Eibe jemals herausfinden\n",
+        "sollte, dass ich meinen Pokédex\f",
+        "verloren hatte...\r",
+        "Uuuuh...\n",
+        "Ich mag gar nicht daran denken.\r",
+        "Und, {STRVAR_1 3, 0}? Was hast du\n",
+        "nun vor?\r",
+        "Ich überlege, nach Weideburg\n",
+        "zu gehen.\r",
+        "In dem Großmoor dort leben\n",
+        "viele Arten von Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00017",
+      "de_DE": [
+        "Lucius: Hallo, {STRVAR_1 3, 0}!\n",
+        "Kannst du mir bitte helfen?\r",
+        "Ich habe aus Versehen meinen\n",
+        "Pokédex fallen lassen und Team\f",
+        "Galaktik hat ihn sich geschnappt.\r",
+        "Und nun wollen sie ihn nicht\n",
+        "wieder hergeben. Bitte, hilf mir!\r",
+        "Wir schließen uns zusammen und\n",
+        "treten gegen das Team an!"
+      ]
+    },
+    {
+      "id": "msg_0135_00018",
+      "de_DE": [
+        "Lucius: Du und deine Pokémon zusammen\n",
+        "mit mir und meinen Pokémon...\r",
+        "Ein Traumteam, das einfach nicht\n",
+        "verlieren kann!\r",
+        "Diese fiesen Schurken werden mit ihren\n",
+        "Machenschaften nicht davonkommen!\f",
+        "Dafür sorge ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00019",
+      "de_DE": [
+        "Lucius: Ich werde hier auf dich\n",
+        "warten! Bereite dich gut vor\f",
+        "und komm schnell zurück!"
+      ]
+    },
+    {
+      "id": "msg_0135_00020",
+      "de_DE": [
+        "Lucius: Was geht hier vor?\r",
+        "Warum laufen die Typen vom Team\n",
+        "Galaktik hier durch die Straßen und\r",
+        "benehmen sich, als ob ihnen alles\n",
+        "gehört?\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00021",
+      "de_DE": [
+        "Lucius: Vielen Dank, {STRVAR_1 3, 0},\n",
+        "ganz ehrlich.\r",
+        "Wenn Prof. Eibe jemals herausfinden\n",
+        "sollte, dass ich meinen Pokédex\f",
+        "verloren hatte...\r",
+        "Uuuuh...\n",
+        "Ich mag gar nicht daran denken.\r",
+        "Und, {STRVAR_1 3, 0}? Was hast du\n",
+        "nun vor?\r",
+        "Ich überlege, nach Weideburg\n",
+        "zu gehen.\r",
+        "In dem Großmoor dort leben\n",
+        "viele Arten von Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00022",
+      "de_DE": [
+        "Sieh mal!\n",
+        "Schau dir mal diese Antennen an!!!\r",
+        "Ich weiß ja nicht, wofür sie gut sind,\n",
+        "aber sie sind schon beeindruckend!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00023",
+      "de_DE": [
+        "Hey!\n",
+        "Du bist es!\r",
+        "Ich wette, du erinnerst dich nicht an\n",
+        "mich, aber ich erinnere mich an dich!\r",
+        "Deinetwegen haben sie mir\n",
+        "mein PIEPI weggenommen...\r",
+        "Mein Partner hat die Brocken\n",
+        "hingeschmissen und ist nach\f",
+        "Hause zurückgegangen.\r",
+        "Ich weiß nichts von einem\n",
+        "Schlüssel zum Lager!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00024",
+      "de_DE": [
+        "Wir haben die Versteckte Maschine\n",
+        "Fliegen hier in unserem Gebäude\f",
+        "gelagert.\r",
+        "Sie sagen, ich darf sie haben, wenn\n",
+        "ich ihnen beweise, dass ich es wert bin."
+      ]
+    },
+    {
+      "id": "msg_0135_00025",
+      "de_DE": [
+        "Oh ja, Team Galaktik lagert alle\n",
+        "möglichen interessanten Sachen\f",
+        "in seinem Gebäude.\r",
+        "Ich habe gehört, sie haben dort\n",
+        "sogar eine Versteckte Maschine!"
+      ]
+    },
+    {
+      "id": "msg_0135_00026",
+      "de_DE": [
+        "Die Spielhalle ist gefährlich!\r",
+        "Warum? Nun, man hat dort so viel\n",
+        "Spaß, dass man völlig die Zeit vergisst!"
+      ]
+    },
+    {
+      "id": "msg_0135_00027",
+      "de_DE": [
+        "Ich habe in der Spielhalle\n",
+        "eine TM gewonnen!\r",
+        "Und ich habe sie auch gleich\n",
+        "einem meiner Pokémon beigebracht!"
+      ]
+    },
+    {
+      "id": "msg_0135_00028",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0135_00029",
+      "de_DE": [
+        "Hilda ist die Arenaleiterin in Schleiede.\n",
+        "Marinus ist der Leiter in Weideburg.\f",
+        "Dann haben wir Lamina in Herzhofen...\r",
+        "Die sind alle viel zu stark.\n",
+        "Ich bin nicht mal annähernd so stark."
+      ]
+    },
+    {
+      "id": "msg_0135_00030",
+      "de_DE": [
+        "Ich bin in diese Stadt gekommen,\n",
+        "um im Kaufhaus Geld auszugeben.\r",
+        "Aber mit all den Felswänden hier\n",
+        "wirkt der Ort recht kalt. "
+      ]
+    },
+    {
+      "id": "msg_0135_00031",
+      "de_DE": [
+        "Ich habe einen neuen\n",
+        "Sonnenschirm gekauft.\r",
+        "Aber ich will nicht, dass er vom\n",
+        "Regen nass wird, daher sehe ich\f",
+        "mir immer die Wettervorhersage an."
+      ]
+    },
+    {
+      "id": "msg_0135_00032",
+      "de_DE": [
+        "Weißt du vielleicht, wo ich einen\n",
+        "Münzkorb bekommen kann?\r",
+        "Angeblich gibt es da einen Clown, der\n",
+        "welche hat, aber ich weiß nicht wo..."
+      ]
+    },
+    {
+      "id": "msg_0135_00033",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0135_00034",
+      "de_DE": [
+        "Schleiede ist die Stadt der Felsen.\n",
+        "Wir haben hier sogar Meteoriten!\r",
+        "Das hat zwar nichts damit zu tun, aber\n",
+        "ich gebe dir eine Technische Maschine!\r"
+      ]
+    },
+    {
+      "id": "msg_0135_00035",
+      "de_DE": [
+        "Wenn dein Gegner Itemsperre auf dein\n",
+        "Pokémon anwendet, kannst du bei diesem\f",
+        "Pokémon keine Items mehr einsetzen.\r",
+        "Nun, genieß deinen Aufenthalt in\n",
+        "Schleiede, der Stadt der... Felsen."
+      ]
+    },
+    {
+      "id": "msg_0135_00036",
+      "de_DE": [
+        "Das ist ein mysteriöser Meteorit, der\n",
+        "vom Himmel gefallen ist..."
+      ]
+    },
+    {
+      "id": "msg_0135_00037",
+      "de_DE": [
+        "Berührt man den Meteoriten,\n",
+        "wird die Initiative eines\f",
+        "bestimmten Pokémon erhöht."
+      ]
+    },
+    {
+      "id": "msg_0135_00038",
+      "de_DE": [
+        "Berührt man den Meteoriten,\n",
+        "wird die Verteidigung eines\f",
+        "bestimmten Pokémon erhöht."
+      ]
+    },
+    {
+      "id": "msg_0135_00039",
+      "de_DE": [
+        "Berührt man den Meteoriten,\n",
+        "wird der Angriffs-Wert eines\f",
+        "bestimmten Pokémon erhöht."
+      ]
+    },
+    {
+      "id": "msg_0135_00040",
+      "de_DE": [
+        "Berührt man den Meteoriten,\n",
+        "werden die Attribute eines\f",
+        "bestimmten Pokémon ausbalanciert."
+      ]
+    },
+    {
+      "id": "msg_0135_00041",
+      "de_DE": [
+        "Schleiede\n",
+        "Aus Stein gehauen"
+      ]
+    },
+    {
+      "id": "msg_0135_00042",
+      "de_DE": [
+        "Pokémon Arena Schleiede\n",
+        "Leiterin: Hilda\f",
+        "Das barfüßige Kampfgenie!"
+      ]
+    },
+    {
+      "id": "msg_0135_00043",
+      "de_DE": [
+        "Team Galaktik Privatbesitz\n",
+        "DURCHGANG VERBOTEN!"
+      ]
+    },
+    {
+      "id": "msg_0135_00044",
+      "de_DE": [
+        "Schleiede Team Galaktik-Gebäude\n",
+        "Wir träumen vom Universum!"
+      ]
+    },
+    {
+      "id": "msg_0135_00045",
+      "de_DE": [
+        "Schleiede-Kaufhaus\n",
+        "Wir machen Träume wahr!"
+      ]
+    },
+    {
+      "id": "msg_0135_00046",
+      "de_DE": [
+        "Schleiede Spielhalle\n",
+        "Fordere das Glück heraus!"
+      ]
+    },
+    {
+      "id": "msg_0135_00047",
+      "de_DE": [
+        "Wechselstube\n",
+        "Gib uns Münzen, wir geben dir Preise!"
+      ]
+    },
+    {
+      "id": "msg_0135_00048",
+      "de_DE": [
+        "Besuche den See der Kühnheit!\n",
+        "Gleich an der Route 214!"
+      ]
+    }
+  ]
+}

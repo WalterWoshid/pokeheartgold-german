@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_SHUCKLE",
+  "hpIv": 15,
+  "atkIv": 20,
+  "defIv": 15,
+  "speedIv": 20,
+  "spAtkIv": 20,
+  "spDefIv": 20,
+  "ability": 82,
+  "otId": 69872,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 136407,
+  "heldItem": "ITEM_BERRY_JUICE",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_SHUCKLE",
+  "unk_50": 0
+}

@@ -1,0 +1,898 @@
+{
+  "key": 45127,
+  "messages": [
+    {
+      "id": "msg_0404_00000",
+      "de_DE": "{STRVAR_1 1, 0}"
+    },
+    {
+      "id": "msg_0404_00001",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0404_00002",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0404_00003",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00004",
+      "de_DE": "Item"
+    },
+    {
+      "id": "msg_0404_00005",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0404_00006",
+      "de_DE": "Keines"
+    },
+    {
+      "id": "msg_0404_00007",
+      "de_DE": "POKéMON-INFO"
+    },
+    {
+      "id": "msg_0404_00008",
+      "de_DE": "Pokédex Nr."
+    },
+    {
+      "id": "msg_0404_00009",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00010",
+      "de_DE": "Name"
+    },
+    {
+      "id": "msg_0404_00011",
+      "de_DE": "{STRVAR_1 0, 0}"
+    },
+    {
+      "id": "msg_0404_00012",
+      "de_DE": "Typ"
+    },
+    {
+      "id": "msg_0404_00013",
+      "de_DE": "OT"
+    },
+    {
+      "id": "msg_0404_00014",
+      "de_DE": "{STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0404_00015",
+      "de_DE": "ID. Nr."
+    },
+    {
+      "id": "msg_0404_00016",
+      "de_DE": "{STRVAR_1 54, 0}"
+    },
+    {
+      "id": "msg_0404_00017",
+      "de_DE": "E.-Punkte"
+    },
+    {
+      "id": "msg_0404_00018",
+      "de_DE": "{STRVAR_1 56, 0}"
+    },
+    {
+      "id": "msg_0404_00019",
+      "de_DE": "Nächster Lv."
+    },
+    {
+      "id": "msg_0404_00020",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0404_00021",
+      "de_DE": "{STRVAR_1 55, 0}"
+    },
+    {
+      "id": "msg_0404_00022",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0404_00023",
+      "de_DE": "TRAINER-MEMO"
+    },
+    {
+      "id": "msg_0404_00024",
+      "de_DE": "Wesen: {COLOR 2}Robust{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00025",
+      "de_DE": "Wesen: {COLOR 2}Solo{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00026",
+      "de_DE": "Wesen: {COLOR 2}Mutig{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00027",
+      "de_DE": "Wesen: {COLOR 2}Hart{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00028",
+      "de_DE": "Wesen: {COLOR 2}Frech{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00029",
+      "de_DE": "Wesen: {COLOR 2}Kühn{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00030",
+      "de_DE": "Wesen: {COLOR 2}Sanft{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00031",
+      "de_DE": "Wesen: {COLOR 2}Locker{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00032",
+      "de_DE": "Wesen: {COLOR 2}Pfiffig{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00033",
+      "de_DE": "Wesen: {COLOR 2}Lasch{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00034",
+      "de_DE": "Wesen: {COLOR 2}Scheu{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00035",
+      "de_DE": "Wesen: {COLOR 2}Hastig{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00036",
+      "de_DE": "Wesen: {COLOR 2}Ernst{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00037",
+      "de_DE": "Wesen: {COLOR 2}Froh{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00038",
+      "de_DE": "Wesen: {COLOR 2}Naiv{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00039",
+      "de_DE": "Wesen: {COLOR 2}Mäßig{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00040",
+      "de_DE": "Wesen: {COLOR 2}Mild{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00041",
+      "de_DE": "Wesen: {COLOR 2}Ruhig{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00042",
+      "de_DE": "Wesen: {COLOR 2}Zaghaft{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00043",
+      "de_DE": "Wesen: {COLOR 2}Hitzig{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00044",
+      "de_DE": "Wesen: {COLOR 2}Still{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00045",
+      "de_DE": "Wesen: {COLOR 2}Zart{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00046",
+      "de_DE": "Wesen: {COLOR 2}Forsch{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00047",
+      "de_DE": "Wesen: {COLOR 2}Sacht{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00048",
+      "de_DE": "Wesen: {COLOR 2}Kauzig{COLOR 0}"
+    },
+    {
+      "id": "msg_0404_00049",
+      "de_DE": [
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\n",
+        "Erhalten mit Lv. {STRVAR_1 52, 3}."
+      ]
+    },
+    {
+      "id": "msg_0404_00050",
+      "de_DE": [
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\n",
+        "Offenbar erhalten mit\n",
+        "Lv. {STRVAR_1 52, 3}."
+      ]
+    },
+    {
+      "id": "msg_0404_00051",
+      "de_DE": [
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\n",
+        "Erhalten mit Lv. {STRVAR_1 52, 3}."
+      ]
+    },
+    {
+      "id": "msg_0404_00052",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}.{COLOR 0}\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Geschlüpft in/auf\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}."
+      ]
+    },
+    {
+      "id": "msg_0404_00053",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}.{COLOR 0}\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Offenbar geschlüpft in/\n",
+        "auf {COLOR 2}{STRVAR_1 4, 4}{COLOR 0}."
+      ]
+    },
+    {
+      "id": "msg_0404_00054",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Geschlüpft in/auf\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}."
+      ]
+    },
+    {
+      "id": "msg_0404_00055",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Offenbar geschlüpft in/\n",
+        "auf {COLOR 2}{STRVAR_1 4, 4}{COLOR 0}."
+      ]
+    },
+    {
+      "id": "msg_0404_00056",
+      "de_DE": [
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\n",
+        "Schicksalhafte\n",
+        "Begegnung mit Lv. {STRVAR_1 52, 3}."
+      ]
+    },
+    {
+      "id": "msg_0404_00057",
+      "de_DE": [
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\n",
+        "Offenbar schicksalhafte\n",
+        "Begegnung mit Lv. {STRVAR_1 52, 3}."
+      ]
+    },
+    {
+      "id": "msg_0404_00058",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Geschlüpft in/auf\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}.\n",
+        "Schicksalhafte Begegn."
+      ]
+    },
+    {
+      "id": "msg_0404_00059",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Offenbar geschlüpft in/\n",
+        "auf {COLOR 2}{STRVAR_1 4, 4}{COLOR 0}.\n",
+        "Schicksalhafte Begegn."
+      ]
+    },
+    {
+      "id": "msg_0404_00060",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\n",
+        "Ei ist angekommen.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Geschlüpft in/auf\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}.\n",
+        "Schicksalhafte Begegn."
+      ]
+    },
+    {
+      "id": "msg_0404_00061",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}\n",
+        "Ei ist angekommen.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Offenbar geschlüpft in/\n",
+        "auf {COLOR 2}{STRVAR_1 4, 4}{COLOR 0}.\n",
+        "Schicksalhafte Begegn."
+      ]
+    },
+    {
+      "id": "msg_0404_00062",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Geschlüpft in/auf\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}.\n",
+        "Schicksalhafte Begegn."
+      ]
+    },
+    {
+      "id": "msg_0404_00063",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ei erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n",
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "Offenbar geschlüpft in/\n",
+        "auf {COLOR 2}{STRVAR_1 4, 4}{COLOR 0}.\n",
+        "Schicksalhafte Begegn."
+      ]
+    },
+    {
+      "id": "msg_0404_00064",
+      "de_DE": [
+        "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} 20{STRVAR_1 51, 0}\n",
+        "{COLOR 2}{STRVAR_1 4, 4}{COLOR 0}\n",
+        "Level {STRVAR_1 52, 3}."
+      ]
+    },
+    {
+      "id": "msg_0404_00065",
+      "de_DE": "Mag {COLOR 2}scharfes{COLOR 0} Essen."
+    },
+    {
+      "id": "msg_0404_00066",
+      "de_DE": "Mag {COLOR 2}trockenes{COLOR 0} Essen."
+    },
+    {
+      "id": "msg_0404_00067",
+      "de_DE": "Mag {COLOR 2}süßes{COLOR 0} Essen."
+    },
+    {
+      "id": "msg_0404_00068",
+      "de_DE": "Mag {COLOR 2}bitteres{COLOR 0} Essen."
+    },
+    {
+      "id": "msg_0404_00069",
+      "de_DE": "Mag {COLOR 2}saures{COLOR 0} Essen."
+    },
+    {
+      "id": "msg_0404_00070",
+      "de_DE": "Isst alles."
+    },
+    {
+      "id": "msg_0404_00071",
+      "de_DE": "Liebt es, zu essen."
+    },
+    {
+      "id": "msg_0404_00072",
+      "de_DE": "Nickt oft ein."
+    },
+    {
+      "id": "msg_0404_00073",
+      "de_DE": "Schläft gerne."
+    },
+    {
+      "id": "msg_0404_00074",
+      "de_DE": "Macht oft Unordnung."
+    },
+    {
+      "id": "msg_0404_00075",
+      "de_DE": "Mag es, zu entspannen."
+    },
+    {
+      "id": "msg_0404_00076",
+      "de_DE": "Stolz auf seine Stärke."
+    },
+    {
+      "id": "msg_0404_00077",
+      "de_DE": "Prügelt sich gerne."
+    },
+    {
+      "id": "msg_0404_00078",
+      "de_DE": "Besitzt Temperament."
+    },
+    {
+      "id": "msg_0404_00079",
+      "de_DE": "Liebt Kämpfe."
+    },
+    {
+      "id": "msg_0404_00080",
+      "de_DE": "Impulsiv."
+    },
+    {
+      "id": "msg_0404_00081",
+      "de_DE": "Hat robusten Körper."
+    },
+    {
+      "id": "msg_0404_00082",
+      "de_DE": "Kann Treffer gut ab."
+    },
+    {
+      "id": "msg_0404_00083",
+      "de_DE": "Äußerst ausdauernd."
+    },
+    {
+      "id": "msg_0404_00084",
+      "de_DE": "Hat eine gute Ausdauer."
+    },
+    {
+      "id": "msg_0404_00085",
+      "de_DE": "Ist beharrlich."
+    },
+    {
+      "id": "msg_0404_00086",
+      "de_DE": "Liebt es, zu rennen."
+    },
+    {
+      "id": "msg_0404_00087",
+      "de_DE": "Achtet auf Geräusche."
+    },
+    {
+      "id": "msg_0404_00088",
+      "de_DE": "Ungestüm und einfältig."
+    },
+    {
+      "id": "msg_0404_00089",
+      "de_DE": "Ist fast wie ein Clown."
+    },
+    {
+      "id": "msg_0404_00090",
+      "de_DE": "Flüchtet schnell."
+    },
+    {
+      "id": "msg_0404_00091",
+      "de_DE": "Sehr neugierig."
+    },
+    {
+      "id": "msg_0404_00092",
+      "de_DE": "Hinterhältig."
+    },
+    {
+      "id": "msg_0404_00093",
+      "de_DE": "Äußerst gerissen."
+    },
+    {
+      "id": "msg_0404_00094",
+      "de_DE": "Ist oft in Gedanken."
+    },
+    {
+      "id": "msg_0404_00095",
+      "de_DE": "Sehr pedantisch."
+    },
+    {
+      "id": "msg_0404_00096",
+      "de_DE": "Besitzt starken Willen."
+    },
+    {
+      "id": "msg_0404_00097",
+      "de_DE": "Irgendwie eitel."
+    },
+    {
+      "id": "msg_0404_00098",
+      "de_DE": "Sehr aufsässig."
+    },
+    {
+      "id": "msg_0404_00099",
+      "de_DE": "Hasst Niederlagen."
+    },
+    {
+      "id": "msg_0404_00100",
+      "de_DE": "Dickköpfig."
+    },
+    {
+      "id": "msg_0404_00101",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ein mysteriöses Pokémon-\n",
+        "Ei. Erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}.\n"
+      ]
+    },
+    {
+      "id": "msg_0404_00102",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ein mysteriöses Pokémon-\n",
+        "Ei. Erhalten bei/von\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}."
+      ]
+    },
+    {
+      "id": "msg_0404_00103",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ein mysteriöses Pokémon-\n",
+        "Ei. Erhalten bei\n",
+        "{COLOR 1}{STRVAR_1 4, 8}{COLOR 0}."
+      ]
+    },
+    {
+      "id": "msg_0404_00104",
+      "de_DE": [
+        "{STRVAR_1 51, 7}. {STRVAR_1 74, 6} 20{STRVAR_1 51, 5}\n",
+        "Ein sehr mysteriöses\n",
+        "Pokémon-Ei aus\n",
+        "{COLOR 2}{STRVAR_1 4, 8}{COLOR 0}."
+      ]
+    },
+    {
+      "id": "msg_0404_00105",
+      "de_DE": [
+        "Der “Eiprüfer” erkennt:\n",
+        "Man kann schon etwas\n",
+        "hören! Bald wird es\n",
+        "schlüpfen!"
+      ]
+    },
+    {
+      "id": "msg_0404_00106",
+      "de_DE": [
+        "Der “Eiprüfer” erkennt:\n",
+        "Manchmal bewegt es sich!\n",
+        "Bald ist es so weit!"
+      ]
+    },
+    {
+      "id": "msg_0404_00107",
+      "de_DE": [
+        "Der “Eiprüfer” erkennt:\n",
+        "Was da wohl schlüpfen\n",
+        "wird? Es wird sicher\n",
+        "noch lange dauern."
+      ]
+    },
+    {
+      "id": "msg_0404_00108",
+      "de_DE": [
+        "Der “Eiprüfer” erkennt:\n",
+        "Dieses Ei braucht sicher\n",
+        "noch sehr viel Zeit."
+      ]
+    },
+    {
+      "id": "msg_0404_00109",
+      "de_DE": "POKéMON-FÄHIG."
+    },
+    {
+      "id": "msg_0404_00110",
+      "de_DE": "KP"
+    },
+    {
+      "id": "msg_0404_00111",
+      "de_DE": "Angriff"
+    },
+    {
+      "id": "msg_0404_00112",
+      "de_DE": "Vert."
+    },
+    {
+      "id": "msg_0404_00113",
+      "de_DE": "Sp. Ang."
+    },
+    {
+      "id": "msg_0404_00114",
+      "de_DE": "Sp. Ver."
+    },
+    {
+      "id": "msg_0404_00115",
+      "de_DE": "Init."
+    },
+    {
+      "id": "msg_0404_00116",
+      "de_DE": "Fähigk."
+    },
+    {
+      "id": "msg_0404_00117",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0404_00118",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00119",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00120",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00121",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00122",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00123",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00124",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00125",
+      "de_DE": "{STRVAR_1 5, 0}"
+    },
+    {
+      "id": "msg_0404_00126",
+      "de_DE": "ZUSTAND"
+    },
+    {
+      "id": "msg_0404_00127",
+      "de_DE": "GLANZ"
+    },
+    {
+      "id": "msg_0404_00128",
+      "de_DE": "ATTACKEN"
+    },
+    {
+      "id": "msg_0404_00129",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0404_00130",
+      "de_DE": "{STRVAR_1 6, 0}"
+    },
+    {
+      "id": "msg_0404_00131",
+      "de_DE": "{STRVAR_1 6, 0}"
+    },
+    {
+      "id": "msg_0404_00132",
+      "de_DE": "{STRVAR_1 6, 0}"
+    },
+    {
+      "id": "msg_0404_00133",
+      "de_DE": "{STRVAR_1 6, 0}"
+    },
+    {
+      "id": "msg_0404_00134",
+      "de_DE": "{STRVAR_1 6, 0}"
+    },
+    {
+      "id": "msg_0404_00135",
+      "de_DE": "AP"
+    },
+    {
+      "id": "msg_0404_00136",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00137",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00138",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00139",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00140",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00141",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00142",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00143",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00144",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00145",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0404_00146",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0404_00147",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0404_00148",
+      "de_DE": "GENAU."
+    },
+    {
+      "id": "msg_0404_00149",
+      "de_DE": "KATEGOR."
+    },
+    {
+      "id": "msg_0404_00150",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00151",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00152",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0404_00153",
+      "de_DE": "--"
+    },
+    {
+      "id": "msg_0404_00154",
+      "de_DE": "---"
+    },
+    {
+      "id": "msg_0404_00155",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0404_00156",
+      "de_DE": [
+        "VM-Attacken können\n",
+        "jetzt nicht vergessen\n",
+        "werden."
+      ]
+    },
+    {
+      "id": "msg_0404_00157",
+      "de_DE": "WETT.-ATTACKEN"
+    },
+    {
+      "id": "msg_0404_00158",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0404_00159",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0404_00160",
+      "de_DE": "PKT. F. AUSDRUCK"
+    },
+    {
+      "id": "msg_0404_00161",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0404_00162",
+      "de_DE": "Fenster zu"
+    },
+    {
+      "id": "msg_0404_00163",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0404_00164",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0404_00165",
+      "de_DE": "LIEBLINGSESSEN"
+    },
+    {
+      "id": "msg_0404_00166",
+      "de_DE": "Mag es {COLOR 2}scharf{COLOR 0}."
+    },
+    {
+      "id": "msg_0404_00167",
+      "de_DE": "Mag es {COLOR 2}trocken{COLOR 0}."
+    },
+    {
+      "id": "msg_0404_00168",
+      "de_DE": "Mag es {COLOR 2}süß{COLOR 0}."
+    },
+    {
+      "id": "msg_0404_00169",
+      "de_DE": "Mag es {COLOR 2}bitter{COLOR 0}."
+    },
+    {
+      "id": "msg_0404_00170",
+      "de_DE": "Mag es {COLOR 2}sauer{COLOR 0}."
+    },
+    {
+      "id": "msg_0404_00171",
+      "de_DE": "Isst alles."
+    },
+    {
+      "id": "msg_0404_00172",
+      "de_DE": "Coolness wurde erhöht!"
+    },
+    {
+      "id": "msg_0404_00173",
+      "de_DE": "Stärke wurde erhöht!"
+    },
+    {
+      "id": "msg_0404_00174",
+      "de_DE": "Schönheit wurde erhöht!"
+    },
+    {
+      "id": "msg_0404_00175",
+      "de_DE": "Anmut wurde erhöht!"
+    },
+    {
+      "id": "msg_0404_00176",
+      "de_DE": "Klugheit wurde erhöht!"
+    },
+    {
+      "id": "msg_0404_00177",
+      "de_DE": "Keine Veränderung eingetreten!"
+    },
+    {
+      "id": "msg_0404_00178",
+      "de_DE": "Es will nicht mehr essen..."
+    },
+    {
+      "id": "msg_0404_00179",
+      "de_DE": "BÄNDER"
+    },
+    {
+      "id": "msg_0404_00180",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0404_00181",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0404_00182",
+      "de_DE": "Anzahl d. Bänder:"
+    },
+    {
+      "id": "msg_0404_00183",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00184",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0404_00185",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0404_00186",
+      "de_DE": "{STRVAR_1 52, 0}"
+    }
+  ]
+}

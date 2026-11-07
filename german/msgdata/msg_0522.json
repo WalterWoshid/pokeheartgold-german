@@ -1,0 +1,191 @@
+{
+  "key": 46119,
+  "messages": [
+    {
+      "id": "msg_0522_00000",
+      "de_DE": [
+        "Die Pokémon Liga stellt dich auf eine\n",
+        "harte Probe: Entweder du schaffst es,\f",
+        "die Top Vier am Stück zu besiegen, oder\f",
+        "du musst noch mal von vorne anfangen!"
+      ]
+    },
+    {
+      "id": "msg_0522_00001",
+      "de_DE": [
+        "Trainer, die es bis hierhin schaffen und\n",
+        "in letzter Minute doch noch kneifen,\f",
+        "kann mein ABRA mithilfe von Teleport\f",
+        "sofort zurück nach Hause bringen.\r",
+        "Aber...\n",
+        "In letzter Zeit dampfen sie alle völlig\f",
+        "eigenhändig wieder ab, einfach so!\f",
+        "Das stimmt bestimmt nicht nur mich,\f",
+        "sondern auch ABRA sehr traurig..."
+      ]
+    },
+    {
+      "id": "msg_0522_00002",
+      "de_DE": "ABRA: Abra..."
+    },
+    {
+      "id": "msg_0522_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Moment noch!\r",
+        "Hast du vor, es jetzt gleich mit der\n",
+        "Pokémon Liga aufzunehmen?\f",
+        "Ich will ja nichts sagen aber...\f",
+        "Damit lasse ich dich nicht durchkommen!\r",
+        "Denn meine Pokémon sind inzwischen\n",
+        "so stark geworden, dass du sie kaum\f",
+        "wiedererkennen wirst! Dieses Mal\f",
+        "werden sie dich ganz sicher besiegen!\r",
+        "Und zwar jetzt! Auf der Stelle!\n",
+        "Los, lass uns kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0522_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Grrr... Ich konnte dich\n",
+        "also immer noch nicht besiegen.\r",
+        "Ich muss...\n",
+        "Ich muss wohl noch mehr Vertrauen\f",
+        "für meine Pokémon aufbringen...\r",
+        "Vielleicht ist das ja mein Problem.\n",
+        "...Aber wie dem auch sei! Es tut mir\f",
+        "leid, dass ich dich aufgehalten habe!\r",
+        "Wenn du den Champ herausfordern\n",
+        "möchtest, dann vergiss nicht, deine\f",
+        "Pokémon vorher fit zu machen!\r"
+      ]
+    },
+    {
+      "id": "msg_0522_00005",
+      "de_DE": [
+        "Direkt hinter diesem Eingang warten\n",
+        "die Top Vier auf dich!\r",
+        "Sie sind unglaublich stark!\n",
+        "Wenn du hier erst mal durchgehst,\f",
+        "gibt es kein Zurück mehr.\f",
+        "Bist du bereit?\f",
+        "Nimm deinen Mut zusammen und\f",
+        "wage den Sprung ins kalte Wasser!\r"
+      ]
+    },
+    {
+      "id": "msg_0522_00006",
+      "de_DE": [
+        "Direkt hinter diesem Eingang warten\n",
+        "die Top Vier auf dich!\r",
+        "Sie sind unglaublich stark!\n",
+        "Wenn du hier erst mal durchgehst,\f",
+        "gibt es kein Zurück mehr.\f",
+        "Bist du bereit?\f",
+        "Nimm deinen Mut zusammen und\f",
+        "wage den Sprung ins kalte Wasser!"
+      ]
+    },
+    {
+      "id": "msg_0522_00007",
+      "de_DE": [
+        "Welche Rangliste möchtest du\n",
+        "dir ansehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0522_00008",
+      "de_DE": "Gruppenrangliste"
+    },
+    {
+      "id": "msg_0522_00009",
+      "de_DE": "Weltweite Rangliste"
+    },
+    {
+      "id": "msg_0522_00010",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0522_00011",
+      "de_DE": [
+        "Welche Art von Rangliste möchtest\n",
+        "du sehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0522_00012",
+      "de_DE": "Pokémon-Rekorde"
+    },
+    {
+      "id": "msg_0522_00013",
+      "de_DE": "Duellturm-Rekorde"
+    },
+    {
+      "id": "msg_0522_00014",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0522_00015",
+      "de_DE": [
+        "Welchen Rekord möchtest\n",
+        "du sehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0522_00016",
+      "de_DE": [
+        "BESIEGTE\n",
+        "POKéMON"
+      ]
+    },
+    {
+      "id": "msg_0522_00017",
+      "de_DE": [
+        "GEFANGENE\n",
+        "POKéMON"
+      ]
+    },
+    {
+      "id": "msg_0522_00018",
+      "de_DE": "POKéMON-EIER"
+    },
+    {
+      "id": "msg_0522_00019",
+      "de_DE": "GEANGELT"
+    },
+    {
+      "id": "msg_0522_00020",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0522_00021",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0522_00022",
+      "de_DE": "MULTIKAMPF"
+    },
+    {
+      "id": "msg_0522_00023",
+      "de_DE": [
+        "LINK-\n",
+        "MULTIKAMPF"
+      ]
+    },
+    {
+      "id": "msg_0522_00024",
+      "de_DE": "Wi-Fi KAMPF"
+    },
+    {
+      "id": "msg_0522_00025",
+      "de_DE": [
+        "DURCHSCHN.\n",
+        "SIEGSERIE"
+      ]
+    },
+    {
+      "id": "msg_0522_00026",
+      "de_DE": "ZURÜCK"
+    }
+  ]
+}

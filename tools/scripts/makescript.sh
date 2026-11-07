@@ -55,9 +55,9 @@ for file in "${FILES[@]}" ; do
     script_obj="$OUTDIR/$script_noext".o
     script_dep="$OUTDIR/$script_noext".d
     
-    $AS -g -E -x assembler-with-cpp "${INCLUDES[@]}" "$file"  -DSDK_ASM -DPM_ASM -DSDK_ARM9 -DSDK_CODE_ARM -DSDK_FINALROM -DPM_KEEP_ASSERTS \
-        | $AS -x assembler-with-cpp -o "$script_obj" -c - -DSDK_ASM -DPM_ASM -DSDK_ARM9 -DSDK_CODE_ARM -DSDK_FINALROM -DPM_KEEP_ASSERTS
-    $OBJ_COPY -O binary --file-alignment 4 "$script_obj" "$script_bin"
-    $LD "$script_obj" -o "$script_obj.dummy"
+    "$AS" -g -E -x assembler-with-cpp "${INCLUDES[@]}" "$file"  -DSDK_ASM -DPM_ASM -DSDK_ARM9 -DSDK_CODE_ARM -DSDK_FINALROM -DPM_KEEP_ASSERTS \
+        | "$AS" -x assembler-with-cpp -o "$script_obj" -c - -DSDK_ASM -DPM_ASM -DSDK_ARM9 -DSDK_CODE_ARM -DSDK_FINALROM -DPM_KEEP_ASSERTS
+    "$OBJ_COPY" -O binary --file-alignment 4 "$script_obj" "$script_bin"
+    "$LD" "$script_obj" -o "$script_obj.dummy"
     rm "$script_obj" "$script_obj.dummy"
 done

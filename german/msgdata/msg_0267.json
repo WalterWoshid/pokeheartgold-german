@@ -1,0 +1,262 @@
+{
+  "key": 1593,
+  "messages": [
+    {
+      "id": "msg_0267_00000",
+      "de_DE": [
+        "Oh, hallo!\n",
+        "Hier entlang, bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0267_00001",
+      "de_DE": [
+        "Hallo und willkommen.\n",
+        "Schön, dich zu sehen.\r",
+        "Mein Name ist Teala. Ich geleite dich\n",
+        "durch den Pokémon Wi-Fi-Klub.\r",
+        "Zuerst darf ich dir das hier geben.\r"
+      ]
+    },
+    {
+      "id": "msg_0267_00002",
+      "de_DE": [
+        "Das ist dein Adressbuch. Damit kannst\n",
+        "du deine Freunde registrieren.\r",
+        "Erst dann kannst du mit ihnen über die\n",
+        "Nintendo WFC Kontakt aufnehmen.\r",
+        "Dann könnt ihr tauschen, kämpfen und\n",
+        "vieles mehr.\r",
+        "Möchtest du mehr darüber wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00003",
+      "de_DE": [
+        "Im ersten Stock eines Pokémon-Centers\n",
+        "triffst du Leute, die tauschen oder im\f",
+        "Kolosseum kämpfen möchten.\r",
+        "Diese Leute kannst du als Freunde in\n",
+        "deinem Adressbuch registrieren.\r",
+        "Außerdem kannst du manuell Freunde\n",
+        "registrieren, indem du ihren Freundes-\f",
+        "code in dein Adressbuch eingibst.\r",
+        "Soll ich das noch mal wiederholen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00004",
+      "de_DE": [
+        "Viel Spaß mit der Nintendo Wi-Fi\n",
+        "Connection!"
+      ]
+    },
+    {
+      "id": "msg_0267_00005",
+      "de_DE": [
+        "Willkommen im Pokémon Wi-Fi-Klub!\n",
+        "Kann ich dir helfen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00006",
+      "de_DE": [
+        "Lass mich kurz erklären, wie der\n",
+        "Pokémon Wi-Fi-Klub funktioniert.\r",
+        "Am mittleren Schalter kannst du die\n",
+        "Nintendo Wi-Fi Connection nutzen.\r",
+        "Dadurch kannst du mit Freunden,\n",
+        "die du in deinem Adressbuch\f",
+        "registriert hast, nach Belieben\f",
+        "tauschen und kämpfen. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00007",
+      "de_DE": [
+        "Willkommen im Pokémon Wi-Fi-Klub!\r",
+        "Möchtest du die\n",
+        "Nintendo WFC nutzen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00008",
+      "de_DE": "Bitte besuche uns wieder!"
+    },
+    {
+      "id": "msg_0267_00009",
+      "de_DE": [
+        "Möchtest du eine Verbindung zur\n",
+        "Nintendo WFC herstellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00010",
+      "de_DE": "Komm bitte hier entlang.\r"
+    },
+    {
+      "id": "msg_0267_00011",
+      "de_DE": [
+        "...Oh?\r",
+        "Es tut mir leid, aber in deinem Adress-\n",
+        "buch sind keine Freunde registriert.\r",
+        "Der Wi-Fi-Klub kann ohne registrierte\n",
+        "Freunde nicht verwendet werden.\r",
+        "Möchtest du zumindest deinen\n",
+        "Freundescode abrufen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00012",
+      "de_DE": [
+        "...Oh?\r",
+        "Es tut mir leid, aber in deinem\n",
+        "Adressbuch sind keine Freunde\f",
+        "registriert.\r",
+        "Der Wi-Fi-Klub kann ohne registrierte\n",
+        "Freunde nicht verwendet werden.\r",
+        "Bitte registriere Freunde in deinem\n",
+        "Adressbuch und komm dann wieder."
+      ]
+    },
+    {
+      "id": "msg_0267_00013",
+      "de_DE": [
+        "In jedem Wi-Fi-Klub kannst du via\n",
+        "Nintendo Wi-Fi Connection spielen.\r",
+        "Du kannst dabei mit deinen Freunden,\n",
+        "die in deinem Adressbuch registriert\f",
+        "sind, tauschen oder kämpfen.\r",
+        "Es gibt zwei Arten von Kämpfen:\n",
+        "Einzel oder Doppel.\r",
+        "Für jede davon kannst du aus drei\n",
+        "Level-Begrenzungen wählen: Offen,\f",
+        "Level 50 oder Level 100.\r",
+        "Wählst du Level 50 oder Level 100, so\n",
+        "werden die teilnehmenden Pokémon\f",
+        "temporär auf diese Level gesetzt.\r",
+        "Möchtest du die Nintendo Wi-Fi\n",
+        "Connection verwenden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00014",
+      "de_DE": "ZUM Wi-Fi-KLUB GEHEN"
+    },
+    {
+      "id": "msg_0267_00015",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0267_00016",
+      "de_DE": "BEENDEN"
+    },
+    {
+      "id": "msg_0267_00017",
+      "de_DE": [
+        "Wir sind wirklich untröstlich...\n",
+        "Bitte komm wieder, wenn du\f",
+        "aus Team Rocket ausgetreten bist."
+      ]
+    },
+    {
+      "id": "msg_0267_00018",
+      "de_DE": [
+        "Hallo, du kannst unseren Pokémon-\n",
+        "Center Wi-Fi Plaza von hier betreten.\r",
+        "Möchtest du die Nintendo Wi-Fi\n",
+        "Connection verwenden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00019",
+      "de_DE": [
+        "Verbindung zur\n",
+        "Nintendo WFC herstellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00020",
+      "de_DE": "Hier hinein, bitte.\r"
+    },
+    {
+      "id": "msg_0267_00021",
+      "de_DE": "Bitte besuche uns bald wieder."
+    },
+    {
+      "id": "msg_0267_00022",
+      "de_DE": [
+        "Der Wi-Fi Plaza ist eine Einrichtung,\n",
+        "in der du Trainer aus aller Welt\f",
+        "treffen kannst.\r",
+        "Du kannst an Unterhaltungen teilnehmen\n",
+        "und Plaza-Spiele spielen.\r",
+        "Ferner kannst du mit Wi-Fi Plaza-\n",
+        "exklusivem Spielzeug spielen.\r",
+        "Beachte bitte, dass die Wi-Fi Plaza-\n",
+        "Verbindung einem Zeitlimit unterliegt.\r",
+        "Nach einer bestimmten Zeit wird deine\n",
+        "Verbindung getrennt.\r",
+        "Wir hoffen, dass du das Beste aus dei-\n",
+        "nen Plaza-Besuchen herausholst!\r",
+        "Möchtest du die Nintendo Wi-Fi\n",
+        "Connection verwenden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0267_00023",
+      "de_DE": "ZUM Wi-Fi PLAZA GEHEN"
+    },
+    {
+      "id": "msg_0267_00024",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0267_00025",
+      "de_DE": "BEENDEN"
+    },
+    {
+      "id": "msg_0267_00026",
+      "de_DE": [
+        "Entschuldigung, die Vorbereitungen\n",
+        "laufen. Bitte komm später wieder."
+      ]
+    },
+    {
+      "id": "msg_0267_00027",
+      "de_DE": [
+        "Wir sind wirklich untröstlich...\n",
+        "Aber alle, die Schwarz tragen,\f",
+        "Böses im Schilde führen\f",
+        "oder Mitglied bei Team Rocket sind...\r",
+        "Solche Leute dürfen hier\n",
+        "nicht eintreten."
+      ]
+    },
+    {
+      "id": "msg_0267_00028",
+      "de_DE": [
+        "Wir sind wirklich untröstlich...\r",
+        "Aber Professor Lind aus Neuborkia\n",
+        "hat uns eine Nachricht geschickt,\f",
+        "dass wir das Strubbelohr-PICHU\f",
+        "hier nicht durchlassen dürfen.\r",
+        "Bitte lass es doch so lange in deiner\n",
+        "PC-Box und komme danach wieder."
+      ]
+    },
+    {
+      "id": "msg_0267_00029",
+      "de_DE": [
+        "Wir sind wirklich untröstlich...\r",
+        "Aber das Strubbelohr-PICHU,\n",
+        "das dich da begleitet... nun...\f",
+        "Diese Art ist nicht in der Datenbank\f",
+        "des Pokémon-Centers verzeichnet\f",
+        "und kann daher auch nicht teilnehmen.\r",
+        "Bitte lass es doch so lange in deiner\n",
+        "PC-Box und komme danach wieder."
+      ]
+    }
+  ]
+}

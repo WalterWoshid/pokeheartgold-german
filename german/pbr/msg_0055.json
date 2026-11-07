@@ -1,0 +1,70 @@
+{
+  "key": 62482,
+  "messages": [
+    {
+      "id": "msg_0055_00000",
+      "de_DE": [
+        "Äh...\n",
+        "Was, meintest du, bin ich?\r",
+        "...\n",
+        "...\r",
+        "Ach ja! Jetzt weiß ich es wieder!\n",
+        "Ich bin der Attacken-Verlerner!\r"
+      ]
+    },
+    {
+      "id": "msg_0055_00001",
+      "de_DE": [
+        "Soll ich dafür sorgen, dass eines\n",
+        "deiner Pokémon eine Attacke vergisst?"
+      ]
+    },
+    {
+      "id": "msg_0055_00002",
+      "de_DE": [
+        "Welches Pokémon soll eine Attacke\n",
+        "vergessen?\r"
+      ]
+    },
+    {
+      "id": "msg_0055_00003",
+      "de_DE": [
+        "Komm wieder, wenn es andere Attacken\n",
+        "gibt, die vergessen werden sollen."
+      ]
+    },
+    {
+      "id": "msg_0055_00004",
+      "de_DE": [
+        "Dieses Pokémon kennt nur eine Attacke,\n",
+        "daher kann es keine vergessen...\r"
+      ]
+    },
+    {
+      "id": "msg_0055_00005",
+      "de_DE": [
+        "Was?\n",
+        "Ein Ei kennt doch keine Attacken!\r"
+      ]
+    },
+    {
+      "id": "msg_0055_00006",
+      "de_DE": "Welche Attacke soll vergessen werden?\r"
+    },
+    {
+      "id": "msg_0055_00007",
+      "de_DE": [
+        "Hm! {STRVAR_1 6, 0}?\n",
+        "Diese Attacke soll vergessen werden?"
+      ]
+    },
+    {
+      "id": "msg_0055_00008",
+      "de_DE": [
+        "Das klappte doch perfekt!\r",
+        "Dein Pokémon hat {STRVAR_1 6, 0}\n",
+        "komplett vergessen."
+      ]
+    }
+  ]
+}

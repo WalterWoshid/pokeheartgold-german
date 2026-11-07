@@ -3,7 +3,11 @@ build_dir = meson.current_build_dir()
 ############################################################
 ###                    PMS_AIKOTOBA                      ###
 ############################################################
-pms_aikotoba_asm = files('pms_aikotoba.s')
+if game_language == 'GERMAN'
+    pms_aikotoba_asm = files(meson.project_source_root() / 'german/files/resource/eng/pms_aikotoba/pms_aikotoba.s')
+else
+    pms_aikotoba_asm = files('pms_aikotoba.s')
+endif
 
 pms_aikotoba_gen = generator(makescript_mw_sh,
     arguments : [

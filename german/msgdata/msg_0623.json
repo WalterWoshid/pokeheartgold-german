@@ -1,0 +1,44 @@
+{
+  "key": 63983,
+  "messages": [
+    {
+      "id": "msg_0623_00000",
+      "de_DE": [
+        "Norbert ist ein Veteran, der seine\n",
+        "Pokémon nun schon seit fast\f",
+        "50 Jahren trainiert.\r",
+        "Wie du siehst, ist seine Arena außerdem\n",
+        "von einer dicken Eisschicht umgeben!\r",
+        "Aber in dieser eisigen Umgebung\n",
+        "schlottern Norberts Gegnern die Knie\f",
+        "nicht nur aufgrund der Kälte!\r",
+        "Bist du bereit für die Eiszeit?\r",
+        "Heize ihm mit der brennenden Glut\n",
+        "deines Ehrgeizes mal so richtig ein!"
+      ]
+    },
+    {
+      "id": "msg_0623_00001",
+      "de_DE": [
+        "Norbert ist wirklich sehr talentiert,\n",
+        "aber du bist noch viel besser!\r",
+        "Mit diesem heißen Kampf gerade hast\n",
+        "du die Kluft zwischen den Generationen\f",
+        "überwunden!"
+      ]
+    },
+    {
+      "id": "msg_0623_00002",
+      "de_DE": "Pokémon-Arena von Mahagonia City"
+    },
+    {
+      "id": "msg_0623_00003",
+      "de_DE": [
+        "Pokémon-Arena von Mahagonia City\r",
+        "Leiter: Norbert\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

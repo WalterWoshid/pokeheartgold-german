@@ -1,0 +1,126 @@
+{
+  "key": 3857,
+  "messages": [
+    {
+      "id": "msg_0557_00000",
+      "de_DE": [
+        "Selbst ein schwaches Pokémon wird mit\n",
+        "dem richtigen Training mal stark!\r",
+        "Wichtig ist, dass du jedem Pokémon viel\n",
+        "Zuneigung gibst!"
+      ]
+    },
+    {
+      "id": "msg_0557_00001",
+      "de_DE": [
+        "Du kannst Pokémon auch Items wie\n",
+        "Trank oder Gegengift geben.\f",
+        "Aber offenbar wissen sie mit künstlich\f",
+        "hergestellten Items nichts anzufangen."
+      ]
+    },
+    {
+      "id": "msg_0557_00002",
+      "de_DE": [
+        "Lange nicht gesehen, {STRVAR_1 3, 0, 0}!\n",
+        "Professor Lind hat mich darum\f",
+        "gebeten, hier auf dich zu warten.\r",
+        "Er hat eine Bitte an dich...\r",
+        "Und zwar hätte er gerne, dass du\n",
+        "dieses Pokémon-Ei trainierst! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0557_00003",
+      "de_DE": [
+        "Lange nicht gesehen, {STRVAR_1 3, 0, 0}!\n",
+        "Professor Lind hat mich darum\f",
+        "gebeten, hier auf dich zu warten.\r",
+        "Er hat eine Bitte an dich...\r",
+        "Und zwar hätte er gerne, dass du\n",
+        "dieses Pokémon-Ei trainierst! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0557_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Ei."
+      ]
+    },
+    {
+      "id": "msg_0557_00005",
+      "de_DE": [
+        "Nachdem du weg warst, erhielt der\n",
+        "Professor von jemandem einen Anruf.\r",
+        "Das Gespräch war bereits eine ganze\n",
+        "Weile im Gang, als Professor Lind\f",
+        "plötzlich laut durch das Labor rief:\r",
+        "“Dann ist {STRVAR_1 3, 0, 0} genau\n",
+        "der Richtige für uns!”\r",
+        "Danach bat er mich, dir dieses Ei\n",
+        "zu überreichen. Tja, und hier bin ich!\r",
+        "Es heißt, Pokémon schlüpfen erst dann\n",
+        "aus ihrem Ei, wenn sie eine Weile an\f",
+        "der Seite von munteren Pokémon\f",
+        "verbracht haben.\r",
+        "Und genau deshalb denke ich auch, dass\n",
+        "du das Ei haben solltest, {STRVAR_1 3, 0, 0}!\r",
+        "Pass gut darauf auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0557_00006",
+      "de_DE": [
+        "Nachdem du weg warst, erhielt der\n",
+        "Professor von jemandem einen Anruf.\r",
+        "Das Gespräch war bereits eine ganze\n",
+        "Weile im Gang, als Professor Lind\f",
+        "plötzlich laut durch das Labor rief:\r",
+        "“Dann ist {STRVAR_1 3, 0, 0} genau\n",
+        "die Richtige für uns!”\r",
+        "Danach bat er mich, dir dieses Ei\n",
+        "zu überreichen. Tja, und hier bin ich!\r",
+        "Es heißt, Pokémon schlüpfen erst dann\n",
+        "aus ihrem Ei, wenn sie eine Weile an\f",
+        "der Seite von munteren Pokémon\f",
+        "verbracht haben.\r",
+        "Und genau deshalb denke ich auch, dass\n",
+        "du das Ei haben solltest, {STRVAR_1 3, 0, 0}!\r",
+        "Pass gut darauf auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0557_00007",
+      "de_DE": [
+        "Dein Team ist bereits voll. Du kannst\n",
+        "keine weiteren Pokémon mehr aufnehmen.\f",
+        "Aber ich werde hier auf dich warten!"
+      ]
+    },
+    {
+      "id": "msg_0557_00008",
+      "de_DE": [
+        "Was sagst du da? Du kannst doch\n",
+        "jetzt nicht einfach ablehnen!\r",
+        "Soll das etwa ein Witz sein?\n",
+        "Weißt du eigentlich, wie ernst der\f",
+        "Professor es mit seiner Bitte meint?"
+      ]
+    },
+    {
+      "id": "msg_0557_00009",
+      "de_DE": [
+        "Also, was sagst du, {STRVAR_1 3, 0, 0}?\n",
+        "Nimmst du das Ei mit? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0557_00010",
+      "de_DE": [
+        "Also, was sagst du, {STRVAR_1 3, 0, 0}?\n",
+        "Nimmst du das Ei mit? {YESNO 0}"
+      ]
+    }
+  ]
+}

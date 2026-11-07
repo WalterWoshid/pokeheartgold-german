@@ -1,0 +1,2318 @@
+{
+  "key": 20529,
+  "messages": [
+    {
+      "id": "msg_0191_00000",
+      "de_DE": "GIF"
+    },
+    {
+      "id": "msg_0191_00001",
+      "de_DE": "PAR"
+    },
+    {
+      "id": "msg_0191_00002",
+      "de_DE": "SLF"
+    },
+    {
+      "id": "msg_0191_00003",
+      "de_DE": "BRT"
+    },
+    {
+      "id": "msg_0191_00004",
+      "de_DE": "GFR"
+    },
+    {
+      "id": "msg_0191_00005",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0191_00006",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0191_00007",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0191_00008",
+      "de_DE": "MISCHKAMPF"
+    },
+    {
+      "id": "msg_0191_00009",
+      "de_DE": "MULTIKAMPF"
+    },
+    {
+      "id": "msg_0191_00010",
+      "de_DE": "HANDICAPKAMPF"
+    },
+    {
+      "id": "msg_0191_00011",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0191_00012",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00013",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00014",
+      "de_DE": "MITSPIELER"
+    },
+    {
+      "id": "msg_0191_00015",
+      "de_DE": "LEITER WERDEN"
+    },
+    {
+      "id": "msg_0191_00016",
+      "de_DE": "Momentan im"
+    },
+    {
+      "id": "msg_0191_00017",
+      "de_DE": "{STRVAR_1 50, 0, 0}"
+    },
+    {
+      "id": "msg_0191_00018",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00019",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00020",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00021",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00022",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00023",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0191_00024",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00025",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00026",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00027",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00028",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00029",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00030",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00031",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00032",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00033",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00034",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00035",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00036",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00037",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00038",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00039",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00040",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0191_00041",
+      "de_DE": "REGELN"
+    },
+    {
+      "id": "msg_0191_00042",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0191_00043",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0191_00044",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0191_00045",
+      "de_DE": "ABBRUCH"
+    },
+    {
+      "id": "msg_0191_00046",
+      "de_DE": "{ALN_CENTER}Ja"
+    },
+    {
+      "id": "msg_0191_00047",
+      "de_DE": "{ALN_CENTER}Nein"
+    },
+    {
+      "id": "msg_0191_00048",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00049",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00050",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00051",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00052",
+      "de_DE": "KAMPF"
+    },
+    {
+      "id": "msg_0191_00053",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0191_00054",
+      "de_DE": "{STRVAR_1 3, 1, 0}"
+    },
+    {
+      "id": "msg_0191_00055",
+      "de_DE": "{STRVAR_1 3, 2, 0}"
+    },
+    {
+      "id": "msg_0191_00056",
+      "de_DE": "{STRVAR_1 3, 3, 0}"
+    },
+    {
+      "id": "msg_0191_00057",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00058",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00059",
+      "de_DE": "ZEICHNEN"
+    },
+    {
+      "id": "msg_0191_00060",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0191_00061",
+      "de_DE": "JEMANDES PC"
+    },
+    {
+      "id": "msg_0191_00062",
+      "de_DE": "Bills PC"
+    },
+    {
+      "id": "msg_0191_00063",
+      "de_DE": "PC von {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0191_00064",
+      "de_DE": "RUHMESHALLE"
+    },
+    {
+      "id": "msg_0191_00065",
+      "de_DE": "FOTOALBUM"
+    },
+    {
+      "id": "msg_0191_00066",
+      "de_DE": "AUSLOGGEN"
+    },
+    {
+      "id": "msg_0191_00067",
+      "de_DE": [
+        "POKéMON\n",
+        "ABLEGEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00068",
+      "de_DE": [
+        "POKéMON\n",
+        "NEHMEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00069",
+      "de_DE": [
+        "POKéMON\n",
+        "BEWEGEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00070",
+      "de_DE": [
+        "ITEMS\n",
+        "BEWEGEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00071",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00072",
+      "de_DE": "TSCHÜSSI!"
+    },
+    {
+      "id": "msg_0191_00073",
+      "de_DE": "BRIEFBOX"
+    },
+    {
+      "id": "msg_0191_00074",
+      "de_DE": "BALLKAPSEL"
+    },
+    {
+      "id": "msg_0191_00075",
+      "de_DE": "AUSLOGGEN"
+    },
+    {
+      "id": "msg_0191_00076",
+      "de_DE": [
+        "Lagere Pokémon aus deinem\n",
+        "Team in einer Box."
+      ]
+    },
+    {
+      "id": "msg_0191_00077",
+      "de_DE": [
+        "Nimm Pokémon aus einer\n",
+        "Box in dein Team auf."
+      ]
+    },
+    {
+      "id": "msg_0191_00078",
+      "de_DE": [
+        "Ordne Pokémon in den Boxen\n",
+        "und/oder in deinem Team."
+      ]
+    },
+    {
+      "id": "msg_0191_00079",
+      "de_DE": [
+        "Items, gehalten von Pokémon in Team\n",
+        "oder Box, bewegen."
+      ]
+    },
+    {
+      "id": "msg_0191_00080",
+      "garbage": 34
+    },
+    {
+      "id": "msg_0191_00081",
+      "de_DE": [
+        "Das Pokémon-Lagerungssystem\n",
+        "verlassen."
+      ]
+    },
+    {
+      "id": "msg_0191_00082",
+      "de_DE": [
+        "Bis zu 20 Briefe können hier\n",
+        "gelagert werden."
+      ]
+    },
+    {
+      "id": "msg_0191_00083",
+      "de_DE": [
+        "Du kannst Kapseln bearbeiten, mit\n",
+        "denen du Pokébälle dekorieren kannst."
+      ]
+    },
+    {
+      "id": "msg_0191_00084",
+      "de_DE": "Ausloggen aus deinem PC."
+    },
+    {
+      "id": "msg_0191_00085",
+      "de_DE": [
+        "Erinnerungsfotos ansehen,\n",
+        "die du aufgenommen hast."
+      ]
+    },
+    {
+      "id": "msg_0191_00086",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00087",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00088",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00089",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00090",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00091",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00092",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00093",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00094",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00095",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0191_00096",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00097",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00098",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00099",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00100",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00101",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00102",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00103",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00104",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00105",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00106",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00107",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00108",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00109",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00110",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00111",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00112",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00113",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00114",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00115",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00116",
+      "de_DE": "EG"
+    },
+    {
+      "id": "msg_0191_00117",
+      "de_DE": "1S"
+    },
+    {
+      "id": "msg_0191_00118",
+      "de_DE": "2S"
+    },
+    {
+      "id": "msg_0191_00119",
+      "de_DE": "3S"
+    },
+    {
+      "id": "msg_0191_00120",
+      "de_DE": "4S"
+    },
+    {
+      "id": "msg_0191_00121",
+      "de_DE": "5S"
+    },
+    {
+      "id": "msg_0191_00122",
+      "de_DE": "UG"
+    },
+    {
+      "id": "msg_0191_00123",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00124",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00125",
+      "de_DE": "DACHGESCHOSS"
+    },
+    {
+      "id": "msg_0191_00126",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00127",
+      "de_DE": "50 MZ.{CURSOR_X 60}1.000 $"
+    },
+    {
+      "id": "msg_0191_00128",
+      "de_DE": "500 MZ.{CURSOR_X 60}10.000 $"
+    },
+    {
+      "id": "msg_0191_00129",
+      "de_DE": "NEIN, DANKE"
+    },
+    {
+      "id": "msg_0191_00130",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0191_00131",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0191_00132",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00133",
+      "de_DE": "POKéMON ANBIETEN?"
+    },
+    {
+      "id": "msg_0191_00134",
+      "de_DE": "POKéMON SUCHEN?"
+    },
+    {
+      "id": "msg_0191_00135",
+      "de_DE": "VERSTANDEN!"
+    },
+    {
+      "id": "msg_0191_00136",
+      "de_DE": "{STRVAR_1 0, 0, 0} {STRVAR_1 2, 2, 0}{CURSOR_X 90}Lv. {STRVAR_1 52, 1, 0}"
+    },
+    {
+      "id": "msg_0191_00137",
+      "de_DE": "{STRVAR_1 0, 0, 0} {STRVAR_1 2, 2, 0}{CURSOR_X 90}Lv. {STRVAR_1 52, 1, 0}"
+    },
+    {
+      "id": "msg_0191_00138",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00139",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00140",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00141",
+      "de_DE": "REIHUMTAUSCH"
+    },
+    {
+      "id": "msg_0191_00142",
+      "de_DE": "STATISTIK"
+    },
+    {
+      "id": "msg_0191_00143",
+      "de_DE": "HERAUSFORDERN"
+    },
+    {
+      "id": "msg_0191_00144",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0191_00145",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00146",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00147",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00148",
+      "de_DE": "WEITER"
+    },
+    {
+      "id": "msg_0191_00149",
+      "de_DE": "AUSRUHEN"
+    },
+    {
+      "id": "msg_0191_00150",
+      "de_DE": "SCHLUSS"
+    },
+    {
+      "id": "msg_0191_00151",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00152",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00153",
+      "de_DE": "LEITER PRÜFEN"
+    },
+    {
+      "id": "msg_0191_00154",
+      "de_DE": [
+        "VORHERG.\n",
+        "RAUM HERAUSF."
+      ]
+    },
+    {
+      "id": "msg_0191_00155",
+      "de_DE": "TOP TRAINER PRÜFEN"
+    },
+    {
+      "id": "msg_0191_00156",
+      "de_DE": "FREUNDE REGISTRIEREN?"
+    },
+    {
+      "id": "msg_0191_00157",
+      "de_DE": "VERSTANDEN!"
+    },
+    {
+      "id": "msg_0191_00158",
+      "de_DE": "JA, BITTE!"
+    },
+    {
+      "id": "msg_0191_00159",
+      "de_DE": "ALTBERNSTEIN"
+    },
+    {
+      "id": "msg_0191_00160",
+      "de_DE": "HELIXFOSSIL"
+    },
+    {
+      "id": "msg_0191_00161",
+      "de_DE": "DOMFOSSIL"
+    },
+    {
+      "id": "msg_0191_00162",
+      "de_DE": "WURZELFOSSIL"
+    },
+    {
+      "id": "msg_0191_00163",
+      "de_DE": "KLAUENFOSSIL"
+    },
+    {
+      "id": "msg_0191_00164",
+      "de_DE": "PANZERFOSSIL"
+    },
+    {
+      "id": "msg_0191_00165",
+      "de_DE": "KOPFFOSSIL"
+    },
+    {
+      "id": "msg_0191_00166",
+      "de_DE": "ZWEIKAMPF"
+    },
+    {
+      "id": "msg_0191_00167",
+      "de_DE": "KAMPF FÜR VIER"
+    },
+    {
+      "id": "msg_0191_00168",
+      "de_DE": "EMPFANG"
+    },
+    {
+      "id": "msg_0191_00169",
+      "de_DE": "UNTERHALTEN"
+    },
+    {
+      "id": "msg_0191_00170",
+      "de_DE": "CHAT"
+    },
+    {
+      "id": "msg_0191_00171",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0191_00172",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0191_00173",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0191_00174",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0191_00175",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0191_00176",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00177",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00178",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00179",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00180",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00181",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00182",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00183",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00184",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00185",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00186",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00187",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00188",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0191_00189",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00190",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00191",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00192",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00193",
+      "de_DE": "{STRVAR_1 54, 0, 0} Münzen"
+    },
+    {
+      "id": "msg_0191_00194",
+      "de_DE": "GRUNDREGELN"
+    },
+    {
+      "id": "msg_0191_00195",
+      "de_DE": "FANGSHOW"
+    },
+    {
+      "id": "msg_0191_00196",
+      "de_DE": "POKéMON-DEPOT"
+    },
+    {
+      "id": "msg_0191_00197",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00198",
+      "de_DE": "VERSTANDEN!"
+    },
+    {
+      "id": "msg_0191_00199",
+      "de_DE": "EINTRAGEN"
+    },
+    {
+      "id": "msg_0191_00200",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0191_00201",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00202",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00203",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0191_00204",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00205",
+      "de_DE": "PURPURSTÜCK"
+    },
+    {
+      "id": "msg_0191_00206",
+      "de_DE": "INDIGOSTÜCK"
+    },
+    {
+      "id": "msg_0191_00207",
+      "de_DE": "GELBSTÜCK"
+    },
+    {
+      "id": "msg_0191_00208",
+      "de_DE": "GRÜNSTÜCK"
+    },
+    {
+      "id": "msg_0191_00209",
+      "de_DE": "Tafelwasser{CURSOR_X 80}200 $"
+    },
+    {
+      "id": "msg_0191_00210",
+      "de_DE": "Sprudel{CURSOR_X 80}300 $"
+    },
+    {
+      "id": "msg_0191_00211",
+      "de_DE": "Limonade{CURSOR_X 80}350 $"
+    },
+    {
+      "id": "msg_0191_00212",
+      "de_DE": "NEIN, DANKE"
+    },
+    {
+      "id": "msg_0191_00213",
+      "de_DE": [
+        "Wachsmulch{CURSOR_X 90}\n",
+        "200 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00214",
+      "de_DE": [
+        "Feuchtmulch{CURSOR_X 90}\n",
+        "200 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00215",
+      "de_DE": [
+        "Stabilmulch{CURSOR_X 90}\n",
+        "200 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00216",
+      "de_DE": [
+        "Neumulch{CURSOR_X 90}\n",
+        "200 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00217",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00218",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00219",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00220",
+      "de_DE": "{STRVAR_1 53, 0, 0} GP"
+    },
+    {
+      "id": "msg_0191_00221",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0191_00222",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0191_00223",
+      "de_DE": "{STRVAR_1 54, 0, 0}P"
+    },
+    {
+      "id": "msg_0191_00224",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00225",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00226",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00227",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00228",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00229",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00230",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00231",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00232",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00233",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00234",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00235",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00236",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00237",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00238",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00239",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0191_00240",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00241",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00242",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00243",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00244",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00245",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0191_00246",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00247",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00248",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00249",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00250",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00251",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00252",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00253",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00254",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00255",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00256",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00257",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00258",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00259",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0191_00260",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0191_00261",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00262",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00263",
+      "de_DE": "AUFZEICHNEN"
+    },
+    {
+      "id": "msg_0191_00264",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00265",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00266",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00267",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00268",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0191_00269",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00270",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00271",
+      "de_DE": "TEILNEHMEN"
+    },
+    {
+      "id": "msg_0191_00272",
+      "de_DE": "POKéATHLON?"
+    },
+    {
+      "id": "msg_0191_00273",
+      "de_DE": "TEMPO-TURNIER"
+    },
+    {
+      "id": "msg_0191_00274",
+      "de_DE": "KRAFT-TURNIER"
+    },
+    {
+      "id": "msg_0191_00275",
+      "de_DE": [
+        "AUSDAUER-\n",
+        "TURNIER"
+      ]
+    },
+    {
+      "id": "msg_0191_00276",
+      "de_DE": [
+        "SPRUNG-\n",
+        "TURNIER"
+      ]
+    },
+    {
+      "id": "msg_0191_00277",
+      "de_DE": [
+        "TECHNIK-\n",
+        "TURNIER"
+      ]
+    },
+    {
+      "id": "msg_0191_00278",
+      "de_DE": "PROFI-CUP"
+    },
+    {
+      "id": "msg_0191_00279",
+      "de_DE": [
+        "F. Meister-\n",
+        "Turnier"
+      ]
+    },
+    {
+      "id": "msg_0191_00280",
+      "de_DE": "Kameraden"
+    },
+    {
+      "id": "msg_0191_00281",
+      "de_DE": "Untergebene"
+    },
+    {
+      "id": "msg_0191_00282",
+      "de_DE": "Freunde"
+    },
+    {
+      "id": "msg_0191_00283",
+      "de_DE": "Strategie"
+    },
+    {
+      "id": "msg_0191_00284",
+      "de_DE": "Training"
+    },
+    {
+      "id": "msg_0191_00285",
+      "de_DE": "Fiese Tricks"
+    },
+    {
+      "id": "msg_0191_00286",
+      "de_DE": "Schwache Trainer"
+    },
+    {
+      "id": "msg_0191_00287",
+      "de_DE": "Starke Trainer"
+    },
+    {
+      "id": "msg_0191_00288",
+      "de_DE": "Jeden"
+    },
+    {
+      "id": "msg_0191_00289",
+      "de_DE": "Liebe"
+    },
+    {
+      "id": "msg_0191_00290",
+      "de_DE": "Harte Bandagen"
+    },
+    {
+      "id": "msg_0191_00291",
+      "de_DE": "Weisheit"
+    },
+    {
+      "id": "msg_0191_00292",
+      "de_DE": "Starke"
+    },
+    {
+      "id": "msg_0191_00293",
+      "de_DE": "Beide"
+    },
+    {
+      "id": "msg_0191_00294",
+      "de_DE": "Schwache"
+    },
+    {
+      "id": "msg_0191_00295",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0191_00296",
+      "de_DE": "ÜBER DIE WETTKÄMPFE"
+    },
+    {
+      "id": "msg_0191_00297",
+      "de_DE": "ÜBER DICH"
+    },
+    {
+      "id": "msg_0191_00298",
+      "de_DE": "HÜRDENLAUF"
+    },
+    {
+      "id": "msg_0191_00299",
+      "de_DE": "FLAGGENSCHNAPPEN"
+    },
+    {
+      "id": "msg_0191_00300",
+      "de_DE": "DRÄNGELKREIS"
+    },
+    {
+      "id": "msg_0191_00301",
+      "de_DE": "ZIEGELBRECHEN"
+    },
+    {
+      "id": "msg_0191_00302",
+      "de_DE": "DISKUSFANGEN"
+    },
+    {
+      "id": "msg_0191_00303",
+      "de_DE": "LAMPIONSPRINGEN"
+    },
+    {
+      "id": "msg_0191_00304",
+      "de_DE": "STAFFELLAUF"
+    },
+    {
+      "id": "msg_0191_00305",
+      "de_DE": "RINGRANGELN"
+    },
+    {
+      "id": "msg_0191_00306",
+      "de_DE": "SCHNEESCHLACHT"
+    },
+    {
+      "id": "msg_0191_00307",
+      "de_DE": "TORSCHIESSEN"
+    },
+    {
+      "id": "msg_0191_00308",
+      "de_DE": "TEMPO-TURNIER"
+    },
+    {
+      "id": "msg_0191_00309",
+      "de_DE": "KRAFT-TURNIER"
+    },
+    {
+      "id": "msg_0191_00310",
+      "de_DE": [
+        "TECHNIK-\n",
+        "TURNIER"
+      ]
+    },
+    {
+      "id": "msg_0191_00311",
+      "de_DE": [
+        "AUSDAUER-\n",
+        "TURNIER"
+      ]
+    },
+    {
+      "id": "msg_0191_00312",
+      "de_DE": [
+        "SPRUNG-\n",
+        "TURNIER"
+      ]
+    },
+    {
+      "id": "msg_0191_00313",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00314",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0191_00315",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0191_00316",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0191_00317",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0191_00318",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0191_00319",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0191_00320",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0191_00321",
+      "de_DE": "KAUFEN"
+    },
+    {
+      "id": "msg_0191_00322",
+      "de_DE": "VERKAUFEN"
+    },
+    {
+      "id": "msg_0191_00323",
+      "de_DE": "TSCHÜSS!"
+    },
+    {
+      "id": "msg_0191_00324",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0191_00325",
+      "de_DE": "EINTAUSCHEN"
+    },
+    {
+      "id": "msg_0191_00326",
+      "de_DE": "APRIKODRINKS?"
+    },
+    {
+      "id": "msg_0191_00327",
+      "de_DE": "TIPPS UND TRICKS!"
+    },
+    {
+      "id": "msg_0191_00328",
+      "de_DE": "KAUFEN"
+    },
+    {
+      "id": "msg_0191_00329",
+      "de_DE": "ETIKETT PRÜFEN"
+    },
+    {
+      "id": "msg_0191_00330",
+      "de_DE": "Gespartes"
+    },
+    {
+      "id": "msg_0191_00331",
+      "de_DE": "Auf der Hand"
+    },
+    {
+      "id": "msg_0191_00332",
+      "de_DE": "{STRVAR_1 55, 0, 0} $"
+    },
+    {
+      "id": "msg_0191_00333",
+      "de_DE": "A-KNOPF: GRUPPE BEITRETEN"
+    },
+    {
+      "id": "msg_0191_00334",
+      "de_DE": "B-KNOPF: ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00335",
+      "de_DE": "B-KNOPF: GRUPPE VERLASSEN"
+    },
+    {
+      "id": "msg_0191_00336",
+      "de_DE": "A-KNOPF: ANFANGEN"
+    },
+    {
+      "id": "msg_0191_00337",
+      "de_DE": "MIT GELD ZAHLEN"
+    },
+    {
+      "id": "msg_0191_00338",
+      "de_DE": "MIT PUNKTEN ZAHLEN"
+    },
+    {
+      "id": "msg_0191_00339",
+      "de_DE": "TAFELWASSER{CURSOR_X 80}50 PUNKTE"
+    },
+    {
+      "id": "msg_0191_00340",
+      "de_DE": "SPRUDEL{CURSOR_X 80}80 PUNKTE"
+    },
+    {
+      "id": "msg_0191_00341",
+      "de_DE": "LIMONADE{CURSOR_X 80}100 PUNKTE"
+    },
+    {
+      "id": "msg_0191_00342",
+      "de_DE": [
+        "A. Tempo&\n",
+        "Sprung-Turnier"
+      ]
+    },
+    {
+      "id": "msg_0191_00343",
+      "de_DE": [
+        "B. Sprung&\n",
+        "Technik-Trn."
+      ]
+    },
+    {
+      "id": "msg_0191_00344",
+      "de_DE": [
+        "C. Technik&\n",
+        "Kraft-Turnier"
+      ]
+    },
+    {
+      "id": "msg_0191_00345",
+      "de_DE": [
+        "D. Kraft&\n",
+        "Ausdauer-Trn."
+      ]
+    },
+    {
+      "id": "msg_0191_00346",
+      "de_DE": [
+        "E. Ausdauer&\n",
+        "Tempo-Turnier"
+      ]
+    },
+    {
+      "id": "msg_0191_00347",
+      "de_DE": [
+        "TRAININGS-\n",
+        "ITEMS 1"
+      ]
+    },
+    {
+      "id": "msg_0191_00348",
+      "de_DE": [
+        "TRAININGS-\n",
+        "ITEMS 2"
+      ]
+    },
+    {
+      "id": "msg_0191_00349",
+      "de_DE": "KAMPFITEMS 1"
+    },
+    {
+      "id": "msg_0191_00350",
+      "de_DE": "KAMPFITEMS 2"
+    },
+    {
+      "id": "msg_0191_00351",
+      "de_DE": "PHYSISCHE ATTACKEN"
+    },
+    {
+      "id": "msg_0191_00352",
+      "de_DE": "SPEZIAL-ATTACKEN"
+    },
+    {
+      "id": "msg_0191_00353",
+      "de_DE": "STATUS-ATTACKEN"
+    },
+    {
+      "id": "msg_0191_00354",
+      "de_DE": [
+        "Protein\n",
+        "1 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00355",
+      "de_DE": [
+        "Kalzium\n",
+        "1 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00356",
+      "de_DE": [
+        "Eisen\n",
+        "1 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00357",
+      "de_DE": [
+        "Zink\n",
+        "1 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00358",
+      "de_DE": [
+        "Carbon\n",
+        "1 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00359",
+      "de_DE": [
+        "KP-Plus\n",
+        "1 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00360",
+      "de_DE": [
+        "Machtreif\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00361",
+      "de_DE": [
+        "Machtgurt\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00362",
+      "de_DE": [
+        "Machtlinse\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00363",
+      "de_DE": [
+        "Machtband\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00364",
+      "de_DE": [
+        "Machtkette\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00365",
+      "de_DE": [
+        "Machtgewicht\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00366",
+      "de_DE": [
+        "Toxik-Orb\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00367",
+      "de_DE": [
+        "Heiß-Orb\n",
+        "16 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00368",
+      "de_DE": [
+        "Schlohkraut\n",
+        "32 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00369",
+      "de_DE": [
+        "Energiekraut\n",
+        "32 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00370",
+      "de_DE": [
+        "Blendpuder\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00371",
+      "de_DE": [
+        "Wahlband\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00372",
+      "de_DE": [
+        "Fokus-Band\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00373",
+      "de_DE": [
+        "Scope-Linse\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00374",
+      "de_DE": [
+        "Muskelband\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00375",
+      "de_DE": [
+        "Fokusgurt\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00376",
+      "de_DE": [
+        "Wahlschal\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00377",
+      "de_DE": [
+        "Scharfklaue\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00378",
+      "de_DE": [
+        "Scharfzahn\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00379",
+      "de_DE": [
+        "Sonderbonbon\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00380",
+      "de_DE": [
+        "Aero-Ass\n",
+        "40 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00381",
+      "de_DE": [
+        "Durchbruch\n",
+        "40 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00382",
+      "de_DE": [
+        "Kehrtwende\n",
+        "40 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00383",
+      "de_DE": [
+        "Kreuzschere\n",
+        "64 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00384",
+      "de_DE": [
+        "Steinkante\n",
+        "80 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00385",
+      "de_DE": [
+        "Erdbeben\n",
+        "80 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00386",
+      "de_DE": [
+        "Spukball\n",
+        "64 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00387",
+      "de_DE": [
+        "Energieball\n",
+        "64 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00388",
+      "de_DE": [
+        "Matschbombe\n",
+        "80 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00389",
+      "de_DE": [
+        "Drachenpuls\n",
+        "80 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00390",
+      "de_DE": [
+        "Toxin\n",
+        "32 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00391",
+      "de_DE": [
+        "Donnerwelle\n",
+        "32 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00392",
+      "de_DE": [
+        "Irrlicht\n",
+        "32 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00393",
+      "de_DE": [
+        "Anziehung\n",
+        "32 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00394",
+      "de_DE": [
+        "Protzer\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00395",
+      "de_DE": [
+        "Gedankengut\n",
+        "48 GP"
+      ]
+    },
+    {
+      "id": "msg_0191_00396",
+      "de_DE": [
+        "Hebt den Angriffs-Wert eines\n",
+        "Pokémon dauerhaft an."
+      ]
+    },
+    {
+      "id": "msg_0191_00397",
+      "de_DE": [
+        "Hebt den Spezial-Angriff eines\n",
+        "Pokémon dauerhaft an."
+      ]
+    },
+    {
+      "id": "msg_0191_00398",
+      "de_DE": [
+        "Hebt den Verteidigungs-Wert eines\n",
+        "Pokémon dauerhaft an."
+      ]
+    },
+    {
+      "id": "msg_0191_00399",
+      "de_DE": [
+        "Hebt die Spezial-Verteidigung eines\n",
+        "Pokémon dauerhaft an."
+      ]
+    },
+    {
+      "id": "msg_0191_00400",
+      "de_DE": [
+        "Hebt den Initiative-Wert eines\n",
+        "Pokémon dauerhaft an."
+      ]
+    },
+    {
+      "id": "msg_0191_00401",
+      "de_DE": [
+        "Hebt die KP-Anzahl eines Pokémon\n",
+        "dauerhaft an."
+      ]
+    },
+    {
+      "id": "msg_0191_00402",
+      "de_DE": [
+        "Hebt den Level eines Pokémon\n",
+        "dauerhaft um eins an."
+      ]
+    },
+    {
+      "id": "msg_0191_00403",
+      "de_DE": [
+        "Senkt Init. (Tragen), aber erhöht bei\n",
+        "Levelaufstieg den Angriffs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0191_00404",
+      "de_DE": [
+        "Senkt Init. (Tragen), aber erhöht bei\n",
+        "Levelaufstieg den Verteidigungs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0191_00405",
+      "de_DE": [
+        "Senkt Init. (Tragen), aber erhöht bei\n",
+        "Levelaufstieg den Spezial-Angriff."
+      ]
+    },
+    {
+      "id": "msg_0191_00406",
+      "de_DE": [
+        "Senkt Init. (Tragen), aber erhöht bei\n",
+        "Levelaufstieg die Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0191_00407",
+      "de_DE": [
+        "Senkt Init. (Tragen), aber erhöht bei\n",
+        "Levelaufstieg den allg. Initiative-Wert."
+      ]
+    },
+    {
+      "id": "msg_0191_00408",
+      "de_DE": [
+        "Senkt Init. (Tragen), aber erhöht bei\n",
+        "Levelaufstieg die maximalen KP."
+      ]
+    },
+    {
+      "id": "msg_0191_00409",
+      "de_DE": [
+        "Vergiftet seinen Träger\n",
+        "im Kampf schwer."
+      ]
+    },
+    {
+      "id": "msg_0191_00410",
+      "de_DE": [
+        "Fügt dem Träger im Kampf\n",
+        "Vebrennungen zu."
+      ]
+    },
+    {
+      "id": "msg_0191_00411",
+      "de_DE": [
+        "Hebt im Kampf einmalig eine negative\n",
+        "Statuswertveränderung auf (Tragen)."
+      ]
+    },
+    {
+      "id": "msg_0191_00412",
+      "de_DE": [
+        "Erspart im Kampf einmalig das\n",
+        "Aufladen einer Attacke (Tragen)."
+      ]
+    },
+    {
+      "id": "msg_0191_00413",
+      "de_DE": [
+        "Senkt die Genauigkeit\n",
+        "des Gegners (Tragen)."
+      ]
+    },
+    {
+      "id": "msg_0191_00414",
+      "de_DE": [
+        "Es stärkt den Angriffs-Wert (Tragen),\n",
+        "aber nur eine Attacke ist einsetzbar."
+      ]
+    },
+    {
+      "id": "msg_0191_00415",
+      "de_DE": [
+        "Verhindert Kampfunfähigkeit, da dem\n",
+        "Träger nach dem Angriff 1 KP bleibt."
+      ]
+    },
+    {
+      "id": "msg_0191_00416",
+      "de_DE": [
+        "Erhöht die Volltrefferquote\n",
+        "des Trägers."
+      ]
+    },
+    {
+      "id": "msg_0191_00417",
+      "de_DE": [
+        "Verstärkt die physischen\n",
+        "Attacken des Trägers."
+      ]
+    },
+    {
+      "id": "msg_0191_00418",
+      "de_DE": [
+        "Bei vollen KP reduziert eine K.O.-\n",
+        "Attacke die KP des Trägers nur auf 1."
+      ]
+    },
+    {
+      "id": "msg_0191_00419",
+      "de_DE": [
+        "Erhöht den Initiative-Wert des Trägers,\n",
+        "erlaubt aber nur eine Attackenart."
+      ]
+    },
+    {
+      "id": "msg_0191_00420",
+      "de_DE": [
+        "Erhöht die Volltrefferquote\n",
+        "des Trägers."
+      ]
+    },
+    {
+      "id": "msg_0191_00421",
+      "de_DE": [
+        "Verursacht der Träger Schaden,\n",
+        "erschrickt der Gegner eventuell."
+      ]
+    },
+    {
+      "id": "msg_0191_00422",
+      "de_DE": [
+        "Eine extrem schnelle und\n",
+        "unausweichbare Attacke."
+      ]
+    },
+    {
+      "id": "msg_0191_00423",
+      "de_DE": [
+        "Durchbricht beim Angriff Barrieren\n",
+        "wie Lichtschild und Reflektor."
+      ]
+    },
+    {
+      "id": "msg_0191_00424",
+      "de_DE": [
+        "Nach der Attacke tauscht der Anwender\n",
+        "den Platz mit einem anderen Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0191_00425",
+      "de_DE": [
+        "Der Anwender führt eine Attacke aus,\n",
+        "die einer Scherenbewegung ähnelt."
+      ]
+    },
+    {
+      "id": "msg_0191_00426",
+      "de_DE": [
+        "Sticht den Gegner mit scharfen Steinen.\n",
+        "Hohe Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0191_00427",
+      "de_DE": [
+        "Ein mächtiges Beben, das alle anderen\n",
+        "kämpfenden Pokémon trifft."
+      ]
+    },
+    {
+      "id": "msg_0191_00428",
+      "de_DE": [
+        "Bewirft Gegner mit einem dunklen Ball\n",
+        "und senkt eventuell die Spezial-Vert."
+      ]
+    },
+    {
+      "id": "msg_0191_00429",
+      "de_DE": [
+        "Greift den Gegner mit Energie an und\n",
+        "senkt eventuell die Spezial-Vert."
+      ]
+    },
+    {
+      "id": "msg_0191_00430",
+      "de_DE": [
+        "Bewirft Gegner mit dreckigem Schlamm\n",
+        "und vergiftet ihn dabei eventuell."
+      ]
+    },
+    {
+      "id": "msg_0191_00431",
+      "de_DE": [
+        "Greift Gegner mit einer Schockwelle an,\n",
+        "die aus dem Maul des Anwenders kommt."
+      ]
+    },
+    {
+      "id": "msg_0191_00432",
+      "de_DE": [
+        "Der Gegner wird mit einem\n",
+        "potenten Toxin schwer vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0191_00433",
+      "de_DE": [
+        "Ein schwacher Stromstoß,\n",
+        "der den Gegner paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0191_00434",
+      "de_DE": [
+        "Angriff mit blau-weißer Flamme,\n",
+        "die den Gegner verbrennt."
+      ]
+    },
+    {
+      "id": "msg_0191_00435",
+      "de_DE": [
+        "Angriff des anderen\n",
+        "Geschlechts unwahrscheinlich."
+      ]
+    },
+    {
+      "id": "msg_0191_00436",
+      "de_DE": [
+        "Pumpt den Körper auf, um den Angriff\n",
+        "und die Verteidigung zu erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0191_00437",
+      "de_DE": [
+        "Erhöht Spezial-Angriff und Spezial-\n",
+        "Verteidigung durch Konzentration."
+      ]
+    },
+    {
+      "id": "msg_0191_00438",
+      "de_DE": "Zurück zur Kategorie-Auswahl"
+    },
+    {
+      "id": "msg_0191_00439",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0191_00440",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00441",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0191_00442",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0191_00443",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0191_00444",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0191_00445",
+      "de_DE": [
+        "Nugget\n",
+        "4.500 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00446",
+      "de_DE": [
+        "Perle\n",
+        "650 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00447",
+      "de_DE": [
+        "Riesenperle\n",
+        "3.500 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00448",
+      "de_DE": [
+        "Sternenstaub\n",
+        "900 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00449",
+      "de_DE": [
+        "Sternenstück\n",
+        "4.600 $"
+      ]
+    },
+    {
+      "id": "msg_0191_00450",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00451",
+      "de_DE": "KAMPFZONE"
+    },
+    {
+      "id": "msg_0191_00452",
+      "de_DE": "GRUNDREGELN"
+    },
+    {
+      "id": "msg_0191_00453",
+      "de_DE": "GEWINNPUNKTE"
+    },
+    {
+      "id": "msg_0191_00454",
+      "de_DE": "TAUSCHECKE"
+    },
+    {
+      "id": "msg_0191_00455",
+      "de_DE": [
+        "AUFTRITTS-\n",
+        "MONITOR"
+      ]
+    },
+    {
+      "id": "msg_0191_00456",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0191_00457",
+      "de_DE": [
+        "TERRAIN-\n",
+        "EDITOR"
+      ]
+    },
+    {
+      "id": "msg_0191_00458",
+      "de_DE": [
+        "INBETRIEB-\n",
+        "NAHME"
+      ]
+    },
+    {
+      "id": "msg_0191_00459",
+      "de_DE": [
+        "TERRAIN-\n",
+        "TAUSCH"
+      ]
+    },
+    {
+      "id": "msg_0191_00460",
+      "de_DE": [
+        "TERRAIN\n",
+        "BEWEGEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00461",
+      "de_DE": [
+        "AUFTRETEN\n",
+        "von POKéMON"
+      ]
+    },
+    {
+      "id": "msg_0191_00462",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00463",
+      "de_DE": "BLÖCKE"
+    },
+    {
+      "id": "msg_0191_00464",
+      "de_DE": [
+        "PLATZIEREN\n",
+        "VON BLÖCKEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00465",
+      "de_DE": [
+        "ENTFERNEN VON\n",
+        "BLÖCKEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00466",
+      "de_DE": [
+        "SORTEN VON\n",
+        "BLÖCKEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00467",
+      "de_DE": [
+        "AUFTRETEN\n",
+        "VON POKéMON"
+      ]
+    },
+    {
+      "id": "msg_0191_00468",
+      "de_DE": [
+        "VERSCHWINDEN\n",
+        "VON BLÖCKEN"
+      ]
+    },
+    {
+      "id": "msg_0191_00469",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00470",
+      "de_DE": [
+        "Die Beeren wachsen schneller, aber\n",
+        "dafür trocknet die Erde schneller aus."
+      ]
+    },
+    {
+      "id": "msg_0191_00471",
+      "de_DE": [
+        "Die Beeren halten länger, bevor\n",
+        "sie zu Boden fallen."
+      ]
+    },
+    {
+      "id": "msg_0191_00472",
+      "de_DE": [
+        "Die Beeren wachsen langsamer, aber\n",
+        "dafür bleibt die Erde länger feucht."
+      ]
+    },
+    {
+      "id": "msg_0191_00473",
+      "de_DE": [
+        "Erhöht die Rate neuer Pflanzen,\n",
+        "nachdem alte verwelkt sind."
+      ]
+    },
+    {
+      "id": "msg_0191_00474",
+      "de_DE": "Beendet den Einkauf."
+    },
+    {
+      "id": "msg_0191_00475",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0191_00476",
+      "de_DE": "DOPPELKAMPF"
+    }
+  ]
+}

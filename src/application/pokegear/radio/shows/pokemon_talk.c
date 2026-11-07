@@ -116,7 +116,7 @@ BOOL RadioShow_PokemonTalk_Print(RadioShow *radioShow) {
         }
         for (i = 0; i < 2; ++i) {
             ReadMsgDataIntoString(radioShow->showMsgData, (msg_0414_00019 - msg_0414_00006) * i + (msg_0414_00006 + data->flavorTextPairs[data->selector][i]), radioShow->curLineStr);
-            BufferString(radioShow->msgFormat, i + 2, radioShow->curLineStr, 1, 1, 2);
+            BufferString(radioShow->msgFormat, i + 2, radioShow->curLineStr, 1, 1, GAME_LANGUAGE);
         }
         RadioPrintInitEz(radioShow, msg_0414_00005);
         ++data->state;

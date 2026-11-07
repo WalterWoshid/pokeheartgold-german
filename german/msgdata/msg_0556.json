@@ -1,0 +1,237 @@
+{
+  "key": 20263,
+  "messages": [
+    {
+      "id": "msg_0556_00000",
+      "de_DE": [
+        "Hallo {STRVAR_1 3, 0, 0}?\n",
+        "Ich habe Neuigkeiten über das Ei!\r",
+        "Im Pokémon-Supermarkt von Viola\n",
+        "City solltest du einen meiner\f",
+        "Assistenten antreffen.\f",
+        "Lass dir von ihm alles erklären!"
+      ]
+    },
+    {
+      "id": "msg_0556_00001",
+      "de_DE": [
+        "Allo! Bist du eine Trainer? Ast du\n",
+        "gewonnön in die Kampf gegön\f",
+        "den Arenaleitör?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0556_00002",
+      "de_DE": "Olala! Äußörst beeindrückönd!"
+    },
+    {
+      "id": "msg_0556_00003",
+      "de_DE": [
+        "Wirklisch? Da ilft nur die Training!\n",
+        "Folge mir, d’accord?\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00004",
+      "de_DE": [
+        "Isch bin ier die Lehrör!\r",
+        "Du solltöst machön die Training ier!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00005",
+      "de_DE": [
+        "Man erzählt sich, nachts würden Geister\n",
+        "durch den KNOFENSA-Turm spuken.\r",
+        "Angeblich zeigen Attacken des Typs\n",
+        "Normal keinerlei Wirkung bei ihnen!"
+      ]
+    },
+    {
+      "id": "msg_0556_00006",
+      "de_DE": [
+        "Hey, bist du ein Pokémon-Trainer?\r",
+        "Schlägst du den hiesigen Arenaleiter,\n",
+        "darfst du dich bald zur Elite zählen!"
+      ]
+    },
+    {
+      "id": "msg_0556_00007",
+      "de_DE": [
+        "Falk, der Leiter der Pokémon-Arena von\n",
+        "Viola City, ist ein großartiger Trainer!\r",
+        "Er ist in die Fußstapfen seines Vaters\n",
+        "getreten und leitet die Arena hier mit\f",
+        "sehr viel Können."
+      ]
+    },
+    {
+      "id": "msg_0556_00008",
+      "de_DE": [
+        "In bestimmte Gebäude oder Höhlen sowie\n",
+        "Orte, an denen sich sehr viele Menschen\f",
+        "aufhalten, darfst du deine Pokémon\f",
+        "nicht mitnehmen, ohne sie in einem\f",
+        "Pokéball verstaut zu haben."
+      ]
+    },
+    {
+      "id": "msg_0556_00009",
+      "de_DE": [
+        "Viola City\n",
+        "Die Stadt der Nostalgie"
+      ]
+    },
+    {
+      "id": "msg_0556_00010",
+      "de_DE": [
+        "Pokémon-Arena von Viola City\n",
+        "Leiter: Falk\f",
+        "Der elegante Meister der\f",
+        "Flug-Pokémon"
+      ]
+    },
+    {
+      "id": "msg_0556_00011",
+      "de_DE": [
+        "KNOFENSA-Turm\r",
+        "Finde zu dir selbst, indem du hier\n",
+        "deine Pokémon trainierst."
+      ]
+    },
+    {
+      "id": "msg_0556_00012",
+      "de_DE": [
+        "Die Pokémonschule\r",
+        "Die beste Adresse für kompetenten\n",
+        "Unterricht in Sachen Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0556_00013",
+      "de_DE": "Nanu, dieses Ei...\r"
+    },
+    {
+      "id": "msg_0556_00014",
+      "de_DE": [
+        "Hohoho, ich verstehe...\n",
+        "Mr. Pokémon hat es also Professor Lind\f",
+        "geschickt, und dieser gab es dann an\f",
+        "Euch weiter.\r",
+        "So war das also...\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00015",
+      "de_DE": [
+        "Das ist ein wirklich äußerst kostbares\n",
+        "Ei, vergesst das bitte nicht!\f",
+        "Zieht es bitte mit viel Hingabe auf!\r",
+        "Verstehen wir uns?\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00016",
+      "de_DE": "Gut, dann gehabt Euch wohl!\r"
+    },
+    {
+      "id": "msg_0556_00017",
+      "de_DE": [
+        "Beerenfürstücke!\n",
+        "Beerenfürstücke!\r",
+        "Hallo! Komm ruhig näher!\n",
+        "Bei mir kannst du Stücke\f",
+        "gegen Beeren tauschen.\r",
+        "Wenn du irgendwelche Stücke dabeihaben\n",
+        "solltest, kannst du sie bei mir gegen\f",
+        "drei Beeren pro Exemplar eintauschen.\f",
+        "Das ist fast geschenkt, sage ich dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00018",
+      "de_DE": [
+        "Beerenfürstücke!\n",
+        "Beerenfürstücke!\r",
+        "Hallo! Komm ruhig näher!\n",
+        "Bei mir kannst du Stücke\f",
+        "gegen Beeren tauschen.\r",
+        "Wenn du irgendwelche Stücke dabeihaben\n",
+        "solltest, kannst du sie bei mir gegen\f",
+        "drei Beeren pro Exemplar eintauschen.\f",
+        "Das ist fast geschenkt, sage ich dir!\r",
+        "Was für Stücke hast du für mich? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0556_00019",
+      "de_DE": "Willst du weiter beerenfürstücken? {YESNO 0}"
+    },
+    {
+      "id": "msg_0556_00020",
+      "de_DE": [
+        "In Ordnung, alles klar! Komm zurück,\n",
+        "wenn du Nachschlag willst!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00021",
+      "de_DE": [
+        "Für ein Purpurstück bekommst du von\n",
+        "mir das Beerenfürstück-Set A!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00022",
+      "de_DE": [
+        "Für ein Indigostück bekommst du von\n",
+        "mir das Beerenfürstück-Set B!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00023",
+      "de_DE": [
+        "Für ein Gelbstück bekommst du von\n",
+        "mir das Beerenfürstück-Set C!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00024",
+      "de_DE": [
+        "Für ein Grünstück bekommst du von\n",
+        "mir das Beerenfürstück-Set D!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00025",
+      "de_DE": [
+        "Du hast schon zu viele von den Beeren,\n",
+        "die in diesem Set enthalten sind.\r",
+        "Komm zurück, wenn du ein paar von\n",
+        "ihnen aufgebraucht hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0556_00026",
+      "de_DE": [
+        "In dieser Gegend achten die Leute sehr\n",
+        "darauf, das alte Stadtbild zu bewahren.\r",
+        "Die Farben der Dächer des Pokémon-\n",
+        "Supermarkts und des Pokémon-Centers\f",
+        "wurden hier extra dezent gehalten,\f",
+        "damit sie nicht zu sehr herausstechen."
+      ]
+    },
+    {
+      "id": "msg_0556_00027",
+      "de_DE": [
+        "Soll ich dir was verraten? Du kannst\n",
+        "Markierungen auf die Karte von deinem\f",
+        "Pokécom setzen und dir kleine Notizen\f",
+        "dazuschreiben, wenn du willst.\r",
+        "Ich will auch so einen Pokécom, aber\n",
+        "meine Mama will mir keinen kaufen..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "key": 59653,
+  "messages": [
+    {
+      "id": "msg_0193_00000",
+      "de_DE": "SPRINGEN"
+    },
+    {
+      "id": "msg_0193_00001",
+      "de_DE": "HOCH"
+    },
+    {
+      "id": "msg_0193_00002",
+      "de_DE": "VOR"
+    },
+    {
+      "id": "msg_0193_00003",
+      "de_DE": "LINKS"
+    },
+    {
+      "id": "msg_0193_00004",
+      "de_DE": "RECHTS"
+    },
+    {
+      "id": "msg_0193_00005",
+      "de_DE": "Großartig!"
+    },
+    {
+      "id": "msg_0193_00006",
+      "de_DE": "Gut!"
+    },
+    {
+      "id": "msg_0193_00007",
+      "de_DE": "Fehler!"
+    },
+    {
+      "id": "msg_0193_00008",
+      "de_DE": [
+        "Der Tanzwettstreit wird gleich\n",
+        "beginnen!\r",
+        "Können die Nebentänzer den Schritten\n",
+        "des Haupttänzers folgen?\r",
+        "Finden wir es heraus!\n",
+        "Musik ab!\r"
+      ]
+    },
+    {
+      "id": "msg_0193_00009",
+      "de_DE": "{COLOR 2}Vollbringe {STRVAR_1 50, 0} Schritte als Haupttänzer!{COLOR 0}"
+    },
+    {
+      "id": "msg_0193_00010",
+      "de_DE": "{COLOR 1}Imitiere das Pokémon vor dir!{COLOR 0}"
+    },
+    {
+      "id": "msg_0193_00011",
+      "garbage": 68
+    },
+    {
+      "id": "msg_0193_00012",
+      "garbage": 466
+    },
+    {
+      "id": "msg_0193_00013",
+      "garbage": 41
+    },
+    {
+      "id": "msg_0193_00014",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0193_00015",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0193_00016",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0193_00017",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0193_00018",
+      "de_DE": [
+        "Damit ist der Tanzwettstreit beendet!\r",
+        "Im Moment führt\n",
+        "{STRVAR_1 3, 0}!\r",
+        "Kann das noch jemand im Aktions-\n",
+        "wettstreit aufholen?\r"
+      ]
+    },
+    {
+      "id": "msg_0193_00019",
+      "de_DE": [
+        "Willkommen! Schön, dass du unseren\n",
+        "Übungswettbewerb besuchst!\r",
+        "Hier kannst du nach Herzenslust\n",
+        "für die große Show trainieren!\r",
+        "Ich trainiere hier auch. Ich will\n",
+        "nämlich selbst MC werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0193_00020",
+      "de_DE": [
+        "Alle sind hier. Sehr gut. Dann fangen\n",
+        "wir mal mit der Tanzübung an!\r",
+        "{STRVAR_1 1, 0}, tanze einfach genau\n",
+        "so wie der Haupttänzer.\r",
+        "Nach zwei Tanzrunden wechselt der\n",
+        "Haupttänzer mit dem Nebentänzer.\r",
+        "Du bist der letzte Haupttänzer.\r",
+        "Tanze so, dass dich keiner imitieren\n",
+        "kann! Das ist der Schlüssel!\r",
+        "Okay. Los geht’s!\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "key": 22035,
+  "messages": [
+    {
+      "id": "msg_0645_00000",
+      "de_DE": "Janina"
+    },
+    {
+      "id": "msg_0645_00001",
+      "de_DE": [
+        "Häh? Ich verstehe dich ganz schlecht!\n",
+        "Das muss an der Verbindung liegen!\r",
+        "Versuch es noch einmal von woanders!"
+      ]
+    },
+    {
+      "id": "msg_0645_00002",
+      "de_DE": [
+        "Hallo?\n",
+        "Ja?\f",
+        "Mir geht es gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0645_00003",
+      "de_DE": [
+        "Es gibt außer mir noch viele unglaublich\n",
+        "starke Arenaleiter!\f",
+        "Also gib dein Bestes!"
+      ]
+    },
+    {
+      "id": "msg_0645_00004",
+      "de_DE": [
+        "Hm, ich habe am Montagmittag Zeit!\n",
+        "Ruf mich doch dann einfach an!"
+      ]
+    },
+    {
+      "id": "msg_0645_00005",
+      "de_DE": [
+        "Du rufst genau zur rechten Zeit an!\n",
+        "Ich habe gerade nichts zu tun.\f",
+        "Hast du Lust auf einen Kampf? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0645_00006",
+      "de_DE": [
+        "Super!\n",
+        "Ich kann es kaum noch erwarten!\r",
+        "Ich warte auf dich im Dojo von Saffronia\n",
+        "City!"
+      ]
+    },
+    {
+      "id": "msg_0645_00007",
+      "de_DE": [
+        "Aha, verstehe...\n",
+        "Du hast doch nicht etwa Angst, oder?"
+      ]
+    },
+    {
+      "id": "msg_0645_00008",
+      "de_DE": [
+        "Du willst mit mir kämpfen?\n",
+        "Wie wäre es, wenn du zuerst deine noch\f",
+        "ausstehenden Kämpfe absolvierst?"
+      ]
+    },
+    {
+      "id": "msg_0645_00009",
+      "de_DE": [
+        "Ich erwarte dich im Dojo von Saffronia\n",
+        "City!\f",
+        "Beeil dich! Ich warte nur ungern!"
+      ]
+    },
+    {
+      "id": "msg_0645_00010",
+      "de_DE": [
+        "Hi, Janina hier!\n",
+        "Bei dir alles im Lot?\r"
+      ]
+    },
+    {
+      "id": "msg_0645_00011",
+      "de_DE": [
+        "Ich warte auf dich im Dojo von Saffronia\n",
+        "City. Und denk daran:\f",
+        "Du hast mir dein Wort gegeben!"
+      ]
+    },
+    {
+      "id": "msg_0645_00012",
+      "de_DE": [
+        "Soll ich dir von meinem Vater erzählen?\n",
+        "Soll ich? Hast du Interesse?\r",
+        "Wenn ja, dann sag Bescheid!\n",
+        "Ich könnte stundenlang erzählen!"
+      ]
+    },
+    {
+      "id": "msg_0645_00013",
+      "de_DE": [
+        "Von klein auf habe ich von meinem Vater\n",
+        "ein Spezialtraining erhalten und bin so\f",
+        "schließlich Arenaleiterin geworden!\r",
+        "Ein anderer Lebensweg kam für mich nie\n",
+        "in Frage!\r",
+        "Mein Traum ist es, eines Tages sogar\n",
+        "meinen Vater zu übertreffen!"
+      ]
+    },
+    {
+      "id": "msg_0645_00014",
+      "de_DE": [
+        "Also dieser Falk aus Viola City... \n",
+        "Der redet die ganze Zeit von seinem\f",
+        "Vater!! Unglaublich, oder?\f",
+        "Ist er dafür nicht ein bisschen zu alt?\r",
+        "Wie bitte? “Wer im Glashaus sitzt...”?\n",
+        "Willst du mir etwa in den Rücken fallen?"
+      ]
+    }
+  ]
+}

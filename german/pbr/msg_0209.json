@@ -1,0 +1,45 @@
+{
+  "key": 9230,
+  "messages": [
+    {
+      "id": "msg_0209_00000",
+      "de_DE": [
+        "Hah, lehn dich zurück und staune!\r",
+        "Mit der Attacke Zertrümmerer kann man\n",
+        "Felsen aus dem Weg räumen...\r"
+      ]
+    },
+    {
+      "id": "msg_0209_00001",
+      "de_DE": [
+        "Felsen müssen aus dem Weg geräumt\n",
+        "werden, wenn sie den Pfad blockieren.\r",
+        "Sobald du den Orden der hiesigen Arena\n",
+        "hast, ist dein Pokémon dazu fähig.\r",
+        "Also musst du den Arenaleiter besiegen.\n",
+        "Und das... bin ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0209_00002",
+      "de_DE": "MACHOLLO: Chollochollo!"
+    },
+    {
+      "id": "msg_0209_00003",
+      "de_DE": "MACHOLLO: Chollo!"
+    },
+    {
+      "id": "msg_0209_00004",
+      "de_DE": "MACHOLLO: Cholmach!"
+    },
+    {
+      "id": "msg_0209_00005",
+      "de_DE": [
+        "Ich habe dieses MACHOLLO auf\n",
+        "der Route 207 getroffen.\r",
+        "Es ist mittlerweile mein\n",
+        "bester Partner geworden!"
+      ]
+    }
+  ]
+}

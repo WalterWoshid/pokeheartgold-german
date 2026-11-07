@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_ONIX",
+  "hpIv": 25,
+  "atkIv": 20,
+  "defIv": 25,
+  "speedIv": 15,
+  "spAtkIv": 15,
+  "spDefIv": 15,
+  "ability": 5,
+  "otId": 48926,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 9711,
+  "heldItem": "ITEM_PERSIM_BERRY",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_BELLSPROUT",
+  "unk_50": 0
+}

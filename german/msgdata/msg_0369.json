@@ -1,0 +1,32 @@
+{
+  "key": 20227,
+  "messages": [
+    {
+      "id": "msg_0369_00000",
+      "de_DE": "Heh!\r"
+    },
+    {
+      "id": "msg_0369_00001",
+      "de_DE": [
+        "Soll ich dir was sagen?\r",
+        "Du hast eben den ersten Schritt\n",
+        "in Richtung Kanto getan!\r",
+        "Wirf mal einen Blick auf deine Karte!"
+      ]
+    },
+    {
+      "id": "msg_0369_00002",
+      "de_DE": [
+        "Die Tohjo-Fälle\n",
+        "Die Grenzlinie zwischen Kanto und Johto"
+      ]
+    },
+    {
+      "id": "msg_0369_00003",
+      "de_DE": [
+        "Westlich nach Neuborkia\n",
+        "Östlich zur Route 26"
+      ]
+    }
+  ]
+}

@@ -29,6 +29,8 @@ else
 endif
 ifeq ($(GAME_LANGUAGE),ENGLISH)
   target_region := us
+else ifeq ($(GAME_LANGUAGE),GERMAN)
+  target_region := de
 else
   $(error unsupported GAME_LANGUAGE=$(GAME_LANGUAGE))
 endif
@@ -133,11 +135,12 @@ clean: $(BUILD)/build.ninja
 	$(MESON) compile -C $(BUILD) --clean
 
 setup_rom: $(BUILD)/build.ninja
-	$(MESON) configure $(BUILD) -Dgame_version=$(GAME_VERSION)
+	$(MESON) configure $(BUILD) -Dgame_version=$(GAME_VERSION) -Dgame_language=$(GAME_LANGUAGE)
 
 $(BUILD)/build.ninja: | $(BUILD) $(SKREW_EXE) meson $(LSFGEN_OUT)
 	$(MESON) setup \
 		-Dgame_version=$(GAME_VERSION) \
+		-Dgame_language=$(GAME_LANGUAGE) \
 		--wrap-mode=nopromote \
 		--native-file=meson/$(NATIVE) \
 		--cross-file=meson/$(CROSS) \

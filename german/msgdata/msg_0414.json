@@ -1,0 +1,161 @@
+{
+  "key": 4834,
+  "messages": [
+    {
+      "id": "msg_0414_00000",
+      "de_DE": "Professor Eichs Pokémon-Talk"
+    },
+    {
+      "id": "msg_0414_00001",
+      "de_DE": "Margit & Eich"
+    },
+    {
+      "id": "msg_0414_00002",
+      "de_DE": [
+        "Margit: Für alle Pokémon-Liebhaber da\n",
+        "draußen...\n",
+        "Professor Eichs Pokémon-Talk!\n",
+        "Mit mir, Margit!"
+      ]
+    },
+    {
+      "id": "msg_0414_00003",
+      "de_DE": [
+        "Pokémon, Pokémon!\n",
+        "Antenne Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0414_00004",
+      "de_DE": [
+        "Eich: {STRVAR_1 4, 0, 0}! \n",
+        "Dort leben {STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0414_00005",
+      "de_DE": [
+        "Margit: {STRVAR_1 0, 1, 0}!\n",
+        "{STRVAR_1 28, 2, 0}\n",
+        "{STRVAR_1 28, 3, 0}"
+      ]
+    },
+    {
+      "id": "msg_0414_00006",
+      "de_DE": "Ein Blick genügt..."
+    },
+    {
+      "id": "msg_0414_00007",
+      "de_DE": "Sie erscheinen dir sogar im Traum!"
+    },
+    {
+      "id": "msg_0414_00008",
+      "de_DE": "Nun, ich weiß auch nicht, weshalb, aber..."
+    },
+    {
+      "id": "msg_0414_00009",
+      "de_DE": "Sie brauchen einfach nur da sein..."
+    },
+    {
+      "id": "msg_0414_00010",
+      "de_DE": "Egal wie man sie betrachtet..."
+    },
+    {
+      "id": "msg_0414_00011",
+      "de_DE": "Man braucht sie bloß mit sich führen..."
+    },
+    {
+      "id": "msg_0414_00012",
+      "de_DE": "Man braucht sie bloß beim Namen rufen..."
+    },
+    {
+      "id": "msg_0414_00013",
+      "de_DE": "Sieh nur einmal genauer hin..."
+    },
+    {
+      "id": "msg_0414_00014",
+      "de_DE": "Sie ähneln meinem Klassenlehrer!"
+    },
+    {
+      "id": "msg_0414_00015",
+      "de_DE": "Es ist kaum auszuhalten!"
+    },
+    {
+      "id": "msg_0414_00016",
+      "de_DE": "Egal wo, egal wann!"
+    },
+    {
+      "id": "msg_0414_00017",
+      "de_DE": "Wenn sie deine Aufmerksamkeit suchen..."
+    },
+    {
+      "id": "msg_0414_00018",
+      "de_DE": "Das hätte ich so nicht erwartet..."
+    },
+    {
+      "id": "msg_0414_00019",
+      "de_DE": "Man kann nicht aufhören zu lachen!"
+    },
+    {
+      "id": "msg_0414_00020",
+      "de_DE": "Man könnte dahinschmelzen!"
+    },
+    {
+      "id": "msg_0414_00021",
+      "de_DE": "Man kann sich auf sie verlassen!"
+    },
+    {
+      "id": "msg_0414_00022",
+      "de_DE": "Man kann die Augen nicht abwenden!"
+    },
+    {
+      "id": "msg_0414_00023",
+      "de_DE": "Ihr Charme nimmt einen gefangen!"
+    },
+    {
+      "id": "msg_0414_00024",
+      "de_DE": "Sie können gute Freunde werden!"
+    },
+    {
+      "id": "msg_0414_00025",
+      "de_DE": "Alle lieben sie!"
+    },
+    {
+      "id": "msg_0414_00026",
+      "de_DE": "Es ist immer wieder erstaunlich!"
+    },
+    {
+      "id": "msg_0414_00027",
+      "de_DE": "Ihre Kraft haut einen um!"
+    },
+    {
+      "id": "msg_0414_00028",
+      "de_DE": "Sind sie nicht einfach niedlich?"
+    },
+    {
+      "id": "msg_0414_00029",
+      "de_DE": "Sie sind wirklich cool!"
+    },
+    {
+      "id": "msg_0414_00030",
+      "de_DE": "Das ist irgendwie komisch..."
+    },
+    {
+      "id": "msg_0414_00031",
+      "de_DE": "Na, wenn das keine Pokémon sind!"
+    },
+    {
+      "id": "msg_0414_00032",
+      "de_DE": [
+        "Margit: Eine Sondermeldung!!!\n",
+        "{STRVAR_1 4, 0, 0}! Hier scheinen viele\n",
+        "{STRVAR_1 0, 1, 0} aufgetaucht zu sein!\n",
+        "Alle Trainer, die einmal ein {STRVAR_1 0, 1, 0}\n",
+        "treffen möchten, sollten sich schnell\n",
+        "auf den Weg machen!\n",
+        "Euer Ziel heißt: {STRVAR_1 4, 0, 0}!\n",
+        "Ende der Nachricht."
+      ]
+    }
+  ]
+}

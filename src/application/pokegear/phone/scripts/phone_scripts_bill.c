@@ -40,7 +40,7 @@ BOOL GearPhoneCall_Bill(PokegearPhoneCallContext *ctx) {
         }
         pcStorage = SaveArray_PCStorage_Get(ctx->saveData);
         PCStorage_GetBoxName(pcStorage, PCStorage_GetActiveBox(pcStorage), ctx->msgExpansionBuff);
-        BufferString(ctx->msgFormat, 10, ctx->msgExpansionBuff, 2, 1, 2);
+        BufferString(ctx->msgFormat, 10, ctx->msgExpansionBuff, 2, 1, GAME_LANGUAGE);
         count = PCStorage_CountEmptySpotsInAllBoxes(pcStorage);
         BufferIntegerAsString(ctx->msgFormat, 11, count, 3, PRINTING_MODE_LEFT_ALIGN, TRUE);
         if (count == 0) {

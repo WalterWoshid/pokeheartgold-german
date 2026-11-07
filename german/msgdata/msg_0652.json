@@ -1,0 +1,139 @@
+{
+  "key": 46236,
+  "messages": [
+    {
+      "id": "msg_0652_00000",
+      "de_DE": "Major Bob"
+    },
+    {
+      "id": "msg_0652_00001",
+      "de_DE": [
+        "Was! Ich verstehe dich nicht, Rekrut!\n",
+        "Die Verbindung ist schlecht!\r",
+        "Ruf von woanders an! Aber zackig!"
+      ]
+    },
+    {
+      "id": "msg_0652_00002",
+      "de_DE": [
+        "Ja? Was liegt an?\n",
+        "Mir geht es blendend!\r"
+      ]
+    },
+    {
+      "id": "msg_0652_00003",
+      "de_DE": [
+        "Rekrut, hast du nicht noch andere\n",
+        "Arenaleiter außer mir zu besiegen?\r",
+        "Vorwärts, marsch!"
+      ]
+    },
+    {
+      "id": "msg_0652_00004",
+      "de_DE": [
+        "Ich habe am Freitagmorgen Zeit!\n",
+        "Ruf mich dann an! Das ist ein Befehl!"
+      ]
+    },
+    {
+      "id": "msg_0652_00005",
+      "de_DE": [
+        "Rekrut!\r",
+        "Trittst du noch einmal gegen\n",
+        "mich an? Nun? Ich warte! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0652_00006",
+      "de_DE": [
+        "Ausgezeichnet!\r",
+        "Ich bin bereit!\n",
+        "Ich warte im Dojo von Saffronia City!"
+      ]
+    },
+    {
+      "id": "msg_0652_00007",
+      "de_DE": [
+        "Wie bitte?\n",
+        "Keine Zeit? Du scheinst ja sehr\f",
+        "beschäftigt zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0652_00008",
+      "de_DE": [
+        "Es freut mich, dass du noch einmal \n",
+        "gegen mich kämpfen willst, aber du hast\f",
+        "schon anderen ein Rematch\f",
+        "versprochen!"
+      ]
+    },
+    {
+      "id": "msg_0652_00009",
+      "de_DE": [
+        "Rekrut! Ich warte auf dich im Dojo von\n",
+        "Saffronia City!\f",
+        "Nicht vergessen! Das ist ein Befehl!"
+      ]
+    },
+    {
+      "id": "msg_0652_00010",
+      "de_DE": [
+        "Hier Major Bob!\n",
+        "Wie fühlst du dich, Rekrut?\r"
+      ]
+    },
+    {
+      "id": "msg_0652_00011",
+      "de_DE": [
+        "Wir haben uns zum Rematch im Dojo von\n",
+        "Saffronia City verabredet! Erinnerst du\f",
+        "dich?\f",
+        "Ich erwarte dich dort, Rekrut!"
+      ]
+    },
+    {
+      "id": "msg_0652_00012",
+      "de_DE": [
+        "Weshalb habe ich wohl Fallen in der\n",
+        "Arena von Orania City aufgestellt?\r",
+        "Genau!\n",
+        "Um herauszufinden, wie klug die Trainer\f",
+        "sind, die sich mit mir messen wollen!\r",
+        "Du musst wissen, beim Pokémon-Kampf\n",
+        "kommt es nicht nur auf Kraft und\f",
+        "Ausdauer an!\r",
+        "Ausschlaggebend sind vielmehr Kraft und\n",
+        "Verstand! Wer ein herausragender\f",
+        "Trainer werden will, muss beides\f",
+        "in ausreichendem Maße besitzen!"
+      ]
+    },
+    {
+      "id": "msg_0652_00013",
+      "de_DE": [
+        "Als ich bei der Armee war, habe ich viele\n",
+        "außergewöhnliche Trainer ausgebildet.\f",
+        "Aber!!!\r",
+        "Du warst bereits perfekt, als wir uns\n",
+        "getroffen haben!\r",
+        "Wo hast du trainiert? Von wem hast du\n",
+        "kämpfen gelernt?\f",
+        "Unglaublich! Einfach unglaublich!"
+      ]
+    },
+    {
+      "id": "msg_0652_00014",
+      "de_DE": [
+        "Ich habe während meiner Zeit als\n",
+        "Arenaleiter die Sprache dieses Landes\f",
+        "gelernt.\r",
+        "Aber es gibt immer noch viele Wörter,\n",
+        "die ich nicht verstehe.\r",
+        "Möchtest du dich nicht ab und zu mit\n",
+        "mir unterhalten? Wir könnten einander\f",
+        "unsere Sprachen beibringen!"
+      ]
+    }
+  ]
+}

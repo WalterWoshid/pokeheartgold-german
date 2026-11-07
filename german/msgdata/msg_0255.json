@@ -1,0 +1,159 @@
+{
+  "key": 9223,
+  "messages": [
+    {
+      "id": "msg_0255_00000",
+      "de_DE": [
+        "Willkommen auf unserem Schnellboot,\n",
+        "der M.S. Aqua!\r",
+        "...Aber leider nimmt die Wartung der\n",
+        "Maschinen immer sehr viel Zeit\f",
+        "in Anspruch.\r",
+        "Deshalb steht auch noch nicht fest,\n",
+        "wann wir genau ablegen werden..."
+      ]
+    },
+    {
+      "id": "msg_0255_00001",
+      "de_DE": [
+        "Willkommen auf unserem Schnellboot,\n",
+        "der M.S. Aqua!\f",
+        "Hast du ein Ticket?\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} versucht, das Ticket\n",
+        "vorzuzeigen, aber...\r",
+        "...es ist gar keins da!\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00003",
+      "de_DE": [
+        "Hm...\r",
+        "Ich würde ja nur zu gerne eine\n",
+        "Ausnahme für dich machen, aber\f",
+        "Vorschriften sind eben Vorschriften!\f",
+        "Oh nein, bitte sieh mich nicht so an!"
+      ]
+    },
+    {
+      "id": "msg_0255_00004",
+      "de_DE": "{STRVAR_1 3, 0, 0} zeigt das Bootsticket.\r"
+    },
+    {
+      "id": "msg_0255_00005",
+      "de_DE": [
+        "Super, du hast also ein Ticket!\r",
+        "Wir legen bald ab, also beeile\n",
+        "dich besser! Na los, husch!\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00006",
+      "de_DE": [
+        "Hm? Aber ich habe dein Ticket doch\n",
+        "schon gesehen!"
+      ]
+    },
+    {
+      "id": "msg_0255_00007",
+      "de_DE": [
+        "Willkommen auf der M.S. Aqua!\r",
+        "Dein Ticket bitte... vielen Dank!\n",
+        "So, dann mal los!\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00008",
+      "de_DE": [
+        "Das Schiff jeden Tag in Betrieb zu\n",
+        "setzen, wäre ein ganz schöner Aufwand.\f",
+        "Heute ist hier leider kein Fährbetrieb.\r",
+        "Das Schiff nach Orania City\n",
+        "fährt nur montags und freitags\f",
+        "von hier ab!"
+      ]
+    },
+    {
+      "id": "msg_0255_00009",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\r",
+        "Also irgendwie... wirkst du so langsam\n",
+        "wirklich wie ein echter Champ!\r",
+        "Und als Champ solltest du auch einen\n",
+        "angemessenen Pokédex\f",
+        "besitzen!\r",
+        "Gib ihn mir doch bitte mal eben!\n",
+        "Ich rüste ihn für dich mit dem\f",
+        "Nationalen Modus aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00010",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\r",
+        "Also irgendwie... wirkst du so langsam\n",
+        "wirklich wie ein echter Champ!\r",
+        "Und als Champ solltest du auch einen\n",
+        "angemessenen Pokédex\f",
+        "besitzen!\r",
+        "Gib ihn mir doch bitte mal eben!\n",
+        "Ich rüste ihn für dich mit dem\f",
+        "Nationalen Modus aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00011",
+      "de_DE": [
+        "Der Pokédex von {STRVAR_1 3, 0, 0} wurde mit\n",
+        "dem Nationalen Modus ausgerüstet!"
+      ]
+    },
+    {
+      "id": "msg_0255_00012",
+      "de_DE": [
+        "Eich: Ich weiß, es ist nicht leicht,\n",
+        "den Nationalen Pokédex zu\f",
+        "vervollständigen, aber ich hoffe,\f",
+        "du versuchst es trotzdem!\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00013",
+      "de_DE": [
+        "Hoppla! Schon so spät!\r",
+        "Im Radiosender von Dukatia City wird\n",
+        "gleich meine Sendung aufgezeichnet!\r",
+        "Und du brichst nun endlich nach Kanto\n",
+        "auf, nicht wahr?\r",
+        "Ich habe dort in einer Stadt namens\n",
+        "Alabastia ein Forschungslabor!\r",
+        "Komm doch mal vorbei und lass mich\n",
+        "einen Blick auf deinen Pokédex werfen,\f",
+        "wenn du in der Nähe bist!\r"
+      ]
+    },
+    {
+      "id": "msg_0255_00014",
+      "de_DE": [
+        "Die M.S. Aqua wird mit Düsenkraft\n",
+        "betrieben!\r",
+        "Sie berührt kaum das Wasser,\n",
+        "während sie über die Wellen prescht!"
+      ]
+    },
+    {
+      "id": "msg_0255_00015",
+      "de_DE": [
+        "Warst du schon mal in Kanto?\r",
+        "Da soll es sehr viele seltene\n",
+        "Pokémon geben!\f",
+        "Das hört sich so toll an, dass ich es\f",
+        "mal mit eigenen Augen sehen will!"
+      ]
+    }
+  ]
+}

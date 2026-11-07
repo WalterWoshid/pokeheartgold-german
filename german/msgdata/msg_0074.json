@@ -1,0 +1,39 @@
+{
+  "key": 62551,
+  "messages": [
+    {
+      "id": "msg_0074_00000",
+      "de_DE": [
+        "Willkommen in der Ruinenwerkstatt!\r",
+        "Wir restaurieren hier gerade\n",
+        "Steintafeln, die in den Ruinen\f",
+        "ausgegraben wurden.\r",
+        "Die Bruchstücke der Steintafeln lassen\n",
+        "sich drehen, indem man sie kurz antippt.\r",
+        "Berührt man sie, ohne loszulassen,\n",
+        "kann man sie frei umherbewegen.\r",
+        "Wenn man sie auf diese Weise wieder\n",
+        "zusammensetzt, sollte man sie\f",
+        "eigentlich wieder restaurieren können."
+      ]
+    },
+    {
+      "id": "msg_0074_00001",
+      "de_DE": [
+        "Ha-hast du die Steintafeln\n",
+        "etwa wieder zusammengesetzt?!?\r",
+        "Unglaublich!\n",
+        "Du bist der geborene Archäologe!\f",
+        "Ganz ehrlich!"
+      ]
+    },
+    {
+      "id": "msg_0074_00002",
+      "garbage": 34
+    },
+    {
+      "id": "msg_0074_00003",
+      "de_DE": "Nichts passiert..."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "key": 30811,
+  "messages": [
+    {
+      "id": "msg_0687_00000",
+      "de_DE": "Lambert"
+    },
+    {
+      "id": "msg_0687_00001",
+      "de_DE": [
+        "Hui! Ich will noch einmal\n",
+        "gegen dich antreten!\f",
+        "Gibst du mir deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0687_00002",
+      "de_DE": "Hui! Danke!"
+    },
+    {
+      "id": "msg_0687_00003",
+      "de_DE": "Hui! Das ist aber schade!"
+    },
+    {
+      "id": "msg_0687_00004",
+      "de_DE": [
+        "Hui! Ich will noch einmal\n",
+        "gegen dich antreten!\f",
+        "Gibst du mir deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0687_00005",
+      "de_DE": [
+        "So nah und doch am Telefon?\r",
+        "Sei nicht so genant!\n",
+        "Komm einfach hergerannt!"
+      ]
+    },
+    {
+      "id": "msg_0687_00006",
+      "de_DE": [
+        "Es gibt ja Leute, die behaupten, man\n",
+        "müsse geangelte Pokémon nicht füttern,\f",
+        "aber das sehe ich anders.\r",
+        "Immerhin gibt mein {STRVAR_1 0, 10, 0}\n",
+        "für mich täglich sein Bestes.\r",
+        "Dafür gebe ich ihm leckere Snacks,\n",
+        "streichele und kraule es\f",
+        "und zeige ihm meine Wertschätzung!"
+      ]
+    },
+    {
+      "id": "msg_0687_00007",
+      "de_DE": [
+        "Gestern war ich Angeln und\n",
+        "habe ein {STRVAR_1 0, 11, 0} besiegt!\r",
+        "Ja, ich weiß... in den Bergen,\n",
+        "Wäldern, auf Wiesen oder in Höhlen\f",
+        "gibt es noch viele andere Pokémon.\f",
+        "Das ist mir klar.\r",
+        "Dennoch - ich mag nun mal Pokémon wie\n",
+        "{STRVAR_1 0, 11, 0}. Ich bin eben einfach so."
+      ]
+    },
+    {
+      "id": "msg_0687_00008",
+      "de_DE": [
+        "Wenn dir ein Pokémon entwischt, lässt\n",
+        "es dich nicht mehr los! Neulich erst\f",
+        "ist mir ein {STRVAR_1 0, 11, 0} entwischt.\f",
+        "Das tat mir wirklich in der Seele weh!\r",
+        "Wenn du angelst, dann gib acht,\n",
+        "dass du immer mit Ernst bei der Sache\f",
+        "bist. Das erspart dir die späte Reue."
+      ]
+    },
+    {
+      "id": "msg_0687_00009",
+      "de_DE": [
+        "Ich habe genug geangelt.\n",
+        "Langsam möchte ich mal wieder kämpfen.\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}. Hui!"
+      ]
+    },
+    {
+      "id": "msg_0687_00010",
+      "de_DE": [
+        "Hui, hallo! Ich warte hier auf dich.\n",
+        "{STRVAR_1 4, 3, 0}!\f",
+        "Schwing die Hufe, hui!"
+      ]
+    },
+    {
+      "id": "msg_0687_00011",
+      "de_DE": [
+        "Das Faszinierende am Angeln ist,\n",
+        "dass du niemals wissen kannst,\f",
+        "was an der Angel hängt,\f",
+        "bis du deine Schnur einholst.\r",
+        "Wer weiß, irgendwann angele ich\n",
+        "vielleicht gar ein Legendäres Pokémon!\r",
+        "He, die Wahrscheinlichkeit liegt nicht\n",
+        "bei null, oder?\r",
+        "RAIKOU zum Beispiel wandert ständig\n",
+        "durch alle Regionen. Es muss nur\f",
+        "mal ausrutschen und ins Meer fallen.\r",
+        "Vielleicht werde ich derjenige sein,\n",
+        "der es aus dem Meer emporzieht!\r",
+        "...Aber nein, das wäre doch zu abwegig."
+      ]
+    }
+  ]
+}

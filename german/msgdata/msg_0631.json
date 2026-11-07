@@ -1,0 +1,154 @@
+{
+  "key": 63909,
+  "messages": [
+    {
+      "id": "msg_0631_00000",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Hier in der Arena ist es gefährlich. Man\n",
+        "hat nie festen Boden unter den Füßen.\f",
+        "Du packst dein Pokémon lieber weg.\r",
+        "...Gut, nun ans Eingemachte.\n",
+        "Sandra setzt im Kampf die mythischen\f",
+        "und ehrwürdigen Drachen-Pokémon ein.\r",
+        "Mit Kuschelattacken kommst du bei\n",
+        "diesem Typ nicht weit!\r",
+        "Man hört allerdings, sie seien anfällig\n",
+        "gegen Eis-Attacken!"
+      ]
+    },
+    {
+      "id": "msg_0631_00001",
+      "de_DE": [
+        "Alle Achtung! Gegen Sandra zu\n",
+        "bestehen ist kein Pappenstiel!\r",
+        "Nimm dir ihre Worte nicht zu sehr zu\n",
+        "Herzen. Das war eine starke Leistung!\f",
+        "...Denke ich zumindest.\r",
+        "Aber es wäre wohl gesünder für mich,\n",
+        "wenn ich mich Sandra gegenüber\f",
+        "nicht allzu weit aus dem Fenster lehnte."
+      ]
+    },
+    {
+      "id": "msg_0631_00002",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Hier in der Arena ist es gefährlich. Man\n",
+        "hat nie festen Boden unter den Füßen.\f",
+        "Du packst dein Pokémon lieber weg.\r",
+        "...Gut, nun ans Eingemachte.\n",
+        "Sandra setzt im Kampf die mythischen\f",
+        "und ehrwürdigen Drachen-Pokémon ein.\r",
+        "Mit Kuschelattacken kommst du bei\n",
+        "diesem Typ nicht weit!\r",
+        "Man hört allerdings, sie seien anfällig\n",
+        "gegen Eis-Attacken!\r"
+      ]
+    },
+    {
+      "id": "msg_0631_00003",
+      "de_DE": [
+        "Sandra: Ich bin Sandra. Der\n",
+        "beste Drachen-Profi der Welt!\r",
+        "Selbst die Top Vier der Pokémon Liga\n",
+        "können mir nicht das Wasser reichen.\f",
+        "Na? Willst du immer noch gegen\f",
+        "mich antreten?\r",
+        "...Gut. Dann wollen wir\n",
+        "nicht lange fackeln!\r",
+        "Ich ziehe stets alle Register! Gleich,\n",
+        "welcher Trainer mir gegenüber steht!\r"
+      ]
+    },
+    {
+      "id": "msg_0631_00004",
+      "de_DE": [
+        "Sandra: Nein, das akzeptiere ich nicht.\r",
+        "Ich mag verloren haben, aber jemand\n",
+        "mit deiner Einstellung ist in der Pokémon\f",
+        "Liga so gut wie verloren!\r",
+        "...Ich weiß!\r",
+        "Auf der Rückseite dieser Arena liegt ein\n",
+        "Ort, der die Drachenhöhle genannt wird.\r",
+        "In ihrer Mitte steht ein kleiner Schrein.\n",
+        "Begib dich dorthin.\r",
+        "Wenn sich dort herausstellen sollte,\n",
+        "dass du deine faulen Ideale aufgegeben\f",
+        "hast, werde auch ich dich als einen\f",
+        "Trainer ansehen, der würdig ist, den\f",
+        "Orden zu erhalten!"
+      ]
+    },
+    {
+      "id": "msg_0631_00005",
+      "de_DE": [
+        "Sandra: Was hast du denn?\r",
+        "Erwarte ich etwa zu viel von dir?"
+      ]
+    },
+    {
+      "id": "msg_0631_00006",
+      "de_DE": [
+        "Sandra: Du bist spät dran!\n",
+        "Da, nimm, ich habe keine Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0631_00007",
+      "de_DE": [
+        "Sandra: Diese TM enthält Drachenpuls.\r",
+        "Ein Drachenpuls, das ist...\n",
+        "Ach, was das ist, ist ja auch egal!\f",
+        "Jedenfalls haut er ordentlich rein!\r",
+        "Du musst sie nicht verwenden,\n",
+        "wenn du sie nicht möchtest!\r"
+      ]
+    },
+    {
+      "id": "msg_0631_00008",
+      "de_DE": [
+        "Was ist das denn? Räumst du\n",
+        "denn niemals deinen Beutel aus?"
+      ]
+    },
+    {
+      "id": "msg_0631_00009",
+      "de_DE": [
+        "Sandra: Was ist denn los?\n",
+        "Ich dachte, du gehst zur Pokémon Liga?\r",
+        "Oder...\n",
+        "Oh, wir haben vorher wohl noch etwas\f",
+        "zu erledigen?\r",
+        "Apropos, du stammst doch\n",
+        "aus Neuborkia, dem Ort, wo Prof. Linds\f",
+        "Forschungslabor steht?\r",
+        "Wie wär’s, wenn du erst mal wieder\n",
+        "in deine Heimat zurückkehrst?\r",
+        "...Denn wohin auch immer dich dein\n",
+        "weiterer Weg führt, du wirst eine\f",
+        "beschwerliche Reise vor dir haben.\r",
+        "Aber wage es ja nicht, das Handtuch\n",
+        "zu werfen, hast du gehört?\r",
+        "Wie stünde ich denn sonst da?\n",
+        "Als diejenige, die gegen dich\f",
+        "verloren hat?\r",
+        "... ... ... ...\n",
+        "... ...Also, viel Glück!"
+      ]
+    },
+    {
+      "id": "msg_0631_00010",
+      "de_DE": "Pokémon-Arena von Ebenholz City"
+    },
+    {
+      "id": "msg_0631_00011",
+      "de_DE": [
+        "Pokémon-Arena von Ebenholz City\r",
+        "Leiterin: Sandra\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

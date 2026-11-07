@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_MAGNETON",
+  "hpIv": 15,
+  "atkIv": 20,
+  "defIv": 15,
+  "speedIv": 20,
+  "spAtkIv": 20,
+  "spDefIv": 20,
+  "ability": 42,
+  "otId": 50082,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 53558,
+  "heldItem": "ITEM_METAL_COAT",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_DUGTRIO",
+  "unk_50": 0
+}

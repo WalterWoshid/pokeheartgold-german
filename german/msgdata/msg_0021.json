@@ -1,0 +1,627 @@
+{
+  "key": 9233,
+  "messages": [
+    {
+      "id": "msg_0021_00000",
+      "de_DE": "Aprikokobox"
+    },
+    {
+      "id": "msg_0021_00001",
+      "de_DE": "BEEND."
+    },
+    {
+      "id": "msg_0021_00002",
+      "de_DE": "EINSETZ."
+    },
+    {
+      "id": "msg_0021_00003",
+      "de_DE": "PROBIEREN"
+    },
+    {
+      "id": "msg_0021_00004",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0021_00005",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0021_00006",
+      "de_DE": "BEEND."
+    },
+    {
+      "id": "msg_0021_00007",
+      "de_DE": "Aprikoko Rot"
+    },
+    {
+      "id": "msg_0021_00008",
+      "de_DE": "Aprikoko Glb"
+    },
+    {
+      "id": "msg_0021_00009",
+      "de_DE": "Aprikoko Blu"
+    },
+    {
+      "id": "msg_0021_00010",
+      "de_DE": "Aprikoko Grn"
+    },
+    {
+      "id": "msg_0021_00011",
+      "de_DE": "Aprikoko Pnk"
+    },
+    {
+      "id": "msg_0021_00012",
+      "de_DE": "Aprikoko Wss"
+    },
+    {
+      "id": "msg_0021_00013",
+      "de_DE": "Aprikoko Swz"
+    },
+    {
+      "id": "msg_0021_00014",
+      "de_DE": "Tadeus"
+    },
+    {
+      "id": "msg_0021_00015",
+      "de_DE": "Käte"
+    },
+    {
+      "id": "msg_0021_00016",
+      "de_DE": "Gilmore"
+    },
+    {
+      "id": "msg_0021_00017",
+      "de_DE": "Monika"
+    },
+    {
+      "id": "msg_0021_00018",
+      "de_DE": "Theo"
+    },
+    {
+      "id": "msg_0021_00019",
+      "de_DE": "Fader Drink"
+    },
+    {
+      "id": "msg_0021_00020",
+      "de_DE": "Kraftdrink"
+    },
+    {
+      "id": "msg_0021_00021",
+      "de_DE": "Ausd.-Drink"
+    },
+    {
+      "id": "msg_0021_00022",
+      "de_DE": "Technikdrink"
+    },
+    {
+      "id": "msg_0021_00023",
+      "de_DE": "Sprungdrink"
+    },
+    {
+      "id": "msg_0021_00024",
+      "de_DE": "Tempodrink"
+    },
+    {
+      "id": "msg_0021_00025",
+      "de_DE": "{STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0021_00026",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0021_00027",
+      "de_DE": "Es enthält deine gesammelten Aprikokos."
+    },
+    {
+      "id": "msg_0021_00028",
+      "de_DE": "Fülle den Shaker mit Aprikokos."
+    },
+    {
+      "id": "msg_0021_00029",
+      "de_DE": "Noch nicht genügend geschüttelt..."
+    },
+    {
+      "id": "msg_0021_00030",
+      "de_DE": "Langsam nimmt der Drink Gestalt an..."
+    },
+    {
+      "id": "msg_0021_00031",
+      "de_DE": "Nicht mehr lang und der Drink ist fertig."
+    },
+    {
+      "id": "msg_0021_00032",
+      "de_DE": "Der Drink ist jetzt fertig."
+    },
+    {
+      "id": "msg_0021_00033",
+      "de_DE": "Es ist noch Platz für {STRVAR_1 50, 0, 0} Stück."
+    },
+    {
+      "id": "msg_0021_00034",
+      "de_DE": "Der Aprikoshaker ist randvoll."
+    },
+    {
+      "id": "msg_0021_00035",
+      "de_DE": "Was soll mit dem Drink geschehen?"
+    },
+    {
+      "id": "msg_0021_00036",
+      "de_DE": "Du nippst kurz daran!"
+    },
+    {
+      "id": "msg_0021_00037",
+      "de_DE": "Welche Aprikoko möchtest du abgeben?"
+    },
+    {
+      "id": "msg_0021_00038",
+      "de_DE": "Wie viele gibst du ab?"
+    },
+    {
+      "id": "msg_0021_00039",
+      "de_DE": "Also {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}? In Ordnung?"
+    },
+    {
+      "id": "msg_0021_00040",
+      "de_DE": [
+        "Aprikoko Rot\n",
+        "Eine rote Aprikoko.\n",
+        "Besitzt einen stechenden Geruch."
+      ]
+    },
+    {
+      "id": "msg_0021_00041",
+      "de_DE": [
+        "Aprikoko Glb\n",
+        "Eine gelbe Aprikoko.\n",
+        "Ein frischer Geruch geht von ihr aus."
+      ]
+    },
+    {
+      "id": "msg_0021_00042",
+      "de_DE": [
+        "Aprikoko Blu\n",
+        "Eine blaue Aprikoko.\n",
+        "Sie riecht ein wenig unreif."
+      ]
+    },
+    {
+      "id": "msg_0021_00043",
+      "de_DE": [
+        "Aprikoko Grn\n",
+        "Eine grüne Aprikoko. Sie verströmt\n",
+        "einen seltsam aromatischen Duft."
+      ]
+    },
+    {
+      "id": "msg_0021_00044",
+      "de_DE": [
+        "Aprikoko Pnk\n",
+        "Eine pinke Aprikoko.\n",
+        "Sie duftet süß und appetitanregend."
+      ]
+    },
+    {
+      "id": "msg_0021_00045",
+      "de_DE": [
+        "Aprikoko Wss\n",
+        "Eine weiße Aprikoko.\n",
+        "Riecht nach überhaupt nichts."
+      ]
+    },
+    {
+      "id": "msg_0021_00046",
+      "de_DE": [
+        "Aprikoko Swz\n",
+        "Eine schwarze Aprikoko.\n",
+        "Sie riecht irgendwie unbeschreiblich."
+      ]
+    },
+    {
+      "id": "msg_0021_00047",
+      "de_DE": "Aprikoshaker"
+    },
+    {
+      "id": "msg_0021_00048",
+      "de_DE": [
+        "{STRVAR_1 8, 0, 0}\n",
+        "Würze: {STRVAR_1 52, 1, 0}; Milde: {STRVAR_1 52, 2, 0}\n",
+        "Noch Platz für {STRVAR_1 50, 3, 0} Stück"
+      ]
+    },
+    {
+      "id": "msg_0021_00049",
+      "de_DE": [
+        "~Rezept für Aprikodrink~\n",
+        "Hau ein paar Aprikokos in\n",
+        "den Shaker!\r",
+        "Eine Aprikoko reicht schon -\n",
+        "doch für Drinks gilt: je mehr\n",
+        "Aprikokos, desto stärker!\r",
+        "Dann schnappe dir den Shaker\n",
+        "und schüttele das Ganze, indem\n",
+        "du in die nächste Stadt läufst!"
+      ]
+    },
+    {
+      "id": "msg_0021_00050",
+      "de_DE": "Der Aprikodrink ist fertig!"
+    },
+    {
+      "id": "msg_0021_00051",
+      "de_DE": [
+        "Der Geschmack des Aprikodrinks\n",
+        "hat sich geändert!"
+      ]
+    },
+    {
+      "id": "msg_0021_00052",
+      "de_DE": [
+        "Der Drink ist noch nicht so weit!\n",
+        "Hau ein paar Aprikokos in den\n",
+        "Shaker und dann flitze los!"
+      ]
+    },
+    {
+      "id": "msg_0021_00053",
+      "de_DE": [
+        "Der Shaker ist randvoll!\n",
+        "Laufe eine Runde und\n",
+        "schüttele ihn ordentlich!"
+      ]
+    },
+    {
+      "id": "msg_0021_00054",
+      "de_DE": [
+        "Der Drink ist in Arbeit!\n",
+        "Laufe eine Runde und\n",
+        "schüttele ihn ordentlich!"
+      ]
+    },
+    {
+      "id": "msg_0021_00055",
+      "de_DE": [
+        "Der Drink wird gerade\n",
+        "aufgepeppt! Laufe eine Runde\n",
+        "und schüttele ihn ordentlich!"
+      ]
+    },
+    {
+      "id": "msg_0021_00056",
+      "de_DE": "Es schmeckt leicht scharf."
+    },
+    {
+      "id": "msg_0021_00057",
+      "de_DE": "Dieser Drink hat Biss!"
+    },
+    {
+      "id": "msg_0021_00058",
+      "de_DE": "Eine schweißtreibende Schärfe!"
+    },
+    {
+      "id": "msg_0021_00059",
+      "de_DE": "Bei der Schärfe tränen Augen!"
+    },
+    {
+      "id": "msg_0021_00060",
+      "de_DE": "So scharf, da wächst kein Gras!"
+    },
+    {
+      "id": "msg_0021_00061",
+      "de_DE": "Die ultimative Schärfebombe!"
+    },
+    {
+      "id": "msg_0021_00062",
+      "de_DE": "Es schmeckt leicht säuerlich."
+    },
+    {
+      "id": "msg_0021_00063",
+      "de_DE": "Eine erfrischende Säure."
+    },
+    {
+      "id": "msg_0021_00064",
+      "de_DE": "Uuuuuh... sauer!"
+    },
+    {
+      "id": "msg_0021_00065",
+      "de_DE": "Die Säure zieht alles zusammen!"
+    },
+    {
+      "id": "msg_0021_00066",
+      "de_DE": "Eine alles durchdringende Säure!"
+    },
+    {
+      "id": "msg_0021_00067",
+      "de_DE": "Das ultimative Säureerlebnis!"
+    },
+    {
+      "id": "msg_0021_00068",
+      "de_DE": "Es schmeckt leicht trocken."
+    },
+    {
+      "id": "msg_0021_00069",
+      "de_DE": "Äußerst trocken!"
+    },
+    {
+      "id": "msg_0021_00070",
+      "de_DE": "Unvergleichlich trocken!"
+    },
+    {
+      "id": "msg_0021_00071",
+      "de_DE": "So trocken, dass es bröselt!"
+    },
+    {
+      "id": "msg_0021_00072",
+      "de_DE": "Abgrundtief trocken!"
+    },
+    {
+      "id": "msg_0021_00073",
+      "de_DE": "Das ultimative Trockengefühl!"
+    },
+    {
+      "id": "msg_0021_00074",
+      "de_DE": "Es schmeckt leicht bitter."
+    },
+    {
+      "id": "msg_0021_00075",
+      "de_DE": "Zartherbe Bitterkeit."
+    },
+    {
+      "id": "msg_0021_00076",
+      "de_DE": "Gewaltig bitter!"
+    },
+    {
+      "id": "msg_0021_00077",
+      "de_DE": "Durchschlagend bitter!"
+    },
+    {
+      "id": "msg_0021_00078",
+      "de_DE": "Ein Meer von Bitterkeit!"
+    },
+    {
+      "id": "msg_0021_00079",
+      "de_DE": "Das Ultimo an Bitterkeit!"
+    },
+    {
+      "id": "msg_0021_00080",
+      "de_DE": "Es schmeckt leicht süßlich."
+    },
+    {
+      "id": "msg_0021_00081",
+      "de_DE": "Ein süßer Geschmack!"
+    },
+    {
+      "id": "msg_0021_00082",
+      "de_DE": "Äußerst süß!"
+    },
+    {
+      "id": "msg_0021_00083",
+      "de_DE": "Quietschsüß!"
+    },
+    {
+      "id": "msg_0021_00084",
+      "de_DE": "Eine alles zersetzende Süße!"
+    },
+    {
+      "id": "msg_0021_00085",
+      "de_DE": "Der ultimative Zuckerschock!"
+    },
+    {
+      "id": "msg_0021_00086",
+      "de_DE": "Eine leicht scharfe Note..."
+    },
+    {
+      "id": "msg_0021_00087",
+      "de_DE": "Eine dezente Schärfe..."
+    },
+    {
+      "id": "msg_0021_00088",
+      "de_DE": "Eine ausgeprägte Schärfe..."
+    },
+    {
+      "id": "msg_0021_00089",
+      "de_DE": "Eine intensive Schärfe..."
+    },
+    {
+      "id": "msg_0021_00090",
+      "de_DE": "Eine leicht saure Note..."
+    },
+    {
+      "id": "msg_0021_00091",
+      "de_DE": "Eine dezente Säure..."
+    },
+    {
+      "id": "msg_0021_00092",
+      "de_DE": "Eine ausgeprägte Säure..."
+    },
+    {
+      "id": "msg_0021_00093",
+      "de_DE": "Eine intensive Säure..."
+    },
+    {
+      "id": "msg_0021_00094",
+      "de_DE": "Eine leicht trockene Note..."
+    },
+    {
+      "id": "msg_0021_00095",
+      "de_DE": "Eine dezente Trockenheit..."
+    },
+    {
+      "id": "msg_0021_00096",
+      "de_DE": "Eine ausgeprägte Trockenheit..."
+    },
+    {
+      "id": "msg_0021_00097",
+      "de_DE": "Eine intensive Trockenheit..."
+    },
+    {
+      "id": "msg_0021_00098",
+      "de_DE": "Eine leicht bittere Note..."
+    },
+    {
+      "id": "msg_0021_00099",
+      "de_DE": "Eine dezente Bitterkeit..."
+    },
+    {
+      "id": "msg_0021_00100",
+      "de_DE": "Eine ausgeprägte Bitterkeit..."
+    },
+    {
+      "id": "msg_0021_00101",
+      "de_DE": "Eine intensive Bitterkeit..."
+    },
+    {
+      "id": "msg_0021_00102",
+      "de_DE": "Eine leicht süße Note..."
+    },
+    {
+      "id": "msg_0021_00103",
+      "de_DE": "Eine dezente Süße..."
+    },
+    {
+      "id": "msg_0021_00104",
+      "de_DE": "Eine ausgeprägte Süße..."
+    },
+    {
+      "id": "msg_0021_00105",
+      "de_DE": "Eine intensive Süße..."
+    },
+    {
+      "id": "msg_0021_00106",
+      "de_DE": "Doch mit einem Hauch Schärfe."
+    },
+    {
+      "id": "msg_0021_00107",
+      "de_DE": "Doch mit merklicher Schärfe."
+    },
+    {
+      "id": "msg_0021_00108",
+      "de_DE": "Doch mit markanter Schärfe."
+    },
+    {
+      "id": "msg_0021_00109",
+      "de_DE": "Doch mit einem Hauch Säure."
+    },
+    {
+      "id": "msg_0021_00110",
+      "de_DE": "Doch mit merklicher Säure."
+    },
+    {
+      "id": "msg_0021_00111",
+      "de_DE": "Doch mit markanter Säure."
+    },
+    {
+      "id": "msg_0021_00112",
+      "de_DE": "Mit einem Hauch von Trockenheit."
+    },
+    {
+      "id": "msg_0021_00113",
+      "de_DE": "Doch mit merklicher Trockenheit."
+    },
+    {
+      "id": "msg_0021_00114",
+      "de_DE": "Doch mit markanter Trockenheit."
+    },
+    {
+      "id": "msg_0021_00115",
+      "de_DE": "Mit einem Hauch von Bitterkeit."
+    },
+    {
+      "id": "msg_0021_00116",
+      "de_DE": "Doch mit merklicher Bitterkeit."
+    },
+    {
+      "id": "msg_0021_00117",
+      "de_DE": "Doch mit markanter Bitterkeit."
+    },
+    {
+      "id": "msg_0021_00118",
+      "de_DE": "Doch mit einem Hauch Süße."
+    },
+    {
+      "id": "msg_0021_00119",
+      "de_DE": "Doch mit merklicher Süße."
+    },
+    {
+      "id": "msg_0021_00120",
+      "de_DE": "Doch mit markanter Süße."
+    },
+    {
+      "id": "msg_0021_00121",
+      "de_DE": "Disharmonischer Nachgeschmack!"
+    },
+    {
+      "id": "msg_0021_00122",
+      "de_DE": "Erfrischender Nachgeschmack!"
+    },
+    {
+      "id": "msg_0021_00123",
+      "de_DE": "Die Schärfe ist verschwunden."
+    },
+    {
+      "id": "msg_0021_00124",
+      "de_DE": "Die Säure ist verschwunden."
+    },
+    {
+      "id": "msg_0021_00125",
+      "de_DE": "Die Trockenheit ist weg."
+    },
+    {
+      "id": "msg_0021_00126",
+      "de_DE": "Die Bitterkeit ist verschwunden."
+    },
+    {
+      "id": "msg_0021_00127",
+      "de_DE": "Die Süße ist verschwunden."
+    },
+    {
+      "id": "msg_0021_00128",
+      "de_DE": [
+        "Das schmeckt wie eingeschlafene\n",
+        "Füße! Eine farbige Aprikoko wäre\n",
+        "jetzt genau das Richtige..."
+      ]
+    },
+    {
+      "id": "msg_0021_00129",
+      "de_DE": [
+        "Nicht gerade der Knüller!\n",
+        "Die Aromen verschwimmen...\n",
+        "Es schmeckt total undefinierbar."
+      ]
+    },
+    {
+      "id": "msg_0021_00130",
+      "de_DE": [
+        "Nicht gerade der Knüller!\n",
+        "Die Aromen beißen sich...\n",
+        "Es schmeckt total undefinierbar."
+      ]
+    },
+    {
+      "id": "msg_0021_00131",
+      "de_DE": [
+        "Das schmeckt nach überhaupt\n",
+        "nichts! Eine farbige Aprikoko\n",
+        "wäre jetzt genau das Richtige..."
+      ]
+    },
+    {
+      "id": "msg_0021_00132",
+      "de_DE": [
+        "Scharf {STRVAR_1 51, 0, 0} Sauer {STRVAR_1 51, 1, 0} Trock. {STRVAR_1 51, 2, 0}\n",
+        "Bitter {STRVAR_1 51, 3, 0} Süß {STRVAR_1 51, 4, 0}\n",
+        "Milde {STRVAR_1 51, 5, 0} Würze {STRVAR_1 51, 6, 0}"
+      ]
+    },
+    {
+      "id": "msg_0021_00133",
+      "de_DE": [
+        "Noch {STRVAR_1 59, 0, 0} Schritte Vorrat: {STRVAR_1 50, 1, 0}\n",
+        "1: {STRVAR_1 50, 2, 0} 2: {STRVAR_1 50, 3, 0} 3: {STRVAR_1 50, 4, 0} 4: {STRVAR_1 50, 5, 0} 5: {STRVAR_1 50, 6, 0}\n",
+        "Drink Start: {STRVAR_1 59, 7, 0} noch {STRVAR_1 52, 8, 0} Schrit.\n",
+        "Milde Start: {STRVAR_1 59, 9, 0} noch {STRVAR_1 52, 10, 0} Schrit."
+      ]
+    }
+  ]
+}

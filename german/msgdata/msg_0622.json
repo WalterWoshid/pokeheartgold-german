@@ -1,0 +1,115 @@
+{
+  "key": 63975,
+  "messages": [
+    {
+      "id": "msg_0622_00000",
+      "de_DE": [
+        "Norbert: Pokémon und Menschen müssen\n",
+        "vieles auf die harte Tour lernen.\r",
+        "Höre auf den Rat eines Erwachsenen...\r",
+        "Ich habe schon Pokémon trainiert,\n",
+        "bevor du überhaupt geboren wurdest.\f",
+        "Du kannst mich nicht besiegen.\r",
+        "Ich, Norbert, der Wintertrainer, werde\n",
+        "dir nun meine Macht demonstrieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0622_00001",
+      "de_DE": [
+        "Norbert: Hm, dein Können hat mich\n",
+        "schwer beeindruckt.\r",
+        "Mit deinem starken Willen wirst du\n",
+        "alle Widrigkeiten dieses Lebens\f",
+        "mühelos überstehen.\r",
+        "Du bist dieses Ordens würdig!\r"
+      ]
+    },
+    {
+      "id": "msg_0622_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Eisorden!"
+      ]
+    },
+    {
+      "id": "msg_0622_00003",
+      "de_DE": [
+        "Norbert: Dieser Orden erlaubt es\n",
+        "deinen Pokémon, die Attacke Whirlpool\f",
+        "zu erlernen, mit der du selbst rasende\f",
+        "Stromschnellen überqueren kannst!\r",
+        "Und das hier ist ein ganz besonderes\n",
+        "Geschenk von mir persönlich.\r"
+      ]
+    },
+    {
+      "id": "msg_0622_00004",
+      "de_DE": [
+        "Norbert: Darin findest du Hagelsturm.\r",
+        "Der kurze Hagelschauer, den diese\n",
+        "Attacke verursacht, wird deine\f",
+        "Gegner ganz schön durchschütteln!\r",
+        "Sie verkörpert all die Grauen eines\n",
+        "harten Winters."
+      ]
+    },
+    {
+      "id": "msg_0622_00005",
+      "de_DE": [
+        "Norbert: Sind Schnee und Eis erst\n",
+        "einmal geschmolzen, kehrt immer\f",
+        "auch wieder der Frühling zurück...\r",
+        "Du und deine Pokémon, ihr werdet noch\n",
+        "sehr viel Zeit miteinander verbringen.\f",
+        "Koste die Zeit aus!"
+      ]
+    },
+    {
+      "id": "msg_0622_00006",
+      "de_DE": [
+        "Norbert: Oh, du bist es!\r",
+        "Wenn du mich schon mal besuchen\n",
+        "kommst, sollten wir zur Erinnerung\f",
+        "auch ein Foto schießen, oder? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0622_00007",
+      "de_DE": [
+        "Norbert: Gut! Aber bevor wir zur Tat\n",
+        "schreiten, möchte ich dir noch ein\f",
+        "paar Tipps geben...\r",
+        "Wenn du ein besonders schönes Foto\n",
+        "von dir schießen möchtest, solltest du\f",
+        "erst mal ganz entspannt ausatmen und\f",
+        "dich so locker wie nur möglich machen.\f",
+        "Und dann fehlt nur noch ein Lächeln!\r",
+        "In Ordnung, dann kann’s ja losgehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0622_00008",
+      "de_DE": [
+        "Norbert: Na, was sagst du? Ist doch\n",
+        "ganz hübsch geworden, oder?"
+      ]
+    },
+    {
+      "id": "msg_0622_00009",
+      "de_DE": [
+        "Norbert: Oh, in Ordnung...\n",
+        "Na ja, mach, was du willst."
+      ]
+    },
+    {
+      "id": "msg_0622_00010",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

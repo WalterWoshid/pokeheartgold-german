@@ -1,0 +1,313 @@
+{
+  "key": 33278,
+  "messages": [
+    {
+      "id": "msg_0039_00000",
+      "de_DE": "{ALN_CENTER}“Voltofalle Lv. {STRVAR_1 50, 0, 0}”"
+    },
+    {
+      "id": "msg_0039_00001",
+      "de_DE": "{ALN_CENTER}Drehe die Tafeln um und sammele Münzen!"
+    },
+    {
+      "id": "msg_0039_00002",
+      "de_DE": "...x 1! ...x 2! ...x 3!"
+    },
+    {
+      "id": "msg_0039_00003",
+      "de_DE": "Das war’s! 0 Münzen!"
+    },
+    {
+      "id": "msg_0039_00004",
+      "de_DE": [
+        "{ALN_CENTER}Münzen, die {STRVAR_1 3, 0, 0}\n",
+        "{ALN_CENTER}sicher sind"
+      ]
+    },
+    {
+      "id": "msg_0039_00005",
+      "de_DE": [
+        "{ALN_CENTER}In der aktuellen Partie\n",
+        "{ALN_CENTER}erspielte Münzen"
+      ]
+    },
+    {
+      "id": "msg_0039_00006",
+      "de_DE": [
+        "{ALN_CENTER}NOTIZ\n",
+        "{ALN_CENTER}SETZEN"
+      ]
+    },
+    {
+      "id": "msg_0039_00007",
+      "de_DE": [
+        "{ALN_CENTER}NOTIZ\n",
+        "{ALN_CENTER}ENDE"
+      ]
+    },
+    {
+      "id": "msg_0039_00008",
+      "de_DE": "{ALN_CENTER}ENDE"
+    },
+    {
+      "id": "msg_0039_00009",
+      "de_DE": [
+        "{ALN_CENTER}Die Ziffern am Ende der Tafelreihen geben\n",
+        "{ALN_CENTER}den Gesamtwert der verdeckten Zahlen\n",
+        "{ALN_CENTER}und die Anzahl der VOLTOBAL in ihnen an."
+      ]
+    },
+    {
+      "id": "msg_0039_00010",
+      "de_DE": [
+        "{ALN_CENTER}Berührst du das Feld “NOTIZ SETZEN”,\n",
+        "{ALN_CENTER}erscheint das Notizfenster. Dort kannst\n",
+        "{ALN_CENTER}du das Spielfeld per Touchpen mit\n",
+        "{ALN_CENTER}speziellen Markierungen versehen."
+      ]
+    },
+    {
+      "id": "msg_0039_00011",
+      "de_DE": [
+        "{ALN_CENTER}Drehe die Tafeln in dieser Reihenfolge um\n",
+        "{ALN_CENTER}und du erhältst + 3 x 1 x 2 x 1 x 3 = 18\n",
+        "{ALN_CENTER}Münzen. Wenn du nun..."
+      ]
+    },
+    {
+      "id": "msg_0039_00012",
+      "de_DE": [
+        "{ALN_CENTER}...“ENDE” wählst, verlässt\n",
+        "{ALN_CENTER}du das Spiel mit 18 Münzen."
+      ]
+    },
+    {
+      "id": "msg_0039_00013",
+      "de_DE": [
+        "{ALN_CENTER}Deckst du ein VOLTOBAL auf,\n",
+        "{ALN_CENTER}gehst du vollkommen leer aus!"
+      ]
+    },
+    {
+      "id": "msg_0039_00014",
+      "de_DE": [
+        "Du hast 50 000 Münzen gesammelt.\n",
+        "Mehr kannst du nicht tragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00015",
+      "de_DE": "Möchtest du Voltofalle Lv. {STRVAR_1 50, 0, 0} spielen?"
+    },
+    {
+      "id": "msg_0039_00016",
+      "de_DE": "Möchtest du Voltofalle Lv. {STRVAR_1 50, 0, 0} spielen?"
+    },
+    {
+      "id": "msg_0039_00017",
+      "de_DE": "SPIELEN"
+    },
+    {
+      "id": "msg_0039_00018",
+      "de_DE": "SPIELREGELN"
+    },
+    {
+      "id": "msg_0039_00019",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0039_00020",
+      "de_DE": "Was möchtest du wissen?"
+    },
+    {
+      "id": "msg_0039_00021",
+      "de_DE": "WIE MAN SPIELT"
+    },
+    {
+      "id": "msg_0039_00022",
+      "de_DE": "TIPPS!"
+    },
+    {
+      "id": "msg_0039_00023",
+      "de_DE": "ÜBER NOTIZEN"
+    },
+    {
+      "id": "msg_0039_00024",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0039_00025",
+      "de_DE": [
+        "Bei Voltofalle deckst du Tafeln auf, um\n",
+        "den Zahlenwert auf ihnen in Form von\f",
+        "Münzen ausgezahlt zu bekommen.\r",
+        "Unter jeder Tafel verbirgt sich\n",
+        "entweder eine Ziffer zwischen 1 und 3\f",
+        "oder ein VOLTOBAL.\r",
+        "Die Zahl, die sich unter deiner ersten\n",
+        "Tafel versteckt, wird zunächst einfach\f",
+        "zu deinem Münzkonto hinzugezählt.\r",
+        "Ab der zweiten Tafel wird der Wert der\n",
+        "bis dahin von dir erbeuteten Münzen mit\f",
+        "dem der aufgedeckten Zahl multipliziert.\r",
+        "Findest du also eine “2”, verdoppelt\n",
+        "sich die Anzahl deiner Münzen, während\f",
+        "er sich bei einer “3” verdreifacht.\r",
+        "Deckst du dagegen ein VOLTOBAL auf,\n",
+        "ist das Spiel vorbei und du verlierst\f",
+        "alle Münzen, die du in dieser Partie\f",
+        "gesammelt hast.\r",
+        "Über das Feld “Ende” kannst du\n",
+        "jederzeit aus dem Spiel aussteigen,\f",
+        "wenn es dir zu heiß wird.\r",
+        "Sollte es dir gelingen, alle versteckten\n",
+        "Zahlen aufzudecken, hast du gewonnen.\f",
+        "Geht das Spiel zu deinen Gunsten aus,\f",
+        "steigt dadurch außerdem auch der\f",
+        "Schwierigkeitsgrad der nächsten Partie.\r",
+        "Je höher der Schwierigkeitsgrad einer\n",
+        "Partie ist, desto mehr Münzen kannst du\f",
+        "in ihr erbeuten, also leg dich ins Zeug!\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00026",
+      "de_DE": [
+        "Die Ziffern am Ende der Tafelreihen\n",
+        "geben die Quersumme der Zahlen an,\f",
+        "die sich unter allen Tafeln einer\f",
+        "Reihe verbergen.\r",
+        "Je höher die Quersumme ist, desto\n",
+        "wahrscheinlicher ist es, dass auch viele\f",
+        "hohe Zahlen unter den Tafeln stecken.\r",
+        "Die zweite Ziffer gibt dir außerdem an,\n",
+        "wie viele VOLTOBAL sich in einer Reihe\f",
+        "versteckt halten.\r",
+        "Denke also gut nach, bevor du eine\n",
+        "Tafel aufdeckst!\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00027",
+      "de_DE": [
+        "Wähle “NOTIZ SETZEN”, um Markierungen\n",
+        "auf dem Spielfeld zu hinterlassen.\r",
+        "Hierfür steht dir eine Reihe von\n",
+        "Symbolen zur Verfügung, die entweder\f",
+        "die Zahlen 1 bis 3 oder VOLTOBAL\f",
+        "darstellen.\r",
+        "Wenn du bereits ahnst, was sich\n",
+        "unter einer bestimmten Tafel\f",
+        "verbirgt, wähle “NOTIZ SETZEN” und\f",
+        "markiere sie per Touchpen.\r",
+        "Möchtest du eine Markierung wieder\n",
+        "löschen, berühre sie einfach ein\f",
+        "zweites Mal, und sie verschwindet.\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00028",
+      "de_DE": "Jetzt wird’s ernst!"
+    },
+    {
+      "id": "msg_0039_00029",
+      "de_DE": "Was verbirgt sich wohl darunter?"
+    },
+    {
+      "id": "msg_0039_00030",
+      "de_DE": "Eine “{STRVAR_1 50, 0, 0}”! Du erhältst {STRVAR_1 50, 0, 0} Münze(n)!"
+    },
+    {
+      "id": "msg_0039_00031",
+      "de_DE": "“x {STRVAR_1 50, 0, 0}”! Du erhältst {STRVAR_1 53, 1, 0} Münzen!"
+    },
+    {
+      "id": "msg_0039_00032",
+      "de_DE": "So ein Pech! Du gehst leer aus!"
+    },
+    {
+      "id": "msg_0039_00033",
+      "de_DE": [
+        "Du hast gewonnen!!!\r",
+        "Alle Tafeln, unter denen sich eine 2\n",
+        "oder eine 3 verbirgt, sind aufgedeckt!\r",
+        "In dieser Partie kannst du keine\n",
+        "weiteren Münzen mehr sammeln.\f",
+        "Damit ist das Spiel vorbei!\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00034",
+      "de_DE": [
+        "Wenn du jetzt aus dem Spiel aussteigst,\n",
+        "erhältst du insgesamt {STRVAR_1 53, 0, 0} Münze(n).\f",
+        "Willst du wirklich aufhören?"
+      ]
+    },
+    {
+      "id": "msg_0039_00035",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0039_00036",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0039_00037",
+      "de_DE": [
+        "Du erhältst keine Münzen!\n",
+        "Willst du aus der Partie aussteigen?"
+      ]
+    },
+    {
+      "id": "msg_0039_00038",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0039_00039",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0039_00040",
+      "de_DE": "{STRVAR_1 3, 1, 0} erhält {STRVAR_1 53, 0, 0} Münze(n)!\r"
+    },
+    {
+      "id": "msg_0039_00041",
+      "de_DE": [
+        "Der Schwierigkeitsgrad von Voltofalle\n",
+        "steigt auf Lv. {STRVAR_1 50, 0, 0} an!\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00042",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\r",
+        "Damit kannst du bei der nächsten Partie\n",
+        "noch mehr Münzen abstauben!\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00043",
+      "de_DE": [
+        "Der Schwierigkeitsgrad von Voltofalle\n",
+        "fällt auf Lv. {STRVAR_1 50, 0, 0} zurück!\r"
+      ]
+    },
+    {
+      "id": "msg_0039_00044",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0039_00045",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0039_00046",
+      "de_DE": "Lv.-Nummer: {STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0039_00047",
+      "de_DE": "Schwierigkeitsgrad: {STRVAR_1 50, 1, 0}"
+    }
+  ]
+}

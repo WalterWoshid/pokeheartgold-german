@@ -1,0 +1,133 @@
+{
+  "key": 9363,
+  "messages": [
+    {
+      "id": "msg_0141_00000",
+      "de_DE": [
+        "Dieses ist das Zimmer des “Vertrauens”.\r",
+        "Das Thema, das ihm zugrunde liegt,\n",
+        "lautet: “Die Gegenwart des Pokéathlon\f",
+        "und das Band des Vertrauens zwischen\f",
+        "Mensch und Pokémon.”"
+      ]
+    },
+    {
+      "id": "msg_0141_00001",
+      "de_DE": [
+        "Nur fortgeschrittene Poké-Athleten,\n",
+        "die fünf Medaillen mit demselben Pokémon\f",
+        "erhalten haben, dürfen hier durch."
+      ]
+    },
+    {
+      "id": "msg_0141_00002",
+      "de_DE": [
+        "Hier gelangst du zum Zimmer der\n",
+        "“Talente”. Du darfst passieren!"
+      ]
+    },
+    {
+      "id": "msg_0141_00003",
+      "de_DE": [
+        "Wer seinen Pokémon nicht vertraut,\n",
+        "wird es auch schwer haben, mit ihnen\f",
+        "Medaillen zu gewinnen."
+      ]
+    },
+    {
+      "id": "msg_0141_00004",
+      "de_DE": [
+        "Ich werde alles geben, damit\n",
+        "man hier irgendwann auch mal\f",
+        "meine Schuhe ausstellt!"
+      ]
+    },
+    {
+      "id": "msg_0141_00005",
+      "de_DE": [
+        "Diese Hallen sind randvollgestopft mit\n",
+        "den verschiedensten Einrichtungen!"
+      ]
+    },
+    {
+      "id": "msg_0141_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schaut sich die\n",
+        "Medaillen an.\r"
+      ]
+    },
+    {
+      "id": "msg_0141_00007",
+      "de_DE": [
+        "Hier werden Poké-Athleten geehrt,\n",
+        "deren ungestüme Herzen nicht zu\f",
+        "sättigen sind, und die mindestens 50 Mal\f",
+        "am Pokéathlon teilgenommen haben."
+      ]
+    },
+    {
+      "id": "msg_0141_00008",
+      "de_DE": [
+        "Da steht ein Trainingsanzug mit\n",
+        "deinem Autogramm aus!"
+      ]
+    },
+    {
+      "id": "msg_0141_00009",
+      "de_DE": [
+        "Hier werden neue Pokéathlon-Legenden\n",
+        "geehrt, die mindestens 5 000 Mal am\f",
+        "Hürdenlauf teilgenommen haben."
+      ]
+    },
+    {
+      "id": "msg_0141_00010",
+      "de_DE": [
+        "Da stehen coole Schuhe vom selben\n",
+        "Modell, das du trägst!"
+      ]
+    },
+    {
+      "id": "msg_0141_00011",
+      "de_DE": [
+        "Hier werden Poké-Athleten geehrt, die\n",
+        "mindestens 200 Mal ihr Pokémon\f",
+        "ausgewechselt und damit die Stärke\f",
+        "ihrer Freundschaft bewiesen haben."
+      ]
+    },
+    {
+      "id": "msg_0141_00012",
+      "de_DE": [
+        "Das ist eine Flagge, die nach deinem\n",
+        "persönlichen Modell angefertigt wurde!"
+      ]
+    },
+    {
+      "id": "msg_0141_00013",
+      "de_DE": [
+        "Die Pokéathlon-Medaillen symbolisieren,\n",
+        "was du zusammen mit deinen Pokémon\f",
+        "alles durchgestanden hast.\r",
+        "Pokémon, die mit fünf Medaillen prämiert\n",
+        "wurden, erhalten als Ausdruck des\f",
+        "Vertrauens zwischen ihnen und ihren\f",
+        "Trainern außerdem den Sondertitel\f",
+        "“Medaillengewinner”.\n"
+      ]
+    },
+    {
+      "id": "msg_0141_00014",
+      "de_DE": [
+        "ABRA: Zzz...\n",
+        "... ... ...\f",
+        "... ... ...\r",
+        "Es scheint zu schlafen!"
+      ]
+    },
+    {
+      "id": "msg_0141_00015",
+      "de_DE": "DRATINI: Dratini!"
+    }
+  ]
+}

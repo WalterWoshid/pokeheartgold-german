@@ -1,0 +1,195 @@
+{
+  "key": 40969,
+  "messages": [
+    {
+      "id": "msg_0481_00000",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0481_00001",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0481_00002",
+      "de_DE": "MULTIKAMPF"
+    },
+    {
+      "id": "msg_0481_00003",
+      "de_DE": "LINK-MULTIKAMPF"
+    },
+    {
+      "id": "msg_0481_00004",
+      "de_DE": "Wi-Fi KAMPF"
+    },
+    {
+      "id": "msg_0481_00005",
+      "de_DE": "DURCHSCHN. SIEGESSERIE"
+    },
+    {
+      "id": "msg_0481_00006",
+      "de_DE": "BESIEGTE POKéMON"
+    },
+    {
+      "id": "msg_0481_00007",
+      "de_DE": "GEFANGENE POKéMON"
+    },
+    {
+      "id": "msg_0481_00008",
+      "de_DE": "POKéMON-EIER"
+    },
+    {
+      "id": "msg_0481_00009",
+      "de_DE": "GEANGELT"
+    },
+    {
+      "id": "msg_0481_00010",
+      "de_DE": "WETTBEWERBSSIEGE"
+    },
+    {
+      "id": "msg_0481_00011",
+      "de_DE": "WETTBEWERBSSIEGE %"
+    },
+    {
+      "id": "msg_0481_00012",
+      "de_DE": "BÄNDER"
+    },
+    {
+      "id": "msg_0481_00013",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0481_00014",
+      "de_DE": "{STRVAR_1 50, 0}. {STRVAR_1 3, 1}"
+    },
+    {
+      "id": "msg_0481_00015",
+      "de_DE": "{STRVAR_1 53, 0} Sieg(e)"
+    },
+    {
+      "id": "msg_0481_00016",
+      "de_DE": "{STRVAR_1 50, 0} Sieg(e)"
+    },
+    {
+      "id": "msg_0481_00017",
+      "de_DE": "{STRVAR_1 54, 0}"
+    },
+    {
+      "id": "msg_0481_00018",
+      "de_DE": "{STRVAR_1 55, 0}"
+    },
+    {
+      "id": "msg_0481_00019",
+      "de_DE": "{STRVAR_1 55, 0}"
+    },
+    {
+      "id": "msg_0481_00020",
+      "de_DE": "{STRVAR_1 52, 0} %"
+    },
+    {
+      "id": "msg_0481_00021",
+      "de_DE": "{STRVAR_1 53, 0}"
+    },
+    {
+      "id": "msg_0481_00022",
+      "de_DE": "Welchen Rekord möchtest du sehen?"
+    },
+    {
+      "id": "msg_0481_00023",
+      "de_DE": [
+        "Siegesserien-Rekord im\n",
+        "Duellturm - Einzelkampf."
+      ]
+    },
+    {
+      "id": "msg_0481_00024",
+      "de_DE": [
+        "Siegesserien-Rekord im\n",
+        "Duellturm - Doppelkampf."
+      ]
+    },
+    {
+      "id": "msg_0481_00025",
+      "de_DE": [
+        "Siegesserien-Rekord im\n",
+        "Duellturm - Multikampf."
+      ]
+    },
+    {
+      "id": "msg_0481_00026",
+      "de_DE": [
+        "Siegesserien-Rekord im\n",
+        "Duellturm - Link-Multikampf."
+      ]
+    },
+    {
+      "id": "msg_0481_00027",
+      "de_DE": [
+        "Siegesserien-Rekord im\n",
+        "Duellturm - Wi-Fi Kampf."
+      ]
+    },
+    {
+      "id": "msg_0481_00028",
+      "de_DE": [
+        "Beste durchschnittliche\n",
+        "Siegesserie im Duellturm."
+      ]
+    },
+    {
+      "id": "msg_0481_00029",
+      "de_DE": "Anzahl der besiegten Pokémon."
+    },
+    {
+      "id": "msg_0481_00030",
+      "de_DE": [
+        "Anzahl der mit Pokébällen\n",
+        "gefangenen Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0481_00031",
+      "de_DE": [
+        "Anzahl der Pokémon, die aus\n",
+        "Eiern geschlüpft sind."
+      ]
+    },
+    {
+      "id": "msg_0481_00032",
+      "de_DE": "Anzahl der geangelten Pokémon."
+    },
+    {
+      "id": "msg_0481_00033",
+      "de_DE": "Anzahl der Wettbewerbssiege."
+    },
+    {
+      "id": "msg_0481_00034",
+      "de_DE": "Siegesverhältnis bei Wettbewerben."
+    },
+    {
+      "id": "msg_0481_00035",
+      "de_DE": [
+        "Anzahl der Bänder, die in\n",
+        "Wettbewerben gewonnen wurden."
+      ]
+    },
+    {
+      "id": "msg_0481_00036",
+      "de_DE": "REK. LÖSCH."
+    },
+    {
+      "id": "msg_0481_00037",
+      "de_DE": [
+        "Wähle den Rekord, den du löschen\n",
+        "möchtest, und drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0481_00038",
+      "de_DE": "Diesen Rekord wirklich löschen?"
+    },
+    {
+      "id": "msg_0481_00039",
+      "de_DE": "Löschen eigener Rekorde nicht möglich."
+    }
+  ]
+}

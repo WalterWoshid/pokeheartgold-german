@@ -264,6 +264,13 @@ typedef struct PokedexAppData_UnkSub1850 {
     u16 unk_2;
 } PokedexAppData_UnkSub1850;
 
+#ifdef GERMAN
+#define POKEDEX_SPRITE_ID(index) ((index) >= 18 ? (index) - 2 : (index) >= 11 ? (index) - 1 \
+                                                                              : (index))
+#else
+#define POKEDEX_SPRITE_ID(index) (index)
+#endif
+
 struct PokedexAppData {
     PokedexArgs *args;                              // 0x0000
     BgConfig *bgConfig;                             // 0x0004
@@ -274,7 +281,11 @@ struct PokedexAppData {
     String *strBufFormatted;                        // 0x0664
     u8 filler_0668[4];                              // 0x0668
     SpriteManager *unk_066C;                        // 0x066C
+#ifdef GERMAN
+    u8 filler_0770[0x1D8];
+#else
     u8 filler_0770[0x1E0];                          // 0x0770
+#endif
     PaletteData *paletteData;                       // 0x0850
     NARC *gfxNarc;                                  // 0x0854
     u8 filler_0858[4];                              // 0x0858

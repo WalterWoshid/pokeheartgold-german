@@ -212,7 +212,7 @@ void PhoneCall_GetCallScriptId(PokegearPhoneCallContext *ctx) {
 void PhoneCall_InitMsgDataAndBufferNames(PokegearPhoneCallContext *ctx) {
     ctx->msgData_PhoneContact = NewMsgDataFromNarc(MSGDATA_LOAD_DIRECT, NARC_msgdata_msg, GetPhoneMessageGmm(ctx->state.callerID), ctx->heapID);
     BufferPlayersName(ctx->msgFormat, 0, ctx->playerProfile);
-    BufferString(ctx->msgFormat, 1, PhoneContact_GetName(ctx, ctx->state.callerID), 2, 1, 2);
+    BufferString(ctx->msgFormat, 1, PhoneContact_GetName(ctx, ctx->state.callerID), 2, 1, GAME_LANGUAGE);
     BufferLandmarkName(ctx->msgFormat, 2, MapHeader_GetMapSec(ctx->playerMapSec));
     BufferLandmarkName(ctx->msgFormat, 3, MapHeader_GetMapSec(ctx->state.phoneBookEntry->mapId));
 }
@@ -279,7 +279,7 @@ void PhoneCall_ApplyGenericNPCcallSideEffect(PokegearPhoneCallContext *ctx, cons
         break;
     case PHONESCRIPTTYPE_WORD:
         ReadMsgDataIntoString(ctx->msgData_PhoneContact, scriptDef->param1 + (LCRandom() % scriptDef->param0), ctx->msgExpansionBuff);
-        BufferString(ctx->msgFormat, 4, ctx->msgExpansionBuff, 2, 1, 2);
+        BufferString(ctx->msgFormat, 4, ctx->msgExpansionBuff, 2, 1, GAME_LANGUAGE);
         break;
     }
 }

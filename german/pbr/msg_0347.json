@@ -1,0 +1,1865 @@
+{
+  "key": 11181,
+  "messages": [
+    {
+      "id": "msg_0347_00000",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00001",
+      "de_DE": "Meisterbälle"
+    },
+    {
+      "id": "msg_0347_00002",
+      "de_DE": "Hyperbälle"
+    },
+    {
+      "id": "msg_0347_00003",
+      "de_DE": "Superbälle"
+    },
+    {
+      "id": "msg_0347_00004",
+      "de_DE": "Pokébälle"
+    },
+    {
+      "id": "msg_0347_00005",
+      "de_DE": "Safaribälle"
+    },
+    {
+      "id": "msg_0347_00006",
+      "de_DE": "Netzbälle"
+    },
+    {
+      "id": "msg_0347_00007",
+      "de_DE": "Tauchbälle"
+    },
+    {
+      "id": "msg_0347_00008",
+      "de_DE": "Nestbälle"
+    },
+    {
+      "id": "msg_0347_00009",
+      "de_DE": "Wiederbälle"
+    },
+    {
+      "id": "msg_0347_00010",
+      "de_DE": "Timerbälle"
+    },
+    {
+      "id": "msg_0347_00011",
+      "de_DE": "Luxusbälle"
+    },
+    {
+      "id": "msg_0347_00012",
+      "de_DE": "Premierbälle"
+    },
+    {
+      "id": "msg_0347_00013",
+      "de_DE": "Finsterbälle"
+    },
+    {
+      "id": "msg_0347_00014",
+      "de_DE": "Heilbälle"
+    },
+    {
+      "id": "msg_0347_00015",
+      "de_DE": "Flottbälle"
+    },
+    {
+      "id": "msg_0347_00016",
+      "de_DE": "Jubelbälle"
+    },
+    {
+      "id": "msg_0347_00017",
+      "de_DE": "Tränke"
+    },
+    {
+      "id": "msg_0347_00018",
+      "de_DE": "Gegengifte"
+    },
+    {
+      "id": "msg_0347_00019",
+      "de_DE": "Feuerheiler"
+    },
+    {
+      "id": "msg_0347_00020",
+      "de_DE": "Eisheiler"
+    },
+    {
+      "id": "msg_0347_00021",
+      "de_DE": "Aufwecker"
+    },
+    {
+      "id": "msg_0347_00022",
+      "de_DE": "Para-Heiler"
+    },
+    {
+      "id": "msg_0347_00023",
+      "de_DE": "Top-Genesungen"
+    },
+    {
+      "id": "msg_0347_00024",
+      "de_DE": "Top-Tränke"
+    },
+    {
+      "id": "msg_0347_00025",
+      "de_DE": "Hypertränke"
+    },
+    {
+      "id": "msg_0347_00026",
+      "de_DE": "Supertränke"
+    },
+    {
+      "id": "msg_0347_00027",
+      "de_DE": "Hyperheiler"
+    },
+    {
+      "id": "msg_0347_00028",
+      "de_DE": "Beleber"
+    },
+    {
+      "id": "msg_0347_00029",
+      "de_DE": "Top-Beleber"
+    },
+    {
+      "id": "msg_0347_00030",
+      "de_DE": "Tafelwasser"
+    },
+    {
+      "id": "msg_0347_00031",
+      "de_DE": "Sprudel"
+    },
+    {
+      "id": "msg_0347_00032",
+      "de_DE": "Limonaden"
+    },
+    {
+      "id": "msg_0347_00033",
+      "de_DE": "Kuhmuh-Milch"
+    },
+    {
+      "id": "msg_0347_00034",
+      "de_DE": "Energiestaub"
+    },
+    {
+      "id": "msg_0347_00035",
+      "de_DE": "Kraftwurzeln"
+    },
+    {
+      "id": "msg_0347_00036",
+      "de_DE": "Heilpuder"
+    },
+    {
+      "id": "msg_0347_00037",
+      "de_DE": "Vitalkräuter"
+    },
+    {
+      "id": "msg_0347_00038",
+      "de_DE": "Äther"
+    },
+    {
+      "id": "msg_0347_00039",
+      "de_DE": "Top-Äther"
+    },
+    {
+      "id": "msg_0347_00040",
+      "de_DE": "Elixiere"
+    },
+    {
+      "id": "msg_0347_00041",
+      "de_DE": "Top-Elixiere"
+    },
+    {
+      "id": "msg_0347_00042",
+      "de_DE": "Lavakekse"
+    },
+    {
+      "id": "msg_0347_00043",
+      "de_DE": "Beerensäfte"
+    },
+    {
+      "id": "msg_0347_00044",
+      "de_DE": "Zauberaschen"
+    },
+    {
+      "id": "msg_0347_00045",
+      "de_DE": "KP-Plus"
+    },
+    {
+      "id": "msg_0347_00046",
+      "de_DE": "Proteine"
+    },
+    {
+      "id": "msg_0347_00047",
+      "de_DE": "Eisen"
+    },
+    {
+      "id": "msg_0347_00048",
+      "de_DE": "Carbon"
+    },
+    {
+      "id": "msg_0347_00049",
+      "de_DE": "Kalziums"
+    },
+    {
+      "id": "msg_0347_00050",
+      "de_DE": "Sonderbonbons"
+    },
+    {
+      "id": "msg_0347_00051",
+      "de_DE": "AP-Plus"
+    },
+    {
+      "id": "msg_0347_00052",
+      "de_DE": "Zinkes"
+    },
+    {
+      "id": "msg_0347_00053",
+      "de_DE": "AP-Tops"
+    },
+    {
+      "id": "msg_0347_00054",
+      "de_DE": "Spezialitäten"
+    },
+    {
+      "id": "msg_0347_00055",
+      "de_DE": "Megablocks"
+    },
+    {
+      "id": "msg_0347_00056",
+      "de_DE": "Angriffplus"
+    },
+    {
+      "id": "msg_0347_00057",
+      "de_DE": "X-Angriffe"
+    },
+    {
+      "id": "msg_0347_00058",
+      "de_DE": "X-Abwehr"
+    },
+    {
+      "id": "msg_0347_00059",
+      "de_DE": "X-Tempos"
+    },
+    {
+      "id": "msg_0347_00060",
+      "de_DE": "X-Treffer"
+    },
+    {
+      "id": "msg_0347_00061",
+      "de_DE": "X-Spezial"
+    },
+    {
+      "id": "msg_0347_00062",
+      "de_DE": "X-SpezialVer"
+    },
+    {
+      "id": "msg_0347_00063",
+      "de_DE": "Poképuppen"
+    },
+    {
+      "id": "msg_0347_00064",
+      "de_DE": "Eneco-Ruten"
+    },
+    {
+      "id": "msg_0347_00065",
+      "de_DE": "Blaue Flöten"
+    },
+    {
+      "id": "msg_0347_00066",
+      "de_DE": "Gelbe Flöten"
+    },
+    {
+      "id": "msg_0347_00067",
+      "de_DE": "Rote Flöten"
+    },
+    {
+      "id": "msg_0347_00068",
+      "de_DE": "Schw. Flöten"
+    },
+    {
+      "id": "msg_0347_00069",
+      "de_DE": "Weiße Flöten"
+    },
+    {
+      "id": "msg_0347_00070",
+      "de_DE": "Küstensalz"
+    },
+    {
+      "id": "msg_0347_00071",
+      "de_DE": "Küstenschalen"
+    },
+    {
+      "id": "msg_0347_00072",
+      "de_DE": "Purpurstücke"
+    },
+    {
+      "id": "msg_0347_00073",
+      "de_DE": "Indigostücke"
+    },
+    {
+      "id": "msg_0347_00074",
+      "de_DE": "Gelbstücke"
+    },
+    {
+      "id": "msg_0347_00075",
+      "de_DE": "Grünstücke"
+    },
+    {
+      "id": "msg_0347_00076",
+      "de_DE": "Superschutze"
+    },
+    {
+      "id": "msg_0347_00077",
+      "de_DE": "Top-Schutze"
+    },
+    {
+      "id": "msg_0347_00078",
+      "de_DE": "Fluchtseile"
+    },
+    {
+      "id": "msg_0347_00079",
+      "de_DE": "Schutze"
+    },
+    {
+      "id": "msg_0347_00080",
+      "de_DE": "Sonnensteine"
+    },
+    {
+      "id": "msg_0347_00081",
+      "de_DE": "Mondsteine"
+    },
+    {
+      "id": "msg_0347_00082",
+      "de_DE": "Feuersteine"
+    },
+    {
+      "id": "msg_0347_00083",
+      "de_DE": "Donnersteine"
+    },
+    {
+      "id": "msg_0347_00084",
+      "de_DE": "Wassersteine"
+    },
+    {
+      "id": "msg_0347_00085",
+      "de_DE": "Blattsteine"
+    },
+    {
+      "id": "msg_0347_00086",
+      "de_DE": "Minipilze"
+    },
+    {
+      "id": "msg_0347_00087",
+      "de_DE": "Riesenpilze"
+    },
+    {
+      "id": "msg_0347_00088",
+      "de_DE": "Perlen"
+    },
+    {
+      "id": "msg_0347_00089",
+      "de_DE": "Riesenperlen"
+    },
+    {
+      "id": "msg_0347_00090",
+      "de_DE": "Sternenstaube"
+    },
+    {
+      "id": "msg_0347_00091",
+      "de_DE": "Sternenstücke"
+    },
+    {
+      "id": "msg_0347_00092",
+      "de_DE": "Nuggets"
+    },
+    {
+      "id": "msg_0347_00093",
+      "de_DE": "Herzschuppen"
+    },
+    {
+      "id": "msg_0347_00094",
+      "de_DE": "Honige"
+    },
+    {
+      "id": "msg_0347_00095",
+      "de_DE": "Wachsmulche"
+    },
+    {
+      "id": "msg_0347_00096",
+      "de_DE": "Feuchtmulche"
+    },
+    {
+      "id": "msg_0347_00097",
+      "de_DE": "Stabilmulche"
+    },
+    {
+      "id": "msg_0347_00098",
+      "de_DE": "Neumulche"
+    },
+    {
+      "id": "msg_0347_00099",
+      "de_DE": "Wurzelfossilien"
+    },
+    {
+      "id": "msg_0347_00100",
+      "de_DE": "Klauenfossilien"
+    },
+    {
+      "id": "msg_0347_00101",
+      "de_DE": "Helixfossilien"
+    },
+    {
+      "id": "msg_0347_00102",
+      "de_DE": "Domfossilien"
+    },
+    {
+      "id": "msg_0347_00103",
+      "de_DE": "Altbernsteine"
+    },
+    {
+      "id": "msg_0347_00104",
+      "de_DE": "Panzerfossilien"
+    },
+    {
+      "id": "msg_0347_00105",
+      "de_DE": "Kopffossilien"
+    },
+    {
+      "id": "msg_0347_00106",
+      "de_DE": "Steinknochen"
+    },
+    {
+      "id": "msg_0347_00107",
+      "de_DE": "Leuchtsteine"
+    },
+    {
+      "id": "msg_0347_00108",
+      "de_DE": "Finstersteine"
+    },
+    {
+      "id": "msg_0347_00109",
+      "de_DE": "Funkelstein"
+    },
+    {
+      "id": "msg_0347_00110",
+      "de_DE": "Ovale Steine"
+    },
+    {
+      "id": "msg_0347_00111",
+      "de_DE": "Spiritkern"
+    },
+    {
+      "id": "msg_0347_00112",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00113",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00114",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00115",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00116",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00117",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00118",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00119",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00120",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00121",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00122",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00123",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00124",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00125",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00126",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00127",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00128",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00129",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00130",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00131",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00132",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00133",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00134",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0347_00135",
+      "de_DE": "Adamant-Orbs"
+    },
+    {
+      "id": "msg_0347_00136",
+      "de_DE": "Weiß-Orbs"
+    },
+    {
+      "id": "msg_0347_00137",
+      "de_DE": "Wiesenbriefe"
+    },
+    {
+      "id": "msg_0347_00138",
+      "de_DE": "Feuerbriefe"
+    },
+    {
+      "id": "msg_0347_00139",
+      "de_DE": "Wasserbriefe"
+    },
+    {
+      "id": "msg_0347_00140",
+      "de_DE": "Blütenbriefe"
+    },
+    {
+      "id": "msg_0347_00141",
+      "de_DE": "Minenbriefe"
+    },
+    {
+      "id": "msg_0347_00142",
+      "de_DE": "Stahlbriefe"
+    },
+    {
+      "id": "msg_0347_00143",
+      "de_DE": "Rosabriefe"
+    },
+    {
+      "id": "msg_0347_00144",
+      "de_DE": "Schneebriefe"
+    },
+    {
+      "id": "msg_0347_00145",
+      "de_DE": "Sternbriefe"
+    },
+    {
+      "id": "msg_0347_00146",
+      "de_DE": "Luftbriefe"
+    },
+    {
+      "id": "msg_0347_00147",
+      "de_DE": "Mosaikbriefe"
+    },
+    {
+      "id": "msg_0347_00148",
+      "de_DE": "Ziegelbriefe"
+    },
+    {
+      "id": "msg_0347_00149",
+      "de_DE": "Amrenabeeren"
+    },
+    {
+      "id": "msg_0347_00150",
+      "de_DE": "Maronbeeren"
+    },
+    {
+      "id": "msg_0347_00151",
+      "de_DE": "Pirsifbeeren"
+    },
+    {
+      "id": "msg_0347_00152",
+      "de_DE": "Fragiabeeren"
+    },
+    {
+      "id": "msg_0347_00153",
+      "de_DE": "Wilbirbeeren"
+    },
+    {
+      "id": "msg_0347_00154",
+      "de_DE": "Jonagobeeren"
+    },
+    {
+      "id": "msg_0347_00155",
+      "de_DE": "Sinelbeeren"
+    },
+    {
+      "id": "msg_0347_00156",
+      "de_DE": "Persimbeeren"
+    },
+    {
+      "id": "msg_0347_00157",
+      "de_DE": "Prunusbeeren"
+    },
+    {
+      "id": "msg_0347_00158",
+      "de_DE": "Tsitrubeeren"
+    },
+    {
+      "id": "msg_0347_00159",
+      "de_DE": "Giefebeeren"
+    },
+    {
+      "id": "msg_0347_00160",
+      "de_DE": "Wikibeeren"
+    },
+    {
+      "id": "msg_0347_00161",
+      "de_DE": "Magobeeren"
+    },
+    {
+      "id": "msg_0347_00162",
+      "de_DE": "Gauvebeeren"
+    },
+    {
+      "id": "msg_0347_00163",
+      "de_DE": "Yapabeeren"
+    },
+    {
+      "id": "msg_0347_00164",
+      "de_DE": "Himmihbeeren"
+    },
+    {
+      "id": "msg_0347_00165",
+      "de_DE": "Morbbeeren"
+    },
+    {
+      "id": "msg_0347_00166",
+      "de_DE": "Nanabbeeren"
+    },
+    {
+      "id": "msg_0347_00167",
+      "de_DE": "Nirbebeeren"
+    },
+    {
+      "id": "msg_0347_00168",
+      "de_DE": "Sananabeeren"
+    },
+    {
+      "id": "msg_0347_00169",
+      "de_DE": "Granabeeren"
+    },
+    {
+      "id": "msg_0347_00170",
+      "de_DE": "Setangbeeren"
+    },
+    {
+      "id": "msg_0347_00171",
+      "de_DE": "Qualotbeeren"
+    },
+    {
+      "id": "msg_0347_00172",
+      "de_DE": "Honmelbeeren"
+    },
+    {
+      "id": "msg_0347_00173",
+      "de_DE": "Labrusbeeren"
+    },
+    {
+      "id": "msg_0347_00174",
+      "de_DE": "Tamotbeeren"
+    },
+    {
+      "id": "msg_0347_00175",
+      "de_DE": "Saimbeeren"
+    },
+    {
+      "id": "msg_0347_00176",
+      "de_DE": "Magostbeeren"
+    },
+    {
+      "id": "msg_0347_00177",
+      "de_DE": "Rabutabeeren"
+    },
+    {
+      "id": "msg_0347_00178",
+      "de_DE": "Tronzibeeren"
+    },
+    {
+      "id": "msg_0347_00179",
+      "de_DE": "Kiwanbeeren"
+    },
+    {
+      "id": "msg_0347_00180",
+      "de_DE": "Pallmbeeren"
+    },
+    {
+      "id": "msg_0347_00181",
+      "de_DE": "Wasmelbeeren"
+    },
+    {
+      "id": "msg_0347_00182",
+      "de_DE": "Durinbeeren"
+    },
+    {
+      "id": "msg_0347_00183",
+      "de_DE": "Myrtilbeeren"
+    },
+    {
+      "id": "msg_0347_00184",
+      "de_DE": "Koakobeeren"
+    },
+    {
+      "id": "msg_0347_00185",
+      "de_DE": "Foepasbeeren"
+    },
+    {
+      "id": "msg_0347_00186",
+      "de_DE": "Kerzalbeeren"
+    },
+    {
+      "id": "msg_0347_00187",
+      "de_DE": "Grindobeeren"
+    },
+    {
+      "id": "msg_0347_00188",
+      "de_DE": "Kiroyabeeren"
+    },
+    {
+      "id": "msg_0347_00189",
+      "de_DE": "Rospelbeeren"
+    },
+    {
+      "id": "msg_0347_00190",
+      "de_DE": "Grarzbeeren"
+    },
+    {
+      "id": "msg_0347_00191",
+      "de_DE": "Schukebeeren"
+    },
+    {
+      "id": "msg_0347_00192",
+      "de_DE": "Kobabeeren"
+    },
+    {
+      "id": "msg_0347_00193",
+      "de_DE": "Pyapabeeren"
+    },
+    {
+      "id": "msg_0347_00194",
+      "de_DE": "Tanigabeeren"
+    },
+    {
+      "id": "msg_0347_00195",
+      "de_DE": "Chiaribeeren"
+    },
+    {
+      "id": "msg_0347_00196",
+      "de_DE": "Zitarzbeeren"
+    },
+    {
+      "id": "msg_0347_00197",
+      "de_DE": "Terirobeeren"
+    },
+    {
+      "id": "msg_0347_00198",
+      "de_DE": "Burleobeeren"
+    },
+    {
+      "id": "msg_0347_00199",
+      "de_DE": "Babiribeeren"
+    },
+    {
+      "id": "msg_0347_00200",
+      "de_DE": "Latchibeeren"
+    },
+    {
+      "id": "msg_0347_00201",
+      "de_DE": "Lydzibeeren"
+    },
+    {
+      "id": "msg_0347_00202",
+      "de_DE": "Linganbeeren"
+    },
+    {
+      "id": "msg_0347_00203",
+      "de_DE": "Salkabeeren"
+    },
+    {
+      "id": "msg_0347_00204",
+      "de_DE": "Tahaybeeren"
+    },
+    {
+      "id": "msg_0347_00205",
+      "de_DE": "Apikobeeren"
+    },
+    {
+      "id": "msg_0347_00206",
+      "de_DE": "Lansatbeeren"
+    },
+    {
+      "id": "msg_0347_00207",
+      "de_DE": "Krambobeeren"
+    },
+    {
+      "id": "msg_0347_00208",
+      "de_DE": "Enigmabeeren"
+    },
+    {
+      "id": "msg_0347_00209",
+      "de_DE": "Wunfrubeeren"
+    },
+    {
+      "id": "msg_0347_00210",
+      "de_DE": "Eipfelbeeren"
+    },
+    {
+      "id": "msg_0347_00211",
+      "de_DE": "Jabocabeeren"
+    },
+    {
+      "id": "msg_0347_00212",
+      "de_DE": "Roselbeeren"
+    },
+    {
+      "id": "msg_0347_00213",
+      "de_DE": "Blendpuder"
+    },
+    {
+      "id": "msg_0347_00214",
+      "de_DE": "Schlohkräuter"
+    },
+    {
+      "id": "msg_0347_00215",
+      "de_DE": "Machobänder"
+    },
+    {
+      "id": "msg_0347_00216",
+      "de_DE": "EP-Teiler"
+    },
+    {
+      "id": "msg_0347_00217",
+      "de_DE": "Flinkklauen"
+    },
+    {
+      "id": "msg_0347_00218",
+      "de_DE": "Sanftglocken"
+    },
+    {
+      "id": "msg_0347_00219",
+      "de_DE": "Mentalkräuter"
+    },
+    {
+      "id": "msg_0347_00220",
+      "de_DE": "Wahlbänder"
+    },
+    {
+      "id": "msg_0347_00221",
+      "de_DE": "King-Steine"
+    },
+    {
+      "id": "msg_0347_00222",
+      "de_DE": "Silberstaub"
+    },
+    {
+      "id": "msg_0347_00223",
+      "de_DE": "Münzamulette"
+    },
+    {
+      "id": "msg_0347_00224",
+      "de_DE": "Schutzbänder"
+    },
+    {
+      "id": "msg_0347_00225",
+      "de_DE": "Seelentau"
+    },
+    {
+      "id": "msg_0347_00226",
+      "de_DE": "Abysszähne"
+    },
+    {
+      "id": "msg_0347_00227",
+      "de_DE": "Abyssplatten"
+    },
+    {
+      "id": "msg_0347_00228",
+      "de_DE": "Rauchbälle"
+    },
+    {
+      "id": "msg_0347_00229",
+      "de_DE": "Ewigsteine"
+    },
+    {
+      "id": "msg_0347_00230",
+      "de_DE": "Fokus-Bänder"
+    },
+    {
+      "id": "msg_0347_00231",
+      "de_DE": "Glücks-Eier"
+    },
+    {
+      "id": "msg_0347_00232",
+      "de_DE": "Scope-Linsen"
+    },
+    {
+      "id": "msg_0347_00233",
+      "de_DE": "Metallmäntel"
+    },
+    {
+      "id": "msg_0347_00234",
+      "de_DE": "Überreste"
+    },
+    {
+      "id": "msg_0347_00235",
+      "de_DE": "Drachenhäute"
+    },
+    {
+      "id": "msg_0347_00236",
+      "de_DE": "Kugelblitze"
+    },
+    {
+      "id": "msg_0347_00237",
+      "de_DE": "Pudersande"
+    },
+    {
+      "id": "msg_0347_00238",
+      "de_DE": "Granitsteine"
+    },
+    {
+      "id": "msg_0347_00239",
+      "de_DE": "Wundersaaten"
+    },
+    {
+      "id": "msg_0347_00240",
+      "de_DE": "Schattengläser"
+    },
+    {
+      "id": "msg_0347_00241",
+      "de_DE": "Schwarzgurte"
+    },
+    {
+      "id": "msg_0347_00242",
+      "de_DE": "Magnete"
+    },
+    {
+      "id": "msg_0347_00243",
+      "de_DE": "Zauberwässer"
+    },
+    {
+      "id": "msg_0347_00244",
+      "de_DE": "Hackattacken"
+    },
+    {
+      "id": "msg_0347_00245",
+      "de_DE": "Giftstiche"
+    },
+    {
+      "id": "msg_0347_00246",
+      "de_DE": "Ewiges Eis"
+    },
+    {
+      "id": "msg_0347_00247",
+      "de_DE": "Bannsticker"
+    },
+    {
+      "id": "msg_0347_00248",
+      "de_DE": "Krummlöffel"
+    },
+    {
+      "id": "msg_0347_00249",
+      "de_DE": "Holzkohlen"
+    },
+    {
+      "id": "msg_0347_00250",
+      "de_DE": "Drachenzähne"
+    },
+    {
+      "id": "msg_0347_00251",
+      "de_DE": "Seidenschals"
+    },
+    {
+      "id": "msg_0347_00252",
+      "de_DE": "Up-Grades"
+    },
+    {
+      "id": "msg_0347_00253",
+      "de_DE": "Seegesänge"
+    },
+    {
+      "id": "msg_0347_00254",
+      "de_DE": "Seerauch"
+    },
+    {
+      "id": "msg_0347_00255",
+      "de_DE": "Laxrauch"
+    },
+    {
+      "id": "msg_0347_00256",
+      "de_DE": "Lucky Punchs"
+    },
+    {
+      "id": "msg_0347_00257",
+      "de_DE": "Metallstaube"
+    },
+    {
+      "id": "msg_0347_00258",
+      "de_DE": "Kampfknochen"
+    },
+    {
+      "id": "msg_0347_00259",
+      "de_DE": "Lauchstangen"
+    },
+    {
+      "id": "msg_0347_00260",
+      "de_DE": "Rote Schals"
+    },
+    {
+      "id": "msg_0347_00261",
+      "de_DE": "Blaue Schals"
+    },
+    {
+      "id": "msg_0347_00262",
+      "de_DE": "Rosa Schals"
+    },
+    {
+      "id": "msg_0347_00263",
+      "de_DE": "Grüne Schals"
+    },
+    {
+      "id": "msg_0347_00264",
+      "de_DE": "Gelbe Schals"
+    },
+    {
+      "id": "msg_0347_00265",
+      "de_DE": "Großlinsen"
+    },
+    {
+      "id": "msg_0347_00266",
+      "de_DE": "Muskelbänder"
+    },
+    {
+      "id": "msg_0347_00267",
+      "de_DE": "Schlaugläser"
+    },
+    {
+      "id": "msg_0347_00268",
+      "de_DE": "Expertengurte"
+    },
+    {
+      "id": "msg_0347_00269",
+      "de_DE": "Lichtlehme"
+    },
+    {
+      "id": "msg_0347_00270",
+      "de_DE": "Leben-Orbs"
+    },
+    {
+      "id": "msg_0347_00271",
+      "de_DE": "Energiekräuter"
+    },
+    {
+      "id": "msg_0347_00272",
+      "de_DE": "Toxik-Orbs"
+    },
+    {
+      "id": "msg_0347_00273",
+      "de_DE": "Heiß-Orbs"
+    },
+    {
+      "id": "msg_0347_00274",
+      "de_DE": "Flottstaube"
+    },
+    {
+      "id": "msg_0347_00275",
+      "de_DE": "Fokusgurte"
+    },
+    {
+      "id": "msg_0347_00276",
+      "de_DE": "Zoomlinse"
+    },
+    {
+      "id": "msg_0347_00277",
+      "de_DE": "Metronome"
+    },
+    {
+      "id": "msg_0347_00278",
+      "de_DE": "Eisenkugeln"
+    },
+    {
+      "id": "msg_0347_00279",
+      "de_DE": "Schwerschweife"
+    },
+    {
+      "id": "msg_0347_00280",
+      "de_DE": "Fatumknoten"
+    },
+    {
+      "id": "msg_0347_00281",
+      "de_DE": "Giftschleime"
+    },
+    {
+      "id": "msg_0347_00282",
+      "de_DE": "Eisbrocken"
+    },
+    {
+      "id": "msg_0347_00283",
+      "de_DE": "Glattbrocken"
+    },
+    {
+      "id": "msg_0347_00284",
+      "de_DE": "Heißbrocken"
+    },
+    {
+      "id": "msg_0347_00285",
+      "de_DE": "Nassbrocken"
+    },
+    {
+      "id": "msg_0347_00286",
+      "de_DE": "Griffklauen"
+    },
+    {
+      "id": "msg_0347_00287",
+      "de_DE": "Wahlschals"
+    },
+    {
+      "id": "msg_0347_00288",
+      "de_DE": "Klettdornen"
+    },
+    {
+      "id": "msg_0347_00289",
+      "de_DE": "Machtreife"
+    },
+    {
+      "id": "msg_0347_00290",
+      "de_DE": "Machtgurte"
+    },
+    {
+      "id": "msg_0347_00291",
+      "de_DE": "Machtlinsen"
+    },
+    {
+      "id": "msg_0347_00292",
+      "de_DE": "Machtbänder"
+    },
+    {
+      "id": "msg_0347_00293",
+      "de_DE": "Machtketten"
+    },
+    {
+      "id": "msg_0347_00294",
+      "de_DE": "Machtgewichte"
+    },
+    {
+      "id": "msg_0347_00295",
+      "de_DE": "Wechselhüllen"
+    },
+    {
+      "id": "msg_0347_00296",
+      "de_DE": "Großwurzeln"
+    },
+    {
+      "id": "msg_0347_00297",
+      "de_DE": "Wahlgläser"
+    },
+    {
+      "id": "msg_0347_00298",
+      "de_DE": "Feuertafeln"
+    },
+    {
+      "id": "msg_0347_00299",
+      "de_DE": "Wassertafeln"
+    },
+    {
+      "id": "msg_0347_00300",
+      "de_DE": "Blitztafeln"
+    },
+    {
+      "id": "msg_0347_00301",
+      "de_DE": "Wiesentafeln"
+    },
+    {
+      "id": "msg_0347_00302",
+      "de_DE": "Frosttafeln"
+    },
+    {
+      "id": "msg_0347_00303",
+      "de_DE": "Fausttafeln"
+    },
+    {
+      "id": "msg_0347_00304",
+      "de_DE": "Gifttafeln"
+    },
+    {
+      "id": "msg_0347_00305",
+      "de_DE": "Erdtafeln"
+    },
+    {
+      "id": "msg_0347_00306",
+      "de_DE": "Wolkentafeln"
+    },
+    {
+      "id": "msg_0347_00307",
+      "de_DE": "Hirntafeln"
+    },
+    {
+      "id": "msg_0347_00308",
+      "de_DE": "Käfertafeln"
+    },
+    {
+      "id": "msg_0347_00309",
+      "de_DE": "Steintafeln"
+    },
+    {
+      "id": "msg_0347_00310",
+      "de_DE": "Spuktafeln"
+    },
+    {
+      "id": "msg_0347_00311",
+      "de_DE": "Dracotafeln"
+    },
+    {
+      "id": "msg_0347_00312",
+      "de_DE": "Furchttafeln"
+    },
+    {
+      "id": "msg_0347_00313",
+      "de_DE": "Eisentafeln"
+    },
+    {
+      "id": "msg_0347_00314",
+      "de_DE": "Schrägrauch"
+    },
+    {
+      "id": "msg_0347_00315",
+      "de_DE": "Steinrauch"
+    },
+    {
+      "id": "msg_0347_00316",
+      "de_DE": "Lahmrauch"
+    },
+    {
+      "id": "msg_0347_00317",
+      "de_DE": "Wellenrauch"
+    },
+    {
+      "id": "msg_0347_00318",
+      "de_DE": "Rosenrauch"
+    },
+    {
+      "id": "msg_0347_00319",
+      "de_DE": "Glücksrauch"
+    },
+    {
+      "id": "msg_0347_00320",
+      "de_DE": "Scheuchrauch"
+    },
+    {
+      "id": "msg_0347_00321",
+      "de_DE": "Schützer"
+    },
+    {
+      "id": "msg_0347_00322",
+      "de_DE": "Stromisierer"
+    },
+    {
+      "id": "msg_0347_00323",
+      "de_DE": "Magmaisierer"
+    },
+    {
+      "id": "msg_0347_00324",
+      "de_DE": "Dubiosdiscs"
+    },
+    {
+      "id": "msg_0347_00325",
+      "de_DE": "Düsterumhänge"
+    },
+    {
+      "id": "msg_0347_00326",
+      "de_DE": "Scharfklauen"
+    },
+    {
+      "id": "msg_0347_00327",
+      "de_DE": "Scharfzähne"
+    },
+    {
+      "id": "msg_0347_00328",
+      "de_DE": "TM01"
+    },
+    {
+      "id": "msg_0347_00329",
+      "de_DE": "TM02"
+    },
+    {
+      "id": "msg_0347_00330",
+      "de_DE": "TM03"
+    },
+    {
+      "id": "msg_0347_00331",
+      "de_DE": "TM04"
+    },
+    {
+      "id": "msg_0347_00332",
+      "de_DE": "TM05"
+    },
+    {
+      "id": "msg_0347_00333",
+      "de_DE": "TM06"
+    },
+    {
+      "id": "msg_0347_00334",
+      "de_DE": "TM07"
+    },
+    {
+      "id": "msg_0347_00335",
+      "de_DE": "TM08"
+    },
+    {
+      "id": "msg_0347_00336",
+      "de_DE": "TM09"
+    },
+    {
+      "id": "msg_0347_00337",
+      "de_DE": "TM10"
+    },
+    {
+      "id": "msg_0347_00338",
+      "de_DE": "TM11"
+    },
+    {
+      "id": "msg_0347_00339",
+      "de_DE": "TM12"
+    },
+    {
+      "id": "msg_0347_00340",
+      "de_DE": "TM13"
+    },
+    {
+      "id": "msg_0347_00341",
+      "de_DE": "TM14"
+    },
+    {
+      "id": "msg_0347_00342",
+      "de_DE": "TM15"
+    },
+    {
+      "id": "msg_0347_00343",
+      "de_DE": "TM16"
+    },
+    {
+      "id": "msg_0347_00344",
+      "de_DE": "TM17"
+    },
+    {
+      "id": "msg_0347_00345",
+      "de_DE": "TM18"
+    },
+    {
+      "id": "msg_0347_00346",
+      "de_DE": "TM19"
+    },
+    {
+      "id": "msg_0347_00347",
+      "de_DE": "TM20"
+    },
+    {
+      "id": "msg_0347_00348",
+      "de_DE": "TM21"
+    },
+    {
+      "id": "msg_0347_00349",
+      "de_DE": "TM22"
+    },
+    {
+      "id": "msg_0347_00350",
+      "de_DE": "TM23"
+    },
+    {
+      "id": "msg_0347_00351",
+      "de_DE": "TM24"
+    },
+    {
+      "id": "msg_0347_00352",
+      "de_DE": "TM25"
+    },
+    {
+      "id": "msg_0347_00353",
+      "de_DE": "TM26"
+    },
+    {
+      "id": "msg_0347_00354",
+      "de_DE": "TM27"
+    },
+    {
+      "id": "msg_0347_00355",
+      "de_DE": "TM28"
+    },
+    {
+      "id": "msg_0347_00356",
+      "de_DE": "TM29"
+    },
+    {
+      "id": "msg_0347_00357",
+      "de_DE": "TM30"
+    },
+    {
+      "id": "msg_0347_00358",
+      "de_DE": "TM31"
+    },
+    {
+      "id": "msg_0347_00359",
+      "de_DE": "TM32"
+    },
+    {
+      "id": "msg_0347_00360",
+      "de_DE": "TM33"
+    },
+    {
+      "id": "msg_0347_00361",
+      "de_DE": "TM34"
+    },
+    {
+      "id": "msg_0347_00362",
+      "de_DE": "TM35"
+    },
+    {
+      "id": "msg_0347_00363",
+      "de_DE": "TM36"
+    },
+    {
+      "id": "msg_0347_00364",
+      "de_DE": "TM37"
+    },
+    {
+      "id": "msg_0347_00365",
+      "de_DE": "TM38"
+    },
+    {
+      "id": "msg_0347_00366",
+      "de_DE": "TM39"
+    },
+    {
+      "id": "msg_0347_00367",
+      "de_DE": "TM40"
+    },
+    {
+      "id": "msg_0347_00368",
+      "de_DE": "TM41"
+    },
+    {
+      "id": "msg_0347_00369",
+      "de_DE": "TM42"
+    },
+    {
+      "id": "msg_0347_00370",
+      "de_DE": "TM43"
+    },
+    {
+      "id": "msg_0347_00371",
+      "de_DE": "TM44"
+    },
+    {
+      "id": "msg_0347_00372",
+      "de_DE": "TM45"
+    },
+    {
+      "id": "msg_0347_00373",
+      "de_DE": "TM46"
+    },
+    {
+      "id": "msg_0347_00374",
+      "de_DE": "TM47"
+    },
+    {
+      "id": "msg_0347_00375",
+      "de_DE": "TM48"
+    },
+    {
+      "id": "msg_0347_00376",
+      "de_DE": "TM49"
+    },
+    {
+      "id": "msg_0347_00377",
+      "de_DE": "TM50"
+    },
+    {
+      "id": "msg_0347_00378",
+      "de_DE": "TM51"
+    },
+    {
+      "id": "msg_0347_00379",
+      "de_DE": "TM52"
+    },
+    {
+      "id": "msg_0347_00380",
+      "de_DE": "TM53"
+    },
+    {
+      "id": "msg_0347_00381",
+      "de_DE": "TM54"
+    },
+    {
+      "id": "msg_0347_00382",
+      "de_DE": "TM55"
+    },
+    {
+      "id": "msg_0347_00383",
+      "de_DE": "TM56"
+    },
+    {
+      "id": "msg_0347_00384",
+      "de_DE": "TM57"
+    },
+    {
+      "id": "msg_0347_00385",
+      "de_DE": "TM58"
+    },
+    {
+      "id": "msg_0347_00386",
+      "de_DE": "TM59"
+    },
+    {
+      "id": "msg_0347_00387",
+      "de_DE": "TM60"
+    },
+    {
+      "id": "msg_0347_00388",
+      "de_DE": "TM61"
+    },
+    {
+      "id": "msg_0347_00389",
+      "de_DE": "TM62"
+    },
+    {
+      "id": "msg_0347_00390",
+      "de_DE": "TM63"
+    },
+    {
+      "id": "msg_0347_00391",
+      "de_DE": "TM64"
+    },
+    {
+      "id": "msg_0347_00392",
+      "de_DE": "TM65"
+    },
+    {
+      "id": "msg_0347_00393",
+      "de_DE": "TM66"
+    },
+    {
+      "id": "msg_0347_00394",
+      "de_DE": "TM67"
+    },
+    {
+      "id": "msg_0347_00395",
+      "de_DE": "TM68"
+    },
+    {
+      "id": "msg_0347_00396",
+      "de_DE": "TM69"
+    },
+    {
+      "id": "msg_0347_00397",
+      "de_DE": "TM70"
+    },
+    {
+      "id": "msg_0347_00398",
+      "de_DE": "TM71"
+    },
+    {
+      "id": "msg_0347_00399",
+      "de_DE": "TM72"
+    },
+    {
+      "id": "msg_0347_00400",
+      "de_DE": "TM73"
+    },
+    {
+      "id": "msg_0347_00401",
+      "de_DE": "TM74"
+    },
+    {
+      "id": "msg_0347_00402",
+      "de_DE": "TM75"
+    },
+    {
+      "id": "msg_0347_00403",
+      "de_DE": "TM76"
+    },
+    {
+      "id": "msg_0347_00404",
+      "de_DE": "TM77"
+    },
+    {
+      "id": "msg_0347_00405",
+      "de_DE": "TM78"
+    },
+    {
+      "id": "msg_0347_00406",
+      "de_DE": "TM79"
+    },
+    {
+      "id": "msg_0347_00407",
+      "de_DE": "TM80"
+    },
+    {
+      "id": "msg_0347_00408",
+      "de_DE": "TM81"
+    },
+    {
+      "id": "msg_0347_00409",
+      "de_DE": "TM82"
+    },
+    {
+      "id": "msg_0347_00410",
+      "de_DE": "TM83"
+    },
+    {
+      "id": "msg_0347_00411",
+      "de_DE": "TM84"
+    },
+    {
+      "id": "msg_0347_00412",
+      "de_DE": "TM85"
+    },
+    {
+      "id": "msg_0347_00413",
+      "de_DE": "TM86"
+    },
+    {
+      "id": "msg_0347_00414",
+      "de_DE": "TM87"
+    },
+    {
+      "id": "msg_0347_00415",
+      "de_DE": "TM88"
+    },
+    {
+      "id": "msg_0347_00416",
+      "de_DE": "TM89"
+    },
+    {
+      "id": "msg_0347_00417",
+      "de_DE": "TM90"
+    },
+    {
+      "id": "msg_0347_00418",
+      "de_DE": "TM91"
+    },
+    {
+      "id": "msg_0347_00419",
+      "de_DE": "TM92"
+    },
+    {
+      "id": "msg_0347_00420",
+      "de_DE": "VM01"
+    },
+    {
+      "id": "msg_0347_00421",
+      "de_DE": "VM02"
+    },
+    {
+      "id": "msg_0347_00422",
+      "de_DE": "VM03"
+    },
+    {
+      "id": "msg_0347_00423",
+      "de_DE": "VM04"
+    },
+    {
+      "id": "msg_0347_00424",
+      "de_DE": "VM05"
+    },
+    {
+      "id": "msg_0347_00425",
+      "de_DE": "VM06"
+    },
+    {
+      "id": "msg_0347_00426",
+      "de_DE": "VM07"
+    },
+    {
+      "id": "msg_0347_00427",
+      "de_DE": "VM08"
+    },
+    {
+      "id": "msg_0347_00428",
+      "de_DE": "Forschersäcke"
+    },
+    {
+      "id": "msg_0347_00429",
+      "de_DE": "Beutesäcke"
+    },
+    {
+      "id": "msg_0347_00430",
+      "de_DE": "Regelbücher"
+    },
+    {
+      "id": "msg_0347_00431",
+      "de_DE": "Pokéradare"
+    },
+    {
+      "id": "msg_0347_00432",
+      "de_DE": "Punktekarten"
+    },
+    {
+      "id": "msg_0347_00433",
+      "de_DE": "Tagebücher"
+    },
+    {
+      "id": "msg_0347_00434",
+      "de_DE": "Stick.Koffer"
+    },
+    {
+      "id": "msg_0347_00435",
+      "de_DE": "Modekoffer"
+    },
+    {
+      "id": "msg_0347_00436",
+      "de_DE": "Stickertüten"
+    },
+    {
+      "id": "msg_0347_00437",
+      "de_DE": "Adressbücher"
+    },
+    {
+      "id": "msg_0347_00438",
+      "de_DE": "K-Schlüssel"
+    },
+    {
+      "id": "msg_0347_00439",
+      "de_DE": "Talismane"
+    },
+    {
+      "id": "msg_0347_00440",
+      "de_DE": "G-Schlüssel"
+    },
+    {
+      "id": "msg_0347_00441",
+      "de_DE": "Rote Ketten"
+    },
+    {
+      "id": "msg_0347_00442",
+      "de_DE": "Karten"
+    },
+    {
+      "id": "msg_0347_00443",
+      "de_DE": "Kampffahnder"
+    },
+    {
+      "id": "msg_0347_00444",
+      "de_DE": "Münzkörbe"
+    },
+    {
+      "id": "msg_0347_00445",
+      "de_DE": "Angeln"
+    },
+    {
+      "id": "msg_0347_00446",
+      "de_DE": "Profiangeln"
+    },
+    {
+      "id": "msg_0347_00447",
+      "de_DE": "Superangeln"
+    },
+    {
+      "id": "msg_0347_00448",
+      "de_DE": "Entonkannen"
+    },
+    {
+      "id": "msg_0347_00449",
+      "de_DE": "Knurspboxen"
+    },
+    {
+      "id": "msg_0347_00450",
+      "de_DE": "Fahrräder"
+    },
+    {
+      "id": "msg_0347_00451",
+      "de_DE": "B-Schlüssel"
+    },
+    {
+      "id": "msg_0347_00452",
+      "de_DE": "Eichs Briefe"
+    },
+    {
+      "id": "msg_0347_00453",
+      "de_DE": "Lunarfedern"
+    },
+    {
+      "id": "msg_0347_00454",
+      "de_DE": "Mitgl.Karten"
+    },
+    {
+      "id": "msg_0347_00455",
+      "de_DE": "Azurflöten"
+    },
+    {
+      "id": "msg_0347_00456",
+      "de_DE": "Bootstickets"
+    },
+    {
+      "id": "msg_0347_00457",
+      "de_DE": "Wettb.-Karten"
+    },
+    {
+      "id": "msg_0347_00458",
+      "de_DE": "Magmasteine"
+    },
+    {
+      "id": "msg_0347_00459",
+      "de_DE": "Pakete"
+    },
+    {
+      "id": "msg_0347_00460",
+      "de_DE": "Kupon 1"
+    },
+    {
+      "id": "msg_0347_00461",
+      "de_DE": "Kupon 2"
+    },
+    {
+      "id": "msg_0347_00462",
+      "de_DE": "Kupon 3"
+    },
+    {
+      "id": "msg_0347_00463",
+      "de_DE": "L-Schlüssel"
+    },
+    {
+      "id": "msg_0347_00464",
+      "de_DE": "Geheimtränke"
+    }
+  ]
+}

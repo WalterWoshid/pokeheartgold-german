@@ -1,0 +1,105 @@
+{
+  "key": 17418,
+  "messages": [
+    {
+      "id": "msg_0544_00000",
+      "de_DE": [
+        "Wie kann ich behilflich sein?\n",
+        "Vielleicht eine Wellness-Behandlung?\r",
+        "Durch so eine Behandlung wird dein\n",
+        "{STRVAR_1 1, 1} freundlicher werden.\r",
+        "Bist du an einer Wellness-Behandlung\n",
+        "interessiert, {STRVAR_1 3, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0544_00001",
+      "de_DE": "Hoffentlich beehrst du uns bald wieder."
+    },
+    {
+      "id": "msg_0544_00002",
+      "de_DE": [
+        "Aaah, ja.\n",
+        "Hier entlang, bitte...\r"
+      ]
+    },
+    {
+      "id": "msg_0544_00003",
+      "de_DE": [
+        "Wir sind so weit.\n",
+        "Bitte entspanne dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0544_00004",
+      "de_DE": [
+        "Dieses Öl enthält Diamantessenzen,\n",
+        "zur Verbesserung der Effektivität.\r"
+      ]
+    },
+    {
+      "id": "msg_0544_00005",
+      "de_DE": [
+        "Dieser Schaum wurde sorgfältig mit\n",
+        "einem Perlenextrakt angereichert.\r"
+      ]
+    },
+    {
+      "id": "msg_0544_00006",
+      "de_DE": [
+        "Die Gifte im Körper werden durch eine\n",
+        "besondere Technik herausmassiert.\r"
+      ]
+    },
+    {
+      "id": "msg_0544_00007",
+      "de_DE": [
+        "Die Luft unseres Wellness-Salons\n",
+        "ist mit Kräuteraromen angereichert.\r",
+        "Das fördert die Entspannung\n",
+        "unserer Gäste.\r"
+      ]
+    },
+    {
+      "id": "msg_0544_00008",
+      "de_DE": [
+        "Das war es.\n",
+        "Hoffentlich hat es dir gefallen."
+      ]
+    },
+    {
+      "id": "msg_0544_00009",
+      "de_DE": [
+        "Oh, tut mir schrecklich leid.\r",
+        "Wir können unseren Mitglieder nur eine\n",
+        "Wellness-Sitzung am Tag empfehlen."
+      ]
+    },
+    {
+      "id": "msg_0544_00010",
+      "de_DE": [
+        "Wir behandeln unsere Kunden und ihre\n",
+        "Pokémon voneinander getrennt.\r",
+        "So können sie sich unabhängig\n",
+        "voneinander unbekümmert entspannen."
+      ]
+    },
+    {
+      "id": "msg_0544_00011",
+      "de_DE": [
+        "Wir bieten einen sehr\n",
+        "exklusiven Service.\r",
+        "Mehr als fünf Mitglieder täglich\n",
+        "akzeptieren wir nicht."
+      ]
+    },
+    {
+      "id": "msg_0544_00012",
+      "de_DE": [
+        "Wir genießen den Ruf, unsere\n",
+        "Mitglieder und ihre Pokémon\f",
+        "einander näher zu bringen."
+      ]
+    }
+  ]
+}

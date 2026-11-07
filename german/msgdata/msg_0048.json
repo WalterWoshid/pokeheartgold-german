@@ -1,0 +1,19 @@
+{
+  "key": 51984,
+  "messages": [
+    {
+      "id": "msg_0048_00000",
+      "de_DE": [
+        "Angeblich lässt sich PIEPI hier immer bei\n",
+        "Abenddämmerung blicken, um zu spielen!"
+      ]
+    },
+    {
+      "id": "msg_0048_00001",
+      "de_DE": [
+        "Du bist sicher erschöpft.\n",
+        "Ruhe dich erst mal etwas aus! {YESNO 0}"
+      ]
+    }
+  ]
+}

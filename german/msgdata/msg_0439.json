@@ -1,0 +1,363 @@
+{
+  "key": 39226,
+  "messages": [
+    {
+      "id": "msg_0439_00000",
+      "de_DE": [
+        "Ich bin der Pensionsleiter.\r",
+        "Ich kümmere mich um die wertvollen\n",
+        "Pokémon der Trainer.\r",
+        "Wenn ich eines deiner Pokémon auf-\n",
+        "ziehen soll, sprich mit meiner Frau."
+      ]
+    },
+    {
+      "id": "msg_0439_00001",
+      "de_DE": [
+        "Ach, du bist es!\r",
+        "Wir haben deine Pokémon aufgezogen\n",
+        "und sind ganz schön überrascht!\r",
+        "Deine Pokémon haben nun ein Ei!\r",
+        "Wir wissen nicht, wie das passiert\n",
+        "ist, aber jetzt ist es da.\r",
+        "Möchtest du es haben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00002",
+      "de_DE": [
+        "Ach, du bist es! Schön, dich zu sehen.\n",
+        "Deinem {STRVAR_1 0, 0, 0} geht es sehr gut."
+      ]
+    },
+    {
+      "id": "msg_0439_00003",
+      "de_DE": "Ich werde es behalten."
+    },
+    {
+      "id": "msg_0439_00004",
+      "de_DE": [
+        "Du hast keinen Platz dafür... komm\n",
+        "wieder, wenn du Platz geschaffen hast."
+      ]
+    },
+    {
+      "id": "msg_0439_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält das Ei vom\n",
+        "Pensionsleiter."
+      ]
+    },
+    {
+      "id": "msg_0439_00006",
+      "de_DE": "Kümmere dich gut darum."
+    },
+    {
+      "id": "msg_0439_00007",
+      "garbage": 80
+    },
+    {
+      "id": "msg_0439_00008",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0439_00009",
+      "de_DE": [
+        "Ah, du bist es! Deinen Pokémon\r",
+        "{STRVAR_1 0, 0, 0} und {STRVAR_1 0, 1, 0}\f",
+        "geht es prächtig.\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00010",
+      "de_DE": [
+        "Dann werde ich es behalten.\n",
+        "Oder möchtest du es doch haben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00011",
+      "de_DE": [
+        "Kümmere dich gut darum!\r",
+        "Junge, Junge... wer hätte gedacht,\n",
+        "dass wir hier ein Ei finden?\r",
+        "Und wer weiß? Womöglich war\n",
+        "es ja noch nicht das Letzte?\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00012",
+      "de_DE": [
+        "Gut, dann passe ich darauf auf.\n",
+        "Danke!\r",
+        "Junge, Junge... wer hätte gedacht,\n",
+        "dass wir hier ein Ei finden?\r",
+        "Und wer weiß? Womöglich war\n",
+        "es ja noch nicht das Letzte?\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00013",
+      "de_DE": [
+        "Weißt du, {STRVAR_1 3, 0, 0}...\n",
+        "Die Pokémon, die bei uns abgegeben\f",
+        "werden, bringen uns manchmal Eier.\f",
+        "Wir benachrichtigen dann die Trainer.\f",
+        "Sollen wir das auch bei dir tun,\f",
+        "wenn wir bei deinen ein Ei finden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00014",
+      "de_DE": [
+        "Weißt du, {STRVAR_1 3, 0, 0}...\n",
+        "Die Pokémon, die bei uns abgegeben\f",
+        "werden, bringen uns manchmal Eier.\f",
+        "Wir benachrichtigen dann die Trainer.\f",
+        "Sollen wir das auch bei dir tun,\f",
+        "wenn wir bei deinen ein Ei finden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00015",
+      "de_DE": [
+        "Alles klar!\n",
+        "Ich werde das Kind schon schaukeln!\r",
+        "Wenn ich wieder eines deiner Pokémon\n",
+        "aufziehen soll, sprich mit meiner Frau."
+      ]
+    },
+    {
+      "id": "msg_0439_00016",
+      "de_DE": [
+        "Na gut, wie du meinst.\r",
+        "Wenn ich wieder eines deiner Pokémon\n",
+        "aufziehen soll, sprich mit meiner Frau."
+      ]
+    },
+    {
+      "id": "msg_0439_00017",
+      "de_DE": [
+        "Die beiden scheinen sich sehr zu\n",
+        "mögen."
+      ]
+    },
+    {
+      "id": "msg_0439_00018",
+      "de_DE": [
+        "Die beiden scheinen sich zu\n",
+        "vertragen."
+      ]
+    },
+    {
+      "id": "msg_0439_00019",
+      "de_DE": "Die beiden mögen sich nicht sehr."
+    },
+    {
+      "id": "msg_0439_00020",
+      "de_DE": [
+        "Die beiden spielen lieber mit\n",
+        "anderen Pokémon als miteinander..."
+      ]
+    },
+    {
+      "id": "msg_0439_00021",
+      "de_DE": [
+        "Ich bin die Pensionsleiterin.\n",
+        "Wir ziehen Pokémon für dich auf.\r",
+        "Sollen wir eines aufziehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00022",
+      "de_DE": [
+        "Welches Pokémon sollen\n",
+        "wir für dich aufziehen?\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00023",
+      "de_DE": [
+        "Fein, dann nehmen wir dein {STRVAR_1 0, 0, 0}\n",
+        "für eine Weile in Pflege.\r",
+        "Schau später mal nach ihm.\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00024",
+      "de_DE": [
+        "Wir nehmen auch zwei Pokémon.\n",
+        "Willst du noch eins in Pflege geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00025",
+      "de_DE": "Mein Mann hat dich schon gesucht."
+    },
+    {
+      "id": "msg_0439_00026",
+      "de_DE": [
+        "Oh, gut.\n",
+        "Komm bald wieder."
+      ]
+    },
+    {
+      "id": "msg_0439_00027",
+      "de_DE": "Du hast nicht genug Geld..."
+    },
+    {
+      "id": "msg_0439_00028",
+      "de_DE": [
+        "Möchtest du das andere auch wieder\n",
+        "an dich nehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00029",
+      "de_DE": [
+        "Gut.\n",
+        "Komm bald wieder."
+      ]
+    },
+    {
+      "id": "msg_0439_00030",
+      "de_DE": [
+        "Ach, du bist es! Schön, dich zu sehen.\n",
+        "Wie es deinem Pokémon geht, fragst du?\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00031",
+      "de_DE": [
+        "Dein {STRVAR_1 0, 0, 0} ist um {STRVAR_1 51, 1, 0} Level\n",
+        "gewachsen.\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00032",
+      "de_DE": [
+        "Dein Pokémon-Team ist vollzählig.\n",
+        "Schaffe Platz und komm dann wieder."
+      ]
+    },
+    {
+      "id": "msg_0439_00033",
+      "de_DE": [
+        "Wenn du dein {STRVAR_1 0, 0, 0} mitnehmen\n",
+        "willst, kostet das {STRVAR_1 53, 1, 0} $. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00034",
+      "de_DE": [
+        "Sehr schön!\n",
+        "Hier ist dein Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00035",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0} hat {STRVAR_1 0, 0, 0} von der\n",
+        "Pensionsleiterin zurückerhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00036",
+      "de_DE": [
+        "Oh! Du hast aber nur ein Pokémon.\r",
+        "Du kannst nicht ohne Pokémon unterwegs\n",
+        "sein.\r",
+        "Komm einfach später wieder."
+      ]
+    },
+    {
+      "id": "msg_0439_00037",
+      "de_DE": [
+        "Möchtest du dein Pokémon wieder\n",
+        "an dich nehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0439_00038",
+      "de_DE": [
+        "Wenn du das Pokémon hierlässt,\n",
+        "womit willst du denn dann kämpfen?\r",
+        "Komm einfach später wieder."
+      ]
+    },
+    {
+      "id": "msg_0439_00039",
+      "de_DE": [
+        "Wie bitte?\n",
+        "Aber, aber...\r",
+        "Wenn du das Pokémon bei mir lässt, dann\n",
+        "hast du ja nur noch ein einziges bei dir!\r",
+        "Fange doch einfach ein paar Pokémon,\n",
+        "dann sehen wir weiter."
+      ]
+    },
+    {
+      "id": "msg_0439_00040",
+      "de_DE": [
+        "Mhm, mhm...\n",
+        "Das ist doch nur ein Ei!"
+      ]
+    },
+    {
+      "id": "msg_0439_00041",
+      "de_DE": [
+        "Fein, dann nehmen wir dein {STRVAR_1 0, 0, 0}\n",
+        "für eine Weile in Pflege.\r",
+        "Schau später mal nach ihm."
+      ]
+    },
+    {
+      "id": "msg_0439_00042",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0439_00043",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0439_00044",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0439_00045",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0439_00046",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0439_00047",
+      "de_DE": [
+        "Die zwei scheinen sich\n",
+        "sehr gut zu verstehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00048",
+      "de_DE": [
+        "Die zwei scheinen sich\n",
+        "recht gut zu verstehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00049",
+      "de_DE": [
+        "Die zwei scheinen sich\n",
+        "nicht sehr gut zu verstehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0439_00050",
+      "de_DE": [
+        "Die zwei zeigen\n",
+        "einander die kalte Schulter.\r"
+      ]
+    }
+  ]
+}

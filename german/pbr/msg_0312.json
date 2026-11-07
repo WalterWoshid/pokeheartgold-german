@@ -1,0 +1,82 @@
+{
+  "key": 1471,
+  "messages": [
+    {
+      "id": "msg_0312_00000",
+      "de_DE": [
+        "Willkommen in der\n",
+        "Ruhmeshalle!"
+      ]
+    },
+    {
+      "id": "msg_0312_00001",
+      "de_DE": "{STRVAR_1 0, 0} ♂ Lv. {STRVAR_1 52, 1}"
+    },
+    {
+      "id": "msg_0312_00002",
+      "de_DE": "{STRVAR_1 0, 0} ♀ Lv. {STRVAR_1 52, 1}"
+    },
+    {
+      "id": "msg_0312_00003",
+      "de_DE": "{STRVAR_1 0, 0} Lv.{STRVAR_1 52, 1}"
+    },
+    {
+      "id": "msg_0312_00004",
+      "de_DE": "OT: {STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0312_00005",
+      "de_DE": [
+        "Ort:\n",
+        "{STRVAR_1 4, 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00006",
+      "de_DE": [
+        "Geschlüpft:\n",
+        "{STRVAR_1 4, 0}."
+      ]
+    },
+    {
+      "id": "msg_0312_00007",
+      "de_DE": [
+        "Über einen Linktausch\n",
+        "erhalten."
+      ]
+    },
+    {
+      "id": "msg_0312_00008",
+      "de_DE": [
+        "Kommt aus der\n",
+        "Kanto-Region."
+      ]
+    },
+    {
+      "id": "msg_0312_00009",
+      "de_DE": [
+        "Kommt aus der\n",
+        "Hoenn-Region."
+      ]
+    },
+    {
+      "id": "msg_0312_00010",
+      "de_DE": "Kommt aus weiter Ferne."
+    },
+    {
+      "id": "msg_0312_00011",
+      "de_DE": [
+        "Bei schicksalhafter\n",
+        "Begegnung erhalten."
+      ]
+    },
+    {
+      "id": "msg_0312_00012",
+      "de_DE": "Champ der Pokémon Liga! Glückwunsch!"
+    },
+    {
+      "id": "msg_0312_00013",
+      "de_DE": "{STRVAR_1 3, 0} ID: {STRVAR_1 54, 1} Zeit: {STRVAR_1 52, 2}:{STRVAR_1 51, 3}"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "key": 9322,
+  "messages": [
+    {
+      "id": "msg_0097_00000",
+      "de_DE": [
+        "Wir heilen deine Pokémon und machen\n",
+        "sie wieder fit!"
+      ]
+    },
+    {
+      "id": "msg_0097_00001",
+      "de_DE": [
+        "Dein {STRVAR_1 50, 0, 0}. Gegner erwartet dich!\n",
+        "Bist du bereit?"
+      ]
+    },
+    {
+      "id": "msg_0097_00002",
+      "de_DE": [
+        "Möchtest du speichern und\n",
+        "das Spiel beenden?"
+      ]
+    },
+    {
+      "id": "msg_0097_00003",
+      "de_DE": [
+        "Möchtest du deine Herausforderung\n",
+        "im Kampfraum abbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0097_00004",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das Gerät nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0097_00005",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0097_00006",
+      "de_DE": [
+        "Dein {STRVAR_1 50, 0, 0}. Gegner erwartet dich!\n",
+        "Bist du bereit?"
+      ]
+    },
+    {
+      "id": "msg_0097_00007",
+      "de_DE": [
+        "Möchtest du speichern und\n",
+        "das Spiel beenden?"
+      ]
+    },
+    {
+      "id": "msg_0097_00008",
+      "de_DE": [
+        "Möchtest du deine Herausforderung\n",
+        "im Kampfraum abbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0097_00009",
+      "de_DE": [
+        "Möchtest du deinen letzten Kampf\n",
+        "als dein Kampfvideo speichern?"
+      ]
+    },
+    {
+      "id": "msg_0097_00010",
+      "de_DE": [
+        "Der Kampf von {STRVAR_1 3, 0, 0} wurde\n",
+        "als Kampfvideo gespeichert.\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00011",
+      "de_DE": [
+        "Ein Fehler ist aufgetreten.\n",
+        "Kampfvideo wurde nicht gespeichert.\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00012",
+      "de_DE": [
+        "Bestehendes Kampfvideo löschen\n",
+        "und letzten Kampf speichern?"
+      ]
+    },
+    {
+      "id": "msg_0097_00013",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das Gerät nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0097_00014",
+      "de_DE": [
+        "Ich gratuliere dir zu dieser\n",
+        "Siegesserie, Herausforderer!\r",
+        "Die Kampfkoryphäe lässt ausrichten,\n",
+        "dass sie von dir sehr beeindruckt ist.\r",
+        "Sie möchte deine Fähigkeiten mit einer\n",
+        "Herausforderung zum Kampf anerkennen.\r",
+        "Bist du bereit, gegen den Kampfkoloss\n",
+        "anzutreten?"
+      ]
+    },
+    {
+      "id": "msg_0097_00015",
+      "de_DE": [
+        "Hallo da!\n",
+        "Mein Name ist Viktor.\r",
+        "Ich habe schon viel von dir gehört.\n",
+        "Du bist {STRVAR_1 3, 0, 0} aus Neuborkia, ja?\r",
+        "Du bist viel jünger, als ich dachte.\n",
+        "Gut, dann zeige mir doch mal eine\f",
+        "Kostprobe deiner Stärke!\r",
+        "Zeige mir, wie stark das Band zwischen\n",
+        "dir und deinen Pokémon ist.\r",
+        "Zeige mir die Fähigkeiten, die du\n",
+        "dir als Trainer angeeignet hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00016",
+      "de_DE": [
+        "Viktor: Du hast es also\n",
+        "bis hierher geschafft!\r",
+        "In meiner Eigenschaft als Kampfkoloss\n",
+        "muss ich immer mein Bestes geben.\r",
+        "Auf diese Weise zollen die besten\n",
+        "Trainer einander Respekt.\r",
+        "Sie kämpfen bis zum Ende und widmen\n",
+        "sich der Lehre der Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00017",
+      "de_DE": [
+        "Bravo!\r",
+        "Hoffentlich werden mich noch viele\n",
+        "tolle Trainer hier herausfordern.\r",
+        "Genau so, wie du es heute getan hast.\r",
+        "Darauf freue ich mich schon sehr!\r",
+        "Du hast das Potenzial, noch viel\n",
+        "stärker zu werden! Kämpfe mit den\f",
+        "unzähligen Trainern dieser Welt\f",
+        "und wachse an dieser Erfahrung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00018",
+      "de_DE": [
+        "Bravo!\n",
+        "Du hast mich wahrlich inspiriert!\r",
+        "Junger Freund, die Welt und deine Zu-\n",
+        "kunft sind vielversprechend. Wenn dein\f",
+        "Herz im Einklang mit denen deiner\f",
+        "Pokémon schlägt, sind eurer Freund-\f",
+        "schaft keine Grenzen gesetzt! Geh nun!\r",
+        "Mögen alle deine Wünsche in Erfüllung\n",
+        "gehen! Du bist frei!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00019",
+      "de_DE": [
+        "Du hast das siebte Duell gewonnen!\n",
+        "Gratulation!\r",
+        "Als Belohnung für dein besonderes\n",
+        "Talent bekommst du GP!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00020",
+      "de_DE": [
+        "Glückwunsch!\r",
+        "Dein Sieg gegen den Kampfkoloss\n",
+        "wird uns allen als Inspiration dienen!\r",
+        "Als Belohnung für dein besonderes\n",
+        "Talent bekommst du GP!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00021",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_1 51, 1, 0} GP!\r"
+    },
+    {
+      "id": "msg_0097_00022",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das Gerät nicht ausschalten."
+      ]
+    }
+  ]
+}

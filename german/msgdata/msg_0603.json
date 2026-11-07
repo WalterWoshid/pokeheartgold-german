@@ -1,0 +1,289 @@
+{
+  "key": 24515,
+  "messages": [
+    {
+      "id": "msg_0603_00000",
+      "de_DE": [
+        "Hier kannst du die Münzen, die du im\n",
+        "Spiel gesammelt hast, gegen Preise\f",
+        "deiner Wahl eintauschen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0603_00001",
+      "de_DE": [
+        "Komm bitte wieder, wenn du\n",
+        "genug Münzen gesammelt hast!"
+      ]
+    },
+    {
+      "id": "msg_0603_00002",
+      "de_DE": "Nanu? Du hast nicht genug Münzen! {YESNO 0}"
+    },
+    {
+      "id": "msg_0603_00003",
+      "de_DE": [
+        "Bist du mit {STRVAR_1 8, 0, 0}\n",
+        "einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0603_00004",
+      "de_DE": "Bitte sehr!\r"
+    },
+    {
+      "id": "msg_0603_00005",
+      "de_DE": "Dein Beutel scheint voll zu sein!\r"
+    },
+    {
+      "id": "msg_0603_00006",
+      "de_DE": [
+        "Du hast zu viele Pokémon dabei.\r",
+        "Komm zurück, wenn du etwas Platz in\n",
+        "deinem Team geschaffen hast."
+      ]
+    },
+    {
+      "id": "msg_0603_00007",
+      "de_DE": "Ist {STRVAR_1 0, 1, 0} okay? {YESNO 0}"
+    },
+    {
+      "id": "msg_0603_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{STRVAR_1 0, 1, 0}! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0603_00009",
+      "de_DE": [
+        "Hier kannst du die Münzen, die du im\n",
+        "Spiel gesammelt hast, gegen Pokémon\f",
+        "deiner Wahl eintauschen. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0603_00010",
+      "de_DE": [
+        "Du verstaust {STRVAR_1 8, 0, 0} in\n",
+        "deiner {STRVAR_1 18, 1, 0}-Tasche. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0603_00011",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0603_00012",
+      "de_DE": "TM"
+    },
+    {
+      "id": "msg_0603_00013",
+      "de_DE": "Items zum Tragen"
+    },
+    {
+      "id": "msg_0603_00014",
+      "de_DE": [
+        "Delegator\n",
+        "2 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00015",
+      "de_DE": [
+        "Schwerttanz\n",
+        "4 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00016",
+      "de_DE": [
+        "Erholung\n",
+        "6 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00017",
+      "de_DE": [
+        "Flammenwurf\n",
+        "10 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00018",
+      "de_DE": [
+        "Eisstrahl\n",
+        "10 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00019",
+      "de_DE": [
+        "Donnerblitz\n",
+        "10 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00020",
+      "de_DE": [
+        "Seidenschal\n",
+        "1 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00021",
+      "de_DE": [
+        "Großlinse\n",
+        "1 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00022",
+      "de_DE": [
+        "Zoomlinse\n",
+        "1 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00023",
+      "de_DE": [
+        "Metronom\n",
+        "1 000 Münzen"
+      ]
+    },
+    {
+      "id": "msg_0603_00024",
+      "de_DE": "ABRA{CURSOR_X 102}200 Münzen"
+    },
+    {
+      "id": "msg_0603_00025",
+      "de_DE": "RETTAN{CURSOR_X 102}700 Münzen"
+    },
+    {
+      "id": "msg_0603_00026",
+      "de_DE": "DRATINI{CURSOR_X 90}2 100 Münzen"
+    },
+    {
+      "id": "msg_0603_00027",
+      "de_DE": "SANDAN{CURSOR_X 102}700 Münzen"
+    },
+    {
+      "id": "msg_0603_00028",
+      "de_DE": [
+        "Mein Name ist\n",
+        "Herr von Zock!\r",
+        "Juckt es dich nicht auch in den\n",
+        "Fingern, wenn du jemandem beim\f",
+        "Münzspiel zusiehst?\r",
+        "Ich glaube, darin steckt der\n",
+        "eigentliche Sinn des Lebens!\r",
+        "Aber du scheinst einem Spielchen auch\n",
+        "nicht abgeneigt zu sein, nicht wahr?\r",
+        "Beim Münzspiel brauchst du nichts weiter\n",
+        "tun, als Münzen zu sammeln, wofür du im\f",
+        "Gegenzug wunderbare Preise erhältst.\r",
+        "Möchtest du dich am Münzspiel\n",
+        "versuchen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0603_00029",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0603_00030",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0603_00031",
+      "de_DE": [
+        "Prima! Hier, nimm diesen Münzkorb\n",
+        "von mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0603_00032",
+      "de_DE": "Dann zeige mir mal, was du so kannst!\r"
+    },
+    {
+      "id": "msg_0603_00033",
+      "de_DE": [
+        "Beim Münzspiel können wir beide uns\n",
+        "ausgiebig vergnügen!"
+      ]
+    },
+    {
+      "id": "msg_0603_00034",
+      "de_DE": [
+        "Mein Name ist\n",
+        "Herr von Zock!\r",
+        "Juckt es dich nicht auch in den\n",
+        "Fingern, wenn du jemandem beim\f",
+        "Münzspiel zusiehst?\r",
+        "Ich glaube, darin steckt der\n",
+        "eigentliche Sinn des Lebens!\r",
+        "He du! Worauf wartest du noch?\n",
+        "Wage ein Spielchen und zeige mir,\f",
+        "was du so kannst!"
+      ]
+    },
+    {
+      "id": "msg_0603_00035",
+      "de_DE": [
+        "Worauf wartest du noch?\n",
+        "Zeige mir, was du im Münzspiel\f",
+        "so draufhast!"
+      ]
+    },
+    {
+      "id": "msg_0603_00036",
+      "de_DE": [
+        "Dich juckt’s bestimmt in den Fingern,\n",
+        "wenn du anderen beim Münzspiel\f",
+        "zusiehst, nicht wahr? Ach übrigens!\r",
+        "Sprich mit den beiden hier, wenn du\n",
+        "genug Münzen hast, und lass dir tolle\f",
+        "Preise geben!"
+      ]
+    },
+    {
+      "id": "msg_0603_00037",
+      "de_DE": [
+        "Jetzt hat dich das Münzspielfieber\n",
+        "also doch gepackt, nicht wahr?"
+      ]
+    },
+    {
+      "id": "msg_0603_00038",
+      "de_DE": [
+        "Ohne Münzkorb wirst du wohl\n",
+        "nicht spielen können...\r"
+      ]
+    },
+    {
+      "id": "msg_0603_00039",
+      "de_DE": [
+        "Herr von Zock: He du! Du willst dich\n",
+        "doch sicherlich am Münzspiel versuchen!\r",
+        "Komm bitte hierher! Ich gebe dir einen\n",
+        "Münzkorb!"
+      ]
+    },
+    {
+      "id": "msg_0603_00040",
+      "de_DE": [
+        "Herr von Zock: Dann zeige mir mal,\n",
+        "was du im Münzspiel so draufhast!\r"
+      ]
+    },
+    {
+      "id": "msg_0603_00041",
+      "de_DE": [
+        "Herr von Zock: He du!\n",
+        "Schlag keine Wurzeln an der Tischkante,\f",
+        "sondern setz dich mir gegenüber\f",
+        "und lass uns anfangen zu spielen!"
+      ]
+    }
+  ]
+}

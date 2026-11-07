@@ -1,0 +1,25 @@
+{
+  "key": 55574,
+  "messages": [
+    {
+      "id": "msg_0550_00000",
+      "de_DE": "Morgen"
+    },
+    {
+      "id": "msg_0550_00001",
+      "de_DE": "Tag"
+    },
+    {
+      "id": "msg_0550_00002",
+      "de_DE": "Abend"
+    },
+    {
+      "id": "msg_0550_00003",
+      "de_DE": "Nacht"
+    },
+    {
+      "id": "msg_0550_00004",
+      "de_DE": "Spätnacht"
+    }
+  ]
+}

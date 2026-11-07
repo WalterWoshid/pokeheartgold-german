@@ -1,0 +1,122 @@
+{
+  "key": 58101,
+  "messages": [
+    {
+      "id": "msg_0435_00000",
+      "de_DE": [
+        "Hohoho...\n",
+        "Ich bin Oma Ma.\r",
+        "Ich stamme aus einer Stadt der\n",
+        "Drachenzähmer.\r",
+        "Und ich lebe hier ganz allein.\r",
+        "Ich kann einem starken Pokémon die\n",
+        "mächtigste Drachen-Attacke von ganz\f",
+        "Sinnoh beibringen.\r",
+        "Soll ich diese Attacke einem deiner\n",
+        "Pokémon beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0435_00001",
+      "de_DE": [
+        "Ah, du bist es wieder...\r",
+        "Soll ich die stärkste Drachen-Attacke,\n",
+        "die ich kenne, einem deiner\f",
+        "Pokémon beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0435_00002",
+      "de_DE": [
+        "Nun, wenn du deine Meinung änderst,\n",
+        "kannst du jederzeit vorbeikommen."
+      ]
+    },
+    {
+      "id": "msg_0435_00003",
+      "de_DE": [
+        "Verstehe...\n",
+        "Mir gefällt deine Einstellung.\r",
+        "Leider kann keines deiner Pokémon diese\n",
+        "Attacke lernen."
+      ]
+    },
+    {
+      "id": "msg_0435_00004",
+      "de_DE": [
+        "Sehr schön. Wähle das Pokémon, dem ich\n",
+        "die Attacke beibringen soll."
+      ]
+    },
+    {
+      "id": "msg_0435_00005",
+      "de_DE": [
+        "Es tut mir sehr leid...\r",
+        "Das Pokémon kann die Attacke zwar\n",
+        "lernen, aber es vertraut dir noch nicht\f",
+        "genügend...\r",
+        "Und bis dahin kann ich ihm die Attacke\n",
+        "leider nicht beibringen."
+      ]
+    },
+    {
+      "id": "msg_0435_00006",
+      "de_DE": [
+        "Es tut mir leid... Dieses Pokémon kann\n",
+        "die Attacke nicht lernen."
+      ]
+    },
+    {
+      "id": "msg_0435_00007",
+      "de_DE": [
+        "Hmmmm...\r",
+        "Einem Ei eine Attacke beizubringen,\n",
+        "übersteigt selbst meine Fähigkeiten."
+      ]
+    },
+    {
+      "id": "msg_0435_00008",
+      "de_DE": [
+        "Oh? Das Pokémon kennt doch\n",
+        "{STRVAR_1 6, 0} schon."
+      ]
+    },
+    {
+      "id": "msg_0435_00009",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0435_00010",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0435_00011",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0435_00012",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0435_00013",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0435_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0435_00015",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0435_00016",
+      "de_DE": [
+        "Die Vernichtungskraft von Draco Meteor\n",
+        "ist ganz enorm.\r",
+        "Allerdings wird der Spezial-Angriff\n",
+        "des Pokémon dabei deutlich gesenkt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "key": 29747,
+  "messages": [
+    {
+      "id": "msg_0345_00000",
+      "de_DE": [
+        "Ein Dieb ist in das\n",
+        "Kraftwerk eingebrochen.\f",
+        "In was für einer Welt leben wir nur..."
+      ]
+    },
+    {
+      "id": "msg_0345_00001",
+      "de_DE": [
+        "Wir haben Neuigkeiten\n",
+        "aus Azuria City!\r",
+        "Es heißt, dort treibe sich eine\n",
+        "verdächtige Gestalt herum!\r"
+      ]
+    },
+    {
+      "id": "msg_0345_00002",
+      "de_DE": [
+        "Dürfte ich dich vielleicht um\n",
+        "Unterstützung bitten?\r",
+        "Die verdächtige Person treibt\n",
+        "sich scheinbar vor der Arena\f",
+        "von Azuria City herum...\r"
+      ]
+    },
+    {
+      "id": "msg_0345_00003",
+      "de_DE": [
+        "Dürfte ich dich vielleicht um\n",
+        "Unterstützung bitten?\r",
+        "Die verdächtige Person treibt\n",
+        "sich scheinbar vor der Arena\f",
+        "von Azuria City herum..."
+      ]
+    },
+    {
+      "id": "msg_0345_00004",
+      "de_DE": [
+        "Ein Dieb hat ein wichtiges\n",
+        "Teil des Generators entwendet!\r",
+        "Ohne es funktioniert der\n",
+        "neue Generator nicht!"
+      ]
+    },
+    {
+      "id": "msg_0345_00005",
+      "de_DE": [
+        "Dieses Kraftwerk wurde eigentlich\n",
+        "schon vor langer Zeit stillgelegt.\r",
+        "Aber wir haben es wieder in Betrieb\n",
+        "genommen, um damit Energie für\f",
+        "den Magnetzug zu gewinnen."
+      ]
+    },
+    {
+      "id": "msg_0345_00006",
+      "de_DE": [
+        "Der Direktor des Kraftwerks? Oh, also\n",
+        "den findest du dort drüben, aber...\r",
+        "Seit der Generator sabotiert wurde, ist\n",
+        "er mal wütend, mal traurig, mal müde und\f",
+        "mal betrübt. Manchmal dreht er dann\f",
+        "auch völlig durch und lacht sich krank.\f",
+        "Es ist eine Achterbahn der Gefühle..."
+      ]
+    },
+    {
+      "id": "msg_0345_00007",
+      "de_DE": [
+        "Der Magnetzug verbraucht\n",
+        "sehr viel Energie.\r",
+        "Ohne den neuen Generator\n",
+        "bewegt sich da gar nichts."
+      ]
+    },
+    {
+      "id": "msg_0345_00008",
+      "de_DE": [
+        "Ich sammele Pokémon!\n",
+        "Hast du ein DIGDRI?\r",
+        "Möchtest du es gegen mein\n",
+        "MAGNETON tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0345_00009",
+      "de_DE": [
+        "Klasse!\n",
+        "Jetzt habe ich ein DIGDRI!\r",
+        "Tausend Dank!"
+      ]
+    },
+    {
+      "id": "msg_0345_00010",
+      "de_DE": [
+        "Häh?\n",
+        "Das ist kein DIGDRI!\f",
+        "Hmpf, wie enttäuschend..."
+      ]
+    },
+    {
+      "id": "msg_0345_00011",
+      "de_DE": [
+        "Du möchtest nicht tauschen?\n",
+        "Hmpf, so eine Enttäuschung..."
+      ]
+    },
+    {
+      "id": "msg_0345_00012",
+      "de_DE": [
+        "Hi!\n",
+        "Wie geht es dem MAGNETON,\f",
+        "das ich mit dir getauscht habe?"
+      ]
+    },
+    {
+      "id": "msg_0345_00013",
+      "de_DE": [
+        "Direktor: D-das ist inakzeptabel!\r",
+        "Ich habe Stunden und Tage mit der\n",
+        "Reparatur des Generators zugebracht!\f",
+        "Wie kann dieser Kerl ihn nur sabotieren?\r",
+        "Wenn ich den erwische, kriegt er\n",
+        "ohne Gnade den Ladestrahl zu spüren!\f",
+        "Pa-pa-pa-pamm! Das hast du davon!!!"
+      ]
+    },
+    {
+      "id": "msg_0345_00014",
+      "de_DE": [
+        "Direktor: Hä? Wiewowaswieso?!?\r",
+        "Hast du etwa das fehlende Teil\n",
+        "des Generators gefunden?\r",
+        "Das arme kleine Ding, das dieser böse\n",
+        "Mann aus meinem geliebten Generator\f",
+        "entwendet hat, meinst du? Dieses Teil?\r",
+        "Du hast es also wirklich gefunden?!?\r",
+        "Oh, ich könnte dich küssen!!!\n",
+        "Vielen Dank!\r",
+        "Dann schreiten wir gleich mal zur Tat!\n",
+        "Zippeldi, zippeldi, zapp,\f",
+        "hier gehörst du hin, und “Schnapp!”\r"
+      ]
+    },
+    {
+      "id": "msg_0345_00015",
+      "de_DE": [
+        "Direktor: Oooh!\r",
+        "Es tut sich was! Es tut sich was!\n",
+        "Oooh! Oooh!\r"
+      ]
+    },
+    {
+      "id": "msg_0345_00016",
+      "de_DE": [
+        "Direktor: Oh, ich bin dir ja so dankbar!\n",
+        "Erlaube mir, mich mit dieser TM etwas\f",
+        "erkenntlich zu zeigen!\r"
+      ]
+    },
+    {
+      "id": "msg_0345_00017",
+      "de_DE": [
+        "Direktor: Die TM57 enthält die\n",
+        "gnadenlose Attacke Ladestrahl!\r",
+        "Wenn sie abgefeuert wird, macht es\n",
+        "“Pa-pa-pa-pamm!”, und du hast\f",
+        "nicht nur deinen Gegner angegriffen,\f",
+        "sondern womöglich auch den Spezial-\f",
+        "Angriff deines Pokémon erhöht!"
+      ]
+    },
+    {
+      "id": "msg_0345_00018",
+      "de_DE": [
+        "Grundregeln für die Arbeit im Kraftwerk\r",
+        "1. Energie ist nicht unerschöpflich!\n",
+        "2. Wir müssen sie sparen, wo wir können!\f",
+        "3. Einer für alle und alle für einen!\f",
+        "4. Schlamperei wird nicht toleriert!\f",
+        "5. Allgemeine Gummisohlenpflicht!\f",
+        "6. Der Direktor ist groß und mächtig!"
+      ]
+    },
+    {
+      "id": "msg_0345_00019",
+      "de_DE": [
+        "Umweltfreundliche Energie\n",
+        "für einen komfortablen Alltag.\r",
+        "...Das Kanto-Kraftwerk!"
+      ]
+    }
+  ]
+}

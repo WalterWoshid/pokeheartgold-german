@@ -6,7 +6,13 @@ libsyscall_link_args = [
     '-proc', 'v5te'
 ]
 
-if game_version == 'HEARTGOLD'
+if game_language == 'GERMAN'
+    if game_version == 'HEARTGOLD'
+        libsyscall_asm = files('asm/_secure_IPKD.s')
+    else
+        libsyscall_asm = files('asm/_secure_IPGD.s')
+    endif
+elif game_version == 'HEARTGOLD'
     libsyscall_asm = files(
         'asm/_secure_IPKE.s'
     )

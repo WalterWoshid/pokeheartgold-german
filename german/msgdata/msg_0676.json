@@ -1,0 +1,137 @@
+{
+  "key": 25012,
+  "messages": [
+    {
+      "id": "msg_0676_00000",
+      "de_DE": "Alfried"
+    },
+    {
+      "id": "msg_0676_00001",
+      "de_DE": [
+        "Aber ich muss zugeben, der Kampf\n",
+        "an sich war gar nicht schlecht...\r",
+        "Hör zu. Beim Angeln ziehe ich von Zeit\n",
+        "zu Zeit Items an Land, die die Leute\f",
+        "ins Wasser geworfen haben.\f",
+        "Das nächste trete ich dir ab.\r",
+        "Du verrätst mir doch deine\n",
+        "Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0676_00002",
+      "de_DE": [
+        "Gut! Ich melde mich, sobald\n",
+        "ich was Gutes an der Angel habe."
+      ]
+    },
+    {
+      "id": "msg_0676_00003",
+      "de_DE": [
+        "Oh, verstehe... du kannst es dir ja\n",
+        "noch mal überlegen und wiederkommen."
+      ]
+    },
+    {
+      "id": "msg_0676_00004",
+      "de_DE": [
+        "Das nächste Item, das ich angele,\n",
+        "gehört dir!\r",
+        "Willst du meine Telefonnummer\n",
+        "registrieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0676_00005",
+      "de_DE": [
+        "Ah, da bist du ja!\r",
+        "Hier drüüüben!\n",
+        "Den Ball hier habe ich für dich geangelt!\r",
+        "Vor lauter Moos kann man nicht mehr\n",
+        "genau erkennen, was für ein Ball es ist.\f",
+        "Aber das kriegst du schon raus!\r"
+      ]
+    },
+    {
+      "id": "msg_0676_00006",
+      "de_DE": [
+        "Pssst!\n",
+        "Das Gebimmel verjagt ja das QUAPUTZI!\r",
+        "Vergiss das Telefon. Komm\n",
+        "lieber her zu mir, dann reden wir...\f",
+        "Aber leise!"
+      ]
+    },
+    {
+      "id": "msg_0676_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} macht sich\n",
+        "äußerst gut! Und mein\f",
+        "Anglerglück hat sich auch verbessert.\r",
+        "Neulich habe ich sogar ein {STRVAR_1 0, 11, 0}\n",
+        "besiegt...\r",
+        "Aber, um ehrlich zu sein, das Angeln\n",
+        "macht mir mehr Spaß als die Kämpferei.\r",
+        "Also dann, man spricht sich."
+      ]
+    },
+    {
+      "id": "msg_0676_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} macht sich\n",
+        "äußerst gut! Und mein\f",
+        "Anglerglück hat sich auch verbessert.\r",
+        "Trotzdem, das {STRVAR_1 0, 11, 0}\n",
+        "neulich war doch noch eine Spur\f",
+        "zu groß für mich...\r",
+        "Ich sage dir, es war SOOO groß!\r",
+        "Also dann, man spricht sich."
+      ]
+    },
+    {
+      "id": "msg_0676_00009",
+      "de_DE": [
+        "{STRVAR_1 4, 3, 0}! Ich kann angeln,\n",
+        "so viel ich will, heute beißt nichts an.\r",
+        "Ich hab’ eine Idee!\n",
+        "Komm doch vorbei und vertreibe mir\f",
+        "meine Langeweile mit einem Kampf."
+      ]
+    },
+    {
+      "id": "msg_0676_00010",
+      "de_DE": [
+        "Seufz... {STRVAR_1 4, 3, 0}, ist das\n",
+        "öde! Sie beißen einfach nicht wie sonst!\r",
+        "Beeile dich und lass uns kämpfen!"
+      ]
+    },
+    {
+      "id": "msg_0676_00011",
+      "de_DE": [
+        "Hmmm... noch habe ich\n",
+        "nichts Brauchbares gefunden.\r",
+        "Übe dich noch etwas in Geduld."
+      ]
+    },
+    {
+      "id": "msg_0676_00012",
+      "de_DE": [
+        "Komm schnell!\n",
+        "Da hängt ein Item an meiner Angel!\r",
+        "Komm her und hol es dir!\n",
+        "{STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0676_00013",
+      "de_DE": [
+        "Willst du mein Item verschmähen?\n",
+        "Wie? Du weißt nicht, wo ich bin?\r",
+        "Na, {STRVAR_1 4, 3, 0}! Nimm den Weg von\n",
+        "Mahagonia nach Ebenholz City.\f",
+        "Ich stehe gleich am Anfang."
+      ]
+    }
+  ]
+}

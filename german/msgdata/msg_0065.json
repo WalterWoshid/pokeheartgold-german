@@ -1,0 +1,419 @@
+{
+  "key": 33859,
+  "messages": [
+    {
+      "id": "msg_0065_00000",
+      "de_DE": [
+        "Willkommen im Radioturm\n",
+        "von Dukatia City!"
+      ]
+    },
+    {
+      "id": "msg_0065_00001",
+      "de_DE": [
+        "Willkommen im Radioturm\n",
+        "von Dukatia City!\r",
+        "...Oh, Pardon, das ist mir so heraus-\n",
+        "gerutscht. Tut mir leid, aber zurzeit\f",
+        "ist eine Besichtigung nicht möglich."
+      ]
+    },
+    {
+      "id": "msg_0065_00002",
+      "de_DE": [
+        "Wie bereits gesagt:\n",
+        "Ich darf heute leider keine\f",
+        "Besucher ins Gebäude lassen."
+      ]
+    },
+    {
+      "id": "msg_0065_00003",
+      "de_DE": [
+        "Bei uns läuft momentan\n",
+        "ein besonderes Quiz.\r",
+        "Wer alle 5 Fragen richtig beantwortet,\n",
+        "bekommt ein Radio-Modul geschenkt!\r",
+        "Damit kann man überall und jederzeit\n",
+        "Radio hören - man muss es nur\f",
+        "in den Pokécom stecken!\r",
+        "Möchtest du am Quiz teilnehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0065_00004",
+      "de_DE": [
+        "Also dann, die erste Frage:\r",
+        "Kann dein Pokécom dir\n",
+        "die Karte anzeigen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0065_00005",
+      "de_DE": [
+        "Prima! Das war richtig!\n",
+        "Jetzt Frage 2:\r",
+        "Ist NIDORINA immer weiblich? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0065_00006",
+      "de_DE": [
+        "Korrekt!\n",
+        "Hier kommt Frage 3:\r",
+        "Verwendet Kurt, der Pokéball-\n",
+        "Schmied, Aprikorken als Material? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0065_00007",
+      "de_DE": [
+        "So weit, so gut!\n",
+        "Frage 4!\r",
+        "KARPADOR kann keine\n",
+        "TM-Attacken erlernen. Richtig? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0065_00008",
+      "de_DE": [
+        "Hervorragend!\n",
+        "Und jetzt die letzte Frage:\r",
+        "Professor Eichs Pokémon-Talk \n",
+        "ist eine beliebte Sendung.\f",
+        "Ist Marianne die Co-Moderatorin? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0065_00009",
+      "de_DE": [
+        "Das war goldrichtig!\n",
+        "Glückwunsch!\f",
+        "Bitte schön, dein Radio-Modul!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00010",
+      "de_DE": [
+        "Der Pokécom von {STRVAR_1 3, 0, 0} kann\n",
+        "jetzt auch als Radio verwendet werden!"
+      ]
+    },
+    {
+      "id": "msg_0065_00011",
+      "de_DE": [
+        "Wir hoffen, dir gefällt\n",
+        "unser Programm!"
+      ]
+    },
+    {
+      "id": "msg_0065_00012",
+      "de_DE": [
+        "Oh, das ist aber schade.\n",
+        "Das war leider falsch.\f",
+        "Versuch’s einfach noch einmal!"
+      ]
+    },
+    {
+      "id": "msg_0065_00013",
+      "de_DE": [
+        "Das geht schon in Ordnung.\n",
+        "Komme einfach wieder, wenn du Lust hast."
+      ]
+    },
+    {
+      "id": "msg_0065_00014",
+      "de_DE": [
+        "Bianka: Hallooo!\n",
+        "Ich heiße Bianka!\r",
+        "Hier läuft gerade ein Quiz, bei dem man\n",
+        "ein Radio-Modul abstauben kann! Ich\f",
+        "selbst bin auch genau deswegen hier...\r",
+        "Aber dieses Quiz ist echt\n",
+        "unglaublich schwierig!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00015",
+      "de_DE": [
+        "Bianka: Wahnsinn! Du bist echt klasse!\n",
+        "Bei Frage 3 war ich mir so sicher,\f",
+        "dass die Antwort Aprikorken lautet!\r",
+        "Ho-hoppla!\n",
+        "Ich muss langsam zurück in die Arena!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00016",
+      "de_DE": [
+        "Ben ist der beste DJ von allen!\n",
+        "Oh, diese sonore, sanfte Stimme...\r",
+        "Er lässt mich förmlich dahinschmelzen!"
+      ]
+    },
+    {
+      "id": "msg_0065_00017",
+      "de_DE": [
+        "Ich stehe absolut auf Margit, die\n",
+        "Co-Moderatorin beim Pokémon-Talk!\r",
+        "...Nun ja, zumindest glaube ich das.\n",
+        "Bisher kenne ich ja bloß ihre Stimme!"
+      ]
+    },
+    {
+      "id": "msg_0065_00018",
+      "de_DE": [
+        "Verschwinde von hier!\n",
+        "Diese Radiostation wird belagert.\r",
+        "Ich habe strikten Befehl, nur Mitglieder\n",
+        "von Team Rocket durchzulassen!\r",
+        "Ist das klar?\r",
+        "Hier kommen nur Leute durch,\n",
+        "die eine schicke, schwarze Uniform\f",
+        "tragen, wie wir es tun!"
+      ]
+    },
+    {
+      "id": "msg_0065_00019",
+      "de_DE": [
+        "Wer bist du denn? Ein neuer Rekrut?\n",
+        "Oho! Eine Uniform von Team Rocket!\f",
+        "Die steht dir aber ausgezeichnet!\r",
+        "In Ordnung, du kannst durch.\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00020",
+      "de_DE": [
+        "Worauf wartest du? Eine Einladung?\n",
+        "Los, hopp, die Treppe hoch!\f",
+        "Auf deinen Posten, aber dalli!"
+      ]
+    },
+    {
+      "id": "msg_0065_00021",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: He da! Team Rocket!\r",
+        "Die Leute haben es satt, dass ihr\n",
+        "Waschlappen überall in Scharen\f",
+        "auftaucht und ihnen den Tag vermiest!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00022",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: ...Moment mal!\n",
+        "Du bist doch {STRVAR_1 3, 0, 0}?\f",
+        "Was suchst du denn hier?\r",
+        "Das fehlte gerade noch, dass du\n",
+        "jetzt auch auf stark machst, indem du\f",
+        "in dieser komischen Kluft herumläufst!\r",
+        "Das ist doch lächerlich!\n",
+        "Los, zieh das aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00023",
+      "de_DE": [
+        "Wa-was?!? Betrug!\n",
+        "Du bist gar kein neuer Rekrut!\f",
+        "Warte, das gibt was hinter die Löffel!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00024",
+      "de_DE": [
+        "Du bist zu stark...\r",
+        "Du könntest unsere Pläne vereiteln.\n",
+        "Ich muss die anderen warnen...\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00025",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: Ach so... du hast dich\n",
+        "verkleidet, um dich einzuschleichen.\r",
+        "Hmpf!\n",
+        "Eine typische Schwächlingstaktik.\r",
+        "Na, auch gut.\n",
+        "Von mir aus tobe dich hier ruhig aus.\r",
+        "Ich suche derweil diesen Drachenprofi.\n",
+        "Wie hieß er noch gleich? Siegfried!\f",
+        "Genau den knöpfe ich mir vor!\r",
+        "Und danach... bist du an der Reihe!\n",
+        "Also, mache dich auf was gefasst!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00026",
+      "de_DE": [
+        "Erdgeschoss: Rezeption\n",
+        "1S: Geschäftsabteilung\f",
+        "2S: Allgemeine Angelegenheiten\f",
+        "3S: Produktion\f",
+        "4S: Büro des Intendanten\f",
+        "5S: Aussichtsplattform"
+      ]
+    },
+    {
+      "id": "msg_0065_00027",
+      "de_DE": [
+        "Mache mit bei der Pokémon-Lotterie!\n",
+        "Welche ID-Nummern haben deine Pokémon?\r",
+        "Tausche deine Pokémon, um noch\n",
+        "mehr ID-Nummern zu sammeln!"
+      ]
+    },
+    {
+      "id": "msg_0065_00028",
+      "de_DE": [
+        "Willkommen bei der Pokémon-Lotterie.\n",
+        "Ich bin Beate, die Lottofee.\r",
+        "Ziehst du eine Nummer, die mit der\n",
+        "ID-Nummer eines deiner Pokémon\f",
+        "übereinstimmt, bekommst du einen\f",
+        "wunderbaren Preis.\r",
+        "Möchtest du dir die heutige\n",
+        "Glücksnummer ansehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0065_00029",
+      "de_DE": [
+        "Du hast heute bereits einen Lottoschein\n",
+        "gezogen. Bitte komme morgen wieder!"
+      ]
+    },
+    {
+      "id": "msg_0065_00030",
+      "de_DE": [
+        "Ach so.\n",
+        "Bitte beehre uns bald wieder!"
+      ]
+    },
+    {
+      "id": "msg_0065_00031",
+      "de_DE": [
+        "Zunächst sehen wir uns die heutige\n",
+        "Glücksnummer der Pokémon-Lotterie an.\r",
+        "... ... ...\n",
+        "... ... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00032",
+      "de_DE": [
+        "Der heutige Lottoschein\n",
+        "hat die Nummer {STRVAR_1 54, 0, 0}.\r",
+        "Wollen wir doch mal sehen,\n",
+        "ob sie mit der ID-Nummer\f",
+        "eines deiner Pokémon übereinstimmt.\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00033",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\r",
+        "Die ID-Nummer deines {STRVAR_1 1, 0, 0} im\n",
+        "Team stimmt ganz oder teilweise mit der\f",
+        "des Lottoscheins überein!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00034",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\r",
+        "Die ID-Nummer deines {STRVAR_1 1, 0, 0} in\n",
+        "deiner PC-Box stimmt teilweise oder\f",
+        "ganz mit der des Lottoscheins überein!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00035",
+      "de_DE": [
+        "Tut mir leid.\n",
+        "Keine der Nummern stimmt überein."
+      ]
+    },
+    {
+      "id": "msg_0065_00036",
+      "de_DE": [
+        "Die letzte Ziffer stimmt überein. Ich\n",
+        "darf dir den vierten Preis überreichen!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00037",
+      "de_DE": [
+        "Du hast eine Kulisse erhalten, mit der\n",
+        "du eine Garderobe ausstatten kannst."
+      ]
+    },
+    {
+      "id": "msg_0065_00038",
+      "de_DE": [
+        "Die letzten zwei Ziffern stimmen überein,\n",
+        "daher bekommst du den dritten Preis!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00039",
+      "de_DE": [
+        "Die letzten drei Ziffern stimmen überein,\n",
+        "daher bekommst du den zweiten Preis!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00040",
+      "de_DE": [
+        "Die letzten vier Ziffern stimmen überein.\n",
+        "Du bekommst den ersten Preis!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00041",
+      "de_DE": [
+        "Meine Güte! Alle fünf Ziffern stimmen\n",
+        "überein!\f",
+        "Du hast den Jackpot geknackt!!!\f",
+        "Das ist einfach unglaublich!!!\r",
+        "...Oh, entschuldige. Natürlich... dein\n",
+        "Preis! Ich war so begeistert, haha...\f",
+        "Hier, bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00042",
+      "de_DE": [
+        "Oh! Du scheinst keinen Platz\n",
+        "dafür zu haben.\r",
+        "Wenn du wieder Platz in deinem\n",
+        "Beutel hast, lass es mich wissen."
+      ]
+    },
+    {
+      "id": "msg_0065_00043",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}?\n",
+        "Ja, ich habe dich schon erwartet.\r",
+        "Diesen Preis habe ich für dich\n",
+        "aufbewahrt. Hier, bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00044",
+      "de_DE": [
+        "Bitte besuche uns doch mal wieder!\n",
+        "Bis bald, sagt Beate, die Lottofee!"
+      ]
+    },
+    {
+      "id": "msg_0065_00045",
+      "de_DE": [
+        "Willkommen zurück in der\n",
+        "Pokémon-Lotterie.\r",
+        "Möchtest du dir die heutige\n",
+        "Glücksnummer erneut ansehen? {YESNO 0}"
+      ]
+    }
+  ]
+}

@@ -289,7 +289,7 @@ BOOL ScrCmd_MoveTutorChooseMove(ScriptContext *ctx) {
     showAsTwoColumns = (numLearnableMoves + showNextButton >= 4) ? 1 : 0;
     for (i = 0; i < numLearnableMoves; i++) {
         ReadMsgDataIntoString(messageData, sTutorMoves[learnableMoves[i + numMovesToSkip]].move, string);
-        BufferString(*messageFormat, 0, string, 2, 1, 2);
+        BufferString(*messageFormat, 0, string, 2, 1, GAME_LANGUAGE);
         BufferIntegerAsString(*messageFormat, 1, sTutorMoves[learnableMoves[i + numMovesToSkip]].cost, 2, PRINTING_MODE_RIGHT_ALIGN, TRUE);
         MoveTutorMenu_SetListItem(*unk, showAsTwoColumns, 0xff, sTutorMoves[learnableMoves[i + numMovesToSkip]].move);
     }

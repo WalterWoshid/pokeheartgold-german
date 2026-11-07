@@ -1,0 +1,323 @@
+{
+  "key": 50243,
+  "messages": [
+    {
+      "id": "msg_0270_00000",
+      "de_DE": "{STRVAR_1 3, 0}: Was geht hier vor...?\r"
+    },
+    {
+      "id": "msg_0270_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00002",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00003",
+      "de_DE": [
+        "Professor, auf der anderen Seite gibt\n",
+        "es auch nichts Außergewöhnliches!\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00004",
+      "de_DE": [
+        "Professor, auch auf der anderen Seite\n",
+        "gibt es nichts Außergewöhnliches!\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00005",
+      "de_DE": [
+        "Professor: Hmmm...\n",
+        "Ich muss mich wohl geirrt haben...\r",
+        "Irgendetwas scheint anders zu\n",
+        "sein als zuvor, aber...\r",
+        "Egal! Immerhin haben wir\n",
+        "den See gesehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00006",
+      "de_DE": "{STRVAR_1 3, 0}, wir gehen.\r"
+    },
+    {
+      "id": "msg_0270_00007",
+      "de_DE": [
+        "Lucia: Professor, wie gefällt es Ihnen,\n",
+        "wieder in Sinnoh zu sein?\r",
+        "Nach vier Jahren muss es sicher\n",
+        "sehr aufregend für Sie sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00008",
+      "de_DE": [
+        "Lucius: Professor, Sie waren\n",
+        "vier Jahre lang fort.\r",
+        "Wie gefällt es Ihnen,\n",
+        "wieder in Sinnoh zu sein?\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00009",
+      "de_DE": [
+        "Professor: ...Hm.\n",
+        "Eins kann ich mit Sicherheit sagen.\r",
+        "In Sinnoh gibt es zahlreiche\n",
+        "seltene Pokémon zu untersuchen.\r",
+        "Das Land ist wie geschaffen\n",
+        "für unsere Studien.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00010",
+      "de_DE": [
+        "Professor: Verzeihung.\n",
+        "Dürfen wir mal durch?\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00011",
+      "de_DE": [
+        "Lucia: Verzeihung...\n",
+        "Wir haben es eilig.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00012",
+      "de_DE": "Lucius: Sorry, Leute.\r"
+    },
+    {
+      "id": "msg_0270_00013",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was sollte das denn?\n",
+        "Diese zwei...\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00014",
+      "de_DE": [
+        "Hä? {STRVAR_1 3, 0}!\n",
+        "Sehen wir uns das mal an!\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00015",
+      "de_DE": [
+        "...\n",
+        "...\r",
+        "Was meinst du?!?\n",
+        "Nicht ins hohe Gras gehen?!?\r",
+        "Ach was, ist doch kein Problem!\r",
+        "Wir werden nicht lang genug im Gras\n",
+        "bleiben, um wilde Pokémon anzulocken.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00016",
+      "de_DE": [
+        "Das ist...\n",
+        "Eine Tasche?\r",
+        "Diese Leute haben sie hier vergessen.\n",
+        "Was sollen wir damit machen?\r",
+        "Wir können sie ihnen zurückbringen,\n",
+        "aber wer waren die?\r",
+        "Ich habe gehört, wie einer von\n",
+        "denen “Professor” gesagt hat...\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00017",
+      "de_DE": [
+        "Waaa-!\n",
+        "Po-pokémon?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00018",
+      "de_DE": "Was ist...!?!\r"
+    },
+    {
+      "id": "msg_0270_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Boaaah!!!\n",
+        "Dein {STRVAR_1 0, 1} war einfach Spitze!\r",
+        "Aber mein {STRVAR_1 0, 2} war\n",
+        "viel besser als dein Pokémon!\r",
+        "...Dabei gehören diese\n",
+        "Pokémon nicht mal uns...\r",
+        "Aber wir mussten sie kämpfen lassen...\n",
+        "Bestimmt haben die Leute\f",
+        "nichts dagegen.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00020",
+      "de_DE": [
+        "Oh! Da ist ja die Tasche!\r",
+        "Der Professor wäre ganz schön wütend,\n",
+        "hätte ich sie verloren...\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00021",
+      "de_DE": [
+        "Lucia: Huch?\n",
+        "Oh, nein!\r",
+        "Habt ihr...\n",
+        "Die Pokémon hier rausgenommen?\r",
+        "Wirklich?!? Ach du meine Güte!\n",
+        "Was wird der Professor dazu sagen?\r",
+        "...Das ist ganz und gar nicht gut...\n",
+        "Ich nehme die Tasche lieber mit.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00022",
+      "de_DE": [
+        "Lucius: Uff! Ihr habt die Tasche\n",
+        "gefunden?\r",
+        "Der Professor wäre an die Decke\n",
+        "gegangen, wenn er das wüsste.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00023",
+      "de_DE": [
+        "Lucius: Hngh?\n",
+        "Waaas!?!\r",
+        "Habt ihr...\n",
+        "Habt ihr die Pokémon eingesetzt!?!\r",
+        "Oh, Mann... Wie soll ich das\n",
+        "nur dem Professor erklären?\r",
+        "...Diese Tasche gehört dem Professor.\n",
+        "Ich bringe sie ihm lieber.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00024",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was sollte\n",
+        "das denn jetzt?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00025",
+      "de_DE": [
+        "Keine Ahnung, was da los ist,\n",
+        "{STRVAR_1 3, 0}, aber lass uns gehen.\r",
+        "Mein Pokémon wurde bei\n",
+        "dem Kampf verletzt.\r",
+        "Wenn wir nochmal angegriffen werden,\n",
+        "könnten wir Probleme bekommen.\r"
+      ]
+    },
+    {
+      "id": "msg_0270_00026",
+      "de_DE": [
+        "Eibe: Hmmm...\r",
+        "Kein Legendäres Pokémon, nichts\n",
+        "Außergewöhnliches zu sehen...\r",
+        "{STRVAR_1 3, 0}, wie war\n",
+        "der See der Kühnheit?\r",
+        "Gibt es irgendetwas zu berichten?\r",
+        "Was? Du bist gerade erst aufgebrochen?\n",
+        "Das muss doch schneller gehen!"
+      ]
+    },
+    {
+      "id": "msg_0270_00027",
+      "de_DE": [
+        "Eibe: {STRVAR_1 3, 0}, wie war\n",
+        "der See der Kühnheit?\r",
+        "Gibt es irgendetwas zu berichten?\r",
+        "Was? Du bist gerade erst aufgebrochen?\n",
+        "Das muss doch schneller gehen!"
+      ]
+    },
+    {
+      "id": "msg_0270_00028",
+      "de_DE": [
+        "Lucia: {STRVAR_1 3, 0}, wie war\n",
+        "es am See der Kühnheit?\r",
+        "Hier gibt’s nicht Besonderes. Der See\n",
+        "hat sich überhaupt nicht verändert.\r",
+        "Ein Legendäres Pokémon haben\n",
+        "wir ebenfalls nicht gefunden..."
+      ]
+    },
+    {
+      "id": "msg_0270_00029",
+      "de_DE": [
+        "Lucius: Hi, {STRVAR_1 3, 0}!\n",
+        "Wie war’s am See der Kühnheit?\r",
+        "Hier gibt’s nichts Besonderes. Der See\n",
+        "hat sich überhaupt nicht verändert.\r",
+        "Ein Legendäres Pokémon haben\n",
+        "wir ebenfalls nicht gefunden..."
+      ]
+    },
+    {
+      "id": "msg_0270_00030",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00031",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00032",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00033",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00034",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00035",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00036",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00037",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00038",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00039",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00040",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00041",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00042",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00043",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0270_00044",
+      "garbage": 0
+    }
+  ]
+}

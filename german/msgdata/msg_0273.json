@@ -1,0 +1,771 @@
+{
+  "key": 9043,
+  "messages": [
+    {
+      "id": "msg_0273_00000",
+      "de_DE": "Kanto"
+    },
+    {
+      "id": "msg_0273_00001",
+      "de_DE": "Johto"
+    },
+    {
+      "id": "msg_0273_00002",
+      "de_DE": "{STRVAR_1 4, 0, 0}"
+    },
+    {
+      "id": "msg_0273_00003",
+      "de_DE": "{STRVAR_1 28, 0, 0}"
+    },
+    {
+      "id": "msg_0273_00004",
+      "de_DE": "Wohin möchtest du gehen?"
+    },
+    {
+      "id": "msg_0273_00005",
+      "de_DE": "Nach {STRVAR_1 4, 0, 0} fliegen?"
+    },
+    {
+      "id": "msg_0273_00006",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0273_00007",
+      "de_DE": "Fliegen"
+    },
+    {
+      "id": "msg_0273_00008",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0273_00009",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0273_00010",
+      "de_DE": [
+        "Eine brandneue kleine Stadt.\n",
+        "Wie ein weißes Blatt Papier."
+      ]
+    },
+    {
+      "id": "msg_0273_00011",
+      "de_DE": [
+        "Eine schöne Stadt, umgeben von\n",
+        "dichtem Grün."
+      ]
+    },
+    {
+      "id": "msg_0273_00012",
+      "de_DE": [
+        "Eine friedliche Stadt im Schutze\n",
+        "hochaufragender Berge."
+      ]
+    },
+    {
+      "id": "msg_0273_00013",
+      "de_DE": [
+        "Eine schöne Stadt voll blühender\n",
+        "Blumen und rauschender Bäche."
+      ]
+    },
+    {
+      "id": "msg_0273_00014",
+      "de_DE": [
+        "Eine elegante kleine Stadt mit dem\n",
+        "gewissen Etwas."
+      ]
+    },
+    {
+      "id": "msg_0273_00015",
+      "de_DE": [
+        "Eine Hafenstadt, die vom Abendrot\n",
+        "in orangenes Licht getaucht wird."
+      ]
+    },
+    {
+      "id": "msg_0273_00016",
+      "de_DE": [
+        "Eine bunte Stadt, in der Menschen\n",
+        "und Pokémon zusammenleben."
+      ]
+    },
+    {
+      "id": "msg_0273_00017",
+      "de_DE": [
+        "Eine Stadt, in der Vertrautes und\n",
+        "Neues aufeinander treffen."
+      ]
+    },
+    {
+      "id": "msg_0273_00018",
+      "de_DE": [
+        "Eine uralte Stadt, die einst ein\n",
+        "Vulkanausbruch ausgelöscht hat."
+      ]
+    },
+    {
+      "id": "msg_0273_00019",
+      "de_DE": [
+        "Der Ort, an dem sich das Schicksal\n",
+        "der besten Trainer entscheidet."
+      ]
+    },
+    {
+      "id": "msg_0273_00020",
+      "de_DE": [
+        "Die gülden strahlende Metropole\n",
+        "von Kanto."
+      ]
+    },
+    {
+      "id": "msg_0273_00021",
+      "de_DE": [
+        "Ein Dorf, in dem ein\n",
+        "ahnungsvoller Wind weht."
+      ]
+    },
+    {
+      "id": "msg_0273_00022",
+      "de_DE": [
+        "Eine Stadt, die vom Duft der\n",
+        "Blumen und des Meeres erfüllt ist."
+      ]
+    },
+    {
+      "id": "msg_0273_00023",
+      "de_DE": [
+        "Eine Stadt, die den Charme der\n",
+        "alten Zeit eingefangen hat."
+      ]
+    },
+    {
+      "id": "msg_0273_00024",
+      "de_DE": [
+        "Eine Stadt, in der man\n",
+        "ein einfaches Leben führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00025",
+      "de_DE": [
+        "Eine Küstenstadt, die vom Meer\n",
+        "überreich beschenkt worden ist."
+      ]
+    },
+    {
+      "id": "msg_0273_00026",
+      "de_DE": [
+        "Eine moderne Stadt, in\n",
+        "der Mensch auf Pokémon trifft."
+      ]
+    },
+    {
+      "id": "msg_0273_00027",
+      "de_DE": [
+        "Eine Stadt, in der das Donnern\n",
+        "der Brandung allgegenwärtig ist."
+      ]
+    },
+    {
+      "id": "msg_0273_00028",
+      "de_DE": "Eine Stadt, die Geschichte atmet."
+    },
+    {
+      "id": "msg_0273_00029",
+      "de_DE": [
+        "Eine abgelegene Stadt, die in eine\n",
+        "mysteriöse Stimmung gehüllt ist."
+      ]
+    },
+    {
+      "id": "msg_0273_00030",
+      "de_DE": [
+        "Ein großer See, randvoll mit\n",
+        "klarem Wasser."
+      ]
+    },
+    {
+      "id": "msg_0273_00031",
+      "de_DE": [
+        "Ein mysteriöses Dorf, das sich\n",
+        "eng an den großen Berg schmiegt."
+      ]
+    },
+    {
+      "id": "msg_0273_00032",
+      "de_DE": [
+        "Ein steil ansteigender Berg, der mit\n",
+        "einem Geheimnis aufwartet."
+      ]
+    },
+    {
+      "id": "msg_0273_00033",
+      "de_DE": [
+        "Ein Tunnel von Orania City nach \n",
+        "Marmoria City, gegraben von DIGDA."
+      ]
+    },
+    {
+      "id": "msg_0273_00034",
+      "de_DE": [
+        "Ein Berg, auf den Sterne mit\n",
+        "mysteriöser Kraft hinabstürzen."
+      ]
+    },
+    {
+      "id": "msg_0273_00035",
+      "de_DE": [
+        "Eine Höhle, die nach ihrem Einsturz\n",
+        "gesichert und erneut eröffnet wurde."
+      ]
+    },
+    {
+      "id": "msg_0273_00036",
+      "de_DE": [
+        "Ein stockfinsterer Tunnel, der\n",
+        "Lavandia mit Azuria City verbindet."
+      ]
+    },
+    {
+      "id": "msg_0273_00037",
+      "de_DE": [
+        "Das ehemalige Gelände der Safari-Zone\n",
+        "nutzt nun der Park der Freunde."
+      ]
+    },
+    {
+      "id": "msg_0273_00038",
+      "de_DE": [
+        "Zwei kleine Eilande im Meer,\n",
+        "die sachte aus dem Wasser ragen."
+      ]
+    },
+    {
+      "id": "msg_0273_00039",
+      "de_DE": [
+        "Ein Turm, in dem man in Eintracht mit\n",
+        "den Pokémon trainiert."
+      ]
+    },
+    {
+      "id": "msg_0273_00040",
+      "de_DE": [
+        "Der Turm, auf den ein Legendäres\n",
+        "Pokémon hinabsteigen soll."
+      ]
+    },
+    {
+      "id": "msg_0273_00041",
+      "de_DE": [
+        "Ein Pfad, auf dem sich das ganze Jahr\n",
+        "rotbraunes Laub anhäuft."
+      ]
+    },
+    {
+      "id": "msg_0273_00042",
+      "de_DE": [
+        "Die Überreste eines Turms, der\n",
+        "durch ein Feuer niederbrannte."
+      ]
+    },
+    {
+      "id": "msg_0273_00043",
+      "de_DE": [
+        "Ein schöner, weitläufiger Park, der mit\n",
+        "den Pokéathlonhallen verbunden ist."
+      ]
+    },
+    {
+      "id": "msg_0273_00044",
+      "de_DE": [
+        "Ein altes Hochhaus, das in einen\n",
+        "Radioturm umfunktioniert wurde."
+      ]
+    },
+    {
+      "id": "msg_0273_00045",
+      "de_DE": [
+        "Ein Ort, der den Schlüssel zu einer\n",
+        "Geschichte aus alter Zeit birgt."
+      ]
+    },
+    {
+      "id": "msg_0273_00046",
+      "de_DE": [
+        "Ein Höhlensystem, das tief unter der\n",
+        "Erde eine Verbindung zum Meer hat."
+      ]
+    },
+    {
+      "id": "msg_0273_00047",
+      "de_DE": [
+        "Ein Brunnen, zu dem durstige FLEGMON\n",
+        "kommen, um Wasser zu trinken."
+      ]
+    },
+    {
+      "id": "msg_0273_00048",
+      "de_DE": [
+        "Ein Leuchtturm, der das Meer mittels\n",
+        "der Kraft eines AMPHAROS erleuchtet."
+      ]
+    },
+    {
+      "id": "msg_0273_00049",
+      "de_DE": [
+        "Eine Kampfarena, wo man nach 5 Sätzen\n",
+        "von Regeln wettstreiten kann."
+      ]
+    },
+    {
+      "id": "msg_0273_00050",
+      "de_DE": [
+        "Ein Ort, an dem sich die Elite der\n",
+        "Trainer aus dem ganzen Land einfindet."
+      ]
+    },
+    {
+      "id": "msg_0273_00051",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0273_00052",
+      "de_DE": [
+        "Ein Wald, dessen Bäume man in großer\n",
+        "Zahl fällt, um Holzkohle herzustellen."
+      ]
+    },
+    {
+      "id": "msg_0273_00053",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0273_00054",
+      "de_DE": [
+        "Eine natürliche Höhle von\n",
+        "unvorstellbarer Größe."
+      ]
+    },
+    {
+      "id": "msg_0273_00055",
+      "de_DE": [
+        "Eine vereiste Höhle, die von Route 44\n",
+        "nach Ebenholz City führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00056",
+      "de_DE": [
+        "Vier kleine Eilande, die man wegen des\n",
+        "Meeresstrudels nicht erreichen kann."
+      ]
+    },
+    {
+      "id": "msg_0273_00057",
+      "de_DE": [
+        "Ein ehrwürdiger Berg, der zwischen\n",
+        "Kanto und Johto in den Himmel ragt."
+      ]
+    },
+    {
+      "id": "msg_0273_00058",
+      "de_DE": [
+        "Ein Tunnel unterhalb von Johto, in dem\n",
+        "man die Hand vor Augen nicht sieht."
+      ]
+    },
+    {
+      "id": "msg_0273_00059",
+      "de_DE": [
+        "Der Weg der Prüfung für die Trainer,\n",
+        "die in die Pokémon Liga streben."
+      ]
+    },
+    {
+      "id": "msg_0273_00060",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0273_00061",
+      "de_DE": [
+        "Ein Wasserfall, der Kanto und Johto\n",
+        "verbindet."
+      ]
+    },
+    {
+      "id": "msg_0273_00062",
+      "de_DE": [
+        "Ein dichter Wald, in dem viele\n",
+        "Käfer-Pokémon leben."
+      ]
+    },
+    {
+      "id": "msg_0273_00063",
+      "de_DE": [
+        "Ein Ort, an dem sich die Pokémon in\n",
+        "allerlei Disziplinen messen können."
+      ]
+    },
+    {
+      "id": "msg_0273_00064",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0273_00065",
+      "de_DE": [
+        "Ein tiefverschneiter Ort, dessen\n",
+        "ewiges Eis alte Sagen birgt."
+      ]
+    },
+    {
+      "id": "msg_0273_00066",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0273_00067",
+      "de_DE": [
+        "Der Ort, der die Stromversorgung\n",
+        "von Kanto sicherstellt."
+      ]
+    },
+    {
+      "id": "msg_0273_00068",
+      "de_DE": [
+        "Hier kann man in aller Sicherheit den\n",
+        "Nervenkitzel der Wildnis erleben."
+      ]
+    },
+    {
+      "id": "msg_0273_00069",
+      "de_DE": [
+        "Ein Linienschiff, das sich auf dem Meer\n",
+        "mit Düsenkraft fortbewegt."
+      ]
+    },
+    {
+      "id": "msg_0273_00070",
+      "de_DE": "Ein holpriger Feldweg durchs Grüne."
+    },
+    {
+      "id": "msg_0273_00071",
+      "de_DE": [
+        "Ein kurvenreicher Weg, der direkt in\n",
+        "den Vertania-Wald führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00072",
+      "de_DE": [
+        "Ein Weg, den vom Himmel gefallene\n",
+        "Steine mit Kratern übersät haben."
+      ]
+    },
+    {
+      "id": "msg_0273_00073",
+      "de_DE": "Ein sanft abfallender Weg."
+    },
+    {
+      "id": "msg_0273_00074",
+      "de_DE": [
+        "Ein Weg nördlich von Saffronia City,\n",
+        "von dem man in den Tunnelpfad gelangt."
+      ]
+    },
+    {
+      "id": "msg_0273_00075",
+      "de_DE": [
+        "Ein Weg südlich von Saffronia City, von\n",
+        "wo aus man in den Tunnelpfad gelangt."
+      ]
+    },
+    {
+      "id": "msg_0273_00076",
+      "de_DE": [
+        "Ein kurzer Weg zu dem momentan\n",
+        "gesperrten Eingang zum Tunnelpfad."
+      ]
+    },
+    {
+      "id": "msg_0273_00077",
+      "de_DE": [
+        "Ein kurzer Weg zu dem momentan\n",
+        "gesperrten Eingang zum Tunnelpfad."
+      ]
+    },
+    {
+      "id": "msg_0273_00078",
+      "de_DE": [
+        "Ein holpriger Weg voller Kiesel, der\n",
+        "einem Labyrinth gleicht."
+      ]
+    },
+    {
+      "id": "msg_0273_00079",
+      "de_DE": [
+        "Ein den Kanal entlanglaufender Weg\n",
+        "zum Kraftwerk."
+      ]
+    },
+    {
+      "id": "msg_0273_00080",
+      "de_DE": [
+        "Ein Weg durch saftige Wiesen, auf dem\n",
+        "ein frischer Wind weht."
+      ]
+    },
+    {
+      "id": "msg_0273_00081",
+      "de_DE": [
+        "Dieser “Schweigebrücke” genannte\n",
+        "Kai ist ein berühmter Angelplatz."
+      ]
+    },
+    {
+      "id": "msg_0273_00082",
+      "de_DE": [
+        "Ein schmaler Weg, wo sich die Trainer\n",
+        "miteinander messen."
+      ]
+    },
+    {
+      "id": "msg_0273_00083",
+      "de_DE": [
+        "Ein angenehmer Küstenweg, wo frischer\n",
+        "Wind das Meer sanft kräuselt."
+      ]
+    },
+    {
+      "id": "msg_0273_00084",
+      "de_DE": [
+        "Ein baumbestandener Weg, der direkt\n",
+        "zum Meer führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00085",
+      "de_DE": [
+        "Der nördliche Ausgangspunkt\n",
+        "des Radweges."
+      ]
+    },
+    {
+      "id": "msg_0273_00086",
+      "de_DE": [
+        "Der Radweg verläuft sanft abfallend\n",
+        "über dem Meer."
+      ]
+    },
+    {
+      "id": "msg_0273_00087",
+      "de_DE": "Der südliche Endpunkt des Radweges."
+    },
+    {
+      "id": "msg_0273_00088",
+      "de_DE": [
+        "Das Meer verschlang diesen Weg nach\n",
+        "einer Eruption auf der Zinnoberinsel."
+      ]
+    },
+    {
+      "id": "msg_0273_00089",
+      "de_DE": [
+        "Der bei Schwimmern beliebte Küstenweg\n",
+        "führt auch zu den Seeschauminseln."
+      ]
+    },
+    {
+      "id": "msg_0273_00090",
+      "de_DE": [
+        "Eine Küstenstraße, die zu einem\n",
+        "Ehrfurcht gebietenden Vulkan führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00091",
+      "de_DE": [
+        "Ein recht abschüssiger Weg, der zur\n",
+        "Siegesstraße führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00092",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0273_00093",
+      "de_DE": [
+        "Eine Brücke mit wundervoller Aussicht,\n",
+        "die über den Fluss verläuft."
+      ]
+    },
+    {
+      "id": "msg_0273_00094",
+      "de_DE": [
+        "Ein Waldweg, der in einer Anhöhe\n",
+        "mit schönem Meeresblick mündet."
+      ]
+    },
+    {
+      "id": "msg_0273_00095",
+      "de_DE": [
+        "Ein holpriger Bergpfad, der an die\n",
+        "bevorstehenden Prüfungen erinnert."
+      ]
+    },
+    {
+      "id": "msg_0273_00096",
+      "de_DE": [
+        "Dieser Weg führt von Johto nach Kanto\n",
+        "zu neuen Abenteuern."
+      ]
+    },
+    {
+      "id": "msg_0273_00097",
+      "de_DE": [
+        "Ein abgelegener Bergpfad, der\n",
+        "zum ehrwürdigen Silberberg führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00098",
+      "de_DE": [
+        "Ein Duft frischen Grases umgibt diesen\n",
+        "Ausgangspunkt für neue Abenteuer."
+      ]
+    },
+    {
+      "id": "msg_0273_00099",
+      "de_DE": [
+        "Ein von frischem Gras bewachsener\n",
+        "Weg, wo sich junge Trainer messen."
+      ]
+    },
+    {
+      "id": "msg_0273_00100",
+      "de_DE": [
+        "Ein kurzer, aber holpriger Weg, der an\n",
+        "die Naturschönheit von einst erinnert."
+      ]
+    },
+    {
+      "id": "msg_0273_00101",
+      "de_DE": [
+        "Hier sind Natur und Kultur in Einklang,\n",
+        "hier kreuzen sich Magnetzug und Kai."
+      ]
+    },
+    {
+      "id": "msg_0273_00102",
+      "de_DE": [
+        "Auf diesem von der Höhle wegführenden\n",
+        "Weg ist Regen ein ständiger Begleiter."
+      ]
+    },
+    {
+      "id": "msg_0273_00103",
+      "de_DE": [
+        "Eine Straße, deren üppiges Grün\n",
+        "die Nähe zur Stadt vergessen lässt."
+      ]
+    },
+    {
+      "id": "msg_0273_00104",
+      "de_DE": [
+        "Eine Wohltat für die Augen ist das Blau\n",
+        "des Teichs an diesem behaglichen Weg."
+      ]
+    },
+    {
+      "id": "msg_0273_00105",
+      "de_DE": [
+        "Ein dreifach gegabelter Weg mit sehr\n",
+        "dichtem Bewuchs."
+      ]
+    },
+    {
+      "id": "msg_0273_00106",
+      "de_DE": [
+        "Dieser Weg, bekannt für dreierlei\n",
+        "Aprikokos, ist bei Trainern beliebt."
+      ]
+    },
+    {
+      "id": "msg_0273_00107",
+      "de_DE": [
+        "Ein Waldweg, der zu\n",
+        "einer Farm führt."
+      ]
+    },
+    {
+      "id": "msg_0273_00108",
+      "de_DE": [
+        "Ein sanft abfallender, von der Brise\n",
+        "umschmeichelter Weg."
+      ]
+    },
+    {
+      "id": "msg_0273_00109",
+      "de_DE": [
+        "Ein Weg, der westlich von Oliviana City\n",
+        "entlang des Meeres verläuft."
+      ]
+    },
+    {
+      "id": "msg_0273_00110",
+      "de_DE": [
+        "Ein gefährlicher Ort, wo sich vor einem\n",
+        "urplötzlich Strudel auftun."
+      ]
+    },
+    {
+      "id": "msg_0273_00111",
+      "de_DE": [
+        "Ein Weg am Fuße des hochaufragenden\n",
+        "Kesselbergs."
+      ]
+    },
+    {
+      "id": "msg_0273_00112",
+      "de_DE": [
+        "Ein Waldweg, der zu einem See führt.\n",
+        "Vorsicht vor dem hohen Wegegeld!"
+      ]
+    },
+    {
+      "id": "msg_0273_00113",
+      "de_DE": [
+        "Ein reichlich mit Wasser und Grün\n",
+        "bedachter Weg, der friedlich stimmt."
+      ]
+    },
+    {
+      "id": "msg_0273_00114",
+      "de_DE": [
+        "Die “Bergstraße” schlängelt sich\n",
+        "einen Fluss entlang."
+      ]
+    },
+    {
+      "id": "msg_0273_00115",
+      "de_DE": [
+        "Dieser Weg führt vom Fuß des Berges\n",
+        "über Felder zurück zur Zivilisation."
+      ]
+    },
+    {
+      "id": "msg_0273_00116",
+      "de_DE": [
+        "Die Abhänge an diesem Bergpfad\n",
+        "lassen den Wanderer erschaudern."
+      ]
+    },
+    {
+      "id": "msg_0273_00117",
+      "de_DE": [
+        "Ein Bergweg, der durch klare Luft zur\n",
+        "Safari-Zone führt."
+      ]
+    }
+  ]
+}

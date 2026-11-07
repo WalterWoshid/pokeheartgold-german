@@ -1,0 +1,88 @@
+{
+  "key": 4592,
+  "messages": [
+    {
+      "id": "msg_0660_00000",
+      "de_DE": "Großmutter"
+    },
+    {
+      "id": "msg_0660_00001",
+      "de_DE": [
+        "Hallo?\n",
+        "Ah, bist du es, {STRVAR_1 3, 0, 0}?\r",
+        "Was gibt es?\n",
+        "Aber möchtest du nicht lieber direkt\f",
+        "vorbeikommen?"
+      ]
+    },
+    {
+      "id": "msg_0660_00002",
+      "de_DE": [
+        "Hallo?\n",
+        "Ah, bist du es, {STRVAR_1 3, 0, 0}?\r",
+        "Was gibt es?\n",
+        "Aber möchtest du nicht lieber direkt\f",
+        "vorbeikommen?"
+      ]
+    },
+    {
+      "id": "msg_0660_00003",
+      "de_DE": [
+        "Hallo?\n",
+        "Ah, bist du es, {STRVAR_1 3, 0, 0}?\r"
+      ]
+    },
+    {
+      "id": "msg_0660_00004",
+      "de_DE": [
+        "Hallo?\n",
+        "Ah, bist du es, {STRVAR_1 3, 0, 0}?\r"
+      ]
+    },
+    {
+      "id": "msg_0660_00005",
+      "de_DE": [
+        "Ach, du bist es! Schön, dich zu hören.\n",
+        "Hier ist alles in Ordnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0660_00006",
+      "de_DE": [
+        "Dein {STRVAR_1 0, 10, 0} ist um {STRVAR_1 52, 11, 0} Level\n",
+        "gewachsen.\r"
+      ]
+    },
+    {
+      "id": "msg_0660_00007",
+      "de_DE": [
+        "Dein {STRVAR_1 0, 12, 0} ist um {STRVAR_1 52, 13, 0} Level\n",
+        "gewachsen.\r"
+      ]
+    },
+    {
+      "id": "msg_0660_00008",
+      "de_DE": [
+        "Wir können zwei deiner Pokémon\n",
+        "nehmen. Wenn du noch eines in Pflege\f",
+        "geben möchtest, dann komm einfach\f",
+        "wieder vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0660_00009",
+      "de_DE": [
+        "Komm einfach vorbei, wenn du Lust\n",
+        "auf einen Besuch bei uns hast.\f",
+        "Wir freuen uns auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0660_00010",
+      "de_DE": [
+        "Komm einfach vorbei, wenn du deine\n",
+        "Pokémon in Pflege geben möchtest."
+      ]
+    }
+  ]
+}

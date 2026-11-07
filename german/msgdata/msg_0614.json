@@ -1,0 +1,139 @@
+{
+  "key": 39396,
+  "messages": [
+    {
+      "id": "msg_0614_00000",
+      "de_DE": [
+        "Jens: Willkommen.\r",
+        "Hier in Teak City werden Pokémon schon\n",
+        "seit jeher als mythische Wesen verehrt.\r",
+        "Wir glauben an eine alte Sage, die\n",
+        "besagt, dass hier einmal einem sehr\f",
+        "talentierten Trainer ein Legendäres\f",
+        "Pokémon erscheinen soll...\r",
+        "Mein ganzes Leben lang habe ich fest\n",
+        "daran geglaubt, dass die Weissagungen\f",
+        "irgendwann eintreten werden, und zu\f",
+        "diesem Zweck im Geheimen trainiert.\f",
+        "Nun besitze ich die Gabe, Dinge zu\f",
+        "sehen, die anderen verborgen bleiben.\r",
+        "In diesen Visionen kann ich den Schatten\n",
+        "eines Menschen erkennen, der die\f",
+        "Fähigkeit besitzt, das Legendäre\f",
+        "Pokémon dieses Ortes herbeizurufen...\r",
+        "Und ich glaube, dass dieser Mensch\n",
+        "niemand anderes als ich selbst bin!\r",
+        "Komm und hilf mir bei meinem Training!\r"
+      ]
+    },
+    {
+      "id": "msg_0614_00001",
+      "de_DE": [
+        "Jens: Meine Fähigkeiten im Kampf sind an\n",
+        "sich nicht so viel schlechter als deine.\r",
+        "Aber du scheinst etwas anderes zu\n",
+        "besitzen, das ich niemals...\r",
+        "Aber gut. Hier, nimm diesen Orden.\r"
+      ]
+    },
+    {
+      "id": "msg_0614_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Phantomorden!"
+      ]
+    },
+    {
+      "id": "msg_0614_00003",
+      "de_DE": [
+        "Jens: Mit dem Phantomorden gehorchen\n",
+        "dir Pokémon bis zu einem Level von 50.\r",
+        "Aber das ist noch nicht alles!\r",
+        "Deine Pokémon können nun nämlich\n",
+        "auch die Attacke Surfer außerhalb\f",
+        "von Kämpfen einsetzen!\r",
+        "Und jetzt... nimm bitte noch das hier.\r"
+      ]
+    },
+    {
+      "id": "msg_0614_00004",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0614_00005",
+      "de_DE": [
+        "Jens: Darin befindet sich Spukball.\r",
+        "Diese Attacke verursacht nicht einfach\n",
+        "nur Schaden bei deinem Gegner, sondern\f",
+        "senkt auch seine Spezial-Verteidigung.\r",
+        "Wenn sie dir gefällt, kannst du sie\n",
+        "gerne nach Belieben einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0614_00006",
+      "de_DE": [
+        "Jens: Jetzt verstehe ich alles...\r",
+        "Du warst also derjenige, über den sich\n",
+        "die Kimono-Girls neulich unterhielten...\r",
+        "Oh, äh... das hast du gerade nicht\n",
+        "gehört, in Ordnung?\r",
+        "So stark wie du bist, sollte es dir\n",
+        "keine Probleme bereiten, das Meer\f",
+        "zu überqueren.\r",
+        "Wenn du von hier in Richtung Westen\n",
+        "und dann weiter nach Süden reist,\f",
+        "kommst du nach Oliviana City.\r",
+        "Schau dort mal als Nächstes vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0614_00007",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Die Trainer dieser Arena haben sich auf\n",
+        "Pokémon vom Typ Geist spezialisiert und\f",
+        "setzen sie hemmungslos gegen jeden\f",
+        "ein, der es wagt, sie herauszufordern.\r",
+        "Geist-Pokémon sind ein bisschen\n",
+        "wie Gespenster und Phantome...\r",
+        "Wenn du also versuchst, ihnen mit\n",
+        "roher Gewalt beizukommen, wirst du\f",
+        "damit nur wenig Erfolg haben!"
+      ]
+    },
+    {
+      "id": "msg_0614_00008",
+      "de_DE": [
+        "Wow, {STRVAR_1 3, 0, 0}!\n",
+        "Du warst großartig!\r",
+        "So großartig sogar, dass ich glatt ein\n",
+        "bisschen Angst gekriegt und mich in\f",
+        "eine Ecke verkrochen habe!"
+      ]
+    },
+    {
+      "id": "msg_0614_00009",
+      "de_DE": [
+        "Willst du zu Jens, dem Arenaleiter?\r",
+        "Tut mir leid, aber er treibt sich gerade\n",
+        "irgendwo in der Turmruine herum.\r",
+        "Ich muss dich leider wieder wegschicken.\n",
+        "Hehehehe!\r"
+      ]
+    },
+    {
+      "id": "msg_0614_00010",
+      "de_DE": "Pokémon-Arena von Teak City"
+    },
+    {
+      "id": "msg_0614_00011",
+      "de_DE": [
+        "Pokémon-Arena von Teak City\r",
+        "Leiter: Jens\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

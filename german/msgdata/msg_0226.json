@@ -1,0 +1,37 @@
+{
+  "key": 18866,
+  "messages": [
+    {
+      "id": "msg_0226_00000",
+      "de_DE": "{COLOR 2}♈{COLOR 0}ITEMS"
+    },
+    {
+      "id": "msg_0226_00001",
+      "de_DE": "{COLOR 2}♌{COLOR 0}MEDIZIN"
+    },
+    {
+      "id": "msg_0226_00002",
+      "de_DE": "{COLOR 2}♎{COLOR 0}POKéBÄLLE"
+    },
+    {
+      "id": "msg_0226_00003",
+      "de_DE": "{COLOR 2}♊{COLOR 0}TM & VM"
+    },
+    {
+      "id": "msg_0226_00004",
+      "de_DE": "{COLOR 2}♍{COLOR 0}BEEREN"
+    },
+    {
+      "id": "msg_0226_00005",
+      "de_DE": "{COLOR 2}♋{COLOR 0}BRIEFE"
+    },
+    {
+      "id": "msg_0226_00006",
+      "de_DE": "{COLOR 2}♏{COLOR 0}KAMPFITEMS"
+    },
+    {
+      "id": "msg_0226_00007",
+      "de_DE": "{COLOR 2}♉{COLOR 0}BASIS-ITEMS"
+    }
+  ]
+}

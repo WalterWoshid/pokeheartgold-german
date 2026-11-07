@@ -1,0 +1,113 @@
+{
+  "key": 22894,
+  "messages": [
+    {
+      "id": "msg_0136_00000",
+      "de_DE": [
+        "Hallo.\n",
+        "Schön, dich kennenzulernen.\r",
+        "Ich bin die Arenaleiterin Hilda.\r",
+        "Ich weiß nicht genau, wie es ist,\n",
+        "stark zu sein. Und Arenaleiterin bin\f",
+        "ich auch nur zufällig.\r",
+        "Aber ich werde in jedem Fall mein\n",
+        "Bestes geben.\r",
+        "Schließlich sind Kämpfe eine\n",
+        "ernste Sache. Also dann!\r"
+      ]
+    },
+    {
+      "id": "msg_0136_00001",
+      "de_DE": [
+        "...Okay.\n",
+        "Du hast gewonnen.\r",
+        "Das war eine schwere Niederlage für\n",
+        "mich. Ich habe viel daraus gelernt.\r",
+        "Hier ist dein Orden.\r"
+      ]
+    },
+    {
+      "id": "msg_0136_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhielt den Bergorden von\n",
+        "Hilda."
+      ]
+    },
+    {
+      "id": "msg_0136_00003",
+      "de_DE": [
+        "Ähm...\n",
+        "Ich sollte dir den Orden erklären.\r",
+        "Mit diesem offiziellen Bergorden kannst\n",
+        "du die VM Fliegen außerhalb von\f",
+        "Kämpfen verwenden.\r",
+        "Oh, und das hier ist auch für dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0136_00004",
+      "de_DE": [
+        "Diese {STRVAR_1 8, 0} beinhaltet die\n",
+        "Attacke {STRVAR_1 6, 1}.\r",
+        "Ähm... Sie fügt Schaden zu\n",
+        "und raubt dem Ziel KP."
+      ]
+    },
+    {
+      "id": "msg_0136_00005",
+      "de_DE": [
+        "Mann, bin ich hungrig...\n",
+        "Hm? Was? Nein, ich habe nichts gesagt.\r",
+        "{STRVAR_1 3, 0}, ich weiß nicht, wie es ist,\n",
+        "wenn man stark ist.\r",
+        "Ich weiß auch nicht, was man tun soll,\n",
+        "um stark zu werden...\r",
+        "Aber ich weiß, dass eine enge Bindung an\n",
+        "Pokémon der erste Schritt dazu ist."
+      ]
+    },
+    {
+      "id": "msg_0136_00006",
+      "de_DE": [
+        "Hey, hallo!\n",
+        "Wie sieht es aus auf dem Weg zum Champ?\r",
+        "Die Arenaleiterin verwendet Pokémon\n",
+        "vom Typ Kampf.\r",
+        "Damit erledigt sie jedes Pokémon vom Typ\n",
+        "Normal.\r",
+        "Aber! Und jetzt hör gut zu!\n",
+        "Mal unter uns gesagt...\r",
+        "Arenaleiterin Hilda sagte, dass Pokémon\n",
+        "vom Typ Flug und Psycho ihr richtig\f",
+        "gefährlich werden können!"
+      ]
+    },
+    {
+      "id": "msg_0136_00007",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0}!\n",
+        "Du hast die Arenaleiterin besiegt!\r",
+        "Natürlich habe ich das vorher gewusst."
+      ]
+    },
+    {
+      "id": "msg_0136_00008",
+      "de_DE": [
+        "Pokémon Arena Schleiede\n",
+        "Leiterin: Hilda\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 1}"
+      ]
+    },
+    {
+      "id": "msg_0136_00009",
+      "de_DE": [
+        "Pokémon Arena Schleiede\n",
+        "Leiterin: Hilda\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 0}\f",
+        "{STRVAR_1 3, 1}"
+      ]
+    }
+  ]
+}

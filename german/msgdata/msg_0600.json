@@ -1,0 +1,348 @@
+{
+  "key": 27742,
+  "messages": [
+    {
+      "id": "msg_0600_00000",
+      "de_DE": [
+        "Willkommen! Dies ist die Globale\n",
+        "Tauschstation - kurz gesagt: die GTS!\r",
+        "Wir ermöglichen den weltweiten Pokémon-\n",
+        "Tausch über die Nintendo WFC.\r",
+        "Möchtest du an einem globalen\n",
+        "Pokémon-Tausch teilnehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00001",
+      "de_DE": [
+        "Hallo!\n",
+        "Willkommen bei der GTS!\r",
+        "Möchtest du über die\n",
+        "Nintendo Wi-Fi Connection\f",
+        "global ein Pokémon tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00002",
+      "de_DE": [
+        "Es gibt zwei Arten, wie der Pokémon-\n",
+        "Tausch hier bei der GTS funktioniert.\r",
+        "Du kannst ein Pokémon zum Tausch\n",
+        "anbieten oder nach einem suchen.\r",
+        "Soll ich dir detailliertere\n",
+        "Informationen dazu geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00003",
+      "de_DE": [
+        "Du musst das Pokémon, das du\n",
+        "tauschen möchtest, auswählen.\r",
+        "Dann wirst du gefragt, welches Pokémon\n",
+        "du im Austausch dafür haben möchtest.\r",
+        "Findet sich ein anderer Spieler, der dir\n",
+        "dieses Pokémon im Tausch anbieten\f",
+        "kann, wird der Tausch durchgeführt.\r",
+        "Möchtest du noch etwas wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00004",
+      "de_DE": [
+        "Du kannst dir die Pokémon, die von\n",
+        "anderen Trainern angeboten werden,\f",
+        "ansehen.\r",
+        "Du siehst dabei auch, nach welchen\n",
+        "Pokémon diese Trainer suchen.\r",
+        "Wenn du ein Pokémon entdeckst, das\n",
+        "du haben möchtest, musst du im Tausch\f",
+        "dafür das Pokémon anbieten, das der\f",
+        "entsprechende Trainer sucht.\r",
+        "Möchtest du noch etwas wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00005",
+      "de_DE": [
+        "Möchtest du am weltweiten\n",
+        "Pokémon-Tausch teilnehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00006",
+      "de_DE": "Bitte, komm bald wieder."
+    },
+    {
+      "id": "msg_0600_00007",
+      "de_DE": [
+        "Ich hoffe, der Aufenthalt bei\n",
+        "der GTS gefällt dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0600_00008",
+      "de_DE": [
+        "Oje!\r",
+        "Es tut mir schrecklich leid, aber dein\n",
+        "Team ist vollzählig und deine Boxen\f",
+        "sind voll.\r",
+        "Wenn du bei der GTS tauschen möchtest,\n",
+        "musst du Platz in deinem Team oder aber\f",
+        "in einer deiner Boxen im PC haben."
+      ]
+    },
+    {
+      "id": "msg_0600_00009",
+      "de_DE": [
+        "...Oh-oh! Du hast ja nur ein einziges\n",
+        "Pokémon in deinem Team!\r",
+        "Um den Dienst der GTS nutzen zu können,\n",
+        "brauchst du mindestens zwei Pokémon.\r",
+        "Bitte komm wieder, wenn du mehr als ein\n",
+        "Pokémon in deinem Team hast."
+      ]
+    },
+    {
+      "id": "msg_0600_00010",
+      "de_DE": [
+        "Ach ja, die Welt ist klein!\r",
+        "Was? Das ist nur eine Miniatur?\n",
+        "Unser Planet ist in Wirklichkeit\f",
+        "um ein Vielfaches größer, sagst du?\r",
+        "Potz Blitz!"
+      ]
+    },
+    {
+      "id": "msg_0600_00011",
+      "de_DE": [
+        "Wenn man mit jemandem Kontakt\n",
+        "aufgenommen hat, wird seine Heimat-\f",
+        "region auf dem Globus eingezeichnet."
+      ]
+    },
+    {
+      "id": "msg_0600_00012",
+      "de_DE": [
+        "Alles, was ich tun muss, ist, ein Pokémon\n",
+        "hierzulassen, das ich tauschen möchte.\r",
+        "Wer weiß, vielleicht wird es ja schon\n",
+        "heute gegen ein anderes ausgetauscht,\f",
+        "während ich im Bett liege und träume."
+      ]
+    },
+    {
+      "id": "msg_0600_00013",
+      "de_DE": [
+        "Mit dieser Maschine ist es kinderleicht,\n",
+        "Pokémon mit anderen Fans zu tauschen.\f",
+        "Selbst, wenn sie auf der anderen Seite\f",
+        "der Welt wohnen!\r",
+        "Ist das nicht super?!?"
+      ]
+    },
+    {
+      "id": "msg_0600_00014",
+      "de_DE": [
+        "Auf dem großen Globus kannst\n",
+        "du eintragen, wo du lebst.\r",
+        "Danach wird der Ort jedem\n",
+        "angezeigt, der mit dir kommuniziert."
+      ]
+    },
+    {
+      "id": "msg_0600_00015",
+      "de_DE": [
+        "Dank der Nintendo Wi-Fi Connection\n",
+        "kann nun auch ich ganz leicht am\f",
+        "Pokémon-Tausch teilnehmen."
+      ]
+    },
+    {
+      "id": "msg_0600_00016",
+      "de_DE": [
+        "Diese Woche schaff ich’s!\r",
+        "Ich werde einer der ersten vier\n",
+        "in der Rangliste werden!"
+      ]
+    },
+    {
+      "id": "msg_0600_00017",
+      "de_DE": [
+        "Der Globale Terminal verfügt über\n",
+        "drei Stockwerke.\r",
+        "Teleporter transportieren dich in\n",
+        "den gewünschten Stock.\r",
+        "Ein blauer Teleporter bringt dich zur\n",
+        "GTS im Erdgeschoss.\r",
+        "Nimm den grünen Teleporter, um zu\n",
+        "den Stationen für Box-Daten und Model-\f",
+        "Daten im ersten Stock zu gelangen.\r",
+        "Der pinkfarbene Teleporter versetzt\n",
+        "dich in den zweiten Stock zur Station\f",
+        "der Kampfvideos."
+      ]
+    },
+    {
+      "id": "msg_0600_00018",
+      "de_DE": [
+        "Dein liebstes Pokémon ist\n",
+        "{STRVAR_1 0, 0, 0}, hab ich recht? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00019",
+      "de_DE": [
+        "Dieses Ei ist dein absoluter\n",
+        "Liebling, lieg ich da richtig?"
+      ]
+    },
+    {
+      "id": "msg_0600_00020",
+      "de_DE": [
+        "Ich hatte recht! Hatte ich’s\n",
+        "mir doch gedacht."
+      ]
+    },
+    {
+      "id": "msg_0600_00021",
+      "de_DE": [
+        "...Was? Du meinst, {STRVAR_1 0, 0, 0}\n",
+        "ist dein Lieblings-Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0600_00022",
+      "de_DE": [
+        "...Ach was, natürlich hast du das Ei\n",
+        "am liebsten!"
+      ]
+    },
+    {
+      "id": "msg_0600_00023",
+      "de_DE": [
+        "Ich möchte gern das Lieblings-\n",
+        "Pokémon eines jeden kennen!"
+      ]
+    },
+    {
+      "id": "msg_0600_00024",
+      "de_DE": [
+        "Hey, Tag auch!\r",
+        "Du willst, dass die Welt über dich im\f",
+        "Bilde ist? Dann sag’s einfach mir! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00025",
+      "de_DE": [
+        "Hey, hey, hey, ich weiß jetzt alles,\n",
+        "was man über dich wissen sollte.\r",
+        "Wenn du deinen Text ändern willst,\n",
+        "bin ich dein Mann! Klar?"
+      ]
+    },
+    {
+      "id": "msg_0600_00026",
+      "de_DE": [
+        "Hey, hey, hey, was soll das?\n",
+        "Du hast nichts zu sagen?\r",
+        "Also, wenn du mal was zu sagen hast,\n",
+        "bin ich dein Mann, verstanden? Klar?"
+      ]
+    },
+    {
+      "id": "msg_0600_00027",
+      "de_DE": [
+        "Hier im Globalen Terminal gibt\n",
+        "es mehrere Stationen.\r",
+        "Platziere deine Kampfkamera\n",
+        "einfach in einer der Maschinen.\r",
+        "Wieso probierst du sie nicht einfach\n",
+        "aus? Sie führt dich Schritt für\f",
+        "Schritt durch den Vorgang."
+      ]
+    },
+    {
+      "id": "msg_0600_00028",
+      "de_DE": [
+        "Willkommen im Globalen Terminal!\r",
+        "Hier kannst du dich der weltweiten\n",
+        "Gemeinschaft der Trainer anschließen.\r",
+        "Und ich sag dir eins, die ist riesengroß!\f",
+        "Sieh dir Rekorde von Trainern, wie auch\n",
+        "du einer bist, aus der ganzen Welt an.\r",
+        "Du kannst mit Trainern von überall her\n",
+        "auch Pokémon tauschen."
+      ]
+    },
+    {
+      "id": "msg_0600_00029",
+      "de_DE": [
+        "Mit Nintendo Wi-Fi Connection\n",
+        "verbinden und Trainer-Ranglisten\f",
+        "ansehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00030",
+      "de_DE": [
+        "Für Trainer aus aller Welt gibt\n",
+        "es das teambasierte System der\f",
+        "Trainer-Ranglisten.\r",
+        "Dort werden die Trainer in Gruppen\n",
+        "aufgeteilt und in vielen Kategorien\f",
+        "klassifiziert.\r",
+        "Wenn du mitmachst, werden sämtliche\n",
+        "deiner Errungenschaften automatisch\f",
+        "ans ganze Team gesendet.\r",
+        "Man könnte sagen, dass das, was du als\n",
+        "Trainer tust, deinem Team helfen kann.\r",
+        "Pass aber auf!\r",
+        "Wenn du dich mehr als einmal\n",
+        "an einer Kategorie beteiligst,\r",
+        "werden nur die Punkte der\n",
+        "vorherigen Teilnahme gezählt!\r"
+      ]
+    },
+    {
+      "id": "msg_0600_00031",
+      "de_DE": [
+        "Mit Nintendo Wi-Fi Connection\n",
+        "verbinden und Kampfvideo-\f",
+        "Ranglisten ansehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0600_00032",
+      "de_DE": [
+        "Kampfvideo-Ranglisten dienen als\n",
+        "Galerie der beliebtesten Kampfvideos.\r",
+        "Wenn du die klassischen Kämpfe genau\n",
+        "studierst, kannst du deine Fähigkeiten\f",
+        "als Trainer noch verfeinern!\r"
+      ]
+    },
+    {
+      "id": "msg_0600_00033",
+      "de_DE": "VERWENDEN"
+    },
+    {
+      "id": "msg_0600_00034",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0600_00035",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0600_00036",
+      "de_DE": [
+        "Über den grünen Teleporter erreichst\n",
+        "du die Stationen für Box-Daten und\f",
+        "Model-Daten im ersten Stock.\r",
+        "Möchtest du zur Kampfvideo-Station,\n",
+        "verwende den pinkfarbenen Teleporter."
+      ]
+    }
+  ]
+}

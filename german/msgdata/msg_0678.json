@@ -1,0 +1,149 @@
+{
+  "key": 38971,
+  "messages": [
+    {
+      "id": "msg_0678_00000",
+      "de_DE": "Lenny"
+    },
+    {
+      "id": "msg_0678_00001",
+      "de_DE": [
+        "Du hast ganz schön Mumm!\n",
+        "Das gefällt mir!\f",
+        "Willst du mein Kumpel sein?\r",
+        "Ich gebe dir meine Nummer.\n",
+        "Dann hauen wir so richtig rein! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0678_00002",
+      "de_DE": [
+        "Stark!\n",
+        "Du kannst mich alles fragen!\r",
+        "Es sei denn, es geht um Schule.\n",
+        "Oder Pokémon.\f",
+        "Oder Rätsel.\f",
+        "Oder Arena-Tipps.\f",
+        "Ich bin kein Mann der komplizierten\f",
+        "Themen. Ich habe keine Antworten,\f",
+        "aber immer ein offenes Ohr für dich!\r",
+        "Zuhören kann ich gut!\r",
+        "Dafür sind Kumpel ja da, oder?"
+      ]
+    },
+    {
+      "id": "msg_0678_00003",
+      "de_DE": "He! Hast du etwa Fracksausen?"
+    },
+    {
+      "id": "msg_0678_00004",
+      "de_DE": [
+        "Aaah! Hat mein Rocker-Charme seine\n",
+        "Wirkung also doch nicht verfehlt!\r",
+        "Ja, ich bin eben unvergleichlich.\n",
+        "Dann mal her mit der Nummer! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0678_00005",
+      "de_DE": [
+        "He! Auf den ersten Blick mag ich ja\n",
+        "wild aussehen, aber eigentlich\f",
+        "bin ich ein lieber Kerl.\r",
+        "Ich beiße bestimmt nicht!\n",
+        "Also, komm rüber zu mir."
+      ]
+    },
+    {
+      "id": "msg_0678_00006",
+      "de_DE": [
+        "Ey, Teddy!\n",
+        "Deine Bike-Soundeffekte\f",
+        "sind ziemlich gut geworden!\r",
+        "Was hältst du davon, wenn wir mal\n",
+        "gemeinsam auf Spritztour gehen\f",
+        "und mal so richtig Krawall machen?\r",
+        "...Moment, wer spricht da?\r",
+        "ARGH! Verwählt!\n",
+        "T-tut mir leid!"
+      ]
+    },
+    {
+      "id": "msg_0678_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist ein richtiges\n",
+        "Arbeitstier!\f",
+        "Es macht so richtig Dampf!\r",
+        "Das Pokémon, gegen das meins verliert,\n",
+        "muss schon mächtig stark sein!\r",
+        "Wie sind deine Pokémon so drauf?\n",
+        "Haben sie Dampf?\r",
+        "...Schon in Ordnung, du musst das nicht\n",
+        "beantworten.\r",
+        "Ich weiß ja selbst, wie stark du bist."
+      ]
+    },
+    {
+      "id": "msg_0678_00008",
+      "de_DE": [
+        "Echte Rowdys wie wir stehen auf\n",
+        "effekthascherische Pokémon.\r",
+        "So richtig giftige Jungs!\n",
+        "Mit Stacheln am Körper!\f",
+        "Reißzähnen!\f",
+        "Vor allem Geister!\f",
+        "Hauptsache, sie sehen gefährlich aus\f",
+        "und geben ordentlich was her!\r",
+        "Aber ich...\r",
+        "Also, wenn ich ehrlich sein darf...\r",
+        "Ich stehe auf süße Pokémon wie MARILL!\n",
+        "Es ist einfach so niiiiedlich!"
+      ]
+    },
+    {
+      "id": "msg_0678_00009",
+      "de_DE": [
+        "Gestern wollte ich mir ein {STRVAR_1 0, 11, 0}\n",
+        "schnappen, aber dieses {STRVAR_1 0, 11, 0}\f",
+        "hat schon die Kurve gekratzt,\f",
+        "sobald es mein Gesicht gesehen hat!\r",
+        "Hat das keine Manieren?!\r",
+        "Du würdest doch auch nicht beim ersten\n",
+        "Anblick vor mir weglaufen, oder?"
+      ]
+    },
+    {
+      "id": "msg_0678_00010",
+      "de_DE": [
+        "He! So langsam habe ich wieder Lust\n",
+        "auf einen Kampf mit dir.\f",
+        "Ich bin schon ganz hibbelig!\r",
+        "Ich kreuze immer hier durch die\n",
+        "Gegend: {STRVAR_1 4, 3, 0}!\f",
+        "Und wehe, du kneifst und rennst weg!"
+      ]
+    },
+    {
+      "id": "msg_0678_00011",
+      "de_DE": [
+        "Was hast du denn? Ich warte\n",
+        "hier auf dich: {STRVAR_1 4, 3, 0}.\r",
+        "Du würdest doch nicht eine Abmachung\n",
+        "mit einem guten Freund vergessen?"
+      ]
+    },
+    {
+      "id": "msg_0678_00012",
+      "de_DE": [
+        "Willst du nicht langsam mal in unsere\n",
+        "Gang kommen? Ich weiß, Meckie hat\f",
+        "dich schon mal gefragt.\r",
+        "Stell dir mal vor! Wir könnten gemeinsam\n",
+        "den Radweg unsicher machen,\f",
+        "Müll verstreuen und dann...\f",
+        "den Müll mitnehmen, wenn wir fertig sind!\f",
+        "Das macht tierisch Laune!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "key": 58511,
+  "messages": [
+    {
+      "id": "msg_0131_00000",
+      "de_DE": [
+        "... ... ...\r",
+        "Ich weiß zwar nicht, was genau\n",
+        "dich hierherführt, aber\f",
+        "ein Kind wie du hat hier\f",
+        "nichts verloren!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00001",
+      "de_DE": [
+        "Dieser Blick...\r",
+        "Vor drei Jahren...\r",
+        "ist mir schon einmal ein Kind\n",
+        "in die Quere gekommen, das mich mit...\f",
+        "denselben Augen angesehen hat wie du...\r",
+        "... ... ...\r",
+        "Ich bin auf dem Weg nach Dukatia City,\n",
+        "um dem Ruf meiner Kameraden zu folgen.\f",
+        "Willst du mir etwa dazwischenfunken?\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00002",
+      "de_DE": [
+        "... ... ...\n",
+        "Eine Durchsage von Radio Dukatia!\f",
+        "Eine Durchsage von Radio Dukatia!\f",
+        "Mit Freude verkünden wir heute das\f",
+        "Ergebnis von drei Jahren harter Arbeit.\f",
+        "Team Rocket ist zurückgekehrt!\f",
+        "...Giovanni!\f",
+        "...Kannst du uns hören?\f",
+        "Wir haben es endlich geschafft!\f",
+        "... ... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00003",
+      "de_DE": [
+        "Meine alten Kameraden\n",
+        "brauchen mich!\r",
+        "Ich lasse es nicht noch mal zu so einer\n",
+        "Blamage wie vor drei Jahren kommen!\r",
+        "{COLOR 1}Team Rocket{COLOR 0} wird wiederauferstehen\n",
+        "und sich die Welt untertan machen!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00004",
+      "de_DE": [
+        "Giovanni: W-wie kann das sein?!?\r",
+        "Sollen die letzten drei Jahre etwa\n",
+        "umsonst gewesen sein?\r",
+        "Schon wieder macht mir so ein Naseweis\n",
+        "einen Strich durch die Rechnung!\r",
+        "Team Rocket... mein großer Traum\n",
+        "ist geplatzt. Es ist alles vorbei...\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00005",
+      "de_DE": [
+        "... ... ...\n",
+        "...Hallooo?\f",
+        "Wo um alles in der Welt ist\f",
+        "Giovanni bloß abgeblieben?\f",
+        "Ob diese Durchsage wohl bis\f",
+        "zu ihm durchgedrungen ist?\f",
+        "... ... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00006",
+      "de_DE": [
+        "Giovanni: Solange du deine Macht\n",
+        "nicht vollkommen im Griff hast,\f",
+        "bist du immer noch ein Kind...\r",
+        "Merke dir das!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00007",
+      "de_DE": [
+        "Klarin: Huch! Das ist der alte Knacker,\n",
+        "der sich eben mit dem Kerl mit dem\f",
+        "finsteren Blick gezofft hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00008",
+      "de_DE": [
+        "Lyra: Huch! Das ist der alte Knacker,\n",
+        "der sich eben mit dem Jungen mit dem\f",
+        "finsteren Blick gezofft hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00009",
+      "de_DE": [
+        "Klarin: Vor drei Jahren?\n",
+        "Nach Dukatia City?\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00010",
+      "de_DE": [
+        "Lyra: Vor drei Jahren?\n",
+        "Nach Dukatia City?\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00011",
+      "de_DE": [
+        "Das ist doch nicht etwa Giovanni,\n",
+        "der Boss von Team Rocket, den\f",
+        "sie im Radio ausgerufen haben?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00012",
+      "de_DE": [
+        "Das wird doch nicht etwa Giovanni\n",
+        "sein, ihr Boss, den sie da\f",
+        "im Radio ausgerufen haben?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00013",
+      "de_DE": [
+        "Da hast du’s, {STRVAR_1 3, 0, 0}!\n",
+        "Irgendwas ist an dieser Durchsage faul!\r",
+        "Anscheinend hat Team Rocket den\n",
+        "Radiosender von Dukatia City besetzt!\r",
+        "Aber um diese Sache hattest du dich\n",
+        "doch schon gekümmert, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00014",
+      "de_DE": [
+        "Da hast du’s, {STRVAR_1 3, 0, 0}!\n",
+        "Irgendwas ist an dieser Durchsage faul!\r",
+        "Anscheinend hat Team Rocket den\n",
+        "Radiosender von Dukatia City besetzt!\r",
+        "Aber um diese Sache hattest du dich\n",
+        "doch schon gekümmert, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00015",
+      "de_DE": [
+        "Klarin: Egal, wie oft sie auch nach ihm\n",
+        "rufen, ihr Boss wird nicht mehr kommen.\f",
+        "Diese Leute können einem fast leidtun.\r",
+        "Immerhin bekommen sie später auch noch\n",
+        "von {STRVAR_1 3, 0, 0} eins auf die Mütze!\r",
+        "Aber... Moment mal...\n",
+        "Wir sind doch hier?!?\r",
+        "Wer soll denn dann den\n",
+        "Leuten von Team Rocket im Radioturm\f",
+        "den Garaus machen?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00016",
+      "de_DE": [
+        "Lyra: Egal, wie oft sie auch nach ihm\n",
+        "rufen, ihr Boss wird nicht mehr kommen.\f",
+        "Diese Leute können einem fast leidtun.\r",
+        "Außerdem bekommen sie später ja noch\n",
+        "von {STRVAR_1 3, 0, 0} eins auf die Mütze!\r",
+        "...Huch?\n",
+        "{STRVAR_1 3, 0, 0} ist ja hier?\r",
+        "Aber wer gibt denn dann den Leuten\n",
+        "von Team Rocket im Radioturm\f",
+        "eins auf die Mütze?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00017",
+      "de_DE": [
+        "Schon wieder!\n",
+        "Mir reicht das hier langsam!\f",
+        "Lasst mich wieder zurück in unsere Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00018",
+      "de_DE": [
+        "Schon wieder!\n",
+        "Oh nein, ich mag nicht mehr!\f",
+        "Lasst mich wieder zurück in unsere Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00019",
+      "de_DE": [
+        "CELEBI wurde verletzt und ist\n",
+        "in der Zeit zurückgereist!\r",
+        "Du wurdest in eine Zeit versetzt,\n",
+        "als du noch nicht zu diesem wundersamen\f",
+        "Abenteuer aufgebrochen warst...\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00020",
+      "de_DE": "Das Radio gibt keinen Ton von sich..."
+    },
+    {
+      "id": "msg_0131_00021",
+      "de_DE": [
+        "Das Radio lässt sich nicht anschalten.\n",
+        "Es muss noch von Giovanni stammen..."
+      ]
+    },
+    {
+      "id": "msg_0131_00022",
+      "de_DE": [
+        "Das CELEBI...\r",
+        "Wenn es nicht wieder auf die\n",
+        "Beine kommt, kommen wir nie\f",
+        "wieder zurück in unsere Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00023",
+      "de_DE": [
+        "Das CELEBI...\r",
+        "Wenn es nicht wieder auf die\n",
+        "Beine kommt, kommen wir nie wieder\f",
+        "zurück in unsere Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00024",
+      "de_DE": [
+        "Klarin verwendet Top-Beleber\n",
+        "mit CELEBI!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00025",
+      "de_DE": [
+        "Lyra verwendet Top-Beleber\n",
+        "mit CELEBI!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00026",
+      "de_DE": [
+        "{COLOR 1}Zeitreise!{COLOR 0}\r",
+        "Jetzt kommen wir bestimmt wieder zurück\n",
+        "in unsere eigene Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0131_00027",
+      "de_DE": [
+        "{COLOR 1}Zeitreise!{COLOR 0}\r",
+        "Jetzt kommen wir bestimmt wieder zurück\n",
+        "in unsere eigene Zeit!\r"
+      ]
+    }
+  ]
+}

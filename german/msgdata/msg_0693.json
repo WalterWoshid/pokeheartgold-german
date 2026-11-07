@@ -1,0 +1,150 @@
+{
+  "key": 63284,
+  "messages": [
+    {
+      "id": "msg_0693_00000",
+      "de_DE": "Söncke"
+    },
+    {
+      "id": "msg_0693_00001",
+      "de_DE": [
+        "Komm schon! Lass uns Freunde sein!\n",
+        "Wer Pokémon so liebt wie du,\f",
+        "kann gar kein schlechter Mensch sein!\r",
+        "Wir könnten gemeinsam über PIKACHU,\n",
+        "über FLEGMON, über TENTOXA...\f",
+        "Ach, wir könnten über alle möglichen\f",
+        "Pokémon plaudern! Du und ich werden\f",
+        "viel Spaß miteinander haben!\r",
+        "Was ist? Gibst du mir deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0693_00002",
+      "de_DE": [
+        "Prima! Wenn ich was Neues über\n",
+        "Pokémon erfahre, rufe ich dich an!"
+      ]
+    },
+    {
+      "id": "msg_0693_00003",
+      "de_DE": [
+        "Pffft...\n",
+        "Ich wette, du magst gar keine Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0693_00004",
+      "de_DE": [
+        "Lass uns über unsere Pokémon\n",
+        "plaudern!\r",
+        "Was sagst du? Gibst du mir\n",
+        "deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0693_00005",
+      "de_DE": [
+        "Ich habe dich gesucht!\n",
+        "Hier, das ist für dich!\r",
+        "Dein Pokémon-Team freut sich\n",
+        "sicher auch über das Geschenk!\r"
+      ]
+    },
+    {
+      "id": "msg_0693_00006",
+      "de_DE": [
+        "Hm?\n",
+        "Du bist doch ganz in meiner Nähe!\r",
+        "Na, logisch weiß ich das!\r",
+        "Jemanden, der seine Pokémon so sehr\n",
+        "liebt wie du, kann ich alleine an seiner\f",
+        "Aura erspüren!\r",
+        "Komm doch rüber, wenn du schon hier\n",
+        "bist, dann setzen wir unsere Pokémon-\f",
+        "Schwärmerei live und in Farbe fort!"
+      ]
+    },
+    {
+      "id": "msg_0693_00007",
+      "de_DE": [
+        "Hör dir das an!\n",
+        "Mein {STRVAR_1 0, 10, 0} lächelt fröhlich,\f",
+        "wenn ich es in die Wangen zwicke.\r",
+        "Aber es lacht nur bei mir, bei niemandem\n",
+        "sonst. Ich bin etwas Besonderes.\r",
+        "Oh, und neulich hat mein PIKACHU\n",
+        "ein wildes {STRVAR_1 0, 11, 0} besiegt.\r",
+        "Ein wildes {STRVAR_1 0, 11, 0}, wenn ich\n",
+        "es dir sage!\r",
+        "Denkst du nicht auch, dass das\n",
+        "erstaunlich ist?\r",
+        "Mein PIKACHU ist bezaubernd!\r",
+        "Mein PIKACHU ist das Größte!\n",
+        "Also dann, man sieht sich!"
+      ]
+    },
+    {
+      "id": "msg_0693_00008",
+      "de_DE": [
+        "Hör dir das an!\n",
+        "Mein {STRVAR_1 0, 10, 0} lächelt fröhlich,\f",
+        "wenn ich es in die Wangen zwicke.\r",
+        "Aber es lacht nur bei mir, bei niemandem\n",
+        "sonst. Ich bin etwas Besonderes.\r",
+        "Oh, und ich sah vor Kurzem ein wildes\n",
+        "{STRVAR_1 0, 11, 0}. Allerdings war es nicht\f",
+        "süß, also ließ ich es in Frieden...\r",
+        "Pokémon müssen süß sein, sonst\n",
+        "taugen sie nichts.\r",
+        "Also dann, man sieht sich!"
+      ]
+    },
+    {
+      "id": "msg_0693_00009",
+      "de_DE": [
+        "Wie geht es deinem Pokémon-Team?\r",
+        "Treffen wir uns mal wieder, damit ich vor\n",
+        "dir mit meinen Pokémon angeben kann!"
+      ]
+    },
+    {
+      "id": "msg_0693_00010",
+      "de_DE": [
+        "Dieses Nugget schenke ich dir.\r",
+        "Mein PIKACHU ist ganz\n",
+        "verrückt danach.\r",
+        "Ich bin sicher, deine Pokémon werden\n",
+        "es auch lieben!"
+      ]
+    },
+    {
+      "id": "msg_0693_00011",
+      "de_DE": [
+        "Was ist denn los?\n",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\f",
+        "Hol dir dein Geschenk jederzeit ab."
+      ]
+    },
+    {
+      "id": "msg_0693_00012",
+      "de_DE": [
+        "Erinnerst du dich?\n",
+        "Das Käferturnier ist heute.\r",
+        "Du kommst doch, oder?\r",
+        "Ich denke, ich nehme mit PIKACHU\n",
+        "teil, um mit seiner Niedlichkeit\f",
+        "anzugeben."
+      ]
+    },
+    {
+      "id": "msg_0693_00013",
+      "de_DE": [
+        "Heute findet das Käferturnier\n",
+        "im Nationalpark statt.\f",
+        "Gehst du auch hin, {STRVAR_1 3, 0, 0}?\r",
+        "Ich... bin immer noch so unschlüssig!"
+      ]
+    }
+  ]
+}

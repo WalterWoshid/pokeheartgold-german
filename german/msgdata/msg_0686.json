@@ -1,0 +1,148 @@
+{
+  "key": 2795,
+  "messages": [
+    {
+      "id": "msg_0686_00000",
+      "de_DE": "Sylvia"
+    },
+    {
+      "id": "msg_0686_00001",
+      "de_DE": [
+        "Du könntest noch ein paar Nachhilfe-\n",
+        "stunden in Sachen Pokémon gebrauchen.\r",
+        "Oh, ich weiß!\n",
+        "Würdest du mir deine Telefonnummer\f",
+        "geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0686_00002",
+      "de_DE": [
+        "Das freut mich.\n",
+        "Ich kontaktiere dich,\f",
+        "sobald ich ein Anliegen habe."
+      ]
+    },
+    {
+      "id": "msg_0686_00003",
+      "de_DE": [
+        "Na! Du wirst doch deiner Lehrerin\n",
+        "keine Widerworte geben wollen?"
+      ]
+    },
+    {
+      "id": "msg_0686_00004",
+      "de_DE": [
+        "Möchtest du mir nun deine\n",
+        "Telefonnummer geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0686_00005",
+      "de_DE": [
+        "Vor ein paar Minuten habe ich doch\n",
+        "dein Gesicht vorbeihuschen sehen.\r",
+        "Wie wär’s, wenn du die Leute nicht\n",
+        "anrufst, sondern selbst vorbeischaust,\f",
+        "wenn du doch sowieso hier bist."
+      ]
+    },
+    {
+      "id": "msg_0686_00006",
+      "de_DE": [
+        "Was sehe ich da?\r",
+        "Schon wieder eine Sechs im Test?\r",
+        "Das kommt davon, wenn man\n",
+        "im Unterricht nicht aufpasst!\r",
+        "Du glaubst doch nicht, dass du mit\n",
+        "der Einstellung jemals einen Arenalei...\r",
+        "Hoppla!\r",
+        "Du... bist gar nicht Jannick, oder?\r",
+        "Bitte entschuldige.\n",
+        "Ich habe mich verwählt!"
+      ]
+    },
+    {
+      "id": "msg_0686_00007",
+      "de_DE": [
+        "Ich kämpfe die meiste Zeit\n",
+        "mit meinem {STRVAR_1 0, 10, 0}.\r",
+        "Schließlich macht es viel mehr Spaß, mit\n",
+        "einem Pokémon zu kämpfen, mit dem man\f",
+        "gut Freund ist, meinst du nicht auch?\r",
+        "Aber ständig nur mit demselben Pokémon\n",
+        "zu kämpfen ist auch fade.\r",
+        "Darum führe ich ab und zu einmal ein\n",
+        "junges Pokémon spazieren,\f",
+        "das ich gerade erst gefangen habe.\r",
+        "Das kann auch sehr lustig sein und\n",
+        "gibt frischen Wind im Alltag."
+      ]
+    },
+    {
+      "id": "msg_0686_00008",
+      "de_DE": [
+        "Jüngst habe ich auf Route 15 gegen\n",
+        "ein {STRVAR_1 0, 11, 0} gekämpft.\f",
+        "Da versammelte sich plötzlich aus allen\f",
+        "Richtungen ein ganzer Pulk Zuschauer!\f",
+        "Meine Güte, war mir das peinlich!\r",
+        "Vor einem Haufen Schüler zu stehen und\n",
+        "zu reden bin ich ja gewohnt.\r",
+        "Aber einen Kampf vor einer Bande\n",
+        "Schaulustiger zu führen? Keine Chance!\f",
+        "Ich bin vor Scham im Boden versunken!"
+      ]
+    },
+    {
+      "id": "msg_0686_00009",
+      "de_DE": [
+        "...Hör mal.\n",
+        "Das bleibt unter uns, ja?\r",
+        "Neulich habe ich versucht,\n",
+        "ein {STRVAR_1 0, 11, 0} zu fangen.\r",
+        "Aber ich habe es vermasselt! Ich habe\n",
+        "aus Versehen den falschen Ball geworfen\f",
+        "und es ist entkommen.\r",
+        "Hätten das mal bloß nicht\n",
+        "meine Schüler gesehen!\f",
+        "Nein, was war mir das peinlich!"
+      ]
+    },
+    {
+      "id": "msg_0686_00010",
+      "de_DE": [
+        "Und, wie sieht es aus?\n",
+        "Hast du dir deine Pokémon-Nachhilfe\f",
+        "zu Herzen genommen?\r",
+        "Sehr gut! Was hältst du von einem\n",
+        "Übungskampf gegen mich?\r",
+        "{STRVAR_1 4, 3, 0}! Ich rühre mich\n",
+        "nicht vom Fleck!"
+      ]
+    },
+    {
+      "id": "msg_0686_00011",
+      "de_DE": [
+        "Hallo-ho? Hast du deinen Termin\n",
+        "mit mir vergessen?\r",
+        "Wir wollten doch kämpfen?\n",
+        "{STRVAR_1 4, 3, 0}, erinnerst du dich?\f",
+        "Diesmal vergisst du es aber nicht!"
+      ]
+    },
+    {
+      "id": "msg_0686_00012",
+      "de_DE": [
+        "Wen ich lieber habe? Meine Schüler\n",
+        "oder mein Pokémon-Team?\f",
+        "Puuuh... das ist eine schwere Frage.\r",
+        "Nun, wenn du mich so fragst...\n",
+        "Das Leuchten in den Augen eines Kindes,\f",
+        "wenn es sein erstes Pokémon erhält...\f",
+        "Hand aufs Herz, das ist der süßeste\f",
+        "Anblick, den die Welt zu bieten hat!"
+      ]
+    }
+  ]
+}

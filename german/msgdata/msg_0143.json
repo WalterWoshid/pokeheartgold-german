@@ -1,0 +1,143 @@
+{
+  "key": 9371,
+  "messages": [
+    {
+      "id": "msg_0143_00000",
+      "de_DE": "Faustus: Kann das denn sein?\r"
+    },
+    {
+      "id": "msg_0143_00001",
+      "de_DE": [
+        "...Aber ja, du bist es wirklich!\n",
+        "Du bist wirklich {STRVAR_1 3, 0, 0}!\r",
+        "Mann, ich bin echt beeindruckt!\n",
+        "Du hast dich wacker geschlagen!\r"
+      ]
+    },
+    {
+      "id": "msg_0143_00002",
+      "de_DE": [
+        "Dies ist das Zimmer der “Freundschaft”.\r",
+        "Du hast mit den Pokémon in\n",
+        "einem Team zusammengearbeitet,\f",
+        "hast ihnen vertraut und\f",
+        "immer an ihr Talent geglaubt.\r",
+        "Dieser Raum steht für unsere\n",
+        "Hoffnung, dass es auch in Zukunft\f",
+        "immer Leute wie dich geben wird.\r"
+      ]
+    },
+    {
+      "id": "msg_0143_00003",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\r",
+        "Diesen Raum dürfen nur wahre\n",
+        "Poké-Athleten betreten, die eine\f",
+        "echte Freundschaft mit ihren\f",
+        "Pokémon verbindet!\r",
+        "{STRVAR_1 3, 0, 0}!\r",
+        "Damit bist du gemeint! Du bist\n",
+        "so ein wahrer Poké-Athlet!\r"
+      ]
+    },
+    {
+      "id": "msg_0143_00004",
+      "de_DE": "...Aber das ist nur der Anfang für dich!\r"
+    },
+    {
+      "id": "msg_0143_00005",
+      "de_DE": [
+        "Ganz recht! Du hast die Weichen\n",
+        "für einen neuen Anfang gestellt!\r",
+        "Dies ist die Grundlage, die du benötigst,\n",
+        "um dich zu neuen Höhen aufzuschwingen\f",
+        "und einen legendären Poké-Athleten\f",
+        "aus dir zu machen!\r",
+        "Wirf einen Blick auf diese Statue!\n",
+        "Bei ihrem Anblick sollte dir klar werden,\f",
+        "was dein endgültiges Ziel sein muss...\r"
+      ]
+    },
+    {
+      "id": "msg_0143_00006",
+      "de_DE": [
+        "Faustus: Du hast den Eid der\n",
+        "Freundschaft geleistet.\r",
+        "Du befindest dich hier im letzten\n",
+        "Zimmer des Pokéathlon, dem\f",
+        "Zimmer der “Freundschaft”.\r",
+        "...Aber damit bist du noch nicht\n",
+        "am Ziel angelangt!\r",
+        "Über all diese Zimmer wurden\n",
+        "Trophäen verteilt, die dir eine\f",
+        "noch größere Herausforderung\f",
+        "bieten sollen.\r",
+        "Aber natürlich kannst du frei\n",
+        "entscheiden, ob du diese Trophäen\f",
+        "sammeln möchtest oder nicht...\r",
+        "Ja, denn du selbst musst entscheiden,\n",
+        "was das Ziel ist, das du verfolgst!\r",
+        "Und alle Probleme, die dir auf dem\n",
+        "Weg dorthin begegnen, musst du\f",
+        "mit der Macht der Freundschaft,\f",
+        "die dich und dein Pokémon-Team\f",
+        "verbindet, bewältigen!"
+      ]
+    },
+    {
+      "id": "msg_0143_00007",
+      "de_DE": "Das ist eine Statue von dir!\r"
+    },
+    {
+      "id": "msg_0143_00008",
+      "de_DE": [
+        "Das ist die Statue eines Pokémon, mit\n",
+        "dem du gemeinsam durch dick und dünn\f",
+        "gegangen bist und mit dem dich eine\f",
+        "tiefe Freundschaft verbindet."
+      ]
+    },
+    {
+      "id": "msg_0143_00009",
+      "de_DE": [
+        "Das ist die Statue eines\n",
+        "Medaillengewinners.\r",
+        "Willst du eine andere Statue ausstellen?"
+      ]
+    },
+    {
+      "id": "msg_0143_00010",
+      "de_DE": [
+        "Hier kannst du die Statuen von Pokémon\n",
+        "dekorieren, die fünf Medaillen gewonnen\f",
+        "haben.\r",
+        "Soll eine Statue ausgestellt werden?"
+      ]
+    },
+    {
+      "id": "msg_0143_00011",
+      "de_DE": [
+        "Das ist die Statue eines\n",
+        "Medaillengewinners.\r",
+        "Willst du eine andere Statue ausstellen?"
+      ]
+    },
+    {
+      "id": "msg_0143_00012",
+      "de_DE": [
+        "Hier kannst du die Statuen von Pokémon\n",
+        "dekorieren, die fünf Medaillen gewonnen\f",
+        "haben.\r",
+        "Soll eine Statue ausgestellt werden?"
+      ]
+    },
+    {
+      "id": "msg_0143_00013",
+      "de_DE": [
+        "Das ist die Statue eines\n",
+        "Medaillengewinners.\r",
+        "Willst du eine andere Statue ausstellen?"
+      ]
+    }
+  ]
+}

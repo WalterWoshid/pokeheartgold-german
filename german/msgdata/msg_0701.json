@@ -1,0 +1,151 @@
+{
+  "key": 20209,
+  "messages": [
+    {
+      "id": "msg_0701_00000",
+      "de_DE": "Harry"
+    },
+    {
+      "id": "msg_0701_00001",
+      "de_DE": [
+        "Ach, ich hab eben ab und zu\n",
+        "’nen schlechten Tag, das ist alles.\r",
+        "Willst du noch mal kämpfen? Dann\n",
+        "lass deine Nummer rüberwachsen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0701_00002",
+      "de_DE": [
+        "Bei unserem nächsten Treffen\n",
+        "bin ich stärker als heute!"
+      ]
+    },
+    {
+      "id": "msg_0701_00003",
+      "de_DE": [
+        "Gewinnen und Leine ziehen, was?\n",
+        "Das sieht dir ähnlich!"
+      ]
+    },
+    {
+      "id": "msg_0701_00004",
+      "de_DE": [
+        "Ach, ich hab eben ab und zu\n",
+        "’nen schlechten Tag, das ist alles.\r",
+        "Willst du noch mal kämpfen? Dann\n",
+        "lass deine Nummer rüberwachsen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0701_00005",
+      "de_DE": [
+        "Bist wegen des Finstersteins hier, was?\n",
+        "Hier hast du...\r",
+        "Ey, jetzt zier dich nicht!\n",
+        "Mach hinne und nimm ihn einfach!\r"
+      ]
+    },
+    {
+      "id": "msg_0701_00006",
+      "de_DE": [
+        "Hey, hey, hey! Hast du solche\n",
+        "Angst vor mir oder was?\r",
+        "Ich weiß genau, dass du\n",
+        "auf dem Fahrradweg bist!\r",
+        "Da bist du doch ruck zuck bei mir!\n",
+        "Also, schwing dich rüber!"
+      ]
+    },
+    {
+      "id": "msg_0701_00007",
+      "de_DE": [
+        "Mwahahah!\n",
+        "Mein {STRVAR_1 0, 10, 0} ist so stark\f",
+        "geworden, ich erkenne es kaum wieder!\r",
+        "Neulich hat es ein {STRVAR_1 0, 11, 0}\f",
+        "ratzfatz umgehauen!\r",
+        "Ich fürchte mich vor NIEMANDEM!\n",
+        "...Es sei denn, der Level seiner\f",
+        "Pokémon ist höher als der von meinen!"
+      ]
+    },
+    {
+      "id": "msg_0701_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist megastark\n",
+        "geworden!\r",
+        "Neulich hat es sogar ein {STRVAR_1 0, 11, 0}\n",
+        "entkommen lassen!\r",
+        "Was? Nein, es ist nicht entwischt, okay?\n",
+        "Es hat es entkommen LASSEN!"
+      ]
+    },
+    {
+      "id": "msg_0701_00009",
+      "de_DE": [
+        "Neulich ist mir am Straßenrand\n",
+        "ein {STRVAR_1 0, 11, 0} über den Weg gelaufen!\r",
+        "Es kam so plötzlich angelaufen,\n",
+        "ich bin vor Schreck umgefallen.\r",
+        "Ob ich mir was getan habe?\r",
+        "Iwo! Ich bin auf mein Pokémon gefallen,\n",
+        "das hat meinen Sturz gebremst."
+      ]
+    },
+    {
+      "id": "msg_0701_00010",
+      "de_DE": [
+        "Uaaah... so langsam \n",
+        "kribbelt’s mir in den Fingern!\r",
+        "{STRVAR_1 4, 3, 0}! Und zwar pronto! \n",
+        "Sieh zu, ob du mich besiegen kannst!\n"
+      ]
+    },
+    {
+      "id": "msg_0701_00011",
+      "de_DE": [
+        "Was hast du denn?\n",
+        "Du hast doch versprochen, dich von\f",
+        "mir fertigmachen zu lassen!\r",
+        "{STRVAR_1 4, 3, 0}, ich warte!\n",
+        "Und diesmal vergiss es nicht!"
+      ]
+    },
+    {
+      "id": "msg_0701_00012",
+      "de_DE": [
+        "Es gibt ein paar Typen, die behaupten,\n",
+        "seit wir Rowdys hier sind, ginge\f",
+        "der Fahrradweg den Bach hinunter.\r",
+        "Irgendwer beschwert sich doch immer!\r",
+        "Dabei lassen wir normale Bürger\n",
+        "doch in Frieden!\r",
+        "Wir fordern bloß stark aussehende\n",
+        "Trainer zum Duell heraus.\r",
+        "Solche wie dich zum Beispiel!"
+      ]
+    },
+    {
+      "id": "msg_0701_00013",
+      "de_DE": [
+        "Neulich nachts hab ich den Asphalt\n",
+        "massiert und fand ’nen Finsterstein.\r",
+        "Du hast es echt drauf,\n",
+        "also schenke ich ihn dir!\r",
+        "Wenn du ihn willst, hol ihn dir\n",
+        "hier ab: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0701_00014",
+      "de_DE": [
+        "Jetzt will ich dir schon ’nen\n",
+        "Finsterstein schenken und du\f",
+        "willst ihn nicht?\r",
+        "Komm her, wenn du willst. Ach was,\n",
+        "komm sofort! {STRVAR_1 4, 3, 0}, klar?"
+      ]
+    }
+  ]
+}

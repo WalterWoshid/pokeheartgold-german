@@ -1,0 +1,129 @@
+{
+  "key": 22895,
+  "messages": [
+    {
+      "id": "msg_0060_00000",
+      "de_DE": [
+        "Willkommen!\n",
+        "Dies ist die Arena von Erzelingen!\r",
+        "Ich bin Veit, der Arenaleiter!\r",
+        "Mein ganzer Stolz sind meine\n",
+        "Gestein-Pokémon!\r",
+        "Als Arenaleiter erkenne ich\n",
+        "dein Potenzial als Trainer.\r",
+        "Aber ich muss mich von der Kraft\n",
+        "deiner Pokémon im Kampf überzeugen!\r"
+      ]
+    },
+    {
+      "id": "msg_0060_00001",
+      "de_DE": [
+        "Das ist beschämend...\r",
+        "Ich habe gegen einen Trainer verloren,\n",
+        "der noch keinen einzigen Orden besitzt.\r",
+        "Felsenhart. Du bist stark, und ich war\n",
+        "schwach. So ist das nun mal.\r",
+        "Nach den Regeln der Pokémon Liga\n",
+        "verleihe ich dir hiermit unseren Orden,\f",
+        "als Beweis, dass du mich besiegt hast.\r",
+        "Dies ist der offizielle Kohleorden\n",
+        "der Pokémon Liga.\r"
+      ]
+    },
+    {
+      "id": "msg_0060_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält von Veit\n",
+        "den Kohleorden!"
+      ]
+    },
+    {
+      "id": "msg_0060_00003",
+      "de_DE": [
+        "Der Kohleorden erlaubt es deinem\n",
+        "Pokémon, die Versteckte Maschine\f",
+        "Zertrümmerer auch außerhalb eines\r",
+        "Kampfes anzuwenden.\n",
+        "Und dies ist auch noch für dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0060_00004",
+      "de_DE": [
+        "{STRVAR_1 8, 0} enthält\n",
+        "die Attacke Tarnsteine.\r",
+        "Sie fügt den Gegnern Schaden zu,\n",
+        "die neu in den Kampf kommen.\r",
+        "Eine TM bringt einem Pokémon\n",
+        "die enthaltene Attacke sofort bei.\r",
+        "Aber du kannst sie nur einmal ver-\n",
+        "wenden, daher überlege dir gut, welches\f",
+        "Pokémon die Attacke lernen soll."
+      ]
+    },
+    {
+      "id": "msg_0060_00005",
+      "de_DE": [
+        "In der Region Sinnoh gibt es\n",
+        "noch sieben weitere Arenaleiter.\r",
+        "Ich muss dich warnen - sie sind\n",
+        "wesentlich stärker als ich!"
+      ]
+    },
+    {
+      "id": "msg_0060_00006",
+      "de_DE": [
+        "Hallo!\n",
+        "Wie geht’s, zukünftiger Champ?\r",
+        "Das habe ich auch diesen ungeduldigen\n",
+        "Jungen gefragt, der eben hier war.\r",
+        "Der Arenaleiter setzt Pokémon\n",
+        "vom Typ Gestein ein.\r",
+        "Aber hör zu! Gestein-Pokémon\n",
+        "hassen Wasser, richtig?\r",
+        "Und sie sind schwach gegenüber\n",
+        "Attacken vom Typ Pflanze.\r",
+        "Ja, ja. Sie haben schon ihre Schwächen!\r",
+        "Aber glaub nicht, dass es einfach wird.\r",
+        "Man wird nicht Arenaleiter, wenn man\n",
+        "die Schwächen nicht gut ausgleicht!\r",
+        "Sich mit einem Feuer-Pokémon auf\n",
+        "ein Gestein-Pokémon zu stürzen\f",
+        "wäre auch keine einfache Sache.\r",
+        "Nun, mehr kann ich dir dazu nicht sagen.\n",
+        "Aber danke für’s Zuhören!"
+      ]
+    },
+    {
+      "id": "msg_0060_00007",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0}!\n",
+        "Du hast den Arenaleiter besiegt!\r",
+        "Da haben dir meine Tipps also\n",
+        "geholfen, wie?\r",
+        "Wenn meine Tipps hilfreich waren,\n",
+        "würde es mich freuen, wenn du\f",
+        "mein Fan würdest!"
+      ]
+    },
+    {
+      "id": "msg_0060_00008",
+      "de_DE": [
+        "Pokémon Arena Erzelingen\n",
+        "Leiter: Veit\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 1}"
+      ]
+    },
+    {
+      "id": "msg_0060_00009",
+      "de_DE": [
+        "Pokémon Arena Erzelingen\n",
+        "Leiter: Veit\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 0}\f",
+        "{STRVAR_1 3, 1}"
+      ]
+    }
+  ]
+}

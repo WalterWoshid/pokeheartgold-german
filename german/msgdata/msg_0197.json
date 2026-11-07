@@ -1,0 +1,8466 @@
+{
+  "key": 47860,
+  "messages": [
+    {
+      "id": "msg_0197_00000",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0197_00001",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhält\n",
+        "{STRVAR_1 54, 1, 0} E.-Punkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00002",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhält spezielle\n",
+        "{STRVAR_1 54, 1, 0} E.-Punkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erreicht\n",
+        "Lv. {STRVAR_1 52, 1, 0}!{WAIT 5}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00004",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernt\n",
+        "{STRVAR_1 6, 1, 0}!{WAIT 5}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00005",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht,\n",
+        "{STRVAR_1 6, 1, 0} zu lernen.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00006",
+      "de_DE": [
+        "Aber {STRVAR_1 1, 0, 0} kann nicht\n",
+        "mehr als vier Attacken erlernen.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00007",
+      "de_DE": [
+        "Soll eine Attacke zugunsten von\n",
+        "{STRVAR_1 6, 1, 0} vergessen werden?\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00008",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat\n",
+        "{STRVAR_1 6, 2, 0} vergessen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00009",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0}\n",
+        "nicht erlernen?\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00010",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00011",
+      "de_DE": "Nächstes Pokémon einsetzen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0197_00012",
+      "de_DE": [
+        "Attacke von {STRVAR_1 1, 0, 0}\n",
+        "geht daneben!"
+      ]
+    },
+    {
+      "id": "msg_0197_00013",
+      "de_DE": [
+        "Attacke von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "geht daneben!"
+      ]
+    },
+    {
+      "id": "msg_0197_00014",
+      "de_DE": [
+        "Attacke von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "geht daneben!"
+      ]
+    },
+    {
+      "id": "msg_0197_00015",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "schützt sich selbst!"
+      ]
+    },
+    {
+      "id": "msg_0197_00016",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "schützt sich selbst!"
+      ]
+    },
+    {
+      "id": "msg_0197_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "schützt sich selbst!"
+      ]
+    },
+    {
+      "id": "msg_0197_00018",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} vermeidet\n",
+        "Schaden mit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00019",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) vermeidet\n",
+        "Schaden mit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00020",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) vermeidet\n",
+        "Schaden mit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00021",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wehrt Boden-\n",
+        "Attacken mit {STRVAR_1 5, 1, 0} ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00022",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wehrt Boden-\n",
+        "Attacken mit {STRVAR_1 5, 1, 0} ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00023",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wehrt Boden-\n",
+        "Attacken mit {STRVAR_1 5, 1, 0} ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00024",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wehrt die\n",
+        "Attacke ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00025",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wehrt die\n",
+        "Attacke ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00026",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wehrt die\n",
+        "Attacke ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00027",
+      "de_DE": [
+        "Es hat keine Wirkung auf\n",
+        "{STRVAR_1 1, 0, 0}..."
+      ]
+    },
+    {
+      "id": "msg_0197_00028",
+      "de_DE": [
+        "Es hat keine Wirkung auf\n",
+        "{STRVAR_1 1, 0, 0} (Wild)..."
+      ]
+    },
+    {
+      "id": "msg_0197_00029",
+      "de_DE": [
+        "Es hat keine Wirkung auf\n",
+        "{STRVAR_1 1, 0, 0} (Gegner)..."
+      ]
+    },
+    {
+      "id": "msg_0197_00030",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "wurde besiegt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00031",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "wurde besiegt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00032",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wurde besiegt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00033",
+      "de_DE": "{STRVAR_1 3, 0, 0} gewinnt {STRVAR_1 54, 1, 0} $!\r"
+    },
+    {
+      "id": "msg_0197_00034",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gerät in Panik und\n",
+        "verliert {STRVAR_1 54, 1, 0} $...\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00035",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gibt\n",
+        "{STRVAR_1 54, 1, 0} $ Preisgeld...\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00036",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat kein\n",
+        "kampffähiges Pokémon mehr!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00037",
+      "de_DE": "{STRVAR_1 3, 0, 0} fällt in Ohnmacht!\r"
+    },
+    {
+      "id": "msg_0197_00038",
+      "de_DE": "... ... ... ...\r"
+    },
+    {
+      "id": "msg_0197_00039",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verhindert\n",
+        "eine Flucht mit {STRVAR_1 5, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00040",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verhindert\n",
+        "eine Flucht mit {STRVAR_1 5, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00041",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verhindert\n",
+        "eine Flucht mit {STRVAR_1 5, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00042",
+      "de_DE": "Flucht gescheitert!\r"
+    },
+    {
+      "id": "msg_0197_00043",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "kann nicht fliehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00044",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "kann nicht fliehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00045",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "kann nicht fliehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00046",
+      "de_DE": "{STRVAR_1 50, 0, 0}-mal getroffen!"
+    },
+    {
+      "id": "msg_0197_00047",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "ist eingeschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00048",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "ist eingeschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00049",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "ist eingeschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00050",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} lässt\n",
+        "{STRVAR_1 1, 2, 0} einschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00051",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} lässt\n",
+        "{STRVAR_1 1, 2, 0} (Wild) einschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00052",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} lässt\n",
+        "{STRVAR_1 1, 2, 0} (Gegner) einschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00053",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "lässt {STRVAR_1 1, 2, 0} einschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00054",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "lässt {STRVAR_1 1, 2, 0} (Wild) einschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00055",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) lässt {STRVAR_1 1, 2, 0}\f",
+        "einschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00056",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) lässt\f",
+        "{STRVAR_1 1, 2, 0} (Gegner) einschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00057",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schläft\n",
+        "bereits!"
+      ]
+    },
+    {
+      "id": "msg_0197_00058",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) schläft\n",
+        "bereits!"
+      ]
+    },
+    {
+      "id": "msg_0197_00059",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) schläft\n",
+        "bereits!"
+      ]
+    },
+    {
+      "id": "msg_0197_00060",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "ist unversehrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00061",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "ist unversehrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00062",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "ist unversehrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00063",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "wurde vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00064",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "wurde vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00065",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wurde vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00066",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "vergiftet {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00067",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "vergiftet {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00068",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "vergiftet {STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00069",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "vergiftet {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00070",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "vergiftet {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00071",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) vergiftet {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00072",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) vergiftet\f",
+        "{STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00073",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird durch\n",
+        "Gift verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00074",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird durch\n",
+        "Gift verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00075",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird durch\n",
+        "Gift verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00076",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist bereits\n",
+        "vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0197_00077",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist bereits\n",
+        "vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0197_00078",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist bereits\n",
+        "vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0197_00079",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde schwer\n",
+        "vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00080",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde schwer\n",
+        "vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00081",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde schwer\n",
+        "vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00082",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "Energie abgesaugt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00083",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde\n",
+        "Energie abgesaugt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00084",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde\n",
+        "Energie abgesaugt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00085",
+      "de_DE": "{STRVAR_1 1, 0, 0} brennt!"
+    },
+    {
+      "id": "msg_0197_00086",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) brennt!"
+    },
+    {
+      "id": "msg_0197_00087",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) brennt!"
+    },
+    {
+      "id": "msg_0197_00088",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verbrennt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00089",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verbrennt {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00090",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verbrennt {STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00091",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verbrennt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00092",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verbrennt {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00093",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verbrennt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00094",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verbrennt\f",
+        "{STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00095",
+      "de_DE": [
+        "Die Verbrennung schadet\n",
+        "{STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00096",
+      "de_DE": [
+        "Die Verbrennung schadet\n",
+        "{STRVAR_1 1, 0, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00097",
+      "de_DE": [
+        "Die Verbrennung schadet\n",
+        "{STRVAR_1 1, 0, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00098",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brennt\n",
+        "bereits."
+      ]
+    },
+    {
+      "id": "msg_0197_00099",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) brennt\n",
+        "bereits."
+      ]
+    },
+    {
+      "id": "msg_0197_00100",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) brennt\n",
+        "bereits."
+      ]
+    },
+    {
+      "id": "msg_0197_00101",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erstarrt\n",
+        "zu Eis!"
+      ]
+    },
+    {
+      "id": "msg_0197_00102",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erstarrt\n",
+        "zu Eis!"
+      ]
+    },
+    {
+      "id": "msg_0197_00103",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erstarrt\n",
+        "zu Eis!"
+      ]
+    },
+    {
+      "id": "msg_0197_00104",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} wird durch\n",
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\f",
+        "eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00105",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) wird durch\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00106",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) wird durch\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00107",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} wird durch\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} (Wild) eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00108",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) wird durch\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} (Wild) eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00109",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} wird durch\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} (Gegner) eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00110",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) wird durch\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} (Gegner) eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00111",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist\n",
+        "eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00112",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist\n",
+        "eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00113",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist\n",
+        "eingefroren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00114",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "aufgetaut!"
+      ]
+    },
+    {
+      "id": "msg_0197_00115",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde\n",
+        "aufgetaut!"
+      ]
+    },
+    {
+      "id": "msg_0197_00116",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde\n",
+        "aufgetaut!"
+      ]
+    },
+    {
+      "id": "msg_0197_00117",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird\n",
+        "durch {STRVAR_1 6, 1, 0} aufgetaut!"
+      ]
+    },
+    {
+      "id": "msg_0197_00118",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird\n",
+        "durch {STRVAR_1 6, 1, 0} aufgetaut!"
+      ]
+    },
+    {
+      "id": "msg_0197_00119",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird\n",
+        "durch {STRVAR_1 6, 1, 0} aufgetaut!"
+      ]
+    },
+    {
+      "id": "msg_0197_00120",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist paralysiert! Es greift\n",
+        "eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00121",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist paralysiert!\n",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00122",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist paralysiert!\n",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00123",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "paralysiert {STRVAR_1 1, 2, 0}!\f",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00124",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "paralysiert {STRVAR_1 1, 2, 0} (Wild)!\f",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00125",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "paralysiert {STRVAR_1 1, 2, 0} (Gegner)!\f",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00126",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "paralysiert {STRVAR_1 1, 2, 0}!\f",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00127",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "paralysiert {STRVAR_1 1, 2, 0} (Wild)!\f",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00128",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) paralysiert {STRVAR_1 1, 2, 0}!\f",
+        "Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00129",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) paralysiert {STRVAR_1 1, 2, 0}\f",
+        "(Gegner)! Es greift eventuell nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0197_00130",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist paralysiert!\n",
+        "Es kann nicht angreifen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00131",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist paralysiert!\n",
+        "Es kann nicht angreifen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00132",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist paralysiert!\n",
+        "Es kann nicht angreifen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00133",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist bereits paralysiert!"
+    },
+    {
+      "id": "msg_0197_00134",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist bereits\n",
+        "paralysiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00135",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist\n",
+        "bereits paralysiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00136",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von der\n",
+        "Paralyse geheilt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00137",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von der\n",
+        "Paralyse geheilt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00138",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von der\n",
+        "Paralyse geheilt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00139",
+      "de_DE": [
+        "Der Traum von {STRVAR_1 1, 0, 0}\n",
+        "wurde gefressen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00140",
+      "de_DE": [
+        "Der Traum von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "wurde gefressen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00141",
+      "de_DE": [
+        "Der Traum von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wurde gefressen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00142",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} kann\n",
+        "nicht mehr erhöht werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00143",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "kann nicht mehr erhöht werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00144",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) kann nicht\f",
+        "mehr erhöht werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00145",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} kann\n",
+        "nicht weiter gesenkt werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00146",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "kann nicht weiter gesenkt werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00147",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) kann nicht\f",
+        "weiter gesenkt werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00148",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} in deinem Team\n",
+        "funktioniert nicht mehr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00149",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} des Gegners\n",
+        "funktioniert nicht mehr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00150",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist verwirrt!"
+    },
+    {
+      "id": "msg_0197_00151",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) ist verwirrt!"
+    },
+    {
+      "id": "msg_0197_00152",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) ist verwirrt!"
+    },
+    {
+      "id": "msg_0197_00153",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist nicht mehr verwirrt!"
+    },
+    {
+      "id": "msg_0197_00154",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist nicht\n",
+        "mehr verwirrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00155",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist nicht\n",
+        "mehr verwirrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00156",
+      "de_DE": "{STRVAR_1 1, 0, 0} wurde verwirrt!"
+    },
+    {
+      "id": "msg_0197_00157",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) wurde verwirrt!"
+    },
+    {
+      "id": "msg_0197_00158",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) wurde verwirrt!"
+    },
+    {
+      "id": "msg_0197_00159",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist bereits verwirrt!"
+    },
+    {
+      "id": "msg_0197_00160",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist\n",
+        "bereits verwirrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00161",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist\n",
+        "bereits verwirrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00162",
+      "de_DE": "{STRVAR_1 1, 0, 0} hat sich verliebt!"
+    },
+    {
+      "id": "msg_0197_00163",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) hat sich verliebt!"
+    },
+    {
+      "id": "msg_0197_00164",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "hat sich verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00165",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich in\n",
+        "{STRVAR_1 1, 1, 0} verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00166",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich in\n",
+        "{STRVAR_1 1, 1, 0} (Wild) verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00167",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich in\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00168",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat sich in\n",
+        "{STRVAR_1 1, 1, 0} verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00169",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat sich in\n",
+        "{STRVAR_1 1, 1, 0} (Wild) verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00170",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat sich in\n",
+        "{STRVAR_1 1, 1, 0} verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00171",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat sich in\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) verliebt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00172",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist starr\n",
+        "vor Liebe!"
+      ]
+    },
+    {
+      "id": "msg_0197_00173",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist starr\n",
+        "vor Liebe!"
+      ]
+    },
+    {
+      "id": "msg_0197_00174",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist starr\n",
+        "vor Liebe!"
+      ]
+    },
+    {
+      "id": "msg_0197_00175",
+      "de_DE": "{STRVAR_1 1, 0, 0} wurde weggeweht!"
+    },
+    {
+      "id": "msg_0197_00176",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) wurde weggeweht!"
+    },
+    {
+      "id": "msg_0197_00177",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde\n",
+        "weggeweht!"
+      ]
+    },
+    {
+      "id": "msg_0197_00178",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verwandelt\n",
+        "sich zu Typ {STRVAR_1 15, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00179",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verwandelt\n",
+        "sich zu Typ {STRVAR_1 15, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00180",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verwandelt\n",
+        "sich zu Typ {STRVAR_1 15, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00181",
+      "de_DE": "{STRVAR_1 1, 0, 0} schreckt zurück!"
+    },
+    {
+      "id": "msg_0197_00182",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) schreckt zurück!"
+    },
+    {
+      "id": "msg_0197_00183",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) schreckt\n",
+        "zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_00184",
+      "de_DE": "{STRVAR_1 1, 0, 0} erholt sich!"
+    },
+    {
+      "id": "msg_0197_00185",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) erholt sich!"
+    },
+    {
+      "id": "msg_0197_00186",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) erholt sich!"
+    },
+    {
+      "id": "msg_0197_00187",
+      "de_DE": "{STRVAR_1 1, 0, 0} hat alle KP!"
+    },
+    {
+      "id": "msg_0197_00188",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) hat alle KP!"
+    },
+    {
+      "id": "msg_0197_00189",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) hat alle KP!"
+    },
+    {
+      "id": "msg_0197_00190",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} von Anwender erhöht\n",
+        "die Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0197_00191",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} von Gegner erhöht\n",
+        "die Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0197_00192",
+      "de_DE": [
+        "Spezial-Verteidigung wird etwas durch\n",
+        "{STRVAR_1 6, 0, 0} von Anwender erhöht."
+      ]
+    },
+    {
+      "id": "msg_0197_00193",
+      "de_DE": [
+        "Spezial-Verteidigung wird etwas durch\n",
+        "{STRVAR_1 6, 0, 0} von Gegner erhöht."
+      ]
+    },
+    {
+      "id": "msg_0197_00194",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} von Anwender\n",
+        "erhöht die Verteidigung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00195",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} von Gegner\n",
+        "erhöht die Verteidigung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00196",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} von Anwender\n",
+        "erhöht etwas die Verteidigung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00197",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} von Gegner\n",
+        "erhöht etwas die Verteidigung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00198",
+      "de_DE": [
+        "Team von Anwender wird von\n",
+        "einem Schleier umhüllt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00199",
+      "de_DE": [
+        "Team von Gegner wird von\n",
+        "einem Schleier umhüllt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00200",
+      "de_DE": [
+        "Team von {STRVAR_1 1, 0, 0}\n",
+        "wird durch Bodyguard geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00201",
+      "de_DE": [
+        "Team von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "wird durch Bodyguard geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00202",
+      "de_DE": [
+        "Team von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wird durch Bodyguard geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00203",
+      "de_DE": [
+        "Bodyguard von\n",
+        "Anwender lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00204",
+      "de_DE": [
+        "Bodyguard von\n",
+        "Gegner lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00205",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist eingeschlafen!"
+    },
+    {
+      "id": "msg_0197_00206",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) ist eingeschlafen!"
+    },
+    {
+      "id": "msg_0197_00207",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist\n",
+        "eingeschlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00208",
+      "de_DE": "{STRVAR_1 1, 0, 0} schläft und erholt sich!"
+    },
+    {
+      "id": "msg_0197_00209",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) schläft und\n",
+        "erholt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00210",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) schläft und\n",
+        "erholt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00211",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} entfacht\n",
+        "einen Wirbelwind!"
+      ]
+    },
+    {
+      "id": "msg_0197_00212",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) entfacht\n",
+        "einen Wirbelwind!"
+      ]
+    },
+    {
+      "id": "msg_0197_00213",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) entfacht\n",
+        "einen Wirbelwind!"
+      ]
+    },
+    {
+      "id": "msg_0197_00214",
+      "de_DE": "{STRVAR_1 1, 0, 0} absorbiert Sonnenlicht!"
+    },
+    {
+      "id": "msg_0197_00215",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) absorbiert\n",
+        "Sonnenlicht!"
+      ]
+    },
+    {
+      "id": "msg_0197_00216",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) absorbiert\n",
+        "Sonnenlicht!"
+      ]
+    },
+    {
+      "id": "msg_0197_00217",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zieht seinen\n",
+        "Kopf ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00218",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) zieht seinen\n",
+        "Kopf ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00219",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) zieht seinen\n",
+        "Kopf ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00220",
+      "de_DE": "{STRVAR_1 1, 0, 0} leuchtet!"
+    },
+    {
+      "id": "msg_0197_00221",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) leuchtet!"
+    },
+    {
+      "id": "msg_0197_00222",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) leuchtet!"
+    },
+    {
+      "id": "msg_0197_00223",
+      "de_DE": "{STRVAR_1 1, 0, 0} fliegt hoch empor!"
+    },
+    {
+      "id": "msg_0197_00224",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) fliegt hoch empor!"
+    },
+    {
+      "id": "msg_0197_00225",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) fliegt\n",
+        "hoch empor!"
+      ]
+    },
+    {
+      "id": "msg_0197_00226",
+      "de_DE": "{STRVAR_1 1, 0, 0} gräbt sich ein!"
+    },
+    {
+      "id": "msg_0197_00227",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) gräbt sich ein!"
+    },
+    {
+      "id": "msg_0197_00228",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) gräbt sich ein!"
+    },
+    {
+      "id": "msg_0197_00229",
+      "de_DE": "{STRVAR_1 1, 0, 0} taucht unter!"
+    },
+    {
+      "id": "msg_0197_00230",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) taucht unter!"
+    },
+    {
+      "id": "msg_0197_00231",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) taucht unter!"
+    },
+    {
+      "id": "msg_0197_00232",
+      "de_DE": "{STRVAR_1 1, 0, 0} springt hoch!"
+    },
+    {
+      "id": "msg_0197_00233",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) springt hoch!"
+    },
+    {
+      "id": "msg_0197_00234",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) springt hoch!"
+    },
+    {
+      "id": "msg_0197_00235",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} setzt bei {STRVAR_1 1, 0, 0}\n",
+        "Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00236",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Wild) setzt bei\n",
+        "{STRVAR_1 1, 0, 0} Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00237",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Gegner) setzt bei\n",
+        "{STRVAR_1 1, 0, 0} Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00238",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} setzt bei {STRVAR_1 1, 0, 0}\n",
+        "(Wild) Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00239",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Wild) setzt bei\n",
+        "{STRVAR_1 1, 0, 0} (Wild) Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00240",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} setzt bei {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00241",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Gegner) setzt bei\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00242",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird in\n",
+        "einem Strudel gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00243",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird in\n",
+        "einem Strudel gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00244",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird in\n",
+        "einem Strudel gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00245",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch\n",
+        "Sandgrab gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00246",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch\n",
+        "Sandgrab gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00247",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch\n",
+        "Sandgrab gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00248",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "{STRVAR_1 1, 1, 0} umwickelt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00249",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Wild) umwickelt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00250",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) umwickelt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00251",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von\n",
+        "{STRVAR_1 1, 1, 0} umwickelt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00252",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Wild) umwickelt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00253",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von\n",
+        "{STRVAR_1 1, 1, 0} umwickelt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00254",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) umwickelt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00255",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "{STRVAR_1 1, 1, 0} geschnappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00256",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Wild) geschnappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00257",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) geschnappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00258",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von\n",
+        "{STRVAR_1 1, 1, 0} geschnappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00259",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Wild) geschnappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00260",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von\n",
+        "{STRVAR_1 1, 1, 0} geschnappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00261",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) geschnappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00262",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch\n",
+        "{STRVAR_1 6, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00263",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch\n",
+        "{STRVAR_1 6, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00264",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch\n",
+        "{STRVAR_1 6, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00265",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "{STRVAR_1 6, 1, 0} befreit!"
+      ]
+    },
+    {
+      "id": "msg_0197_00266",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von\n",
+        "{STRVAR_1 6, 1, 0} befreit!"
+      ]
+    },
+    {
+      "id": "msg_0197_00267",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von\n",
+        "{STRVAR_1 6, 1, 0} befreit!"
+      ]
+    },
+    {
+      "id": "msg_0197_00268",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht weiter\n",
+        "und bricht zusammen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00269",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) macht weiter\n",
+        "und bricht zusammen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00270",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) macht weiter\n",
+        "und bricht zusammen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00271",
+      "de_DE": [
+        "Anwender wird in\n",
+        "Weißnebel gehüllt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00272",
+      "de_DE": [
+        "Gegner wird in\n",
+        "Weißnebel gehüllt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00273",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird durch\n",
+        "Weißnebel geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00274",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird durch\n",
+        "Weißnebel geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00275",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird durch\n",
+        "Weißnebel geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00276",
+      "de_DE": "{STRVAR_1 1, 0, 0} pumpt sich auf!"
+    },
+    {
+      "id": "msg_0197_00277",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) pumpt sich auf!"
+    },
+    {
+      "id": "msg_0197_00278",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) pumpt sich auf!"
+    },
+    {
+      "id": "msg_0197_00279",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde vom\n",
+        "Rückstoß getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00280",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde vom\n",
+        "Rückstoß getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00281",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde vom\n",
+        "Rückstoß getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00282",
+      "de_DE": "{STRVAR_1 1, 0, 0} schützt sich selbst!"
+    },
+    {
+      "id": "msg_0197_00283",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) schützt\n",
+        "sich selbst!"
+      ]
+    },
+    {
+      "id": "msg_0197_00284",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) schützt\n",
+        "sich selbst!"
+      ]
+    },
+    {
+      "id": "msg_0197_00285",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} wird von\n",
+        "{STRVAR_1 6, 0, 0} getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00286",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Wild) wird von\n",
+        "{STRVAR_1 6, 0, 0} getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00287",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Gegner) wird von\n",
+        "{STRVAR_1 6, 0, 0} getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00288",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} in deinem Team\n",
+        "funktioniert nicht mehr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00289",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} des Gegners\n",
+        "funktioniert nicht mehr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00290",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "bepflanzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00291",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde\n",
+        "bepflanzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00292",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde\n",
+        "bepflanzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00293",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist\n",
+        "ausgewichen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00294",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist\n",
+        "ausgewichen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00295",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist\n",
+        "ausgewichen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00296",
+      "de_DE": [
+        "Egelsamen schadet\n",
+        "{STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00297",
+      "de_DE": [
+        "Egelsamen schadet\n",
+        "{STRVAR_1 1, 0, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00298",
+      "de_DE": [
+        "Egelsamen schadet\n",
+        "{STRVAR_1 1, 0, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00299",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schläft tief\n",
+        "und fest."
+      ]
+    },
+    {
+      "id": "msg_0197_00300",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) schläft tief\n",
+        "und fest."
+      ]
+    },
+    {
+      "id": "msg_0197_00301",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) schläft tief\n",
+        "und fest."
+      ]
+    },
+    {
+      "id": "msg_0197_00302",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist aufgewacht!"
+    },
+    {
+      "id": "msg_0197_00303",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) ist aufgewacht!"
+    },
+    {
+      "id": "msg_0197_00304",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) ist aufgewacht!"
+    },
+    {
+      "id": "msg_0197_00305",
+      "de_DE": "{STRVAR_1 1, 0, 0} wird durch Aufruhr wach!"
+    },
+    {
+      "id": "msg_0197_00306",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird durch\n",
+        "Aufruhr wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00307",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird durch\n",
+        "Aufruhr wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00308",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verursacht\n",
+        "Aufruhr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00309",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verursacht\n",
+        "Aufruhr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00310",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verursacht\n",
+        "Aufruhr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00311",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht\n",
+        "einen Aufruhr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00312",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) macht\n",
+        "einen Aufruhr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00313",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) macht\n",
+        "einen Aufruhr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00314",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "beruhigt sich."
+      ]
+    },
+    {
+      "id": "msg_0197_00315",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "beruhigt sich."
+      ]
+    },
+    {
+      "id": "msg_0197_00316",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "beruhigt sich."
+      ]
+    },
+    {
+      "id": "msg_0197_00317",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hortet\n",
+        "{STRVAR_1 50, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00318",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hortet\n",
+        "{STRVAR_1 50, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00319",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hortet\n",
+        "{STRVAR_1 50, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00320",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann nicht\n",
+        "weiter horten!"
+      ]
+    },
+    {
+      "id": "msg_0197_00321",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann nicht\n",
+        "weiter horten!"
+      ]
+    },
+    {
+      "id": "msg_0197_00322",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann nicht\n",
+        "weiter horten!"
+      ]
+    },
+    {
+      "id": "msg_0197_00323",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann bei dem\n",
+        "Aufruhr nicht schlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00324",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann bei dem\n",
+        "Aufruhr nicht schlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00325",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann bei dem\n",
+        "Aufruhr nicht schlafen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00326",
+      "de_DE": [
+        "Aber der Aufruhr hält\n",
+        "{STRVAR_1 1, 0, 0} wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00327",
+      "de_DE": [
+        "Aber der Aufruhr hält\n",
+        "{STRVAR_1 1, 0, 0} (Wild) wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00328",
+      "de_DE": [
+        "Aber der Aufruhr hält\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00329",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält sich mit\n",
+        "{STRVAR_1 5, 1, 0} wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00330",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hält sich mit\n",
+        "{STRVAR_1 5, 1, 0} wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00331",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hält sich mit\n",
+        "{STRVAR_1 5, 1, 0} wach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00332",
+      "de_DE": "{STRVAR_1 1, 0, 0} speichert Energie!"
+    },
+    {
+      "id": "msg_0197_00333",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) speichert\n",
+        "Energie!"
+      ]
+    },
+    {
+      "id": "msg_0197_00334",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) speichert\n",
+        "Energie!"
+      ]
+    },
+    {
+      "id": "msg_0197_00335",
+      "de_DE": "{STRVAR_1 1, 0, 0} erzeugt Energie!"
+    },
+    {
+      "id": "msg_0197_00336",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) erzeugt Energie!"
+    },
+    {
+      "id": "msg_0197_00337",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erzeugt\n",
+        "Energie!"
+      ]
+    },
+    {
+      "id": "msg_0197_00338",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist vor\n",
+        "Erschöpfung verwirrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00339",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist vor\n",
+        "Erschöpfung verwirrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00340",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist vor\n",
+        "Erschöpfung verwirrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00341",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hebt\n",
+        "{STRVAR_1 54, 1, 0} $ auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00342",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist unversehrt!"
+    },
+    {
+      "id": "msg_0197_00343",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) ist unversehrt!"
+    },
+    {
+      "id": "msg_0197_00344",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) ist unversehrt!"
+    },
+    {
+      "id": "msg_0197_00345",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verwandelt\n",
+        "sich in {STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00346",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verwandelt\n",
+        "sich in {STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00347",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verwandelt\n",
+        "sich in {STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00348",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} setzt einen\n",
+        "Delegator ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00349",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) setzt einen\n",
+        "Delegator ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00350",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) setzt einen\n",
+        "Delegator ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00351",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat bereits\n",
+        "einen Delegator!"
+      ]
+    },
+    {
+      "id": "msg_0197_00352",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat bereits\n",
+        "einen Delegator!"
+      ]
+    },
+    {
+      "id": "msg_0197_00353",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat bereits\n",
+        "einen Delegator!"
+      ]
+    },
+    {
+      "id": "msg_0197_00354",
+      "de_DE": [
+        "Der Delegator steckt den\n",
+        "Schlag für {STRVAR_1 1, 0, 0} ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00355",
+      "de_DE": [
+        "Der Delegator steckt den\n",
+        "Schlag für {STRVAR_1 1, 0, 0} (Wild) ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00356",
+      "de_DE": [
+        "Der Delegator steckt den\n",
+        "Schlag für {STRVAR_1 1, 0, 0} (Gegner)\f",
+        "ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00357",
+      "de_DE": [
+        "Delegator von\n",
+        "{STRVAR_1 1, 0, 0} lässt nach!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00358",
+      "de_DE": [
+        "Delegator von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) lässt nach!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00359",
+      "de_DE": [
+        "Delegator von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) lässt nach!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00360",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} muss sich\n",
+        "wieder aufladen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00361",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) muss sich\n",
+        "wieder aufladen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00362",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) muss sich\n",
+        "wieder aufladen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00363",
+      "de_DE": "{STRVAR_1 1, 0, 0} verfällt in Raserei!"
+    },
+    {
+      "id": "msg_0197_00364",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verfällt in\n",
+        "Raserei!"
+      ]
+    },
+    {
+      "id": "msg_0197_00365",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verfällt in\n",
+        "Raserei!"
+      ]
+    },
+    {
+      "id": "msg_0197_00366",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} wurde blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00367",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) wurde blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00368",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00369",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist nicht\n",
+        "mehr blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00370",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist nicht\n",
+        "mehr blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00371",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist nicht\n",
+        "mehr blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00372",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt\n",
+        "eine Zugabe!"
+      ]
+    },
+    {
+      "id": "msg_0197_00373",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) gibt\n",
+        "eine Zugabe!"
+      ]
+    },
+    {
+      "id": "msg_0197_00374",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) gibt\n",
+        "eine Zugabe!"
+      ]
+    },
+    {
+      "id": "msg_0197_00375",
+      "de_DE": [
+        "Zugabe von {STRVAR_1 1, 0, 0}\n",
+        "ist beendet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00376",
+      "de_DE": [
+        "Zugabe von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "ist beendet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00377",
+      "de_DE": [
+        "Zugabe von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "ist beendet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00378",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zielt\n",
+        "auf {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00379",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zielt\n",
+        "auf {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00380",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zielt\n",
+        "auf {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00381",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) zielt\n",
+        "auf {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00382",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) zielt\n",
+        "auf {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00383",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) zielt\n",
+        "auf {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00384",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) zielt\n",
+        "auf {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00385",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} setzt\n",
+        "Nachahmer bei {STRVAR_1 6, 1, 0} ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00386",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) setzt\n",
+        "Nachahmer bei {STRVAR_1 6, 1, 0} ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00387",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) setzt\n",
+        "Nachahmer bei {STRVAR_1 6, 1, 0} ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00388",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht, den\n",
+        "Gegner mit sich zu nehmen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00389",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) versucht, den\n",
+        "Gegner mit sich zu nehmen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00390",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) versucht, den\n",
+        "Gegner mit sich zu nehmen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00391",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt\n",
+        "{STRVAR_1 1, 1, 0} mit sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00392",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt\n",
+        "{STRVAR_1 1, 1, 0} (Wild) mit sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00393",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) mit sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00394",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) nimmt\n",
+        "{STRVAR_1 1, 1, 0} mit sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00395",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) nimmt\n",
+        "{STRVAR_1 1, 1, 0} (Wild) mit sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00396",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) nimmt\n",
+        "{STRVAR_1 1, 1, 0} mit sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00397",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) nimmt\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) mit sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00398",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "wird um {STRVAR_1 50, 2, 0} reduziert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00399",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "wird um {STRVAR_1 50, 2, 0} reduziert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00400",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) wird um {STRVAR_1 50, 2, 0} reduziert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00401",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stiehlt\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00402",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stiehlt {STRVAR_1 8, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00403",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stiehlt {STRVAR_1 8, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00404",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) stiehlt\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00405",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) stiehlt \n",
+        "{STRVAR_1 8, 2, 0} v. {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00406",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) stiehlt\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00407",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) stiehlt\n",
+        "{STRVAR_1 8, 2, 0} von\f",
+        "{STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00408",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann\n",
+        "nicht fliehen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00409",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann\n",
+        "nicht fliehen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00410",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann\n",
+        "nicht fliehen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00411",
+      "de_DE": "{STRVAR_1 1, 0, 0} bekommt Nachtmahr!"
+    },
+    {
+      "id": "msg_0197_00412",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) bekommt\n",
+        "Nachtmahr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00413",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) bekommt\n",
+        "Nachtmahr!"
+      ]
+    },
+    {
+      "id": "msg_0197_00414",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist in\n",
+        "Nachtmahr gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00415",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist in\n",
+        "Nachtmahr gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00416",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist in\n",
+        "Nachtmahr gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00417",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt einen\n",
+        "Teil seiner KP und legt einen\f",
+        "Fluch auf {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00418",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt einen\n",
+        "Teil seiner KP und legt einen\f",
+        "Fluch auf {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00419",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt einen\n",
+        "Teil seiner KP und legt einen\f",
+        "Fluch auf {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00420",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) nimmt einen\n",
+        "Teil seiner KP und legt einen\f",
+        "Fluch auf {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00421",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) nimmt einen\n",
+        "Teil seiner KP und legt einen\f",
+        "Fluch auf {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00422",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) nimmt einen\n",
+        "Teil seiner KP und legt einen\f",
+        "Fluch auf {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00423",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) nimmt einen\n",
+        "Teil seiner KP und legt einen\f",
+        "Fluch auf {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00424",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch\n",
+        "Fluch verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00425",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch\n",
+        "Fluch verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00426",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch\n",
+        "Fluch verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00427",
+      "de_DE": [
+        "Dein Team hat\n",
+        "Stacheln um sich herum!"
+      ]
+    },
+    {
+      "id": "msg_0197_00428",
+      "de_DE": [
+        "Team von Gegner hat\n",
+        "Stacheln um sich herum!"
+      ]
+    },
+    {
+      "id": "msg_0197_00429",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch\n",
+        "Stachler verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00430",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch\n",
+        "Stachler verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00431",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch\n",
+        "Stachler verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00432",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erkennt\n",
+        "{STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00433",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erkennt\n",
+        "{STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00434",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erkennt\n",
+        "{STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00435",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erkennt\n",
+        "{STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00436",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erkennt\n",
+        "{STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00437",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erkennt\n",
+        "{STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00438",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erkennt\n",
+        "{STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00439",
+      "de_DE": [
+        "Abgesang von {STRVAR_1 1, 0, 0}\n",
+        "steht bei {STRVAR_1 50, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00440",
+      "de_DE": [
+        "Abgesang von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "steht bei {STRVAR_1 50, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00441",
+      "de_DE": [
+        "Abgesang von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "steht bei {STRVAR_1 50, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00442",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht sich\n",
+        "bereit!"
+      ]
+    },
+    {
+      "id": "msg_0197_00443",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) macht sich\n",
+        "bereit!"
+      ]
+    },
+    {
+      "id": "msg_0197_00444",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) macht sich\n",
+        "bereit!"
+      ]
+    },
+    {
+      "id": "msg_0197_00445",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} setzt\n",
+        "Ausdauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00446",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) setzt\n",
+        "Ausdauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00447",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) setzt\n",
+        "Ausdauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00448",
+      "de_DE": "Intensität {STRVAR_1 50, 0, 0}!"
+    },
+    {
+      "id": "msg_0197_00449",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nutzt seine\n",
+        "KP und hebt den Angr.-Wert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00450",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) nutzt seine\n",
+        "KP und hebt den Angr.-Wert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00451",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) nutzt seine\n",
+        "KP und hebt den Angr.-Wert!"
+      ]
+    },
+    {
+      "id": "msg_0197_00452",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kopiert die\n",
+        "Statusveränderungen von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00453",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kopiert die\n",
+        "Statusveränderungen\f",
+        "von {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00454",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kopiert die\n",
+        "Statusveränderungen\f",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00455",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kopiert die\n",
+        "Statusveränderungen\f",
+        "von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00456",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kopiert die\n",
+        "Statusveränderungen\f",
+        "von {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00457",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kopiert die\n",
+        "Statusveränderungen\f",
+        "von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00458",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kopiert die\n",
+        "Statusveränderungen\f",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00459",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} befreit sich von\n",
+        "{STRVAR_1 6, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00460",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} befreit sich von\n",
+        "{STRVAR_1 6, 2, 0} v. {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00461",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} befreit\n",
+        "sich von {STRVAR_1 6, 2, 0}\f",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00462",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) befreit sich von\n",
+        "{STRVAR_1 6, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00463",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) befreit sich von\n",
+        "{STRVAR_1 6, 2, 0} v. {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00464",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) befreit sich von\n",
+        "{STRVAR_1 6, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00465",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) befreit\n",
+        "sich von {STRVAR_1 6, 2, 0}\f",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00466",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} blies\n",
+        "{STRVAR_1 6, 1, 0} weg!"
+      ]
+    },
+    {
+      "id": "msg_0197_00467",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) blies\n",
+        "{STRVAR_1 6, 1, 0} weg!"
+      ]
+    },
+    {
+      "id": "msg_0197_00468",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) blies\n",
+        "{STRVAR_1 6, 1, 0} weg!"
+      ]
+    },
+    {
+      "id": "msg_0197_00469",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist geflüchtet!"
+    },
+    {
+      "id": "msg_0197_00470",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist\n",
+        "geflüchtet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00471",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist\n",
+        "geflüchtet!"
+      ]
+    },
+    {
+      "id": "msg_0197_00472",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sah eine\n",
+        "Attacke voraus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00473",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) sah eine\n",
+        "Attacke voraus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00474",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) sah eine\n",
+        "Attacke voraus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00475",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von\n",
+        "Attacke {STRVAR_1 6, 1, 0} getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00476",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von\n",
+        "Attacke {STRVAR_1 6, 1, 0} getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00477",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von\n",
+        "Attacke {STRVAR_1 6, 1, 0} getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00478",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wählt\n",
+        "{STRVAR_1 6, 1, 0} als Vorhersehung aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00479",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wählt\n",
+        "{STRVAR_1 6, 1, 0} als Vorhersehung aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00480",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wählt\n",
+        "{STRVAR_1 6, 1, 0} als Vorhersehung aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00481",
+      "de_DE": "Angriff von {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "id": "msg_0197_00482",
+      "de_DE": "Angriff von {STRVAR_1 1, 0, 0} (Wild)!"
+    },
+    {
+      "id": "msg_0197_00483",
+      "de_DE": "Angriff von {STRVAR_1 1, 0, 0} (Gegner)!"
+    },
+    {
+      "id": "msg_0197_00484",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zieht alle\n",
+        "Aufmerksamkeit auf sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00485",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) zieht alle\n",
+        "Aufmerksamkeit auf sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00486",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) zieht alle\n",
+        "Aufmerksamkeit auf sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00487",
+      "de_DE": "{STRVAR_1 1, 0, 0} lädt sich auf!"
+    },
+    {
+      "id": "msg_0197_00488",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) lädt\n",
+        "sich auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00489",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) lädt\n",
+        "sich auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00490",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0} wurde zu\n",
+        "{STRVAR_1 6, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00491",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0}\n",
+        "wird normal!"
+      ]
+    },
+    {
+      "id": "msg_0197_00492",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "wird normal!"
+      ]
+    },
+    {
+      "id": "msg_0197_00493",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wird normal!"
+      ]
+    },
+    {
+      "id": "msg_0197_00494",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird von\n",
+        "Folterknecht unterworfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00495",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird von\n",
+        "Folterknecht unterworfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00496",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird von\n",
+        "Folterknecht unterworfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00497",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verstärkt\n",
+        "seinen Fokus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00498",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verstärkt\n",
+        "seinen Fokus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00499",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verstärkt\n",
+        "seinen Fokus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00500",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fällt auf\n",
+        "Verhöhner herein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00501",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) fällt auf\n",
+        "Verhöhner herein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00502",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) fällt auf\n",
+        "Verhöhner herein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00503",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} will\n",
+        "{STRVAR_1 1, 1, 0} helfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00504",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} will\n",
+        "{STRVAR_1 1, 1, 0} (Wild) helfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00505",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} will\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) helfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00506",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) will\n",
+        "{STRVAR_1 1, 1, 0} helfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00507",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) will\n",
+        "{STRVAR_1 1, 1, 0} (Wild) helfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00508",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) will\n",
+        "{STRVAR_1 1, 1, 0} helfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00509",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) will\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) helfen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00510",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tauscht\n",
+        "Items mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00511",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) tauscht\n",
+        "Items mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00512",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) tauscht\n",
+        "Items mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00513",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhält\n",
+        "{STRVAR_1 8, 1, 0}."
+      ]
+    },
+    {
+      "id": "msg_0197_00514",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erhält\n",
+        "{STRVAR_1 8, 1, 0}."
+      ]
+    },
+    {
+      "id": "msg_0197_00515",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erhält\n",
+        "{STRVAR_1 8, 1, 0}."
+      ]
+    },
+    {
+      "id": "msg_0197_00516",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhält\n",
+        "{STRVAR_1 8, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} erhält\n",
+        "{STRVAR_1 8, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0197_00517",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhält\n",
+        "{STRVAR_1 8, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} (Wild) erhält\n",
+        "{STRVAR_1 8, 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00518",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhält\n",
+        "{STRVAR_1 8, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} (Gegner) erhält\n",
+        "{STRVAR_1 8, 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00519",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erhält\n",
+        "{STRVAR_1 8, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} erhält\n",
+        "{STRVAR_1 8, 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00520",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erhält\n",
+        "{STRVAR_1 8, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} (Wild) erhält\n",
+        "{STRVAR_1 8, 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00521",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erhält\n",
+        "{STRVAR_1 8, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} erhält\n",
+        "{STRVAR_1 8, 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00522",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erhält\n",
+        "{STRVAR_1 8, 1, 0}.\r",
+        "{STRVAR_1 1, 2, 0} (Gegner) erhält\n",
+        "{STRVAR_1 8, 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00523",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kopiert {STRVAR_1 5, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00524",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kopiert {STRVAR_1 5, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00525",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kopiert {STRVAR_1 5, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00526",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kopiert\n",
+        "{STRVAR_1 5, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00527",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kopiert\n",
+        "{STRVAR_1 5, 2, 0} v. {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00528",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kopiert\n",
+        "{STRVAR_1 5, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00529",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "kopiert {STRVAR_1 5, 2, 0} von\f",
+        "{STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00530",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spricht einen\n",
+        "Wunschtraum aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00531",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) spricht einen\n",
+        "Wunschtraum aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00532",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) spricht einen\n",
+        "Wunschtraum aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00533",
+      "de_DE": [
+        "Wunschtraum von\n",
+        "{STRVAR_1 1, 0, 0} erfüllt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00534",
+      "de_DE": [
+        "Wunschtraum von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) erfüllt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00535",
+      "de_DE": [
+        "Wunschtraum von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) erfüllt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00536",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} pflanzt seine\n",
+        "Wurzeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00537",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) pflanzt seine\n",
+        "Wurzeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00538",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) pflanzt seine\n",
+        "Wurzeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00539",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt über\n",
+        "seine Wurzeln Nährstoffe auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00540",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) nimmt über\n",
+        "seine Wurzeln Nährstoffe auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00541",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) nimmt über\n",
+        "seine Wurzeln Nährstoffe auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00542",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "verankert sich mit seinen Wurzeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00543",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "verankert sich mit seinen Wurzeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00544",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "verankert sich mit seinen Wurzeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00545",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht\n",
+        "{STRVAR_1 1, 1, 0} schläfrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00546",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht\n",
+        "{STRVAR_1 1, 1, 0} (Wild) schläfrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00547",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) schläfrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00548",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) macht\n",
+        "{STRVAR_1 1, 1, 0} schläfrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00549",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) macht\n",
+        "{STRVAR_1 1, 1, 0} (Wild) schläfrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00550",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) macht\n",
+        "{STRVAR_1 1, 1, 0} schläfrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00551",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) macht\n",
+        "{STRVAR_1 1, 1, 0} (Gegner) schläfrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00552",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} entreißt {STRVAR_1 8, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00553",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} entreißt {STRVAR_1 8, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00554",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} entreißt {STRVAR_1 8, 2, 0}\n",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00555",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) entreißt\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00556",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) entreißt\n",
+        "{STRVAR_1 8, 2, 0} v. {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00557",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) entreißt\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00558",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) entreißt\n",
+        "{STRVAR_1 8, 2, 0} von\f",
+        "{STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00559",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tauscht\n",
+        "Fähigkeit mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00560",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) tauscht\n",
+        "Fähigkeit mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00561",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) tauscht\n",
+        "Fähigkeit mit dem Gegner!"
+      ]
+    },
+    {
+      "id": "msg_0197_00562",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versiegelt\n",
+        "die Attacke/n des Gegners!"
+      ]
+    },
+    {
+      "id": "msg_0197_00563",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) versiegelt\n",
+        "die Attacke/n des Gegners!"
+      ]
+    },
+    {
+      "id": "msg_0197_00564",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) versiegelt\n",
+        "die Attacke/n des Gegners!"
+      ]
+    },
+    {
+      "id": "msg_0197_00565",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} möchte, dass\n",
+        "der Gegner ein Nachspiel erträgt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00566",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) möchte, dass\n",
+        "der Gegner ein Nachspiel erträgt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00567",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) möchte, dass\n",
+        "der Gegner ein Nachspiel erträgt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00568",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0} hat\n",
+        "aufgrund von Nachspiel\f",
+        "alle AP verloren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00569",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "hat aufgrund von Nachspiel\f",
+        "alle AP verloren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00570",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) hat aufgrund\f",
+        "von Nachspiel alle AP verloren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00571",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verhüllt sich\n",
+        "selbst in Magiemantel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00572",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verhüllt sich\n",
+        "selbst in Magiemantel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00573",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verhüllt sich\n",
+        "selbst in Magiemantel!"
+      ]
+    },
+    {
+      "id": "msg_0197_00574",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "prallt am Magiemantel ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00575",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "prallt am Magiemantel ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00576",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) prallt am Magiemantel ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00577",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wartet auf\n",
+        "eine gegnerische Attacke!"
+      ]
+    },
+    {
+      "id": "msg_0197_00578",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wartet auf\n",
+        "eine gegnerische Attacke!"
+      ]
+    },
+    {
+      "id": "msg_0197_00579",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wartet auf\n",
+        "eine gegnerische Attacke!"
+      ]
+    },
+    {
+      "id": "msg_0197_00580",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} übernimmt\n",
+        "Attacke von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00581",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} übernimmt\n",
+        "Attacke von {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00582",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} übernimmt\n",
+        "Attacke von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00583",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) übernimmt\n",
+        "Attacke von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00584",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) übernahm\n",
+        "Attacke von {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00585",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) übernimmt\n",
+        "Attacke von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00586",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) übernimmt\n",
+        "Attacke von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00587",
+      "de_DE": [
+        "Die Stärke der Elektrizität\n",
+        "wurde geschwächt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00588",
+      "de_DE": [
+        "Die Stärke des Feuers\n",
+        "wurde geschwächt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00589",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat 1\n",
+        "{STRVAR_1 8, 1, 0} gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00590",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat 1\n",
+        "{STRVAR_1 8, 1, 0} gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00591",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat 1\n",
+        "{STRVAR_1 8, 1, 0} gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00592",
+      "de_DE": [
+        "Ein wohltuendes Aroma\n",
+        "breitet sich aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_00593",
+      "de_DE": [
+        "Hier können Items nicht eingesetzt\n",
+        "werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00594",
+      "de_DE": [
+        "Für {STRVAR_1 1, 1, 0} war\n",
+        "{STRVAR_1 8, 0, 0} {STRVAR_1 16, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00595",
+      "de_DE": [
+        "Für {STRVAR_1 1, 1, 0} (Wild) war\n",
+        "{STRVAR_1 8, 0, 0} {STRVAR_1 16, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00596",
+      "de_DE": [
+        "Für {STRVAR_1 1, 1, 0} (Gegner) war\n",
+        "{STRVAR_1 8, 0, 0} {STRVAR_1 16, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00597",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} setzt\n",
+        "{STRVAR_1 8, 1, 0} ein, um zu drängeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00598",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) setzt\n",
+        "{STRVAR_1 8, 1, 0} ein, um zu drängeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00599",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) setzt\n",
+        "{STRVAR_1 8, 1, 0} ein, um zu drängeln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00600",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat seinen Fokus verloren\n",
+        "und kann nicht angreifen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00601",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat seinen Fokus\n",
+        "verloren und kann nicht angreifen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00602",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat seinen Fokus\n",
+        "verloren und kann nicht angreifen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00603",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "ausgewählt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00604",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde\n",
+        "ausgewählt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00605",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde\n",
+        "ausgewählt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00606",
+      "de_DE": "Die Mauer brach zusammen!"
+    },
+    {
+      "id": "msg_0197_00607",
+      "de_DE": "Es ist wirkungslos!"
+    },
+    {
+      "id": "msg_0197_00608",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat keine\n",
+        "Attacken mehr übrig!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00609",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} ist blockiert!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00610",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) ist blockiert!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00611",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) ist blockiert!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00612",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann aufgrund von\n",
+        "Folterknecht die Attacke nicht 2-mal\f",
+        "hintereinander einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00613",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann {STRVAR_1 6, 1, 0} nach\n",
+        "Verhöhner nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00614",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann\n",
+        "{STRVAR_1 6, 1, 0} nach Verhöhner\f",
+        "nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00615",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann\n",
+        "{STRVAR_1 6, 1, 0} nach Verhöhner\f",
+        "nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00616",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann die versiegelte\n",
+        "Attacke {STRVAR_1 6, 1, 0}\f",
+        "nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00617",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann die\n",
+        "versiegelte Attacke {STRVAR_1 6, 1, 0}\f",
+        "nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00618",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann die\n",
+        "versiegelte Attacke {STRVAR_1 6, 1, 0}\f",
+        "nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00619",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "lässt es regnen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00620",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "lässt es regnen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00621",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) lässt es regnen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00622",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "erhöht {STRVAR_1 13, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00623",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "erhöht {STRVAR_1 13, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00624",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) erhöht {STRVAR_1 13, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00625",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch\n",
+        "{STRVAR_1 5, 1, 0} geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00626",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch\n",
+        "{STRVAR_1 5, 1, 0} geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00627",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch\n",
+        "{STRVAR_1 5, 1, 0} geschützt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00628",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "hindert {STRVAR_1 1, 2, 0} daran,\f",
+        "{STRVAR_1 6, 3, 0} einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00629",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "hindert {STRVAR_1 1, 2, 0} (Wild) daran,\f",
+        "{STRVAR_1 6, 3, 0} einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00630",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "hindert {STRVAR_1 1, 2, 0} (Gegner) daran,\f",
+        "{STRVAR_1 6, 3, 0} einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00631",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "hindert {STRVAR_1 1, 2, 0} daran,\f",
+        "{STRVAR_1 6, 3, 0} einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00632",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "hindert {STRVAR_1 1, 2, 0} (Wild) daran,\f",
+        "{STRVAR_1 6, 3, 0} einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00633",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) hindert {STRVAR_1 1, 2, 0} daran,\f",
+        "{STRVAR_1 6, 3, 0} einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00634",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) hindert\f",
+        "{STRVAR_1 1, 2, 0} (Gegner) daran,\f",
+        "{STRVAR_1 6, 3, 0} einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00635",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} füllt KP mit\n",
+        "Hilfe von {STRVAR_1 5, 1, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00636",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) füllt KP mit\n",
+        "Hilfe von {STRVAR_1 5, 1, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00637",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) füllt KP mit\n",
+        "Hilfe von {STRVAR_1 5, 1, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00638",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} hebt\n",
+        "die Wirkung von {STRVAR_1 6, 2, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00639",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "hebt die Wirkung von\f",
+        "{STRVAR_1 6, 2, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00640",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) hebt die\f",
+        "Wirkung von {STRVAR_1 6, 2, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00641",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} macht\n",
+        "es zu einem {STRVAR_1 15, 2, 0}-Typ!"
+      ]
+    },
+    {
+      "id": "msg_0197_00642",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "macht es zu einem {STRVAR_1 15, 2, 0}-Typ!"
+      ]
+    },
+    {
+      "id": "msg_0197_00643",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) macht\f",
+        "es zu einem {STRVAR_1 15, 2, 0}-Typ!"
+      ]
+    },
+    {
+      "id": "msg_0197_00644",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verhindert eine Paralyse!"
+      ]
+    },
+    {
+      "id": "msg_0197_00645",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verhindert eine Paralyse!"
+      ]
+    },
+    {
+      "id": "msg_0197_00646",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verhindert eine Paralyse!"
+      ]
+    },
+    {
+      "id": "msg_0197_00647",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verhindert eine Romanze!"
+      ]
+    },
+    {
+      "id": "msg_0197_00648",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verhindert eine Romanze!"
+      ]
+    },
+    {
+      "id": "msg_0197_00649",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verhindert eine Romanze!"
+      ]
+    },
+    {
+      "id": "msg_0197_00650",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verhindert eine Vergiftung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00651",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verhindert eine Vergiftung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00652",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verhindert eine Vergiftung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00653",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verhindert Verwirrung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00654",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verhindert Verwirrung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00655",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verhindert Verwirrung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00656",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} er-\n",
+        "höht die Kraft seiner Feuer-Attacken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00657",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "erhöht die Kraft seiner\f",
+        "Feuer-Attacken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00658",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) erhöht die Kraft seiner\f",
+        "Feuer-Attacken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00659",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verankert\n",
+        "sich mithilfe von {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00660",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verankert\n",
+        "sich mithilfe von {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00661",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verankert\n",
+        "sich mithilfe von {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00662",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "senkt {STRVAR_1 13, 3, 0} von {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00663",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "vermindert {STRVAR_1 13, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00664",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "vermindert {STRVAR_1 13, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00665",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "vermindert {STRVAR_1 13, 3, 0}\f",
+        "von {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00666",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "vermindert {STRVAR_1 13, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00667",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) vermindert {STRVAR_1 13, 3, 0}\f",
+        "von {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00668",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) vermindert {STRVAR_1 13, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00669",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verhindert Statuswertveränderungen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00670",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verhindert Statuswertveränderungen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00671",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verhindert\f",
+        "Statuswertveränderungen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00672",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verletzt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00673",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verletzt {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00674",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verletzt {STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00675",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verletzt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00676",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verletzt {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00677",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verletzt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00678",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verletzt\f",
+        "{STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00679",
+      "de_DE": [
+        "Fährte von {STRVAR_1 1, 0, 0} erkennt\n",
+        "{STRVAR_1 5, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00680",
+      "de_DE": [
+        "Fährte von {STRVAR_1 1, 0, 0} erkennt\n",
+        "{STRVAR_1 5, 2, 0} v. {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00681",
+      "de_DE": [
+        "Fährte von {STRVAR_1 1, 0, 0}\n",
+        "erkennt {STRVAR_1 5, 2, 0}\f",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00682",
+      "de_DE": [
+        "Fährte von {STRVAR_1 1, 0, 0} (Wild) erkennt\n",
+        "{STRVAR_1 5, 2, 0} von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00683",
+      "de_DE": [
+        "Fährte von {STRVAR_1 1, 0, 0} (Wild) erkennt\n",
+        "{STRVAR_1 5, 2, 0} v. {STRVAR_1 1, 1, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00684",
+      "de_DE": [
+        "Fährte von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "erkennt {STRVAR_1 5, 2, 0}\f",
+        "von {STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00685",
+      "de_DE": [
+        "Fährte von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "erkennt {STRVAR_1 5, 2, 0}\f",
+        "von {STRVAR_1 1, 1, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00686",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verhindert Verbrennung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00687",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verhindert Verbrennung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00688",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verhindert Verbrennung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00689",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "blockiert {STRVAR_1 6, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00690",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "blockiert {STRVAR_1 6, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00691",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) blockiert {STRVAR_1 6, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00692",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} füllt\n",
+        "einige KP auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00693",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "füllt einige KP auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00694",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) füllt einige KP auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00695",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "entfacht einen Sandsturm!"
+      ]
+    },
+    {
+      "id": "msg_0197_00696",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "entfacht einen Sandsturm!"
+      ]
+    },
+    {
+      "id": "msg_0197_00697",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) entfacht einen Sandsturm!"
+      ]
+    },
+    {
+      "id": "msg_0197_00698",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "intensiviert die Sonnenstrahlen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00699",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "intensiviert die Sonnenstrahlen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00700",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) intensiviert die\f",
+        "Sonnenstrahlen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00701",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "entfacht einen Hagelsturm!"
+      ]
+    },
+    {
+      "id": "msg_0197_00702",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "entfacht einen Hagelsturm!"
+      ]
+    },
+    {
+      "id": "msg_0197_00703",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) entfacht einen Hagelsturm!"
+      ]
+    },
+    {
+      "id": "msg_0197_00704",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} verhindert\f",
+        "den Verlust von {STRVAR_1 13, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00705",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) verhindert\f",
+        "den Verlust von {STRVAR_1 13, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00706",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) verhindert\f",
+        "den Verlust von {STRVAR_1 13, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00707",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} wegen {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00708",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} wegen {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00709",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} wegen {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00710",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} ist vernarrt in\n",
+        "{STRVAR_1 1, 0, 0} (Wild) wegen\f",
+        "{STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00711",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) ist vernarrt in\n",
+        "{STRVAR_1 1, 0, 0} (Wild) wegen\f",
+        "{STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00712",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} ist vernarrt in\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) wegen\f",
+        "{STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00713",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) ist vernarrt in\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) wegen\f",
+        "{STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00714",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} macht\n",
+        "{STRVAR_1 6, 2, 0} wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00715",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "macht {STRVAR_1 6, 2, 0} wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00716",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) macht {STRVAR_1 6, 2, 0}\f",
+        "wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00717",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} heilt\n",
+        "sein Problem mit {STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00718",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "heilt sein Problem mit {STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00719",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) heilt sein Problem\f",
+        "mit {STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00720",
+      "de_DE": [
+        "Es saugt\n",
+        "Kloakensoße auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00721",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "verwandelt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00722",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "verwandelt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00723",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "verwandelt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00724",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "übernimmt den Angriff!"
+      ]
+    },
+    {
+      "id": "msg_0197_00725",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "übernimmt den Angriff!"
+      ]
+    },
+    {
+      "id": "msg_0197_00726",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) übernimmt den Angriff!"
+      ]
+    },
+    {
+      "id": "msg_0197_00727",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} macht\n",
+        "{STRVAR_1 5, 3, 0} von {STRVAR_1 1, 2, 0}\f",
+        "wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00728",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} macht\n",
+        "{STRVAR_1 5, 3, 0} von {STRVAR_1 1, 2, 0} (Wild)\f",
+        "wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00729",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} macht\n",
+        "{STRVAR_1 5, 3, 0} von {STRVAR_1 1, 2, 0}\f",
+        "(Gegner) wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00730",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "macht {STRVAR_1 5, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00731",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "macht {STRVAR_1 5, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} (Wild) wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00732",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) macht {STRVAR_1 5, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00733",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) macht {STRVAR_1 5, 3, 0} von\f",
+        "{STRVAR_1 1, 2, 0} (Gegner) wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00734",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "macht es wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00735",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "macht es wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00736",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) macht es wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_00737",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verhindert ein Zurückschrecken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00738",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verhindert ein Zurückschrecken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00739",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verhindert ein\f",
+        "Zurückschrecken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00740",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} heilt\n",
+        "sein Problem mit {STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00741",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "heilt sein Problem mit {STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00742",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) heilt sein Problem mit\f",
+        "{STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00743",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} hat\f",
+        "keine Wirkung auf {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00744",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} hat\n",
+        "keine Wirkung auf {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00745",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} hat keine\f",
+        "Wirkung auf {STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00746",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "hat keine Wirkung auf {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00747",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) hat keine\f",
+        "Wirkung auf {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00748",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) hat keine\f",
+        "Wirkung auf {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00749",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) hat keine\f",
+        "Wirkung auf {STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_00750",
+      "de_DE": "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} steigt."
+    },
+    {
+      "id": "msg_0197_00751",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_00752",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_00753",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "steigt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00754",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "steigt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00755",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) steigt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00756",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0}: {STRVAR_1 13, 2, 0} von\n",
+        "{STRVAR_1 1, 0, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_00757",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0}: {STRVAR_1 13, 2, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_00758",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0}: {STRVAR_1 13, 2, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_00759",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0}: {STRVAR_1 13, 2, 0} von\n",
+        "{STRVAR_1 1, 0, 0} steigt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00760",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0}: {STRVAR_1 13, 2, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) steigt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00761",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0}: {STRVAR_1 13, 2, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) steigt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00762",
+      "de_DE": "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} sinkt."
+    },
+    {
+      "id": "msg_0197_00763",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "sinkt."
+      ]
+    },
+    {
+      "id": "msg_0197_00764",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) sinkt."
+      ]
+    },
+    {
+      "id": "msg_0197_00765",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} sinkt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00766",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) sinkt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00767",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) sinkt stark!"
+      ]
+    },
+    {
+      "id": "msg_0197_00768",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0}\n",
+        "kann nicht weiter erhöht werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00769",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "kann nicht weiter erhöht werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00770",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "kann nicht weiter erhöht werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00771",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0}\n",
+        "kann nicht weiter sinken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00772",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "kann nicht weiter sinken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00773",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "kann nicht weiter sinken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00774",
+      "de_DE": "Ein Volltreffer!"
+    },
+    {
+      "id": "msg_0197_00775",
+      "de_DE": "Ein K.O.-Treffer!"
+    },
+    {
+      "id": "msg_0197_00776",
+      "de_DE": "1, 2 und ... ...schwupp!"
+    },
+    {
+      "id": "msg_0197_00777",
+      "de_DE": "Und..."
+    },
+    {
+      "id": "msg_0197_00778",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0197_00779",
+      "de_DE": "Das ist nicht sehr effektiv..."
+    },
+    {
+      "id": "msg_0197_00780",
+      "de_DE": "Das ist sehr effektiv!"
+    },
+    {
+      "id": "msg_0197_00781",
+      "de_DE": "Du bist entkommen!\r"
+    },
+    {
+      "id": "msg_0197_00782",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} flieht\n",
+        "durch Einsatz von {STRVAR_1 8, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00783",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} flieht\n",
+        "durch Einsatz von {STRVAR_1 5, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00784",
+      "de_DE": "Wildes {STRVAR_1 1, 0, 0} ist geflohen!"
+    },
+    {
+      "id": "msg_0197_00785",
+      "de_DE": [
+        "Spieler besiegt\n",
+        "{STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00786",
+      "de_DE": [
+        "Spieler besiegt\n",
+        "{STRVAR_1 3, 1, 0} und {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00787",
+      "de_DE": [
+        "Spieler verliert gegen\n",
+        "{STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00788",
+      "de_DE": [
+        "Spieler verliert gegen\n",
+        "{STRVAR_1 3, 1, 0} und {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00789",
+      "de_DE": [
+        "Patt zwischen Spieler und\n",
+        "{STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00790",
+      "de_DE": [
+        "Patt zwischen Spieler, {STRVAR_1 3, 1, 0}\n",
+        "und {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00791",
+      "de_DE": "{STRVAR_1 3, 0, 0} flieht!"
+    },
+    {
+      "id": "msg_0197_00792",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} fliehen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00793",
+      "de_DE": [
+        "Du kannst aus Trainer-Kämpfen\n",
+        "nicht fliehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00794",
+      "de_DE": "Flucht unmöglich!\r"
+    },
+    {
+      "id": "msg_0197_00795",
+      "de_DE": "Nichts geschieht!"
+    },
+    {
+      "id": "msg_0197_00796",
+      "de_DE": "Es ist fehlgeschlagen!"
+    },
+    {
+      "id": "msg_0197_00797",
+      "de_DE": [
+        "Es hat sich vor Verwirrung\n",
+        "selbst verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00798",
+      "de_DE": "Der Spiegeltrick schlug fehl!"
+    },
+    {
+      "id": "msg_0197_00799",
+      "de_DE": "Es fängt an zu regnen!"
+    },
+    {
+      "id": "msg_0197_00800",
+      "de_DE": "Ein Wolkenbruch!"
+    },
+    {
+      "id": "msg_0197_00801",
+      "de_DE": "Es regnet weiter."
+    },
+    {
+      "id": "msg_0197_00802",
+      "de_DE": "Der Wolkenbruch hält an."
+    },
+    {
+      "id": "msg_0197_00803",
+      "de_DE": "Es hat aufgehört zu regnen."
+    },
+    {
+      "id": "msg_0197_00804",
+      "de_DE": "Ein Sandsturm kommt auf!"
+    },
+    {
+      "id": "msg_0197_00805",
+      "de_DE": "Der Sandsturm tobt."
+    },
+    {
+      "id": "msg_0197_00806",
+      "de_DE": "Der Sandsturm legt sich."
+    },
+    {
+      "id": "msg_0197_00807",
+      "de_DE": "Das Sonnenlicht wird stärker!"
+    },
+    {
+      "id": "msg_0197_00808",
+      "de_DE": "Gleißendes Sonnenlicht!"
+    },
+    {
+      "id": "msg_0197_00809",
+      "de_DE": "Das Sonnenlicht lässt nach!"
+    },
+    {
+      "id": "msg_0197_00810",
+      "de_DE": "Es fängt an zu hageln!"
+    },
+    {
+      "id": "msg_0197_00811",
+      "de_DE": "Es hagelt!"
+    },
+    {
+      "id": "msg_0197_00812",
+      "de_DE": "Es hat aufgehört zu hageln."
+    },
+    {
+      "id": "msg_0197_00813",
+      "de_DE": "Es herrscht dichter Nebel..."
+    },
+    {
+      "id": "msg_0197_00814",
+      "de_DE": [
+        "Aber es konnte nichts\n",
+        "entfesseln!"
+      ]
+    },
+    {
+      "id": "msg_0197_00815",
+      "de_DE": [
+        "Aber es konnte nichts\n",
+        "verzehren!"
+      ]
+    },
+    {
+      "id": "msg_0197_00816",
+      "de_DE": [
+        "Der Wind wurde zu einer\n",
+        "Hitzewelle!"
+      ]
+    },
+    {
+      "id": "msg_0197_00817",
+      "de_DE": [
+        "Alle Statusveränderungen wurden\n",
+        "entfernt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00818",
+      "de_DE": "Es sind überall Münzen verstreut!"
+    },
+    {
+      "id": "msg_0197_00819",
+      "de_DE": [
+        "Zu schwach, um einen Delegator\n",
+        "einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00820",
+      "de_DE": [
+        "Die Kontrahenten teilen\n",
+        "ihr Leid!"
+      ]
+    },
+    {
+      "id": "msg_0197_00821",
+      "de_DE": "Eine Glocke läutet!"
+    },
+    {
+      "id": "msg_0197_00822",
+      "de_DE": [
+        "Alle betroffenen Pokémon werden\n",
+        "in 3 Runden K.O. gehen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00823",
+      "de_DE": [
+        "Es sind keine AP mehr für\n",
+        "diese Attacke übrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00824",
+      "de_DE": [
+        "Aber es waren keine AP mehr\n",
+        "für diese Attacke übrig!"
+      ]
+    },
+    {
+      "id": "msg_0197_00825",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ignoriert die\n",
+        "Befehle. Es schläft!"
+      ]
+    },
+    {
+      "id": "msg_0197_00826",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ignoriert den\n",
+        "Befehl!"
+      ]
+    },
+    {
+      "id": "msg_0197_00827",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht\n",
+        "ein Nickerchen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00828",
+      "de_DE": "{STRVAR_1 1, 0, 0} faulenzt!"
+    },
+    {
+      "id": "msg_0197_00829",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist\n",
+        "ungehorsam!"
+      ]
+    },
+    {
+      "id": "msg_0197_00830",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wendet\n",
+        "sich ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_00831",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt vor,\n",
+        "nichts zu bemerken!"
+      ]
+    },
+    {
+      "id": "msg_0197_00832",
+      "de_DE": "{STRVAR_1 1, 0, 0} faulenzt!"
+    },
+    {
+      "id": "msg_0197_00833",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) faulenzt!"
+    },
+    {
+      "id": "msg_0197_00834",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Gegner) faulenzt!"
+    },
+    {
+      "id": "msg_0197_00835",
+      "de_DE": [
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} setzt als\n",
+        "Nächstes {STRVAR_1 1, 2, 0} ein.\f",
+        "Möchtest du dein Pokémon wechseln?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_00836",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernt\n",
+        "{STRVAR_1 6, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00837",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erlernt\n",
+        "{STRVAR_1 6, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00838",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erlernt\n",
+        "{STRVAR_1 6, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00839",
+      "de_DE": [
+        "Spieler besiegt\n",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00840",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schleicht sich näher an\n",
+        "{STRVAR_1 1, 1, 0} heran!"
+      ]
+    },
+    {
+      "id": "msg_0197_00841",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} kann nicht näher\n",
+        "herangehen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00842",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} beobachtet\n",
+        "alles aufmerksam!"
+      ]
+    },
+    {
+      "id": "msg_0197_00843",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0197_00844",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0197_00845",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0197_00846",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wirft {STRVAR_1 1, 1, 0} einen\n",
+        "Knursp zu!"
+      ]
+    },
+    {
+      "id": "msg_0197_00847",
+      "de_DE": [
+        "Ansage: Du hast keine\n",
+        "Safaribälle mehr!\f",
+        "Game over!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00848",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} setzt\n",
+        "Safariball ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00849",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} beobachtet\n",
+        "alles aufmerksam!"
+      ]
+    },
+    {
+      "id": "msg_0197_00850",
+      "de_DE": [
+        "Du hast keine Safaribälle mehr!\n",
+        "Game over!"
+      ]
+    },
+    {
+      "id": "msg_0197_00851",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wirft einen Köder\n",
+        "für {STRVAR_1 0, 1, 0} aus."
+      ]
+    },
+    {
+      "id": "msg_0197_00852",
+      "de_DE": "{STRVAR_1 0, 0, 0} frisst!"
+    },
+    {
+      "id": "msg_0197_00853",
+      "de_DE": "{STRVAR_1 0, 0, 0} frisst konzentriert!"
+    },
+    {
+      "id": "msg_0197_00854",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wirft Matsch auf\n",
+        "das {STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00855",
+      "de_DE": "{STRVAR_1 0, 0, 0} ist wütend!"
+    },
+    {
+      "id": "msg_0197_00856",
+      "de_DE": "{STRVAR_1 0, 0, 0} ist außer sich vor Wut!"
+    },
+    {
+      "id": "msg_0197_00857",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} setzt\n",
+        "{STRVAR_1 8, 1, 0} ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00858",
+      "de_DE": [
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} setzt\n",
+        "{STRVAR_1 8, 2, 0} ein!"
+      ]
+    },
+    {
+      "id": "msg_0197_00859",
+      "de_DE": [
+        "Der Trainer hat den Ball\n",
+        "abgeblockt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00860",
+      "de_DE": "Sei kein Dieb!"
+    },
+    {
+      "id": "msg_0197_00861",
+      "de_DE": [
+        "Es ist dem Ball ausgewichen! Dieses\n",
+        "Pokémon kann nicht gefangen werden!"
+      ]
+    },
+    {
+      "id": "msg_0197_00862",
+      "de_DE": "Du hast das Pokémon verfehlt!"
+    },
+    {
+      "id": "msg_0197_00863",
+      "de_DE": [
+        "Mist!\n",
+        "Das Pokémon hat sich befreit!"
+      ]
+    },
+    {
+      "id": "msg_0197_00864",
+      "de_DE": [
+        "Oh!\n",
+        "Fast hätte es geklappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00865",
+      "de_DE": [
+        "Mist!\n",
+        "Das war knapp!"
+      ]
+    },
+    {
+      "id": "msg_0197_00866",
+      "de_DE": [
+        "Verflixt!\n",
+        "Es hätte beinahe geklappt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00867",
+      "de_DE": [
+        "{WAIT 3}Klasse!\n",
+        "{STRVAR_1 1, 0, 0} wurde gefangen! {WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00868",
+      "de_DE": [
+        "Möchtest du dem {STRVAR_1 1, 0, 0}\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_00869",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde auf\n",
+        "einen PC übertragen."
+      ]
+    },
+    {
+      "id": "msg_0197_00870",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde auf Bills PC\n",
+        "übertragen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00871",
+      "de_DE": [
+        "Für {STRVAR_1 1, 0, 0} wurde ein Eintrag\n",
+        "im Pokédex angelegt.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00872",
+      "de_DE": "Es regnet."
+    },
+    {
+      "id": "msg_0197_00873",
+      "de_DE": "Ein Sandsturm tobt."
+    },
+    {
+      "id": "msg_0197_00874",
+      "de_DE": [
+        "Du kannst keine weiteren Pokémon\n",
+        "fangen. Alle Boxen im PC sind voll.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00875",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "heilte die Paralyse!"
+      ]
+    },
+    {
+      "id": "msg_0197_00876",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "heilte die Paralyse!"
+      ]
+    },
+    {
+      "id": "msg_0197_00877",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) heilte die Paralyse!"
+      ]
+    },
+    {
+      "id": "msg_0197_00878",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "heilte die Vergiftung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00879",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "heilte die Vergiftung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00880",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) heilte die Vergiftung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00881",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "heilte die Verbrennung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00882",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "heilte die Verbrennung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00883",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) heilte die Verbrennung!"
+      ]
+    },
+    {
+      "id": "msg_0197_00884",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} taute es auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00885",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) taute es auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00886",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) taute es auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00887",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "weckte es auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00888",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "weckte es auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00889",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) weckte es auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00890",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "hob die Verwirrung auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00891",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "hob die Verwirrung auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00892",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) hob die Verwirrung auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00893",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} heilt\n",
+        "sein Problem mit {STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00894",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "heilt sein Problem mit {STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00895",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) heilt sein Problem mit\f",
+        "{STRVAR_1 17, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00896",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "normalisierte seinen Status!"
+      ]
+    },
+    {
+      "id": "msg_0197_00897",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "normalisierte seinen Status!"
+      ]
+    },
+    {
+      "id": "msg_0197_00898",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) normalisierte seinen\f",
+        "Status!"
+      ]
+    },
+    {
+      "id": "msg_0197_00899",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} füllte\n",
+        "KP von {STRVAR_1 1, 0, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00900",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} füllte\n",
+        "KP von {STRVAR_1 1, 0, 0} (Wild) auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00901",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} füllte\n",
+        "KP von {STRVAR_1 1, 0, 0} (Gegner) auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00902",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} füllte\n",
+        "AP von {STRVAR_1 6, 2, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00903",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "füllte AP von {STRVAR_1 6, 2, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00904",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) füllte AP von\f",
+        "{STRVAR_1 6, 2, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00905",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "stellte seine Statuswerte wieder her!"
+      ]
+    },
+    {
+      "id": "msg_0197_00906",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "stellte seine Statuswerte wieder her!"
+      ]
+    },
+    {
+      "id": "msg_0197_00907",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) stellte seine Statuswerte\f",
+        "wieder her!"
+      ]
+    },
+    {
+      "id": "msg_0197_00908",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "füllte einige KP auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00909",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "füllte einige KP auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00910",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) füllte einige KP auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00911",
+      "de_DE": [
+        "{STRVAR_1 8, 0, 0} erlaubt\n",
+        "nur den Einsatz von {STRVAR_1 6, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00912",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hielt mithilfe von\n",
+        "{STRVAR_1 8, 1, 0} durch!"
+      ]
+    },
+    {
+      "id": "msg_0197_00913",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hielt\n",
+        "mithilfe von {STRVAR_1 8, 1, 0} durch!"
+      ]
+    },
+    {
+      "id": "msg_0197_00914",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hielt\n",
+        "mithilfe von {STRVAR_1 8, 1, 0} durch!"
+      ]
+    },
+    {
+      "id": "msg_0197_00915",
+      "de_DE": [
+        "Hey?\n",
+        "{STRVAR_1 1, 0, 0} entwickelt sich!"
+      ]
+    },
+    {
+      "id": "msg_0197_00916",
+      "de_DE": "Hey?\r"
+    },
+    {
+      "id": "msg_0197_00917",
+      "de_DE": "{STRVAR_1 1, 0, 0} entwickelt sich!"
+    },
+    {
+      "id": "msg_0197_00918",
+      "de_DE": [
+        "{WAIT 3}Glückwunsch! Dein {STRVAR_1 1, 0, 0}\n",
+        "wurde zu {STRVAR_1 1, 1, 0}!{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00919",
+      "de_DE": [
+        "Hm? Die Entwicklung\n",
+        "wurde abgebrochen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00920",
+      "de_DE": "?\r"
+    },
+    {
+      "id": "msg_0197_00921",
+      "de_DE": "Was soll {STRVAR_1 1, 0, 0} tun? {YESNO 0}"
+    },
+    {
+      "id": "msg_0197_00922",
+      "de_DE": "Was wird {STRVAR_1 3, 0, 0} werfen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0197_00923",
+      "de_DE": [
+        "Verbindung wird hergestellt.\n",
+        "Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0197_00924",
+      "de_DE": "KAMPF"
+    },
+    {
+      "id": "msg_0197_00925",
+      "de_DE": "BEUTEL"
+    },
+    {
+      "id": "msg_0197_00926",
+      "de_DE": "POKéMON"
+    },
+    {
+      "id": "msg_0197_00927",
+      "de_DE": "FLUCHT"
+    },
+    {
+      "id": "msg_0197_00928",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0197_00929",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0197_00930",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0197_00931",
+      "de_DE": "BALL"
+    },
+    {
+      "id": "msg_0197_00932",
+      "de_DE": "KÖDER"
+    },
+    {
+      "id": "msg_0197_00933",
+      "de_DE": "MATSCH"
+    },
+    {
+      "id": "msg_0197_00934",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0197_00935",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0197_00936",
+      "de_DE": "FLUCHT"
+    },
+    {
+      "id": "msg_0197_00937",
+      "de_DE": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}"
+    },
+    {
+      "id": "msg_0197_00938",
+      "de_DE": "AP"
+    },
+    {
+      "id": "msg_0197_00939",
+      "de_DE": [
+        "Welche Attacke soll vergessen\n",
+        "werden?"
+      ]
+    },
+    {
+      "id": "msg_0197_00940",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0197_00941",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0197_00942",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0197_00943",
+      "de_DE": "Kampf aufgeben? {YESNO 0}"
+    },
+    {
+      "id": "msg_0197_00944",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}{COLOR 1}♂{COLOR 0}\n",
+        "Lv. {STRVAR_1 52, 1, 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_00945",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}{COLOR 2}♀{COLOR 0}\n",
+        "Lv. {STRVAR_1 52, 1, 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_00946",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "Lv. {STRVAR_1 52, 1, 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_00947",
+      "de_DE": "{STRVAR_1 13, 0, 0}"
+    },
+    {
+      "id": "msg_0197_00948",
+      "de_DE": "+{STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0197_00949",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0197_00950",
+      "de_DE": "SAFARIBÄLLE"
+    },
+    {
+      "id": "msg_0197_00951",
+      "de_DE": "Vorrat: {STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0197_00952",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0197_00953",
+      "de_DE": [
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\n",
+        "und {STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0}\f",
+        "sind besiegt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00954",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0197_00955",
+      "de_DE": [
+        "Möchtest du den Kampf jetzt\n",
+        "aufgeben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_00956",
+      "de_DE": "{STRVAR_1 3, 0, 0} gibt den Kampf auf!"
+    },
+    {
+      "id": "msg_0197_00957",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0197_00958",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0197_00959",
+      "de_DE": "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} flieht!"
+    },
+    {
+      "id": "msg_0197_00960",
+      "de_DE": [
+        "Spieler verliert gegen\n",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00961",
+      "de_DE": [
+        "Patt zwischen Spieler und\n",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00962",
+      "de_DE": "{STRVAR_1 1, 0, 0}{COLOR 3}♂{COLOR 0}"
+    },
+    {
+      "id": "msg_0197_00963",
+      "de_DE": "{STRVAR_1 1, 0, 0}{COLOR 4}♀{COLOR 0}"
+    },
+    {
+      "id": "msg_0197_00964",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0197_00965",
+      "de_DE": "Ein wildes {STRVAR_1 1, 0, 0} erscheint!\r"
+    },
+    {
+      "id": "msg_0197_00966",
+      "de_DE": "Ein wildes {STRVAR_1 1, 0, 0} erscheint!\r"
+    },
+    {
+      "id": "msg_0197_00967",
+      "de_DE": [
+        "Ein wildes {STRVAR_1 1, 1, 0} und\n",
+        "ein wildes {STRVAR_1 1, 0, 0} erscheinen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00968",
+      "de_DE": [
+        "In dem mit Honig bestrichenen Baum\n",
+        "befand sich ein {STRVAR_1 1, 0, 0} (Wild)!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00969",
+      "de_DE": [
+        "Eine Herausforderung von\n",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00970",
+      "de_DE": [
+        "Eine Herausforderung von\n",
+        "{STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00971",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} und {STRVAR_1 3, 1, 0}\n",
+        "möchten kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00972",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} wird von\n",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} in den\f",
+        "Kampf geschickt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00973",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} und {STRVAR_1 1, 3, 0}\n",
+        "werden von\f",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\f",
+        "in den Kampf geschickt!"
+      ]
+    },
+    {
+      "id": "msg_0197_00974",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schickt\n",
+        "{STRVAR_1 1, 1, 0} in den Kampf!"
+      ]
+    },
+    {
+      "id": "msg_0197_00975",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schickt\n",
+        "{STRVAR_1 1, 1, 0} und {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00976",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schickt\n",
+        "{STRVAR_1 1, 1, 0}!\f",
+        "{STRVAR_1 3, 2, 0} schickt\f",
+        "{STRVAR_1 1, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00977",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schickt\n",
+        "{STRVAR_1 1, 1, 0}! Los! {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00978",
+      "de_DE": [
+        "Los! {STRVAR_1 1, 0, 0} und\n",
+        "{STRVAR_1 1, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00979",
+      "de_DE": "Los! {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "id": "msg_0197_00980",
+      "de_DE": "Du schaffst es! {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "id": "msg_0197_00981",
+      "de_DE": "Streng dich an, {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "id": "msg_0197_00982",
+      "de_DE": [
+        "Mach es fertig!\n",
+        "Los, {STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00983",
+      "de_DE": [
+        "Nur noch ein bisschen!\n",
+        "Halte durch, {STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00984",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}!\n",
+        "Komm zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_00985",
+      "de_DE": "{STRVAR_1 1, 0, 0}, komm zurück!"
+    },
+    {
+      "id": "msg_0197_00986",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}, es ist gut!\n",
+        "Komm zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_00987",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}, das reicht!\n",
+        "Komm zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_00988",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}, gut!\n",
+        "Komm zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_00989",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} wurde\n",
+        "von {STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\f",
+        "zurückgerufen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00990",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} ruft\n",
+        "{STRVAR_1 1, 1, 0} zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_00991",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} wird von\n",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} in den\f",
+        "Kampf geschickt!\r",
+        "{STRVAR_1 1, 5, 0} wird von\n",
+        "{STRVAR_1 14, 3, 0} {STRVAR_1 3, 4, 0} in den\f",
+        "Kampf geschickt!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00992",
+      "de_DE": [
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0}\n",
+        "und {STRVAR_1 14, 2, 0} {STRVAR_1 3, 3, 0}\f",
+        "möchten kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_00993",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} wird von\n",
+        "{STRVAR_1 14, 0, 0} {STRVAR_1 3, 1, 0} in den\f",
+        "Kampf geschickt! Los! {STRVAR_1 1, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_00994",
+      "de_DE": [
+        "Der gehortete Effekt von\n",
+        "{STRVAR_1 1, 0, 0} lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00995",
+      "de_DE": [
+        "Der gehortete Effekt von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00996",
+      "de_DE": [
+        "Der gehortete Effekt von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_00997",
+      "de_DE": "Erdanziehung wurde verstärkt!"
+    },
+    {
+      "id": "msg_0197_00998",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann aufgrund von\n",
+        "Erdanziehung nicht länger fliegen!"
+      ]
+    },
+    {
+      "id": "msg_0197_00999",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann aufgrund\n",
+        "von Erdanziehung nicht länger fliegen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01000",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann aufgrund\n",
+        "von Erdanziehung nicht länger fliegen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01001",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann {STRVAR_1 6, 1, 0}\n",
+        "aufgrund von Erdanziehung\f",
+        "nicht einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01002",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann\n",
+        "{STRVAR_1 6, 1, 0} aufgrund von\f",
+        "Erdanziehung nicht einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01003",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann\n",
+        "{STRVAR_1 6, 1, 0} aufgrund von\f",
+        "Erdanziehung nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01004",
+      "de_DE": "Die Erdanziehung wurde wieder normal!"
+    },
+    {
+      "id": "msg_0197_01005",
+      "de_DE": "Das Heilopfer war nicht umsonst!"
+    },
+    {
+      "id": "msg_0197_01006",
+      "de_DE": [
+        "Es wird in mysteriöses Mondlicht\n",
+        "getaucht."
+      ]
+    },
+    {
+      "id": "msg_0197_01007",
+      "de_DE": "Es herrscht Rückenwind!"
+    },
+    {
+      "id": "msg_0197_01008",
+      "de_DE": "Rückenwind weht!"
+    },
+    {
+      "id": "msg_0197_01009",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tauschte Angriff und\n",
+        "Verteidigung!"
+      ]
+    },
+    {
+      "id": "msg_0197_01010",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) tauschte Angriff\n",
+        "und Verteidigung!"
+      ]
+    },
+    {
+      "id": "msg_0197_01011",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) tauschte Angriff\n",
+        "und Verteidigung!"
+      ]
+    },
+    {
+      "id": "msg_0197_01012",
+      "de_DE": [
+        "Die Fähigkeit von {STRVAR_1 1, 0, 0}\n",
+        "wurde unterdrückt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01013",
+      "de_DE": [
+        "Die Fähigkeit von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "wurde unterdrückt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01014",
+      "de_DE": [
+        "Die Fähigkeit von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wurde unterdrückt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01015",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tauschte alle\n",
+        "Veränderungen seines Angriffs und\f",
+        "Spezial-Angriffs mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01016",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) tauschte alle\n",
+        "Veränderungen seines Angriffs und\f",
+        "Spezial-Angriffs mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01017",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) tauschte alle\n",
+        "Veränderungen seines Angriffs und\f",
+        "Spezial-Angriffs mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01018",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tauschte alle\n",
+        "Veränderungen seiner Verteidigung und\f",
+        "Spezial-Verteidigung mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01019",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) tauschte alle\n",
+        "Veränderungen seiner Verteidigung und\f",
+        "Spezial-Verteidigung mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01020",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) tauschte alle\n",
+        "Veränderungen seiner Verteidigung und\f",
+        "Spezial-Verteidigung mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01021",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhielt die Fähigkeit\n",
+        "{STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01022",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) erhielt die\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01023",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) erhielt die\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01024",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tauschte die Status-\n",
+        "werteveränderungen mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01025",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) tauschte die\n",
+        "Statuswerteveränderungen mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01026",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) tauschte die\n",
+        "Statuswerteveränderungen mit dem Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0197_01027",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} umgibt sich mit einem\n",
+        "Wasserring!"
+      ]
+    },
+    {
+      "id": "msg_0197_01028",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) umgibt sich mit\n",
+        "einem Wasserring!"
+      ]
+    },
+    {
+      "id": "msg_0197_01029",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) umgibt sich mit\n",
+        "einem Wasserring!"
+      ]
+    },
+    {
+      "id": "msg_0197_01030",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} stellt KP von\n",
+        "{STRVAR_1 1, 0, 0} wieder her!"
+      ]
+    },
+    {
+      "id": "msg_0197_01031",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} stellt KP von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) wieder her!"
+      ]
+    },
+    {
+      "id": "msg_0197_01032",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} stellt KP von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) wieder her!"
+      ]
+    },
+    {
+      "id": "msg_0197_01033",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schwebt aufgrund\n",
+        "von Elektromagnetismus!"
+      ]
+    },
+    {
+      "id": "msg_0197_01034",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) schwebt aufgrund\n",
+        "von Elektromagnetismus!"
+      ]
+    },
+    {
+      "id": "msg_0197_01035",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) schwebt\n",
+        "aufgrund von Elektromagnetismus!"
+      ]
+    },
+    {
+      "id": "msg_0197_01036",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wehrt Boden-\n",
+        "Attacken mit {STRVAR_1 6, 1, 0} ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_01037",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wehrt Boden-\n",
+        "Attacken mit {STRVAR_1 6, 1, 0} ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_01038",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wehrt Boden-\n",
+        "Attacken mit {STRVAR_1 6, 1, 0} ab!"
+      ]
+    },
+    {
+      "id": "msg_0197_01039",
+      "de_DE": [
+        "Der Elektromagnetismus von\n",
+        "{STRVAR_1 1, 0, 0} lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01040",
+      "de_DE": [
+        "Der Elektromagnetismus von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01041",
+      "de_DE": [
+        "Der Elektromagnetismus von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01042",
+      "de_DE": "{STRVAR_1 1, 0, 0} blies {STRVAR_1 6, 1, 0} weg!"
+    },
+    {
+      "id": "msg_0197_01043",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) blies\n",
+        "{STRVAR_1 6, 1, 0} weg!"
+      ]
+    },
+    {
+      "id": "msg_0197_01044",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) blies\n",
+        "{STRVAR_1 6, 1, 0} weg!"
+      ]
+    },
+    {
+      "id": "msg_0197_01045",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} blies den dichten Nebel\n",
+        "mit {STRVAR_1 6, 1, 0} fort!"
+      ]
+    },
+    {
+      "id": "msg_0197_01046",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) blies den dichten\n",
+        "Nebel mit {STRVAR_1 6, 1, 0} fort!"
+      ]
+    },
+    {
+      "id": "msg_0197_01047",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) blies den dichten\n",
+        "Nebel mit {STRVAR_1 6, 1, 0} fort!"
+      ]
+    },
+    {
+      "id": "msg_0197_01048",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist auf die\n",
+        "Offenlegung hereingefallen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01049",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) ist auf die\n",
+        "Offenlegung hereingefallen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01050",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) ist auf die\n",
+        "Offenlegung hereingefallen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01051",
+      "de_DE": [
+        "Heilung von {STRVAR_1 1, 0, 0} wurde\n",
+        "verhindert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01052",
+      "de_DE": [
+        "Heilung von {STRVAR_1 1, 0, 0} (Wild) wurde\n",
+        "verhindert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01053",
+      "de_DE": [
+        "Heilung von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wurde verhindert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01054",
+      "de_DE": [
+        "Heilung von {STRVAR_1 1, 0, 0} \n",
+        "wurde durch {STRVAR_1 6, 1, 0} blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01055",
+      "de_DE": [
+        "Heilung von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "wurde durch {STRVAR_1 6, 1, 0} blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01056",
+      "de_DE": [
+        "Heilung von {STRVAR_1 1, 0, 0} (Gegner)\n",
+        "wurde durch {STRVAR_1 6, 1, 0} blockiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01057",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann {STRVAR_1 6, 2, 0}\n",
+        "aufgrund von {STRVAR_1 6, 1, 0}\f",
+        "nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01058",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann\n",
+        "{STRVAR_1 6, 2, 0} aufgrund von\f",
+        "{STRVAR_1 6, 1, 0} nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01059",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann\n",
+        "{STRVAR_1 6, 2, 0} aufgrund von\f",
+        "{STRVAR_1 6, 1, 0} nicht einsetzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01060",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01061",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Wild) lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01062",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01063",
+      "de_DE": [
+        "Um dein Team herum liegen überall\n",
+        "giftige Stacheln!"
+      ]
+    },
+    {
+      "id": "msg_0197_01064",
+      "de_DE": [
+        "Um das gegnerische Team herum\n",
+        "liegen überall giftige Stacheln!"
+      ]
+    },
+    {
+      "id": "msg_0197_01065",
+      "de_DE": [
+        "Die giftigen Stacheln, die um dein Team\n",
+        "herum lagen, sind verschwunden!"
+      ]
+    },
+    {
+      "id": "msg_0197_01066",
+      "de_DE": [
+        "Die giftigen Stacheln, die um das gegn.\n",
+        "Team herum lagen, sind verschwunden!"
+      ]
+    },
+    {
+      "id": "msg_0197_01067",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kommt zu\n",
+        "{STRVAR_1 3, 1, 0} zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_01068",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kommt zu\n",
+        "{STRVAR_1 3, 1, 0} zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_01069",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kommt zu\n",
+        "{STRVAR_1 3, 1, 0} zurück!"
+      ]
+    },
+    {
+      "id": "msg_0197_01070",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat die\n",
+        "Dimensionen verdreht!"
+      ]
+    },
+    {
+      "id": "msg_0197_01071",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat die\n",
+        "Dimensionen verdreht!"
+      ]
+    },
+    {
+      "id": "msg_0197_01072",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat die\n",
+        "Dimensionen verdreht!"
+      ]
+    },
+    {
+      "id": "msg_0197_01073",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat die\n",
+        "Dimension wieder normalisiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01074",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat die\n",
+        "Dimension wieder normalisiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01075",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat die\n",
+        "Dimension wieder normalisiert!"
+      ]
+    },
+    {
+      "id": "msg_0197_01076",
+      "de_DE": [
+        "Die verdrehte Dimension ist\n",
+        "wieder normal!"
+      ]
+    },
+    {
+      "id": "msg_0197_01077",
+      "de_DE": [
+        "Um dein Team herum schweben\n",
+        "spitze Steine!"
+      ]
+    },
+    {
+      "id": "msg_0197_01078",
+      "de_DE": [
+        "Um das gegnerische Team herum\n",
+        "schweben spitze Steine!"
+      ]
+    },
+    {
+      "id": "msg_0197_01079",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird von spitzen\n",
+        "Steinen getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01080",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird von spitzen\n",
+        "Steinen getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01081",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird von\n",
+        "spitzen Steinen getroffen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01082",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verschwand\n",
+        "augenblicklich!"
+      ]
+    },
+    {
+      "id": "msg_0197_01083",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verschwand\n",
+        "augenblicklich!"
+      ]
+    },
+    {
+      "id": "msg_0197_01084",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verschwand\n",
+        "augenblicklich!"
+      ]
+    },
+    {
+      "id": "msg_0197_01085",
+      "de_DE": [
+        "Beschwörung deines Teams\n",
+        "lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01086",
+      "de_DE": [
+        "Beschwörung des gegnerischen\n",
+        "Teams lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01087",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} besitzt die Fähigkeit\n",
+        "{STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01088",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) besitzt die\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01089",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) besitzt die\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01090",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch seine\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01091",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch seine\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01092",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch\n",
+        "seine Fähigk. {STRVAR_1 5, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01093",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} maximiert\n",
+        "{STRVAR_1 13, 2, 0} mit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01094",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) maximiert\n",
+        "{STRVAR_1 13, 2, 0} mit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01095",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) maximiert\n",
+        "{STRVAR_1 13, 2, 0} mit {STRVAR_1 5, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01096",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat KP aufgrund der\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0} verloren!"
+      ]
+    },
+    {
+      "id": "msg_0197_01097",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat KP aufgrund\n",
+        "der Fähigkeit {STRVAR_1 5, 1, 0} verloren!"
+      ]
+    },
+    {
+      "id": "msg_0197_01098",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat KP aufgrund\n",
+        "der Fähigkeit {STRVAR_1 5, 1, 0} verloren!"
+      ]
+    },
+    {
+      "id": "msg_0197_01099",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verletzt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01100",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verletzt {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01101",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "verletzt {STRVAR_1 1, 2, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01102",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verletzt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01103",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "verletzt {STRVAR_1 1, 2, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01104",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) verletzt {STRVAR_1 1, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01105",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Geg.) verletzt {STRVAR_1 1, 2, 0} (Geg.)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01106",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} erschaudert aufgrund\n",
+        "der Fähigkeit {STRVAR_1 5, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01107",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Wild) erschaudert\n",
+        "aufgrund d. Fähigkeit {STRVAR_1 5, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01108",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} (Gegner) erschaudert\n",
+        "aufgrund d. Fähigkeit {STRVAR_1 5, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01109",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}:\n",
+        "Konzentration auf {STRVAR_1 6, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01110",
+      "de_DE": [
+        "Vorwarnung von {STRVAR_1 1, 0, 0} (Wild):\n",
+        "Konzentration auf {STRVAR_1 6, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01111",
+      "de_DE": [
+        "Vorwarnung von {STRVAR_1 1, 0, 0} (Gegner):\n",
+        "Konzentration auf {STRVAR_1 6, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01112",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kommt aufgrund seiner\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0} nicht in\f",
+        "Fahrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01113",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kommt aufgrund\n",
+        "seiner Fähigkeit {STRVAR_1 5, 1, 0}\f",
+        "nicht in Fahrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01114",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kommt aufgrund\n",
+        "seiner Fähigkeit {STRVAR_1 5, 1, 0}\f",
+        "nicht in Fahrt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01115",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kriegt schließlich\n",
+        "doch noch die Kurve!"
+      ]
+    },
+    {
+      "id": "msg_0197_01116",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kriegt schließlich\n",
+        "doch noch die Kurve!"
+      ]
+    },
+    {
+      "id": "msg_0197_01117",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kriegt\n",
+        "schließlich doch noch die Kurve!"
+      ]
+    },
+    {
+      "id": "msg_0197_01118",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} durchsucht den\n",
+        "Gegner und findet {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01119",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) durchsucht den\n",
+        "Gegner und findet {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01120",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) durchsucht\n",
+        "den Gegner und findet {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01121",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} leidet unter\n",
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01122",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) leidet unter\n",
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01123",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) leidet unter\n",
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01124",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} leidet unter\n",
+        "{STRVAR_1 5, 1, 0} v. {STRVAR_1 1, 0, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01125",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) leidet unter\n",
+        "{STRVAR_1 5, 1, 0} v. {STRVAR_1 1, 0, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01126",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} leidet unter\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01127",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) leidet unter\n",
+        "{STRVAR_1 5, 1, 0} von\f",
+        "{STRVAR_1 1, 0, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01128",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} maximiert {STRVAR_1 13, 2, 0}\n",
+        "durch sein {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01129",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild)\n",
+        "maximiert {STRVAR_1 13, 2, 0}\f",
+        "durch sein {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01130",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner)\n",
+        "maximiert {STRVAR_1 13, 2, 0}\f",
+        "durch sein {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01131",
+      "de_DE": [
+        "{STRVAR_1 8, 0, 0} schwächt\n",
+        "Kraft von {STRVAR_1 6, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01132",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird durch sein Item\n",
+        "{STRVAR_1 8, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01133",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird durch sein\n",
+        "Item {STRVAR_1 8, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01134",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird durch sein\n",
+        "Item {STRVAR_1 8, 1, 0} verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01135",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann keine Items\n",
+        "mehr einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01136",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann keine Items\n",
+        "mehr einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01137",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann keine Items\n",
+        "mehr einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01138",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann wieder Items\n",
+        "einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01139",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) kann wieder Items\n",
+        "einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01140",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) kann wieder\n",
+        "Items einsetzen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01141",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat dem Gegner\n",
+        "{STRVAR_1 8, 1, 0} gestohlen und das\f",
+        "Item aufgefressen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01142",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) hat dem Gegner\n",
+        "{STRVAR_1 8, 1, 0} gestohlen und das\f",
+        "Item aufgefressen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01143",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) hat dem Gegner\n",
+        "{STRVAR_1 8, 1, 0} gestohlen und das\f",
+        "Item aufgefressen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01144",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schleudert sein\n",
+        "Item {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01145",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) schleudert sein\n",
+        "Item {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01146",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) schleudert sein\n",
+        "Item {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01147",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "macht {STRVAR_1 8, 2, 0} wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_01148",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "macht {STRVAR_1 8, 2, 0} wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_01149",
+      "de_DE": [
+        "{STRVAR_1 5, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) macht\f",
+        "{STRVAR_1 8, 2, 0} wirkungslos!"
+      ]
+    },
+    {
+      "id": "msg_0197_01150",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} wegen {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01151",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} wegen {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01152",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} wegen {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01153",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} (Wild)\f",
+        "wegen {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01154",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Wild) ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} (Wild)\f",
+        "wegen {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01155",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} (Gegner)\f",
+        "wegen {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01156",
+      "de_DE": [
+        "{STRVAR_1 1, 2, 0} (Gegner) ist vernarrt\n",
+        "in {STRVAR_1 1, 0, 0} (Gegner)\f",
+        "wegen {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01157",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verbessert die\n",
+        "Genauigkeit seiner nächsten Attacke\f",
+        "mithilfe von {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01158",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) verbessert die\n",
+        "Genauigkeit seiner nächsten Attacke\f",
+        "mithilfe von {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01159",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) verbessert die\n",
+        "Genauigkeit seiner nächsten Attacke\f",
+        "mithilfe von {STRVAR_1 8, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01160",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird durch\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}\f",
+        "verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01161",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird durch\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0} (Wild)\f",
+        "verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01162",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird durch\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}\f",
+        "(Gegner) verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01163",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird durch\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}\f",
+        "verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01164",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wird durch\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0} (Wild)\f",
+        "verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01165",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird durch\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}\f",
+        "verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01166",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wird durch\n",
+        "{STRVAR_1 8, 2, 0} von {STRVAR_1 1, 1, 0}\f",
+        "(Gegner) verletzt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01167",
+      "de_DE": [
+        "Whoa!\n",
+        "Ein wildes {STRVAR_1 1, 0, 0} greift an!"
+      ]
+    },
+    {
+      "id": "msg_0197_01168",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch das Item\n",
+        "{STRVAR_1 8, 1, 0} schwer vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_01169",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch das\n",
+        "Item {STRVAR_1 8, 1, 0} schwer vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_01170",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch das\n",
+        "Item {STRVAR_1 8, 1, 0} schwer vergiftet!"
+      ]
+    },
+    {
+      "id": "msg_0197_01171",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde durch das\n",
+        "Item {STRVAR_1 8, 1, 0} verbrannt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01172",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde durch das\n",
+        "Item {STRVAR_1 8, 1, 0} verbrannt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01173",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde durch das\n",
+        "Item {STRVAR_1 8, 1, 0} verbrannt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01174",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "in {STRVAR_1 11, 1, 0}\f",
+        "auf jemandes PC übertragen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01175",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "in {STRVAR_1 11, 1, 0}\f",
+        "auf Bills PC übertragen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01176",
+      "de_DE": [
+        "{STRVAR_1 11, 1, 0} auf\n",
+        "jemandes PC ist voll.\r",
+        "{STRVAR_1 1, 0, 0} wurde in\n",
+        "{STRVAR_1 11, 2, 0} übertragen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01177",
+      "de_DE": [
+        "{STRVAR_1 11, 1, 0} auf Bills PC ist voll.\r",
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "in {STRVAR_1 11, 2, 0} übertragen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01178",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht,\n",
+        "{STRVAR_1 6, 1, 0} zu lernen.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01179",
+      "de_DE": [
+        "Aber {STRVAR_1 1, 0, 0} kann nicht\n",
+        "mehr als vier Attacken erlernen.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01180",
+      "de_DE": [
+        "Soll eine Attacke vergessen\n",
+        "werden?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_01181",
+      "de_DE": "{ALN_CENTER}Eine Attacke vergessen!"
+    },
+    {
+      "id": "msg_0197_01182",
+      "de_DE": "{ALN_CENTER}Bekannte Attacken behalten!"
+    },
+    {
+      "id": "msg_0197_01183",
+      "de_DE": [
+        "Welche Attacke soll vergessen\n",
+        "werden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_01184",
+      "de_DE": "Also gut...\r"
+    },
+    {
+      "id": "msg_0197_01185",
+      "de_DE": [
+        "Soll das Pokémon die neue\n",
+        "Attacke nicht lernen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_01186",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 6, 0, 0} nicht lernen!"
+    },
+    {
+      "id": "msg_0197_01187",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 6, 0, 0} lernen!"
+    },
+    {
+      "id": "msg_0197_01188",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01189",
+      "de_DE": "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... {WAIT 4}schwupp!\r"
+    },
+    {
+      "id": "msg_0197_01190",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} vergessen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01191",
+      "de_DE": "Und...\r"
+    },
+    {
+      "id": "msg_0197_01192",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernt\n",
+        "{STRVAR_1 6, 1, 0}!{WAIT 5}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01193",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht,\n",
+        "{STRVAR_1 6, 1, 0} zu lernen.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01194",
+      "de_DE": [
+        "Aber {STRVAR_1 1, 0, 0} kann nicht\n",
+        "mehr als vier Attacken erlernen.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01195",
+      "de_DE": [
+        "Soll eine Attacke vergessen\n",
+        "werden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_01196",
+      "de_DE": [
+        "Welche Attacke soll vergessen\n",
+        "werden?\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01197",
+      "de_DE": [
+        "{STRVAR_1 6, 0, 0}\n",
+        "nicht erlernen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_01198",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01199",
+      "de_DE": "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... {WAIT 4}schwupp!\r"
+    },
+    {
+      "id": "msg_0197_01200",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} vergessen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01201",
+      "de_DE": "Und...\r"
+    },
+    {
+      "id": "msg_0197_01202",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernt\n",
+        "{STRVAR_1 6, 1, 0}!{WAIT 5}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01203",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0197_01204",
+      "de_DE": [
+        "Dein Team wurde in\n",
+        "Weißnebel gehüllt!"
+      ]
+    },
+    {
+      "id": "msg_0197_01205",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} pumpt\n",
+        "sich auf!"
+      ]
+    },
+    {
+      "id": "msg_0197_01206",
+      "de_DE": "{STRVAR_1 8, 0, 0} wird eingesetzt!"
+    },
+    {
+      "id": "msg_0197_01207",
+      "de_DE": [
+        "Die Vergiftung von {STRVAR_1 1, 0, 0}\n",
+        "wurde geheilt."
+      ]
+    },
+    {
+      "id": "msg_0197_01208",
+      "de_DE": [
+        "Die Paralyse von {STRVAR_1 1, 0, 0}\n",
+        "wurde aufgehoben."
+      ]
+    },
+    {
+      "id": "msg_0197_01209",
+      "de_DE": [
+        "Verbrennung von {STRVAR_1 1, 0, 0}\n",
+        "wurde geheilt."
+      ]
+    },
+    {
+      "id": "msg_0197_01210",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist aufgewacht!"
+    },
+    {
+      "id": "msg_0197_01211",
+      "de_DE": "{STRVAR_1 1, 0, 0} wurde aufgetaut."
+    },
+    {
+      "id": "msg_0197_01212",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist nicht mehr verwirrt."
+    },
+    {
+      "id": "msg_0197_01213",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fühlt sich nicht\n",
+        "mehr angezogen."
+      ]
+    },
+    {
+      "id": "msg_0197_01214",
+      "de_DE": [
+        "Die KP von {STRVAR_1 1, 0, 0} wurden\n",
+        "um {STRVAR_1 52, 1, 0} Punkt(e) aufgefüllt."
+      ]
+    },
+    {
+      "id": "msg_0197_01215",
+      "de_DE": "Pokémon wechseln"
+    },
+    {
+      "id": "msg_0197_01216",
+      "de_DE": "Weiterkämpfen"
+    },
+    {
+      "id": "msg_0197_01217",
+      "de_DE": "Nächstes Pokémon rufen"
+    },
+    {
+      "id": "msg_0197_01218",
+      "de_DE": "Flucht"
+    },
+    {
+      "id": "msg_0197_01219",
+      "de_DE": [
+        "Wow! {STRVAR_1 1, 1, 0} von {STRVAR_1 3, 0, 0}\n",
+        "nähert sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01220",
+      "de_DE": "PARKBÄLLE"
+    },
+    {
+      "id": "msg_0197_01221",
+      "de_DE": "Vorrat: {STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0197_01222",
+      "de_DE": "Was soll {STRVAR_1 3, 0, 0} tun? {YESNO 0}"
+    },
+    {
+      "id": "msg_0197_01223",
+      "de_DE": "BALL"
+    },
+    {
+      "id": "msg_0197_01224",
+      "de_DE": "FLUCHT"
+    },
+    {
+      "id": "msg_0197_01225",
+      "de_DE": "{STRVAR_1 1, 0, 0}, komm zurück!"
+    },
+    {
+      "id": "msg_0197_01226",
+      "de_DE": [
+        "So! Ich habe die KP vermindert.\n",
+        "Jetzt fehlt nur noch der Pokéball! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_01227",
+      "de_DE": [
+        "Prima! Ich habe die KP vermindert.\n",
+        "Achtung, hier kommt der Pokéball! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0197_01228",
+      "de_DE": "{STRVAR_1 3, 0, 0} wirft einen Pokéball!"
+    },
+    {
+      "id": "msg_0197_01229",
+      "de_DE": [
+        "Status von {STRVAR_1 1, 0, 0}\n",
+        "wird normal!"
+      ]
+    },
+    {
+      "id": "msg_0197_01230",
+      "de_DE": "Dein Team wird von Rückenwind erfasst!"
+    },
+    {
+      "id": "msg_0197_01231",
+      "de_DE": [
+        "Der Gegner wird von Rückenwind\n",
+        "erfasst!"
+      ]
+    },
+    {
+      "id": "msg_0197_01232",
+      "de_DE": [
+        "Der Rückenwind deines\n",
+        "Teams lässt nach."
+      ]
+    },
+    {
+      "id": "msg_0197_01233",
+      "de_DE": [
+        "Der Rückenwind des\n",
+        "Gegners lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01234",
+      "de_DE": "Aber da ist gar kein Ziel..."
+    },
+    {
+      "id": "msg_0197_01235",
+      "de_DE": "{STRVAR_1 1, 0, 0} bleibt unbeschadet!"
+    },
+    {
+      "id": "msg_0197_01236",
+      "de_DE": "{STRVAR_1 1, 0, 0} (Wild) bleibt unbeschadet!"
+    },
+    {
+      "id": "msg_0197_01237",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) bleibt\n",
+        "unbeschadet!"
+      ]
+    },
+    {
+      "id": "msg_0197_01238",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} übt seine Fähigkeit\n",
+        "{STRVAR_1 5, 1, 0} aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_01239",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) übt seine Fähigkeit\n",
+        "{STRVAR_1 5, 1, 0} aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_01240",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) übt seine\n",
+        "Fähigkeit {STRVAR_1 5, 1, 0} aus!"
+      ]
+    },
+    {
+      "id": "msg_0197_01241",
+      "de_DE": [
+        "Beschwörung schützt dein Team vor\n",
+        "Volltreffern!"
+      ]
+    },
+    {
+      "id": "msg_0197_01242",
+      "de_DE": [
+        "Beschwörung schützt das gegnerische\n",
+        "Team vor Volltreffern!"
+      ]
+    },
+    {
+      "id": "msg_0197_01243",
+      "de_DE": [
+        "Es durchbrach den Schutz\n",
+        "von {STRVAR_1 1, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0197_01244",
+      "de_DE": [
+        "Es durchbrach den Schutz\n",
+        "von {STRVAR_1 1, 0, 0} (Wild)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01245",
+      "de_DE": [
+        "Es durchbrach den Schutz\n",
+        "von {STRVAR_1 1, 0, 0} (Gegner)!"
+      ]
+    },
+    {
+      "id": "msg_0197_01246",
+      "de_DE": "Ein wildes {STRVAR_1 1, 0, 0} erscheint!"
+    },
+    {
+      "id": "msg_0197_01247",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde von wirbelndem\n",
+        "Magma gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01248",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Wild) wurde von\n",
+        "wirbelndem Magma gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01249",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Gegner) wurde von\n",
+        "wirbelndem Magma gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01250",
+      "de_DE": "{STRVAR_1 1, 0, 0} hat sich erholt."
+    },
+    {
+      "id": "msg_0197_01251",
+      "de_DE": [
+        "Dank {STRVAR_1 8, 1, 0} ist {STRVAR_1 1, 0, 0}\n",
+        "sofort bereit!"
+      ]
+    },
+    {
+      "id": "msg_0197_01252",
+      "de_DE": [
+        "Dank {STRVAR_1 8, 1, 0} ist\n",
+        "{STRVAR_1 1, 0, 0} (Wild) sofort bereit!"
+      ]
+    },
+    {
+      "id": "msg_0197_01253",
+      "de_DE": [
+        "Dank {STRVAR_1 8, 1, 0} ist\n",
+        "{STRVAR_1 1, 0, 0} (Gegner) sofort bereit!"
+      ]
+    },
+    {
+      "id": "msg_0197_01254",
+      "de_DE": [
+        "Dank {STRVAR_1 8, 1, 0} kann {STRVAR_1 1, 0, 0}\n",
+        "den ersten Zug machen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01255",
+      "de_DE": [
+        "Dank {STRVAR_1 8, 1, 0} kann {STRVAR_1 1, 0, 0}\n",
+        "(Wild) den ersten Zug machen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01256",
+      "de_DE": [
+        "Dank {STRVAR_1 8, 1, 0} kann {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) den ersten Zug machen!"
+      ]
+    },
+    {
+      "id": "msg_0197_01257",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01258",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0} (Wild)\n",
+        "lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01259",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} von {STRVAR_1 1, 0, 0}\n",
+        "(Gegner) lässt nach!"
+      ]
+    },
+    {
+      "id": "msg_0197_01260",
+      "de_DE": "STOPP"
+    },
+    {
+      "id": "msg_0197_01261",
+      "de_DE": "Wiedergabe gestoppt."
+    },
+    {
+      "id": "msg_0197_01262",
+      "de_DE": "Bitte warten."
+    },
+    {
+      "id": "msg_0197_01263",
+      "de_DE": "Daten beschädigt."
+    },
+    {
+      "id": "msg_0197_01264",
+      "de_DE": "Wiedergabe abgebrochen."
+    },
+    {
+      "id": "msg_0197_01265",
+      "de_DE": "Kampf ist zu lang."
+    },
+    {
+      "id": "msg_0197_01266",
+      "de_DE": "Wiedergabe abgebrochen."
+    },
+    {
+      "id": "msg_0197_01267",
+      "de_DE": "Die Dimensionen wurden verzerrt."
+    },
+    {
+      "id": "msg_0197_01268",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} aus der Zerrwelt ist\n",
+        "erschienen!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01269",
+      "de_DE": [
+        "Sprecher: Biep!\n",
+        "Du hast keine {STRVAR_1 8, 0, 0} mehr.\f",
+        "Der Wettkampf ist vorbei!\r"
+      ]
+    },
+    {
+      "id": "msg_0197_01270",
+      "de_DE": "BALL"
+    },
+    {
+      "id": "msg_0197_01271",
+      "de_DE": "x {STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0197_01272",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0197_01273",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0197_01274",
+      "de_DE": "{ALN_RIGHT}Lv.{STRVAR_1 52, 1, 0}"
+    },
+    {
+      "id": "msg_0197_01275",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gewinnt {STRVAR_1 54, 1, 0} $! Ein\n",
+        "Anteil wurde nach Hause geschickt!\r"
+      ]
+    }
+  ]
+}

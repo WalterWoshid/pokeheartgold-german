@@ -1,0 +1,508 @@
+{
+  "key": 37955,
+  "messages": [
+    {
+      "id": "msg_0109_00000",
+      "de_DE": [
+        "Willkommen im Kampfpalais!\r",
+        "Ich stehe dir bei den Einzel- und\n",
+        "Doppelkämpfen helfend zur Seite.\r",
+        "Beachte bitte, dass diese Kämpfe\n",
+        "nur für einen Trainer gedacht sind.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00001",
+      "de_DE": [
+        "Welcher Herausforderung möchtest\n",
+        "du dich gern stellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0109_00002",
+      "de_DE": [
+        "Im Kampfpalais kannst du Einzel- oder\n",
+        "Doppelkämpfe bestreiten.\r",
+        "Dort stellt man dir Palaispunkte (PP)\n",
+        "zur Verfügung, mit denen du haushalten\f",
+        "musst.\r",
+        "Diese PP werden zum Heilen von Pokémon,\n",
+        "zum Leihen von Items oder Beeren und\f",
+        "so weiter eingesetzt.\r",
+        "PP erhältst du durch Gewinnen eines\n",
+        "Kampfes, die genaue Anzahl hängt davon\f",
+        "ab, wie gut du den Kampf bestreitest.\r",
+        "Durch effektives Haushalten musst du\n",
+        "eine Siegesserie so lange wie möglich\f",
+        "durchhalten.\r",
+        "Gewinnst du sieben Mal hintereinander,\n",
+        "erhältst du Gewinnpunkte (GP).\r",
+        "Willst du den Kampf unterbrechen,\n",
+        "speichere bitte dein Spiel.\r",
+        "Speicherst du es nicht,\n",
+        "wirst du disqualifiziert.\r",
+        "Bitte vergiss das nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00003",
+      "de_DE": [
+        "Willkommen im Kampfpalais!\r",
+        "Ich stehe dir in Sachen Multikampf\n",
+        "mit Rat und Tat zur Seite.\r",
+        "Bitte beachte, dass diese Art von\n",
+        "Herausforderung zwei Trainer braucht.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00004",
+      "de_DE": [
+        "Möchtest du dich den Multikämpfen\n",
+        "im Kampfpalais stellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0109_00005",
+      "de_DE": [
+        "Hier trittst du in Multikämpfen\n",
+        "zusammen mit einem Freund an.\r",
+        "Dort stellt man euch Palaispunkte (PP)\n",
+        "zur Verfügung, mit denen ihr haushalten\f",
+        "müsst.\r",
+        "Diese PP werden zum Heilen von Pokémon,\n",
+        "zum Leihen von Items oder Beeren und\f",
+        "so weiter eingesetzt.\r",
+        "Trainer können ihre PP nicht nur für\n",
+        "ihre eigenen Pokémon verwenden,\f",
+        "sondern auch für die des Partners.\r",
+        "Beide Trainer erhalten PP durch\n",
+        "Gewinnen eines Kampfes, die genaue\f",
+        "Anzahl hängt davon ab, wie gut ihr\f",
+        "den Kampf bestreitet.\r",
+        "Durch effektives Haushalten müsst ihr\n",
+        "eine Siegesserie so lange wie möglich\f",
+        "durchhalten.\r",
+        "Gelingt es euch, sieben Kämpfe in einer\n",
+        "Reihe für euch zu entscheiden, dann\f",
+        "erhaltet ihr Gewinnpunkte (GP).\r",
+        "Beachte bitte, dass eine Multikampf-\n",
+        "Herausforderung im Kampfpalais\f",
+        "nicht unterbrochen werden kann.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00006",
+      "de_DE": "Hoffentlich bis bald mal wieder!"
+    },
+    {
+      "id": "msg_0109_00007",
+      "de_DE": "Bitte Pokémon auswählen.\r"
+    },
+    {
+      "id": "msg_0109_00008",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 1, 0} verschiedene Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00009",
+      "de_DE": [
+        "Hmmm... Eier dürfen hier aber auch\n",
+        "nicht mitspielen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00010",
+      "de_DE": [
+        "Eier und {STRVAR_1 0, 1, 0} dürfen an den\n",
+        "Kämpfen nicht teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00011",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0} und {STRVAR_1 0, 2, 0}\n",
+        "dürfen nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00012",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0} und\n",
+        "{STRVAR_1 0, 3, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00013",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0} und {STRVAR_1 0, 4, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00014",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0} und\f",
+        "{STRVAR_1 0, 5, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00015",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0} und {STRVAR_1 0, 6, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00016",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0} und\f",
+        "{STRVAR_1 0, 7, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00017",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0} und {STRVAR_1 0, 8, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00018",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0} und\f",
+        "{STRVAR_1 0, 9, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00019",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0} und {STRVAR_1 0, 10, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00020",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0} und\f",
+        "{STRVAR_1 0, 11, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00021",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0} und {STRVAR_1 0, 12, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00022",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0} und\f",
+        "{STRVAR_1 0, 13, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00023",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0} und {STRVAR_1 0, 14, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00024",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0} und\f",
+        "{STRVAR_1 0, 15, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00025",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0} und {STRVAR_1 0, 16, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00026",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0} und\f",
+        "{STRVAR_1 0, 17, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00027",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f",
+        "{STRVAR_1 0, 17, 0} und {STRVAR_1 0, 18, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00028",
+      "de_DE": "Komm wieder, wenn du bereit bist.\r"
+    },
+    {
+      "id": "msg_0109_00029",
+      "de_DE": [
+        "Huch? Beide Trainer haben sich für das\n",
+        "Pokémon {STRVAR_1 0, 0, 0} entschieden!\r",
+        "Bitte berate dich mit dem anderen\n",
+        "Trainer, damit jeder ein anderes\f",
+        "Pokémon hat.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00030",
+      "de_DE": [
+        "Huch? Beide Trainer haben sich für die\n",
+        "Pokémon {STRVAR_1 0, 0, 0} und {STRVAR_1 0, 1, 0}\f",
+        "entschieden!\r",
+        "Bitte berate dich mit dem anderen\n",
+        "Trainer, damit jeder ein anderes\f",
+        "Pokémon hat.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00031",
+      "de_DE": [
+        "Bevor ich dich hereinlasse,\n",
+        "musst du das Spiel speichern.\f",
+        "Einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0109_00032",
+      "de_DE": "Hier entlang bitte!"
+    },
+    {
+      "id": "msg_0109_00033",
+      "de_DE": [
+        "Lange nicht gesehen!\r",
+        "Du musst das Spiel speichern, bevor du\n",
+        "die Herausforderung wieder aufnimmst.\r",
+        "Bitte habe Geduld."
+      ]
+    },
+    {
+      "id": "msg_0109_00034",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Vorm Verlassen deiner letzten\n",
+        "Herausforderung hast du nicht\f",
+        "gespeichert.\r",
+        "Aus diesem Grunde wurdest du\n",
+        "disqualifiziert!\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00035",
+      "de_DE": [
+        "Glückwunsch!\r",
+        "Der Preis für deinen Sieg ist dieses\n",
+        "schmucke Erinnerungsfoto!\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00036",
+      "de_DE": [
+        "Das Goldfoto wurde an die Kampfkamera\n",
+        "von {STRVAR_1 3, 0, 0} gesendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00037",
+      "de_DE": [
+        "Das Silberfoto wurde an die Kampfkamera\n",
+        "von {STRVAR_1 3, 0, 0} gesendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0109_00038",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0109_00039",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0109_00040",
+      "de_DE": "HERAUSFORDERN"
+    },
+    {
+      "id": "msg_0109_00041",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0109_00042",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0109_00043",
+      "de_DE": [
+        "Bitte legt fest, wer von euch\n",
+        "“LEITER WERDEN” soll.\r",
+        "Der andere Spieler wählt\n",
+        "“MITSPIELER” aus. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0109_00044",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "initialisieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0109_00045",
+      "de_DE": [
+        "Du musst das Spiel speichern, bevor ich\n",
+        "dich hereinlasse. Bitte habe Geduld."
+      ]
+    },
+    {
+      "id": "msg_0109_00046",
+      "de_DE": [
+        "Gewinnen deine Pokémon, ohne Schaden\n",
+        "zu nehmen, erhältst du mehr PP.\r",
+        "Es ist gut, viele PP zu haben!\n",
+        "Ich hingegen habe nur ganz wenige..."
+      ]
+    },
+    {
+      "id": "msg_0109_00047",
+      "de_DE": [
+        "Stellst du dich Gegnern mit höheren\n",
+        "Leveln, verdienst du mehr PP.\r",
+        "Wie heißt es doch so schön:\n",
+        "Wer nicht wagt, der nicht gewinnt!"
+      ]
+    },
+    {
+      "id": "msg_0109_00048",
+      "de_DE": [
+        "Vor jedem Kampf solltest du dir die\n",
+        "gegnerische Aufstellung ansehen.\r",
+        "Geize nur nicht mit deinen PP! \n",
+        "Wenn du verloren hast, ist es\f",
+        "dafür zu spät...\f",
+        "Wie heißt es doch so schön:\r",
+        "Wer zu spät kommt, den bestraft\n",
+        "das Leben!"
+      ]
+    },
+    {
+      "id": "msg_0109_00049",
+      "de_DE": [
+        "Oh, Herr Perenus...\r",
+        "Wie edel, sich selbst völlig\n",
+        "zurückzunehmen, um gänzlich\f",
+        "Lady Kattlea dienen zu können!\r",
+        "Wahrlich, wie edel!"
+      ]
+    },
+    {
+      "id": "msg_0109_00050",
+      "de_DE": [
+        "Zunächst darfst du die PP nur zum\n",
+        "Wiederherstellen deiner KP einsetzen.\r",
+        "Du kannst PP aber auch einsetzen,\n",
+        "um den nächsten Rang zu erreichen.\f",
+        "So kannst du auch AP wiederherstellen."
+      ]
+    },
+    {
+      "id": "msg_0109_00051",
+      "de_DE": [
+        "Ich muss dir etwas Wichtiges mitteilen:\n",
+        "Wenn du verlierst, dann stehst du mit\f",
+        "deinen PP wieder bei null! Das ist das\f",
+        "eherne Gesetz des Kampfpalais!"
+      ]
+    },
+    {
+      "id": "msg_0109_00052",
+      "de_DE": [
+        "Es ist mein großer Traum, in der Zukunft\n",
+        "mit einem schönen Kleid auf einem\f",
+        "Schloss zu leben!\r",
+        "...Ähm, ich wollte natürlich sagen:\r",
+        "Mit einer Frau in einem schönen\n",
+        "Kleid auf einem Schloss zu leben!"
+      ]
+    }
+  ]
+}

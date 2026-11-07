@@ -1,0 +1,63 @@
+{
+  "key": 45383,
+  "messages": [
+    {
+      "id": "msg_0638_00000",
+      "de_DE": [
+        "Drücke den A-Knopf, um ein Kampfvideo\n",
+        "dieses Kampfes zu speichern."
+      ]
+    },
+    {
+      "id": "msg_0638_00001",
+      "de_DE": [
+        "Möchtest du den letzten Kampf\n",
+        "als dein Kampfvideo speichern?"
+      ]
+    },
+    {
+      "id": "msg_0638_00002",
+      "de_DE": [
+        "Dein existierendes Kampfvideo löschen\n",
+        "und den letzten Kampf speichern?"
+      ]
+    },
+    {
+      "id": "msg_0638_00003",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0638_00004",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0638_00005",
+      "de_DE": "Bitte warte einen Moment."
+    },
+    {
+      "id": "msg_0638_00006",
+      "de_DE": "Das Kampfvideo wurde gespeichert."
+    },
+    {
+      "id": "msg_0638_00007",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten. Kampf-\n",
+        "video konnte nicht gespeichert werden."
+      ]
+    },
+    {
+      "id": "msg_0638_00008",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0638_00009",
+      "de_DE": [
+        "Warte auf Auswahl deines Freundes.\n",
+        "Bitte warte einen Moment."
+      ]
+    }
+  ]
+}

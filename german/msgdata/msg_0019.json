@@ -1,0 +1,415 @@
+{
+  "key": 14833,
+  "messages": [
+    {
+      "id": "msg_0019_00000",
+      "de_DE": [
+        "Welche Statistik möchtest\n",
+        "du dir ansehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0019_00001",
+      "de_DE": "EINZEL"
+    },
+    {
+      "id": "msg_0019_00002",
+      "de_DE": "DOPPEL"
+    },
+    {
+      "id": "msg_0019_00003",
+      "de_DE": "MULTI"
+    },
+    {
+      "id": "msg_0019_00004",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0019_00005",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0019_00006",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0019_00007",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0019_00008",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00009",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00010",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00011",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00012",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00013",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00014",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00015",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00016",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00017",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0019_00018",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0019_00019",
+      "de_DE": "{STRVAR_1 0, 0, 0}"
+    },
+    {
+      "id": "msg_0019_00020",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0019_00021",
+      "de_DE": "Duellturm"
+    },
+    {
+      "id": "msg_0019_00022",
+      "de_DE": "Kampffabrik"
+    },
+    {
+      "id": "msg_0019_00023",
+      "de_DE": "Kampfpalais"
+    },
+    {
+      "id": "msg_0019_00024",
+      "de_DE": "Kampfsaal"
+    },
+    {
+      "id": "msg_0019_00025",
+      "de_DE": "Kampfarkaden"
+    },
+    {
+      "id": "msg_0019_00026",
+      "de_DE": "Einzel-Statistik"
+    },
+    {
+      "id": "msg_0019_00027",
+      "de_DE": "Doppel-Statistik"
+    },
+    {
+      "id": "msg_0019_00028",
+      "de_DE": "Multi-Statistik"
+    },
+    {
+      "id": "msg_0019_00029",
+      "de_DE": "VORHER"
+    },
+    {
+      "id": "msg_0019_00030",
+      "de_DE": "AKTUELL"
+    },
+    {
+      "id": "msg_0019_00031",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0019_00032",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0019_00033",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0019_00034",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0019_00035",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0019_00036",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0019_00037",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0019_00038",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0019_00039",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0019_00040",
+      "de_DE": "{STRVAR_1 50, 0, 0}"
+    },
+    {
+      "id": "msg_0019_00041",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0019_00042",
+      "de_DE": [
+        "Wähle ein Pokémon, dessen Statistik\n",
+        "du dir ansehen möchtest. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0019_00043",
+      "de_DE": "REKORD"
+    },
+    {
+      "id": "msg_0019_00044",
+      "de_DE": "Multi mit Trainer"
+    },
+    {
+      "id": "msg_0019_00045",
+      "de_DE": "Multi mit Freund"
+    },
+    {
+      "id": "msg_0019_00046",
+      "de_DE": "Level 50"
+    },
+    {
+      "id": "msg_0019_00047",
+      "de_DE": "Offener Level"
+    },
+    {
+      "id": "msg_0019_00048",
+      "de_DE": "Leihen/Tauschen"
+    },
+    {
+      "id": "msg_0019_00049",
+      "de_DE": "Palaispunkte"
+    },
+    {
+      "id": "msg_0019_00050",
+      "de_DE": "Siegesserie: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0019_00051",
+      "de_DE": "Statistik von {STRVAR_1 0, 0, 0}"
+    },
+    {
+      "id": "msg_0019_00052",
+      "de_DE": "{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0019_00053",
+      "de_DE": "{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0019_00054",
+      "de_DE": "Siegesserie: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0019_00055",
+      "de_DE": "Spiele geschafft: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0019_00056",
+      "de_DE": "A"
+    },
+    {
+      "id": "msg_0019_00057",
+      "de_DE": "B"
+    },
+    {
+      "id": "msg_0019_00058",
+      "de_DE": "C"
+    },
+    {
+      "id": "msg_0019_00059",
+      "de_DE": "D"
+    },
+    {
+      "id": "msg_0019_00060",
+      "de_DE": "E"
+    },
+    {
+      "id": "msg_0019_00061",
+      "de_DE": "F"
+    },
+    {
+      "id": "msg_0019_00062",
+      "de_DE": "G"
+    },
+    {
+      "id": "msg_0019_00063",
+      "de_DE": "H"
+    },
+    {
+      "id": "msg_0019_00064",
+      "de_DE": "I"
+    },
+    {
+      "id": "msg_0019_00065",
+      "de_DE": "J"
+    },
+    {
+      "id": "msg_0019_00066",
+      "de_DE": "K"
+    },
+    {
+      "id": "msg_0019_00067",
+      "de_DE": "L"
+    },
+    {
+      "id": "msg_0019_00068",
+      "de_DE": "M"
+    },
+    {
+      "id": "msg_0019_00069",
+      "de_DE": "N"
+    },
+    {
+      "id": "msg_0019_00070",
+      "de_DE": "O"
+    },
+    {
+      "id": "msg_0019_00071",
+      "de_DE": "P"
+    },
+    {
+      "id": "msg_0019_00072",
+      "de_DE": "Q"
+    },
+    {
+      "id": "msg_0019_00073",
+      "de_DE": "R"
+    },
+    {
+      "id": "msg_0019_00074",
+      "de_DE": "S"
+    },
+    {
+      "id": "msg_0019_00075",
+      "de_DE": "T"
+    },
+    {
+      "id": "msg_0019_00076",
+      "de_DE": "U"
+    },
+    {
+      "id": "msg_0019_00077",
+      "de_DE": "V"
+    },
+    {
+      "id": "msg_0019_00078",
+      "de_DE": "W"
+    },
+    {
+      "id": "msg_0019_00079",
+      "de_DE": "X"
+    },
+    {
+      "id": "msg_0019_00080",
+      "de_DE": "Y"
+    },
+    {
+      "id": "msg_0019_00081",
+      "de_DE": "Z"
+    },
+    {
+      "id": "msg_0019_00082",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00083",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00084",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00085",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00086",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00087",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00088",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00089",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00090",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00091",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00092",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00093",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00094",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00095",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00096",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00097",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00098",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00099",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0019_00100",
+      "garbage": 1
+    }
+  ]
+}

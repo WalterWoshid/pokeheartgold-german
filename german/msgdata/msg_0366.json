@@ -1,0 +1,31 @@
+{
+  "key": 5191,
+  "messages": [
+    {
+      "id": "msg_0366_00000",
+      "de_DE": [
+        "Du suchst doch gerade bestimmt einen\n",
+        "Ort, an dem du Rast machen kannst!\f",
+        "Na, liege ich richtig?\r",
+        "Nein, das ist schon in Ordnung so!\r",
+        "Ich freue mich immer auf die strahlenden\n",
+        "Gesichter der Leute, die hier auf dem\f",
+        "Weg zur Pokémon Liga vorbeikommen!\r",
+        "So! Und jetzt gönne deinem\n",
+        "Pokémon-Team mal eine Pause!\r"
+      ]
+    },
+    {
+      "id": "msg_0366_00001",
+      "de_DE": [
+        "In Ordnung!\n",
+        "Deine Pokémon sind wieder fit!\f",
+        "Dann stürze dich wieder ins Abenteuer!"
+      ]
+    },
+    {
+      "id": "msg_0366_00002",
+      "de_DE": "CHANEIRA: Cha-chaneira!!!"
+    }
+  ]
+}

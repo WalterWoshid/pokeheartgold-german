@@ -1,0 +1,244 @@
+{
+  "key": 18215,
+  "messages": [
+    {
+      "id": "msg_0505_00000",
+      "de_DE": [
+        "Lucia: Ach! Da bist du ja!\n",
+        "Bitte, komm mal mit!\f",
+        "Der Professor wartet!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00001",
+      "de_DE": [
+        "Das ist es!\n",
+        "Das ist unser Pokémon-Labor!\r",
+        "Wir gehen einfach durch diese Tür und...\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00002",
+      "de_DE": [
+        "Lucius: Hi! Ich habe schon auf dich\n",
+        "gewartet! Bitte, komm mal mit!\f",
+        "Der Prof möchte dich gerne sprechen!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00003",
+      "de_DE": [
+        "Siehst du? Das ist unser\n",
+        "Pokémon-Labor.\r",
+        "Wir gehen einfach durch diese Tür und...\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00004",
+      "de_DE": "{SIZE 200}Bumms!!!{SIZE 100}\r"
+    },
+    {
+      "id": "msg_0505_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was zum...\r",
+        "Oh, du bist das, {STRVAR_1 3, 1}!\r",
+        "Dieser alte Mann... Er ist gar nicht\n",
+        "unheimlich, aber er steht voll neben\f",
+        "den Schuhen!\r",
+        "Ach, was soll’s, {STRVAR_1 3, 1}.\n",
+        "Ich mach mich vom Acker. Bis dann!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00006",
+      "de_DE": [
+        "Lucia: Wow, was war das denn?!?\r",
+        "Du hast aber einen ungeduldigen Freund.\r",
+        "Nun, wie dem auch sei...\n",
+        "Gehen wir hinein.\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00007",
+      "de_DE": [
+        "Lucius: Was war das denn?!?\r",
+        "Dein Freund scheint es ja immer\n",
+        "sehr eilig zu haben.\r",
+        "Nun, wie dem auch sei...\n",
+        "Gehen wir hinein.\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00008",
+      "de_DE": [
+        "Lucia: Also gut, {STRVAR_1 3, 1}, ich bin\n",
+        "nun dein Mentor.\r",
+        "Ich habe ein bisschen mehr Erfahrung\n",
+        "als Trainerin als du, da ich ja auch\f",
+        "die Assistentin des Professors bin.\r",
+        "Dann komm mal mit!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00009",
+      "de_DE": [
+        "Dieses Gebäude mit dem roten\n",
+        "Dach ist das Pokémon-Center.\r",
+        "Pokémon, die im Kampf verletzt\n",
+        "wurden, werden hier geheilt.\r",
+        "In den meisten Städten findest\n",
+        "du ein Pokémon-Center.\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00010",
+      "de_DE": [
+        "Das Gebäude mit dem blauen Dach dort\n",
+        "ist der Pokémon-Supermarkt.\r",
+        "Dort kannst du Items und Medizin\n",
+        "kaufen und verkaufen.\r",
+        "{STRVAR_1 3, 0}, du fängst gerade erst an\n",
+        "als Trainer, daher wirst du noch nicht\f",
+        "viele Dinge kaufen können.\r",
+        "Aber das sollte dich nicht stören!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00011",
+      "de_DE": [
+        "Oh, fast hätte ich es vergessen!\n",
+        "{STRVAR_1 3, 0}...\r",
+        "Musst du nicht deinen Eltern Bescheid\n",
+        "geben, dass du Professor Eibe bei der\f",
+        "Erstellung des Pokédex hilfst?\r",
+        "Du wirst weit reisen und daher solltest\n",
+        "du ihnen Bescheid sagen, finde ich.\r",
+        "Aber bevor du das tust, heile zuerst\n",
+        "dein Pokémon im Pokémon-Center.\r",
+        "Damit wird dein Weg sicherer.\n",
+        "Aber jetzt muss ich los! Mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00012",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0505_00013",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, {STRVAR_1 3, 1}!\n",
+        "Ich möchte dir etwas zeigen.\f",
+        "Folge mir bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00014",
+      "de_DE": [
+        "Dieses Gebäude mit dem roten Dach\n",
+        "ist das Pokémon-Center.\r",
+        "Pokémon, die im Kampf verletzt\n",
+        "wurden, werden hier geheilt.\r",
+        "In den meisten Städten findest du\n",
+        "ein Pokémon-Center.\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00015",
+      "de_DE": [
+        "Das Gebäude mit dem blauen Dach dort\n",
+        "ist der Pokémon-Supermarkt.\r",
+        "Dort kannst du Items und Medizin\n",
+        "kaufen und verkaufen.\r",
+        "{STRVAR_1 3, 0}, du fängst gerade erst an\n",
+        "als Trainer, daher wirst du noch nicht\f",
+        "viele Dinge kaufen können.\r",
+        "Aber das sollte dich nicht stören!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00016",
+      "de_DE": [
+        "Oh, fast hätte ich es vergessen!\n",
+        "{STRVAR_1 3, 0}...\r",
+        "Musst du nicht deinen Eltern Bescheid\n",
+        "geben, dass du Professor Eibe bei der\f",
+        "Erstellung des Pokédex hilfst?\r",
+        "Du wirst weit reisen und daher solltest\n",
+        "du ihnen Bescheid sagen, finde ich.\r",
+        "Aber bevor du das tust, heile zuerst\n",
+        "dein Pokémon im Pokémon-Center.\r",
+        "Damit wird dein Weg sicherer.\n",
+        "Aber jetzt muss ich los! Mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0505_00017",
+      "de_DE": [
+        "WOW!\n",
+        "Pokémon sind so cool!\r",
+        "Du kannst sie in Kämpfen einsetzen\n",
+        "und damit stärker machen!\r",
+        "Oh, ich hätte auch so gerne welche!\n",
+        "Wäre das cooool!!!"
+      ]
+    },
+    {
+      "id": "msg_0505_00018",
+      "de_DE": [
+        "Das Ding da...\r",
+        "Das ist ein Pokédex, stimmt’s?!?\r",
+        "Ab jetzt wirst du die\n",
+        "unterschiedlichsten Pokémon sehen!\r",
+        "Du Glückspilz!\n"
+      ]
+    },
+    {
+      "id": "msg_0505_00019",
+      "de_DE": [
+        "Damit ich nicht vergesse, was bisher\n",
+        "passiert ist, speichere ich besser...\r",
+        "So!\n",
+        "Nun kann ich ein Päuschen machen."
+      ]
+    },
+    {
+      "id": "msg_0505_00020",
+      "de_DE": [
+        "Professor Eibe ist zurückgekommen!\r",
+        "Es ist bestimmt schon vier Jahre her,\n",
+        "dass er diesen Ort verlassen hat.\r",
+        "Er soll seine Forschungen an anderen\n",
+        "Orten betrieben haben."
+      ]
+    },
+    {
+      "id": "msg_0505_00021",
+      "de_DE": [
+        "Sandgemme\n",
+        "Ort des Sandes!"
+      ]
+    },
+    {
+      "id": "msg_0505_00022",
+      "de_DE": "Pokémon-Labor"
+    },
+    {
+      "id": "msg_0505_00023",
+      "de_DE": "Haus von {STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0505_00024",
+      "de_DE": [
+        "Pokémon-Supermarkt\n",
+        "Wir erfüllen alle Item-Wünsche!"
+      ]
+    },
+    {
+      "id": "msg_0505_00025",
+      "de_DE": [
+        "Pokémon-Center\n",
+        "Erfrische deine Pokémon!"
+      ]
+    }
+  ]
+}

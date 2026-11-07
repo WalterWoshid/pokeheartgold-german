@@ -1,0 +1,41 @@
+{
+  "key": 29139,
+  "messages": [
+    {
+      "id": "msg_0371_00000",
+      "de_DE": "Wie heißt du?{YESNO 0}"
+    },
+    {
+      "id": "msg_0371_00001",
+      "de_DE": "Spitzname von {STRVAR_1 1, 0}?{YESNO 0}"
+    },
+    {
+      "id": "msg_0371_00002",
+      "de_DE": "Name der Box?{YESNO 0}"
+    },
+    {
+      "id": "msg_0371_00003",
+      "de_DE": "Wie heißt dein Freund?{YESNO 0}"
+    },
+    {
+      "id": "msg_0371_00004",
+      "de_DE": "Gib den Freundescode ein.{YESNO 0}"
+    },
+    {
+      "id": "msg_0371_00005",
+      "de_DE": "Wie heißt die Gruppe?{YESNO 0}"
+    },
+    {
+      "id": "msg_0371_00006",
+      "de_DE": "Wem willst du danken?{YESNO 0}"
+    },
+    {
+      "id": "msg_0371_00007",
+      "de_DE": "Gruppe"
+    },
+    {
+      "id": "msg_0371_00008",
+      "garbage": 0
+    }
+  ]
+}

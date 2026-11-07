@@ -1,0 +1,448 @@
+{
+  "key": 17510,
+  "messages": [
+    {
+      "id": "msg_0618_00000",
+      "de_DE": "{SIZE 200}He... heeey!\r"
+    },
+    {
+      "id": "msg_0618_00001",
+      "de_DE": [
+        "Lass endlich dieses langweilige\n",
+        "Gezappele und leg mal einen\f",
+        "anständigen Hula aufs Parkett!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00002",
+      "de_DE": [
+        "Dürfte ich Euch gnädigst darum bitten,\n",
+        "Eure Zwischenrufe einzustellen?\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00003",
+      "de_DE": [
+        "Was soll das heißen?\r",
+        "Hat das Publikum etwa nicht das Recht,\n",
+        "selbst zu bestimmen, was es sehen will?\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00004",
+      "de_DE": [
+        "Soll ich Euch mal zeigen, wie man das\n",
+        "richtig macht?\r",
+        "Mwahahaha!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00005",
+      "de_DE": [
+        "Hä? Was soll das werden?\r",
+        "Stellst du dich mir etwa in den Weg?\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00006",
+      "de_DE": [
+        "Hm, ich bin wohl doch nur ein\n",
+        "Schmalspurganove...\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00007",
+      "de_DE": [
+        "...Oh nein! Ich habe ganz vergessen,\n",
+        "dass wir gleich mit der Durchführung\f",
+        "unseres teuflischen Plans beginnen!\r",
+        "Wenn herauskommt, dass ich hier\n",
+        "faulenze und alles aufhalte, lassen\f",
+        "die mich glatt wieder ganz unten als\f",
+        "Schuhputzer anfangen!\r",
+        "Ich muss hier auf der Stelle weg!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00008",
+      "de_DE": "... ... ..."
+    },
+    {
+      "id": "msg_0618_00009",
+      "de_DE": [
+        "Ihr seid {STRVAR_1 3, 0, 0}, nicht wahr?\n",
+        "Das war wirklich beeindruckend.\r",
+        "Ihr seid gutmütig und stark und Ihr\n",
+        "versteht Euch ausgezeichnet im\f",
+        "Training von Pokémon.\r",
+        "Ich wusste einfach, dass ich mich in\n",
+        "Euch nicht getäuscht hatte. Hohoho!\r",
+        "Aber ich führe wieder Selbstgespräche!\n",
+        "Hört mir am besten einfach nicht zu!"
+      ]
+    },
+    {
+      "id": "msg_0618_00010",
+      "de_DE": [
+        "Wir Kimono-Girls leben für den Tanz.\n",
+        "Wir haben noch keine Probe verpasst.\f",
+        "Dasselbe gilt auch für unsere Pokémon!\r",
+        "Wir nehmen uns täglich viel Zeit für sie\n",
+        "und achten darauf, dass sie langsam,\f",
+        "aber sicher an ihrem Training wachsen."
+      ]
+    },
+    {
+      "id": "msg_0618_00011",
+      "de_DE": [
+        "Guten Tag! Ich darf mich vorstellen...\n",
+        "Ich bin Tamao, eines der Kimono-Girls.\r",
+        "Wir hatten bereits in Viola City das\n",
+        "Vergnügen, nicht wahr?\r",
+        "Nur jemand, der über ein aufrichtiges\n",
+        "Herz und ein Händchen im Umgang mit\f",
+        "Pokémon verfügt, kann HO-OH rufen.\r",
+        "Die richtige Person lässt sich daran\n",
+        "erkennen, dass sie das Rätsel-Ei bei\f",
+        "sich trägt, wenn sie hier auftaucht.\r",
+        "Ich habe Mr. Pokémon bereits im Vorfeld\n",
+        "aufgetragen, es dem Richtigen zu geben.\r",
+        "Und genau dieses Ei ist Euch über\n",
+        "Professor Lind in die Hände gefallen!\r",
+        "Ein reines Herz alleine führt Euch in\n",
+        "einem Pokémon-Kampf aber noch\f",
+        "längst nicht zum Sieg!\r",
+        "Ihr müsst auch genau wissen, wie Ihr\n",
+        "Euer Pokémon-Team anzupacken habt!\r",
+        "Und nun lasst mich bitte überprüfen, ob\n",
+        "Ihr diese Fähigkeit tatsächlich besitzt!\r",
+        "Seid Ihr bereit? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0618_00012",
+      "de_DE": [
+        "Guten Tag! Ich darf mich vorstellen...\n",
+        "Ich bin Tamao, eines der Kimono-Girls.\r",
+        "Wir hatten bereits in Viola City das\n",
+        "Vergnügen, nicht wahr?\r",
+        "Nur jemand, der ein aufrichtiges Herz\n",
+        "und ein Händchen im Umgang mit Pokémon\f",
+        "besitzt, kann LUGIA herbeirufen.\r",
+        "Die richtige Person lässt sich daran\n",
+        "erkennen, dass sie das Rätsel-Ei bei\f",
+        "sich trägt, wenn sie hier auftaucht.\r",
+        "Ich habe Mr. Pokémon bereits im Vorfeld\n",
+        "damit beauftragt, es ihr zu geben.\r",
+        "Und genau dieses Ei ist Euch über\n",
+        "Professor Lind in die Hände gefallen!\r",
+        "Nur ein reines Herz führt Euch in einem\n",
+        "Pokémon-Kampf aber noch nicht zum Sieg.\r",
+        "Ihr müsst auch genau wissen, wie Ihr\n",
+        "Euer Pokémon-Team anzupacken habt!\r",
+        "Und nun lasst mich bitte überprüfen, ob\n",
+        "Ihr diese Fähigkeit tatsächlich besitzt!\r",
+        "Seid Ihr bereit? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0618_00013",
+      "de_DE": [
+        "Ihr müsst genau wissen, wie Ihr Euer\n",
+        "Pokémon-Team anzupacken habt!\r",
+        "Und nun lasst mich bitte überprüfen, ob\n",
+        "Ihr diese Fähigkeit tatsächlich besitzt!\r",
+        "Seid Ihr bereit? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0618_00014",
+      "de_DE": [
+        "Sehr wohl. Dann werde ich hier auf Euch\n",
+        "warten, bis Ihr bereit seid."
+      ]
+    },
+    {
+      "id": "msg_0618_00015",
+      "de_DE": [
+        "Eure Stärke ist wirklich beeindruckend!\r",
+        "Ihr habt mich im Steineichenwald sicher\n",
+        "an mein Ziel geführt.\r",
+        "Ich bin Umeko, das Kimono-Girl, das sich\n",
+        "einfach überall verläuft.\r",
+        "Ich hatte das Vergnügen, mit eigenen\n",
+        "Augen zu beobachten, wie Ihr im \f",
+        "FLEGMON-Brunnen Team Rocket\f",
+        "vertrieben und dem armen Kurt\f",
+        "in seiner Not beigestanden habt.\r",
+        "Und nun lasst uns kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00016",
+      "de_DE": [
+        "Ihr habt Team Rocket vertrieben.\n",
+        "Das war sehr gute Arbeit.\r",
+        "Aber Ihr seid Euch hoffentlich bewusst,\n",
+        "welch ein vortrefflicher Gegner ich bin!\r",
+        "Ihr solltet niemals die Waffen einer\n",
+        "Frau unterschätzen!\r",
+        "Ich bin Satsuki von den Kimono-Girls.\r",
+        "Und nun lasst uns kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00017",
+      "de_DE": [
+        "Ihr habt Euch gut geschlagen.\r",
+        "Damals auf dem Eis wart Ihr so nett,\n",
+        "mich mit einem Schubser zu retten.\r",
+        "Ich war verloren! Wie festgefroren!\n",
+        "Ich bin Sakura von den Kimono-Girls.\r",
+        "Auch außerhalb der Drachenhöhle\n",
+        "konnte man deutlich vernehmen, wie\f",
+        "gekonnt Ihr auf die Fragen des Meisters\f",
+        "geantwortet habt.\r",
+        "Und nun lassen wir unsere Pokémon\n",
+        "gegeneinander kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00018",
+      "de_DE": [
+        "Ich bin die Letzte von uns fünfen.\r",
+        "Als wir uns in der Passage von\n",
+        "Dukatia City trafen, wirktet Ihr\f",
+        "äußerst zuverlässig auf mich.\r",
+        "Ich bin das Kimono-Girl Komomo.\n",
+        "Auch unter der Erde hält mich\f",
+        "nichts vom Tanzen ab.\r",
+        "Wie durch ein Wunder konntet Ihr Team\n",
+        "Rockets üble Pläne mit dem Radioturm\f",
+        "durchkreuzen.\r",
+        "Das war wahrlich beeindruckend!\n",
+        "Und nun möchte ich Eure Stärke noch\f",
+        "einmal selbst im Kampf erleben!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00019",
+      "de_DE": [
+        "Wenn Ihr bereit seid, dann sprecht\n",
+        "bitte mit Tamao in der Mitte."
+      ]
+    },
+    {
+      "id": "msg_0618_00020",
+      "de_DE": [
+        "Wir haben uns in Euch nicht getäuscht.\n",
+        "Ihr seid wahrlich würdig, dies\f",
+        "zu besitzen...\r",
+        "Bitte empfangt unsere Gabe!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00021",
+      "de_DE": [
+        "Hört mir alle zu!\r",
+        "Der Schatten eines riesigen Pokémon ist\n",
+        "über dem Glockenturm erschienen!\r",
+        "Könnte das etwa...\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00022",
+      "de_DE": [
+        "Hört mir alle zu!\r",
+        "Der Umriss eines riesigen Pokémon wurde\n",
+        "bei den Strudelinseln gesichtet!\r",
+        "Das wird doch nicht etwa...\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00023",
+      "de_DE": [
+        "Tamao: Nun denn, {STRVAR_1 3, 0, 0}!\n",
+        "Wir eilen schon einmal vor Euch\f",
+        "zum Glockenturm!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00024",
+      "de_DE": [
+        "Tamao: Nun denn, {STRVAR_1 3, 0, 0}!\n",
+        "Wir eilen schon einmal vor Euch\f",
+        "zu den Strudelinseln!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00025",
+      "de_DE": [
+        "Was bildet sich dieser Kerl von\n",
+        "Team Rocket eigentlich ein?!?\r",
+        "Meinem Kimono-Girl solchen\n",
+        "Ärger zu bereiten!\r",
+        "Du bist doch ein Trainer, oder?\f",
+        "Dann rette sie gefälligst!"
+      ]
+    },
+    {
+      "id": "msg_0618_00026",
+      "de_DE": [
+        "Das war wirklich meisterhaft!\r",
+        "Beherzte junge Leute wie dich\n",
+        "sieht man nicht alle Tage!\r",
+        "Hier, das ist ein kleines Dankeschön.\n",
+        "Nur mal keine falsche Bescheidenheit!\f",
+        "Nimm es ruhig an!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00027",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0618_00028",
+      "de_DE": [
+        "Die Attacke darin nennt sich Surfer.\n",
+        "Damit bretterst du mit deinen Pokémon\f",
+        "in Windeseile über die Wellen!\r"
+      ]
+    },
+    {
+      "id": "msg_0618_00029",
+      "de_DE": [
+        "Die Kimono-Girls sind nicht nur sehr\n",
+        "talentierte Tänzerinnen, sondern\f",
+        "auch herausragende Pokémon-Trainer!\r",
+        "Sie stellen ihre Kampffähigkeiten bloß\n",
+        "nicht so oft zur Schau...\r",
+        "Aber wenn die Kimono-Girls richtig Ernst\n",
+        "machen, bleibt kein Auge trocken!\r",
+        "Du wirst auch deine Probleme damit\n",
+        "haben, sie zu besiegen..."
+      ]
+    },
+    {
+      "id": "msg_0618_00030",
+      "de_DE": "ENTON: E-enton!"
+    },
+    {
+      "id": "msg_0618_00031",
+      "de_DE": [
+        "Dieser Mann hat immer sein ENTON dabei!\r",
+        "Er meinte mal, er wolle einem Pokémon,\n",
+        "das die Attacke Surfer beherrscht,\f",
+        "gerne das Tanzen beibringen.\r",
+        "Wart’s ab, als Nächstes bringt er ihm\n",
+        "dann bestimmt Synchronschwimmen bei!"
+      ]
+    },
+    {
+      "id": "msg_0618_00032",
+      "de_DE": [
+        "Hnnngh...\r",
+        "Wenn ich nur nicht solches Bauchweh\n",
+        "hätte, würde ich diesem Typen schon\f",
+        "Manieren beibringen!"
+      ]
+    },
+    {
+      "id": "msg_0618_00033",
+      "de_DE": [
+        "A-aus und vorbei!\r",
+        "Das war meine Chance, ein Kimono-Girl\n",
+        "näher kennenzulernen..."
+      ]
+    },
+    {
+      "id": "msg_0618_00034",
+      "de_DE": [
+        "Hnnngh...\r",
+        "Würde mir meine Hüfte nur nicht so übel\n",
+        "mitspielen, würde ich diesem Typen schon\f",
+        "Manieren beibringen!"
+      ]
+    },
+    {
+      "id": "msg_0618_00035",
+      "de_DE": [
+        "Hnnngh...\r",
+        "Würde mein Zahn bloß nicht so wehtun,\n",
+        "würde ich diesem Typen schon Manieren\f",
+        "beibringen!"
+      ]
+    },
+    {
+      "id": "msg_0618_00036",
+      "de_DE": [
+        "Die Kimono-Girls sind echt hübsch...\r",
+        "Aber wenn man vor Publikum auftreten\n",
+        "möchte, muss man erst mal ein sehr\f",
+        "hartes Training absolvieren!\r",
+        "Na ja, aber was tut man nicht alles\n",
+        "für seinen Traumberuf?"
+      ]
+    },
+    {
+      "id": "msg_0618_00037",
+      "de_DE": [
+        "Wie kann man das einem Kimono-Girl\n",
+        "bloß einfach so antun? Die Jugend von\f",
+        "heute ist einfach fürchterlich."
+      ]
+    },
+    {
+      "id": "msg_0618_00038",
+      "de_DE": "Für dein Alter bist du ziemlich gewieft!"
+    },
+    {
+      "id": "msg_0618_00039",
+      "de_DE": [
+        "Dieser Tisch scheint ab und zu für\n",
+        "Kunststücke herzuhalten..."
+      ]
+    },
+    {
+      "id": "msg_0618_00040",
+      "de_DE": "Vielen Dank für alles!"
+    },
+    {
+      "id": "msg_0618_00041",
+      "de_DE": "Wir stecken mitten in den Tanzproben!"
+    },
+    {
+      "id": "msg_0618_00042",
+      "de_DE": [
+        "Vielen Dank für alles!\r",
+        "Ihr habt uns vorbildlich bewiesen, dass\n",
+        "die Art, wie wir unsere Mitmenschen\f",
+        "behandeln, und die Freundschaft zu\f",
+        "unseren Pokémon eng miteinander\f",
+        "verbunden sind.\r",
+        "Ihr habt unsere Erwartungen bei Weitem\n",
+        "übertroffen, {STRVAR_1 3, 0, 0}!\r",
+        "Wenn wir einen geeigneten Weg gefunden\n",
+        "haben, Euch zu danken, werden Euch\f",
+        "Mr. Pokémon oder Professor Lind\f",
+        "darüber in Kenntnis setzen..."
+      ]
+    },
+    {
+      "id": "msg_0618_00043",
+      "de_DE": "Wir stecken mitten in den Tanzproben!"
+    },
+    {
+      "id": "msg_0618_00044",
+      "de_DE": "Vielen Dank für alles!"
+    },
+    {
+      "id": "msg_0618_00045",
+      "de_DE": [
+        "Dann zeigt uns doch mal, wie stark die\n",
+        "Freundschaft ist, die Euch und Euer\f",
+        "Pokémon-Team verbindet!\r"
+      ]
+    }
+  ]
+}

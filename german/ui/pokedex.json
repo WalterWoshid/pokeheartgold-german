@@ -1,0 +1,5154 @@
+{
+  "ov18_021F9DB0": {
+    "type": "WindowTemplate",
+    "entries": [
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 0,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 1006
+      },
+      {
+        "bgId": 1,
+        "left": 10,
+        "top": 10,
+        "width": 15,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 482
+      }
+    ]
+  },
+  "ov18_021F9DC0": {
+    "type": "u16",
+    "entries": [
+      58,
+      50,
+      60,
+      56,
+      54,
+      48,
+      63,
+      53,
+      59,
+      61,
+      62,
+      51,
+      55,
+      49,
+      52,
+      57,
+      47,
+      64
+    ]
+  },
+  "ov18_021F9DE4": {
+    "type": "WindowTemplate",
+    "entries": [
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 0,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 1006
+      },
+      {
+        "bgId": 5,
+        "left": 4,
+        "top": 3,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 990
+      },
+      {
+        "bgId": 5,
+        "left": 20,
+        "top": 3,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 974
+      },
+      {
+        "bgId": 5,
+        "left": 10,
+        "top": 6,
+        "width": 12,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 950
+      },
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 21,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 940
+      },
+      {
+        "bgId": 5,
+        "left": 8,
+        "top": 21,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 926
+      },
+      {
+        "bgId": 5,
+        "left": 17,
+        "top": 21,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 916
+      },
+      {
+        "bgId": 5,
+        "left": 23,
+        "top": 21,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 902
+      },
+      {
+        "bgId": 1,
+        "left": 10,
+        "top": 1,
+        "width": 12,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 488
+      },
+      {
+        "bgId": 1,
+        "left": 2,
+        "top": 17,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 478
+      },
+      {
+        "bgId": 1,
+        "left": 8,
+        "top": 17,
+        "width": 7,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 464
+      },
+      {
+        "bgId": 1,
+        "left": 17,
+        "top": 17,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 454
+      },
+      {
+        "bgId": 1,
+        "left": 23,
+        "top": 17,
+        "width": 7,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 430
+      }
+    ]
+  },
+  "ov18_021F9E4C": {
+    "type": "WindowTemplate",
+    "entries": [
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 0,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 494
+      },
+      {
+        "bgId": 5,
+        "left": 1,
+        "top": 3,
+        "width": 7,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 480
+      },
+      {
+        "bgId": 5,
+        "left": 0,
+        "top": 16,
+        "width": 9,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 462
+      },
+      {
+        "bgId": 5,
+        "left": 13,
+        "top": 12,
+        "width": 14,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 434
+      },
+      {
+        "bgId": 1,
+        "left": 1,
+        "top": 5,
+        "width": 6,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 500
+      },
+      {
+        "bgId": 1,
+        "left": 9,
+        "top": 1,
+        "width": 7,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 486
+      },
+      {
+        "bgId": 1,
+        "left": 18,
+        "top": 1,
+        "width": 7,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 486
+      },
+      {
+        "bgId": 1,
+        "left": 24,
+        "top": 1,
+        "width": 7,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 472
+      },
+      {
+        "bgId": 2,
+        "left": 10,
+        "top": 5,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 476
+      },
+      {
+        "bgId": 2,
+        "left": 10,
+        "top": 8,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 440
+      },
+      {
+        "bgId": 2,
+        "left": 10,
+        "top": 11,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 404
+      },
+      {
+        "bgId": 2,
+        "left": 10,
+        "top": 14,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 368
+      },
+      {
+        "bgId": 2,
+        "left": 10,
+        "top": 17,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 332
+      },
+      {
+        "bgId": 2,
+        "left": 10,
+        "top": 20,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 296
+      }
+    ]
+  },
+  "ov18_021F9EBC": {
+    "type": "WindowTemplate",
+    "entries": [
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 0,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 1006
+      },
+      {
+        "bgId": 5,
+        "left": 4,
+        "top": 5,
+        "width": 9,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 988
+      },
+      {
+        "bgId": 5,
+        "left": 13,
+        "top": 5,
+        "width": 15,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 958
+      },
+      {
+        "bgId": 5,
+        "left": 7,
+        "top": 5,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 922
+      },
+      {
+        "bgId": 1,
+        "left": 21,
+        "top": 17,
+        "width": 10,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 492
+      },
+      {
+        "bgId": 1,
+        "left": 13,
+        "top": 2,
+        "width": 6,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 480
+      },
+      {
+        "bgId": 1,
+        "left": 0,
+        "top": 12,
+        "width": 16,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 448
+      },
+      {
+        "bgId": 1,
+        "left": 16,
+        "top": 12,
+        "width": 16,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 416
+      },
+      {
+        "bgId": 1,
+        "left": 3,
+        "top": 20,
+        "width": 12,
+        "height": 3,
+        "palette": 1,
+        "baseTile": 380
+      },
+      {
+        "bgId": 1,
+        "left": 18,
+        "top": 20,
+        "width": 12,
+        "height": 3,
+        "palette": 1,
+        "baseTile": 344
+      },
+      {
+        "bgId": 2,
+        "left": 8,
+        "top": 1,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 476
+      },
+      {
+        "bgId": 2,
+        "left": 8,
+        "top": 4,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 440
+      },
+      {
+        "bgId": 2,
+        "left": 8,
+        "top": 7,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 404
+      },
+      {
+        "bgId": 2,
+        "left": 8,
+        "top": 10,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 368
+      },
+      {
+        "bgId": 2,
+        "left": 8,
+        "top": 13,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 332
+      },
+      {
+        "bgId": 2,
+        "left": 8,
+        "top": 16,
+        "width": 18,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 296
+      }
+    ]
+  },
+  "ov18_021F9F3C": {
+    "type": "WindowTemplate",
+    "entries": [
+      {
+        "bgId": 0,
+        "left": 2,
+        "top": 9,
+        "width": 12,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 1000
+      },
+      {
+        "bgId": 0,
+        "left": 18,
+        "top": 9,
+        "width": 12,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 976
+      },
+      {
+        "bgId": 0,
+        "left": 11,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 970
+      },
+      {
+        "bgId": 0,
+        "left": 11,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 964
+      },
+      {
+        "bgId": 0,
+        "left": 27,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 958
+      },
+      {
+        "bgId": 0,
+        "left": 27,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 952
+      },
+      {
+        "bgId": 1,
+        "left": 10,
+        "top": 16,
+        "width": 11,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 490
+      },
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 0,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 1008
+      },
+      {
+        "bgId": 5,
+        "left": 15,
+        "top": 3,
+        "width": 4,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 1000
+      },
+      {
+        "bgId": 5,
+        "left": 19,
+        "top": 3,
+        "width": 9,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 982
+      },
+      {
+        "bgId": 5,
+        "left": 13,
+        "top": 5,
+        "width": 18,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 946
+      },
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 17,
+        "width": 28,
+        "height": 6,
+        "palette": 1,
+        "baseTile": 778
+      },
+      {
+        "bgId": 5,
+        "left": 18,
+        "top": 11,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 768
+      },
+      {
+        "bgId": 5,
+        "left": 23,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 752
+      },
+      {
+        "bgId": 5,
+        "left": 18,
+        "top": 13,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 742
+      },
+      {
+        "bgId": 5,
+        "left": 23,
+        "top": 13,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 726
+      },
+      {
+        "bgId": 5,
+        "left": 16,
+        "top": 8,
+        "width": 14,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 694
+      },
+      {
+        "bgId": 5,
+        "left": 16,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 688
+      },
+      {
+        "bgId": 5,
+        "left": 20,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 672
+      },
+      {
+        "bgId": 5,
+        "left": 15,
+        "top": 13,
+        "width": 16,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 640
+      }
+    ]
+  },
+  "ov18_021F9FDC": {
+    "type": "WindowTemplate",
+    "entries": [
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 19,
+        "width": 28,
+        "height": 5,
+        "palette": 2,
+        "baseTile": 372
+      },
+      {
+        "bgId": 5,
+        "left": 4,
+        "top": 1,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 354
+      },
+      {
+        "bgId": 5,
+        "left": 1,
+        "top": 4,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 344
+      },
+      {
+        "bgId": 5,
+        "left": 1,
+        "top": 7,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 334
+      },
+      {
+        "bgId": 5,
+        "left": 1,
+        "top": 10,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 324
+      },
+      {
+        "bgId": 5,
+        "left": 1,
+        "top": 13,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 314
+      },
+      {
+        "bgId": 5,
+        "left": 1,
+        "top": 16,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 304
+      },
+      {
+        "bgId": 5,
+        "left": 25,
+        "top": 4,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 292
+      },
+      {
+        "bgId": 5,
+        "left": 16,
+        "top": 1,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 270
+      },
+      {
+        "bgId": 5,
+        "left": 7,
+        "top": 4,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 252
+      },
+      {
+        "bgId": 5,
+        "left": 7,
+        "top": 7,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 236
+      },
+      {
+        "bgId": 5,
+        "left": 15,
+        "top": 7,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 220
+      },
+      {
+        "bgId": 5,
+        "left": 7,
+        "top": 10,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 208
+      },
+      {
+        "bgId": 5,
+        "left": 15,
+        "top": 10,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 196
+      },
+      {
+        "bgId": 5,
+        "left": 7,
+        "top": 13,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 178
+      },
+      {
+        "bgId": 5,
+        "left": 18,
+        "top": 13,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 160
+      },
+      {
+        "bgId": 5,
+        "left": 7,
+        "top": 16,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 146
+      },
+      {
+        "bgId": 1,
+        "left": 1,
+        "top": 1,
+        "width": 8,
+        "height": 2,
+        "palette": 4,
+        "baseTile": 496
+      },
+      {
+        "bgId": 1,
+        "left": 12,
+        "top": 1,
+        "width": 8,
+        "height": 2,
+        "palette": 4,
+        "baseTile": 480
+      },
+      {
+        "bgId": 1,
+        "left": 23,
+        "top": 1,
+        "width": 8,
+        "height": 2,
+        "palette": 4,
+        "baseTile": 464
+      },
+      {
+        "bgId": 0,
+        "left": 4,
+        "top": 1,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 354
+      },
+      {
+        "bgId": 0,
+        "left": 1,
+        "top": 4,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 344
+      },
+      {
+        "bgId": 0,
+        "left": 1,
+        "top": 7,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 334
+      },
+      {
+        "bgId": 0,
+        "left": 1,
+        "top": 10,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 324
+      },
+      {
+        "bgId": 0,
+        "left": 1,
+        "top": 13,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 314
+      },
+      {
+        "bgId": 0,
+        "left": 1,
+        "top": 16,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 304
+      },
+      {
+        "bgId": 0,
+        "left": 25,
+        "top": 4,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 292
+      },
+      {
+        "bgId": 0,
+        "left": 16,
+        "top": 1,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 270
+      },
+      {
+        "bgId": 0,
+        "left": 7,
+        "top": 4,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 252
+      },
+      {
+        "bgId": 0,
+        "left": 7,
+        "top": 7,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 236
+      },
+      {
+        "bgId": 0,
+        "left": 15,
+        "top": 7,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 220
+      },
+      {
+        "bgId": 0,
+        "left": 7,
+        "top": 10,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 208
+      },
+      {
+        "bgId": 0,
+        "left": 15,
+        "top": 10,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 196
+      },
+      {
+        "bgId": 0,
+        "left": 7,
+        "top": 13,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 178
+      },
+      {
+        "bgId": 0,
+        "left": 18,
+        "top": 13,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 160
+      },
+      {
+        "bgId": 0,
+        "left": 7,
+        "top": 16,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 146
+      },
+      {
+        "bgId": 0,
+        "left": 3,
+        "top": 1,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 490
+      },
+      {
+        "bgId": 0,
+        "left": 18,
+        "top": 1,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 468
+      },
+      {
+        "bgId": 0,
+        "left": 3,
+        "top": 6,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 446
+      },
+      {
+        "bgId": 0,
+        "left": 18,
+        "top": 6,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 424
+      },
+      {
+        "bgId": 0,
+        "left": 3,
+        "top": 10,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 402
+      },
+      {
+        "bgId": 0,
+        "left": 18,
+        "top": 10,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 380
+      },
+      {
+        "bgId": 0,
+        "left": 3,
+        "top": 14,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 358
+      },
+      {
+        "bgId": 0,
+        "left": 18,
+        "top": 14,
+        "width": 11,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 336
+      },
+      {
+        "bgId": 0,
+        "left": 3,
+        "top": 1,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 498
+      },
+      {
+        "bgId": 0,
+        "left": 13,
+        "top": 1,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 482
+      },
+      {
+        "bgId": 0,
+        "left": 21,
+        "top": 1,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 466
+      },
+      {
+        "bgId": 0,
+        "left": 0,
+        "top": 5,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 450
+      },
+      {
+        "bgId": 0,
+        "left": 8,
+        "top": 5,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 434
+      },
+      {
+        "bgId": 0,
+        "left": 16,
+        "top": 5,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 418
+      },
+      {
+        "bgId": 0,
+        "left": 24,
+        "top": 5,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 402
+      },
+      {
+        "bgId": 0,
+        "left": 0,
+        "top": 8,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 386
+      },
+      {
+        "bgId": 0,
+        "left": 8,
+        "top": 8,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 370
+      },
+      {
+        "bgId": 0,
+        "left": 16,
+        "top": 8,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 354
+      },
+      {
+        "bgId": 0,
+        "left": 24,
+        "top": 8,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 338
+      },
+      {
+        "bgId": 0,
+        "left": 0,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 322
+      },
+      {
+        "bgId": 0,
+        "left": 8,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 306
+      },
+      {
+        "bgId": 0,
+        "left": 16,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 290
+      },
+      {
+        "bgId": 0,
+        "left": 24,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 274
+      },
+      {
+        "bgId": 0,
+        "left": 0,
+        "top": 14,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 258
+      },
+      {
+        "bgId": 0,
+        "left": 8,
+        "top": 14,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 242
+      },
+      {
+        "bgId": 0,
+        "left": 16,
+        "top": 14,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 226
+      },
+      {
+        "bgId": 0,
+        "left": 24,
+        "top": 14,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 210
+      },
+      {
+        "bgId": 0,
+        "left": 0,
+        "top": 17,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 194
+      },
+      {
+        "bgId": 0,
+        "left": 8,
+        "top": 17,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 178
+      },
+      {
+        "bgId": 0,
+        "left": 7,
+        "top": 1,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 500
+      },
+      {
+        "bgId": 0,
+        "left": 15,
+        "top": 1,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 482
+      },
+      {
+        "bgId": 0,
+        "left": 1,
+        "top": 5,
+        "width": 29,
+        "height": 14,
+        "palette": 2,
+        "baseTile": 76
+      },
+      {
+        "bgId": 0,
+        "left": 3,
+        "top": 1,
+        "width": 5,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 502
+      },
+      {
+        "bgId": 0,
+        "left": 10,
+        "top": 1,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 488
+      },
+      {
+        "bgId": 0,
+        "left": 19,
+        "top": 1,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 474
+      },
+      {
+        "bgId": 0,
+        "left": 1,
+        "top": 1,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 500
+      },
+      {
+        "bgId": 0,
+        "left": 8,
+        "top": 1,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 482
+      },
+      {
+        "bgId": 0,
+        "left": 19,
+        "top": 1,
+        "width": 9,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 464
+      },
+      {
+        "bgId": 0,
+        "left": 7,
+        "top": 1,
+        "width": 6,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 500
+      },
+      {
+        "bgId": 0,
+        "left": 16,
+        "top": 1,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 486
+      },
+      {
+        "bgId": 0,
+        "left": 6,
+        "top": 8,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 472
+      },
+      {
+        "bgId": 0,
+        "left": 19,
+        "top": 8,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 458
+      },
+      {
+        "bgId": 0,
+        "left": 6,
+        "top": 15,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 444
+      },
+      {
+        "bgId": 0,
+        "left": 19,
+        "top": 15,
+        "width": 7,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 430
+      },
+      {
+        "bgId": 0,
+        "left": 8,
+        "top": 1,
+        "width": 6,
+        "height": 3,
+        "palette": 2,
+        "baseTile": 494
+      },
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 0,
+        "width": 8,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 1008
+      },
+      {
+        "bgId": 5,
+        "left": 15,
+        "top": 3,
+        "width": 4,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 1000
+      },
+      {
+        "bgId": 5,
+        "left": 19,
+        "top": 3,
+        "width": 9,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 982
+      },
+      {
+        "bgId": 5,
+        "left": 13,
+        "top": 5,
+        "width": 18,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 946
+      },
+      {
+        "bgId": 5,
+        "left": 2,
+        "top": 17,
+        "width": 28,
+        "height": 6,
+        "palette": 1,
+        "baseTile": 778
+      },
+      {
+        "bgId": 5,
+        "left": 18,
+        "top": 11,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 768
+      },
+      {
+        "bgId": 5,
+        "left": 23,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 752
+      },
+      {
+        "bgId": 5,
+        "left": 18,
+        "top": 13,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 742
+      },
+      {
+        "bgId": 5,
+        "left": 23,
+        "top": 13,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 726
+      },
+      {
+        "bgId": 5,
+        "left": 16,
+        "top": 8,
+        "width": 14,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 694
+      },
+      {
+        "bgId": 5,
+        "left": 16,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 688
+      },
+      {
+        "bgId": 5,
+        "left": 20,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 672
+      },
+      {
+        "bgId": 5,
+        "left": 15,
+        "top": 13,
+        "width": 16,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 640
+      },
+      {
+        "bgId": 1,
+        "left": 10,
+        "top": 16,
+        "width": 11,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 442
+      },
+      {
+        "bgId": 0,
+        "left": 2,
+        "top": 9,
+        "width": 12,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 1000
+      },
+      {
+        "bgId": 0,
+        "left": 18,
+        "top": 9,
+        "width": 12,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 976
+      },
+      {
+        "bgId": 0,
+        "left": 11,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 970
+      },
+      {
+        "bgId": 0,
+        "left": 11,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 964
+      },
+      {
+        "bgId": 0,
+        "left": 27,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 958
+      },
+      {
+        "bgId": 0,
+        "left": 27,
+        "top": 11,
+        "width": 3,
+        "height": 2,
+        "palette": 9,
+        "baseTile": 952
+      }
+    ]
+  },
+  "ov18_021FA304": {
+    "type": "u32",
+    "entries": [
+      1044794966,
+      505818678,
+      22
+    ]
+  },
+  "ov18_021FA310": {
+    "type": "u32",
+    "entries": [
+      1044794966,
+      505818678,
+      22,
+      1449027182,
+      910050894,
+      371074606
+    ]
+  },
+  "ov18_021FA328": {
+    "type": "u16",
+    "entries": [
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      10,
+      0
+    ]
+  },
+  "ov18_021FA338": {
+    "type": "u16",
+    "entries": [
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      10,
+      0
+    ]
+  },
+  "ov18_021FA348": {
+    "type": "u16",
+    "entries": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16,
+      20,
+      24,
+      28
+    ]
+  },
+  "ov18_021FA35A": {
+    "type": "u16",
+    "entries": [
+      1,
+      4,
+      7,
+      10,
+      13,
+      16,
+      20,
+      24,
+      255
+    ]
+  },
+  "ov18_021FA36C": {
+    "type": "u32",
+    "entries": [
+      1024,
+      65536,
+      16384,
+      1048592,
+      1048592
+    ]
+  },
+  "ov18_021FA380": {
+    "type": "u16",
+    "entries": [
+      81,
+      0,
+      18,
+      0,
+      15,
+      0,
+      15,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "ov18_021FA398": {
+    "type": "u32",
+    "entries": [
+      2949135,
+      8847450,
+      14745780,
+      20644110,
+      26542440,
+      32440770
+    ]
+  },
+  "ov18_021FA3B0": {
+    "type": "u32",
+    "entries": [
+      135268360,
+      136316952,
+      137365544,
+      403181576,
+      671621128,
+      270012432
+    ]
+  },
+  "ov18_021FA3C8": {
+    "type": "u16",
+    "entries": [
+      0,
+      0,
+      128,
+      0,
+      0,
+      0,
+      32,
+      0,
+      0,
+      0,
+      128,
+      0,
+      0,
+      0,
+      32,
+      0
+    ]
+  },
+  "ov18_021FA3E8": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 48,
+        "y": 24,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50512,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA41C": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 168,
+        "y": 72,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50579,
+          50520,
+          50517,
+          50517,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA450": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 120,
+        "y": 80,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50585,
+          50523,
+          50520,
+          50520,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA484": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 0,
+        "y": 8,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50584,
+          50522,
+          50519,
+          50519,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA4B8": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 192,
+        "y": 128,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50586,
+          50524,
+          50521,
+          50521,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA4EC": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50592,
+          50529,
+          50526,
+          50526,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA520": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 224,
+        "y": 264,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50591,
+          50528,
+          50525,
+          50525,
+          -1,
+          -1
+        ],
+        "bgPriority": 1,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA554": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 32,
+        "y": 176,
+        "z": 0,
+        "animation": 3,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA588": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F51BC",
+      "ov18_021F51CC",
+      "ov18_021F5238",
+      "ov18_021F52A4",
+      "ov18_021F5310",
+      "ov18_021F537C",
+      "ov18_021F53E8",
+      "ov18_021F5454",
+      "ov18_021F5638",
+      "ov18_021F56DC",
+      "ov18_021F57B4",
+      "ov18_021F588C",
+      "ov18_021F5964",
+      "ov18_021F5A3C",
+      "ov18_021F5B14",
+      "ov18_021F5BEC",
+      "ov18_021F5CC4"
+    ]
+  },
+  "ov18_021FA5CC": {
+    "type": "u32",
+    "entries": [
+      0,
+      65537,
+      131074,
+      196611,
+      262148,
+      327685,
+      393222,
+      458759,
+      983048,
+      1966096,
+      3276831,
+      4915251,
+      6881356,
+      10158186,
+      15401116,
+      22937836,
+      4294902111
+    ]
+  },
+  "ov18_021FA610": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 36,
+        "y": 112,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50512,
+          50513,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 128,
+        "y": 128,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50588,
+          50526,
+          50522,
+          50522,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 32,
+        "y": 108,
+        "z": 0,
+        "animation": 26,
+        "drawPriority": 10,
+        "pal": 3,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 32,
+        "y": 76,
+        "z": 0,
+        "animation": 27,
+        "drawPriority": 9,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 96,
+        "z": 0,
+        "animation": 14,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 44,
+        "z": 0,
+        "animation": 5,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 148,
+        "z": 0,
+        "animation": 8,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 96,
+        "z": 0,
+        "animation": 63,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA7B0": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 184,
+        "y": 112,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50589,
+          50526,
+          50523,
+          50523,
+          -1,
+          -1
+        ],
+        "bgPriority": 1,
+        "vramTransfer": 0
+      },
+      {
+        "x": 72,
+        "y": -16,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50512,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 72,
+        "y": 80,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50513,
+          50513,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 184,
+        "y": -16,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50587,
+          50525,
+          50522,
+          50522,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50588,
+          50526,
+          50522,
+          50522,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 128,
+        "y": 104,
+        "z": 0,
+        "animation": 33,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 1,
+        "vramTransfer": 0
+      },
+      {
+        "x": 128,
+        "y": 104,
+        "z": 0,
+        "animation": 31,
+        "drawPriority": 15,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 1,
+        "vramTransfer": 0
+      },
+      {
+        "x": 72,
+        "y": 104,
+        "z": 0,
+        "animation": 32,
+        "drawPriority": 12,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 1,
+        "vramTransfer": 0
+      },
+      {
+        "x": 184,
+        "y": 104,
+        "z": 0,
+        "animation": 32,
+        "drawPriority": 12,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 1,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FA984": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 128,
+        "y": 128,
+        "z": 0,
+        "animation": 23,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 64,
+        "z": 0,
+        "animation": 16,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 12,
+        "z": 0,
+        "animation": 5,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 140,
+        "z": 0,
+        "animation": 8,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 76,
+        "z": 0,
+        "animation": 4,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 48,
+        "y": 24,
+        "z": 0,
+        "animation": 1,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 64,
+        "y": 136,
+        "z": 0,
+        "animation": 24,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 184,
+        "y": 136,
+        "z": 0,
+        "animation": 25,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FAB24": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 92,
+        "y": 136,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50583,
+          50521,
+          50518,
+          50518,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FAB58": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 112,
+        "y": 32,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50578,
+          50519,
+          50516,
+          50516,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FAB8C": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 48,
+        "y": 72,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50577,
+          50519,
+          50515,
+          50515,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FABC0": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 48,
+        "y": 72,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50572,
+          50514,
+          50513,
+          50513,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FABF4": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 48,
+        "y": 72,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50573,
+          50515,
+          50513,
+          50513,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FAC28": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 64,
+        "y": 120,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50572,
+          50514,
+          50513,
+          50513,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 192,
+        "y": 120,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50573,
+          50515,
+          50513,
+          50513,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 64,
+        "y": 120,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50574,
+          50516,
+          50513,
+          50513,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 192,
+        "y": 120,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50575,
+          50517,
+          50513,
+          50513,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 64,
+        "z": 0,
+        "animation": 14,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 12,
+        "z": 0,
+        "animation": 5,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 116,
+        "z": 0,
+        "animation": 8,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 64,
+        "z": 0,
+        "animation": 63,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 64,
+        "y": 56,
+        "z": 0,
+        "animation": 64,
+        "drawPriority": 0,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 64,
+        "y": 128,
+        "z": 0,
+        "animation": 65,
+        "drawPriority": 0,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 192,
+        "y": 56,
+        "z": 0,
+        "animation": 64,
+        "drawPriority": 0,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 192,
+        "y": 128,
+        "z": 0,
+        "animation": 65,
+        "drawPriority": 0,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 64,
+        "y": 80,
+        "z": 0,
+        "animation": 66,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50512,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50513,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50514,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50515,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50516,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 0,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50517,
+          50512,
+          50512,
+          50512,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FB004": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 172,
+        "y": 16,
+        "z": 0,
+        "animation": 39,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 18,
+        "y": 60,
+        "z": 0,
+        "animation": 56,
+        "drawPriority": 35,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 238,
+        "y": 60,
+        "z": 0,
+        "animation": 53,
+        "drawPriority": 35,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 18,
+        "y": 132,
+        "z": 0,
+        "animation": 56,
+        "drawPriority": 35,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 238,
+        "y": 132,
+        "z": 0,
+        "animation": 53,
+        "drawPriority": 35,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 52,
+        "y": 68,
+        "z": 0,
+        "animation": 41,
+        "drawPriority": 30,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 52,
+        "y": 64,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 52,
+        "y": 64,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 52,
+        "y": 64,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 52,
+        "y": 64,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 204,
+        "y": 132,
+        "z": 0,
+        "animation": 42,
+        "drawPriority": 30,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 204,
+        "y": 136,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 204,
+        "y": 136,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 204,
+        "y": 136,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 204,
+        "y": 136,
+        "z": 0,
+        "animation": 43,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 128,
+        "y": 128,
+        "z": 0,
+        "animation": 23,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 64,
+        "z": 0,
+        "animation": 16,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 12,
+        "z": 0,
+        "animation": 5,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 140,
+        "z": 0,
+        "animation": 8,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 242,
+        "y": 76,
+        "z": 0,
+        "animation": 4,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      },
+      {
+        "x": 64,
+        "y": 136,
+        "z": 0,
+        "animation": 24,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 184,
+        "y": 136,
+        "z": 0,
+        "animation": 25,
+        "drawPriority": 10,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 92,
+        "y": 136,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 1,
+        "resources": [
+          50583,
+          50521,
+          50518,
+          50518,
+          -1,
+          -1
+        ],
+        "bgPriority": 0,
+        "vramTransfer": 0
+      },
+      {
+        "x": 48,
+        "y": 24,
+        "z": 0,
+        "animation": 28,
+        "drawPriority": 20,
+        "pal": 1,
+        "vram": 1,
+        "resources": [
+          50576,
+          50518,
+          50514,
+          50514,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FB54C": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 128,
+        "y": 80,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 20,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50590,
+          50527,
+          50524,
+          50524,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FB580": {
+    "type": "ManagedSpriteTemplate",
+    "entries": [
+      {
+        "x": 128,
+        "y": 80,
+        "z": 0,
+        "animation": 0,
+        "drawPriority": 10,
+        "pal": 0,
+        "vram": 2,
+        "resources": [
+          50590,
+          50527,
+          50524,
+          50524,
+          -1,
+          -1
+        ],
+        "bgPriority": 3,
+        "vramTransfer": 0
+      }
+    ]
+  },
+  "ov18_021FB5B4": {
+    "type": "u32",
+    "entries": [
+      67305985,
+      134678021,
+      168378945,
+      235736075,
+      1145245711,
+      336794129,
+      404166165,
+      437864005,
+      505224219,
+      1212620831,
+      606282273,
+      673654309,
+      707349065,
+      774712363,
+      1279995951,
+      875770417,
+      943142453,
+      976834125,
+      1044200507,
+      1347371071,
+      1414746705,
+      1549490777,
+      1448436321,
+      1583175767,
+      1684234335
+    ]
+  },
+  "ov18_021FB618": {
+    "type": "u32",
+    "entries": [
+      589512254
+    ]
+  },
+  "ov18_021FB61C": {
+    "type": "u32",
+    "entries": [
+      589512254
+    ]
+  },
+  "ov18_021FB620": {
+    "type": "u32",
+    "entries": [
+      640034342,
+      8995
+    ]
+  },
+  "ov18_021FB628": {
+    "type": "u32",
+    "entries": [
+      656877351,
+      589506343
+    ]
+  },
+  "ov18_021FB630": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 72,
+        "bottom": 103,
+        "left": 48,
+        "right": 207
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB638": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F71DC",
+      "ov18_021F7334"
+    ]
+  },
+  "ov18_021FB648": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F74B0",
+      "ov18_021F74C4"
+    ]
+  },
+  "ov18_021FB658": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F7800",
+      "ov18_021F7954"
+    ]
+  },
+  "ov18_021FB668": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F6F78",
+      "ov18_021F6F8C"
+    ]
+  },
+  "ov18_021FB678": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F7634",
+      "ov18_021F7648"
+    ]
+  },
+  "ov18_021FB688": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F6E98",
+      "ov18_021F6EAC"
+    ]
+  },
+  "ov18_021FB698": {
+    "type": "u16",
+    "entries": [
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      3,
+      0
+    ]
+  },
+  "ov18_021FB6A8": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F7060",
+      "ov18_021F7104"
+    ]
+  },
+  "ov18_021FB6B8": {
+    "type": "callbacks",
+    "entries": [
+      "ov18_021F7B90",
+      "ov18_021F7B90",
+      "ov18_021F7720",
+      "ov18_021F7734"
+    ]
+  },
+  "ov18_021FB6C8": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 46,
+        "bottom": 73,
+        "left": 26,
+        "right": 229
+      },
+      {
+        "top": 118,
+        "bottom": 145,
+        "left": 26,
+        "right": 229
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB6DC": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 46,
+        "bottom": 73,
+        "left": 26,
+        "right": 229
+      },
+      {
+        "top": 118,
+        "bottom": 145,
+        "left": 26,
+        "right": 229
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB6F0": {
+    "type": "u16",
+    "entries": [
+      6,
+      0,
+      5,
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  "ov18_021FB704": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 168,
+        "bottom": 183,
+        "left": 7,
+        "right": 57
+      },
+      {
+        "top": 168,
+        "bottom": 183,
+        "left": 71,
+        "right": 121
+      },
+      {
+        "top": 168,
+        "bottom": 183,
+        "left": 135,
+        "right": 185
+      },
+      {
+        "top": 168,
+        "bottom": 183,
+        "left": 199,
+        "right": 249
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB718": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 49,
+        "bottom": 70,
+        "left": 230,
+        "right": 245
+      },
+      {
+        "top": 49,
+        "bottom": 70,
+        "left": 10,
+        "right": 25
+      },
+      {
+        "top": 121,
+        "bottom": 142,
+        "left": 230,
+        "right": 245
+      },
+      {
+        "top": 121,
+        "bottom": 142,
+        "left": 10,
+        "right": 25
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB72C": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 112,
+        "bottom": 143,
+        "left": 96,
+        "right": 160
+      },
+      {
+        "top": 0,
+        "bottom": 151,
+        "left": 0,
+        "right": 255
+      },
+      {
+        "top": 152,
+        "bottom": 187,
+        "left": 0,
+        "right": 63
+      },
+      {
+        "top": 152,
+        "bottom": 187,
+        "left": 64,
+        "right": 191
+      },
+      {
+        "top": 152,
+        "bottom": 187,
+        "left": 192,
+        "right": 255
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB744": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 64,
+        "bottom": 79,
+        "left": 48,
+        "right": 103
+      },
+      {
+        "top": 64,
+        "bottom": 79,
+        "left": 152,
+        "right": 207
+      },
+      {
+        "top": 120,
+        "bottom": 135,
+        "left": 48,
+        "right": 103
+      },
+      {
+        "top": 120,
+        "bottom": 135,
+        "left": 152,
+        "right": 207
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB760": {
+    "type": "u16",
+    "entries": [
+      4,
+      0,
+      5,
+      0,
+      6,
+      0,
+      7,
+      0,
+      8,
+      0,
+      9,
+      0,
+      10,
+      0,
+      11,
+      0
+    ]
+  },
+  "ov18_021FB780": {
+    "type": "u32",
+    "entries": [
+      15412,
+      258,
+      33996,
+      16876032,
+      45096,
+      50528257,
+      45272,
+      33685505
+    ]
+  },
+  "ov18_021FB7A0": {
+    "type": "u32",
+    "entries": [
+      15412,
+      258,
+      33996,
+      16876032,
+      45096,
+      50528257,
+      45272,
+      33685505
+    ]
+  },
+  "ov18_021FB7C0": {
+    "type": "u16",
+    "entries": [
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0,
+      6,
+      0,
+      7,
+      0
+    ]
+  },
+  "ov18_021FB7E0": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 48,
+        "bottom": 63,
+        "left": 56,
+        "right": 71
+      },
+      {
+        "top": 120,
+        "bottom": 136,
+        "left": 56,
+        "right": 71
+      },
+      {
+        "top": 48,
+        "bottom": 63,
+        "left": 184,
+        "right": 199
+      },
+      {
+        "top": 120,
+        "bottom": 136,
+        "left": 184,
+        "right": 199
+      },
+      {
+        "top": 160,
+        "bottom": 183,
+        "left": 8,
+        "right": 119
+      },
+      {
+        "top": 160,
+        "bottom": 183,
+        "left": 128,
+        "right": 255
+      },
+      {
+        "top": 67,
+        "bottom": 116,
+        "left": 2,
+        "right": 114
+      },
+      {
+        "top": 67,
+        "bottom": 116,
+        "left": 130,
+        "right": 253
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB804": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 8,
+        "bottom": 23,
+        "left": 34,
+        "right": 213
+      },
+      {
+        "top": 32,
+        "bottom": 47,
+        "left": 34,
+        "right": 213
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 34,
+        "right": 213
+      },
+      {
+        "top": 80,
+        "bottom": 95,
+        "left": 34,
+        "right": 213
+      },
+      {
+        "top": 5,
+        "bottom": 20,
+        "left": 231,
+        "right": 252
+      },
+      {
+        "top": 107,
+        "bottom": 122,
+        "left": 231,
+        "right": 252
+      },
+      {
+        "top": 21,
+        "bottom": 106,
+        "left": 231,
+        "right": 252
+      },
+      {
+        "top": 134,
+        "bottom": 154,
+        "left": 134,
+        "right": 255
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB828": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 48,
+        "bottom": 63,
+        "left": 24,
+        "right": 111
+      },
+      {
+        "top": 48,
+        "bottom": 63,
+        "left": 144,
+        "right": 231
+      },
+      {
+        "top": 80,
+        "bottom": 95,
+        "left": 24,
+        "right": 111
+      },
+      {
+        "top": 80,
+        "bottom": 95,
+        "left": 144,
+        "right": 231
+      },
+      {
+        "top": 112,
+        "bottom": 127,
+        "left": 24,
+        "right": 111
+      },
+      {
+        "top": 112,
+        "bottom": 127,
+        "left": 144,
+        "right": 231
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB84C": {
+    "type": "u16",
+    "entries": [
+      0,
+      0,
+      14,
+      0,
+      9,
+      0,
+      11,
+      0,
+      13,
+      0,
+      7,
+      0,
+      8,
+      0,
+      2,
+      0,
+      3,
+      0,
+      4,
+      0,
+      5,
+      0
+    ]
+  },
+  "ov18_021FB878": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 8,
+        "bottom": 23,
+        "left": 128,
+        "right": 215
+      },
+      {
+        "top": 32,
+        "bottom": 47,
+        "left": 56,
+        "right": 127
+      },
+      {
+        "top": 56,
+        "bottom": 71,
+        "left": 56,
+        "right": 177
+      },
+      {
+        "top": 80,
+        "bottom": 95,
+        "left": 56,
+        "right": 183
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 56,
+        "right": 239
+      },
+      {
+        "top": 128,
+        "bottom": 143,
+        "left": 56,
+        "right": 111
+      },
+      {
+        "top": 56,
+        "bottom": 87,
+        "left": 208,
+        "right": 239
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 92,
+        "right": 163
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB8A4": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 4,
+        "bottom": 123,
+        "left": 27,
+        "right": 226
+      },
+      {
+        "top": 0,
+        "bottom": 124,
+        "left": 0,
+        "right": 23
+      },
+      {
+        "top": 5,
+        "bottom": 20,
+        "left": 231,
+        "right": 252
+      },
+      {
+        "top": 131,
+        "bottom": 146,
+        "left": 231,
+        "right": 252
+      },
+      {
+        "top": 21,
+        "bottom": 130,
+        "left": 231,
+        "right": 252
+      },
+      {
+        "top": 128,
+        "bottom": 143,
+        "left": 48,
+        "right": 79
+      },
+      {
+        "top": 128,
+        "bottom": 143,
+        "left": 168,
+        "right": 199
+      },
+      {
+        "top": 152,
+        "bottom": 187,
+        "left": 0,
+        "right": 63
+      },
+      {
+        "top": 152,
+        "bottom": 187,
+        "left": 64,
+        "right": 127
+      },
+      {
+        "top": 152,
+        "bottom": 187,
+        "left": 128,
+        "right": 191
+      },
+      {
+        "top": 152,
+        "bottom": 187,
+        "left": 192,
+        "right": 255
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB8D4": {
+    "type": "u32",
+    "entries": [
+      18508,
+      16843268,
+      18612,
+      773,
+      32844,
+      50529280,
+      32948,
+      33686785,
+      45096,
+      84213762,
+      45272,
+      67371267
+    ]
+  },
+  "ov18_021FB904": {
+    "type": "u16",
+    "entries": [
+      4,
+      0,
+      5,
+      0,
+      6,
+      0,
+      7,
+      0,
+      8,
+      0,
+      9,
+      0,
+      10,
+      0,
+      11,
+      0,
+      12,
+      0,
+      13,
+      0,
+      14,
+      0,
+      15,
+      0
+    ]
+  },
+  "ov18_021FB934": {
+    "type": "u32",
+    "entries": [
+      3713152808,
+      3713158976,
+      3713177480,
+      3713171312,
+      4243010597,
+      4243036811,
+      4243032629,
+      2168854790,
+      4156430598,
+      223158782,
+      225255934,
+      227353086,
+      255
+    ]
+  },
+  "ov18_021FB968": {
+    "type": "u32",
+    "entries": [
+      14404,
+      16843270,
+      14524,
+      775,
+      22596,
+      50529280,
+      22716,
+      33686785,
+      30788,
+      84215298,
+      30908,
+      67372803,
+      45096,
+      117899268,
+      45272,
+      101056773
+    ]
+  },
+  "ov18_021FB9A8": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 40,
+        "bottom": 71,
+        "left": 16,
+        "right": 47
+      },
+      {
+        "top": 40,
+        "bottom": 71,
+        "left": 64,
+        "right": 95
+      },
+      {
+        "top": 40,
+        "bottom": 71,
+        "left": 112,
+        "right": 143
+      },
+      {
+        "top": 40,
+        "bottom": 71,
+        "left": 160,
+        "right": 191
+      },
+      {
+        "top": 40,
+        "bottom": 71,
+        "left": 208,
+        "right": 239
+      },
+      {
+        "top": 80,
+        "bottom": 111,
+        "left": 16,
+        "right": 47
+      },
+      {
+        "top": 80,
+        "bottom": 111,
+        "left": 64,
+        "right": 95
+      },
+      {
+        "top": 80,
+        "bottom": 111,
+        "left": 112,
+        "right": 143
+      },
+      {
+        "top": 80,
+        "bottom": 111,
+        "left": 160,
+        "right": 191
+      },
+      {
+        "top": 80,
+        "bottom": 111,
+        "left": 208,
+        "right": 239
+      },
+      {
+        "top": 120,
+        "bottom": 151,
+        "left": 16,
+        "right": 47
+      },
+      {
+        "top": 120,
+        "bottom": 151,
+        "left": 64,
+        "right": 95
+      },
+      {
+        "top": 120,
+        "bottom": 151,
+        "left": 112,
+        "right": 143
+      },
+      {
+        "top": 120,
+        "bottom": 151,
+        "left": 160,
+        "right": 191
+      },
+      {
+        "top": 120,
+        "bottom": 151,
+        "left": 208,
+        "right": 239
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FB9F0": {
+    "type": "u32",
+    "entries": [
+      4268,
+      256,
+      10332,
+      100729344,
+      16500,
+      100795137,
+      22640,
+      100860930,
+      28808,
+      67372291,
+      34900,
+      84248580,
+      18656,
+      109118464,
+      45096,
+      134678277,
+      45184,
+      151455749,
+      45272,
+      151521541
+    ]
+  },
+  "ov18_021FBA40": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 3,
+        "right": 60
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 67,
+        "right": 124
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 131,
+        "right": 188
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 195,
+        "right": 252
+      },
+      {
+        "top": 64,
+        "bottom": 79,
+        "left": 3,
+        "right": 60
+      },
+      {
+        "top": 64,
+        "bottom": 79,
+        "left": 67,
+        "right": 124
+      },
+      {
+        "top": 64,
+        "bottom": 79,
+        "left": 131,
+        "right": 188
+      },
+      {
+        "top": 64,
+        "bottom": 79,
+        "left": 195,
+        "right": 252
+      },
+      {
+        "top": 88,
+        "bottom": 104,
+        "left": 3,
+        "right": 60
+      },
+      {
+        "top": 88,
+        "bottom": 104,
+        "left": 67,
+        "right": 124
+      },
+      {
+        "top": 88,
+        "bottom": 104,
+        "left": 131,
+        "right": 188
+      },
+      {
+        "top": 88,
+        "bottom": 104,
+        "left": 195,
+        "right": 252
+      },
+      {
+        "top": 112,
+        "bottom": 127,
+        "left": 3,
+        "right": 60
+      },
+      {
+        "top": 112,
+        "bottom": 127,
+        "left": 67,
+        "right": 124
+      },
+      {
+        "top": 112,
+        "bottom": 127,
+        "left": 131,
+        "right": 188
+      },
+      {
+        "top": 112,
+        "bottom": 127,
+        "left": 195,
+        "right": 252
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 3,
+        "right": 60
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 67,
+        "right": 124
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FBA94": {
+    "type": "TouchscreenHitbox",
+    "entries": [
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 24,
+        "right": 39
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 56,
+        "right": 71
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 88,
+        "right": 103
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 120,
+        "right": 135
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 152,
+        "right": 167
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 184,
+        "right": 199
+      },
+      {
+        "top": 40,
+        "bottom": 55,
+        "left": 216,
+        "right": 231
+      },
+      {
+        "top": 72,
+        "bottom": 87,
+        "left": 24,
+        "right": 39
+      },
+      {
+        "top": 72,
+        "bottom": 87,
+        "left": 56,
+        "right": 71
+      },
+      {
+        "top": 72,
+        "bottom": 87,
+        "left": 88,
+        "right": 103
+      },
+      {
+        "top": 72,
+        "bottom": 87,
+        "left": 120,
+        "right": 135
+      },
+      {
+        "top": 72,
+        "bottom": 87,
+        "left": 152,
+        "right": 167
+      },
+      {
+        "top": 72,
+        "bottom": 87,
+        "left": 184,
+        "right": 199
+      },
+      {
+        "top": 72,
+        "bottom": 87,
+        "left": 216,
+        "right": 231
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 24,
+        "right": 39
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 56,
+        "right": 71
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 88,
+        "right": 103
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 120,
+        "right": 135
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 152,
+        "right": 167
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 184,
+        "right": 199
+      },
+      {
+        "top": 104,
+        "bottom": 119,
+        "left": 216,
+        "right": 231
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 24,
+        "right": 39
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 56,
+        "right": 71
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 88,
+        "right": 103
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 120,
+        "right": 135
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 152,
+        "right": 167
+      },
+      {
+        "top": 136,
+        "bottom": 151,
+        "left": 216,
+        "right": 231
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 4,
+        "right": 75
+      },
+      {
+        "top": 164,
+        "bottom": 187,
+        "left": 180,
+        "right": 251
+      },
+      {
+        "top": 255,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
+    ]
+  },
+  "ov18_021FBB0C": {
+    "type": "u32",
+    "entries": [
+      14368,
+      17040655,
+      14416,
+      33555983,
+      14464,
+      50398991,
+      14512,
+      67242000,
+      14560,
+      198928,
+      24608,
+      101255680,
+      24656,
+      117771009,
+      24704,
+      134614018,
+      24752,
+      151457027,
+      24800,
+      84413956,
+      34848,
+      185470725,
+      34896,
+      201985798,
+      34944,
+      218828551,
+      34992,
+      235671560,
+      35040,
+      168628233,
+      45096,
+      269484042,
+      45272,
+      252642318
+    ]
+  },
+  "ov18_021FBB94": {
+    "type": "u32",
+    "entries": [
+      12320,
+      16974866,
+      12384,
+      33555730,
+      12448,
+      50398739,
+      12512,
+      132883,
+      18464,
+      84346880,
+      18528,
+      100927745,
+      18592,
+      117770754,
+      18656,
+      67504899,
+      24608,
+      151718916,
+      24672,
+      168299781,
+      24736,
+      185142790,
+      24800,
+      134876935,
+      30752,
+      219090952,
+      30816,
+      235671817,
+      30880,
+      252515082,
+      30944,
+      202248971,
+      36896,
+      286331404,
+      36960,
+      269488653,
+      45096,
+      320012304,
+      45272,
+      303170319
+    ]
+  },
+  "ov18_021FBC34": {
+    "type": "u32",
+    "entries": [
+      12320,
+      17172251,
+      12352,
+      33556507,
+      12384,
+      50399515,
+      12416,
+      67242523,
+      12448,
+      84085532,
+      12480,
+      100928540,
+      12512,
+      331036,
+      20512,
+      135073280,
+      20544,
+      151457537,
+      20576,
+      168300546,
+      20608,
+      185143555,
+      20640,
+      201986564,
+      20672,
+      218829573,
+      20704,
+      118232070,
+      28704,
+      252974343,
+      28736,
+      269358600,
+      28768,
+      286201609,
+      28800,
+      303044618,
+      28832,
+      319887627,
+      28864,
+      336731148,
+      28896,
+      236132877,
+      36896,
+      370809614,
+      36928,
+      387259151,
+      36960,
+      404101904,
+      36992,
+      420944657,
+      37024,
+      437787666,
+      37088,
+      353967124,
+      45096,
+      471597077,
+      45272,
+      454755866
+    ]
+  },
+  "ov18_021FBD1C": {
+    "type": "u32",
+    "entries": [
+      992224039,
+      589440572,
+      8995
+    ]
+  },
+  "ov18_021FBD28": {
+    "type": "u32",
+    "entries": [
+      572662306,
+      572662306,
+      572662306,
+      589439522,
+      35
+    ]
+  },
+  "ov18_021FBD3C": {
+    "type": "u32",
+    "entries": [
+      640034342,
+      640034342,
+      640034342,
+      640034342,
+      589506086
+    ]
+  },
+  "ov18_021FBD50": {
+    "type": "u32",
+    "entries": [
+      32,
+      65536,
+      16384,
+      0
+    ]
+  },
+  "ov18_021FBD60": {
+    "type": "BgTemplate",
+    "entries": [
+      {
+        "x": 0,
+        "y": 0,
+        "bufferSize": 2048,
+        "baseTile": 0,
+        "size": 1,
+        "colorMode": 0,
+        "screenBase": 30,
+        "charBase": 4,
+        "bgExtPltt": 0,
+        "priority": 2,
+        "areaOver": 0,
+        "dummy": 0,
+        "mosaic": 0
+      }
+    ]
+  },
+  "ov18_021FBD7C": {
+    "type": "BgTemplate",
+    "entries": [
+      {
+        "x": 0,
+        "y": 0,
+        "bufferSize": 2048,
+        "baseTile": 0,
+        "size": 1,
+        "colorMode": 0,
+        "screenBase": 31,
+        "charBase": 0,
+        "bgExtPltt": 0,
+        "priority": 1,
+        "areaOver": 0,
+        "dummy": 0,
+        "mosaic": 0
+      }
+    ]
+  },
+  "ov18_021FBD98": {
+    "type": "BgTemplate",
+    "entries": [
+      {
+        "x": 0,
+        "y": 0,
+        "bufferSize": 2048,
+        "baseTile": 0,
+        "size": 1,
+        "colorMode": 0,
+        "screenBase": 29,
+        "charBase": 4,
+        "bgExtPltt": 0,
+        "priority": 3,
+        "areaOver": 0,
+        "dummy": 0,
+        "mosaic": 0
+      }
+    ]
+  },
+  "ov18_021FBDB4": {
+    "type": "WindowTemplate",
+    "entries": [
+      {
+        "bgId": 1,
+        "left": 2,
+        "top": 0,
+        "width": 28,
+        "height": 2,
+        "palette": 2,
+        "baseTile": 968
+      },
+      {
+        "bgId": 1,
+        "left": 15,
+        "top": 3,
+        "width": 4,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 960
+      },
+      {
+        "bgId": 1,
+        "left": 19,
+        "top": 3,
+        "width": 9,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 942
+      },
+      {
+        "bgId": 1,
+        "left": 13,
+        "top": 5,
+        "width": 18,
+        "height": 2,
+        "palette": 0,
+        "baseTile": 906
+      },
+      {
+        "bgId": 1,
+        "left": 2,
+        "top": 17,
+        "width": 28,
+        "height": 6,
+        "palette": 1,
+        "baseTile": 738
+      },
+      {
+        "bgId": 1,
+        "left": 18,
+        "top": 11,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 728
+      },
+      {
+        "bgId": 1,
+        "left": 23,
+        "top": 11,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 712
+      },
+      {
+        "bgId": 1,
+        "left": 18,
+        "top": 13,
+        "width": 5,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 702
+      },
+      {
+        "bgId": 1,
+        "left": 23,
+        "top": 13,
+        "width": 8,
+        "height": 2,
+        "palette": 1,
+        "baseTile": 686
+      }
+    ]
+  },
+  "ov18_021FBDFC": {
+    "type": "u32",
+    "entries": [
+      50332160,
+      33751297,
+      33685504,
+      65793,
+      770
+    ]
+  },
+  "ov18_021FBE10": {
+    "type": "u16",
+    "entries": [
+      36,
+      0,
+      42,
+      0,
+      50,
+      0,
+      46,
+      0,
+      44,
+      0,
+      41,
+      0,
+      47,
+      0,
+      43,
+      0,
+      45,
+      0,
+      36,
+      0,
+      37,
+      0,
+      39,
+      0,
+      38,
+      0,
+      40,
+      0,
+      51,
+      0,
+      49,
+      0,
+      52,
+      0,
+      48,
+      0
+    ]
+  }
+}

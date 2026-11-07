@@ -1,0 +1,205 @@
+{
+  "key": 21180,
+  "messages": [
+    {
+      "id": "msg_0441_00000",
+      "de_DE": [
+        "Reichedel: Hallo, hallo!\r",
+        "Willkommen auf meinem\n",
+        "prächtigen Landgut.\r",
+        "Hier gibt es viel, drinnen und draußen,\n",
+        "auf das ich sehr stolz bin...\r",
+        "Mein größter Stolz aber ist der\n",
+        "Trophäengarten!\r",
+        "Warum weite Reisen auf sich\n",
+        "nehmen, wenn Pokémon sich\f",
+        "von ihm angezogen fühlen?\r",
+        "Sie kommen, um meinen Garten\n",
+        "zu sehen.\r",
+        "Und du bist herzlich eingeladen,\n",
+        "ihnen dabei Gesellschaft zu leisten!"
+      ]
+    },
+    {
+      "id": "msg_0441_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0441_00002",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0441_00003",
+      "de_DE": [
+        "Reichedel: Er-ähm!\r",
+        "Hier gibt es viel, drinnen und draußen,\n",
+        "auf das ich sehr stolz bin...\r",
+        "Mein größter Stolz aber ist der\n",
+        "Trophäengarten!\r",
+        "Warum weite Reisen auf sich\n",
+        "nehmen, wenn Pokémon sich\f",
+        "von ihm angezogen fühlen?\r",
+        "Sie kommen, um meinen Garten\n",
+        "zu sehen.\r",
+        "Nun, macht dich das nicht neidisch?\n",
+        "Du bist neidisch, habe ich Recht?!?"
+      ]
+    },
+    {
+      "id": "msg_0441_00004",
+      "de_DE": [
+        "Ich weiß, du bist fast grün vor Neid...\n",
+        "Du machst niemandem etwas vor..."
+      ]
+    },
+    {
+      "id": "msg_0441_00005",
+      "de_DE": [
+        "Reichedel: Jede Wette, dass du das\n",
+        "bist! Habe ich es doch gewusst!\r",
+        "Aber das stört mich nicht! Ich teile\n",
+        "trotzdem gerne meine Geschichten\f",
+        "mit dir!\r",
+        "Also! Wenn ich in meinen wertvollen\n",
+        "Garten gehe, rennen Pokémon auf\f",
+        "mich zu.\r",
+        "Sie schleichen sich an, voller Glück\n",
+        "und Freude, mich zu sehen!\r",
+        "Nun. Das macht dich neidisch, was?\n",
+        "Bist du neidisch, ja?!?"
+      ]
+    },
+    {
+      "id": "msg_0441_00006",
+      "de_DE": [
+        "Reichedel: Muahaha... Darauf würde ich\n",
+        "wetten! Ich wusste, du bist neidisch!\r",
+        "Aber das macht mir nichts aus! Ich \n",
+        "werde meine Geschichten trotzdem\f",
+        "mit dir teilen!\r",
+        "Also! Es passierte, als ich heute\n",
+        "Morgen in meinen Trophäengarten ging.\r",
+        "Da sah ich ein niedliches {STRVAR_1 0, 0},\n",
+        "das voller Freude auf mich zu lief.\r",
+        "Das {STRVAR_1 0, 0} kam also auf mich zu\n",
+        "und küsste mich auf die Wange...\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00007",
+      "de_DE": [
+        "Butler: Master!\r",
+        "Da-das Pokémon, von dem Ihr\n",
+        "gerade sprecht...\r",
+        "Das gibt es in dem Garten gar nicht...\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00008",
+      "de_DE": [
+        "Reichedel: Wa-wa-wa...\r",
+        "Äh... ähm...\r",
+        "Was sagst du da?!?\n",
+        "Bin ich etwa ein Angeber?!?\r",
+        "Hör zu... Murmel murmel...\n",
+        "Flüster tuschel...\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00009",
+      "de_DE": [
+        "Butler: Jawohl, Master!\n",
+        "Sofort, Sir!\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00010",
+      "de_DE": [
+        "Reichedel: ...Es stimmt! Wenn\n",
+        "ich es dir doch sage!\r",
+        "Über diese Lippen würde niemals\n",
+        "eine Lüge kommen!\r",
+        "In meinem Trophäengarten gibt\n",
+        "es niedliche {STRVAR_1 0, 0}!\f",
+        "Wirklich und ganz ehrlich!!!"
+      ]
+    },
+    {
+      "id": "msg_0441_00011",
+      "de_DE": [
+        "Butler: Master ist wirklich eine\n",
+        "wunderbare und großzügige Person!\r",
+        "Auf seine Anweisung hin steht der\n",
+        "Garten allen offen, auch Trainern!\n"
+      ]
+    },
+    {
+      "id": "msg_0441_00012",
+      "de_DE": [
+        "Butler: Master genießt es wirklich\n",
+        "sehr, seinen wertvollen Garten\f",
+        "starken Trainern zu zeigen."
+      ]
+    },
+    {
+      "id": "msg_0441_00013",
+      "de_DE": [
+        "Butler: Master ist heute wieder im\n",
+        "Garten spazieren gewesen, wie immer."
+      ]
+    },
+    {
+      "id": "msg_0441_00014",
+      "de_DE": [
+        "Butler: Hast du sie gesehen? Da waren\n",
+        "einige {STRVAR_1 0, 0}, nicht wahr?\r",
+        "Nun, das war auch zu erwarten,\n",
+        "schließlich ist dies der\f",
+        "Trophäengarten vom Master."
+      ]
+    },
+    {
+      "id": "msg_0441_00015",
+      "de_DE": [
+        "Butler: Wie findest du sie? Die\n",
+        "Neuerungen im Trophäengarten\f",
+        "vom Master, meine ich?\r",
+        "Hast du bemerkt, dass dort viele\n",
+        "seltene Pokémon zu finden sind?\r",
+        "Aber das ist ja nur natürlich, ist es\n",
+        "doch der Trophäengarten des Masters."
+      ]
+    },
+    {
+      "id": "msg_0441_00016",
+      "de_DE": [
+        "Du darfst sie dir anschauen,\n",
+        "aber berühren darfst du die\f",
+        "Pokémon-Statue nicht."
+      ]
+    },
+    {
+      "id": "msg_0441_00017",
+      "de_DE": [
+        "Stopp! Das Berühren der Figüren\n",
+        "mit den Pfoten ist verboten!\r"
+      ]
+    },
+    {
+      "id": "msg_0441_00018",
+      "de_DE": [
+        "Das ist eine sehr teuer aussehende\n",
+        "Pokémon-Statue...\r",
+        "...!\n",
+        "Du hast Fingerabdrücke hinterlassen..."
+      ]
+    },
+    {
+      "id": "msg_0441_00019",
+      "de_DE": [
+        "Das ist ein sehr teuer aussehender\n",
+        "Bildband über Pokémon."
+      ]
+    }
+  ]
+}

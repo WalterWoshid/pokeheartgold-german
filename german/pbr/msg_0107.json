@@ -1,0 +1,26 @@
+{
+  "key": 1039,
+  "messages": [
+    {
+      "id": "msg_0107_00000",
+      "de_DE": [
+        "Ich habe etwas, was deine Pokémon\n",
+        "halten können. Diesen {STRVAR_1 8, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00001",
+      "de_DE": [
+        "Wenn ein Pokémon diesen {STRVAR_1 8, 0}\n",
+        "hält, bekommt es durch Schaden, den es\f",
+        "zufügt, ein paar KP zurück.\r",
+        "Das habe ich in den Ferien geschenkt\n",
+        "bekommen, aber ich hatte es schon."
+      ]
+    },
+    {
+      "id": "msg_0107_00002",
+      "de_DE": "PIEPI: Piep piep!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": 17431,
+  "messages": [
+    {
+      "id": "msg_0026_00000",
+      "de_DE": [
+        "Ich weiß nicht, was ich machen soll.\r",
+        "Welches Accessoire passt wohl am\n",
+        "besten zu meiner heutigen Kleidung?"
+      ]
+    },
+    {
+      "id": "msg_0026_00001",
+      "de_DE": [
+        "Der Star von morgen... das bist du!\n",
+        "Dein Pokémon strahlt es aus!\r",
+        "Ich habe hier ein Geschenk für\n",
+        "den zukünftigen Star am Himmel!\r"
+      ]
+    },
+    {
+      "id": "msg_0026_00002",
+      "de_DE": [
+        "Ta daaah... {STRVAR_1 31, 0}!\r",
+        "Ich hoffe, du wirst viele Accessoires\n",
+        "für deine Pokémon sammeln!"
+      ]
+    }
+  ]
+}

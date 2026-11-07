@@ -1,0 +1,66 @@
+{
+  "key": 46198,
+  "messages": [
+    {
+      "id": "msg_0121_00000",
+      "de_DE": [
+        "Hey da!\n",
+        "Ich bin der Karate-Meister!\r",
+        "Ich trainiere hier ganz alleine in dieser\n",
+        "düsteren Höhle! So bin ich eben!\r",
+        "In Ordnung!\n",
+        "Hergehört!\f",
+        "Ich will, dass du gegen mich kämpfst!\f",
+        "Harrrgh!\r"
+      ]
+    },
+    {
+      "id": "msg_0121_00001",
+      "de_DE": [
+        "Da-da... das ist doch nicht möglich!\n",
+        "Wie lange soll ich denn noch trainieren?\r",
+        "Ich sage es nur ungerne, aber ich habe\n",
+        "verloren. Ich gebe mich geschlagen!\r",
+        "Hergehört! Als Beweis für deinen Sieg\n",
+        "will ich dir dieses kostbare\f",
+        "Kampf-Pokémon überreichen!\r"
+      ]
+    },
+    {
+      "id": "msg_0121_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "RABAUZ!"
+      ]
+    },
+    {
+      "id": "msg_0121_00003",
+      "de_DE": [
+        "RABAUZ ist ein Pokémon vom Typ Kampf!\r",
+        "Zieht man es auf, entwickelt es sich\n",
+        "angeblich zu einem mächtigen Pokémon!\r",
+        "Also hergehört! Streng dich an!\n",
+        "Ich setze jetzt auch mein Training fort.\f",
+        "Hau rein!"
+      ]
+    },
+    {
+      "id": "msg_0121_00004",
+      "de_DE": [
+        "He!\n",
+        "Du hast zu viele Pokémon dabei!"
+      ]
+    },
+    {
+      "id": "msg_0121_00005",
+      "de_DE": [
+        "Möchtest du dem RABAUZ\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0121_00006",
+      "garbage": 25
+    }
+  ]
+}

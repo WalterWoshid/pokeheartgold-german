@@ -1,0 +1,154 @@
+{
+  "key": 17426,
+  "messages": [
+    {
+      "id": "msg_0497_00000",
+      "de_DE": [
+        "Falk: Mein Vater ist und bleibt\n",
+        "einfach das weltweit größte Talent\f",
+        "im Umgang mit Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0497_00001",
+      "de_DE": [
+        "Janina: Hahaha! Das denkst\n",
+        "aber auch nur du, du Ignorant!\r",
+        "Niemand auf dieser Welt kann Koga\n",
+        "von den Top Vier das Wasser reichen!\f",
+        "Mein Vater ist einfach der Beste, und\f",
+        "niemand anderes!\r"
+      ]
+    },
+    {
+      "id": "msg_0497_00002",
+      "de_DE": [
+        "Falk: Du hast doch keine Ahnung!\n",
+        "Mein Vater ist eindeutig der...\r"
+      ]
+    },
+    {
+      "id": "msg_0497_00003",
+      "de_DE": [
+        "Janina: Jetzt rede doch nicht so um\n",
+        "den heißen Brei herum! Gib endlich\f",
+        "zu, dass mein Vater der Beste ist!\r"
+      ]
+    },
+    {
+      "id": "msg_0497_00004",
+      "de_DE": [
+        "Falk: Du! Du hast uns zugehört, oder?\n",
+        "Du findest doch bestimmt auch, dass\f",
+        "mein Vater der Größte ist, richtig? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0497_00005",
+      "de_DE": [
+        "Falk: Wusste ich’s doch! Ich sehe doch\n",
+        "ganz genau, dass du jemand bist, der\f",
+        "von solchen Sachen eine Ahnung hat!\r",
+        "Du und ich, wir könnten uns bestimmt\n",
+        "die ganze Nacht mit Geschichten über\f",
+        "meinen Vater um die Ohren schlagen!\r",
+        "Ich verrate dir meine Telefonnummer!\r"
+      ]
+    },
+    {
+      "id": "msg_0497_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Falks Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0497_00007",
+      "de_DE": [
+        "Falk: Wenn du jemanden suchst, mit dem\n",
+        "du dich über meinen Vater unterhalten\f",
+        "kannst, dann melde dich Samstag früh!"
+      ]
+    },
+    {
+      "id": "msg_0497_00008",
+      "de_DE": [
+        "Falk: Was, du widersprichst mir?!?\n",
+        "Dass du so wenig Grips hast, hätte\f",
+        "ich jetzt wirklich nicht gedacht...\r",
+        "Aber was soll’s. Vielleicht änderst du\n",
+        "deine Meinung irgendwann ja noch!"
+      ]
+    },
+    {
+      "id": "msg_0497_00009",
+      "de_DE": [
+        "Falk: Hast du deine Meinung über\n",
+        "meinen Vater inzwischen geändert? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0497_00010",
+      "de_DE": [
+        "Falk: Hey, was sagst du... wollen\n",
+        "wir zusammen ein Foto schießen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0497_00011",
+      "de_DE": "Falk: Danke! So, bitte lächeln!\r"
+    },
+    {
+      "id": "msg_0497_00012",
+      "de_DE": [
+        "Falk: Toll! Das Foto ist echt\n",
+        "schön geworden!"
+      ]
+    },
+    {
+      "id": "msg_0497_00013",
+      "de_DE": [
+        "Falk: Aha, so tickst du also!\n",
+        "Dann gehe ich eben zu meinem Vater\f",
+        "und mache mit ihm ein Foto!"
+      ]
+    },
+    {
+      "id": "msg_0497_00014",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    },
+    {
+      "id": "msg_0497_00015",
+      "de_DE": "Janina: Aha!"
+    },
+    {
+      "id": "msg_0497_00016",
+      "de_DE": [
+        "Ich will mir hier einen Blütenbrief\n",
+        "für meine Freundin kaufen!"
+      ]
+    },
+    {
+      "id": "msg_0497_00017",
+      "de_DE": [
+        "Hey! Hast du schon gehört?\r",
+        "Bisher hatte nur ein einziges Geschäft\n",
+        "in Viola City Minenbriefe im Sortiment,\f",
+        "aber jetzt sind sie endlich auch in\f",
+        "diesem Laden erhältlich!"
+      ]
+    },
+    {
+      "id": "msg_0497_00018",
+      "de_DE": [
+        "Lass ein Geschenk für dich sprechen!\n",
+        "3S: Geschenkartikel"
+      ]
+    }
+  ]
+}

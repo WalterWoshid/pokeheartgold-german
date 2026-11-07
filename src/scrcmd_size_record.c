@@ -7,6 +7,12 @@
 #include "scrcmd.h"
 #include "script_state_misc.h"
 
+#ifdef GERMAN
+#define SizeRecord_ConvertLength(value) (value)
+#else
+#define SizeRecord_ConvertLength(value) LengthConvertToImperial(value)
+#endif
+
 static const u16 sBigMonSizeTable[][3] = {
     { 290,  1,   0     },
     { 300,  1,   10    },
@@ -75,7 +81,7 @@ static void FormatSizeRecord(FieldSystem *fieldSystem, u8 idx0, u8 idx1, u16 spe
 
     msgFmt = FieldSysGetAttrAddr(fieldSystem, SCRIPTENV_MESSAGE_FORMAT);
     score = GetMonSize(species, rand);
-    r4 = LengthConvertToImperial(score);
+    r4 = SizeRecord_ConvertLength(score);
     BufferIntegerAsString(*msgFmt, idx0, r4 / 10, 3, PRINTING_MODE_LEFT_ALIGN, TRUE);
     BufferIntegerAsString(*msgFmt, idx1, r4 % 10, 1, PRINTING_MODE_LEFT_ALIGN, TRUE);
 }
@@ -100,11 +106,15 @@ BOOL ScrCmd_SizeRecordCompare(ScriptContext *ctx) {
     record = Save_VarsFlags_GetFishingCompetitionLengthRecord(Save_VarsFlags_Get(fieldSystem->saveData));
     cm2 = GetMonSize(species, record);
     {
-        u32 in1 = LengthConvertToImperial(cm1);
-        u32 in2 = LengthConvertToImperial(cm2);
+        u32 in1 = SizeRecord_ConvertLength(cm1);
+        u32 in2 = SizeRecord_ConvertLength(cm2);
         if (in1 == in2) {
+#ifdef GERMAN
+            *ret_p = 1;
+#else
             // *ret_p = 1;
             return 1; // Whoops! This instead yields to the next frame.
+#endif
         } else {
             if (in1 > in2) {
                 *ret_p = 2;

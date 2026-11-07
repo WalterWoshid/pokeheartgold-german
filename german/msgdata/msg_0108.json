@@ -1,0 +1,982 @@
+{
+  "key": 5194,
+  "messages": [
+    {
+      "id": "msg_0108_00000",
+      "de_DE": [
+        "Willkommen im Kampfsaal!\r",
+        "Ich stehe dir bei den Einzel- und\n",
+        "Doppelkämpfen helfend zur Seite.\r",
+        "Beachte bitte, dass diese Kämpfe\n",
+        "nur für einen Trainer gedacht sind.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00001",
+      "de_DE": [
+        "Welcher Herausforderung möchtest\n",
+        "du dich gern stellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0108_00002",
+      "de_DE": [
+        "Im Kampfsaal kannst du allein Einzel-\n",
+        "oder Doppelkämpfe bestreiten.\r",
+        "In einem Einzelkampf trittst du mit\n",
+        "einem Pokémon, das mindestens Level\f",
+        "30 erreicht hat, an.\r",
+        "Im Doppelkampf benötigst du zwei\n",
+        "Pokémon derselben Art mit wenigstens\f",
+        "Level 30.\r",
+        "Siegesserien werden für individuelle\n",
+        "Pokémon gespeichert.\r",
+        "So hat jede Pokémon-Art die Chance,\n",
+        "die Nummer eins zu werden.\r",
+        "Beim Betreten des Kampfsaals wirst du\n",
+        "gefragt, gegen welchen Typ und Level\f",
+        "von Pokémon du kämpfen möchtest.\r",
+        "Gelingt es dir, zehn Kämpfe in einer\n",
+        "Reihe für dich zu entscheiden, dann\f",
+        "erhältst du Gewinnpunkte (GP).\r",
+        "Willst du den Kampf unterbrechen,\n",
+        "speichere bitte dein Spiel.\r",
+        "Speicherst du es nicht,\n",
+        "wirst du disqualifiziert.\r",
+        "Bitte vergiss das nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00003",
+      "de_DE": [
+        "Willkommen im Kampfsaal!\r",
+        "Ich stehe dir in Sachen Multikampf\n",
+        "mit Rat und Tat zur Seite.\r",
+        "Bitte beachte, dass diese Art von\n",
+        "Herausforderung zwei Trainer braucht.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00004",
+      "de_DE": [
+        "Möchtest du dich den Multikämpfen\n",
+        "im Kampfsaal stellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0108_00005",
+      "de_DE": [
+        "Hier trittst du in Multikämpfen\n",
+        "zusammen mit einem Freund an.\r",
+        "Ihr müsst ein Pokémon derselben\n",
+        "Art verwenden, das mindestens\f",
+        "Level 30 hat.\r",
+        "Beim Betreten des Kampfsaals werdet ihr\n",
+        "gefragt, gegen welchen Typ und Level\f",
+        "von Pokémon ihr kämpfen möchtet.\r",
+        "Gelingt es euch, zehn Kämpfe in einer\n",
+        "Reihe für euch zu entscheiden, dann\f",
+        "erhaltet ihr Gewinnpunkte (GP).\r",
+        "Beachte bitte, dass eine Multikampf-\n",
+        "Herausforderung im Kampfsaal\f",
+        "nicht unterbrochen werden kann.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00006",
+      "de_DE": "Hoffentlich bis bald mal wieder!"
+    },
+    {
+      "id": "msg_0108_00007",
+      "de_DE": [
+        "Welche Regel möchtest du für diese\n",
+        "Herausforderung aktivieren?\r",
+        "Level 50 oder Offener Level?"
+      ]
+    },
+    {
+      "id": "msg_0108_00008",
+      "de_DE": [
+        "Bevor ich dich hereinlasse,\n",
+        "musst du das Spiel speichern.\f",
+        "Einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0108_00009",
+      "de_DE": "Bitte hier entlang!"
+    },
+    {
+      "id": "msg_0108_00010",
+      "de_DE": [
+        "Wir freuen uns auf deinen nächsten\n",
+        "Besuch!\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00011",
+      "de_DE": [
+        "Lange nicht gesehen!\r",
+        "Du musst das Spiel speichern, bevor du\n",
+        "die Herausforderung wieder aufnimmst.\r",
+        "Bitte habe Geduld."
+      ]
+    },
+    {
+      "id": "msg_0108_00012",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Vorm Verlassen deiner letzten\n",
+        "Herausforderung hast du nicht\f",
+        "gespeichert.\r",
+        "Aus diesem Grunde wurdest du\n",
+        "disqualifiziert!\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00013",
+      "de_DE": [
+        "Glückwunsch!\r",
+        "Der Preis für deinen Sieg ist dieses\n",
+        "schmucke Erinnerungsfoto!\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00014",
+      "de_DE": [
+        "Das Goldfoto wurde an die Kampfkamera\n",
+        "von {STRVAR_1 3, 0, 0} gesendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00015",
+      "de_DE": [
+        "Das Silberfoto wurde an die Kampfkamera\n",
+        "von {STRVAR_1 3, 0, 0} gesendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00016",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0108_00017",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0108_00018",
+      "de_DE": "HERAUSFORDERN"
+    },
+    {
+      "id": "msg_0108_00019",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0108_00020",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0108_00021",
+      "de_DE": "LEVEL 50"
+    },
+    {
+      "id": "msg_0108_00022",
+      "de_DE": "OFFENER LEVEL"
+    },
+    {
+      "id": "msg_0108_00023",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0108_00024",
+      "de_DE": [
+        "Du möchtest gerne starke Pokémon\n",
+        "trainieren, hast aber keinen blassen\f",
+        "Schimmer, welche sich dafür eignen?\r",
+        "Trainer, die genau diese Art von\n",
+        "Kummer plagt, sind in der Kampffabrik\f",
+        "an der richtigen Adresse!"
+      ]
+    },
+    {
+      "id": "msg_0108_00025",
+      "de_DE": [
+        "Ja, das ist natürlich wahr...\r",
+        "Man lernt nie aus im Leben! Aber selbst\n",
+        "wenn du etwas über Pokémon-Kämpfe\f",
+        "und das Trainerdasein lernen möchtest,\f",
+        "bist du hier an der richtigen Adresse..."
+      ]
+    },
+    {
+      "id": "msg_0108_00026",
+      "de_DE": [
+        "Hepp und wusch!\n",
+        "Hepp und wusch!\r",
+        "Ich habe noch kein eigenes Pokémon.\n",
+        "Deshalb übe ich lieber noch ein wenig,\f",
+        "wie man Pokébälle richtig wirft."
+      ]
+    },
+    {
+      "id": "msg_0108_00027",
+      "de_DE": [
+        "Ooomi! Ooomiii! Ich habe es geschafft,\n",
+        "mir ein paar Accessoires zu ertauschen!\f",
+        "Die kriegt alle meine Omi!"
+      ]
+    },
+    {
+      "id": "msg_0108_00028",
+      "de_DE": [
+        "Oh, da freue ich mich aber...\r",
+        "Sie ist ja so niedlich, so lebendig und\n",
+        "so herzensgut... manchmal weiß ich gar\f",
+        "nicht, ob ich so eine Enkelin verdiene..."
+      ]
+    },
+    {
+      "id": "msg_0108_00029",
+      "de_DE": [
+        "Siehst du das kleine Mädchen da\n",
+        "drüben bei dieser alten Frau?\f",
+        "Sie ist unglaublich stark!\f",
+        "Aber man sieht es ihr nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0108_00030",
+      "de_DE": [
+        "Bitte legt fest, wer von euch der\n",
+        "“LEITER WERDEN” soll.\r",
+        "Der andere Spieler wählt\n",
+        "“MITSPIELER” aus. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0108_00031",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "initialisieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0108_00032",
+      "de_DE": [
+        "Du musst das Spiel speichern, bevor ich\n",
+        "dich hereinlasse. Bitte habe Geduld."
+      ]
+    },
+    {
+      "id": "msg_0108_00033",
+      "de_DE": "Bitte Pokémon für den Kampf auswählen.\r"
+    },
+    {
+      "id": "msg_0108_00034",
+      "de_DE": [
+        "Zurzeit ist für {STRVAR_1 0, 0, 0} eine\n",
+        "Siegesserie zwischengespeichert.\r",
+        "Aufzeichnung löschen und eine\n",
+        "neue für {STRVAR_1 0, 1, 0} starten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0108_00035",
+      "de_DE": [
+        "Entschuldigung...\r",
+        "Du hast gar kein Pokémon über Level\n",
+        "30, das an dem Kampf teilnehmen kann!\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00036",
+      "de_DE": [
+        "Entschuldigung...\r",
+        "Für Doppelkämpfe benötigst du zwei\n",
+        "Pokémon derselben Art, deren Level\f",
+        "über 30 ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00037",
+      "de_DE": [
+        "Hmmm... Eier dürfen hier aber auch\n",
+        "nicht mitspielen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00038",
+      "de_DE": [
+        "Eier und {STRVAR_1 0, 1, 0} dürfen an den\n",
+        "Kämpfen nicht teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00039",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0} und {STRVAR_1 0, 2, 0}\n",
+        "dürfen nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00040",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0} und\n",
+        "{STRVAR_1 0, 3, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00041",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0} und {STRVAR_1 0, 4, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00042",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0} und\f",
+        "{STRVAR_1 0, 5, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00043",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0} und {STRVAR_1 0, 6, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00044",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0} und\f",
+        "{STRVAR_1 0, 7, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00045",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0} und {STRVAR_1 0, 8, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00046",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0} und\f",
+        "{STRVAR_1 0, 9, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00047",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0} und {STRVAR_1 0, 10, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00048",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0} und\f",
+        "{STRVAR_1 0, 11, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00049",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0} und {STRVAR_1 0, 12, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00050",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0} und\f",
+        "{STRVAR_1 0, 13, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00051",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0} und {STRVAR_1 0, 14, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00052",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0} und\f",
+        "{STRVAR_1 0, 15, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00053",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0} und {STRVAR_1 0, 16, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00054",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0} und\f",
+        "{STRVAR_1 0, 17, 0} dürfen nicht an den\f",
+        "Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00055",
+      "de_DE": [
+        "Eier, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n",
+        "{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f",
+        "{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f",
+        "{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f",
+        "{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f",
+        "{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f",
+        "{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f",
+        "{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f",
+        "{STRVAR_1 0, 17, 0} und {STRVAR_1 0, 18, 0} dürfen\f",
+        "nicht an den Kämpfen teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00056",
+      "de_DE": "Komm wieder, wenn du bereit bist.\r"
+    },
+    {
+      "id": "msg_0108_00057",
+      "de_DE": [
+        "Im Multikampf im Kampfsaal müssen\n",
+        "beide Partner dieselbe Art Pokémon\f",
+        "in den Kampf schicken.\r",
+        "Bitte beratschlage dich mit\n",
+        "deinem Partner und wählt\f",
+        "Pokémon derselben Art.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00058",
+      "de_DE": "HERAUSFORDERN"
+    },
+    {
+      "id": "msg_0108_00059",
+      "de_DE": [
+        "Hebst du dir beim Essen das, was du am\n",
+        "liebsten magst, bis zum Schluss auf,\f",
+        "oder isst du es gleich vorweg?\r",
+        "Hier solltest du jedenfalls mit Typen\n",
+        "beginnen, die deine Pokémon nicht mögen.\r",
+        "Wieso? Weil der Gegner im Verlauf an\n",
+        "Leveln hinzugewinnt."
+      ]
+    },
+    {
+      "id": "msg_0108_00060",
+      "de_DE": [
+        "Was für eine prächtige Bühne!\n",
+        "Jedes Pokémon kann dort hinauf,\f",
+        "da alle jeweils in ihrer eigenen\f",
+        "Kategorie antreten.\r",
+        "Versuche daher, mit deinem Lieblings-\n",
+        "Pokémon über dich hinauszuwachsen!\f",
+        "Das ist doch fantastisch, nicht wahr?"
+      ]
+    },
+    {
+      "id": "msg_0108_00061",
+      "de_DE": [
+        "Laaahm...\r",
+        "Mein LAHMUS ist so ein süßer Fratz!\n",
+        "Und es ist gegen die Kampfkoryphäe\f",
+        "hier im Kampfsaal angetreten!\r",
+        "Die Kampfkoryphäe reduziert ihren Level\n",
+        "auf den deines Pokémon, der Fairness\f",
+        "halber."
+      ]
+    },
+    {
+      "id": "msg_0108_00062",
+      "de_DE": "LAHMUS: Laaahm! Laaahm!"
+    },
+    {
+      "id": "msg_0108_00063",
+      "de_DE": [
+        "Ich gebe dir einen nützlichen Tipp:\r",
+        "Wenn du deinen Gesamtrekord\n",
+        "verbessern möchtest, solltest du den\f",
+        "Kampfsaal mit unterschiedlichen\f",
+        "Pokémon-Arten betreten.\n"
+      ]
+    },
+    {
+      "id": "msg_0108_00064",
+      "de_DE": [
+        "Im Kampfsaal kannst du verschiedene\n",
+        "Pokémon derselben Art in den Kampf\f",
+        "schicken.\r",
+        "So verfügt dein Pokémon-Team über eine\n",
+        "größere Bandbreite an Attacken.\f",
+        "Das kann dir den Kampf gegen bestimmte\f",
+        "Typen von Pokémon gewiss erleichtern!"
+      ]
+    },
+    {
+      "id": "msg_0108_00065",
+      "de_DE": [
+        "Du weißt doch, dass HOPPSPROSS zwei\n",
+        "Typen zuzuordnen ist: Pflanze und Flug.\r",
+        "Tja, und das heißt, dass du es als\n",
+        "Pokémon vom Typ Pflanze und Pokémon\f",
+        "vom Typ Flug antreten lassen kannst.\r",
+        "Welchen Typen ich zuzuordnen bin?\n",
+        "Nun... eventuell...\f",
+        "“Sonnenschein” und “Anmut”."
+      ]
+    },
+    {
+      "id": "msg_0108_00066",
+      "de_DE": [
+        "Ich habe einen nützlichen Tipp für dich!\r",
+        "Im Kampfsaal werden die gegnerischen\n",
+        "Pokémon dem Level deiner Pokémon\f",
+        "nach und nach angepasst.\r",
+        "So musst du dich beim Herausfordern\n",
+        "nicht um Levelunterschiede sorgen."
+      ]
+    },
+    {
+      "id": "msg_0108_00067",
+      "de_DE": [
+        "Gut am Kampfsaal ist, dass die Rekorde\n",
+        "der Siegesserien erhalten bleiben!\r",
+        "Obwohl...\r",
+        "Es ist bestimmt noch spaßiger, mit\n",
+        "Freunden zu vergleichen, wer unter\f",
+        "identischen Voraussetzungen am\f",
+        "längsten eine Siegesserie\f",
+        "aufrechterhalten kann!"
+      ]
+    },
+    {
+      "id": "msg_0108_00068",
+      "de_DE": [
+        "Ich merke mir die Gesamtanzahl der\n",
+        "Siege deiner längsten Siegesserien\f",
+        "im Kampfsaal.\r",
+        "Oder genauer, ich merke mir nur die\n",
+        "längste Siegserie für jede Pokémon-Art."
+      ]
+    },
+    {
+      "id": "msg_0108_00069",
+      "de_DE": [
+        "Überschreitet dein gesamter\n",
+        "Siegesserien-Rekord bestimmte Zahlen,\f",
+        "dann erhältst du als Preis GP.\r",
+        "{STRVAR_1 3, 0, 0}, dein gesamter\n",
+        "Siegesserien-Rekord liegt bei {STRVAR_1 55, 1, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00070",
+      "de_DE": [
+        "Dein gesamter Siegesserien-Rekord hat\n",
+        "nun {STRVAR_1 55, 2, 0} überschritten.\f",
+        "Hier ist dein Preis in GP.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00071",
+      "de_DE": [
+        "Erreicht dein gesamter Siegesserien-\n",
+        "Rekord {STRVAR_1 55, 3, 0}, erhältst du GP."
+      ]
+    },
+    {
+      "id": "msg_0108_00072",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_1 53, 4, 0} GP!"
+    },
+    {
+      "id": "msg_0108_00073",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, dein gesamter\n",
+        "Siegesserien-Rekord beträgt {STRVAR_1 55, 1, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0108_00074",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, dein gesamter\n",
+        "Siegesserien-Rekord beträgt {STRVAR_1 55, 1, 0}.\r",
+        "...Hui... Das ist ein\n",
+        "fantastischer Rekord!"
+      ]
+    },
+    {
+      "id": "msg_0108_00075",
+      "de_DE": [
+        "Sigmut: In letzter Zeit ist es im\n",
+        "Kampfsaal etwas langweilig geworden.\r",
+        "Die umwerfenden Trainer halten sich\n",
+        "bedeckt, niemand peitscht die Massen\f",
+        "auf.\r",
+        "Gibt es denn wirklich keinen\n",
+        "Herausforderer, der es mit der\f",
+        "Kampfkoryphäe aufnehmen kann?"
+      ]
+    },
+    {
+      "id": "msg_0108_00076",
+      "de_DE": [
+        "Sigmut: Lass mich mal raten. Du willst\n",
+        "in den Kampfsaal, richtig?\f",
+        "Du bist schon richtig wild darauf?\r",
+        "Je mehr du gewinnst, desto mehr Typen\n",
+        "von Pokémon werden dir auch begegnen."
+      ]
+    },
+    {
+      "id": "msg_0108_00077",
+      "de_DE": [
+        "Sigmut: ...\n",
+        "...Oh, ich wollte nicht unhöflich sein!\r",
+        "Ich habe dich das letzte Mal auf der\n",
+        "Bühne gesehen. Das hatte wirklich\f",
+        "Star-Qualitäten.\r",
+        "Ich werde dich mal im Blick behalten.\n",
+        "Dein Charisma ist vielversprechend!"
+      ]
+    },
+    {
+      "id": "msg_0108_00078",
+      "de_DE": [
+        "Sigmut: Jedes Mal, wenn du auf die Bühne\n",
+        "gehst, sehe ich ganz gespannt zu.\r",
+        "Es ist wirklich schön, dir beim Kämpfen\n",
+        "zuzusehen. Du und deine Pokémon sind\f",
+        "eine wahre Freude auf der Bühne."
+      ]
+    },
+    {
+      "id": "msg_0108_00079",
+      "de_DE": [
+        "Sigmut: Hallo da!\n",
+        "Was hast du denn dieses Mal vor?\r",
+        "Mit welchem Pokémon wirst du dieses\n",
+        "Mal einen Rekord aufstellen?\r",
+        "Allein wenn ich darüber nachdenke,\n",
+        "kann ich es schon kaum erwarten!\r",
+        "Das raubt mir manchmal den Schlaf!"
+      ]
+    },
+    {
+      "id": "msg_0108_00080",
+      "de_DE": [
+        "Sigmut: Groß! Ganz groß!\n",
+        "Das ist sogar größer als groß!\r",
+        "Wie du mit deinen Pokémon umgehst...\n",
+        "Das ist eine beachtliche Leistung!"
+      ]
+    },
+    {
+      "id": "msg_0108_00081",
+      "de_DE": [
+        "Sigmut: Noch nie habe ich Pokémon mit\n",
+        "so viel Begeisterung in einem Kampf\f",
+        "gesehen.\r",
+        "Was Trainer angeht, bist du für\n",
+        "mich ein absolutes Vorbild.\r",
+        "Von dir sollten sich mal mehr Leute eine\n",
+        "Scheibe abschneiden! Weißt du übrigens,\f",
+        "dass ich allen von deinem Genie erzähle?\r",
+        "Ich wusste schon vor deinem ersten\n",
+        "Rekord, dass du groß herauskommst!"
+      ]
+    },
+    {
+      "id": "msg_0108_00082",
+      "de_DE": [
+        "Sigmut: Los, {STRVAR_1 3, 0, 0}, los!\n",
+        "Los, {STRVAR_1 3, 0, 0}, los!\r",
+        "Ich bin gerade dabei, mir Tanzschritte\n",
+        "auszudenken, damit ich dich während\f",
+        "deiner Kämpfe unterstützen kann.\r",
+        "Die möchtest du sehen, nicht wahr?\n",
+        "Dann stell weiter Rekorde auf!"
+      ]
+    },
+    {
+      "id": "msg_0108_00083",
+      "de_DE": [
+        "Sigmut: Der absolute Wahnsinn!\n",
+        "Jeder einzelne Kampf von dir...\f",
+        "Diese Siegesmomente...\r",
+        "In dir brennt eine so helle Flamme,\n",
+        "dass man glatt denken könnte,\f",
+        "du bist vom Typ Feuer!"
+      ]
+    },
+    {
+      "id": "msg_0108_00084",
+      "de_DE": [
+        "Sigmut: Du hast im Kampfsaal eine so\n",
+        "große Zuneigung zu deinen Pokémon\f",
+        "bewiesen...\r",
+        "Ich, Sigmut, werde auf ewig dein\n",
+        "ergebener Fan sein! Auf mich kannst\f",
+        "du dich verlassen!\r",
+        "So wie du von Pokémon begeistert bist,\n",
+        "so begeistert bin ich von heldenhaften\f",
+        "Pokémon-Trainern!"
+      ]
+    },
+    {
+      "id": "msg_0108_00085",
+      "de_DE": [
+        "Irene: Der Kampfsaal hier... in letzter\n",
+        "Zeit begeistert er mich gar nicht mehr.\r",
+        "Wo sind nur die schmucken\n",
+        "Herausforderer, die mich mit ihrem\f",
+        "Charme und Talent plätten?\r",
+        "Die Art von Herausforderer, die mich\n",
+        "sofort einen Fanclub eröffnen lässt...\r",
+        "Herausforderer, wo bist du nur?"
+      ]
+    },
+    {
+      "id": "msg_0108_00086",
+      "de_DE": [
+        "Irene: Äh... Entschuldigung? Hallo?\r",
+        "Bist du zufällig auf dem Weg in den\n",
+        "Kampfsaal?\r",
+        "Es ist doch wirklich toll dort, oder?\n",
+        "Das Geschehen fesselt mich regelrecht.\r",
+        "Wusstest du, dass mehr Pokémon-\n",
+        "Arten erscheinen, je öfter du gewinnst?"
+      ]
+    },
+    {
+      "id": "msg_0108_00087",
+      "de_DE": [
+        "Irene: Äh... Entschuldigung? Hallo?\r",
+        "Ich habe dich oben auf der Bühne\n",
+        "gesehen. Dein Auftritt war sagenhaft.\r",
+        "Äh... sag mal, stört es dich, wenn ich\n",
+        "dich anfeuere? Bitte, bitte, darf ich?"
+      ]
+    },
+    {
+      "id": "msg_0108_00088",
+      "de_DE": [
+        "Irene: Äh... Entschuldigung? Hallo?\r",
+        "Ich feuere dich an, so gut es geht.\r",
+        "Ich kann nicht mit dir auf die Bühne,\n",
+        "aber von hier unten kann ich dich nach\f",
+        "Kräften unterstützen."
+      ]
+    },
+    {
+      "id": "msg_0108_00089",
+      "de_DE": [
+        "Irene: Äh... Entschuldigung? Hallo?\r",
+        "Kannst du mir sagen, mit welcher Art\n",
+        "Pokémon du als Nächstes einen Rekord\f",
+        "aufstellst?\r",
+        "Wenn ich darüber nachdenke, dann\n",
+        "habe ich einen richtigen Kloß im Hals.\r",
+        "Und das ist nachts beim Einschlafen echt\n",
+        "nervtötend, das kann ich dir sagen!"
+      ]
+    },
+    {
+      "id": "msg_0108_00090",
+      "de_DE": [
+        "Irene: Äh... Entschuldigung? Hallo?\r",
+        "Das war fantastisch! So fantastisch\n",
+        "war das, dass wir ein neues Wort dafür\f",
+        "brauchen! Zum Beispiel... fabulatös!\r",
+        "Du bist so liebevoll im Umgang mit\n",
+        "deinen Pokémon, so etwas habe ich\f",
+        "noch nie zuvor gesehen!"
+      ]
+    },
+    {
+      "id": "msg_0108_00091",
+      "de_DE": [
+        "Irene: Noch nie habe ich Pokémon mit so\n",
+        "viel Begeisterung kämpfen gesehen.\r",
+        "Du bist der erste Trainer, der so etwas\n",
+        "auf die Beine gestellt hat!\r",
+        "Ich... ich muss zugeben, dass ich allen\n",
+        "meinen Freunden von dir erzählt habe.\f",
+        "Hoffentlich stört dich das nicht!\r",
+        "Ich wäre ja sooo gern so ein toller\n",
+        "Trainer wie du!"
+      ]
+    },
+    {
+      "id": "msg_0108_00092",
+      "de_DE": [
+        "Irene: Immer weiter, {STRVAR_1 3, 0, 0}!\n",
+        "Immer fort, ihr Pokémon!\r",
+        "Oh... äh... Entschuldigung.\r",
+        "Ich konzipiere gerade einen\n",
+        "kleinen Tanz für dich.\r",
+        "Ich dachte mir, dass dich das auf\n",
+        "der Bühne vielleicht anfeuert...\r",
+        "Aber das kam bestimmt komisch rüber.\n",
+        "Äh... das ist mir jetzt aber peinlich..."
+      ]
+    },
+    {
+      "id": "msg_0108_00093",
+      "de_DE": [
+        "Irene: Du wirkst auf mich\n",
+        "wie eine Inspiration.\r",
+        "Immer wenn du im Rampenlicht\n",
+        "einen weiteren ruhmvollen Sieg\f",
+        "errungen hast...\r",
+        "Dann kann ich vor Freude kaum\n",
+        "an mich halten. ♫"
+      ]
+    },
+    {
+      "id": "msg_0108_00094",
+      "de_DE": [
+        "Irene: Du hast im Kampfsaal eine so\n",
+        "große Zuneigung zu deinen Pokémon\f",
+        "bewiesen...\r",
+        "Ich weiß nicht, wie du es machst, aber\n",
+        "du liebst wirklich jedes Pokémon hier!\r",
+        "Es ist fantastisch, dass du mit so viel\n",
+        "Ernst und Zielstrebigkeit bei der Sache\f",
+        "bist!"
+      ]
+    },
+    {
+      "id": "msg_0108_00095",
+      "de_DE": [
+        "Lyra: Weißt du, {STRVAR_1 3, 0, 0}, ich sehe\n",
+        "dich wirklich gerne kämpfen...\r",
+        "Denn...\n",
+        "egal, ob du gewinnst oder\f",
+        "verlierst, du gibst immer alles!\n"
+      ]
+    },
+    {
+      "id": "msg_0108_00096",
+      "de_DE": [
+        "Klarin: Gibt es etwas Schöneres, als\n",
+        "diesen Bühnenkämpfen zuzusehen?\r",
+        "Man sieht so viele verschiedene\n",
+        "Pokémon! Da wird man schon beim\f",
+        "bloßen Zusehen nervös..."
+      ]
+    },
+    {
+      "id": "msg_0108_00097",
+      "de_DE": [
+        "Mutter: {STRVAR_1 3, 0, 0}!\r",
+        "Hihihi, ich bin gekommen, um dich\n",
+        "anzufeuern!\r",
+        "Die anderen haben auch ihr Bestes\n",
+        "gegeben, aber du warst um Längen\f",
+        "besser als sie!\r",
+        "Achso!\r",
+        "Auf dem Heimweg komme ich am Kaufhaus\n",
+        "von Dukatia City vorbei. Wenn ich etwas\f",
+        "finde, das du brauchen könntest, dann\f",
+        "kaufe ich es dir!\n"
+      ]
+    },
+    {
+      "id": "msg_0108_00098",
+      "de_DE": [
+        "Eich: Du verblüffst mich immer wieder.\n",
+        "Was für ein Trainer du doch geworden\f",
+        "bist!\r",
+        "Du hast nicht nur so viele Pokémon\n",
+        "gefangen, dass ich mir nur die Augen\f",
+        "reiben konnte, nein...\r",
+        "Das ist ja schon toll genug. Aber du\n",
+        "hast auch mit ihnen gekämpft!\r",
+        "So wie du sollte jeder Trainer sein!"
+      ]
+    },
+    {
+      "id": "msg_0108_00099",
+      "de_DE": [
+        "Bianka: Ich liebe Veranstaltungen wie\n",
+        "Herausforderungen im Kampfsaal oder\f",
+        "Wettbewerbe...\r",
+        "Nein, nicht weil ich selbst im Mittelpunkt\n",
+        "stehen möchte!\r",
+        "Ich bin froh, wenn die Pokémon im\n",
+        "Zentrum der Aufmerksamkeit stehen!\n"
+      ]
+    }
+  ]
+}

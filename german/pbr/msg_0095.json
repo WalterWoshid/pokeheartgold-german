@@ -1,0 +1,33 @@
+{
+  "key": 37946,
+  "messages": [
+    {
+      "id": "msg_0095_00000",
+      "de_DE": [
+        "Eich: Ah, du bist es! Schön, schön!\n",
+        "Kommst du mit dem Pokédex voran?\r",
+        "Alle Pokémon zu fangen ist nicht\n",
+        "gerade einfach, das verstehe ich.\r",
+        "Aber ich bin sicher, du schaffst das!\r"
+      ]
+    },
+    {
+      "id": "msg_0095_00001",
+      "de_DE": [
+        "Eich: Ah, ja!\r",
+        "Ein Bekannter aus Kanto hat mir etwas\n",
+        "sehr Interessantes geschickt.\r",
+        "Du kannst es vermutlich besser\n",
+        "gebrauchen als ich.\r"
+      ]
+    },
+    {
+      "id": "msg_0095_00002",
+      "de_DE": [
+        "Es gibt ein Pokémon, das sich\n",
+        "entwickelt, wenn es dieses Up-Grade\f",
+        "hält, während es getauscht wird."
+      ]
+    }
+  ]
+}

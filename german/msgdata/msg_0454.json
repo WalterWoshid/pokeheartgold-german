@@ -1,0 +1,124 @@
+{
+  "key": 14692,
+  "messages": [
+    {
+      "id": "msg_0454_00000",
+      "de_DE": [
+        "Blau: Hey! Da bist du ja!\r",
+        "Auf der Zinnoberinsel hatte ich ein\n",
+        "bisschen Bammel, aber inzwischen\f",
+        "habe ich extrem Lust darauf gekriegt,\f",
+        "gegen dich zu kämpfen!\r",
+        "... ... ...\r",
+        "Du hast also alle Arenaleiter in Johto\n",
+        "zu Kleinholz verarbeitet, was?\r",
+        "Hahaha! Dann müssen das ja alles\n",
+        "ziemliche Jammerlappen sein!\r",
+        "Aber warten wir’s mal ab!\n",
+        "Wenn wir gegeneinander kämpfen,\f",
+        "werde ich schon sehen, ob du was drauf\f",
+        "hast oder nur ein Schaumschläger bist!\r"
+      ]
+    },
+    {
+      "id": "msg_0454_00001",
+      "de_DE": [
+        "Blau: Wie ist das möglich?!\r",
+        "Wie konnte ich nur gegen jemanden\n",
+        "wie dich verlieren?!\r",
+        "... ... ...\n",
+        "Aber damit muss ich mich abfinden.\f",
+        "Hier, das hast du dir verdient.\f",
+        "Das ist der Erdorden!\r"
+      ]
+    },
+    {
+      "id": "msg_0454_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "den Erdorden!"
+      ]
+    },
+    {
+      "id": "msg_0454_00003",
+      "de_DE": [
+        "Blau: Mit diesem Orden kannst du nun\n",
+        "auch die Attacke Kraxler einsetzen.\r",
+        "Und als ob das noch nicht genug wäre...\n",
+        "Hier ist noch etwas für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0454_00004",
+      "de_DE": [
+        "Blau: Darin ist Bizarroraum enthalten.\r",
+        "Mit dieser Attacke kann über eine kurze\n",
+        "Dauer das Pokémon mit der niedrigeren\f",
+        "Initiative zuerst angreifen.\r",
+        "Eine bizarre Attacke, was?\n",
+        "Der Name sagt alles!"
+      ]
+    },
+    {
+      "id": "msg_0454_00005",
+      "de_DE": [
+        "Blau: ... ... ...\r",
+        "Ich hatte dich unterschätzt.\n",
+        "Du bist kein Schaumschläger,\f",
+        "sondern ein fähiger Trainer!\f",
+        "Ich gebe es offen zu!\r",
+        "Aber vergiss nicht...\r",
+        "Irgendwann wird der Tag kommen,\n",
+        "an dem ich dich besiege!"
+      ]
+    },
+    {
+      "id": "msg_0454_00006",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Hier in der Arena ist es gefährlich. Man\n",
+        "hat nie festen Boden unter den Füßen.\f",
+        "Du packst deine Pokémon lieber weg.\r",
+        "...Der Arenaleiter von Vertania City hat\n",
+        "vor drei Jahren den Champ besiegt.\r",
+        "Das wird sicher kein Zuckerschlecken!\n",
+        "Du gibst besser alles, was du hast!"
+      ]
+    },
+    {
+      "id": "msg_0454_00007",
+      "de_DE": [
+        "Es ist wahr, du bist wirklich stark!\r",
+        "Dieser Kampf hat mich emotional\n",
+        "so mitgenommen, dass mir doch\f",
+        "glatt die Tränen gekommen sind."
+      ]
+    },
+    {
+      "id": "msg_0454_00008",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Hier in der Arena ist es gefährlich. Man\n",
+        "hat nie festen Boden unter den Füßen.\f",
+        "Du packst deine Pokémon lieber weg.\r",
+        "...Der Arenaleiter von Vertania City hat\n",
+        "vor drei Jahren den Champ besiegt.\r",
+        "Das wird sicher kein Zuckerschlecken!\n",
+        "Du gibst besser alles, was du hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0454_00009",
+      "de_DE": "Pokémon-Arena von Vertania City"
+    },
+    {
+      "id": "msg_0454_00010",
+      "de_DE": [
+        "Pokémon-Arena von Vertania City\r",
+        "Leiter: Blau\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

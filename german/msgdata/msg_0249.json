@@ -1,0 +1,45 @@
+{
+  "key": 29139,
+  "messages": [
+    {
+      "id": "msg_0249_00000",
+      "de_DE": "Wie heißt du? {YESNO 0}"
+    },
+    {
+      "id": "msg_0249_00001",
+      "de_DE": "Spitzname von {STRVAR_1 1, 0, 0}? {YESNO 0}"
+    },
+    {
+      "id": "msg_0249_00002",
+      "de_DE": "Name der Box? {YESNO 0}"
+    },
+    {
+      "id": "msg_0249_00003",
+      "de_DE": "Wie heißt der Junge? {YESNO 0}"
+    },
+    {
+      "id": "msg_0249_00004",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0249_00005",
+      "de_DE": "Wie heißt die Gruppe? {YESNO 0}"
+    },
+    {
+      "id": "msg_0249_00006",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0249_00007",
+      "de_DE": "-Gruppe"
+    },
+    {
+      "id": "msg_0249_00008",
+      "de_DE": "Wie heißt dein Freund? {YESNO 0}"
+    },
+    {
+      "id": "msg_0249_00009",
+      "garbage": 8
+    }
+  ]
+}

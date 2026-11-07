@@ -1,0 +1,524 @@
+{
+  "key": 17518,
+  "messages": [
+    {
+      "id": "msg_0117_00000",
+      "de_DE": [
+        "Hallo.\r",
+        "Ich verkaufe preiswerte\n",
+        "Kräutermedizin.\r",
+        "Das Zeug ist wirkungsvoll, aber bitter.\n",
+        "Deine Pokémon werden sie nicht\f",
+        "mögen. Hihihihi... {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00001",
+      "de_DE": [
+        "He, hallo!\n",
+        "Interesse an ein paar Schnäppchen?\r",
+        "Ich verkaufe seltene Items, die du\n",
+        "sonst nirgendwo kaufen kannst.\f",
+        "Und zwar ausnahmslos Einzelstücke.{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00002",
+      "de_DE": [
+        "{STRVAR_1 8, 0, 0}? Das macht {STRVAR_1 53, 1, 0} $.\n",
+        "Interesse?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00003",
+      "de_DE": "Dank dir.\r"
+    },
+    {
+      "id": "msg_0117_00004",
+      "de_DE": [
+        "Du verstaust {STRVAR_1 8, 0, 0} in\n",
+        "deiner {STRVAR_1 18, 1, 0}-Tasche. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00005",
+      "de_DE": [
+        "Das hast du schon gekauft.\n",
+        "Ich habe keines mehr. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00006",
+      "de_DE": [
+        "Oh-oh, da ist aber jemand\n",
+        "knapp bei Kasse! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00007",
+      "de_DE": [
+        "Lieber nicht. Dein Beutel\n",
+        "platzt ja schon aus allen Nähten. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00008",
+      "de_DE": "Wir haben heute schon geschlossen."
+    },
+    {
+      "id": "msg_0117_00009",
+      "de_DE": "Schau mal wieder vorbei."
+    },
+    {
+      "id": "msg_0117_00010",
+      "de_DE": [
+        "Halli-hallöchen!\n",
+        "Du bist hier im Pokémon-Salon!\r",
+        "Ich bin der ältere und bessere der\n",
+        "beiden Coiffeur-Brüder.\r",
+        "Für nur 500 $ verleihe ich deinen\n",
+        "Pokémon ein noch schöneres Äußeres!\r",
+        "Ein neuer Look bringt nicht nur\n",
+        "Haar, Schuppen oder Fell zum Glänzen,\f",
+        "er fördert auch die Freundschaft.\r",
+        "Also, was sagst du?\n",
+        "Soll ich meine Schere zücken? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00011",
+      "de_DE": [
+        "Bei welchem Pokémon soll ich\n",
+        "Hand anlegen?"
+      ]
+    },
+    {
+      "id": "msg_0117_00012",
+      "de_DE": [
+        "Alles klar!\n",
+        "Du wirst deinen Augen nicht trauen!"
+      ]
+    },
+    {
+      "id": "msg_0117_00013",
+      "de_DE": "Hier! Fertig!"
+    },
+    {
+      "id": "msg_0117_00014",
+      "de_DE": [
+        "Wenn du meinst.\n",
+        "Zu schade."
+      ]
+    },
+    {
+      "id": "msg_0117_00015",
+      "de_DE": [
+        "Du hast nicht\n",
+        "genügend Geld."
+      ]
+    },
+    {
+      "id": "msg_0117_00016",
+      "de_DE": [
+        "Ich style nur ein Pokémon\n",
+        "pro Tag und für heute bin ich fertig."
+      ]
+    },
+    {
+      "id": "msg_0117_00017",
+      "de_DE": [
+        "Willkommen im Pokémon-Salon!\r",
+        "Ich bin der jüngere und preiswertere\n",
+        "der beiden Coiffeur-Brüder.\r",
+        "Für nur 300 $ verleihe ich deinen\n",
+        "Pokémon ein noch schöneres Äußeres!\r",
+        "Ein neuer Look bringt nicht nur\n",
+        "Haar, Schuppen oder Fell zum Glänzen,\f",
+        "er fördert auch die Freundschaft.\r",
+        "Also, wie wär’s? Soll ich mich\n",
+        "um deine Lieblinge kümmern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00018",
+      "de_DE": [
+        "Welches Pokémon\n",
+        "soll ich bearbeiten?"
+      ]
+    },
+    {
+      "id": "msg_0117_00019",
+      "de_DE": [
+        "Okidoki! Wart’s ab,\n",
+        "du wirst begeistert sein!"
+      ]
+    },
+    {
+      "id": "msg_0117_00020",
+      "de_DE": [
+        "Bitte schön!\n",
+        "Fertig!"
+      ]
+    },
+    {
+      "id": "msg_0117_00021",
+      "de_DE": [
+        "Nein? \n",
+        "Wie schade!"
+      ]
+    },
+    {
+      "id": "msg_0117_00022",
+      "de_DE": [
+        "Du hast nicht\n",
+        "genügend Geld."
+      ]
+    },
+    {
+      "id": "msg_0117_00023",
+      "de_DE": [
+        "Ich habe so eine Ahnung, als ob es\n",
+        "beim nächsten Mal nichts wird.\f",
+        "Für heute ist die Luft raus!"
+      ]
+    },
+    {
+      "id": "msg_0117_00024",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} sieht\n",
+        "fröhlicher aus."
+      ]
+    },
+    {
+      "id": "msg_0117_00025",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} sieht\n",
+        "glücklich aus."
+      ]
+    },
+    {
+      "id": "msg_0117_00026",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0}\n",
+        "ist entzückt!"
+      ]
+    },
+    {
+      "id": "msg_0117_00027",
+      "de_DE": [
+        "BIS HIERHER\n",
+        "UND NICHT WEITER!"
+      ]
+    },
+    {
+      "id": "msg_0117_00028",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} verwendet den Keller-\n",
+        "öffner. Die Tür ist nun entriegelt.\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00029",
+      "de_DE": [
+        "Oho, hereinspaziert!\n",
+        "Willkommen in meinem Fotostudio!\r",
+        "Bei mir bekommst du mehr\n",
+        "als nur irgendwelche Erinnerungsfotos!\r",
+        "Denn...\n",
+        "ich fotografiere meine Kunden\f",
+        "in Uniformen von Team Rocket!\r",
+        "Na? Kommen wir ins Geschäft? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00030",
+      "de_DE": [
+        "Stell dich einfach vor die Kamera,\n",
+        "sobald du dich umgezogen hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00031",
+      "de_DE": [
+        "Gut, hier kommt das Vögelchen!\r",
+        "Und jetzt gib mir ein\n",
+        "“Die Welt gehört mir allein”!\r",
+        "...Ja, sehr schön. Lass deine\n",
+        "nihilistische Ader raushängen!\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00032",
+      "de_DE": [
+        "Das war’s schon!\r",
+        "Du kannst dir dein Foto\n",
+        "an jedem Computer ansehen."
+      ]
+    },
+    {
+      "id": "msg_0117_00033",
+      "de_DE": [
+        "Ich mache Bilder von Leuten\n",
+        "in Team Rocket-Uniformen!\r",
+        "Möchtest du auch eins? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00034",
+      "de_DE": [
+        "...Verstehe.\r",
+        "Hast ja recht. Eigentlich gibt es an\n",
+        "diesen Typen nichts Bewundernswertes."
+      ]
+    },
+    {
+      "id": "msg_0117_00035",
+      "de_DE": [
+        "He? Sieht aus, als gäbe es keinen\n",
+        "Platz mehr in deinem Fotoalbum.\r",
+        "Schaff doch am PC etwas Platz\n",
+        "darin und komm dann wieder."
+      ]
+    },
+    {
+      "id": "msg_0117_00036",
+      "de_DE": [
+        "Na großartig!\n",
+        "Schon wieder ein neuer Rekrut?\r",
+        "Seit wir im Radio senden, rennen die\n",
+        "Anwärter uns derart die Türen ein, dass\f",
+        "uns die Uniformen ausgegangen sind.\r",
+        "Angeblich soll es hier im Fotostudio\n",
+        "welche geben.\f",
+        "Die reißen wir uns unter den Nagel.\r",
+        "He! Wo du schon mal hier bist, kannst\n",
+        "du ja gleich Schmiere stehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00037",
+      "de_DE": [
+        "Die Uniform steht dir gut!\r",
+        "Aber ich würde damit nicht\n",
+        "in der Stadt herumlaufen.\f",
+        "Du verschreckst sonst die Leute."
+      ]
+    },
+    {
+      "id": "msg_0117_00038",
+      "garbage": 58
+    },
+    {
+      "id": "msg_0117_00039",
+      "de_DE": [
+        "Ooh, deinä Pokémon sind aber\n",
+        "’erzallerliebst! Ganz entzückend!\r",
+        "Abär mit eine Kostüm von mir sie werdön\n",
+        "noch viel, viel, viiiel bezaubärndör! \r",
+        "Ünd als besondärö Geschenk bekommst\n",
+        "dü eine Fotto, das isch dir ärzlisch\f",
+        "gärnö verzierö, nur für disch!\r",
+        "Machen wir das so, oui? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00040",
+      "de_DE": [
+        "Oh, dü dümmes Ding... wo bleibt\n",
+        "dänn dein Sinn fürs Abänteuär?"
+      ]
+    },
+    {
+      "id": "msg_0117_00041",
+      "de_DE": [
+        "Oh jaaa! Das ist fein!\n",
+        "Lass üns keinä Zeit verlierän!\r",
+        "Soll isch dir erklärän, wie dü dein\n",
+        "Pokémon kostümierän kannst? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00042",
+      "de_DE": [
+        "Oh, wähle ein Pokémon aus, das\n",
+        "dü kostümierän möschtest.\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00043",
+      "de_DE": [
+        "Te’e’e’e... isch ’offe, dü wirscht\n",
+        "äs nett kostümierän!\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00044",
+      "de_DE": [
+        "Dü ’ast einä Modekoffer, nischt wa’r?\n",
+        "Ah, oui, wünderbar!\r",
+        "Dü süchst dir die Accessoire aus ünd\n",
+        "zie’st sie deinäm Pokémon an.\r",
+        "Dann isch werdä einä Fotto machän\n",
+        "ünd ’ier näben misch ’ängen!\r",
+        "Wenn dü deinä Statistik mit andärän\n",
+        "Trainörn tauscht, bekommst dü einä\f",
+        "Fotto von i’nen.\r",
+        "Isch denkä, dü solltäst äs einfach\n",
+        "mal probierän! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00045",
+      "de_DE": [
+        "Ooh, oui, das ist so schönn! Isch fangä\n",
+        "gleich an, die Fotto zu schmückän!\f",
+        "Abär dü müsst ihm einän Titäl gebän.\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00046",
+      "de_DE": [
+        "{STRVAR_1 28, 0, 0}\n",
+        "... ... ...\r",
+        "Ooh, oui, oui! Isch sähe schon!\n",
+        "Dein Sinn für Schön’eit ist erkännbar!\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00047",
+      "de_DE": [
+        "Oh, non, non, non!\n",
+        "Es wird värgäbens sein ohne einä Titäl!\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00048",
+      "de_DE": [
+        "Oooh, abär nein, das geht so nischt!\n",
+        "Dü ’ast ja gar nischts gemacht!\r",
+        "Isch müss sagänn, nün binn isch\n",
+        "wirklisch traurisch."
+      ]
+    },
+    {
+      "id": "msg_0117_00049",
+      "de_DE": [
+        "Wenn dü ein anderäs odär diesäs\n",
+        "Pokémon noch mal kostümierst,\f",
+        "wird das Fotto auch ausgätauscht.\r",
+        "Möschtescht dü ein Pokémon\n",
+        "kostümierän?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00050",
+      "de_DE": [
+        "Vielleischt isch solltä misch auch schick\n",
+        "machön und eine Fotto von mir schießön.\r",
+        "Ah, oui! Und als Titöl isch schreibö\n",
+        "“Mädschöntraum”..."
+      ]
+    },
+    {
+      "id": "msg_0117_00051",
+      "de_DE": [
+        "Ooh, non, non, non! Das ist ein Ei!\n",
+        "Das ischt zü jüng.\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00052",
+      "de_DE": [
+        "Isch wärdä dein Fotto in meinöh\n",
+        "private Boudoir ’ängen! Pärfäkt!"
+      ]
+    },
+    {
+      "id": "msg_0117_00053",
+      "de_DE": "Ein Rahmen für ein Foto"
+    },
+    {
+      "id": "msg_0117_00054",
+      "garbage": 93
+    },
+    {
+      "id": "msg_0117_00055",
+      "de_DE": [
+        "Diese schwarz beklufteten Damen und\n",
+        "Herren von Team Rocket scheinen\f",
+        "ja sehr beschäftigt zu sein...\r",
+        "Das hat mich neugierig gemacht. Sagt\n",
+        "bloß, Ihr wollt sie Euch vorknöpfen?\f",
+        "Ihr seid wirklich äußerst mutig!\r",
+        "Wenn Ihr so weitermacht, wird\n",
+        "das Legendäre Poké...\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00056",
+      "de_DE": [
+        "Oh, hoho! Das habt Ihr jetzt aber\n",
+        "nicht gehört!\r",
+        "Wir sehen uns wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00057",
+      "de_DE": [
+        "Hereinspaziert!\r",
+        "Willkommen in der Accessoire-Lotterie!\n",
+        "Ein Spiel voller Überraschungen!\r",
+        "Ein Los macht 100 $.\n",
+        "Versuchst du dein Glück? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0117_00058",
+      "de_DE": [
+        "Wow! Wahnsinn! Dein Koffer ist randvoll\n",
+        "mit Hintergründen und Accessoires!\r",
+        "Dann nichts wie ab mit dir.\n",
+        "Peppe deine Pokémon auf!"
+      ]
+    },
+    {
+      "id": "msg_0117_00059",
+      "de_DE": [
+        "Schau mal wieder vorbei\n",
+        "und versuche dein Glück!"
+      ]
+    },
+    {
+      "id": "msg_0117_00060",
+      "de_DE": [
+        "Ärks!\n",
+        "Du hast nicht genug Geld dabei!"
+      ]
+    },
+    {
+      "id": "msg_0117_00061",
+      "de_DE": [
+        "Na gut, dann mal los!\r",
+        "... ... ... ... ... ...\n",
+        "... ... ... ... ... ...\f",
+        "... ... ...\f",
+        "Gewonnen! \r"
+      ]
+    },
+    {
+      "id": "msg_0117_00062",
+      "de_DE": [
+        "Wie wär’s mit einem\n",
+        "Hintergrund?\r"
+      ]
+    },
+    {
+      "id": "msg_0117_00063",
+      "de_DE": "Na dann, bis demnächst!"
+    },
+    {
+      "id": "msg_0117_00064",
+      "de_DE": "Tut mir leid! Das war eine Niete!\r"
+    }
+  ]
+}

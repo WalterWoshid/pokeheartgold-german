@@ -1019,7 +1019,7 @@ static void ViewRankings_PrintRecords(ViewRankingsAppData *appData) {
             StringExpandPlaceholders(appData->msgFormat, appData->formatedStrBuf, appData->rankingString);
             AddTextPrinterParameterizedWithColor(&appData->windows[VIEW_RANKINGS_APP_WINDOW_RANKING], FONT_SYSTEM, appData->formatedStrBuf, 0, 16 * y, TEXT_SPEED_NOTRANSFER, MAKE_TEXT_COLOR(1, 2, 0), NULL);
 
-            BufferString(appData->msgFormat, 1, pRecord->entries[i].pageEntry->playerName, 2, 1, 2);
+            BufferString(appData->msgFormat, 1, pRecord->entries[i].pageEntry->playerName, 2, 1, GAME_LANGUAGE);
             StringExpandPlaceholders(appData->msgFormat, appData->formatedStrBuf, appData->playerNameString);
             AddTextPrinterParameterizedWithColor(&appData->windows[VIEW_RANKINGS_APP_WINDOW_RECORDS], FONT_SYSTEM, appData->formatedStrBuf, 0, 16 * y, TEXT_SPEED_NOTRANSFER, MAKE_TEXT_COLOR(1, 2, 0), NULL);
 
@@ -1069,7 +1069,7 @@ static void ViewRankings_PrintDeleteXsRecordAreYouSure(ViewRankingsAppData *appD
     page = &appData->records[appData->recordIdx];
     DrawFrameAndWindow2(&appData->windows[VIEW_RANKINGS_APP_WINDOW_SELECT_RECORD_TO_DELETE], TRUE, 0x1, 12);
     FillWindowPixelBuffer(&appData->windows[VIEW_RANKINGS_APP_WINDOW_SELECT_RECORD_TO_DELETE], 0xFF);
-    BufferString(appData->msgFormat, 0, page->entries[entryIdx].pageEntry->playerName, 2, 1, 2);
+    BufferString(appData->msgFormat, 0, page->entries[entryIdx].pageEntry->playerName, 2, 1, GAME_LANGUAGE);
     string = ReadMsgData_ExpandPlaceholders(appData->msgFormat, appData->msgData, msg_0421_00049, HEAP_ID_RANKINGS_APP);
     AddTextPrinterParameterizedWithColor(&appData->windows[VIEW_RANKINGS_APP_WINDOW_SELECT_RECORD_TO_DELETE], FONT_SYSTEM, string, 0, 0, TEXT_SPEED_NOTRANSFER, MAKE_TEXT_COLOR(1, 2, 0), NULL);
     String_Delete(string);

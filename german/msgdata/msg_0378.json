@@ -1,0 +1,144 @@
+{
+  "key": 19227,
+  "messages": [
+    {
+      "id": "msg_0378_00000",
+      "de_DE": [
+        "Murmel, murmel, gähn...\r",
+        "Ich bin heute auf der Suche nach\n",
+        "Pokémon viel zu viel gelaufen.\f",
+        "Meine Füße tun weh und ich bin müde...\r",
+        "Wenn ich ein wildes Pokémon wäre,\n",
+        "wäre ich jetzt leichte Beute...\f",
+        "Gähn... zzz..."
+      ]
+    },
+    {
+      "id": "msg_0378_00001",
+      "de_DE": [
+        "Murmel, murmel, gähn...\r",
+        "Ich will irgendwas lesen, das jemand\n",
+        "auf Papier geschrieben hat...\f",
+        "Einen Brief oder so...\r",
+        "Zzzz...\n",
+        "... ... !\r"
+      ]
+    },
+    {
+      "id": "msg_0378_00002",
+      "de_DE": [
+        "Hm? Was soll ich mit diesem Pokémon?\n",
+        "Es trägt doch gar keinen Brief bei sich!\r",
+        "Zzzz..."
+      ]
+    },
+    {
+      "id": "msg_0378_00003",
+      "de_DE": [
+        "Dieser Brief scheint nicht an\n",
+        "mich adressiert zu sein...\r",
+        "Gähn..."
+      ]
+    },
+    {
+      "id": "msg_0378_00004",
+      "de_DE": [
+        "Oh, hey! Das ist ja ein Brief\n",
+        "von meinem Bekannten!\r",
+        "...Hm?\n",
+        "Dieses Pokémon gehört jemand anderem.\f",
+        "Hier, nimm es zurück.\r"
+      ]
+    },
+    {
+      "id": "msg_0378_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} übergibt das Pokémon,\n",
+        "das den Brief trägt!"
+      ]
+    },
+    {
+      "id": "msg_0378_00006",
+      "de_DE": "{STRVAR_1 3, 0, 0} übergibt nur den Brief."
+    },
+    {
+      "id": "msg_0378_00007",
+      "de_DE": [
+        "Mal sehen...\r",
+        "“Vielen Dank für deinen Brief.\r",
+        "Unser Abenteuer war spannend!\r",
+        "Aber mit all diesen ZUBAT kann ich\n",
+        "mich immer noch nicht anfreunden...”\r",
+        "Das steht da!\r",
+        "Ich habe vor Kurzem mit ihm eine\n",
+        "Expedition in die Dunkelhöhle gemacht.\r",
+        "In dieser Höhle gibt es eine direkte\n",
+        "Verbindung zu einem anderen Weg!\r",
+        "In Ordnung! Ich möchte mich bei dir\n",
+        "revanchieren. Hier, das ist für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0378_00008",
+      "de_DE": [
+        "Die TM44 enthält... gähn...\n",
+        "Zzzz...\f",
+        "... ... ...\r",
+        "...Huch! Erholung!!! Sie enthält\n",
+        "natürlich die Attacke Erholung!\r",
+        "Sie erlaubt deinem Pokémon, sich\n",
+        "eine Mütze voll Schlaf zu nehmen\f",
+        "und heilt auf diese Weise seine KP!"
+      ]
+    },
+    {
+      "id": "msg_0378_00009",
+      "de_DE": "...Mmm, bin ich müde!"
+    },
+    {
+      "id": "msg_0378_00010",
+      "de_DE": [
+        "...Hoppla! Aber dann hast du ja\n",
+        "überhaupt kein Pokémon mehr!"
+      ]
+    },
+    {
+      "id": "msg_0378_00011",
+      "de_DE": [
+        "Ich habe in der Dunkelhöhle ein\n",
+        "tolles Pokémon gefangen!\r",
+        "Ich werde es trainieren, um später\n",
+        "damit gegen Falk, den Arenaleiter\f",
+        "von Viola City anzutreten!"
+      ]
+    },
+    {
+      "id": "msg_0378_00012",
+      "de_DE": [
+        "Hm, die Dunkelhöhle...\n",
+        "Wenn ein Pokémon mithilfe einer Attacke\f",
+        "da drinnen für Licht sorgen könnte,\f",
+        "würde ich sie erforschen gehen."
+      ]
+    },
+    {
+      "id": "msg_0378_00013",
+      "de_DE": [
+        "Route 31\n",
+        "Westlich nach Viola City"
+      ]
+    },
+    {
+      "id": "msg_0378_00014",
+      "de_DE": "Dunkelhöhle"
+    },
+    {
+      "id": "msg_0378_00015",
+      "de_DE": [
+        "Wie? Was? Ist das ein Pokémon-Ei?\n",
+        "Sowas habe ich ja noch nie gesehen!\r",
+        "Zzzz..."
+      ]
+    }
+  ]
+}

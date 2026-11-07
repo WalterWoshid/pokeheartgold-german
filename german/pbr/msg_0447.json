@@ -1,0 +1,36 @@
+{
+  "key": 57082,
+  "messages": [
+    {
+      "id": "msg_0447_00000",
+      "de_DE": [
+        "Guten Tag. Möchten Sie hier\n",
+        "übernachten?\r",
+        "Oh, ich sehe gerade, Sie haben\n",
+        "gar keine Reservierung.\r",
+        "Das tut mir leid, denn wir sind\n",
+        "komplett ausgebucht.\r",
+        "Aber Sie dürfen sich hier gerne für eine\n",
+        "Weile ausruhen, wenn Sie möchten.\r"
+      ]
+    },
+    {
+      "id": "msg_0447_00001",
+      "de_DE": [
+        "Ihre Pokémon sind wieder topfit.\r",
+        "Bitte beehren Sie uns bald wieder!"
+      ]
+    },
+    {
+      "id": "msg_0447_00002",
+      "de_DE": [
+        "Dieses Hotel ist so romantisch...\r",
+        "Ich hoffe, ein Ritter in schimmernder\n",
+        "Rüstung auf einem starken Pokémon\f",
+        "wird kommen!\r",
+        "Dann können wir hier unsere\n",
+        "Flitterwochen verbringen!"
+      ]
+    }
+  ]
+}

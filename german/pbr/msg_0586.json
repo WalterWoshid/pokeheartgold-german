@@ -1,0 +1,207 @@
+{
+  "key": 37835,
+  "messages": [
+    {
+      "id": "msg_0586_00000",
+      "de_DE": [
+        "Welche Attacke soll {STRVAR_1 1, 0} \n",
+        "beigebracht werden?"
+      ]
+    },
+    {
+      "id": "msg_0586_00001",
+      "de_DE": "{STRVAR_1 6, 1} beibringen?"
+    },
+    {
+      "id": "msg_0586_00002",
+      "de_DE": [
+        "Soll {STRVAR_1 1, 0} keine neue\n",
+        "Attacke erlernen?"
+      ]
+    },
+    {
+      "id": "msg_0586_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0} erlernt\n",
+        "{STRVAR_1 6, 1}!\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00004",
+      "de_DE": [
+        "{STRVAR_1 1, 0} versucht,\n",
+        "{STRVAR_1 6, 1} zu erlernen.\r",
+        "Aber {STRVAR_1 1, 0} kann nur maximal\n",
+        "vier Attacken erlernen.\r",
+        "Soll eine andere Attacke durch\n",
+        "{STRVAR_1 6, 1} ersetzt werden?"
+      ]
+    },
+    {
+      "id": "msg_0586_00005",
+      "de_DE": [
+        "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Schwupp!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0} vergaß\n",
+        "{STRVAR_1 6, 1}.\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00006",
+      "de_DE": "{STRVAR_1 1, 0} erlernt {STRVAR_1 6, 1}.{WAIT 4}{WAIT 2}\r"
+    },
+    {
+      "id": "msg_0586_00007",
+      "de_DE": [
+        "{STRVAR_1 6, 1} nicht\n",
+        "erlernen?"
+      ]
+    },
+    {
+      "id": "msg_0586_00008",
+      "de_DE": [
+        "{STRVAR_1 1, 0} hat {STRVAR_1 6, 1}\n",
+        "nicht erlernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00009",
+      "garbage": 46
+    },
+    {
+      "id": "msg_0586_00010",
+      "de_DE": "{STRVAR_1 6, 0} soll vergessen werden?"
+    },
+    {
+      "id": "msg_0586_00011",
+      "de_DE": [
+        "An welche Attacke soll {STRVAR_1 1, 0}\n",
+        "sich erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0586_00012",
+      "de_DE": [
+        "Soll es sich an die Attacke\n",
+        "{STRVAR_1 6, 1} erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0586_00013",
+      "de_DE": [
+        "Soll {STRVAR_1 1, 0} aufgeben und\n",
+        "sich nicht an eine Attacke erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0586_00014",
+      "de_DE": [
+        "{STRVAR_1 1, 0} erinnert sich wieder\n",
+        "an die Attacke {STRVAR_1 6, 1}!\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00015",
+      "de_DE": [
+        "{STRVAR_1 1, 0} möchte sich an die\n",
+        "Attacke {STRVAR_1 6, 1} erinnern.\r",
+        "Aber {STRVAR_1 1, 0} kann nur vier\n",
+        "Attacken lernen.\r",
+        "Soll eine Attacke vergessen werden,\n",
+        "damit es {STRVAR_1 6, 1} lernen kann?"
+      ]
+    },
+    {
+      "id": "msg_0586_00016",
+      "de_DE": [
+        "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Schwupp!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0} hat\n",
+        "{STRVAR_1 6, 1} vergessen.\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 0} erinnert sich wieder an die\n",
+        "Attacke {STRVAR_1 6, 1}.{WAIT 4}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00018",
+      "de_DE": [
+        "Soll das Pokémon aufgeben und\n",
+        "sich nicht an {STRVAR_1 6, 1} erinnern?"
+      ]
+    },
+    {
+      "id": "msg_0586_00019",
+      "de_DE": [
+        "{STRVAR_1 1, 0} kann sich nicht an die\n",
+        "Attacke {STRVAR_1 6, 1} erinnern.\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00020",
+      "de_DE": [
+        "{STRVAR_1 3, 2} gibt im Austausch dafür\n",
+        "eine Herzschuppe ab.\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00021",
+      "de_DE": [
+        "Bist du einverstanden, dass das\n",
+        "Pokémon {STRVAR_1 6, 0} vergisst?"
+      ]
+    },
+    {
+      "id": "msg_0586_00022",
+      "de_DE": "ART"
+    },
+    {
+      "id": "msg_0586_00023",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0586_00024",
+      "de_DE": "GENAU."
+    },
+    {
+      "id": "msg_0586_00025",
+      "de_DE": "AP"
+    },
+    {
+      "id": "msg_0586_00026",
+      "de_DE": "ATTACKEN"
+    },
+    {
+      "id": "msg_0586_00027",
+      "de_DE": "PKTE. AUSDRUCK"
+    },
+    {
+      "id": "msg_0586_00028",
+      "de_DE": "WETT.-ATTACKEN"
+    },
+    {
+      "id": "msg_0586_00029",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0586_00030",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0586_00031",
+      "de_DE": "{STRVAR_1 51, 0}/{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0586_00032",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0586_00033",
+      "de_DE": "---"
+    }
+  ]
+}

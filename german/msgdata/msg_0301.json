@@ -1,0 +1,306 @@
+{
+  "key": 20888,
+  "messages": [
+    {
+      "id": "msg_0301_00000",
+      "de_DE": [
+        "Möchtest du Pokémon aus der\n",
+        "Rubin-Edition von {STRVAR_1 3, 1, 0} holen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00001",
+      "de_DE": [
+        "Möchtest du Pokémon aus der\n",
+        "Saphir-Edition von {STRVAR_1 3, 1, 0} holen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00002",
+      "de_DE": [
+        "Möchtest du Pokémon aus der Smaragd-\n",
+        "Edition von {STRVAR_1 3, 1, 0} holen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00003",
+      "de_DE": [
+        "Möchtest du Pokémon aus der Feuer-\n",
+        "roten Edition von {STRVAR_1 3, 1, 0} holen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00004",
+      "de_DE": [
+        "Möchtest du Pokémon aus der Blatt-\n",
+        "grünen Edition von {STRVAR_1 3, 1, 0} holen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00005",
+      "de_DE": [
+        "Es sind keine 6 Pokémon\n",
+        "in den PC-Boxen vorhanden."
+      ]
+    },
+    {
+      "id": "msg_0301_00006",
+      "de_DE": [
+        "Wunderbar! Nun wähle die 6 Pokémon\n",
+        "aus, die in diese Region kommen sollen."
+      ]
+    },
+    {
+      "id": "msg_0301_00007",
+      "de_DE": [
+        "Auf dieser DS-Karte befinden sich\n",
+        "bereits 6 übertragene Pokémon.\r",
+        "Du kannst nun gerne an einer Fangshow\n",
+        "im Park der Freunde teilnehmen."
+      ]
+    },
+    {
+      "id": "msg_0301_00008",
+      "de_DE": "Ein Ei kann nicht herüberwandern!"
+    },
+    {
+      "id": "msg_0301_00009",
+      "de_DE": [
+        "Dieses Pokémon kennt eine Versteckte\n",
+        "Maschine u. kann nicht herüberwandern."
+      ]
+    },
+    {
+      "id": "msg_0301_00010",
+      "de_DE": [
+        "Die 6 ausgewählten Pokémon\n",
+        "werden jetzt herüberwandern."
+      ]
+    },
+    {
+      "id": "msg_0301_00011",
+      "de_DE": [
+        "PKMN können nicht zurückübertragen\n",
+        "werden. Ist das in Ordnung?"
+      ]
+    },
+    {
+      "id": "msg_0301_00012",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0301_00013",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0301_00014",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0301_00015",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0301_00016",
+      "garbage": 46
+    },
+    {
+      "id": "msg_0301_00017",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0301_00018",
+      "de_DE": [
+        "Speichere Daten in Pokémon HeartGold\n",
+        "und Rubin."
+      ]
+    },
+    {
+      "id": "msg_0301_00019",
+      "de_DE": [
+        "Speichere Daten in Pokémon SoulSilver\n",
+        "und Rubin."
+      ]
+    },
+    {
+      "id": "msg_0301_00020",
+      "de_DE": [
+        "Speichere Daten in Pokémon HeartGold\n",
+        "und Saphir."
+      ]
+    },
+    {
+      "id": "msg_0301_00021",
+      "de_DE": [
+        "Speichere Daten in Pokémon SoulSilver\n",
+        "und Saphir."
+      ]
+    },
+    {
+      "id": "msg_0301_00022",
+      "de_DE": [
+        "Speichere Daten in Pokémon HeartGold\n",
+        "und Smaragd."
+      ]
+    },
+    {
+      "id": "msg_0301_00023",
+      "de_DE": [
+        "Speichere Daten in Pokémon SoulSilver\n",
+        "und Smaragd."
+      ]
+    },
+    {
+      "id": "msg_0301_00024",
+      "de_DE": [
+        "Speichere Daten in Pokémon HeartGold\n",
+        "und Feuerrot."
+      ]
+    },
+    {
+      "id": "msg_0301_00025",
+      "de_DE": [
+        "Speichere Daten in Pokémon SoulSilver\n",
+        "und Feuerrot."
+      ]
+    },
+    {
+      "id": "msg_0301_00026",
+      "de_DE": [
+        "Speichere Daten in Pokémon HeartGold\n",
+        "und Blattgrün."
+      ]
+    },
+    {
+      "id": "msg_0301_00027",
+      "de_DE": [
+        "Speichere Daten in Pokémon SoulSilver\n",
+        "und Blattgrün."
+      ]
+    },
+    {
+      "id": "msg_0301_00028",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0301_00029",
+      "de_DE": [
+        "Alle 6 Pokémon wurden erfolgreich\n",
+        "nach Pokémon HeartGold übertragen."
+      ]
+    },
+    {
+      "id": "msg_0301_00030",
+      "de_DE": [
+        "Alle 6 Pokémon wurden erfolgreich\n",
+        "nach Pokémon SoulSilver übertragen."
+      ]
+    },
+    {
+      "id": "msg_0301_00031",
+      "de_DE": [
+        "Pokémon können nur einmal am Tag\n",
+        "von einem Game Boy Advance-Modul\f",
+        "herüberwandern.\r",
+        "Seit dem letzten Mal ist noch kein\n",
+        "Tag vergangen."
+      ]
+    },
+    {
+      "id": "msg_0301_00032",
+      "de_DE": [
+        "Du verwendest ein anderes Nintendo\n",
+        "DS-System oder hast die Uhrzeit neu\f",
+        "eingestellt.\r",
+        "Hast du die Zeit im Spiel neu eingestellt,\n",
+        "musst du erneut 24 Stunden warten,\f",
+        "bis du Pokémon herüberholen kannst.\r",
+        "Möchtest du die Zeit im Spiel an die\n",
+        "des Nintendo DS-Systems anpassen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00033",
+      "de_DE": [
+        "Die Zeit im Spiel wurde angepasst.\r",
+        "Du musst 24 Stunden warten, bis du\n",
+        "Pokémon herüberholen kannst."
+      ]
+    },
+    {
+      "id": "msg_0301_00034",
+      "de_DE": [
+        "Einmal herübergeholte Pokémon können\n",
+        "nicht mehr zurückübertragen werden.\r",
+        "Möchtest du sie dennoch nach\n",
+        "Pokémon HeartGold holen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00035",
+      "de_DE": [
+        "Einmal herübergeholte Pokémon können\n",
+        "nicht mehr zurück übertragen werden.\r",
+        "Möchtest du sie dennoch nach\n",
+        "Pokémon SoulSilver holen?"
+      ]
+    },
+    {
+      "id": "msg_0301_00036",
+      "de_DE": "Speichern fehlgeschlagen..."
+    },
+    {
+      "id": "msg_0301_00037",
+      "de_DE": [
+        "Beim Lesen des Spielstands des\n",
+        "Game Boy Advance-Moduls ist ein\f",
+        "Fehler aufgetreten.\r",
+        "Es scheint kein Spielstand vorhanden\n",
+        "zu sein oder aber die Daten sind\f",
+        "beschädigt."
+      ]
+    },
+    {
+      "id": "msg_0301_00038",
+      "de_DE": [
+        "Dieses Pokémon darf nicht\n",
+        "herüberwandern."
+      ]
+    },
+    {
+      "id": "msg_0301_00039",
+      "garbage": 24
+    },
+    {
+      "id": "msg_0301_00040",
+      "de_DE": [
+        "Führe Anpassung aus...\n",
+        "Bitte schalte das System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0301_00041",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0301_00042",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0301_00043",
+      "de_DE": "Lv."
+    },
+    {
+      "id": "msg_0301_00044",
+      "de_DE": "Item"
+    },
+    {
+      "id": "msg_0301_00045",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0301_00046",
+      "garbage": 28
+    }
+  ]
+}

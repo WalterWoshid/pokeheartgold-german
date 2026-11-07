@@ -1,0 +1,263 @@
+{
+  "key": 60499,
+  "messages": [
+    {
+      "id": "msg_0597_00000",
+      "de_DE": [
+        "Hörst du auch so gerne Radio wie ich?\r",
+        "Was ist deine Lieblingssendung?\r",
+        "Meine ist Passwort mit Buena!\r",
+        "Wenn sie das Passwort bekannt gibt,\n",
+        "notiere ich es mir immer sofort, weil\f",
+        "ich es sonst vergessen würde.\r",
+        "Deshalb... ist mein Pokécom auch\n",
+        "überall vollgekritzelt."
+      ]
+    },
+    {
+      "id": "msg_0597_00001",
+      "de_DE": [
+        "Selbst jemand von Team Rocket weiß es\n",
+        "wohl zu schätzen, genüsslich auf dem\f",
+        "Dach Radio zu hören, was?"
+      ]
+    },
+    {
+      "id": "msg_0597_00002",
+      "de_DE": [
+        "Wenn man erschöpft ist, geht nichts\n",
+        "über ein Getränk aus dem Automaten!\f",
+        "Auch deine Pokémon werden sie mögen!"
+      ]
+    },
+    {
+      "id": "msg_0597_00003",
+      "de_DE": [
+        "Du gehörst zu Team Rocket, was?\r",
+        "Wie wär’s, wenn du dir am Automaten ein\n",
+        "Getränk kaufst, eine Weile abschaltest,\f",
+        "und dabei mal in aller Ruhe gründlich\f",
+        "deinen Lebenswandel überdenkst?"
+      ]
+    },
+    {
+      "id": "msg_0597_00004",
+      "de_DE": [
+        "Mach eine Einkaufspause\n",
+        "5S: Dachgeschoss"
+      ]
+    },
+    {
+      "id": "msg_0597_00005",
+      "de_DE": [
+        "Das ist ein Getränkeautomat.\n",
+        "Möchtest du etwas trinken? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0597_00006",
+      "de_DE": [
+        "Deng!\r",
+        "{STRVAR_1 8, 0, 0} fällt heraus.\r"
+      ]
+    },
+    {
+      "id": "msg_0597_00007",
+      "de_DE": [
+        "Schepper, klong!\r",
+        "Du hast gewonnen! Eine weitere\n",
+        "Dose {STRVAR_1 8, 0, 0} fällt heraus.\r"
+      ]
+    },
+    {
+      "id": "msg_0597_00008",
+      "de_DE": "Nicht genug Geld..."
+    },
+    {
+      "id": "msg_0597_00009",
+      "de_DE": "...Nein, du hast doch keinen Durst."
+    },
+    {
+      "id": "msg_0597_00010",
+      "de_DE": [
+        "Willkommen zur berühmten Los-Ecke\n",
+        "des Kaufhauses in Dukatia City, wo die\f",
+        "Preise je nach Wochentag wechseln!\r",
+        "Mit einem Los für 300 $ könnte dir schon\n",
+        "bald ein wunderbarer Preis gehören!\r",
+        "Möchtest du eins ziehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0597_00011",
+      "de_DE": [
+        "In Ordnung, dann zieh dir ein Los!\r",
+        "... ... ...\n",
+        "... ... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0597_00012",
+      "de_DE": [
+        "Oh, toll! Das ist der {STRVAR_1 50, 0, 0}. Preis!\r",
+        "Hier hast du deinen wunderbaren Gewinn!\r"
+      ]
+    },
+    {
+      "id": "msg_0597_00013",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0597_00014",
+      "de_DE": "Hm, schade..."
+    },
+    {
+      "id": "msg_0597_00015",
+      "de_DE": [
+        "Oh, schade! Offenbar kannst du\n",
+        "nichts mehr tragen!\r",
+        "Hier hast du dein Geld zurück.\r"
+      ]
+    },
+    {
+      "id": "msg_0597_00016",
+      "de_DE": [
+        "Oh, schade! Offenbar hast du\n",
+        "nicht genügend Geld dabei!\r",
+        "Aber komm doch mal wieder!"
+      ]
+    },
+    {
+      "id": "msg_0597_00017",
+      "de_DE": "Dann bis zum nächsten Mal!"
+    },
+    {
+      "id": "msg_0597_00018",
+      "de_DE": [
+        "Das sind die Preise für Sonntag...\r",
+        "1. Preis: TM02\n",
+        "2. Preis: Luxusball\f",
+        "3. Preis: Beere"
+      ]
+    },
+    {
+      "id": "msg_0597_00019",
+      "de_DE": [
+        "Das sind die Preise für Montag...\r",
+        "1. Preis: TM65\n",
+        "2. Preis: Nestball\f",
+        "3. Preis: Beere"
+      ]
+    },
+    {
+      "id": "msg_0597_00020",
+      "de_DE": [
+        "Das sind die Preise für Dienstag...\r",
+        "1. Preis: TM91\n",
+        "2. Preis: Wiederball\f",
+        "3. Preis: Beere"
+      ]
+    },
+    {
+      "id": "msg_0597_00021",
+      "de_DE": [
+        "Das sind die Preise für Mittwoch...\r",
+        "1. Preis: TM57\n",
+        "2. Preis: Netzball\f",
+        "3. Preis: Beere"
+      ]
+    },
+    {
+      "id": "msg_0597_00022",
+      "de_DE": [
+        "Das sind die Preise für Donnerstag...\r",
+        "1. Preis: TM60\n",
+        "2. Preis: Flottball\f",
+        "3. Preis: Beere"
+      ]
+    },
+    {
+      "id": "msg_0597_00023",
+      "de_DE": [
+        "Das sind die Preise für Freitag...\r",
+        "1. Preis: TM42\n",
+        "2. Preis: Finsterball\f",
+        "3. Preis: Beere"
+      ]
+    },
+    {
+      "id": "msg_0597_00024",
+      "de_DE": [
+        "Das sind die Preise für Samstag...\r",
+        "1. Preis: TM62\n",
+        "2. Preis: Timerball\f",
+        "3. Preis: Beere"
+      ]
+    },
+    {
+      "id": "msg_0597_00025",
+      "de_DE": [
+        "Bianka: Hier hätte ich jetzt wirklich\n",
+        "nicht erwartet, jemanden zu treffen.\r",
+        "Ja, das muss Schicksal sein.\r",
+        "Na, wie wär’s, wollen wir Telefon-\n",
+        "nummern austauschen? Na? Na? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0597_00026",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Biankas Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0597_00027",
+      "de_DE": [
+        "Bianka: Ich habe jede Woche samstags\n",
+        "zur Mittagszeit etwas Luft.\r",
+        "Wenn du da auch mal nichts zu tun haben\n",
+        "solltest, kannst du mich ja mal anrufen!"
+      ]
+    },
+    {
+      "id": "msg_0597_00028",
+      "de_DE": "Bianka: Ganz ehrlich, das ist arm."
+    },
+    {
+      "id": "msg_0597_00029",
+      "de_DE": [
+        "Bianka: Na, willst du jetzt doch\n",
+        "meine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0597_00030",
+      "de_DE": [
+        "Bianka: Wie sieht’s aus, hättest du\n",
+        "nicht Lust auf ein Foto mit mir? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0597_00031",
+      "de_DE": "Bianka: Klasse! Dann stell dich zu mir!\r"
+    },
+    {
+      "id": "msg_0597_00032",
+      "de_DE": "Bianka: Das Bild ist toll geworden!"
+    },
+    {
+      "id": "msg_0597_00033",
+      "de_DE": "Bianka: Oh, schade..."
+    },
+    {
+      "id": "msg_0597_00034",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "key": 17430,
+  "messages": [
+    {
+      "id": "msg_0503_00000",
+      "de_DE": [
+        "Hallo, ich bin der Spieldirektor!\r",
+        "Ich weiß, es ist nicht leicht, einen\n",
+        "vollständigen Pokédex zu bekommen.\f",
+        "Aber bleibe am Ball und gib nicht auf!\r",
+        "Du schaffst das schon! Ganz sicher!"
+      ]
+    },
+    {
+      "id": "msg_0503_00001",
+      "de_DE": [
+        "Wow, ich bin beeindruckt! Du hast den\n",
+        "Pokédex von Johto vervollständigt!\r",
+        "Gute Arbeit! Das hast du toll gemacht!\n",
+        "Du bist etwas ganz Besonderes!\f",
+        "Das ist mein voller Ernst!\r"
+      ]
+    },
+    {
+      "id": "msg_0503_00002",
+      "de_DE": [
+        "Wow! Hervorragend!\n",
+        "Du hast es endlich geschafft, deinen\f",
+        "Pokédex zu vervollständigen!\r",
+        "Gratuliere! Ein Talent wie dich trifft\n",
+        "man nur alle hundert Jahre!\f",
+        "Das ist mein voller Ernst!\f",
+        "Und als Beweis erhältst du nun eine\f",
+        "Auszeichnung direkt von Game Freak!\r"
+      ]
+    },
+    {
+      "id": "msg_0503_00003",
+      "de_DE": [
+        "Es war bestimmt nicht leicht, einen\n",
+        "vollständigen Pokédex zu bekommen!\r",
+        "Aber die Zeit, die du darin investiert\n",
+        "hast, das ganze Land nach all den\f",
+        "Pokémon abzugrasen, wissen wir hier\f",
+        "alle sehr zu schätzen!\r",
+        "Verstehe das als ein Kompliment!\r",
+        "Das ist mein voller Ernst!"
+      ]
+    },
+    {
+      "id": "msg_0503_00004",
+      "de_DE": [
+        "Ich bin der Grafik-Designer!\n",
+        "Mein Fachgebiet ist es, aus kleinen\f",
+        "Punkten große Bilder zu schaffen!"
+      ]
+    },
+    {
+      "id": "msg_0503_00005",
+      "de_DE": [
+        "Ich bin ein Programmierer!\r",
+        "Mein Keyboard und ich sind die wahren\n",
+        "Herrscher über die Spielwelt!"
+      ]
+    },
+    {
+      "id": "msg_0503_00006",
+      "de_DE": [
+        "Wir sind das Kreativteam!\n",
+        "In unseren Köpfen spuken immer\f",
+        "viele originelle Ideen herum.\r",
+        "Selbst die Idee zu diesem Ort hier\n",
+        "stammt von uns! Hahaha!"
+      ]
+    },
+    {
+      "id": "msg_0503_00007",
+      "de_DE": [
+        "Ich bin der Sound-Designer!\r",
+        "Meine Aufgabe ist es, die Musik\n",
+        "für das Spiel zu komponieren.\r",
+        "Wenn du mir alle acht Orden der\n",
+        "Pokémon-Arenen von Kanto zeigst,\f",
+        "habe ich etwas ganz Tolles für dich!"
+      ]
+    },
+    {
+      "id": "msg_0503_00008",
+      "de_DE": [
+        "Ich bin der Sound-Designer!\r",
+        "Meine Aufgabe ist es, die Musik\n",
+        "für das Spiel zu komponieren.\r",
+        "Moment mal, ist das möglich?\n",
+        "Du hast bereits alle acht Orden\f",
+        "der Pokémon-Arenen von Kanto?!\r",
+        "Das ist ja unglaublich!\n",
+        "Dafür kriegst du eine tolle Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0503_00009",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0503_00010",
+      "de_DE": [
+        "GB... diese Buchstaben stehen für\n",
+        "buchstäblich hochformatigen Spielspaß,\f",
+        "für “Dot Matrix with Stereo Sound”...\f",
+        "Für die erste Pokémon-Spielplattform...\f",
+        "Für den Nintendo Game Boy natürlich!\r",
+        "Der GB-Player ist ein geheimnisvolles\n",
+        "Item, mit dem du per Knopfdruck die\f",
+        "Musik aus den guten alten Zeiten wieder\f",
+        "zum Leben erwecken kannst!\r",
+        "Probiere ihn an den unterschiedlichsten\n",
+        "Stellen aus! Es klappt fast überall!\r",
+        "An manchen Stellen bewirkt er nichts.\n",
+        "Ich hoffe, das lässt sich verkraften!"
+      ]
+    },
+    {
+      "id": "msg_0503_00011",
+      "de_DE": [
+        "Der GB-Player ist ’ne echte Wucht, ey!\n",
+        "Sogar in all den Orten, die’s hier erst\f",
+        "seit ganz kurzer Zeit gibt, kann man\f",
+        "sich damit die volle Dröhnung geben.\r",
+        "Musikalische Nostalgie pur!\r",
+        "Das Ding lässt echt nichts zu wünschen\n",
+        "übrig, du wirst schon sehen!\r",
+        "...Äh...\f",
+        "Also ich meine natürlich hören!\n",
+        "Was labere ich hier für ein Zeug?\r",
+        "Der GB-Player lässt sich fast überall\n",
+        "einsetzen, also schalte ihn doch\f",
+        "einfach da an, wo du Lust hast!\r",
+        "Aber manchmal passiert auch gar nix!\n",
+        "Steig mir deswegen also nicht aufs Dach!"
+      ]
+    },
+    {
+      "id": "msg_0503_00012",
+      "de_DE": "Lyra: Oh, {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0503_00013",
+      "de_DE": "Klarin: Oh! {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0503_00014",
+      "de_DE": [
+        "Lyra: Das musst du dir anhören!\r",
+        "Dieser ulkige Sound-Designer da drüben\n",
+        "hat mir etwas ganz Tolles gezeigt!\r",
+        "Er hat eine Maschine, mit der man Musik\n",
+        "wie auf einem Nintendo Game Boy hören\f",
+        "kann! Wie progressiv! Wie retro!\r",
+        "Er verschenkt sie an Leute, die alle\n",
+        "acht Orden der Kanto-Arenen besitzen!\r",
+        "Versuch’s doch mal, {STRVAR_1 3, 0, 0}!\n",
+        "Bis dann!\r"
+      ]
+    },
+    {
+      "id": "msg_0503_00015",
+      "de_DE": [
+        "Klarin: Das musst du dir anhören!\r",
+        "Dieser krasse Sound-Designer da drüben\n",
+        "hat mir etwas ganz Tolles gezeigt!\r",
+        "Er hat eine Maschine, mit der man Musik\n",
+        "wie auf einem Nintendo Game Boy hören\f",
+        "kann! Wie progressiv! Wie retro!\r",
+        "Er verschenkt sie an Leute, die alle\n",
+        "acht Orden der Kanto-Arenen besitzen!\r",
+        "Versuch’s doch mal, {STRVAR_1 3, 0, 0}!\n",
+        "Bis dann!\r"
+      ]
+    },
+    {
+      "id": "msg_0503_00016",
+      "de_DE": "Game Freak Entwicklungsbüro"
+    },
+    {
+      "id": "msg_0503_00017",
+      "de_DE": [
+        "Dieser Aufzug pendelt zwischen dem\n",
+        "ersten Stock und dem Dach."
+      ]
+    },
+    {
+      "id": "msg_0503_00018",
+      "de_DE": [
+        "Das sind die Programmdaten! Spiele nicht\n",
+        "damit herum, sie könnten kaputtgehen!"
+      ]
+    },
+    {
+      "id": "msg_0503_00019",
+      "de_DE": [
+        "Der Schreibtisch ist komplett mit\n",
+        "Pokémon-Stickern übersät!"
+      ]
+    },
+    {
+      "id": "msg_0503_00020",
+      "de_DE": [
+        "Da stehen jede Menge Bildbände\n",
+        "und Bücher über uralte Sagen!"
+      ]
+    },
+    {
+      "id": "msg_0503_00021",
+      "de_DE": [
+        "Na, wie gefällt es dir hier so?\r",
+        "Ich bin der Leiter dieser Firma.\r",
+        "Wir arbeiten gerade mit Hochdruck an\n",
+        "der Neuauflage eines früheren Spiels.\r",
+        "Aber das ist gar kein so leichtes\n",
+        "Unterfangen! Wir wollen ja schließlich\f",
+        "nicht auf den Erinnerungen der Fans der\f",
+        "ursprünglichen Version herumtrampeln!\r",
+        "Aber vollständig an das Original können\n",
+        "wir uns leider auch nicht halten.\f",
+        "Wir wollen dem Spieler eine gute\f",
+        "Mischung aus Alt und Neu bieten.\r",
+        "Die meisten von uns machen diesen Beruf\n",
+        "jetzt schon seit 20 Jahren, aber ein\f",
+        "Spieldesigner muss sich immer neuen\f",
+        "Herausforderungen stellen!"
+      ]
+    }
+  ]
+}

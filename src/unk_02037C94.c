@@ -827,13 +827,21 @@ void sub_02038C3C(u32 arg0, s32 arg1) {
             _021D4150->unk58 = (1 | _021D4150->unk58);
         }
         break;
+#ifdef GERMAN
+    case 0x8000CE:
+#else
     case 0x400318:
+#endif
         _021D4150->unk58 = (1 | _021D4150->unk58);
         break;
     case 0x400131:
         _021D4150->unk58 = (2 | _021D4150->unk58);
         break;
+#ifdef GERMAN
+    case 0x8000ED:
+#else
     case 0x400286:
+#endif
         _021D4150->unk58 = (4 | _021D4150->unk58);
         break;
     }

@@ -1,0 +1,39 @@
+{
+  "key": 17422,
+  "messages": [
+    {
+      "id": "msg_0545_00000",
+      "de_DE": [
+        "Hallo, vielen Dank,\n",
+        "dass du uns heute besuchst.\r",
+        "In welches Stockwerk\n",
+        "darf ich dich bringen?"
+      ]
+    },
+    {
+      "id": "msg_0545_00001",
+      "de_DE": [
+        "Aber sicher.\n",
+        "Aufwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00002",
+      "de_DE": [
+        "Aber sicher.\n",
+        "Abwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0545_00003",
+      "de_DE": [
+        "Ähm, wir sind bereits in\n",
+        "dem Stockwerk."
+      ]
+    },
+    {
+      "id": "msg_0545_00004",
+      "de_DE": "Da wären wir!"
+    }
+  ]
+}

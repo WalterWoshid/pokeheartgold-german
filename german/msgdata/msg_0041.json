@@ -1,0 +1,122 @@
+{
+  "key": 28344,
+  "messages": [
+    {
+      "id": "msg_0041_00000",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0041_00001",
+      "de_DE": [
+        "Verbindungsfehler.\n",
+        "Warst du im Konnex-Klub, so drücke\n",
+        "den A-Knopf, um die Drahtlose DS-\n",
+        "Datenübertragung zu starten und\n",
+        "dorthin zurückzukehren. Ansonsten\n",
+        "wird der letzte Speicherpunkt gela-\n",
+        "den. Drücke den B-Knopf, um zum\n",
+        "Titelbildschirm zu gelangen, wenn\n",
+        "du im Konnex-Klub warst."
+      ]
+    },
+    {
+      "id": "msg_0041_00002",
+      "de_DE": [
+        "Verbindungsfehler. ({STRVAR_1 54, 0, 0})\n",
+        "Bitte schalte das DS-System aus,\n",
+        "starte es neu und versuche es noch\n",
+        "einmal.\n",
+        "\n",
+        "Wenn diese Fehlermeldung weiterhin\n",
+        "erscheint, wende dich bitte an die\n",
+        "Nintendo Konsumentenberatung."
+      ]
+    },
+    {
+      "id": "msg_0041_00003",
+      "de_DE": [
+        "Verbindungsfehler.\n",
+        "\n",
+        "Das Spiel kehrt zum Titelbildschirm\n",
+        "zurück.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0041_00004",
+      "de_DE": [
+        "Die GTS ist entweder mit starkem\n",
+        "Datenverkehr ausgelastet oder der\n",
+        "Service steht vorübergehend nicht\n",
+        "zur Verfügung.\n",
+        "\n",
+        "Die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wurde unterbrochen.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0041_00005",
+      "de_DE": [
+        "Verbindungsfehler.\n",
+        "Bitte schalte das DS-System aus,\n",
+        "starte es neu und versuche es noch\n",
+        "einmal.\n",
+        "\n",
+        "Wenn diese Fehlermeldung weiterhin\n",
+        "erscheint, wende dich bitte an die\n",
+        "Nintendo Konsumentenberatung."
+      ]
+    },
+    {
+      "id": "msg_0041_00006",
+      "de_DE": [
+        "Fehler bei der Datenübertragung.\n",
+        "\n",
+        "Die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wurde unterbrochen.\n",
+        "Du wirst an den Ort deines letzten\n",
+        "Speichervorgangs zurückkehren.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0041_00007",
+      "de_DE": [
+        "Fehler bei der Datenübertragung.\n",
+        "\n",
+        "Die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wurde unterbrochen.\n",
+        "Das Spiel kehrt zum Titelbildschirm\n",
+        "zurück.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0041_00008",
+      "de_DE": [
+        "Fehler bei der Datenübertragung.\n",
+        "({STRVAR_1 54, 0, 0})\n",
+        "\n",
+        "Die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wurde unterbrochen.\n",
+        "Du wirst an den Ort deines letzten\n",
+        "Speichervorgangs zurückkehren.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0041_00009",
+      "de_DE": [
+        "Fehler bei der Datenübertragung.\n",
+        "({STRVAR_1 54, 0, 0})\n",
+        "\n",
+        "Die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wurde unterbrochen.\n",
+        "Das Spiel kehrt zum Titelbildschirm\n",
+        "zurück.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    }
+  ]
+}

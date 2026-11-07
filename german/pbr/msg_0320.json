@@ -1,0 +1,52 @@
+{
+  "key": 59108,
+  "messages": [
+    {
+      "id": "msg_0320_00000",
+      "de_DE": [
+        "Sieh mal! Da sind Pokémon! Wir\n",
+        "nehmen jeder eines und kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0320_00001",
+      "de_DE": [
+        "{COLOR 3}Winziglaub CHELAST{COLOR 0}!\n",
+        "Möchtest du dieses Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0320_00002",
+      "de_DE": [
+        "{COLOR 1}Schimpanse PANFLAM{COLOR 0}!\n",
+        "Möchest du dieses Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0320_00003",
+      "de_DE": [
+        "{COLOR 2}Pinguin PLINFA{COLOR 0}!\n",
+        "Möchtest du dieses Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0320_00004",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0320_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0320_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0320_00007",
+      "de_DE": [
+        "Äääh...\n",
+        "Und welches möchtest du dann?!?"
+      ]
+    }
+  ]
+}

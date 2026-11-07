@@ -1,0 +1,143 @@
+{
+  "key": 18191,
+  "messages": [
+    {
+      "id": "msg_0512_00000",
+      "de_DE": [
+        "Einer der Top Vier war früher einmal\n",
+        "der Arenaleiter von Fuchsania City!"
+      ]
+    },
+    {
+      "id": "msg_0512_00001",
+      "de_DE": [
+        "Die Tochter von Koga, einem der\n",
+        "Top Vier, hat es hier bis zur\f",
+        "Arenaleiterin gebracht!"
+      ]
+    },
+    {
+      "id": "msg_0512_00002",
+      "de_DE": [
+        "Ich dachte eigentlich, die Safari-Zone\n",
+        "sei nur vorübergehend geschlossen,\f",
+        "aber jetzt soll sie urplötzlich nach\f",
+        "Johto umgezogen sein.\r",
+        "Das ist ein bisschen schade. Die Safari\n",
+        "war die Hauptattraktion dieser Stadt..."
+      ]
+    },
+    {
+      "id": "msg_0512_00003",
+      "de_DE": [
+        "Fuchsania City\n",
+        "Eine Stadt im Wandel"
+      ]
+    },
+    {
+      "id": "msg_0512_00004",
+      "de_DE": [
+        "Pokémon-Arena von Fuchsania City\n",
+        "Leiterin: Janina\f",
+        "Die giftige Ninja-Meisterin"
+      ]
+    },
+    {
+      "id": "msg_0512_00005",
+      "de_DE": [
+        "Da ist ein Flugblatt...\r",
+        "Die Safari-Zone hat ihre hiesige\n",
+        "Niederlassung aufgegeben.\r",
+        "An ihrer Stelle entsteht hier nun\n",
+        "der Park der Freunde."
+      ]
+    },
+    {
+      "id": "msg_0512_00006",
+      "de_DE": [
+        "Park der Freunde\n",
+        "Haus des Wärters"
+      ]
+    },
+    {
+      "id": "msg_0512_00007",
+      "de_DE": [
+        "Beerenfürstücke!\n",
+        "Beerenfürstücke!\r",
+        "Hallo! Komm ruhig näher!\n",
+        "Bei mir kannst du Stücke\f",
+        "gegen Beeren tauschen.\r",
+        "Wenn du irgendwelche Stücke dabeihaben\n",
+        "solltest, kannst du sie bei mir gegen\f",
+        "drei Beeren pro Exemplar eintauschen.\f",
+        "Das ist fast geschenkt, sage ich dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0512_00008",
+      "de_DE": [
+        "Beerenfürstücke!\n",
+        "Beerenfürstücke!\r",
+        "Hallo! Komm ruhig näher!\n",
+        "Bei mir kannst du Stücke\f",
+        "gegen Beeren tauschen.\r",
+        "Wenn du irgendwelche Stücke dabeihaben\n",
+        "solltest, kannst du sie bei mir gegen\f",
+        "drei Beeren pro Exemplar eintauschen.\f",
+        "Das ist fast geschenkt, sage ich dir!\r",
+        "Was für Stücke hast du für mich? {YESNO 0}\n"
+      ]
+    },
+    {
+      "id": "msg_0512_00009",
+      "de_DE": [
+        "Möchtest du noch mehr Beeren\n",
+        "für Stücke eintauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0512_00010",
+      "de_DE": [
+        "In Ordnung, alles klar! Komm zurück,\n",
+        "wenn du Nachschlag willst!\r"
+      ]
+    },
+    {
+      "id": "msg_0512_00011",
+      "de_DE": [
+        "Für ein Purpurstück bekommst du von\n",
+        "mir das Beerenfürstück-Set E!\r"
+      ]
+    },
+    {
+      "id": "msg_0512_00012",
+      "de_DE": [
+        "Für ein Indigostück bekommst du von\n",
+        "mir das Beerenfürstück-Set F!\r"
+      ]
+    },
+    {
+      "id": "msg_0512_00013",
+      "de_DE": [
+        "Für ein Gelbstück bekommst du von\n",
+        "mir das Beerenfürstück-Set G!\r"
+      ]
+    },
+    {
+      "id": "msg_0512_00014",
+      "de_DE": [
+        "Für ein Grünstück bekommst du von\n",
+        "mir das Beerenfürstück-Set H!\r"
+      ]
+    },
+    {
+      "id": "msg_0512_00015",
+      "de_DE": [
+        "Du hast schon zu viele von den Beeren,\n",
+        "die in diesem Set enthalten sind.\r",
+        "Komm zurück, wenn du ein paar von\n",
+        "ihnen aufgebraucht hast!\r"
+      ]
+    }
+  ]
+}

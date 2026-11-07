@@ -1,0 +1,94 @@
+{
+  "key": 54319,
+  "messages": [
+    {
+      "id": "msg_0246_00000",
+      "de_DE": [
+        "Avenaro: Hey!\n",
+        "{STRVAR_1 3, 0}, stimmt’s?\r",
+        "Dein aufgeweckter kleiner Kumpel\n",
+        "hat mich vorhin herausgefordert.\r",
+        "Ja, nerviges, kleines Kerlchen.\n",
+        "Musste ihm eine Lektion erteilen.\r",
+        "Aber ich weiß nicht, ob ich das\n",
+        "nochmal schaffen werde.\r",
+        "Egal, wohin man geht, überall gibt es\n",
+        "starke Trainer, die einen fordern!\r",
+        "Tja, ich habe diesen Ort gefunden,\n",
+        "aber die Pokémon hier sind hart...\r",
+        "Wie wäre es, wenn wir uns zusammen-\n",
+        "schließen und es gemeinsam versuchen?\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0} entscheidet sich,\n",
+        "mit Avenaro zu gehen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00002",
+      "de_DE": [
+        "Avenaro: Du wirst es nicht bereuen!\r",
+        "Ich sorge dafür, dass deine\n",
+        "Pokémon gesund bleiben!"
+      ]
+    },
+    {
+      "id": "msg_0246_00003",
+      "de_DE": [
+        "Avenaro: Und, ähm, die Pokémon hier\n",
+        "sind wirklich eine harte Nuss...\r",
+        "Was hältst du davon, wenn wir\n",
+        "ein Team bilden und reingehen?\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00004",
+      "de_DE": [
+        "Avenaro: Hey, warte mal!\r",
+        "Ich kann allein nicht weitergehen,\n",
+        "wenn du mich hier im Stich lässt.\r",
+        "Gut, wenn du gehen musst, dann geh.\n",
+        "Ich warte hier auf dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00005",
+      "de_DE": [
+        "Avenaro: Das ist er!\n",
+        "Der Ausgang!\r",
+        "Ich spür’s, der Schatz des\n",
+        "Vulkans liegt direkt vor uns.\r",
+        "Man sieht sich, {STRVAR_1 3, 0}!\r",
+        "Von mir abgesehen, bist du vielleicht\n",
+        "der stärkste Trainer!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0246_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0246_00008",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0246_00009",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0246_00010",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0246_00011",
+      "garbage": 0
+    }
+  ]
+}

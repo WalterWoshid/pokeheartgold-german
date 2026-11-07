@@ -1,0 +1,799 @@
+{
+  "key": 9347,
+  "messages": [
+    {
+      "id": "msg_0138_00000",
+      "garbage": 50
+    },
+    {
+      "id": "msg_0138_00001",
+      "garbage": 68
+    },
+    {
+      "id": "msg_0138_00002",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0138_00003",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0138_00004",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0138_00005",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0138_00006",
+      "garbage": 49
+    },
+    {
+      "id": "msg_0138_00007",
+      "garbage": 32
+    },
+    {
+      "id": "msg_0138_00008",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0138_00009",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0138_00010",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0138_00011",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0138_00012",
+      "garbage": 143
+    },
+    {
+      "id": "msg_0138_00013",
+      "garbage": 147
+    },
+    {
+      "id": "msg_0138_00014",
+      "garbage": 208
+    },
+    {
+      "id": "msg_0138_00015",
+      "garbage": 206
+    },
+    {
+      "id": "msg_0138_00016",
+      "garbage": 217
+    },
+    {
+      "id": "msg_0138_00017",
+      "garbage": 220
+    },
+    {
+      "id": "msg_0138_00018",
+      "garbage": 211
+    },
+    {
+      "id": "msg_0138_00019",
+      "garbage": 56
+    },
+    {
+      "id": "msg_0138_00020",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0138_00021",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0138_00022",
+      "garbage": 39
+    },
+    {
+      "id": "msg_0138_00023",
+      "garbage": 79
+    },
+    {
+      "id": "msg_0138_00024",
+      "garbage": 80
+    },
+    {
+      "id": "msg_0138_00025",
+      "garbage": 80
+    },
+    {
+      "id": "msg_0138_00026",
+      "garbage": 94
+    },
+    {
+      "id": "msg_0138_00027",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0138_00028",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0138_00029",
+      "garbage": 66
+    },
+    {
+      "id": "msg_0138_00030",
+      "garbage": 42
+    },
+    {
+      "id": "msg_0138_00031",
+      "garbage": 42
+    },
+    {
+      "id": "msg_0138_00032",
+      "garbage": 43
+    },
+    {
+      "id": "msg_0138_00033",
+      "garbage": 43
+    },
+    {
+      "id": "msg_0138_00034",
+      "garbage": 32
+    },
+    {
+      "id": "msg_0138_00035",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0138_00036",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0138_00037",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0138_00038",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0138_00039",
+      "garbage": 184
+    },
+    {
+      "id": "msg_0138_00040",
+      "garbage": 258
+    },
+    {
+      "id": "msg_0138_00041",
+      "garbage": 278
+    },
+    {
+      "id": "msg_0138_00042",
+      "garbage": 259
+    },
+    {
+      "id": "msg_0138_00043",
+      "garbage": 274
+    },
+    {
+      "id": "msg_0138_00044",
+      "garbage": 267
+    },
+    {
+      "id": "msg_0138_00045",
+      "garbage": 56
+    },
+    {
+      "id": "msg_0138_00046",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0138_00047",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0138_00048",
+      "de_DE": [
+        "Hallo, schön dich kennenzulernen!\n",
+        "Willkommen im Athletenshop!\f",
+        "Na, bist du auch schön am Schwitzen?\r",
+        "Strömender Schweiß! Der heiße Atem\n",
+        "deiner Mitstreiter im Nacken!\f",
+        "Die Knospen neuer Freundschaft!\r",
+        "So sieht das Leben eines Poké-Athleten\n",
+        "aus, für das wir hier einstehen!\r",
+        "Wenn du dir beim Pokéathlon Punkte\n",
+        "erkämpft hast, kannst du sie bei uns\f",
+        "gegen Preise eintauschen.\r",
+        "Bleibe also immer im Rennen und kämpfe\n",
+        "dir eine stattliche Punktzahl zusammen!\f",
+        "Also gut, dann noch mal von vorne...\r",
+        "Willkommen im Athletenshop! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0138_00049",
+      "de_DE": "Willkommen im Athletenshop! {YESNO 0}"
+    },
+    {
+      "id": "msg_0138_00050",
+      "de_DE": [
+        "Heute kannst du leider keine weiteren\n",
+        "Punkte gegen Preise eintauschen.\r",
+        "Wir würden uns aber freuen, dich auch\n",
+        "morgen wieder mit einer neuen Auswahl\f",
+        "an Preisen begrüßen zu dürfen!\n"
+      ]
+    },
+    {
+      "id": "msg_0138_00051",
+      "de_DE": "Vielen Dank für deinen Besuch!"
+    },
+    {
+      "id": "msg_0138_00052",
+      "de_DE": [
+        "Deine Punkte aus dem Pokéathlon\n",
+        "symbolisieren die Freundschaft,\f",
+        "die dich und dein Pokémon-Team\f",
+        "miteinander verbindet.\r",
+        "Diese Athletenpunkte lassen sich\n",
+        "hier gegen Preise eintauschen.\r",
+        "Peile beim Pokéathlon immer die\n",
+        "höchstmögliche Punktzahl an, und\f",
+        "hole dir hier deine Preise ab!\r",
+        "Kann ich noch etwas für dich tun? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0138_00053",
+      "de_DE": [
+        "Willkommen!\r",
+        "Hier werden die Rekorde aus dem\n",
+        "Pokéathlon ermittelt.\r",
+        "Wenn du dir eine Datenkarte zulegst,\n",
+        "kannst du dir an diesem Monitor hier\f",
+        "Rekorde ansehen.\r",
+        "Die gibt es für dieses und für jenes und\n",
+        "darunter ist auch der eine oder andere\f",
+        "peinliche Rekord. Sieh’s dir mal an!\r",
+        "Willst du eine Datenkarte mit\n",
+        "Pokéathlon-Rekorden kaufen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0138_00054",
+      "de_DE": [
+        "Willkommen!\r",
+        "Wir verkaufen hier Datenkarten mit\n",
+        "den Pokéathlon-Rekorden, die wir\f",
+        "ermittelt haben.\r",
+        "Möchtest du dir so eine Datenkarte\n",
+        "zulegen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0138_00055",
+      "de_DE": [
+        "Hihihi!\n",
+        "Also wenn ich ganz ehrlich bin, weiß\f",
+        "ich schon eine ganze Menge über dich!\f",
+        "Ich weiß zum Beispiel...\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00056",
+      "de_DE": [
+        "...dass du schon {STRVAR_1 51, 0, 0} mal am\n",
+        "Pokéathlon teilgenommen hast...\f",
+        "Hihihi...\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00057",
+      "de_DE": [
+        "...dass du schon mehr als 100-mal am\n",
+        "Pokéathlon teilgenommen hast...\r",
+        "Wow! Starke Leistung!\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00058",
+      "de_DE": [
+        "Das sollte dir ein Bild davon vermitteln,\n",
+        "welche Art von Daten wir hier erheben.\f",
+        "Na, konnte ich dein Interesse wecken?\r",
+        "Die Datenkarten, die du brauchst,\n",
+        "um Informationen dieser Art zu sehen,\f",
+        "erhältst du im Tausch gegen Punkte.\r",
+        "Um deine Daten abzurufen, musst du die\n",
+        "Karte hier in diesen Monitor eingeben.\f",
+        "Probiere es unbedingt mal aus!\r",
+        "Kann ich noch etwas für dich tun? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0138_00059",
+      "de_DE": "Vielen Dank für deinen Besuch!"
+    },
+    {
+      "id": "msg_0138_00060",
+      "de_DE": [
+        "Hallo, Poké-Athlet {STRVAR_1 3, 0, 0}!\n",
+        "Brichst du auch fleißig Rekorde?\r",
+        "Du kannst deine Daten abrufen, indem du\n",
+        "den Monitor hier drüben untersuchst!"
+      ]
+    },
+    {
+      "id": "msg_0138_00061",
+      "de_DE": [
+        "Wir haben keine weiteren Datenkarten,\n",
+        "die wir dir im Tausch anbieten könnten.\f",
+        "Aber damit ist es noch nicht vorbei!\r",
+        "Es gibt nämlich noch ein paar\n",
+        "zusätzliche Datenkarten.\r",
+        "Wir werden diese Karten demnächst\n",
+        "neu in unser Sortiment aufnehmen.\r",
+        "Wir freuen uns schon darauf, dich\n",
+        "wiederzusehen!"
+      ]
+    },
+    {
+      "id": "msg_0138_00062",
+      "de_DE": [
+        "Wir haben keine weiteren Datenkarten,\n",
+        "die wir dir im Tausch anbieten könnten.\f",
+        "Aber damit ist es noch nicht vorbei!\r",
+        "Es gibt nämlich noch ein paar zusä...\n",
+        "Moment mal, kann das sein?!\r",
+        "Du scheinst alle existierenden\n",
+        "Karten gesammelt zu haben!\r",
+        "Unglaublich!\n",
+        "Aber etwas anderes hätten wir von dir\f",
+        "auch nicht erwartet, {STRVAR_1 3, 0, 0}!\r",
+        "Konzentriere dich jetzt einfach weiter\n",
+        "darauf, neue Rekorde aufzustellen.\r",
+        "Wirklich vielen Dank für deinen Besuch!"
+      ]
+    },
+    {
+      "id": "msg_0138_00063",
+      "de_DE": [
+        "Ganze zehn verschiedene Disziplinen\n",
+        "gibt es also, was?\r",
+        "Hm... mit welchen Pokémon trete\n",
+        "ich wohl am besten an?"
+      ]
+    },
+    {
+      "id": "msg_0138_00064",
+      "de_DE": [
+        "Im Pokéathlon gibt es insgesamt fünf\n",
+        "verschiedene Turniere: Tempo, Kraft,\f",
+        "Ausdauer, Sprung und Technik.\r",
+        "Es ist wichtig, dass du für jedes\n",
+        "Turnier ein passendes Team\f",
+        "zusammenstellst!"
+      ]
+    },
+    {
+      "id": "msg_0138_00065",
+      "de_DE": [
+        "Manche Pokémon haben beispielsweise\n",
+        "mit Tempo-Disziplinen ihre Probleme.\f",
+        "Andere blühen in ihnen erst richtig auf.\r",
+        "Bemühe dich um ein gutes Team, das\n",
+        "genau solche Schwächen überbrückt!"
+      ]
+    },
+    {
+      "id": "msg_0138_00066",
+      "de_DE": [
+        "Hier gelangst du zum Pokéathlon-\n",
+        "Museum, wo die Rekorde großer\f",
+        "Poké-Athleten festgehalten werden.\r",
+        "Auch ich werde irgendwann einmal gut\n",
+        "genug sein, um hier verewigt zu werden!"
+      ]
+    },
+    {
+      "id": "msg_0138_00067",
+      "de_DE": [
+        "Deine Punkte aus dem Pokéathlon nennen\n",
+        "wir hier Athletenpunkte. Du kannst\f",
+        "sie gegen Preise eintauschen.\r",
+        "Selbst wenn du Letzter wirst, behältst\n",
+        "du immerhin noch deine Punkte!"
+      ]
+    },
+    {
+      "id": "msg_0138_00068",
+      "de_DE": [
+        "Hürdenlauf:\r",
+        "Hier müssen deine Pokémon über\n",
+        "eine Reihe von Hürden springen.\r",
+        "Um es auf den ersten Platz zu schaffen,\n",
+        "gilt es, schneller zu laufen und\f",
+        "präziser zu springen als der Rest!"
+      ]
+    },
+    {
+      "id": "msg_0138_00069",
+      "de_DE": [
+        "Flaggenschnappen:\r",
+        "Schnappe dir so viele der im Sand\n",
+        "steckenden Flaggen, wie du kannst,\f",
+        "und trage sie schnell über das Ziel,\f",
+        "bevor sie dir jemand wegnimmt!"
+      ]
+    },
+    {
+      "id": "msg_0138_00070",
+      "de_DE": [
+        "Drängelkreis:\r",
+        "Hier kann ein Pokémon endgültig\n",
+        "beweisen, wie stark es ist!\r",
+        "Dränge die gegnerischen Pokémon\n",
+        "aus dem Kreis und halte selbst so\f",
+        "gut es geht die Stellung!"
+      ]
+    },
+    {
+      "id": "msg_0138_00071",
+      "de_DE": [
+        "Ziegelbrechen:\r",
+        "Hier müssen deine Pokémon einen\n",
+        "riesigen Haufen Ziegel zerschlagen!\r",
+        "Wäge ab, wer in deinem Team genug\n",
+        "Kraft hat, um den Ziegelberg dem\f",
+        "Erdboden gleichzumachen!"
+      ]
+    },
+    {
+      "id": "msg_0138_00072",
+      "de_DE": [
+        "Diskusfangen:\r",
+        "Hier muss dein Team nach Diskusscheiben\n",
+        "hechten, die durch die Luft\f",
+        "geschleudert werden.\r",
+        "Verdränge gegnerische Pokémon und\n",
+        "fange so viele Scheiben wie möglich!"
+      ]
+    },
+    {
+      "id": "msg_0138_00073",
+      "de_DE": [
+        "Lampionspringen:\r",
+        "Diese Disziplin wird auf einem\n",
+        "elastischen Sprungfeld ausgetragen.\r",
+        "Mit ein paar gewagten Sprüngen und der\n",
+        "richtigen Technik können deine Pokémon\f",
+        "hier für dich Punkte erhaschen!"
+      ]
+    },
+    {
+      "id": "msg_0138_00074",
+      "de_DE": [
+        "Staffellauf:\r",
+        "Lauf, was das Zeug hält und was\n",
+        "deine Ausdauer hergibt!\r",
+        "Zu dritt sind deine Pokémon stark\n",
+        "und tragen dich bis ins Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0138_00075",
+      "de_DE": [
+        "Ringrangeln:\r",
+        "Hier gehen die teilnehmenden\n",
+        "Pokémon auf Kollisionskurs!\r",
+        "Dein Team muss die Grenzen seiner\n",
+        "Ausdauer sprengen und darf keinen\f",
+        "Zentimeter weit aus dem Ring weichen!"
+      ]
+    },
+    {
+      "id": "msg_0138_00076",
+      "de_DE": [
+        "Schneeschlacht:\r",
+        "Auf diesem bitterkalten Schlachtfeld\n",
+        "warten unzählige Schneebälle auf dich!\r",
+        "Also: Gut zielen und ab geht die Post!\n",
+        "Zeige deinem Gegner die technische\f",
+        "Finesse deines Pokémon-Teams!"
+      ]
+    },
+    {
+      "id": "msg_0138_00077",
+      "de_DE": [
+        "Torschießen:\r",
+        "Hier müssen deine Pokémon ihr ganzes\n",
+        "Wesen auf den Ball konzentrieren und\f",
+        "ihn mit voller Wucht ins Tor befördern!\r",
+        "Angriff! Abwehr! Torschuss!\n",
+        "Wer erzielt das entscheidende Tor?"
+      ]
+    },
+    {
+      "id": "msg_0138_00078",
+      "de_DE": [
+        "Arbeite mit deinen Pokémon zusammen,\n",
+        "stärke ihr Vertrauen zu dir\f",
+        "und glaube an ihr Potenzial!\r",
+        "Baue eine Freundschaft mit Zukunft!\n",
+        "Nimm auch du am Pokéathlon teil!"
+      ]
+    },
+    {
+      "id": "msg_0138_00079",
+      "de_DE": [
+        "Aprikodrinks geben jeder Freundschaft\n",
+        "einen Schuss neue Energie!"
+      ]
+    },
+    {
+      "id": "msg_0138_00080",
+      "de_DE": [
+        "Bianka: Oh, hallo {STRVAR_1 3, 0, 0}!\r",
+        "Bist du hier, um am Pokéathlon\n",
+        "teilzunehmen?\r",
+        "Als man mir sagte, dass es jetzt so eine\n",
+        "Anlage in der Nähe von Dukatia City\f",
+        "gibt, war ich so neugierig, dass ich\f",
+        "sofort losgeflitzt bin!\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00081",
+      "de_DE": [
+        "Hä?\r",
+        "Glaubst du etwa, in diesem Aufzug am\n",
+        "Pokéathlon teilnehmen zu können?\r",
+        "Wenn du mitmachen möchtest, solltest\n",
+        "du auch entsprechend vorbereitet sein!\r",
+        "Also, sag schon...\n",
+        "Was für eine Größe hast du? M oder L?\f",
+        "Du siehst mir eher nach Größe M aus.\r",
+        "...In Ordnung!\r",
+        "Dann bringe ich dir gleich mal einen\n",
+        "passenden Anzug für den Pokéathlon!\r",
+        "Dir ist es doch bestimmt auch lieber,\n",
+        "wenn du in coolen Klamotten antrittst!\r",
+        "Gut, dann warte mal kurz!\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00082",
+      "de_DE": "Na also! Das passt ja wie angegossen!\r"
+    },
+    {
+      "id": "msg_0138_00083",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Trainingsanzug!"
+      ]
+    },
+    {
+      "id": "msg_0138_00084",
+      "de_DE": [
+        "Okay, damit bist du bestens auf alles\n",
+        "vorbereitet!\f",
+        "Gut, dann will ich auch mal...\r",
+        "...Aber Moment mal...\n",
+        "Ich habe völlig vergessen, meine\f",
+        "Pokémon mitzubringen!\r",
+        "Na gut, dann bis bald mal!\n",
+        "Ciao!\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00085",
+      "de_DE": [
+        "Das ist ein Automat für Poké-Athleten!\n",
+        "Hier kannst du auch mit\f",
+        "Athletenpunkten einkaufen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0138_00086",
+      "de_DE": "Welches Getränk soll’s denn sein? {YESNO 0}"
+    },
+    {
+      "id": "msg_0138_00087",
+      "de_DE": [
+        "Deng!\r",
+        "{STRVAR_1 8, 0, 0} fällt heraus.\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00088",
+      "de_DE": [
+        "Schepper, klong!\r",
+        "Du hast gewonnen! Eine weitere\n",
+        "Dose {STRVAR_1 8, 0, 0} fällt heraus.\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00089",
+      "de_DE": "Nicht genug Geld..."
+    },
+    {
+      "id": "msg_0138_00090",
+      "de_DE": "Du hast nicht genügend Punkte!"
+    },
+    {
+      "id": "msg_0138_00091",
+      "de_DE": "Keinen Durst!"
+    },
+    {
+      "id": "msg_0138_00092",
+      "de_DE": "Öffne Pokéathlon-Daten...\r"
+    },
+    {
+      "id": "msg_0138_00093",
+      "de_DE": "Welche Daten möchtest du sehen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0138_00094",
+      "de_DE": "ALLGEMEINE DATEN{ALN_CENTER}"
+    },
+    {
+      "id": "msg_0138_00095",
+      "de_DE": "DATEN ÜBER EINZELNE DISZIPLINEN{ALN_CENTER}"
+    },
+    {
+      "id": "msg_0138_00096",
+      "de_DE": "DATEN ÜBER AKTIVITÄTEN{ALN_CENTER}"
+    },
+    {
+      "id": "msg_0138_00097",
+      "de_DE": "BEENDEN{ALN_CENTER}"
+    },
+    {
+      "id": "msg_0138_00098",
+      "de_DE": "Daten werden abgerufen..."
+    },
+    {
+      "id": "msg_0138_00099",
+      "de_DE": "Daten werden abgerufen... ..."
+    },
+    {
+      "id": "msg_0138_00100",
+      "de_DE": "Daten werden abgerufen... ... ..."
+    },
+    {
+      "id": "msg_0138_00101",
+      "de_DE": "Vielen Dank!"
+    },
+    {
+      "id": "msg_0138_00102",
+      "de_DE": "Willkommen im Museums-Shop!\r"
+    },
+    {
+      "id": "msg_0138_00103",
+      "de_DE": [
+        "Oh! Ich mag den Blick in deinen Augen!\r",
+        "In Ordnung...\n",
+        "Dürfte ich dir vielleicht meinen\f",
+        "letzten Wunsch anvertrauen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0138_00104",
+      "de_DE": [
+        "Wie bitte?!? Sollte ich mich etwa\n",
+        "in dir getäuscht haben?"
+      ]
+    },
+    {
+      "id": "msg_0138_00105",
+      "de_DE": [
+        "Früher waren Sprung-Disziplinen\n",
+        "einmal mein Ein und Alles.\r",
+        "Als ich noch aktiv war, habe ich\n",
+        "einen Rekord aufgestellt, weißt du?\f",
+        "Ganze 998 Sprünge habe ich geschafft!\r",
+        "Aber das waren zwei zu wenig!\n",
+        "Nur noch zwei mehr, und ich wäre\f",
+        "zufrieden gewesen... doch nun\f",
+        "bin ich alt und im Ruhestand.\r",
+        "Aber du! Du könntest doch an meiner\n",
+        "Stelle 1 000 Sprünge schaffen, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00106",
+      "de_DE": [
+        "Ich weiß, es ist keine leichte Aufgabe,\n",
+        "diesen Rekord zu brechen, aber du\f",
+        "bist noch jung! Du kannst es schaffen!\r",
+        "Ich werde geduldig auf dich warten!"
+      ]
+    },
+    {
+      "id": "msg_0138_00107",
+      "de_DE": [
+        "Oh! Du... du hast es geschafft!\n",
+        "Fantastisch! Ich kann es kaum glauben!\r",
+        "Du hast wie durch ein Wunder ganze\n",
+        "1 000 Sprünge geschafft!\r",
+        "Vielen Dank! Hier, das ist eine\n",
+        "kleine Aufmerksamkeit von mir.\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00108",
+      "de_DE": [
+        "Ich bin jetzt ein richtiger Fan von dir!\r",
+        "Viel kann ich in meinem Alter nicht für\n",
+        "dich tun, aber ich werde dich bei jedem\f",
+        "Turnier anfeuern!\n"
+      ]
+    },
+    {
+      "id": "msg_0138_00109",
+      "de_DE": [
+        "Hey, höre dir das mal an! Ich habe es\n",
+        "endlich geschafft, mehr als 500 Ziegel\f",
+        "entzweizuschlagen!\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00110",
+      "de_DE": [
+        "Hehehe... man sieht zwar, dass du dir\n",
+        "auch viel Mühe gibst, aber du hast noch\f",
+        "einen weiten Weg vor dir!\r",
+        "Ach ja... gibt es denn niemanden, der es\n",
+        "im Ziegelbrechen mit mir aufnehmen kann?"
+      ]
+    },
+    {
+      "id": "msg_0138_00111",
+      "de_DE": [
+        "Hey, höre dir das mal an! Ich habe es\n",
+        "endlich geschafft, mehr als 1 000 Ziegel\f",
+        "entzweizuschlagen!\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00112",
+      "de_DE": [
+        "Hey, höre dir das mal an! Ich habe\n",
+        "es endlich geschafft, mehr als\f",
+        "2 000 Ziegel entzweizuschlagen!\r",
+        "Diesen Rekord wirst du nicht so\n",
+        "schnell überbieten!\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00113",
+      "de_DE": [
+        "Was?!\n",
+        "Nein, das kann doch gar nicht sein!\f",
+        "Du hast wirklich einen höheren Rekord\f",
+        "aufgestellt als ich?! Das ist nicht fair!\r",
+        "Aaaargh!!\r",
+        "...Ich habe verloren.\n",
+        "Und zwar auf ganzer Linie.\f",
+        "Du bist einfach viel besser als ich.\f",
+        "Hier, nimm bitte das hier.\r"
+      ]
+    },
+    {
+      "id": "msg_0138_00114",
+      "de_DE": [
+        "Puh... irgendwie fühle ich mich\n",
+        "jetzt sogar richtig befreit.\r",
+        "Ich habe gelernt, zu was ich fähig bin,\n",
+        "und weiß nun, dass es Leute gibt, die\f",
+        "noch besser sind als ich.\r",
+        "Daran werde ich bestimmt wachsen.\r",
+        "Lass uns beide auch in Zukunft\n",
+        "unser Bestes geben!"
+      ]
+    }
+  ]
+}

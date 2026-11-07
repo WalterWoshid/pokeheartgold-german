@@ -1,0 +1,221 @@
+{
+  "key": 14267,
+  "messages": [
+    {
+      "id": "msg_0688_00000",
+      "de_DE": "Taro"
+    },
+    {
+      "id": "msg_0688_00001",
+      "de_DE": [
+        "Du bist ein Pokémaniac, stimmt’s?\n",
+        "Ja, du bist einer. So etwas spüre ich.\r",
+        "Aber dein Wissensstand ist noch\n",
+        "unausgegoren und seicht!\r",
+        "Schon mal von Bill gehört? DAS ist ein\n",
+        "wahrer Pokémaniac! Ich verehre ihn!\r",
+        "Ich gebe mein Wissen über Bill an dich\n",
+        "weiter, wenn du mir deine Nummer\f",
+        "gibst, ja? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0688_00002",
+      "de_DE": [
+        "Bill ist unbeschreiblich!\r",
+        "Ein Pokémaniac wie er zu werden...\n",
+        "Das ist mein großer Traum."
+      ]
+    },
+    {
+      "id": "msg_0688_00003",
+      "de_DE": [
+        "Wart’s ab. Du wirst dich noch\n",
+        "in deine vier Buchstaben beißen."
+      ]
+    },
+    {
+      "id": "msg_0688_00004",
+      "de_DE": [
+        "Ich gebe dir mein Wissen über Bill\n",
+        "weiter, wenn du mir deine Nummer\f",
+        "gibst. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0688_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0688_00006",
+      "de_DE": [
+        "Du gehörst wohl auch zu der Sorte,\n",
+        "die lieber anruft,\f",
+        "als zwei Schritte zu tun?\r",
+        "Zu Hause kommuniziere ich sogar\n",
+        "mit meiner Mutter auf diese Weise!"
+      ]
+    },
+    {
+      "id": "msg_0688_00007",
+      "de_DE": [
+        "Ach ja, ich habe vor geraumer Zeit\n",
+        "ein sehr seltenes Pokémon in einem\f",
+        "Tausch erhalten.\r",
+        "Möchtest du wissen, welches?\n",
+        "Hehe, das verrate ich dir nicht!\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00008",
+      "de_DE": [
+        "Ach ja... neulich habe ich dieses wilde\n",
+        "{STRVAR_1 0, 11, 0} besiegt.\r",
+        "Es war nicht selten genug, als dass es\n",
+        "sich gelohnt hätte, es zu fangen.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00009",
+      "de_DE": [
+        "Ach ja, vor einer Stunde sah ich\n",
+        "ein seltenes Pokémon.\r",
+        "Ich sah es zum ersten Mal, aber\n",
+        "ich hatte keine Pokébälle dabei...\r",
+        "Bill würde so ein Fehler\n",
+        "sicher amüsieren.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00010",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bills Vater soll genau so ein echter\f",
+        "Pokémaniac sein wie er.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00011",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bills Opa ist offensichtlich kein\f",
+        "Pokémaniac.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00012",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bill kommt ursprünglich aus\f",
+        "Dukatia City.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00013",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bill lebt wahrscheinlich auf\f",
+        "Route 25 in Kanto.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00014",
+      "de_DE": [
+        "Wusstest du?\n",
+        "ABRA war angeblich Bills erstes\f",
+        "Pokémon.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00015",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bills jüngere Schwester kann\f",
+        "offensichtlich nicht zwinkern.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00016",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bill mag angeblich keine Milch.\f",
+        "Er kriegt keinen Tropfen davon runter.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00017",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Offenbar ist Bill kein sonderlich\f",
+        "guter Kämpfer.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00018",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bill scheint die Frau vom\f",
+        "Blumenladen zu mögen.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00019",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bills Mutter soll früher ein Kimono-Girl\f",
+        "gewesen sein.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00020",
+      "de_DE": [
+        "Wusstest du?\n",
+        "Bills Mutter soll früher ein Kimono-Girl\f",
+        "gewesen sein.\r",
+        "Tja, so sieht es aus."
+      ]
+    },
+    {
+      "id": "msg_0688_00021",
+      "de_DE": [
+        "Du hast ja anscheinend viel Freizeit.\n",
+        "Hast du Lust zu kämpfen?\r",
+        "Es wäre eine Chance, meine seltenen\n",
+        "Pokémon zu sehen! So oder so wird\f",
+        "es sich für dich lohnen!\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0688_00022",
+      "de_DE": [
+        "Du willst meine seltenen Pokémon\n",
+        "sehen? Kein Problem!\f",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0688_00023",
+      "de_DE": [
+        "Du willst noch mehr über Bill wissen?\r",
+        "Sorry, aber ich bin beschäftigt.\n",
+        "Ich rufe zurück, wenn ich Zeit\f",
+        "habe.\r",
+        "Danke für deine Geduld!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "key": 9314,
+  "messages": [
+    {
+      "id": "msg_0099_00000",
+      "de_DE": "Such dir hier bitte einen Partner aus.\r"
+    },
+    {
+      "id": "msg_0099_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, du hast noch\n",
+        "keinen Partner gefunden.\r",
+        "Möchtest du die Suche aufgeben und\n",
+        "zurück zur Rezeption gehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0099_00002",
+      "de_DE": [
+        "Vielen Dank!\r",
+        "Nun werde ich dir den Raum\n",
+        "für die Multikämpfe zeigen.\r"
+      ]
+    },
+    {
+      "id": "msg_0099_00003",
+      "de_DE": [
+        "Urs: Meine jetzigen Partner?\r",
+        "Nun, mein {STRVAR_1 0, 0, 0} mit seiner\n",
+        "Attacke {STRVAR_1 6, 1, 0} hat es drauf.\r",
+        "Dann wäre da noch {STRVAR_1 0, 2, 0}.\n",
+        "Beherrscht {STRVAR_1 6, 3, 0} im Schlaf.\r",
+        "Möchtest du dich mir anschließen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0099_00004",
+      "de_DE": [
+        "Urs: ...Oh, wirklich?\n",
+        "Das ist aber schade."
+      ]
+    },
+    {
+      "id": "msg_0099_00005",
+      "de_DE": [
+        "Urs: Hahaha, super!\n",
+        "Ich warte dann auf dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0099_00006",
+      "de_DE": [
+        "Raissa: Mein {STRVAR_1 0, 0, 0} setzt\n",
+        "{STRVAR_1 6, 1, 0} sehr geschickt ein.\r",
+        "{STRVAR_1 0, 2, 0} zeigt mit der Attacke\n",
+        "{STRVAR_1 6, 3, 0} seine ganze Klasse.\r",
+        "Möchtest du dich mir anschließen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0099_00007",
+      "de_DE": [
+        "Raissa: Oh...\n",
+        "Jammerschade..."
+      ]
+    },
+    {
+      "id": "msg_0099_00008",
+      "de_DE": "Raissa: Dann gehe ich schon mal vor.\r"
+    },
+    {
+      "id": "msg_0099_00009",
+      "de_DE": [
+        "Avenaro: Hey, suchst du einen\n",
+        "Kampfpartner? Hör dir mal das an.\r",
+        "Mein {STRVAR_1 0, 0, 0} beherrscht\n",
+        "{STRVAR_1 6, 1, 0} wie kein anderes.\r",
+        "Und {STRVAR_1 0, 2, 0} zeigt mit\n",
+        "{STRVAR_1 6, 3, 0}, wo es lang geht.\r",
+        "Du möchtest mich an deiner\n",
+        "Seite haben, stimmt doch? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0099_00010",
+      "de_DE": [
+        "Avenaro: Hä? Was?\n",
+        "Wie kannst du nur so kalt sein!"
+      ]
+    },
+    {
+      "id": "msg_0099_00011",
+      "de_DE": [
+        "Avenaro: Hehehe! Gute Wahl!\n",
+        "Mit mir ist vieles leichter!\r"
+      ]
+    },
+    {
+      "id": "msg_0099_00012",
+      "de_DE": [
+        "Charlie: ...Mein {STRVAR_1 0, 0, 0} kann\n",
+        "{STRVAR_1 6, 1, 0} sehr gut einsetzen...\r",
+        "Und {STRVAR_1 0, 2, 0} ist wie besessen\n",
+        "von der Attacke {STRVAR_1 6, 3, 0}.\r",
+        "...Wie entscheidest du dich?\n",
+        "Möchtest du mich dabeihaben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0099_00013",
+      "de_DE": "Charlie: ...Wenn du es so willst..."
+    },
+    {
+      "id": "msg_0099_00014",
+      "de_DE": [
+        "Charlie: ...Gut, ich warte\n",
+        "dann auf dich...\r"
+      ]
+    },
+    {
+      "id": "msg_0099_00015",
+      "de_DE": [
+        "Orisa: Hallihallo!\n",
+        "Ich habe mein {STRVAR_1 0, 0, 0} dabei!\r",
+        "{STRVAR_1 6, 1, 0} ist seine Spezialität!\n",
+        "Das andere ist ein {STRVAR_1 0, 2, 0} und\f",
+        "mit {STRVAR_1 6, 3, 0} besonders effektiv!\r",
+        "Soll ich dir zur Seite stehen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0099_00016",
+      "de_DE": [
+        "Orisa: Oh, schon gut.\n",
+        "Vielleicht ein anderes Mal!"
+      ]
+    },
+    {
+      "id": "msg_0099_00017",
+      "de_DE": [
+        "Orisa: Schön! Ich warte dann auf dich!\n",
+        "{STRVAR_1 3, 0, 0}, mache nicht zu lange, ja?\r"
+      ]
+    }
+  ]
+}

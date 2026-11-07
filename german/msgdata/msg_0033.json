@@ -1,0 +1,463 @@
+{
+  "key": 10039,
+  "messages": [
+    {
+      "id": "msg_0033_00000",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00001",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00002",
+      "de_DE": "{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0033_00003",
+      "de_DE": "{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0033_00004",
+      "de_DE": [
+        "Welches Pokémon möchtest\n",
+        "du gern überprüfen?"
+      ]
+    },
+    {
+      "id": "msg_0033_00005",
+      "de_DE": "{ALN_CENTER}ENDE"
+    },
+    {
+      "id": "msg_0033_00006",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0033_00007",
+      "de_DE": "{STRVAR_1 3, 0, 0} zieht sich zurück."
+    },
+    {
+      "id": "msg_0033_00008",
+      "de_DE": "PRÜFEN"
+    },
+    {
+      "id": "msg_0033_00009",
+      "de_DE": "LEVEL"
+    },
+    {
+      "id": "msg_0033_00010",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0033_00011",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0033_00012",
+      "de_DE": [
+        "Prüfe die Identität\n",
+        "eines Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0033_00013",
+      "de_DE": [
+        "Ändere den Level\n",
+        "eines Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0033_00014",
+      "de_DE": [
+        "Sieh die Werte eines\n",
+        "Pokémon ein."
+      ]
+    },
+    {
+      "id": "msg_0033_00015",
+      "de_DE": [
+        "Zur vorherigen Auswahl\n",
+        "zurückkehren."
+      ]
+    },
+    {
+      "id": "msg_0033_00016",
+      "de_DE": [
+        "Dieses Pokémon identifizieren lassen?\n",
+        "Das macht {STRVAR_1 51, 0, 0} PP."
+      ]
+    },
+    {
+      "id": "msg_0033_00017",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0033_00018",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0033_00019",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0033_00020",
+      "de_DE": [
+        "Bei diesem Pokémon handelt es sich um\n",
+        "ein {STRVAR_1 0, 0, 0}."
+      ]
+    },
+    {
+      "id": "msg_0033_00021",
+      "de_DE": [
+        "Du kannst den Level dieses Pokémon\n",
+        "ändern. Was möchtest du tun?"
+      ]
+    },
+    {
+      "id": "msg_0033_00022",
+      "de_DE": "LEVEL +5"
+    },
+    {
+      "id": "msg_0033_00023",
+      "de_DE": "LEVEL -5"
+    },
+    {
+      "id": "msg_0033_00024",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0033_00025",
+      "de_DE": [
+        "Das kostet dich {STRVAR_1 51, 0, 0} PP.\n",
+        "Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0033_00026",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0033_00027",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0033_00028",
+      "de_DE": "Du hast nicht genug PP..."
+    },
+    {
+      "id": "msg_0033_00029",
+      "de_DE": [
+        "Der Level dieses Pokémon kann\n",
+        "nicht weiter erhöht werden."
+      ]
+    },
+    {
+      "id": "msg_0033_00030",
+      "de_DE": [
+        "Der Level dieses Pokémon kann\n",
+        "nicht weiter gesenkt werden."
+      ]
+    },
+    {
+      "id": "msg_0033_00031",
+      "de_DE": [
+        "Der Level dieses Pokémon\n",
+        "wurde um fünf angehoben."
+      ]
+    },
+    {
+      "id": "msg_0033_00032",
+      "de_DE": [
+        "Der Level dieses Pokémon\n",
+        "wurde um fünf gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0033_00033",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0033_00034",
+      "de_DE": "ATTACKEN"
+    },
+    {
+      "id": "msg_0033_00035",
+      "de_DE": "RANG +"
+    },
+    {
+      "id": "msg_0033_00036",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0033_00037",
+      "de_DE": "Sieh die Werte des Pokémon ein."
+    },
+    {
+      "id": "msg_0033_00038",
+      "de_DE": [
+        "Sieh die Attacken-Liste\n",
+        "des Pokémon ein."
+      ]
+    },
+    {
+      "id": "msg_0033_00039",
+      "de_DE": [
+        "Ein höherer Rang erlaubt dir das\n",
+        "Einsehen von Attacken mithilfe von PP."
+      ]
+    },
+    {
+      "id": "msg_0033_00040",
+      "de_DE": "Dein Rang kann nicht weiter steigen."
+    },
+    {
+      "id": "msg_0033_00041",
+      "de_DE": [
+        "Kehre zu den letzten\n",
+        "Auswahlmöglichkeiten zurück."
+      ]
+    },
+    {
+      "id": "msg_0033_00042",
+      "de_DE": [
+        "Dein Informationsrang ist zu niedrig, um\n",
+        "die Attackenliste des Ziels einzusehen."
+      ]
+    },
+    {
+      "id": "msg_0033_00043",
+      "de_DE": [
+        "Du kannst die Werte dieses Pokémon\n",
+        "überprüfen. Das macht {STRVAR_1 51, 0, 0} PP. Okay?"
+      ]
+    },
+    {
+      "id": "msg_0033_00044",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0033_00045",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0033_00046",
+      "de_DE": "Du hast nicht genügend PP..."
+    },
+    {
+      "id": "msg_0033_00047",
+      "de_DE": [
+        "Die Werteübersicht des\n",
+        "Pokémon wurde erworben."
+      ]
+    },
+    {
+      "id": "msg_0033_00048",
+      "de_DE": "Item"
+    },
+    {
+      "id": "msg_0033_00049",
+      "de_DE": "{STRVAR_1 8, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00050",
+      "de_DE": "Wesen"
+    },
+    {
+      "id": "msg_0033_00051",
+      "de_DE": "{STRVAR_1 7, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00052",
+      "de_DE": "Fähigkeit"
+    },
+    {
+      "id": "msg_0033_00053",
+      "de_DE": "{STRVAR_1 5, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00054",
+      "de_DE": "Angriff"
+    },
+    {
+      "id": "msg_0033_00055",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00056",
+      "de_DE": "Vert."
+    },
+    {
+      "id": "msg_0033_00057",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00058",
+      "de_DE": "Sp. Ang."
+    },
+    {
+      "id": "msg_0033_00059",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00060",
+      "de_DE": "Sp. Ver."
+    },
+    {
+      "id": "msg_0033_00061",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00062",
+      "de_DE": "Init."
+    },
+    {
+      "id": "msg_0033_00063",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00064",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0033_00065",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0033_00066",
+      "de_DE": "Lv."
+    },
+    {
+      "id": "msg_0033_00067",
+      "de_DE": "KP"
+    },
+    {
+      "id": "msg_0033_00068",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0033_00069",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00070",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0033_00071",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0033_00072",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00073",
+      "de_DE": "?"
+    },
+    {
+      "id": "msg_0033_00074",
+      "de_DE": "??"
+    },
+    {
+      "id": "msg_0033_00075",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0033_00076",
+      "de_DE": [
+        "Ein höherer Rang in der\n",
+        "Werteübersicht erlaubt dir\n",
+        "das Einsehen von Gegner-\n",
+        "Attacken mithilfe von PP."
+      ]
+    },
+    {
+      "id": "msg_0033_00077",
+      "de_DE": "??/??"
+    },
+    {
+      "id": "msg_0033_00078",
+      "de_DE": "{STRVAR_1 52, 0, 0}/{STRVAR_1 52, 1, 0}"
+    },
+    {
+      "id": "msg_0033_00079",
+      "de_DE": [
+        "Du kannst die Attacken-Liste dieses\n",
+        "PKMN einsehen. Das macht {STRVAR_1 51, 0, 0} PP. O.K.?"
+      ]
+    },
+    {
+      "id": "msg_0033_00080",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0033_00081",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0033_00082",
+      "de_DE": "Du hast nicht genügend PP..."
+    },
+    {
+      "id": "msg_0033_00083",
+      "de_DE": [
+        "Die Attacken-Liste des\n",
+        "Pokémon wurde erworben."
+      ]
+    },
+    {
+      "id": "msg_0033_00084",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00085",
+      "de_DE": "{STRVAR_1 6, 1, 0}"
+    },
+    {
+      "id": "msg_0033_00086",
+      "de_DE": "{STRVAR_1 6, 2, 0}"
+    },
+    {
+      "id": "msg_0033_00087",
+      "de_DE": "{STRVAR_1 6, 3, 0}"
+    },
+    {
+      "id": "msg_0033_00088",
+      "de_DE": "{COLOR 2}{STRVAR_1 51, 4, 0}{COLOR 0}/{COLOR 2}{STRVAR_1 51, 5, 0}{COLOR 0}"
+    },
+    {
+      "id": "msg_0033_00089",
+      "de_DE": "{STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0033_00090",
+      "de_DE": "--"
+    },
+    {
+      "id": "msg_0033_00091",
+      "de_DE": [
+        "Soll dein Rang für {STRVAR_1 52, 0, 0} PP\n",
+        "erhöht werden?"
+      ]
+    },
+    {
+      "id": "msg_0033_00092",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0033_00093",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0033_00094",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0033_00095",
+      "de_DE": [
+        "{STRVAR_1 3, 5, 0} kann nun Informationen\n",
+        "zur Attacken-Liste des Gegners kaufen."
+      ]
+    }
+  ]
+}

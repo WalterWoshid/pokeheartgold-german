@@ -1,0 +1,116 @@
+{
+  "key": 9227,
+  "messages": [
+    {
+      "id": "msg_0256_00000",
+      "de_DE": [
+        "Alles klar! Du bist der letzte\n",
+        "Passagier, der noch gefehlt hat.\r"
+      ]
+    },
+    {
+      "id": "msg_0256_00001",
+      "de_DE": [
+        "Was willst du?\n",
+        "Das Schiff fährt so bald nicht los."
+      ]
+    },
+    {
+      "id": "msg_0256_00002",
+      "de_DE": [
+        "Wenn ich wohlbehalten zurückkomme\n",
+        "und wieder den Boden von Oliviana City\f",
+        "unter meinen Füßen spüre, sollten wir\f",
+        "zwei zusammenziehen!\r",
+        "Was sagst du, wäre das nichts?"
+      ]
+    },
+    {
+      "id": "msg_0256_00003",
+      "de_DE": [
+        "Mein Freund muss aus allem eine große\n",
+        "Sache machen. Dabei ist er doch nur\f",
+        "Crewmitglied auf einem Ausflugsschiff!\r"
+      ]
+    },
+    {
+      "id": "msg_0256_00004",
+      "de_DE": [
+        "Sabrina: Manchmal bekomme ich einfach\n",
+        "Sehnsucht nach dem Meer, weißt du...\r",
+        "Ach ja, und ich glaube, ich würde gerne\n",
+        "mit dir Telefonnummern austauschen!\r",
+        "Bist du dabei? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0256_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Sabrinas Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0256_00006",
+      "de_DE": [
+        "Sabrina: Wenn du sonntagmittags\n",
+        "bei mir durchklingelst, kann ich\f",
+        "unser Treffen ganz hoch auf meine\f",
+        "Prioritätenliste setzen!"
+      ]
+    },
+    {
+      "id": "msg_0256_00007",
+      "de_DE": [
+        "Sabrina: Oh, wirklich nicht?\n",
+        "Und ich dachte, aus uns könnten\f",
+        "mal richtig dicke Freunde werden..."
+      ]
+    },
+    {
+      "id": "msg_0256_00008",
+      "de_DE": [
+        "Sabrina: Jetzt willst du doch meine\n",
+        "Telefonnummer haben, stimmt’s?\r",
+        "Das sehe ich dir doch gleich an! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0256_00009",
+      "de_DE": [
+        "Sabrina: Oh, hör mal...\r",
+        "Was sagst du, wollen wir nicht ein Foto\n",
+        "von uns beiden machen, wie wir\f",
+        "die Meeresbrise genießen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0256_00010",
+      "de_DE": "Sabrina: In Ordnung, es geht los!\r"
+    },
+    {
+      "id": "msg_0256_00011",
+      "de_DE": [
+        "Sabrina: Okay, alles klar! Das Foto\n",
+        "ist sehr schön geworden!"
+      ]
+    },
+    {
+      "id": "msg_0256_00012",
+      "de_DE": [
+        "Sabrina: Oh, wirklich nicht?\n",
+        "Es wäre bestimmt ein richtig schöner\f",
+        "Schnappschuss geworden!"
+      ]
+    },
+    {
+      "id": "msg_0256_00013",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

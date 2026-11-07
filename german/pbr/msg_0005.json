@@ -1,0 +1,25 @@
+{
+  "key": 34442,
+  "messages": [
+    {
+      "id": "msg_0005_00000",
+      "de_DE": [
+        "Fehler beim Lesen der Daten.\n",
+        "\n",
+        "Bitte schalte das System aus,\n",
+        "entferne die DS-Karte und stecke\n",
+        "sie dann erneut ein."
+      ]
+    },
+    {
+      "id": "msg_0005_00001",
+      "de_DE": [
+        "Fehler beim Lesen der Daten.\n",
+        "\n",
+        "Das GBA-Modul wurde entfernt.\n",
+        "Bitte schalte das System aus\n",
+        "und versuche es erneut."
+      ]
+    }
+  ]
+}

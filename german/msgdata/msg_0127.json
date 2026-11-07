@@ -1,0 +1,33 @@
+{
+  "key": 38019,
+  "messages": [
+    {
+      "id": "msg_0127_00000",
+      "de_DE": [
+        "Huch! Hast du mich aber erschreckt!\r",
+        "Mit meinem Schattenglas auf der Nase\n",
+        "bist du mir gar nicht aufgefallen!\r",
+        "Was ich hier mache?\r",
+        "Ach, das willst du nicht wissen!\n",
+        "Hier, ich schenke dir auch eines.\r",
+        "Also vergiss es einfach!\r"
+      ]
+    },
+    {
+      "id": "msg_0127_00001",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0127_00002",
+      "de_DE": [
+        "Das Schattenglas \n",
+        "verstärkt die Kraft von\f",
+        "Unlicht-Attacken."
+      ]
+    },
+    {
+      "id": "msg_0127_00003",
+      "de_DE": "Du kannst nicht mehr tragen..."
+    }
+  ]
+}

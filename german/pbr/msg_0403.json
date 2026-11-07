@@ -1,0 +1,304 @@
+{
+  "key": 20888,
+  "messages": [
+    {
+      "id": "msg_0403_00000",
+      "de_DE": [
+        "Möchtest du Pokémon aus der\n",
+        "Rubin-Edition von {STRVAR_1 3, 1} holen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00001",
+      "de_DE": [
+        "Möchtest du Pokémon aus der\n",
+        "Saphir-Edition von {STRVAR_1 3, 1} holen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00002",
+      "de_DE": [
+        "Möchtest du Pokémon aus der Smaragd-\n",
+        "Edition von {STRVAR_1 3, 1} holen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00003",
+      "de_DE": [
+        "Möchtest du Pokémon aus der Feuer-\n",
+        "roten-Edition von {STRVAR_1 3, 1} holen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00004",
+      "de_DE": [
+        "Möchtest du Pokémon aus der Blatt-\n",
+        "grünen Edition von {STRVAR_1 3, 1} holen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00005",
+      "de_DE": [
+        "Es sind keine 6 Pokémon\n",
+        "in den PC-Boxen vorhanden."
+      ]
+    },
+    {
+      "id": "msg_0403_00006",
+      "de_DE": [
+        "Wunderbar! Nun wähle die 6 Pokémon\n",
+        "aus, die in diese Region kommen sollen."
+      ]
+    },
+    {
+      "id": "msg_0403_00007",
+      "de_DE": [
+        "Auf dieser DS-Karte befinden sich\n",
+        "bereits 6 übertragene Pokémon.\r",
+        "Du kannst nun gerne an einer Fangshow\n",
+        "im Park der Freunde teilnehmen."
+      ]
+    },
+    {
+      "id": "msg_0403_00008",
+      "de_DE": "Ein Ei kann nicht herüberwandern!"
+    },
+    {
+      "id": "msg_0403_00009",
+      "de_DE": [
+        "Dieses Pokémon kennt eine Versteckte\n",
+        "Maschine u. kann nicht herüberwandern."
+      ]
+    },
+    {
+      "id": "msg_0403_00010",
+      "de_DE": [
+        "Die 6 ausgewählten Pokémon\n",
+        "werden jetzt herüberwandern."
+      ]
+    },
+    {
+      "id": "msg_0403_00011",
+      "de_DE": [
+        "PKMN können nicht zurück übertragen\n",
+        "werden. Ist das in Ordnung?"
+      ]
+    },
+    {
+      "id": "msg_0403_00012",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00013",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00015",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00016",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00017",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00018",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Rubin und Pokémon Diamant..."
+      ]
+    },
+    {
+      "id": "msg_0403_00019",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Rubin und Pokémon Perl..."
+      ]
+    },
+    {
+      "id": "msg_0403_00020",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Saphir und Pokémon Diamant..."
+      ]
+    },
+    {
+      "id": "msg_0403_00021",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Saphir und Pokémon Perl..."
+      ]
+    },
+    {
+      "id": "msg_0403_00022",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Smaragd und Pokémon Diamant..."
+      ]
+    },
+    {
+      "id": "msg_0403_00023",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Smaragd und Pokémon Perl..."
+      ]
+    },
+    {
+      "id": "msg_0403_00024",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Feuerrot und Pokémon Diamant..."
+      ]
+    },
+    {
+      "id": "msg_0403_00025",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Feuerrot und Pokémon Perl..."
+      ]
+    },
+    {
+      "id": "msg_0403_00026",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Blattgrün und Pokémon Diamant..."
+      ]
+    },
+    {
+      "id": "msg_0403_00027",
+      "de_DE": [
+        "Speichere Dateien von Pokémon\n",
+        "Blattgrün und Pokémon Perl..."
+      ]
+    },
+    {
+      "id": "msg_0403_00028",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00029",
+      "de_DE": [
+        "6 Pokémon sind erfolgreich auf die\n",
+        "Pokémon Diamant-Karte gewandert."
+      ]
+    },
+    {
+      "id": "msg_0403_00030",
+      "de_DE": [
+        "6 Pokémon sind erfolgreich auf die\n",
+        "Pokémon Perl-Karte gewandert."
+      ]
+    },
+    {
+      "id": "msg_0403_00031",
+      "de_DE": [
+        "Pokémon können nur ein Mal am Tag\n",
+        "von einem Game Boy Advance-Modul\f",
+        "herüberwandern.\r",
+        "Seit dem letzten Mal ist noch kein\n",
+        "Tag vergangen."
+      ]
+    },
+    {
+      "id": "msg_0403_00032",
+      "de_DE": [
+        "Du verwendest ein anderes Nintendo\n",
+        "DS-System oder hast die Uhrzeit neu\f",
+        "eingestellt.\r",
+        "Hast du die Zeit im Spiel neu eingestellt,\n",
+        "musst du erneut 24 Stunden warten,\f",
+        "bis du Pokémon herüberholen kannst.\r",
+        "Möchtest du die Zeit im Spiel an die\n",
+        "des Nintendo DS-Systems anpassen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00033",
+      "de_DE": [
+        "Die Zeit im Spiel wurde angepasst.\r",
+        "Du musst 24 Stunden warten, bis du\n",
+        "Pokémon herüberholen kannst."
+      ]
+    },
+    {
+      "id": "msg_0403_00034",
+      "de_DE": [
+        "Pokémon können NICHT wieder auf\n",
+        "das Game Boy Advance-Modul\f",
+        "übertragen werden.\r",
+        "Möchtest du Pokémon auf deine\n",
+        "Pokémon Diamant-Karte holen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00035",
+      "de_DE": [
+        "Pokémon können NICHT wieder auf\n",
+        "das Game Boy Advance-Modul\f",
+        "übertragen werden.\r",
+        "Möchtest du Pokémon auf deine\n",
+        "Pokémon Perl-Karte holen?"
+      ]
+    },
+    {
+      "id": "msg_0403_00036",
+      "de_DE": "Speichern fehlgeschlagen..."
+    },
+    {
+      "id": "msg_0403_00037",
+      "de_DE": [
+        "Beim Lesen des Spielstands des\n",
+        "Game Boy Advance-Moduls ist ein\f",
+        "Fehler aufgetreten.\r",
+        "Es scheint kein Spielstand vorhanden\n",
+        "zu sein oder aber die Daten sind\f",
+        "beschädigt."
+      ]
+    },
+    {
+      "id": "msg_0403_00038",
+      "de_DE": [
+        "Dieses Pokémon darf nicht\n",
+        "herüberwandern."
+      ]
+    },
+    {
+      "id": "msg_0403_00039",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00040",
+      "de_DE": [
+        "Führe Anpassung aus...\n",
+        "Bitte schalte das System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0403_00041",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00042",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0403_00043",
+      "de_DE": "Lv."
+    },
+    {
+      "id": "msg_0403_00044",
+      "de_DE": "Item"
+    },
+    {
+      "id": "msg_0403_00045",
+      "garbage": 0
+    }
+  ]
+}

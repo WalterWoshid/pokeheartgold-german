@@ -1,0 +1,26 @@
+{
+  "key": 27003,
+  "messages": [
+    {
+      "id": "msg_0489_00000",
+      "de_DE": [
+        "Du hast weniger als drei Münzen.\n",
+        "Du kannst jetzt nicht spielen."
+      ]
+    },
+    {
+      "id": "msg_0489_00001",
+      "de_DE": [
+        "Du hast 50 000 Münzen.\n",
+        "Mehr kannst du nicht halten."
+      ]
+    },
+    {
+      "id": "msg_0489_00002",
+      "de_DE": [
+        "Du hast keine Münzen mehr.\n",
+        "Game over!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "key": 29707,
+  "messages": [
+    {
+      "id": "msg_0053_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, {STRVAR_1 3, 1}!\n",
+        "Hierher! Hier geht es lang!\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Also gut, Opi!\r",
+        "Ich habe {STRVAR_1 3, 1} mitgebracht,\n",
+        "wie ich es gesagt habe!\r",
+        "Und nun bin ich auch schon wieder weg!\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00002",
+      "de_DE": [
+        "Eibe: ...\n",
+        "...\r",
+        "...\n",
+        "...\r",
+        "...\n",
+        "...\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: ...Ja...\n",
+        "Ich versteh schon...\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00004",
+      "de_DE": [
+        "Eibe: Hm! Endlich sind alle hier.\n",
+        "{STRVAR_1 3, 0} und ihr anderen, hört zu.\r",
+        "Ich erinnere euch daran, dass ich die\n",
+        "Entwicklung von Pokémon studiere.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00005",
+      "de_DE": [
+        "Aber je mehr ich studiere, desto\n",
+        "mehr Geheimnisse tauchen auf.\r",
+        "Pokémon, die sich entwickeln, und\n",
+        "solche, die dies nicht tun...\r",
+        "Was ist der Unterschied zwischen\n",
+        "diesen beiden?\r",
+        "Entwickeln sich nur die, die noch\n",
+        "nicht ausgereift sind?\r",
+        "Und was ist dann mit den Legendären\n",
+        "Pokémon, die sich nicht entwickeln?\r",
+        "Müssen wir dann annehmen, dass diese\n",
+        "Pokémon schon ausgereift sind?\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00006",
+      "de_DE": [
+        "Ich habe eine Bitte an euch.\r",
+        "An den drei Seen von Sinnoh sollen\n",
+        "drei Illusion-Pokémon leben.\r",
+        "Wenn wir Daten über diese bekommen\n",
+        "könnten, würde das vielleicht etwas\r",
+        "Licht auf den Prozess der Entwicklung\n",
+        "von Pokémon werfen.\r",
+        "Ich benötige bei diesem Unternehmen\n",
+        "die Hilfe jedes Einzelnen von euch.\r",
+        "Helft mir, die Pokémon zu finden,\n",
+        "die als Illusion-Pokémon gelten.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, was ist das denn?!?\n",
+        "Wieso habe ich keinen Pokédex?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00008",
+      "de_DE": [
+        "Eibe: ...Und wer ist aus dem Labor\n",
+        "gerannt, wie von einer Tarantel\r",
+        "gestochen, bevor ich ihm einen\n",
+        "Pokédex geben konnte?\r",
+        "Aber das ist längst Schnee\n",
+        "von gestern.\r",
+        "Um ein guter Trainer zu werden,\n",
+        "ist es auch wichtig, Pokémon mit\f",
+        "eigenen Augen zu sehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00009",
+      "de_DE": [
+        "Lucia: Sie können auf mich zählen!\n",
+        "Ich werde mit meinem Pokédex helfen!\r",
+        "Du doch bestimmt auch, {STRVAR_1 3, 0},\n",
+        "oder nicht?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00010",
+      "de_DE": [
+        "Lucius: Darauf können Sie wetten,\n",
+        "Professor!\r",
+        "Das wird in den Pokédex eingetragen\n",
+        "und Ihnen bei den Forschungen helfen.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00011",
+      "de_DE": [
+        "Eibe: Hm! Ich hätte euch auch\n",
+        "ohne... Egal! \r",
+        "Es gibt drei Seen. Und ihr\n",
+        "seid drei Trainer.\r",
+        "Teilt euch auf, so dass jeder\n",
+        "einen See untersucht.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00012",
+      "de_DE": [
+        "Eibe: Lucia, du gehst\n",
+        "zum See der Wahrheit.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00013",
+      "de_DE": "Lucia: Wird gemacht!\r"
+    },
+    {
+      "id": "msg_0053_00014",
+      "de_DE": [
+        "Eibe: Lucius, du gehst zum\n",
+        "See der Wahrheit.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00015",
+      "de_DE": "Lucius: Ja, Sir!\r"
+    },
+    {
+      "id": "msg_0053_00016",
+      "de_DE": [
+        "Eibe: {STRVAR_1 3, 0}, ich möchte, dass du\n",
+        "zum See der Stärke gehst.\r",
+        "Das führt dich fast bis nach Blizzach.\r",
+        "Der Weg dorthin ist schwierig, daher\n",
+        "schafft das nur ein starker Trainer.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00017",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Äh... Ja, sicher!\n",
+        "Opi, du nennst die Dinge beim Namen!\f",
+        "Du weißt, dass ich der Beste bin!\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00018",
+      "de_DE": [
+        "Eibe: Und so bleibt für {STRVAR_1 3, 0}\n",
+        "nur noch der See der Kühnheit.\r",
+        "Der See befindet sich zwischen\n",
+        "Schleiede und Weideburg, wenn\f",
+        "ich mich richtig erinnere...\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00019",
+      "de_DE": [
+        "Eibe: ...\n",
+        "...Ist es vorbei?\r",
+        "Seid ihr alle unverletzt?\r",
+        "Lasst uns nach draußen\n",
+        "gehen, aber seid vorsichtig.\f",
+        "Ich mache mir Sorgen um den Ort.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00020",
+      "de_DE": [
+        "Eibe: {STRVAR_1 3, 1}, beeil dich.\n",
+        "Aber Vorsicht bei Nachbeben.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00021",
+      "de_DE": [
+        "Jedes Buch enthält die Erinnerungen\n",
+        "von jemandem. Erinnerungen an die\f",
+        "unterschiedlichsten Orte und Zeiten.\r",
+        "Bibliotheken sind nicht einfach nur\n",
+        "Orte, an denen Bücher aufbewahrt\f",
+        "werden.\r",
+        "In ihnen sammeln sich verschiedene\n",
+        "Orte und Zeiten."
+      ]
+    },
+    {
+      "id": "msg_0053_00022",
+      "de_DE": [
+        "W-war das ein Erdbeben?!?\n",
+        "Das habe ich mir nicht eingebildet?!?"
+      ]
+    },
+    {
+      "id": "msg_0053_00023",
+      "de_DE": [
+        "Immer, wenn ich ein Buch lesen will, hat\n",
+        "es sich bereits ein anderer genommen..."
+      ]
+    },
+    {
+      "id": "msg_0053_00024",
+      "de_DE": [
+        "Ich fühle mich wackelig auf den Beinen...\r",
+        "Das Beben ist vorbei, aber meine Knie\n",
+        "sind immer noch wie aus Wackelpeter..."
+      ]
+    },
+    {
+      "id": "msg_0053_00025",
+      "de_DE": [
+        "Das Buch heißt “Sinnohs\n",
+        "Mythologie”. Möchtest du es lesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00026",
+      "de_DE": [
+        "{STRVAR_1 3, 0} stellt das Buch\n",
+        "wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0053_00027",
+      "de_DE": [
+        "“Sinnohs Mythologie”\r",
+        "Lebe deine Wut nicht, damit ???\n",
+        "nicht erscheinen wird.\r",
+        "Weine nicht vor Kummer, oder ??? wird\n",
+        "näher kommen.\r",
+        "Natürliche Freude, natürlich wie der\n",
+        "Wind, das ist Glück.\r",
+        "Mögen jene durch die Hand von\n",
+        "Meister ??? geweiht sein.\r",
+        "Diese Worte werden oft auf\n",
+        "Glückwunschkarten geschrieben."
+      ]
+    },
+    {
+      "id": "msg_0053_00028",
+      "de_DE": [
+        "Das Buch heißt “Die Mythologie der\n",
+        "Region Sinnoh”. Möchtest du es lesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00029",
+      "de_DE": [
+        "{STRVAR_1 3, 0} stellt das Buch\n",
+        "wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0053_00030",
+      "de_DE": [
+        "“Mythologie der Region Sinnoh”\r",
+        "Vor langer Zeit, als Sinnoh entstand,\n",
+        "lebten Pokémon und Menschen\f",
+        "unabhängig voneinander.\r",
+        "Das heißt aber nicht, dass sie sich\n",
+        "nicht gegenseitig geholfen haben.\f",
+        "Dies haben sie in der Tat getan.\r",
+        "Sie versorgten sich gegenseitig mit\n",
+        "Waren und unterstützten einander.\r",
+        "Ein Pokémon schlug den anderen vor,\n",
+        "stets den Menschen zu helfen.\r",
+        "Und es bat die anderen Pokémon,\n",
+        "stets vor den Menschen zu erscheinen.\r",
+        "Und so erscheinen, bis zum heutigen\n",
+        "Tag, Pokémon vor den Menschen,\f",
+        "wenn diese durch hohes Gras laufen."
+      ]
+    },
+    {
+      "id": "msg_0053_00031",
+      "de_DE": [
+        "Das Buch heißt “Sinnohs\n",
+        "Mythen”. Möchtest du es lesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00032",
+      "de_DE": [
+        "{STRVAR_1 3, 0} stellt das Buch\n",
+        "wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0053_00033",
+      "de_DE": [
+        "“Sinnohs Mythen”\r",
+        "Es existierten drei Pokémon.\r",
+        "Sie tauchten hinab in die Seen.\n",
+        "Tief, tief hinab, ohne Atem zu nehmen.\r",
+        "Tiefer und tiefer tauchten sie.\n",
+        "Hinab in luftleeren Raum.\r",
+        "Tiefer und tiefer sanken sie hernieder.\n",
+        "Und als sie den Grund erreichten,\f",
+        "stiegen sie wieder empor.\r",
+        "Sie trugen in sich die Kraft,\n",
+        "Landmassen zu formen."
+      ]
+    },
+    {
+      "id": "msg_0053_00034",
+      "de_DE": [
+        "Das Buch heißt “Schleiedes\n",
+        "Mythen”. Möchtest du es lesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00035",
+      "de_DE": [
+        "{STRVAR_1 3, 0} stellt das Buch\n",
+        "wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0053_00036",
+      "de_DE": [
+        "“Schleiedes Mythen”\r",
+        "Ein junger Mann, naiv und unschuldig,\n",
+        "kam in den Besitz eines Schwertes.\r",
+        "Mit diesem bedrohte er Pokémon auf’s\n",
+        "Grausamste, die ihm daraufhin aus Angst\f",
+        "und Furcht Nahrungsmittel gaben.\r",
+        "Was er selbst nicht essen wollte,\n",
+        "warf er achtlos, ohne einen zweiten\f",
+        "Gedanken daran zu verschwenden, weg.\r",
+        "Im folgenden Jahr erschien kein einziges\n",
+        "Pokémon. Seine Speisekammer blieb leer.\r",
+        "...Möchtest du weiterlesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00037",
+      "de_DE": [
+        "Der junge Mann machte sich auf die\n",
+        "Suche nach den Pokémon und sein\f",
+        "Weg führte ihn weit in die Ferne.\r",
+        "Er suchte lange. Und reiste immer\n",
+        "weiter auf seiner Suche, bis er\f",
+        "schließlich ein Pokémon fand.\r",
+        "Er fragte es: “Warum versteckst\n",
+        "du dich?”\r",
+        "Worauf das Pokémon antwortete:\r",
+        "“Trägst du dein Schwert, um\n",
+        "uns Gram zu bringen, so werden\r",
+        "unsere Krallen und Zähne den Gram\n",
+        "zurückzahlen.\r",
+        "Deinesgleichen wird für das Leid\n",
+        "zahlen, das du uns verursachst.\r",
+        "Denn dies muss getan werden.\n",
+        "Getan werden, um uns zu schützen.\r",
+        "Und wir bedauern, dass es so\n",
+        "kommen muss.”\r",
+        "...Möchtest du weiterlesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00038",
+      "de_DE": [
+        "Der junge Mann erhob seine Hände und\n",
+        "rief bestürzt:\r",
+        "“Ich habe das Schwert gefunden,\n",
+        "und so viel verloren.\r",
+        "Geblendet von der Macht, wurde ich\n",
+        "blind gegenüber den Pokémon.\r",
+        "Ich werde niemals wieder den Blick\n",
+        "verlieren. Ich verfluche dieses\f",
+        "Schwert und gebe es auf.\r",
+        "Ich bitte um Vergebung. Vergebung, für\n",
+        "einen von Macht geblendeten Narren.”\r",
+        "Und mit diesen Worten schwang der junge\n",
+        "Mann sein Schwert und stieß es so heftig\f",
+        "in den Boden, dass es zerbrach.\r",
+        "Das Pokémon sah dieses und verschwand\n",
+        "an einen Ort, der sich jedem Auge\f",
+        "entzieht..."
+      ]
+    },
+    {
+      "id": "msg_0053_00039",
+      "de_DE": [
+        "Das Buch heißt “Die Geschichte des\n",
+        "Ursprungs”. Möchtest du es lesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00040",
+      "de_DE": [
+        "{STRVAR_1 3, 0} stellt das Buch\n",
+        "wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0053_00041",
+      "de_DE": [
+        "Zunächst gab es nur\n",
+        "undurchdringbares Chaos.\r",
+        "Mitten in diesem Chaos\n",
+        "entwickelte sich ein Ei.\r",
+        "Das Chaos hinter sich lassend, wurde\n",
+        "das Ei zum Ursprung aller Pokémon.\r",
+        "...Möchtest du weiterlesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00042",
+      "de_DE": [
+        "Das Ei teilte sich und aus ihm\n",
+        "wurden zwei Wesen.\r",
+        "Das Rad der Zeit fing an, sich\n",
+        "zu bewegen.\r",
+        "Der Raum dehnte sich aus.\n",
+        "Und dem Ei entsprangen\f",
+        "drei Leben.\r",
+        "...Möchtest du weiterlesen?\n"
+      ]
+    },
+    {
+      "id": "msg_0053_00043",
+      "de_DE": [
+        "Die zwei Wesen sprachen einen\n",
+        "Wunsch und Materie entstand.\r",
+        "Die drei Leben sprachen einen\n",
+        "Wunsch und Intelligenz entstand.\r",
+        "Nach dem dies vollzogen war,\n",
+        "zog sich das Ei zurück in einen\f",
+        "immerwährenden Schlaf..."
+      ]
+    },
+    {
+      "id": "msg_0053_00044",
+      "de_DE": [
+        "Das Buch heißt “Mythos des\n",
+        "Schreckens”. Möchtest du es lesen?"
+      ]
+    },
+    {
+      "id": "msg_0053_00045",
+      "de_DE": [
+        "{STRVAR_1 3, 0} stellt das Buch\n",
+        "wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0053_00046",
+      "de_DE": [
+        "Sieh dem Pokémon niemals in die Augen.\r",
+        "Denn sonst verlierst du das Wissen,\n",
+        "zu sagen, wer du bist.\r",
+        "Wie willst du nach Hause zurückkehren?\n",
+        "Wenn du nicht weißt, wer du bist?\r",
+        "Berühre das Pokémon nicht.\r",
+        "Denn sonst verlassen dich innerhalb\n",
+        "dreier Tage alle Gefühle.\r",
+        "Aber vor allem: Füge dem Pokémon\n",
+        "kein Leid zu.\r",
+        "Denn sonst verfällst du nach \n",
+        "fünf Tagen in eine ewige Starre."
+      ]
+    },
+    {
+      "id": "msg_0053_00047",
+      "de_DE": [
+        "Das Buch heißt “Volkssagen\n",
+        "aus Sinnoh”.\r"
+      ]
+    },
+    {
+      "id": "msg_0053_00048",
+      "de_DE": "Welche Sage möchtest du lesen?"
+    },
+    {
+      "id": "msg_0053_00049",
+      "de_DE": [
+        "{STRVAR_1 3, 0} stellt das Buch\n",
+        "wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0053_00050",
+      "de_DE": [
+        "“Sinnoh Volkssage 1”\r",
+        "Säubere die Knochen der Pokémon,\n",
+        "die du in einem Meer oder Fluss\f",
+        "gefangen hast.\r",
+        "Danke ihnen für die Nahrung, die\n",
+        "sie dir spenden, indem du ihre\f",
+        "Knochen säuberst.\r",
+        "Hast du das getan, wirf die\n",
+        "Knochen wieder zurück ins\f",
+        "Wasser, aus dem sie kamen.\r",
+        "Die Pokémon werden aus den\n",
+        "Knochen neu entstehen und\f",
+        "der Kreislauf beginnt von neuem."
+      ]
+    },
+    {
+      "id": "msg_0053_00051",
+      "de_DE": [
+        "“Sinnoh Volkssagen 2”\r",
+        "Einst lebte ein Pokémon in einem\n",
+        "Wald. In diesem Wald legte das\r",
+        "Pokémon seine Haut ab und schlief\n",
+        "wie ein Mensch.\r",
+        "Als es erwachte, hatten Menschen\n",
+        "seine Haut genommen und übergezogen.\r",
+        "Sie plünderten Dörfer in der Gestalt\n",
+        "dieses Pokémon.\n"
+      ]
+    },
+    {
+      "id": "msg_0053_00052",
+      "de_DE": [
+        "“Sinnoh Volkssage 3”\r",
+        "Einst lebten Pokémon, die den Menschen\n",
+        "sehr nahestanden.\r",
+        "Einst gab es Menschen und Pokémon,\n",
+        "die am selben Tisch speisten.\r",
+        "Einst gab es eine Zeit, als es keine\n",
+        "Unterschiede zwischen diesen gab."
+      ]
+    },
+    {
+      "id": "msg_0053_00053",
+      "de_DE": [
+        "Auf dieser Etage findest du viele\n",
+        "Bücher, in denen die Legenden\r",
+        "und Mythen der Region Sinnoh\n",
+        "nachzulesen sind."
+      ]
+    }
+  ]
+}

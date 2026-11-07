@@ -1,0 +1,32 @@
+{
+  "key": 3953,
+  "messages": [
+    {
+      "id": "msg_0551_00000",
+      "de_DE": [
+        "Die Pokébälle sind leider ausverkauft.\n",
+        "Wann wohl die neue Lieferung kommt?"
+      ]
+    },
+    {
+      "id": "msg_0551_00001",
+      "de_DE": [
+        "Die neue Lieferung Pokébälle ist da!\n",
+        "Jetzt kann ich wieder nach Herzenslust\f",
+        "auf Pokémon-Jagd gehen!"
+      ]
+    },
+    {
+      "id": "msg_0551_00002",
+      "de_DE": [
+        "Als ich durch das hohe Gras spaziert\n",
+        "bin, wurde mein Pokémon von einem\f",
+        "Käfer-Pokémon vergiftet!\r",
+        "Auf dem Weg zurück ist es dann immer\n",
+        "schwächer geworden.\r",
+        "Du solltest ständig ein Gegengift mit dir\n",
+        "führen!"
+      ]
+    }
+  ]
+}

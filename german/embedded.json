@@ -1,0 +1,431 @@
+{
+  "assembly": {
+    "ov112_021F6178": {
+      "source": "images/wifi_plaza/ov112_021F6178.png",
+      "bit_depth": 4,
+      "size": 128
+    },
+    "ov112_021F61F8": {
+      "source": "images/wifi_plaza/ov112_021F61F8.png",
+      "bit_depth": 4,
+      "size": 128
+    },
+    "ov112_021F6278": {
+      "source": "images/wifi_plaza/ov112_021F6278.png",
+      "bit_depth": 4,
+      "size": 128
+    },
+    "ov112_021F63F8": {
+      "source": "images/wifi_plaza/ov112_021F63F8.png",
+      "bit_depth": 4,
+      "size": 160
+    },
+    "ov112_021F6498": {
+      "source": "images/wifi_plaza/ov112_021F6498.png",
+      "bit_depth": 4,
+      "size": 160
+    },
+    "ov112_021F6538": {
+      "source": "images/wifi_plaza/ov112_021F6538.png",
+      "bit_depth": 4,
+      "size": 160
+    },
+    "ov112_021F65D8": {
+      "source": "images/wifi_plaza/ov112_021F65D8.png",
+      "bit_depth": 4,
+      "size": 160
+    },
+    "ov112_021F6678": {
+      "source": "images/wifi_plaza/ov112_021F6678.png",
+      "bit_depth": 4,
+      "size": 160
+    },
+    "ov112_021F70D8": {
+      "source": "images/wifi_plaza/ov112_021F70D8.png",
+      "bit_depth": 4,
+      "size": 256
+    },
+    "ov112_021F72D8": {
+      "source": "images/wifi_plaza/ov112_021F72D8.png",
+      "bit_depth": 4,
+      "size": 320
+    },
+    "ov112_021F7418": {
+      "source": "images/wifi_plaza/ov112_021F7418.png",
+      "bit_depth": 4,
+      "size": 320
+    },
+    "ov112_021F7558": {
+      "source": "images/wifi_plaza/ov112_021F7558.png",
+      "bit_depth": 4,
+      "size": 320
+    },
+    "ov112_021F7698": {
+      "source": "images/wifi_plaza/ov112_021F7698.png",
+      "bit_depth": 4,
+      "size": 320
+    },
+    "ov112_021F77D8": {
+      "source": "images/wifi_plaza/ov112_021F77D8.png",
+      "bit_depth": 4,
+      "size": 320
+    },
+    "ov112_021F7918": {
+      "source": "images/wifi_plaza/ov112_021F7918.png",
+      "bit_depth": 4,
+      "size": 320
+    },
+    "ov112_021F7A58": {
+      "source": "images/wifi_plaza/ov112_021F7A58.png",
+      "bit_depth": 4,
+      "size": 320
+    },
+    "ov112_021F7B98": {
+      "source": "images/wifi_plaza/ov112_021F7B98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F7D18": {
+      "source": "images/wifi_plaza/ov112_021F7D18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F7E98": {
+      "source": "images/wifi_plaza/ov112_021F7E98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8018": {
+      "source": "images/wifi_plaza/ov112_021F8018.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8198": {
+      "source": "images/wifi_plaza/ov112_021F8198.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8318": {
+      "source": "images/wifi_plaza/ov112_021F8318.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8498": {
+      "source": "images/wifi_plaza/ov112_021F8498.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8618": {
+      "source": "images/wifi_plaza/ov112_021F8618.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8798": {
+      "source": "images/wifi_plaza/ov112_021F8798.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8918": {
+      "source": "images/wifi_plaza/ov112_021F8918.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8A98": {
+      "source": "images/wifi_plaza/ov112_021F8A98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8C18": {
+      "source": "images/wifi_plaza/ov112_021F8C18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8D98": {
+      "source": "images/wifi_plaza/ov112_021F8D98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F8F18": {
+      "source": "images/wifi_plaza/ov112_021F8F18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9098": {
+      "source": "images/wifi_plaza/ov112_021F9098.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9218": {
+      "source": "images/wifi_plaza/ov112_021F9218.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9398": {
+      "source": "images/wifi_plaza/ov112_021F9398.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9518": {
+      "source": "images/wifi_plaza/ov112_021F9518.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9698": {
+      "source": "images/wifi_plaza/ov112_021F9698.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9818": {
+      "source": "images/wifi_plaza/ov112_021F9818.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9998": {
+      "source": "images/wifi_plaza/ov112_021F9998.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9B18": {
+      "source": "images/wifi_plaza/ov112_021F9B18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9C98": {
+      "source": "images/wifi_plaza/ov112_021F9C98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9E18": {
+      "source": "images/wifi_plaza/ov112_021F9E18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021F9F98": {
+      "source": "images/wifi_plaza/ov112_021F9F98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FA118": {
+      "source": "images/wifi_plaza/ov112_021FA118.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FA298": {
+      "source": "images/wifi_plaza/ov112_021FA298.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FA418": {
+      "source": "images/wifi_plaza/ov112_021FA418.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FA598": {
+      "source": "images/wifi_plaza/ov112_021FA598.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FA718": {
+      "source": "images/wifi_plaza/ov112_021FA718.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FA898": {
+      "source": "images/wifi_plaza/ov112_021FA898.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FAA18": {
+      "source": "images/wifi_plaza/ov112_021FAA18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FAB98": {
+      "source": "images/wifi_plaza/ov112_021FAB98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FAD18": {
+      "source": "images/wifi_plaza/ov112_021FAD18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FAE98": {
+      "source": "images/wifi_plaza/ov112_021FAE98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FB018": {
+      "source": "images/wifi_plaza/ov112_021FB018.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FB198": {
+      "source": "images/wifi_plaza/ov112_021FB198.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FB318": {
+      "source": "images/wifi_plaza/ov112_021FB318.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FB618": {
+      "source": "images/wifi_plaza/ov112_021FB618.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FB798": {
+      "source": "images/wifi_plaza/ov112_021FB798.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FB918": {
+      "source": "images/wifi_plaza/ov112_021FB918.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FBA98": {
+      "source": "images/wifi_plaza/ov112_021FBA98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FBC18": {
+      "source": "images/wifi_plaza/ov112_021FBC18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FBD98": {
+      "source": "images/wifi_plaza/ov112_021FBD98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FBF18": {
+      "source": "images/wifi_plaza/ov112_021FBF18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FC098": {
+      "source": "images/wifi_plaza/ov112_021FC098.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FC218": {
+      "source": "images/wifi_plaza/ov112_021FC218.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FC398": {
+      "source": "images/wifi_plaza/ov112_021FC398.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FC518": {
+      "source": "images/wifi_plaza/ov112_021FC518.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FC698": {
+      "source": "images/wifi_plaza/ov112_021FC698.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FC818": {
+      "source": "images/wifi_plaza/ov112_021FC818.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FC998": {
+      "source": "images/wifi_plaza/ov112_021FC998.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FCB18": {
+      "source": "images/wifi_plaza/ov112_021FCB18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FCC98": {
+      "source": "images/wifi_plaza/ov112_021FCC98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FCE18": {
+      "source": "images/wifi_plaza/ov112_021FCE18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FCF98": {
+      "source": "images/wifi_plaza/ov112_021FCF98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FD118": {
+      "source": "images/wifi_plaza/ov112_021FD118.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FD298": {
+      "source": "images/wifi_plaza/ov112_021FD298.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FD418": {
+      "source": "images/wifi_plaza/ov112_021FD418.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FD598": {
+      "source": "images/wifi_plaza/ov112_021FD598.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FD718": {
+      "source": "images/wifi_plaza/ov112_021FD718.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FD898": {
+      "source": "images/wifi_plaza/ov112_021FD898.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FDA18": {
+      "source": "images/wifi_plaza/ov112_021FDA18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FDB98": {
+      "source": "images/wifi_plaza/ov112_021FDB98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FDD18": {
+      "source": "images/wifi_plaza/ov112_021FDD18.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FDE98": {
+      "source": "images/wifi_plaza/ov112_021FDE98.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FE018": {
+      "source": "images/wifi_plaza/ov112_021FE018.png",
+      "bit_depth": 4,
+      "size": 384
+    },
+    "ov112_021FE198": {
+      "source": "images/wifi_plaza/ov112_021FE198.png",
+      "bit_depth": 4,
+      "size": 768
+    }
+  },
+  "c": {
+    "GERMAN_BATTLE_HP_GRAPHICS": {
+      "source": "images/battle/hp_bar.png",
+      "bit_depth": 4,
+      "size": 2496
+    }
+  }
+}

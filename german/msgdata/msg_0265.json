@@ -1,0 +1,5054 @@
+{
+  "key": 38047,
+  "messages": [
+    {
+      "id": "msg_0265_00000",
+      "de_DE": [
+        "Huch? {STRVAR_1 1, 0, 0} trägt irgendetwas\n",
+        "mit sich herum...\r",
+        "Willst du es an dich nehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00001",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat etwas gefunden\n",
+        "und sieht fröhlich aus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00002",
+      "de_DE": [
+        "Es scheint ihm sehr kostbar zu sein und\n",
+        "es will nicht damit herausrücken!"
+      ]
+    },
+    {
+      "id": "msg_0265_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat es mit großer Freude\n",
+        "an dich abgetreten!"
+      ]
+    },
+    {
+      "id": "msg_0265_00004",
+      "de_DE": [
+        "...\n",
+        "Huch?\r",
+        "{STRVAR_1 1, 0, 0} trägt ein seltsames,\n",
+        "glänzendes Blatt bei sich..."
+      ]
+    },
+    {
+      "id": "msg_0265_00005",
+      "de_DE": [
+        "Es sieht dich an und\n",
+        "nickt dir zu."
+      ]
+    },
+    {
+      "id": "msg_0265_00006",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt komische\n",
+        "Geräusche von sich..."
+      ]
+    },
+    {
+      "id": "msg_0265_00007",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brummt vor sich hin, als\n",
+        "würde es irgendetwas erzählen."
+      ]
+    },
+    {
+      "id": "msg_0265_00008",
+      "de_DE": [
+        "Nanu? Es scheint in der Ferne\n",
+        "irgendetwas gehört zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00009",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hatte schon\n",
+        "beinahe vergessen,\f",
+        "dass es {STRVAR_1 8, 4, 0} hielt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00010",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stupst {STRVAR_1 3, 2, 0} an!\n",
+        "Stupst du zurück?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00011",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut griesgrämig\n",
+        "in die Gegend..."
+      ]
+    },
+    {
+      "id": "msg_0265_00012",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} klammert sich\n",
+        "eng an dein Bein."
+      ]
+    },
+    {
+      "id": "msg_0265_00013",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist plötzlich der\n",
+        "Kragen geplatzt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00014",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erschrickt und\n",
+        "hüpft hoch in die Luft!"
+      ]
+    },
+    {
+      "id": "msg_0265_00015",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} drückt irgendetwas\n",
+        "auf die Laune..."
+      ]
+    },
+    {
+      "id": "msg_0265_00016",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält irgendetwas\n",
+        "im Mund und schaut dich an.\f",
+        "Willst du es an dich nehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schlo-lo-lottert vor\n",
+        "Kälte und schmiegt sich an d-d-dich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00018",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} freut sich\n",
+        "riesig!"
+      ]
+    },
+    {
+      "id": "msg_0265_00019",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint sich wieder\n",
+        "etwas beruhigt zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00020",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint es in\n",
+        "deiner Nähe zu gefallen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00021",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint echt\n",
+        "glücklich zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00022",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist ganz\n",
+        "aus dem Häuschen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00023",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist ein bisschen\n",
+        "erschrocken!"
+      ]
+    },
+    {
+      "id": "msg_0265_00024",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist extrem\n",
+        "glücklich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00025",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist irgendwie\n",
+        "angespannt...\f",
+        "Willst du mit ihm reden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00026",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat einen Schock gekriegt\n",
+        "und lässt die Faxen nun sein."
+      ]
+    },
+    {
+      "id": "msg_0265_00027",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schmiegt sich\n",
+        "eng an dich!\f",
+        "Möchtest du ihm Zuwendung zeigen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00028",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist voller Neugierde für\n",
+        "alles in der Umgebung!"
+      ]
+    },
+    {
+      "id": "msg_0265_00029",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint von\n",
+        "Grund auf zufrieden zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00030",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat gerade weggeschaut\n",
+        "und ist mit einem Rumms in dich gerast!"
+      ]
+    },
+    {
+      "id": "msg_0265_00031",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut zu dir herüber, so\n",
+        "als würde es gerne mit dir spielen...\f",
+        "Lässt du dich darauf ein? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00032",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat dich plötzlich\n",
+        "geschubst!\f",
+        "Willst du eine Standpauke halten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00033",
+      "de_DE": [
+        "Oh je, {STRVAR_1 1, 0, 0} ist kurz davor,\n",
+        "einzunicken...\f",
+        "Rufst du es beim Namen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00034",
+      "de_DE": "{STRVAR_1 1, 0, 0} schaut dich verdutzt an."
+    },
+    {
+      "id": "msg_0265_00035",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich im hohen Gras\n",
+        "gewälzt und hat überall Laub kleben!\f",
+        "Befreist du es davon? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00036",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich plötzlich\n",
+        "fest an dich gedrückt!\f",
+        "Schenkst du ihm etwas Zuwendung?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00037",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt unentwegt\n",
+        "zu dir herüber...\f",
+        "Willst du es zu dir rufen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00038",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint es\n",
+        "nicht schnell genug zu gehen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00039",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich plötzlich\n",
+        "an dich geschmiegt!\f",
+        "Gehst du etwas auf es ein? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00040",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht sich angsterfüllt\n",
+        "in der Gegend um.\f",
+        "Willst du mit ihm reden?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00041",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist in einem\n",
+        "Tagtraum verloren...\f",
+        "Holst du es zurück in die Realität?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00042",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint Heimweh\n",
+        "nach dem Labor zu haben."
+      ]
+    },
+    {
+      "id": "msg_0265_00043",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} rückt urplötzlich\n",
+        "näher an deine Beine heran."
+      ]
+    },
+    {
+      "id": "msg_0265_00044",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kaut auf\n",
+        "deinen Schuhen herum!\f",
+        "Hältst du ihm eine Standpauke?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00045",
+      "de_DE": [
+        "Die Blätter von {STRVAR_1 1, 0, 0}\n",
+        "hängen lustlos herab."
+      ]
+    },
+    {
+      "id": "msg_0265_00046",
+      "de_DE": [
+        "Die Wangen von {STRVAR_1 1, 0, 0} \n",
+        "leuchten rosig."
+      ]
+    },
+    {
+      "id": "msg_0265_00047",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist so erschöpft, dass es\n",
+        "keinen Muskel mehr rühren kann!"
+      ]
+    },
+    {
+      "id": "msg_0265_00048",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trottet fröhlich\n",
+        "hinter dir her."
+      ]
+    },
+    {
+      "id": "msg_0265_00049",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint mit {STRVAR_1 3, 2, 0}\n",
+        "spielen zu wollen."
+      ]
+    },
+    {
+      "id": "msg_0265_00050",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut dich\n",
+        "groß an."
+      ]
+    },
+    {
+      "id": "msg_0265_00051",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht mit ganzer\n",
+        "Kraft, mit dir Schritt zu halten."
+      ]
+    },
+    {
+      "id": "msg_0265_00052",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} vollführt ein\n",
+        "Tänzchen vor Freude!"
+      ]
+    },
+    {
+      "id": "msg_0265_00053",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schmiegt sich\n",
+        "glücklich an dich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00054",
+      "de_DE": [
+        "Das Gesicht von {STRVAR_1 1, 0, 0}\n",
+        "strahlt vor Freude!"
+      ]
+    },
+    {
+      "id": "msg_0265_00055",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zuckelt\n",
+        "gemütlich hinter dir her."
+      ]
+    },
+    {
+      "id": "msg_0265_00056",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} dreht noch\n",
+        "einmal extra auf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00057",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} dreht sich\n",
+        "im Kreis."
+      ]
+    },
+    {
+      "id": "msg_0265_00058",
+      "de_DE": "{STRVAR_1 1, 0, 0} starrt dich an."
+    },
+    {
+      "id": "msg_0265_00059",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirft dir einen Blick\n",
+        "zu und lächelt."
+      ]
+    },
+    {
+      "id": "msg_0265_00060",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht einen\n",
+        "leichtfüßigen Satz!"
+      ]
+    },
+    {
+      "id": "msg_0265_00061",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} springt glücks-\n",
+        "erfüllt durch die Landschaft."
+      ]
+    },
+    {
+      "id": "msg_0265_00062",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint\n",
+        "sehr glücklich zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00063",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hüpft ohne ersichtliche\n",
+        "Mühe in hohem Bogen herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00064",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnüffelt\n",
+        "aufgeweckt um dich herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00065",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut schnurgerade\n",
+        "in deine Richtung!"
+      ]
+    },
+    {
+      "id": "msg_0265_00066",
+      "de_DE": "{STRVAR_1 1, 0, 0} senkt seinen Blick..."
+    },
+    {
+      "id": "msg_0265_00067",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stupst am Beutel\n",
+        "von {STRVAR_1 3, 2, 0} herum.\f",
+        "Hältst du ihm eine Standpauke?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00068",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt beharrlich\n",
+        "in die Augen von {STRVAR_1 3, 2, 0}."
+      ]
+    },
+    {
+      "id": "msg_0265_00069",
+      "de_DE": "{STRVAR_1 1, 0, 0} grüßt dich!"
+    },
+    {
+      "id": "msg_0265_00070",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} grüßt\n",
+        "deinen Gegner."
+      ]
+    },
+    {
+      "id": "msg_0265_00071",
+      "de_DE": "{STRVAR_1 1, 0, 0} jault los!"
+    },
+    {
+      "id": "msg_0265_00072",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wendet sich dem Gegner\n",
+        "zu und knurrt laut!"
+      ]
+    },
+    {
+      "id": "msg_0265_00073",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht, deinen\n",
+        "Gegner einzuschüchtern!"
+      ]
+    },
+    {
+      "id": "msg_0265_00074",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} funkelt deinen\n",
+        "Gegner an!"
+      ]
+    },
+    {
+      "id": "msg_0265_00075",
+      "de_DE": "{STRVAR_1 1, 0, 0} fixiert deinen Gegner!"
+    },
+    {
+      "id": "msg_0265_00076",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist von Amphi\n",
+        "fasziniert."
+      ]
+    },
+    {
+      "id": "msg_0265_00077",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint mit Amphi\n",
+        "spielen zu wollen."
+      ]
+    },
+    {
+      "id": "msg_0265_00078",
+      "de_DE": "{STRVAR_1 1, 0, 0} begrüßt Amphi!"
+    },
+    {
+      "id": "msg_0265_00079",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint Amphi\n",
+        "sehr zu mögen."
+      ]
+    },
+    {
+      "id": "msg_0265_00080",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt ein großes\n",
+        "Gähnen fah... ... ... ... ... ...\f",
+        "Nein, doch nicht."
+      ]
+    },
+    {
+      "id": "msg_0265_00081",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet\n",
+        "den Sonnenaufgang."
+      ]
+    },
+    {
+      "id": "msg_0265_00082",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnappt\n",
+        "nach deinem Bein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00083",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnappt nach\n",
+        "deinen Füßen."
+      ]
+    },
+    {
+      "id": "msg_0265_00084",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kaut auf deinen\n",
+        "Füßen herum!\f",
+        "Geht dir die Geduld aus?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00085",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} mampft deine\n",
+        "Schuhe!\f",
+        "Schimpfst du mit ihm?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00086",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet\n",
+        "eingehend deinen Kopf..."
+      ]
+    },
+    {
+      "id": "msg_0265_00087",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} behält wachsam die\n",
+        "Umgebung im Auge!"
+      ]
+    },
+    {
+      "id": "msg_0265_00088",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt seinen Blick\n",
+        "umherschweifen."
+      ]
+    },
+    {
+      "id": "msg_0265_00089",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zieht ob der Hitze\n",
+        "ein leidvolles Gesicht..."
+      ]
+    },
+    {
+      "id": "msg_0265_00090",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält seinen Kopf\n",
+        "aufgrund der Hitze gesenkt..."
+      ]
+    },
+    {
+      "id": "msg_0265_00091",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} genießt\n",
+        "die Hitze sichtlich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00092",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} freut sich\n",
+        "über den Regen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00093",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} labt sich\n",
+        "am Regenwetter!"
+      ]
+    },
+    {
+      "id": "msg_0265_00094",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint vom\n",
+        "Regen sichtlich überrascht!"
+      ]
+    },
+    {
+      "id": "msg_0265_00095",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht aus, als\n",
+        "würde es gleich umkippen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00096",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt eine\n",
+        "ungestüme Feuersalve fahren!"
+      ]
+    },
+    {
+      "id": "msg_0265_00097",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} packt urplötzlich\n",
+        "ein Wutanfall!"
+      ]
+    },
+    {
+      "id": "msg_0265_00098",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt auf einmal\n",
+        "ein großes Brüllen von sich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00099",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht plötzlich\n",
+        "kehrt und schreit los!"
+      ]
+    },
+    {
+      "id": "msg_0265_00100",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirbelt\n",
+        "im Nu herum!"
+      ]
+    },
+    {
+      "id": "msg_0265_00101",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} pickt ausgelassen\n",
+        "auf dem Boden herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00102",
+      "de_DE": "{STRVAR_1 1, 0, 0} spielt im Dreck."
+    },
+    {
+      "id": "msg_0265_00103",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} pickt ausgelassen\n",
+        "auf dem Boden herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00104",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt einen Kiesel\n",
+        "über den Boden kullern."
+      ]
+    },
+    {
+      "id": "msg_0265_00105",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnüffelt\n",
+        "in der Gegend herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00106",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich vor\n",
+        "einem Stein erschrocken!"
+      ]
+    },
+    {
+      "id": "msg_0265_00107",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} blickt mit sperrangelweit\n",
+        "offenem Mund nach oben."
+      ]
+    },
+    {
+      "id": "msg_0265_00108",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} reckt den Kopf nach oben\n",
+        "und staunt."
+      ]
+    },
+    {
+      "id": "msg_0265_00109",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist quietschfidel!"
+    },
+    {
+      "id": "msg_0265_00110",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} rudert mit den Armen\n",
+        "und stößt einen Kampfschrei aus."
+      ]
+    },
+    {
+      "id": "msg_0265_00111",
+      "de_DE": "{STRVAR_1 1, 0, 0} knurrt laut!"
+    },
+    {
+      "id": "msg_0265_00112",
+      "de_DE": "{STRVAR_1 1, 0, 0} knurrt laut!"
+    },
+    {
+      "id": "msg_0265_00113",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt\n",
+        "aufs Meer hinaus."
+      ]
+    },
+    {
+      "id": "msg_0265_00114",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erblickt das\n",
+        "Meer und freut sich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00115",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} führt\n",
+        "ein Freudentänzchen auf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00116",
+      "de_DE": "{STRVAR_1 1, 0, 0} knirscht vor Freude!"
+    },
+    {
+      "id": "msg_0265_00117",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} begrüßt\n",
+        "dich überglücklich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00118",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} knirscht\n",
+        "freudig vor sich hin!"
+      ]
+    },
+    {
+      "id": "msg_0265_00119",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} springt\n",
+        "vor Freude in die Luft!"
+      ]
+    },
+    {
+      "id": "msg_0265_00120",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} platscht\n",
+        "vor Freude hin und her!"
+      ]
+    },
+    {
+      "id": "msg_0265_00121",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann es kaum\n",
+        "erwarten, mit dir Zug zu fahren!"
+      ]
+    },
+    {
+      "id": "msg_0265_00122",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist an einem Ast hängen-\n",
+        "geblieben und fast hingefallen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00123",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist frontal in einen Ast\n",
+        "gerannt und hat sich erschreckt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00124",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sperrt sein\n",
+        "Maul weiiit auf."
+      ]
+    },
+    {
+      "id": "msg_0265_00125",
+      "de_DE": "{STRVAR_1 1, 0, 0} jault laut auf!"
+    },
+    {
+      "id": "msg_0265_00126",
+      "de_DE": "{STRVAR_1 1, 0, 0} gähnt ausgiebig."
+    },
+    {
+      "id": "msg_0265_00127",
+      "de_DE": "{STRVAR_1 1, 0, 0} starrt in die Tiefe..."
+    },
+    {
+      "id": "msg_0265_00128",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut in die\n",
+        "Ferne und erschaudert..."
+      ]
+    },
+    {
+      "id": "msg_0265_00129",
+      "de_DE": "{STRVAR_1 1, 0, 0} brüllt herausfordernd!"
+    },
+    {
+      "id": "msg_0265_00130",
+      "de_DE": "{STRVAR_1 1, 0, 0} spielt im Laub."
+    },
+    {
+      "id": "msg_0265_00131",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist völlig\n",
+        "fasziniert von einer Fallgrube."
+      ]
+    },
+    {
+      "id": "msg_0265_00132",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stupst dich\n",
+        "in den Magen."
+      ]
+    },
+    {
+      "id": "msg_0265_00133",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} läuft der\n",
+        "Schweiß übers Gesicht."
+      ]
+    },
+    {
+      "id": "msg_0265_00134",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erschrickt sich\n",
+        "vor seinem eigenen Schatten..."
+      ]
+    },
+    {
+      "id": "msg_0265_00135",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zuckt\n",
+        "urplötzlich zusammen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00136",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat neue\n",
+        "Energie geschöpft!"
+      ]
+    },
+    {
+      "id": "msg_0265_00137",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} bibbert\n",
+        "wie Laub im Wind."
+      ]
+    },
+    {
+      "id": "msg_0265_00138",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht zu, wie das\n",
+        "Wasser den Fluss hinunter strömt."
+      ]
+    },
+    {
+      "id": "msg_0265_00139",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stößt einen\n",
+        "Kampfschrei aus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00140",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lauscht dem Rumpeln\n",
+        "und Pumpeln der Maschine."
+      ]
+    },
+    {
+      "id": "msg_0265_00141",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kämpft mit seinem\n",
+        "Drang, die Maschine zu berühren."
+      ]
+    },
+    {
+      "id": "msg_0265_00142",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet\n",
+        "aufmerksam die Maschine."
+      ]
+    },
+    {
+      "id": "msg_0265_00143",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} funkelt deinen\n",
+        "Gegner giftig an!"
+      ]
+    },
+    {
+      "id": "msg_0265_00144",
+      "de_DE": "{STRVAR_1 1, 0, 0} bellt plötzlich los."
+    },
+    {
+      "id": "msg_0265_00145",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht Kunststückchen,\n",
+        "um deine Aufmerksamkeit zu erhaschen."
+      ]
+    },
+    {
+      "id": "msg_0265_00146",
+      "de_DE": "{STRVAR_1 1, 0, 0} brennt vor Interesse."
+    },
+    {
+      "id": "msg_0265_00147",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut\n",
+        "hektisch in alle Richtungen."
+      ]
+    },
+    {
+      "id": "msg_0265_00148",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verfolgt unruhig all die\n",
+        "verschiedenen Geräusche."
+      ]
+    },
+    {
+      "id": "msg_0265_00149",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wendet auf der Suche nach\n",
+        "etwas den Kopf nach links und rechts."
+      ]
+    },
+    {
+      "id": "msg_0265_00150",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} weiß nicht, wohin es\n",
+        "zuerst blicken soll."
+      ]
+    },
+    {
+      "id": "msg_0265_00151",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist völlig eingenommen\n",
+        "von der Waldlandschaft."
+      ]
+    },
+    {
+      "id": "msg_0265_00152",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} blickt umher und lauscht\n",
+        "dem Geräusch von fließendem Wasser."
+      ]
+    },
+    {
+      "id": "msg_0265_00153",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} inspiziert aufmerksam\n",
+        "die Umgebung."
+      ]
+    },
+    {
+      "id": "msg_0265_00154",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt\n",
+        "einen Baum an."
+      ]
+    },
+    {
+      "id": "msg_0265_00155",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt all seinen\n",
+        "Mut zusammen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00156",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist stocksteif\n",
+        "vor Nervosität."
+      ]
+    },
+    {
+      "id": "msg_0265_00157",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stupst spielerisch\n",
+        "nach den Gräsern."
+      ]
+    },
+    {
+      "id": "msg_0265_00158",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} mampft\n",
+        "genüsslich Gras."
+      ]
+    },
+    {
+      "id": "msg_0265_00159",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} reißt büschelweise\n",
+        "Gras aus und wirft damit um sich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00160",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} beäugt mit skeptischer\n",
+        "Miene den einsturzgefährdeten Boden."
+      ]
+    },
+    {
+      "id": "msg_0265_00161",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} beäugt mit skeptischer\n",
+        "Miene die bröckelige Decke."
+      ]
+    },
+    {
+      "id": "msg_0265_00162",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist damit beschäftigt,\n",
+        "seinen Kiefer vom Boden aufzusammeln."
+      ]
+    },
+    {
+      "id": "msg_0265_00163",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} knirscht\n",
+        "mit den Zähnen."
+      ]
+    },
+    {
+      "id": "msg_0265_00164",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} blickt sich um und\n",
+        "stößt einen Kampfschrei aus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00165",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt sein Bestes,\n",
+        "um mit dir mitzuhalten..."
+      ]
+    },
+    {
+      "id": "msg_0265_00166",
+      "de_DE": "{STRVAR_1 1, 0, 0} wirbelt herum!"
+    },
+    {
+      "id": "msg_0265_00167",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wittert die salzige\n",
+        "Brise, die vom Meer herüberweht."
+      ]
+    },
+    {
+      "id": "msg_0265_00168",
+      "de_DE": "{STRVAR_1 1, 0, 0} hält Wache."
+    },
+    {
+      "id": "msg_0265_00169",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} strotzt\n",
+        "vor Energie!"
+      ]
+    },
+    {
+      "id": "msg_0265_00170",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} winkt dir\n",
+        "fröhlich zu!"
+      ]
+    },
+    {
+      "id": "msg_0265_00171",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist gut gelaunt\n",
+        "und macht Luftsprünge!"
+      ]
+    },
+    {
+      "id": "msg_0265_00172",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spielt in der\n",
+        "Nähe des Eises herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00173",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hackt auf\n",
+        "dem Eis herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00174",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hackt auf dem Boden\n",
+        "herum - offensichtlich sucht es etwas."
+      ]
+    },
+    {
+      "id": "msg_0265_00175",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat dir sein Gesicht\n",
+        "zugewandt und starrt dich an."
+      ]
+    },
+    {
+      "id": "msg_0265_00176",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht zu dir herüber\n",
+        "und streckt die Zunge heraus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00177",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut zu dir\n",
+        "herüber und nickt dir zu."
+      ]
+    },
+    {
+      "id": "msg_0265_00178",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut zu, wie das Licht\n",
+        "durch die Baumkronen blitzt."
+      ]
+    },
+    {
+      "id": "msg_0265_00179",
+      "de_DE": "{STRVAR_1 1, 0, 0} knirscht."
+    },
+    {
+      "id": "msg_0265_00180",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kriegt es mit der Angst zu\n",
+        "tun und kuschelt sich an {STRVAR_1 3, 2, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0265_00181",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat Bammel und\n",
+        "schmiegt sich eng an dich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00182",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fühlt sich in der\n",
+        "beißenden Kälte wie zu Hause!"
+      ]
+    },
+    {
+      "id": "msg_0265_00183",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zieht ob der Kälte\n",
+        "ein missmutiges Gesicht..."
+      ]
+    },
+    {
+      "id": "msg_0265_00184",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} quiekt vor Glück\n",
+        "angesichts der Kälte."
+      ]
+    },
+    {
+      "id": "msg_0265_00185",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schrumpft ob\n",
+        "der Kälte in sich zusammen..."
+      ]
+    },
+    {
+      "id": "msg_0265_00186",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} genießt die\n",
+        "Meeresbrise!"
+      ]
+    },
+    {
+      "id": "msg_0265_00187",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} pocht beim Anblick\n",
+        "der Höhe das Herz!"
+      ]
+    },
+    {
+      "id": "msg_0265_00188",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} blickt nach unten\n",
+        "und bekommt einen Riesenschrecken!"
+      ]
+    },
+    {
+      "id": "msg_0265_00189",
+      "de_DE": [
+        "Die Flamme auf dem Schweif\n",
+        "von {STRVAR_1 1, 0, 0} zischt hell auf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00190",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt völlig\n",
+        "fasziniert auf das Fahrrad!"
+      ]
+    },
+    {
+      "id": "msg_0265_00191",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} studiert eingehend die\n",
+        "Fußspuren von {STRVAR_1 3, 2, 0}."
+      ]
+    },
+    {
+      "id": "msg_0265_00192",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet eingehend\n",
+        "sein eigenes Gesicht."
+      ]
+    },
+    {
+      "id": "msg_0265_00193",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt sein eigenes\n",
+        "Gesicht an."
+      ]
+    },
+    {
+      "id": "msg_0265_00194",
+      "de_DE": [
+        "Das nasskalte Klima behagt\n",
+        "{STRVAR_1 1, 0, 0} überhaupt nicht!"
+      ]
+    },
+    {
+      "id": "msg_0265_00195",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt eine\n",
+        "Witterung am Boden auf."
+      ]
+    },
+    {
+      "id": "msg_0265_00196",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} pickt beharrlich\n",
+        "auf dem Boden herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00197",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sitzt ganz still\n",
+        "und starrt nach unten."
+      ]
+    },
+    {
+      "id": "msg_0265_00198",
+      "de_DE": "{STRVAR_1 1, 0, 0} pickt auf dem Boden."
+    },
+    {
+      "id": "msg_0265_00199",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gräbt aus Lust und\n",
+        "Tollerei ein Loch in den Boden."
+      ]
+    },
+    {
+      "id": "msg_0265_00200",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} pickt beharrlich\n",
+        "auf dem Boden herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00201",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint tatsächlich\n",
+        "Aufwärmübungen zu veranstalten."
+      ]
+    },
+    {
+      "id": "msg_0265_00202",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} folgt dir behutsam\n",
+        "auf Schritt und Tritt."
+      ]
+    },
+    {
+      "id": "msg_0265_00203",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt vor lauter\n",
+        "Nervosität keinen Mucks von sich."
+      ]
+    },
+    {
+      "id": "msg_0265_00204",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist überglücklich!"
+    },
+    {
+      "id": "msg_0265_00205",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirkt\n",
+        "leicht nervös."
+      ]
+    },
+    {
+      "id": "msg_0265_00206",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint ein\n",
+        "wenig aufgeregt zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00207",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist kurz gestolpert und\n",
+        "nun etwas aus der Fassung."
+      ]
+    },
+    {
+      "id": "msg_0265_00208",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint ein\n",
+        "wenig aus der Puste zu sein."
+      ]
+    },
+    {
+      "id": "msg_0265_00209",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tut besonders elegant, um\n",
+        "deine Aufmerksamkeit zu erhaschen."
+      ]
+    },
+    {
+      "id": "msg_0265_00210",
+      "de_DE": [
+        "Irgendetwas scheint {STRVAR_1 1, 0, 0} \n",
+        "einen kleinen Schock versetzt zu haben."
+      ]
+    },
+    {
+      "id": "msg_0265_00211",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} rutscht aus und\n",
+        "schliddert in dich hinein."
+      ]
+    },
+    {
+      "id": "msg_0265_00212",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stinkt die Enge\n",
+        "ganz gewaltig!"
+      ]
+    },
+    {
+      "id": "msg_0265_00213",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist in der engen\n",
+        "Umgebung besonders wachsam!"
+      ]
+    },
+    {
+      "id": "msg_0265_00214",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist in Gedanken\n",
+        "an die Außenwelt versunken."
+      ]
+    },
+    {
+      "id": "msg_0265_00215",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhascht einen Blick\n",
+        "nach draußen und freut sich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00216",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kann es kaum erwarten,\n",
+        "hier rauszukommen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00217",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} vermisst die freie Natur\n",
+        "und schaut griesgrämig drein."
+      ]
+    },
+    {
+      "id": "msg_0265_00218",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut gen Himmel\n",
+        "und blinzelt."
+      ]
+    },
+    {
+      "id": "msg_0265_00219",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt den hohen\n",
+        "Berg ausgiebig auf sich wirken..."
+      ]
+    },
+    {
+      "id": "msg_0265_00220",
+      "de_DE": [
+        "Beim Anblick des hohen Bergs stößt\n",
+        "{STRVAR_1 1, 0, 0} einen lauten Schrei aus."
+      ]
+    },
+    {
+      "id": "msg_0265_00221",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint der\n",
+        "Wasserfall irgendwie zu beunruhigen."
+      ]
+    },
+    {
+      "id": "msg_0265_00222",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lauscht dem\n",
+        "Rauschen des Wasserfalls."
+      ]
+    },
+    {
+      "id": "msg_0265_00223",
+      "de_DE": [
+        "Es scheint, als höre {STRVAR_1 1, 0, 0} ein\n",
+        "Geräusch aus Richtung des Wasserfalls!"
+      ]
+    },
+    {
+      "id": "msg_0265_00224",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint im Wasserfall\n",
+        "irgendetwas entdeckt zu haben?!?"
+      ]
+    },
+    {
+      "id": "msg_0265_00225",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zappelt hin und her, um\n",
+        "deine Aufmerksamkeit zu erhaschen."
+      ]
+    },
+    {
+      "id": "msg_0265_00226",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spürt die Anwesenheit\n",
+        "von irgendetwas Außergewöhnlichem..."
+      ]
+    },
+    {
+      "id": "msg_0265_00227",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} atmet den Duft\n",
+        "der Strohmatten."
+      ]
+    },
+    {
+      "id": "msg_0265_00228",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lauscht den Geräuschen,\n",
+        "die aus dem Gebäude dringen."
+      ]
+    },
+    {
+      "id": "msg_0265_00229",
+      "de_DE": "{STRVAR_1 1, 0, 0} schaut zum Turm hinauf."
+    },
+    {
+      "id": "msg_0265_00230",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} grummelt leise\n",
+        "vor sich hin..."
+      ]
+    },
+    {
+      "id": "msg_0265_00231",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} buhlt mit aller\n",
+        "Kraft um deine Aufmerksamkeit!"
+      ]
+    },
+    {
+      "id": "msg_0265_00232",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint irgendwie\n",
+        "unglücklich zu sein..."
+      ]
+    },
+    {
+      "id": "msg_0265_00233",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat eine\n",
+        "leichte Nervosität gepackt."
+      ]
+    },
+    {
+      "id": "msg_0265_00234",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat ein wenig\n",
+        "Muffensausen."
+      ]
+    },
+    {
+      "id": "msg_0265_00235",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zuckt\n",
+        "ein wenig zusammen."
+      ]
+    },
+    {
+      "id": "msg_0265_00236",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint nicht recht\n",
+        "zu wissen, was es will..."
+      ]
+    },
+    {
+      "id": "msg_0265_00237",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fixiert völlig\n",
+        "fasziniert die Angel."
+      ]
+    },
+    {
+      "id": "msg_0265_00238",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnalzt\n",
+        "laut mit einer seiner Ranken!"
+      ]
+    },
+    {
+      "id": "msg_0265_00239",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt seine\n",
+        "Ranken tänzeln."
+      ]
+    },
+    {
+      "id": "msg_0265_00240",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} inspiziert die\n",
+        "Ausstellungsstücke."
+      ]
+    },
+    {
+      "id": "msg_0265_00241",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirft einen Blick\n",
+        "an die Decke und staunt nicht schlecht!"
+      ]
+    },
+    {
+      "id": "msg_0265_00242",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verrenkt den Hals und\n",
+        "legt sich dabei beinahe auf die Nase!"
+      ]
+    },
+    {
+      "id": "msg_0265_00243",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt\n",
+        "an die Decke."
+      ]
+    },
+    {
+      "id": "msg_0265_00244",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} bellt irgendetwas\n",
+        "in der Ferne an!"
+      ]
+    },
+    {
+      "id": "msg_0265_00245",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint\n",
+        "vor Hitze zu zerfließen..."
+      ]
+    },
+    {
+      "id": "msg_0265_00246",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} begrüßt\n",
+        "deine Mutter!"
+      ]
+    },
+    {
+      "id": "msg_0265_00247",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirkt\n",
+        "sehr glücklich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00248",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht so aus,\n",
+        "als sei ihm kalt."
+      ]
+    },
+    {
+      "id": "msg_0265_00249",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint jede\n",
+        "Menge Spaß zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00250",
+      "de_DE": "{STRVAR_1 1, 0, 0} tollt auf dem Sand umher."
+    },
+    {
+      "id": "msg_0265_00251",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verheddert sich beim\n",
+        "Herumtollen in einem langen Grashalm!"
+      ]
+    },
+    {
+      "id": "msg_0265_00252",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verheddert sich in einem\n",
+        "langen Grashalm und zappelt umher."
+      ]
+    },
+    {
+      "id": "msg_0265_00253",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wäre fast über einen\n",
+        "besonders langen Grashalm gestolpert."
+      ]
+    },
+    {
+      "id": "msg_0265_00254",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnappt nach dem\n",
+        "langen Gras."
+      ]
+    },
+    {
+      "id": "msg_0265_00255",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet in sich\n",
+        "gekehrt den Seegang."
+      ]
+    },
+    {
+      "id": "msg_0265_00256",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint vor\n",
+        "irgendetwas Angst zu haben..."
+      ]
+    },
+    {
+      "id": "msg_0265_00257",
+      "de_DE": [
+        "Irgendein Geräusch muss {STRVAR_1 1, 0, 0}\n",
+        "verschreckt haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00258",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spürt eine geheimnisvolle\n",
+        "Gegenwart und erstarrt vor Schreck!"
+      ]
+    },
+    {
+      "id": "msg_0265_00259",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spürt irgendetwas\n",
+        "Ungewöhnliches..."
+      ]
+    },
+    {
+      "id": "msg_0265_00260",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint eine\n",
+        "Entdeckung gemacht zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00261",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hockt ganz regungslos\n",
+        "da und lauscht dem Wellenbrausen."
+      ]
+    },
+    {
+      "id": "msg_0265_00262",
+      "de_DE": [
+        "Das Auf und Ab der Meereswogen scheint\n",
+        "{STRVAR_1 1, 0, 0} große Freude zu bereiten!"
+      ]
+    },
+    {
+      "id": "msg_0265_00263",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat wohl ein\n",
+        "verdächtiges Geräusch aufgeschnappt."
+      ]
+    },
+    {
+      "id": "msg_0265_00264",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint wirklich\n",
+        "bemerkenswert glücklich zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00265",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint wegen\n",
+        "irgendetwas verärgert zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00266",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint irgendetwas\n",
+        "aus der Ruhe zu bringen."
+      ]
+    },
+    {
+      "id": "msg_0265_00267",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint es\n",
+        "leicht zu frösteln..."
+      ]
+    },
+    {
+      "id": "msg_0265_00268",
+      "de_DE": [
+        "He! {STRVAR_1 1, 0, 0} scheint Spaß\n",
+        "an der Sache zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00269",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint ein\n",
+        "wenig schüchtern zu sein."
+      ]
+    },
+    {
+      "id": "msg_0265_00270",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint wie von einem\n",
+        "undefinierbaren Glücksgefühl erfüllt."
+      ]
+    },
+    {
+      "id": "msg_0265_00271",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat einen\n",
+        "verdächtigen Geruch entdeckt."
+      ]
+    },
+    {
+      "id": "msg_0265_00272",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut zu dir\n",
+        "herüber und lächelt dir zu."
+      ]
+    },
+    {
+      "id": "msg_0265_00273",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt es\n",
+        "heute langsam angehen."
+      ]
+    },
+    {
+      "id": "msg_0265_00274",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist wie geblendet\n",
+        "vom Glanz der Brücke."
+      ]
+    },
+    {
+      "id": "msg_0265_00275",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt mit den\n",
+        "Bewegungen der Säule."
+      ]
+    },
+    {
+      "id": "msg_0265_00276",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} will rennen\n",
+        "und bittet dich, schneller zu laufen."
+      ]
+    },
+    {
+      "id": "msg_0265_00277",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist scheu und\n",
+        "versteckt sich hinter dir."
+      ]
+    },
+    {
+      "id": "msg_0265_00278",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schämt sich in Grund und\n",
+        "Boden und nimmt Reißaus."
+      ]
+    },
+    {
+      "id": "msg_0265_00279",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} jagt gerade einem\n",
+        "Blatt hinterher."
+      ]
+    },
+    {
+      "id": "msg_0265_00280",
+      "de_DE": [
+        "Das Rauschen der Blätter\n",
+        "entspannt {STRVAR_1 1, 0, 0}."
+      ]
+    },
+    {
+      "id": "msg_0265_00281",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lauscht versunken\n",
+        "dem Rauschen der Blätter."
+      ]
+    },
+    {
+      "id": "msg_0265_00282",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spielt mit einem\n",
+        "Blatt herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00283",
+      "de_DE": [
+        "Das funkelt zu stark für {STRVAR_1 1, 0, 0}!\n",
+        "Es wendet blitzschnell den Blick ab!"
+      ]
+    },
+    {
+      "id": "msg_0265_00284",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt, dass\n",
+        "die Wassertropfen nur so spritzen."
+      ]
+    },
+    {
+      "id": "msg_0265_00285",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt, dass\n",
+        "die Wassertropfen nur so spritzen."
+      ]
+    },
+    {
+      "id": "msg_0265_00286",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hüpft herum, um möglichst\n",
+        "viel Aufmerksamkeit auf sich zu ziehen."
+      ]
+    },
+    {
+      "id": "msg_0265_00287",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hüpft wie ein Flummi\n",
+        "durch die Gegend!"
+      ]
+    },
+    {
+      "id": "msg_0265_00288",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirkt ängstlich und weicht\n",
+        "{STRVAR_1 3, 2, 0} nicht von der Seite."
+      ]
+    },
+    {
+      "id": "msg_0265_00289",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirft der Maschine\n",
+        "einen verdatterten Blick zu."
+      ]
+    },
+    {
+      "id": "msg_0265_00290",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} begrüßt\n",
+        "die Zwillinge."
+      ]
+    },
+    {
+      "id": "msg_0265_00291",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhebt beim Anblick\n",
+        "des Pärchens die Stimme."
+      ]
+    },
+    {
+      "id": "msg_0265_00292",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schwankt gemeinsam\n",
+        "mit dem Schiff hin und her."
+      ]
+    },
+    {
+      "id": "msg_0265_00293",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist schwindlig!"
+    },
+    {
+      "id": "msg_0265_00294",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zittert\n",
+        "am ganzen Leib."
+      ]
+    },
+    {
+      "id": "msg_0265_00295",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} unterzieht den Spring-\n",
+        "brunnen einer ausgiebigen Inspektion."
+      ]
+    },
+    {
+      "id": "msg_0265_00296",
+      "de_DE": [
+        "Der Anblick des Springbrunnens\n",
+        "scheint {STRVAR_1 1, 0, 0} sehr zu freuen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00297",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} funkelt die\n",
+        "SNOBILIKAT-Statue an."
+      ]
+    },
+    {
+      "id": "msg_0265_00298",
+      "de_DE": [
+        "Beim Anblick der SNOBILIKAT-Statue\n",
+        "gibt {STRVAR_1 1, 0, 0} ein Heulen von sich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00299",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verpufft eine\n",
+        "ordentliche Ladung Sporen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00300",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} atmet den\n",
+        "Duft der Wiese ein."
+      ]
+    },
+    {
+      "id": "msg_0265_00301",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} blickt schnurgeradeaus\n",
+        "in Richtung Pokémon Liga."
+      ]
+    },
+    {
+      "id": "msg_0265_00302",
+      "de_DE": "{STRVAR_1 1, 0, 0} spuckt Feuer!"
+    },
+    {
+      "id": "msg_0265_00303",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spuckt Feuer und\n",
+        "gibt einen Kampfschrei zum Besten!"
+      ]
+    },
+    {
+      "id": "msg_0265_00304",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} inspiziert den\n",
+        "bröckligen Boden."
+      ]
+    },
+    {
+      "id": "msg_0265_00305",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint die\n",
+        "Seefahrt Spaß zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00306",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist noch immer\n",
+        "äußerst energiegeladen."
+      ]
+    },
+    {
+      "id": "msg_0265_00307",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} möchte das\n",
+        "Schiff noch nicht verlassen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00308",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} freut sich jedes Mal, wenn\n",
+        "das Wasser an das Fenster schwappt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00309",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat die Orientierung\n",
+        "verloren und irrt verwirrt umher."
+      ]
+    },
+    {
+      "id": "msg_0265_00310",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lauscht vorsichtig\n",
+        "den Geräuschen der Umgebung."
+      ]
+    },
+    {
+      "id": "msg_0265_00311",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt seinen Blick gehetzt\n",
+        "in alle Richtungen schweifen."
+      ]
+    },
+    {
+      "id": "msg_0265_00312",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt leicht\n",
+        "rammdösig um sich."
+      ]
+    },
+    {
+      "id": "msg_0265_00313",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} atmet den\n",
+        "markanten Geruch des Sees ein."
+      ]
+    },
+    {
+      "id": "msg_0265_00314",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird von einem Wasser-\n",
+        "tropfen getroffen und erschreckt sich."
+      ]
+    },
+    {
+      "id": "msg_0265_00315",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} planscht gerade\n",
+        "in einer Pfütze."
+      ]
+    },
+    {
+      "id": "msg_0265_00316",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hätte sich auf dem nassen\n",
+        "Boden fast auf die Nase gelegt."
+      ]
+    },
+    {
+      "id": "msg_0265_00317",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spuckt eine\n",
+        "Wasserfontäne in die Luft."
+      ]
+    },
+    {
+      "id": "msg_0265_00318",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zuckt mit den Ohren und\n",
+        "lauscht dem Säuseln des Windes."
+      ]
+    },
+    {
+      "id": "msg_0265_00319",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} begrüßt\n",
+        "alle Anwesenden!"
+      ]
+    },
+    {
+      "id": "msg_0265_00320",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint Strohhüte\n",
+        "äußerst faszinierend zu finden!"
+      ]
+    },
+    {
+      "id": "msg_0265_00321",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut mit\n",
+        "scharfem Blick."
+      ]
+    },
+    {
+      "id": "msg_0265_00322",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut zu Boden\n",
+        "und ist vollkommen ruhig..."
+      ]
+    },
+    {
+      "id": "msg_0265_00323",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} klammert\n",
+        "{STRVAR_1 8, 4, 0} fest an sich."
+      ]
+    },
+    {
+      "id": "msg_0265_00324",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält {STRVAR_1 8, 4, 0} und\n",
+        "ist völlig fasziniert davon."
+      ]
+    },
+    {
+      "id": "msg_0265_00325",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält {STRVAR_1 8, 4, 0} und\n",
+        "inspiziert das Item eingehend."
+      ]
+    },
+    {
+      "id": "msg_0265_00326",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt beim Anblick der\n",
+        "Bildschirme einen schrillen Schrei los."
+      ]
+    },
+    {
+      "id": "msg_0265_00327",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht sich verwundert\n",
+        "im Waldesinneren um."
+      ]
+    },
+    {
+      "id": "msg_0265_00328",
+      "de_DE": [
+        "Die Verbrennungen von {STRVAR_1 1, 0, 0}\n",
+        "sehen ziemlich schmerzhaft aus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00329",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint beim Berg\n",
+        "irgendetwas aufgestöbert zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00330",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint beim Berg\n",
+        "irgendetwas aufgestöbert zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00331",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} steht stocksteif\n",
+        "und starrt den Berg hinauf."
+      ]
+    },
+    {
+      "id": "msg_0265_00332",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} steht stocksteif\n",
+        "und starrt den Berg hinauf."
+      ]
+    },
+    {
+      "id": "msg_0265_00333",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint der Anblick\n",
+        "des Bergs große Freude zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00334",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist hochmotiviert!"
+    },
+    {
+      "id": "msg_0265_00335",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist \n",
+        "Feuer und Flamme!"
+      ]
+    },
+    {
+      "id": "msg_0265_00336",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gleitet\n",
+        "elegant durch die Lüfte!"
+      ]
+    },
+    {
+      "id": "msg_0265_00337",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} bestaunt den\n",
+        "rot getünchten Himmel..."
+      ]
+    },
+    {
+      "id": "msg_0265_00338",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} rollt auf dem\n",
+        "Boden herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00339",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist ausgerutscht\n",
+        "und kugelt durch die Gegend."
+      ]
+    },
+    {
+      "id": "msg_0265_00340",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat das Knarzen\n",
+        "des Bodens erschreckt."
+      ]
+    },
+    {
+      "id": "msg_0265_00341",
+      "de_DE": "{STRVAR_1 1, 0, 0} beschnüffelt den Boden."
+    },
+    {
+      "id": "msg_0265_00342",
+      "de_DE": "{STRVAR_1 1, 0, 0} beschnüffelt den Boden."
+    },
+    {
+      "id": "msg_0265_00343",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wendet dir\n",
+        "gemächlich seinen Blick zu."
+      ]
+    },
+    {
+      "id": "msg_0265_00344",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt gerade einfach\n",
+        "mal die Seele baumeln."
+      ]
+    },
+    {
+      "id": "msg_0265_00345",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schwankt hin und her und\n",
+        "sieht aus, als würde es gleich umfallen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00346",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirft der schwankenden\n",
+        "Säule einen skeptischen Blick zu."
+      ]
+    },
+    {
+      "id": "msg_0265_00347",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt im Einklang\n",
+        "mit dem Schwanken des Schiffes!"
+      ]
+    },
+    {
+      "id": "msg_0265_00348",
+      "de_DE": "{STRVAR_1 1, 0, 0} bestaunt den Nachthimmel."
+    },
+    {
+      "id": "msg_0265_00349",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt sich\n",
+        "nicht aus der Ruhe bringen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00350",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gähnt lange\n",
+        "und ausgiebig."
+      ]
+    },
+    {
+      "id": "msg_0265_00351",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} weicht {STRVAR_1 3, 2, 0}\n",
+        "nicht von der Seite!"
+      ]
+    },
+    {
+      "id": "msg_0265_00352",
+      "de_DE": "{STRVAR_1 1, 0, 0} rempelt {STRVAR_1 3, 2, 0} an!"
+    },
+    {
+      "id": "msg_0265_00353",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet das Gesicht\n",
+        "von {STRVAR_1 3, 2, 0}."
+      ]
+    },
+    {
+      "id": "msg_0265_00354",
+      "de_DE": "{STRVAR_1 1, 0, 0} begrüßt dich!"
+    },
+    {
+      "id": "msg_0265_00355",
+      "de_DE": "{STRVAR_1 1, 0, 0} stupst deine Füße."
+    },
+    {
+      "id": "msg_0265_00356",
+      "de_DE": "{STRVAR_1 1, 0, 0} hält Wache."
+    },
+    {
+      "id": "msg_0265_00357",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wäre fast\n",
+        "vornüber gekippt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00358",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt ein\n",
+        "Flämmchen zum Besten."
+      ]
+    },
+    {
+      "id": "msg_0265_00359",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist immer noch\n",
+        "kurz vorm Umkippen."
+      ]
+    },
+    {
+      "id": "msg_0265_00360",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich vor\n",
+        "seinem Spiegelbild erschreckt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00361",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trällert\n",
+        "fröhlich ein Liedchen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00362",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist ganz\n",
+        "verlegen vor Freude."
+      ]
+    },
+    {
+      "id": "msg_0265_00363",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gähnt\n",
+        "genüsslich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00364",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trommelt auf\n",
+        "seinem Bauch."
+      ]
+    },
+    {
+      "id": "msg_0265_00365",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt regungslos \n",
+        "ins Gesicht von {STRVAR_1 3, 2, 0}."
+      ]
+    },
+    {
+      "id": "msg_0265_00366",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} begrüßt das\n",
+        "PORENTA."
+      ]
+    },
+    {
+      "id": "msg_0265_00367",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} reckt sich genüsslich\n",
+        "der Brise entgegen."
+      ]
+    },
+    {
+      "id": "msg_0265_00368",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kriegt sich kaum ein\n",
+        "beim Anblick so vieler hoher Häuser."
+      ]
+    },
+    {
+      "id": "msg_0265_00369",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zieht den Duft\n",
+        "der Gräser tief in seine Nase."
+      ]
+    },
+    {
+      "id": "msg_0265_00370",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} entdeckt einen Kiesel im\n",
+        "Gras und freut sich über seinen Fund!"
+      ]
+    },
+    {
+      "id": "msg_0265_00371",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verkriecht sich im\n",
+        "Dickicht vor dem Regen."
+      ]
+    },
+    {
+      "id": "msg_0265_00372",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} rollt genüsslich\n",
+        "im hohen Gras herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00373",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} planscht im\n",
+        "hohen Gras herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00374",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint sich\n",
+        "im Dickicht verheddert zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00375",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schreckt durch\n",
+        "ein Geräusch aus dem Dickicht auf."
+      ]
+    },
+    {
+      "id": "msg_0265_00376",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt die Gerüche\n",
+        "des Dickichts in sich auf."
+      ]
+    },
+    {
+      "id": "msg_0265_00377",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt stocksteif\n",
+        "auf das hohe Gras."
+      ]
+    },
+    {
+      "id": "msg_0265_00378",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trampelt das\n",
+        "hohe Gras nieder!"
+      ]
+    },
+    {
+      "id": "msg_0265_00379",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} rupft büschelweise\n",
+        "Gräser aus."
+      ]
+    },
+    {
+      "id": "msg_0265_00380",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} klappt seinen\n",
+        "Mund auf und zu, auf und zu..."
+      ]
+    },
+    {
+      "id": "msg_0265_00381",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat seinen Mund\n",
+        "zu einer dünnen Linie verkrampft."
+      ]
+    },
+    {
+      "id": "msg_0265_00382",
+      "de_DE": "{STRVAR_1 1, 0, 0} kaut Luft."
+    },
+    {
+      "id": "msg_0265_00383",
+      "de_DE": "{STRVAR_1 1, 0, 0} begrüßt DJ Margit!"
+    },
+    {
+      "id": "msg_0265_00384",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erschnüffelt all die\n",
+        "neuen Gerüche des Zimmers."
+      ]
+    },
+    {
+      "id": "msg_0265_00385",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zuckelt gut\n",
+        "gelaunt hinter dir her!"
+      ]
+    },
+    {
+      "id": "msg_0265_00386",
+      "de_DE": "{STRVAR_1 1, 0, 0} b-b-bibbert vor Kälte!"
+    },
+    {
+      "id": "msg_0265_00387",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} steht wie angewurzelt\n",
+        "da und blickt nach unten."
+      ]
+    },
+    {
+      "id": "msg_0265_00388",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint ein\n",
+        "klein wenig Bammel zu haben..."
+      ]
+    },
+    {
+      "id": "msg_0265_00389",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist ausgerutscht und\n",
+        "hat sich noch gerade so abgefangen."
+      ]
+    },
+    {
+      "id": "msg_0265_00390",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint das\n",
+        "Herumschliddern Spaß zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00391",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} späht nach draußen und\n",
+        "ist ausgelassen vor Freude!"
+      ]
+    },
+    {
+      "id": "msg_0265_00392",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sitzt regungslos da\n",
+        "und starrt gen Himmel."
+      ]
+    },
+    {
+      "id": "msg_0265_00393",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hebt den\n",
+        "Blick zum Himmel."
+      ]
+    },
+    {
+      "id": "msg_0265_00394",
+      "de_DE": "{STRVAR_1 1, 0, 0} blickt in weite Ferne..."
+    },
+    {
+      "id": "msg_0265_00395",
+      "de_DE": [
+        "Die Auswirkungen des Gifts\n",
+        "lassen {STRVAR_1 1, 0, 0} erschaudern..."
+      ]
+    },
+    {
+      "id": "msg_0265_00396",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schwebt auf\n",
+        "Wolke Sieben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00397",
+      "de_DE": "{STRVAR_1 1, 0, 0} springt in die Höhe!"
+    },
+    {
+      "id": "msg_0265_00398",
+      "de_DE": "{STRVAR_1 1, 0, 0} wittert irgendetwas..."
+    },
+    {
+      "id": "msg_0265_00399",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spürt irgendetwas\n",
+        "und jault laut los!"
+      ]
+    },
+    {
+      "id": "msg_0265_00400",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut Löcher\n",
+        "in die Luft."
+      ]
+    },
+    {
+      "id": "msg_0265_00401",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält mit Ach und\n",
+        "Krach Schritt mit dir."
+      ]
+    },
+    {
+      "id": "msg_0265_00402",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ringt mit mäßigem\n",
+        "Erfolg mit dem Schlaf..."
+      ]
+    },
+    {
+      "id": "msg_0265_00403",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist so müde,\n",
+        "dass es bei jeder Pause einnickt..."
+      ]
+    },
+    {
+      "id": "msg_0265_00404",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut schon\n",
+        "ganz müde..."
+      ]
+    },
+    {
+      "id": "msg_0265_00405",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt völlig\n",
+        "hingerissen durch die Gegend!"
+      ]
+    },
+    {
+      "id": "msg_0265_00406",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt sein Blatt\n",
+        "auf und ab wackeln."
+      ]
+    },
+    {
+      "id": "msg_0265_00407",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kräuselt seine\n",
+        "Blätter."
+      ]
+    },
+    {
+      "id": "msg_0265_00408",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt sein Blatt durch\n",
+        "die Luft sausen, dass es laut zischt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00409",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fordert \n",
+        "MARILL zum Spielen auf."
+      ]
+    },
+    {
+      "id": "msg_0265_00410",
+      "de_DE": [
+        "FUMM! {STRVAR_1 1, 0, 0} rülpst ein\n",
+        "kleines Feuerbällchen."
+      ]
+    },
+    {
+      "id": "msg_0265_00411",
+      "de_DE": [
+        "FUFUMM! {STRVAR_1 1, 0, 0} lässt eine\n",
+        "Salve Feuerbällchen fahren."
+      ]
+    },
+    {
+      "id": "msg_0265_00412",
+      "de_DE": [
+        "FOMP! {STRVAR_1 1, 0, 0} entweicht ein\n",
+        "kleines Feuerchen."
+      ]
+    },
+    {
+      "id": "msg_0265_00413",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} streckt seine Gliedmaßen\n",
+        "aus, um die Maschine zu berühren."
+      ]
+    },
+    {
+      "id": "msg_0265_00414",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint Mitgefühl\n",
+        "mit deiner Mutter zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00415",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} planscht in\n",
+        "einer Pfütze herum!"
+      ]
+    },
+    {
+      "id": "msg_0265_00416",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet sein\n",
+        "Spiegelbild im Wasser..."
+      ]
+    },
+    {
+      "id": "msg_0265_00417",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gestikuliert ein\n",
+        "Hallo in die Runde!"
+      ]
+    },
+    {
+      "id": "msg_0265_00418",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} geniert sich\n",
+        "vor den Leuten..."
+      ]
+    },
+    {
+      "id": "msg_0265_00419",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} macht einen\n",
+        "äußerst eifrigen Eindruck!"
+      ]
+    },
+    {
+      "id": "msg_0265_00420",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt sich\n",
+        "nicht aus der Ruhe bringen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00421",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint wohl gedacht zu\n",
+        "haben, {STRVAR_1 3, 2, 0} sei nicht mehr da."
+      ]
+    },
+    {
+      "id": "msg_0265_00422",
+      "de_DE": [
+        "...\n",
+        "Es niest einmal heftig."
+      ]
+    },
+    {
+      "id": "msg_0265_00423",
+      "de_DE": [
+        "...Seine Schuhe könnten\n",
+        "eine Politur gebrauchen."
+      ]
+    },
+    {
+      "id": "msg_0265_00424",
+      "de_DE": [
+        "...\n",
+        "Ihm fröstelt ein wenig."
+      ]
+    },
+    {
+      "id": "msg_0265_00425",
+      "de_DE": [
+        "...\n",
+        "Es hat etwas Seltsames gegessen.\f",
+        "Es zieht ein saures Gesicht..."
+      ]
+    },
+    {
+      "id": "msg_0265_00426",
+      "de_DE": [
+        "...\n",
+        "Es hat sich vor etwas erschreckt."
+      ]
+    },
+    {
+      "id": "msg_0265_00427",
+      "de_DE": [
+        "...\n",
+        "Es fürchtet sich vor etwas."
+      ]
+    },
+    {
+      "id": "msg_0265_00428",
+      "de_DE": [
+        "...\n",
+        "Irgendetwas scheint da gut zu riechen."
+      ]
+    },
+    {
+      "id": "msg_0265_00429",
+      "de_DE": [
+        "...\n",
+        "Betrachtet den rot getünchten Himmel."
+      ]
+    },
+    {
+      "id": "msg_0265_00430",
+      "de_DE": [
+        "...\n",
+        "Es sieht den Booten beim Schaukeln zu."
+      ]
+    },
+    {
+      "id": "msg_0265_00431",
+      "de_DE": [
+        "...He!\n",
+        "Es spielt an den Regalen herum!\f",
+        "Schimpfst du mit ihm?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00432",
+      "de_DE": [
+        "...He!\n",
+        "Es albert mit einem Item herum!\f",
+        "Schimpfst du mit ihm?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00433",
+      "de_DE": [
+        "...\n",
+        "Es funkelt dich düster an."
+      ]
+    },
+    {
+      "id": "msg_0265_00434",
+      "de_DE": [
+        "...\n",
+        "Es schaut überrascht - gleich kippt\f",
+        "das Regal vornüber!"
+      ]
+    },
+    {
+      "id": "msg_0265_00435",
+      "de_DE": [
+        "...\n",
+        "Es hat die Regale total verwüstet."
+      ]
+    },
+    {
+      "id": "msg_0265_00436",
+      "de_DE": [
+        "...\n",
+        "Es wendet seinen Blick ab."
+      ]
+    },
+    {
+      "id": "msg_0265_00437",
+      "de_DE": [
+        "...\n",
+        "So sehr du auch rufst, es kommt nicht."
+      ]
+    },
+    {
+      "id": "msg_0265_00438",
+      "de_DE": [
+        "He! {STRVAR_1 1, 0, 0} kaut auf einem\n",
+        "Papierschnipsel herum!\f",
+        "Bist du böse mit ihm?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00439",
+      "de_DE": [
+        "Oh! {STRVAR_1 1, 0, 0} knabbert an\n",
+        "einem Stromkabel herum!\f",
+        "Schimpfst du mit ihm?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00440",
+      "de_DE": [
+        "Oh! {STRVAR_1 1, 0, 0} spielt an irgendeinem\n",
+        "Schalter herum!\f",
+        "Willst du es aufhalten?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00441",
+      "de_DE": [
+        "Hoppla!\n",
+        "Es rutscht und hält sich an dir fest."
+      ]
+    },
+    {
+      "id": "msg_0265_00442",
+      "de_DE": [
+        "He da!\n",
+        "Es will von deinem Essen naschen!\f",
+        "Schimpfst du mit ihm?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00443",
+      "de_DE": [
+        "Oh!\n",
+        "Es hat irgendetwas verschluckt!\f",
+        "Öffnest du sein Maul?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00444",
+      "de_DE": [
+        "Oh!\n",
+        "Dein Beutel ist ein wenig schmutzig."
+      ]
+    },
+    {
+      "id": "msg_0265_00445",
+      "de_DE": [
+        "Oh!\n",
+        "Dir klebt ein Blatt am Ärmel!"
+      ]
+    },
+    {
+      "id": "msg_0265_00446",
+      "de_DE": [
+        "Es betrachtet glückserfüllt\n",
+        "die Morgensonne!"
+      ]
+    },
+    {
+      "id": "msg_0265_00447",
+      "de_DE": [
+        "Es tollt im Sand herum\n",
+        "und schmeißt ihn in die Luft!"
+      ]
+    },
+    {
+      "id": "msg_0265_00448",
+      "de_DE": [
+        "Die Fußabdrücke von {STRVAR_1 3, 2, 0}\n",
+        "scheinen ihm große Freude zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00449",
+      "de_DE": [
+        "Die Fußabdrücke von {STRVAR_1 3, 2, 0}\n",
+        "scheinen ihm große Freude zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00450",
+      "de_DE": [
+        "Ihm behagt der klatschnasse\n",
+        "Boden überhaupt nicht!"
+      ]
+    },
+    {
+      "id": "msg_0265_00451",
+      "de_DE": [
+        "Auf dem klatschnassen Boden\n",
+        "fühlt es sich wie zu Hause!"
+      ]
+    },
+    {
+      "id": "msg_0265_00452",
+      "de_DE": [
+        "Die Hitze hat seine\n",
+        "Lebensgeister geweckt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00453",
+      "de_DE": [
+        "Es zieht ob der Hitze ein\n",
+        "missmutiges Gesicht..."
+      ]
+    },
+    {
+      "id": "msg_0265_00454",
+      "de_DE": [
+        "Vorsicht!\n",
+        "Fast wäre es hinuntergepurzelt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00455",
+      "de_DE": [
+        "Das war knapp!\n",
+        "Beinahe wäre der Boden weggebrochen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00456",
+      "de_DE": [
+        "Es wäre beinahe ausgerutscht\n",
+        "und hingefallen."
+      ]
+    },
+    {
+      "id": "msg_0265_00457",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schmiegt sich\n",
+        "ganz fest an dich."
+      ]
+    },
+    {
+      "id": "msg_0265_00458",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} dreht sich\n",
+        "wie ein Brummkreisel."
+      ]
+    },
+    {
+      "id": "msg_0265_00459",
+      "de_DE": [
+        "Es freut sich über\n",
+        "das schöne Wetter!"
+      ]
+    },
+    {
+      "id": "msg_0265_00460",
+      "de_DE": [
+        "Sniff, sniff!\n",
+        "Da riecht aber etwas gut!"
+      ]
+    },
+    {
+      "id": "msg_0265_00461",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} jault\n",
+        "urplötzlich auf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00462",
+      "de_DE": [
+        "Zuckt zusammen, als du\n",
+        "es unvermutet ansprichst."
+      ]
+    },
+    {
+      "id": "msg_0265_00463",
+      "de_DE": [
+        "Es begrüßt Erdbeere\n",
+        "mit großem Hallo!"
+      ]
+    },
+    {
+      "id": "msg_0265_00464",
+      "de_DE": "Ihr tanzt zusammen!"
+    },
+    {
+      "id": "msg_0265_00465",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sträubt sich\n",
+        "und faucht verärgert!"
+      ]
+    },
+    {
+      "id": "msg_0265_00466",
+      "de_DE": [
+        "Erstaunt bewundert\n",
+        "es all die verschiedenen Items."
+      ]
+    },
+    {
+      "id": "msg_0265_00467",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gräbt sich\n",
+        "freudig in die Erde ein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00468",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} reibt\n",
+        "Steine aneinander."
+      ]
+    },
+    {
+      "id": "msg_0265_00469",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spielt, indem es\n",
+        "Steine aufeinanderschlägt."
+      ]
+    },
+    {
+      "id": "msg_0265_00470",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kugelt verspielt\n",
+        "durch die Gegend!"
+      ]
+    },
+    {
+      "id": "msg_0265_00471",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} planiert mit\n",
+        "mächtigen Schlägen den Boden!"
+      ]
+    },
+    {
+      "id": "msg_0265_00472",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wabert komisch hin\n",
+        "und her - soll das ein Tanz sein?"
+      ]
+    },
+    {
+      "id": "msg_0265_00473",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tut ein paar seltsam\n",
+        "wabernde Tanzschritte."
+      ]
+    },
+    {
+      "id": "msg_0265_00474",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} führt seltsame Schlangen-\n",
+        "bewegungen auf. Vielleicht ein Tanz?"
+      ]
+    },
+    {
+      "id": "msg_0265_00475",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt einen eigenartigen,\n",
+        "schlängelnden Tanz."
+      ]
+    },
+    {
+      "id": "msg_0265_00476",
+      "de_DE": "Andächtig sieht es aufs Meer hinaus."
+    },
+    {
+      "id": "msg_0265_00477",
+      "de_DE": "Es murmelt zufrieden vor sich hin."
+    },
+    {
+      "id": "msg_0265_00478",
+      "de_DE": "Es gähnt einmal ausgiebig!"
+    },
+    {
+      "id": "msg_0265_00479",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brüllt so laut, dass\n",
+        "der ganze Turm ins Schwingen gerät!"
+      ]
+    },
+    {
+      "id": "msg_0265_00480",
+      "de_DE": "{STRVAR_1 1, 0, 0} jault laut auf!"
+    },
+    {
+      "id": "msg_0265_00481",
+      "de_DE": [
+        "Es scheint, als käme die\n",
+        "Brise aus dem Inneren."
+      ]
+    },
+    {
+      "id": "msg_0265_00482",
+      "de_DE": "Frohen Muts betrachtet es den Tanz!"
+    },
+    {
+      "id": "msg_0265_00483",
+      "de_DE": "Überwältigt beäugt es die Souvenirs."
+    },
+    {
+      "id": "msg_0265_00484",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist eifrig\n",
+        "bei der Sache!"
+      ]
+    },
+    {
+      "id": "msg_0265_00485",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schwenkt glücklich\n",
+        "{STRVAR_1 8, 4, 0} und singt dazu!"
+      ]
+    },
+    {
+      "id": "msg_0265_00486",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt fröhlich\n",
+        "im Kreis!"
+      ]
+    },
+    {
+      "id": "msg_0265_00487",
+      "de_DE": [
+        "Streckt sich lang\n",
+        "und macht ein Päuschen."
+      ]
+    },
+    {
+      "id": "msg_0265_00488",
+      "de_DE": [
+        "Es ist von einer\n",
+        "wohligen Müdigkeit erfüllt."
+      ]
+    },
+    {
+      "id": "msg_0265_00489",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat einen lauten\n",
+        "Kampfschrei losgelassen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00490",
+      "de_DE": [
+        "Es schaut sich gehetzt um und\n",
+        "scheint irgendetwas zu suchen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00491",
+      "de_DE": [
+        "Es durchsucht aufgeregt\n",
+        "die Regale."
+      ]
+    },
+    {
+      "id": "msg_0265_00492",
+      "de_DE": [
+        "Es scheint die Windräder\n",
+        "zu beobachten."
+      ]
+    },
+    {
+      "id": "msg_0265_00493",
+      "de_DE": "Es schnüffelt den Rauchgeruch."
+    },
+    {
+      "id": "msg_0265_00494",
+      "de_DE": "Es beschnüffelt die Blumen."
+    },
+    {
+      "id": "msg_0265_00495",
+      "de_DE": "Es beschnüffelt den Boden."
+    },
+    {
+      "id": "msg_0265_00496",
+      "de_DE": [
+        "Sniff, sniff!\n",
+        "Da ist irgendetwas in der Nähe!"
+      ]
+    },
+    {
+      "id": "msg_0265_00497",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnüffelt an\n",
+        "den Füßen des Mädchens herum."
+      ]
+    },
+    {
+      "id": "msg_0265_00498",
+      "de_DE": [
+        "Sniff, sniff!\n",
+        "Irgendwas hier riecht vorzüglich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00499",
+      "de_DE": [
+        "Sniff, sniff. Es saugt den Duft\n",
+        "der Blumen ein."
+      ]
+    },
+    {
+      "id": "msg_0265_00500",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} begrüßt\n",
+        "dich hocherfreut!"
+      ]
+    },
+    {
+      "id": "msg_0265_00501",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} springt noch frenetischer\n",
+        "umher, als es sonst der Fall ist!"
+      ]
+    },
+    {
+      "id": "msg_0265_00502",
+      "de_DE": [
+        "Das kalte Gefühl des Eises scheint\n",
+        "es verschreckt zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00503",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht beharrlich,\n",
+        "seinen Gegner niederzustarren!"
+      ]
+    },
+    {
+      "id": "msg_0265_00504",
+      "de_DE": [
+        "Es starrt\n",
+        "hochkonzentriert auf die Tafel...\f",
+        "Aber es versteht nur Bahnhof."
+      ]
+    },
+    {
+      "id": "msg_0265_00505",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spielt mit einem\n",
+        "Stück Abfall."
+      ]
+    },
+    {
+      "id": "msg_0265_00506",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist neugierig darauf, was\n",
+        "auf der anderen Seite des Zauns los ist."
+      ]
+    },
+    {
+      "id": "msg_0265_00507",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint die Kälte\n",
+        "außerordentlich zu behagen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00508",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint es zu frösteln.\n",
+        "Es schmiegt sich an dich."
+      ]
+    },
+    {
+      "id": "msg_0265_00509",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint es zu frösteln.\n",
+        "Es sucht deine Nähe."
+      ]
+    },
+    {
+      "id": "msg_0265_00510",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht, das\n",
+        "Regal niederzustarren."
+      ]
+    },
+    {
+      "id": "msg_0265_00511",
+      "de_DE": [
+        "Es will unbedingt wissen,\n",
+        "was im Zimmer darunter los ist."
+      ]
+    },
+    {
+      "id": "msg_0265_00512",
+      "de_DE": "Es bewegt keinen Muskel."
+    },
+    {
+      "id": "msg_0265_00513",
+      "de_DE": [
+        "Es spielt gerade\n",
+        "mit einer Fahrradschraube."
+      ]
+    },
+    {
+      "id": "msg_0265_00514",
+      "de_DE": [
+        "Ist pitschnass und findet das\n",
+        "auch noch prima!"
+      ]
+    },
+    {
+      "id": "msg_0265_00515",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist pitschnass\n",
+        "und gar nicht davon angetan..."
+      ]
+    },
+    {
+      "id": "msg_0265_00516",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brüllt so laut, dass\n",
+        "der ganze Turm ins Schwingen gerät!"
+      ]
+    },
+    {
+      "id": "msg_0265_00517",
+      "de_DE": "{STRVAR_1 1, 0, 0} jault laut auf!"
+    },
+    {
+      "id": "msg_0265_00518",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt eine vollendete\n",
+        "Tanzeinlage zum Besten!"
+      ]
+    },
+    {
+      "id": "msg_0265_00519",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} freut sich\n",
+        "ein Loch in den Bauch!"
+      ]
+    },
+    {
+      "id": "msg_0265_00520",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} führt einen\n",
+        "hübschen Tanz auf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00521",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt\n",
+        "vor Freude!"
+      ]
+    },
+    {
+      "id": "msg_0265_00522",
+      "de_DE": [
+        "Es hat draußen etwas\n",
+        "entdeckt und freut sich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00523",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zieht ein brummiges\n",
+        "Gesicht."
+      ]
+    },
+    {
+      "id": "msg_0265_00524",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat der Temperatursturz\n",
+        "in beste Laune versetzt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00525",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut ein\n",
+        "wenig irritiert aus der Wäsche."
+      ]
+    },
+    {
+      "id": "msg_0265_00526",
+      "de_DE": [
+        "Ihm klebt ein wenig\n",
+        "Sabber am Mundwinkel..."
+      ]
+    },
+    {
+      "id": "msg_0265_00527",
+      "de_DE": "Fast wäre es hingeplumpst!"
+    },
+    {
+      "id": "msg_0265_00528",
+      "de_DE": [
+        "Es hat Spaß dabei,\n",
+        "hin- und herzurutschen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00529",
+      "de_DE": [
+        "Es stupst dich beharrlich\n",
+        "in die Seite."
+      ]
+    },
+    {
+      "id": "msg_0265_00530",
+      "de_DE": [
+        "Streckt sich lang\n",
+        "und macht ein Päuschen."
+      ]
+    },
+    {
+      "id": "msg_0265_00531",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gräbt genüsslich im\n",
+        "Boden, dass die Erde nur so fliegt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00532",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kratzt heftig tiefe\n",
+        "Furchen in den Erdboden."
+      ]
+    },
+    {
+      "id": "msg_0265_00533",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist einfach\n",
+        "nur richtig glücklich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00534",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat den Blick\n",
+        "starr in weite Ferne gerichtet."
+      ]
+    },
+    {
+      "id": "msg_0265_00535",
+      "de_DE": "{STRVAR_1 1, 0, 0} bellt plötzlich los."
+    },
+    {
+      "id": "msg_0265_00536",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist völlig\n",
+        "aus dem Häuschen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00537",
+      "de_DE": [
+        "Täuschst du dich, oder \n",
+        "singt es gerade vor sich hin?"
+      ]
+    },
+    {
+      "id": "msg_0265_00538",
+      "de_DE": "Da plätschert doch etwas?"
+    },
+    {
+      "id": "msg_0265_00539",
+      "de_DE": [
+        "Sein ganzer Körper ist angespannt.\n",
+        "Es scheint irgendetwas zu wittern..."
+      ]
+    },
+    {
+      "id": "msg_0265_00540",
+      "de_DE": [
+        "Es scheint etwas\n",
+        "entdeckt zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00541",
+      "de_DE": [
+        "Es starrt gespannt auf eine Stelle\n",
+        "...aber da ist gar nichts."
+      ]
+    },
+    {
+      "id": "msg_0265_00542",
+      "de_DE": "Es sieht irgendwie unglücklich aus."
+    },
+    {
+      "id": "msg_0265_00543",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} springt vor\n",
+        "Freude an die Decke!"
+      ]
+    },
+    {
+      "id": "msg_0265_00544",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt vor lauter\n",
+        "Lebensfreude."
+      ]
+    },
+    {
+      "id": "msg_0265_00545",
+      "de_DE": [
+        "Es ist wegen irgendetwas\n",
+        "stinksauer!"
+      ]
+    },
+    {
+      "id": "msg_0265_00546",
+      "de_DE": [
+        "Seine Nase zittert... was riecht\n",
+        "denn da so gut?"
+      ]
+    },
+    {
+      "id": "msg_0265_00547",
+      "de_DE": [
+        "Täuscht es sich, oder gibt\n",
+        "die Wand Geräusche von sich?"
+      ]
+    },
+    {
+      "id": "msg_0265_00548",
+      "de_DE": "Ein eisiger Windhauch erfasst euch!"
+    },
+    {
+      "id": "msg_0265_00549",
+      "de_DE": [
+        "Ihm scheint furchtbar\n",
+        "heiß zu sein..."
+      ]
+    },
+    {
+      "id": "msg_0265_00550",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wirkt irgendwie\n",
+        "eingeengt..."
+      ]
+    },
+    {
+      "id": "msg_0265_00551",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint sich wegen\n",
+        "irgendetwas zu genieren..."
+      ]
+    },
+    {
+      "id": "msg_0265_00552",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} begrüßt dich\n",
+        "mit einem Lächeln!"
+      ]
+    },
+    {
+      "id": "msg_0265_00553",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trommelt mit ganzer Seele\n",
+        "auf dem Boden herum!"
+      ]
+    },
+    {
+      "id": "msg_0265_00554",
+      "de_DE": [
+        "Jetzt summt {STRVAR_1 1, 0, 0}\n",
+        "schon ein Liedchen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00555",
+      "de_DE": [
+        "Ein Blütenblatt klebt ihm\n",
+        "auf dem Gesicht."
+      ]
+    },
+    {
+      "id": "msg_0265_00556",
+      "de_DE": [
+        "Es kann gar nicht schnell\n",
+        "genug ans Meer kommen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00557",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} zieht ein grimmiges\n",
+        "Gesicht und knurrt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00558",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fängt plötzlich\n",
+        "an zu tanzen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00559",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat den\n",
+        "Blick nach oben gerichtet."
+      ]
+    },
+    {
+      "id": "msg_0265_00560",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt und freut\n",
+        "sich seiner selbst!"
+      ]
+    },
+    {
+      "id": "msg_0265_00561",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist so glücklich,\n",
+        "dass es tanzen muss!"
+      ]
+    },
+    {
+      "id": "msg_0265_00562",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} quillt über\n",
+        "vor Tatendrang!"
+      ]
+    },
+    {
+      "id": "msg_0265_00563",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fängt plötzlich\n",
+        "an zu tanzen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00564",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat seinen\n",
+        "Blick zum Himmel erhoben..."
+      ]
+    },
+    {
+      "id": "msg_0265_00565",
+      "de_DE": "Planscht im Wasser!"
+    },
+    {
+      "id": "msg_0265_00566",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt und freut\n",
+        "sich seiner selbst!"
+      ]
+    },
+    {
+      "id": "msg_0265_00567",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist so glücklich,\n",
+        "dass es tanzen muss!"
+      ]
+    },
+    {
+      "id": "msg_0265_00568",
+      "de_DE": "Dreht sich erschrocken zu dir um!"
+    },
+    {
+      "id": "msg_0265_00569",
+      "de_DE": "Springt vor Schreck in die Luft!"
+    },
+    {
+      "id": "msg_0265_00570",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fängt plötzlich\n",
+        "an zu tanzen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00571",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat seinen\n",
+        "Blick zum Himmel erhoben..."
+      ]
+    },
+    {
+      "id": "msg_0265_00572",
+      "de_DE": [
+        "Da hat jemand großen Spaß daran,\n",
+        "wie ein Gummiball herumzuhüpfen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00573",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird von einem\n",
+        "Zittern geschüttelt."
+      ]
+    },
+    {
+      "id": "msg_0265_00574",
+      "de_DE": "{STRVAR_1 1, 0, 0} schüttelt sich!"
+    },
+    {
+      "id": "msg_0265_00575",
+      "de_DE": "Es fühlt sich rundum mollig und wohl!"
+    },
+    {
+      "id": "msg_0265_00576",
+      "de_DE": [
+        "Es wendet sich\n",
+        "verdrossen zur Seite..."
+      ]
+    },
+    {
+      "id": "msg_0265_00577",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sitzt still da\n",
+        "und betrachtet den Himmel."
+      ]
+    },
+    {
+      "id": "msg_0265_00578",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhascht einen\n",
+        "Blick auf die anderen zwei."
+      ]
+    },
+    {
+      "id": "msg_0265_00579",
+      "de_DE": [
+        "Bäh!\n",
+        "Da scheint Abfall drin gewesen zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00580",
+      "de_DE": "Irgendetwas hier riecht komisch..."
+    },
+    {
+      "id": "msg_0265_00581",
+      "de_DE": "{STRVAR_1 1, 0, 0} jault laut auf!"
+    },
+    {
+      "id": "msg_0265_00582",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brüllt so laut, dass\n",
+        "der ganze Turm ins Schwingen gerät!"
+      ]
+    },
+    {
+      "id": "msg_0265_00583",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt einen\n",
+        "Schrei zum Himmel fahren!"
+      ]
+    },
+    {
+      "id": "msg_0265_00584",
+      "de_DE": [
+        "Es ist völlig hingerissen\n",
+        "von der Schönheit des Sternenzelts!"
+      ]
+    },
+    {
+      "id": "msg_0265_00585",
+      "de_DE": [
+        "Es hat nicht aufgepasst, wo es\n",
+        "hinläuft, und rummst in dich hinein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00586",
+      "de_DE": [
+        "Es scheint sich noch\n",
+        "nicht schlüssig zu sein..."
+      ]
+    },
+    {
+      "id": "msg_0265_00587",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wabert hin und her,\n",
+        "ganz als ob es tanzen würde."
+      ]
+    },
+    {
+      "id": "msg_0265_00588",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} führt einen\n",
+        "wunderlichen Schlangentanz vor."
+      ]
+    },
+    {
+      "id": "msg_0265_00589",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird von einem\n",
+        "Zittern geschüttelt."
+      ]
+    },
+    {
+      "id": "msg_0265_00590",
+      "de_DE": "{STRVAR_1 1, 0, 0} schüttelt sich!"
+    },
+    {
+      "id": "msg_0265_00591",
+      "de_DE": "Es schaut hektisch in alle Richtungen."
+    },
+    {
+      "id": "msg_0265_00592",
+      "de_DE": [
+        "Irgendetwas stimmt hier nicht!\n",
+        "Es schaut sich nach allen Seiten um."
+      ]
+    },
+    {
+      "id": "msg_0265_00593",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist pitschnass und\n",
+        "findet das auch noch prima!"
+      ]
+    },
+    {
+      "id": "msg_0265_00594",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist pitschnass\n",
+        "und gar nicht davon angetan..."
+      ]
+    },
+    {
+      "id": "msg_0265_00595",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat einen Spritzer Wasser\n",
+        "abbekommen und fühlt sich erfrischt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00596",
+      "de_DE": [
+        "Es planscht und plätschert\n",
+        "übermütig im Wasser!"
+      ]
+    },
+    {
+      "id": "msg_0265_00597",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schreit\n",
+        "plötzlich auf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00598",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} patscht mehrmals\n",
+        "schallend auf den Boden!"
+      ]
+    },
+    {
+      "id": "msg_0265_00599",
+      "de_DE": "{STRVAR_1 1, 0, 0} heult die Decke an."
+    },
+    {
+      "id": "msg_0265_00600",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fängt plötzlich an,\n",
+        "sich wie ein Brummkreisel zu drehen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00601",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fängt mit einem\n",
+        "Mal an zu schreien!"
+      ]
+    },
+    {
+      "id": "msg_0265_00602",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} beginnt, am\n",
+        "ganzen Leib zu zittern."
+      ]
+    },
+    {
+      "id": "msg_0265_00603",
+      "de_DE": [
+        "Beim Anblick von {STRVAR_1 8, 4, 0} läuft\n",
+        "ihm das Wasser im Mund zusammen."
+      ]
+    },
+    {
+      "id": "msg_0265_00604",
+      "de_DE": [
+        "Es bietet deiner Mutter\n",
+        "{STRVAR_1 8, 4, 0} als Geschenk an!"
+      ]
+    },
+    {
+      "id": "msg_0265_00605",
+      "de_DE": [
+        "Es unterzieht die Bergspitze\n",
+        "einer genauen Betrachtung."
+      ]
+    },
+    {
+      "id": "msg_0265_00606",
+      "de_DE": [
+        "Glückserfüllt betrachtet es\n",
+        "den rot getünchten Himmel."
+      ]
+    },
+    {
+      "id": "msg_0265_00607",
+      "de_DE": [
+        "Es ist vom Funkeln des\n",
+        "Nachthimmels wie verzaubert."
+      ]
+    },
+    {
+      "id": "msg_0265_00608",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brüllt so laut, dass\n",
+        "der ganze Turm ins Schwingen gerät!"
+      ]
+    },
+    {
+      "id": "msg_0265_00609",
+      "de_DE": "{STRVAR_1 1, 0, 0} jault laut auf!"
+    },
+    {
+      "id": "msg_0265_00610",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt und freut\n",
+        "sich seiner selbst!"
+      ]
+    },
+    {
+      "id": "msg_0265_00611",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist so glücklich,\n",
+        "dass es tanzen muss!"
+      ]
+    },
+    {
+      "id": "msg_0265_00612",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} spuckt ein Feuerwölkchen.\n",
+        "Es brennt geradezu vor Tatendrang!"
+      ]
+    },
+    {
+      "id": "msg_0265_00613",
+      "de_DE": "{STRVAR_1 1, 0, 0} knurrt laut!"
+    },
+    {
+      "id": "msg_0265_00614",
+      "de_DE": [
+        "Oh! {STRVAR_1 1, 0, 0} umarmt\n",
+        "dich ganz plötzlich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00615",
+      "de_DE": [
+        "Oh! {STRVAR_1 1, 0, 0} hat plötzlich\n",
+        "Flausen im Kopf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00616",
+      "de_DE": [
+        "Oh! {STRVAR_1 1, 0, 0} führt plötzlich\n",
+        "ein Freudentänzchen auf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00617",
+      "de_DE": [
+        "Waaah!\n",
+        "Ein kalter Wind kommt auf!\f",
+        "Es scheint sich darüber zu freuen..."
+      ]
+    },
+    {
+      "id": "msg_0265_00618",
+      "de_DE": [
+        "Waaah!\n",
+        "Es kuschelt sich plötzlich an dich!\f",
+        "Kraulst du es am Kopf?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0265_00619",
+      "de_DE": [
+        "Waaah!\n",
+        "Es hat dich mit Wasser bespuckt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00620",
+      "de_DE": [
+        "Waaah!\n",
+        "Es hat urplötzlich losgejault!"
+      ]
+    },
+    {
+      "id": "msg_0265_00621",
+      "de_DE": [
+        "Huch? Es scheint auf dem Berg etwas\n",
+        "gefunden zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0265_00622",
+      "de_DE": "Es zuckt kurz zusammen."
+    },
+    {
+      "id": "msg_0265_00623",
+      "de_DE": "Es quietscht vor Freude!"
+    },
+    {
+      "id": "msg_0265_00624",
+      "de_DE": [
+        "...Es hält dich für\n",
+        "einen Spielverderber."
+      ]
+    },
+    {
+      "id": "msg_0265_00625",
+      "de_DE": "Es ist ein wenig eingeschnappt."
+    },
+    {
+      "id": "msg_0265_00626",
+      "de_DE": [
+        "Hoppla! Es hat es verschluckt\n",
+        "und nun ist ihm schlecht..."
+      ]
+    },
+    {
+      "id": "msg_0265_00627",
+      "de_DE": [
+        "Jieks!\n",
+        "Es erschreckt sich halb zu Tode!"
+      ]
+    },
+    {
+      "id": "msg_0265_00628",
+      "de_DE": [
+        "...Es ist so steif, dass es\n",
+        "sich nicht mehr bewegen kann."
+      ]
+    },
+    {
+      "id": "msg_0265_00629",
+      "de_DE": "Es freut sich ungemein!"
+    },
+    {
+      "id": "msg_0265_00630",
+      "de_DE": [
+        "...\n",
+        "Oh-oh! Da kocht jemand vor Wut!"
+      ]
+    },
+    {
+      "id": "msg_0265_00631",
+      "de_DE": "Es freut sich ungemein!"
+    },
+    {
+      "id": "msg_0265_00632",
+      "de_DE": [
+        "Oh nein!\n",
+        "Es steht kurz vor den Tränen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00633",
+      "de_DE": "Es schämt sich ausgiebig..."
+    },
+    {
+      "id": "msg_0265_00634",
+      "de_DE": [
+        "...\n",
+        "Jetzt ist es erst recht übermütig!"
+      ]
+    },
+    {
+      "id": "msg_0265_00635",
+      "de_DE": "Vor Schreck hopst es hoch in die Luft!"
+    },
+    {
+      "id": "msg_0265_00636",
+      "de_DE": [
+        "Laaangsam tropft ihm die\n",
+        "Spucke aus dem Mundwinkel..."
+      ]
+    },
+    {
+      "id": "msg_0265_00637",
+      "de_DE": "Es macht einen dankbaren Hüpfer."
+    },
+    {
+      "id": "msg_0265_00638",
+      "de_DE": [
+        "Hoppla!\n",
+        "Es schüttelt sich einmal heftig."
+      ]
+    },
+    {
+      "id": "msg_0265_00639",
+      "de_DE": [
+        "Oooh!\n",
+        "Es reibt seine Wange an deine."
+      ]
+    },
+    {
+      "id": "msg_0265_00640",
+      "de_DE": [
+        "Oooh!\n",
+        "Es kämpft mit den Tränen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00641",
+      "de_DE": "Es freut sich kringelig!"
+    },
+    {
+      "id": "msg_0265_00642",
+      "de_DE": [
+        "Es starrt weiterhin\n",
+        "Löcher in die Luft..."
+      ]
+    },
+    {
+      "id": "msg_0265_00643",
+      "de_DE": [
+        "Es ist glücklich, dass\n",
+        "{STRVAR_1 3, 2, 0} auch mitspielt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00644",
+      "de_DE": [
+        "Jetzt schmollt es und möchte, dass\n",
+        "du ihm mehr Aufmerksamkeit schenkst."
+      ]
+    },
+    {
+      "id": "msg_0265_00645",
+      "de_DE": [
+        "Ein Blick in das Gesicht von\n",
+        "{STRVAR_1 3, 2, 0} hat es wieder beruhigt."
+      ]
+    },
+    {
+      "id": "msg_0265_00646",
+      "de_DE": [
+        "Oh!\n",
+        "Es verliert das Gleichgewicht..."
+      ]
+    },
+    {
+      "id": "msg_0265_00647",
+      "de_DE": "Vor Schreck hopst es hoch in die Luft!"
+    },
+    {
+      "id": "msg_0265_00648",
+      "de_DE": [
+        "Laaangsam tropft ihm die\n",
+        "Spucke aus dem Mundwinkel..."
+      ]
+    },
+    {
+      "id": "msg_0265_00649",
+      "de_DE": "Es schaut deprimiert drein..."
+    },
+    {
+      "id": "msg_0265_00650",
+      "de_DE": [
+        "Es schlägt seine Zähne\n",
+        "in den anderen Schuh!"
+      ]
+    },
+    {
+      "id": "msg_0265_00651",
+      "de_DE": [
+        "Das hat es ein wenig aus\n",
+        "dem Konzept gebracht."
+      ]
+    },
+    {
+      "id": "msg_0265_00652",
+      "de_DE": [
+        "Es stupst weiter. Offensichtlich\n",
+        "findet es Spaß daran..."
+      ]
+    },
+    {
+      "id": "msg_0265_00653",
+      "de_DE": "Es schaut deprimiert drein..."
+    },
+    {
+      "id": "msg_0265_00654",
+      "de_DE": [
+        "Bäh! Das schmeckte ja scheußlich! Es\n",
+        "spuckt, um den Geschmack loszuwerden!"
+      ]
+    },
+    {
+      "id": "msg_0265_00655",
+      "de_DE": "...Es scheint ihm leid zu tun."
+    },
+    {
+      "id": "msg_0265_00656",
+      "de_DE": "Jetzt leckt es auch noch an ihnen..."
+    },
+    {
+      "id": "msg_0265_00657",
+      "de_DE": "...Es scheint ihm leid zu tun."
+    },
+    {
+      "id": "msg_0265_00658",
+      "de_DE": [
+        "Hoppla! Schockschwerenot! Fast wäre\n",
+        "alles in sich zusammengefallen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00659",
+      "de_DE": [
+        "Es öffnet seinen Mund und\n",
+        "lässt den Schnipsel fallen."
+      ]
+    },
+    {
+      "id": "msg_0265_00660",
+      "de_DE": [
+        "Oh! Es röchelt und spuckt. Scheint,\n",
+        "als stecke ihm etwas im Hals fest."
+      ]
+    },
+    {
+      "id": "msg_0265_00661",
+      "de_DE": "...Es scheint sich zu schämen."
+    },
+    {
+      "id": "msg_0265_00662",
+      "de_DE": [
+        "Autsch!\n",
+        "Es hat einen Schlag abbekommen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00663",
+      "de_DE": [
+        "Es hat aufgehört... aber der Schalter\n",
+        "ist immer noch genauso faszinierend!"
+      ]
+    },
+    {
+      "id": "msg_0265_00664",
+      "de_DE": [
+        "Klick!\r",
+        "...\n",
+        "Es ist nichts passiert."
+      ]
+    },
+    {
+      "id": "msg_0265_00665",
+      "de_DE": [
+        "Es starrt gierig... offenbar läuft\n",
+        "ihm das Wasser im Mund zusammen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00666",
+      "de_DE": [
+        "Hoppla! Es hustet laut... es\n",
+        "muss sich an etwas verschluckt haben."
+      ]
+    },
+    {
+      "id": "msg_0265_00667",
+      "de_DE": [
+        "Du ziehst ihm ein Stück\n",
+        "Abfall aus dem Mund!"
+      ]
+    },
+    {
+      "id": "msg_0265_00668",
+      "de_DE": [
+        "Oh-oh! Es hustet laut... es\n",
+        "muss sich an etwas verschluckt haben."
+      ]
+    },
+    {
+      "id": "msg_0265_00669",
+      "de_DE": [
+        "Es dreht sich vor Verzückung\n",
+        "um die eigene Achse!"
+      ]
+    },
+    {
+      "id": "msg_0265_00670",
+      "de_DE": "...Es sieht einsam aus."
+    },
+    {
+      "id": "msg_0265_00671",
+      "de_DE": "Es macht Freudensprünge!"
+    },
+    {
+      "id": "msg_0265_00672",
+      "de_DE": [
+        "Es schaut betrübt vor sich hin\n",
+        "und spuckt den Müll aus."
+      ]
+    },
+    {
+      "id": "msg_0265_00673",
+      "de_DE": "Es jauchzt vor Schreck!"
+    },
+    {
+      "id": "msg_0265_00674",
+      "de_DE": "Es jauchzt vor Glück!"
+    },
+    {
+      "id": "msg_0265_00675",
+      "de_DE": [
+        "Es vollführt ein paar gewichtige\n",
+        "Freudensprünge!"
+      ]
+    },
+    {
+      "id": "msg_0265_00676",
+      "de_DE": [
+        "Es mault laut, aber\n",
+        "schämt sich ordentlich!"
+      ]
+    },
+    {
+      "id": "msg_0265_00677",
+      "de_DE": [
+        "Es erschrickt sich und stößt\n",
+        "einen seltsamen Schrei aus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00678",
+      "de_DE": [
+        "Es vollführt ein paar gewichtige\n",
+        "Freudensprünge!"
+      ]
+    },
+    {
+      "id": "msg_0265_00679",
+      "de_DE": [
+        "Es trommelt sich vor Freude\n",
+        "auf den Bauch!"
+      ]
+    },
+    {
+      "id": "msg_0265_00680",
+      "de_DE": [
+        "Es antwortet mit\n",
+        "einem lauten Ruf!"
+      ]
+    },
+    {
+      "id": "msg_0265_00681",
+      "de_DE": [
+        "Es freut sich, dass du\n",
+        "mit ihm spielen willst!"
+      ]
+    },
+    {
+      "id": "msg_0265_00682",
+      "de_DE": [
+        "Es lässt einen lauten\n",
+        "Schreckensschrei los!"
+      ]
+    },
+    {
+      "id": "msg_0265_00683",
+      "de_DE": [
+        "Es lässt einen lauten\n",
+        "Schreckensschrei los!"
+      ]
+    },
+    {
+      "id": "msg_0265_00684",
+      "de_DE": [
+        "Es knirscht vor Ärger\n",
+        "mit den Zähnen."
+      ]
+    },
+    {
+      "id": "msg_0265_00685",
+      "de_DE": "Es knurrt leise vor Scham..."
+    },
+    {
+      "id": "msg_0265_00686",
+      "de_DE": [
+        "Du ziehst ihm ein Stück\n",
+        "Abfall aus dem Mund!"
+      ]
+    },
+    {
+      "id": "msg_0265_00687",
+      "de_DE": [
+        "Es freut sich enorm und\n",
+        "dreht und kreiselt durch die Gegend!"
+      ]
+    },
+    {
+      "id": "msg_0265_00688",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} imitiert\n",
+        "den Tanz der Kimono-Girls."
+      ]
+    },
+    {
+      "id": "msg_0265_00689",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hopst im Rhythmus\n",
+        "der Kimono-Girls umher."
+      ]
+    },
+    {
+      "id": "msg_0265_00690",
+      "de_DE": [
+        "Jetzt oder nie! {STRVAR_1 1, 0, 0} zeigt dir,\n",
+        "wie stark es ist!"
+      ]
+    },
+    {
+      "id": "msg_0265_00691",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} leuchtet\n",
+        "gemeinsam mit Amphi!"
+      ]
+    },
+    {
+      "id": "msg_0265_00692",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält absolut still\n",
+        "und gibt sich als Baum aus."
+      ]
+    },
+    {
+      "id": "msg_0265_00693",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hält absolut still.\n",
+        "Das soll wohl einen Baum darstellen?"
+      ]
+    },
+    {
+      "id": "msg_0265_00694",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wackelt mit dem Finger\n",
+        "und tanzt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00695",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird schon allein beim\n",
+        "Anblick des Aufzugs speiübel."
+      ]
+    },
+    {
+      "id": "msg_0265_00696",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tritt\n",
+        "nervös auf der Stelle."
+      ]
+    },
+    {
+      "id": "msg_0265_00697",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trottet\n",
+        "zögerlich zur Seite."
+      ]
+    },
+    {
+      "id": "msg_0265_00698",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnaubt\n",
+        "vor Aufregung!"
+      ]
+    },
+    {
+      "id": "msg_0265_00699",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat Spaß dabei,\n",
+        "durch die Gegend zu wabern."
+      ]
+    },
+    {
+      "id": "msg_0265_00700",
+      "de_DE": "{STRVAR_1 1, 0, 0} piept plötzlich los!"
+    },
+    {
+      "id": "msg_0265_00701",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} springt unermüdlich\n",
+        "durch die Gegend!"
+      ]
+    },
+    {
+      "id": "msg_0265_00702",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fischt im\n",
+        "Abfalleimer herum..."
+      ]
+    },
+    {
+      "id": "msg_0265_00703",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut irgendwie\n",
+        "geknickt..."
+      ]
+    },
+    {
+      "id": "msg_0265_00704",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} bibbert\n",
+        "vor Angst!"
+      ]
+    },
+    {
+      "id": "msg_0265_00705",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schaut weg und\n",
+        "wünscht sich etwas."
+      ]
+    },
+    {
+      "id": "msg_0265_00706",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hüpft\n",
+        "lustig durch die Gegend!"
+      ]
+    },
+    {
+      "id": "msg_0265_00707",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} möchte mit den\n",
+        "anderen Pokémon spielen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00708",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt seinen\n",
+        "Bauch kreiseln."
+      ]
+    },
+    {
+      "id": "msg_0265_00709",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gibt ein leise\n",
+        "fiependes Geräusch von sich."
+      ]
+    },
+    {
+      "id": "msg_0265_00710",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sperrt sein Maul\n",
+        "weit auf und brüllt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00711",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fährt seine Klauen aus\n",
+        "und lässt ein lautes BRRRRÜLLEN hören!"
+      ]
+    },
+    {
+      "id": "msg_0265_00712",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} windet seinen langen\n",
+        "Körper und brüllt laut!"
+      ]
+    },
+    {
+      "id": "msg_0265_00713",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} reckt den Kopf gen Himmel\n",
+        "und stößt einen schrillen Schrei aus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00714",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brüllt so laut,\n",
+        "dass sein ganzer Körper erzittert!"
+      ]
+    },
+    {
+      "id": "msg_0265_00715",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} nimmt seine ganze\n",
+        "Kraft zusammen und brüllt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00716",
+      "de_DE": "{STRVAR_1 1, 0, 0} flattert freudig umher!"
+    },
+    {
+      "id": "msg_0265_00717",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} saust und\n",
+        "tänzelt fröhlich umher!"
+      ]
+    },
+    {
+      "id": "msg_0265_00718",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt regungslos in\n",
+        "das Gesicht von {STRVAR_1 3, 2, 0}."
+      ]
+    },
+    {
+      "id": "msg_0265_00719",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schnüffelt den\n",
+        "Geruch von {STRVAR_1 3, 2, 0}."
+      ]
+    },
+    {
+      "id": "msg_0265_00720",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht zu dir\n",
+        "herüber und lächelt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00721",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat sich offenbar noch\n",
+        "nicht recht an seinen Namen gewöhnt."
+      ]
+    },
+    {
+      "id": "msg_0265_00722",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} verpufft eine\n",
+        "große Wolke Sporen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00723",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} klammert sich\n",
+        "an einem Baum fest!"
+      ]
+    },
+    {
+      "id": "msg_0265_00724",
+      "de_DE": [
+        "...He?\n",
+        "Es sieht aus, als wenn {STRVAR_1 1, 0, 0}...\f",
+        "...Nein, doch nicht."
+      ]
+    },
+    {
+      "id": "msg_0265_00725",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} streckt seine Ranken\n",
+        "aus und verknotet sie!\f",
+        "Das scheint ihm Spaß zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00726",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} tanzt noch besser\n",
+        "als die Kimono-Girls!"
+      ]
+    },
+    {
+      "id": "msg_0265_00727",
+      "de_DE": [
+        "Der Geruch scheint alte Erinnerungen\n",
+        "in ihm geweckt zu haben..."
+      ]
+    },
+    {
+      "id": "msg_0265_00728",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist\n",
+        "absolut entspannt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00729",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} sieht sich in allen\n",
+        "Winkeln des Forschungslabors um."
+      ]
+    },
+    {
+      "id": "msg_0265_00730",
+      "de_DE": [
+        "Die Kreiselbewegungen der Maschine\n",
+        "scheinen es zu beunruhigen."
+      ]
+    },
+    {
+      "id": "msg_0265_00731",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} strotzt\n",
+        "vor Tatendrang!"
+      ]
+    },
+    {
+      "id": "msg_0265_00732",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist in\n",
+        "allerbester Stimmung!"
+      ]
+    },
+    {
+      "id": "msg_0265_00733",
+      "de_DE": [
+        "Der Inhalt des Schaukastens scheint\n",
+        "es {STRVAR_1 1, 0, 0} angetan zu haben..."
+      ]
+    },
+    {
+      "id": "msg_0265_00734",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} reckt seinen Kopf und\n",
+        "betrachtet fasziniert die Felsen."
+      ]
+    },
+    {
+      "id": "msg_0265_00735",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fetzt um den\n",
+        "Rand des Pools!"
+      ]
+    },
+    {
+      "id": "msg_0265_00736",
+      "de_DE": "Wieso macht es Aufwärmübungen?"
+    },
+    {
+      "id": "msg_0265_00737",
+      "de_DE": "{STRVAR_1 1, 0, 0} begrüßt das LAHMUS."
+    },
+    {
+      "id": "msg_0265_00738",
+      "de_DE": "{STRVAR_1 1, 0, 0} begrüßt das LORBLATT."
+    },
+    {
+      "id": "msg_0265_00739",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} starrt regungslos\n",
+        "auf das Meer hinaus."
+      ]
+    },
+    {
+      "id": "msg_0265_00740",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist ganz wild darauf,\n",
+        "mit dem Schiff zu fahren!"
+      ]
+    },
+    {
+      "id": "msg_0265_00741",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist erpicht darauf,\n",
+        "mit dem Zug zu fahren!"
+      ]
+    },
+    {
+      "id": "msg_0265_00742",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} betrachtet\n",
+        "die Zimmerdecke."
+      ]
+    },
+    {
+      "id": "msg_0265_00743",
+      "de_DE": [
+        "Das Knarzen des Bodens\n",
+        "hat {STRVAR_1 1, 0, 0} erschreckt!"
+      ]
+    },
+    {
+      "id": "msg_0265_00744",
+      "de_DE": "{STRVAR_1 1, 0, 0} äfft {STRVAR_1 3, 2, 0} nach!"
+    },
+    {
+      "id": "msg_0265_00745",
+      "de_DE": [
+        "... ... ... ... ... ...\r",
+        "... ... ... ... ... ...\r",
+        "... ... ... ... ... ...\r",
+        "... ... ... ... ... ...\n",
+        "{STRVAR_1 1, 0, 0} nickt dir stumm zu!"
+      ]
+    },
+    {
+      "id": "msg_0265_00746",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist froh, nachdem\n",
+        "es eine Dusche genommen hat!"
+      ]
+    },
+    {
+      "id": "msg_0265_00747",
+      "de_DE": [
+        "So eine Dusche scheint {STRVAR_1 1, 0, 0}\n",
+        "überhaupt nicht zu behagen..."
+      ]
+    },
+    {
+      "id": "msg_0265_00748",
+      "de_DE": "{STRVAR_1 1, 0, 0} sabbert vor sich hin..."
+    },
+    {
+      "id": "msg_0265_00749",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt ein hörbares\n",
+        "Schlucken vernehmen."
+      ]
+    },
+    {
+      "id": "msg_0265_00750",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} schlägt in der Enge\n",
+        "das Herz bis zum Hals."
+      ]
+    },
+    {
+      "id": "msg_0265_00751",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} scheint in irgendetwas\n",
+        "hineingelaufen zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0265_00752",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} will mit\n",
+        "dem GRIFFEL spielen!"
+      ]
+    },
+    {
+      "id": "msg_0265_00753",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} rollt einen\n",
+        "Stein vor sich her."
+      ]
+    },
+    {
+      "id": "msg_0265_00754",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} lässt ein hörbares\n",
+        "Schlucken vernehmen."
+      ]
+    },
+    {
+      "id": "msg_0265_00755",
+      "de_DE": "{STRVAR_1 1, 0, 0} nickt bedächtig."
+    },
+    {
+      "id": "msg_0265_00756",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} stößt einen\n",
+        "Kampfschrei aus!"
+      ]
+    },
+    {
+      "id": "msg_0265_00757",
+      "de_DE": "{STRVAR_1 1, 0, 0} konzentriert sich..."
+    },
+    {
+      "id": "msg_0265_00758",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} brüllt plötzlich\n",
+        "laut los!"
+      ]
+    }
+  ]
+}

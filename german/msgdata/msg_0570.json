@@ -1,0 +1,81 @@
+{
+  "key": 33887,
+  "messages": [
+    {
+      "id": "msg_0570_00000",
+      "de_DE": [
+        "In der Stadt gibt es kein einziges\n",
+        "FLEGMON mehr.\r",
+        "Vielleicht haben wir ja den Zorn des\n",
+        "Schutzpatrons auf uns gezogen?\r",
+        "Das könnte ein böses Vorzeichen sein.\n",
+        "Wir sollten auf alles gefasst sein..."
+      ]
+    },
+    {
+      "id": "msg_0570_00001",
+      "de_DE": [
+        "Die FLEGMON sind zurückgekehrt...\r",
+        "Aber jetzt sind meine kostbaren\n",
+        "PORENTA irgendwohin verschwunden!\r",
+        "Mein Lehrling sucht im Steineichenwald\n",
+        "nach ihnen, aber er ist jetzt schon eine\f",
+        "ganze Weile weg...\r",
+        "Was treibt dieser Faulpelz bloß wieder?"
+      ]
+    },
+    {
+      "id": "msg_0570_00002",
+      "de_DE": [
+        "Du hast Team Rocket vertrieben und bist\n",
+        "alleine in den Steineichenwald gegangen.\f",
+        "Du hast Mumm! Das gefällt mir!\r",
+        "Was sagst du, würdest du nicht gerne\n",
+        "bei mir in die Lehre gehen?"
+      ]
+    },
+    {
+      "id": "msg_0570_00003",
+      "de_DE": [
+        "Wo sind nur all die FLEGMON hin?\n",
+        "Machen sie sich vielleicht irgendwo\f",
+        "einen schönen Lenz?"
+      ]
+    },
+    {
+      "id": "msg_0570_00004",
+      "de_DE": [
+        "Tut mir leid, ich habe mich noch gar\n",
+        "nicht gebührend bei dir bedankt!\r",
+        "Hier hast du etwas Holzkohle.\n",
+        "Ich habe sie selbst hergestellt!\f",
+        "Wenn du sie einem Pokémon gibst,\f",
+        "werden dadurch seine Attacken vom\f",
+        "Typ Feuer verstärkt!"
+      ]
+    },
+    {
+      "id": "msg_0570_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Holzkohle."
+      ]
+    },
+    {
+      "id": "msg_0570_00006",
+      "de_DE": [
+        "Die FLEGMON sind wieder da, und die\n",
+        "PORENTA hast du auch wiedergefunden.\f",
+        "Du bist echt der Coolste!"
+      ]
+    },
+    {
+      "id": "msg_0570_00007",
+      "de_DE": "Oh, du kannst nichts mehr tragen!"
+    },
+    {
+      "id": "msg_0570_00008",
+      "de_DE": "PORENTA: Pooorenta!"
+    }
+  ]
+}

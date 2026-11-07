@@ -1,0 +1,155 @@
+{
+  "key": 63847,
+  "messages": [
+    {
+      "id": "msg_0514_00000",
+      "de_DE": [
+        "Hehehehe...\n",
+        "Tut mir leid, aber das stimmt nicht!\r",
+        "Nein, ich nehme dich nur auf den Arm!\r",
+        "Ich bin es wirklich! Ich bin Janina,\n",
+        "die Arenaleiterin von Fuchsania City!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00001",
+      "de_DE": [
+        "Janina: Ich sehe schon...\n",
+        "Du hast also selbst Koga von den\f",
+        "Top Vier besiegt, meinen Vater...\f",
+        "Ha! Du kamst mir gleich so stark vor!\r",
+        "Ich erkenne meine Niederlage an!\n",
+        "Hier, nimm den Seelenorden!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Seelenorden!"
+      ]
+    },
+    {
+      "id": "msg_0514_00003",
+      "de_DE": [
+        "Janina: Du bist stark! Ich habe hier ein\n",
+        "ganz besonderes Geschenk für dich!\r",
+        "Diese Attacke nennt sich Gifthieb und\n",
+        "kann deine Gegner vergiften!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00004",
+      "de_DE": [
+        "Janina: Ich werde noch viel mehr\n",
+        "trainieren und stärker werden!\r",
+        "Nochmal möchte ich nicht gegen dich\n",
+        "oder meinen Vater verlieren müssen!"
+      ]
+    },
+    {
+      "id": "msg_0514_00005",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "...Hoppla!\n",
+        "Sieh dich mal genau um!\r",
+        "Da sind lauter Personen, die genau\n",
+        "wie Janina, die Arenaleiterin, aussehen!\r",
+        "Kannst du erkennen, wer von ihnen\n",
+        "die echte Janina ist?"
+      ]
+    },
+    {
+      "id": "msg_0514_00006",
+      "de_DE": [
+        "Das war ein hervorragender Kampf,\n",
+        "Trainer aus Johto!"
+      ]
+    },
+    {
+      "id": "msg_0514_00007",
+      "de_DE": [
+        "Reingelegt!\n",
+        "Hahaha!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00008",
+      "de_DE": [
+        "Na, wie war mein Kostüm? Die\n",
+        "meisten Leute sagen, ich sehe\f",
+        "Janina zum Verwechseln ähnlich!"
+      ]
+    },
+    {
+      "id": "msg_0514_00009",
+      "de_DE": [
+        "Hahaha!\r",
+        "Ganz genau! Ich bin die echte Janina!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00010",
+      "de_DE": [
+        "Ja, ich bin ein Mann! Na und?\n",
+        "Dürfen sich Männer etwa\f",
+        "nicht als Janina verkleiden?"
+      ]
+    },
+    {
+      "id": "msg_0514_00011",
+      "de_DE": [
+        "Huhuhuhaha!\n",
+        "Ich bin Janina, die Arenaleiterin!\f",
+        "Von wegen!\f",
+        "Reingefallen!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00012",
+      "de_DE": [
+        "Hahahaha!\n",
+        "Mann, ist das ein Spaß!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00013",
+      "de_DE": [
+        "Janina ist mein Vorbild! Es macht mir\n",
+        "viel Spaß, mich als sie zu verkleiden!"
+      ]
+    },
+    {
+      "id": "msg_0514_00014",
+      "de_DE": [
+        "Ich bin Janina!\n",
+        "Aber woher wusstest du das?\f",
+        "Egal! Jetzt wird gekämpft!\r"
+      ]
+    },
+    {
+      "id": "msg_0514_00015",
+      "de_DE": "Angeschmiert!\r"
+    },
+    {
+      "id": "msg_0514_00016",
+      "de_DE": [
+        "Wenn ich diese Verkleidung trage,\n",
+        "fühle ich mich gleich viel stärker."
+      ]
+    },
+    {
+      "id": "msg_0514_00017",
+      "de_DE": "Pokémon-Arena von Fuchsania City"
+    },
+    {
+      "id": "msg_0514_00018",
+      "de_DE": [
+        "Pokémon-Arena von Fuchsania City\r",
+        "Leiterin: Janina\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

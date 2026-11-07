@@ -1,0 +1,356 @@
+{
+  "key": 18335,
+  "messages": [
+    {
+      "id": "msg_0047_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Huuups!\n",
+        "Hey, {STRVAR_1 3, 1}!\r",
+        "Willst du den Arenaleiter dort\n",
+        "herausfordern?\r",
+        "Na, dann sollte aber jemand vorher\n",
+        "prüfen, ob du dazu auch bereit bist!\r",
+        "Und dieser Jemand ist niemand\n",
+        "anderer als... ICH!\r",
+        "Mit meinem nigelnagelneuen Orden!\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Ja, ja. Dann bist du eben\n",
+        "ein kleines bisschen besser als ich.\r",
+        "Wie immer. Na und?!?\n",
+        "Aber hör mal!\r",
+        "Stell dir vor, da gibt es jemanden,\n",
+        "der will tatsächlich die Pokémon\f",
+        "Liga herausfordern und Champ werden!\r",
+        "Ja, richtig geraten!\n",
+        "Dieser Jemand ist niemand anderer\r",
+        "als ICH! ... ...Was heißt das, ich soll\n",
+        "mir andere Sätze einfallen lassen?!?\r",
+        "Na, egal. Jedenfalls scheinst du\n",
+        "durchaus in der Lage zu sein, den\f",
+        "Arenaleiter hier herauszufordern.\r",
+        "Also beeil dich und tu es endlich, statt\n",
+        "mir die ganze Zeit ein Ohr abzukauen.\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey! Das ist der\n",
+        "Minenorden! Gut gemacht!\r",
+        "Bei deiner Stärke solltest du dir\n",
+        "überlegen, ob du nicht Pokémon\f",
+        "Champ werden willst!\r",
+        "Natürlich bin ich stärker als du,\n",
+        "daher hast du kaum eine Chance,\f",
+        "es tatsächlich zu werden.\r",
+        "Na, egal. {STRVAR_1 3, 1}, komm mit\n",
+        "in die Bibliothek.\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00003",
+      "de_DE": [
+        "Eibe: !\r",
+        "...Dieses Beben...\n",
+        "Das hatte keine natürliche Ursache.\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00004",
+      "de_DE": [
+        "Hey, hey! Leute, Leute!\n",
+        "Da ist was Riesiges passiert!\r",
+        "Am See der Kühnheit soll es zu einer\n",
+        "Megaexplosion gekommen sein!\r",
+        "{SIZE 200}Zisch-bumm!!!{SIZE 100}\r",
+        "So in etwa!\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Opi!\r",
+        "Ich gehe zum See der Stärke!\n",
+        "Ich habe da ein ungutes Gefühl!\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00006",
+      "de_DE": [
+        "Eibe: !\r",
+        "...Dieser {STRVAR_1 3, 0}...\n",
+        "Kann wohl niemals still sitzen...\r",
+        "{STRVAR_1 3, 1}, ich mache mir Sorgen\n",
+        "um den See der Kühnheit.\r",
+        "Ich habe keine Ahnung, was dort\n",
+        "passiert. Du musst es herausfinden!\r",
+        "Aber bevor du aufbrichst, muss ich\n",
+        "dich warnen: Unternimm nichts,\f",
+        "was gefährlich werden könnte!\r",
+        "Wir werden dir helfen, sobald wir am\n",
+        "See der Wahrheit nach dem Rechten\f",
+        "gesehen haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00007",
+      "de_DE": [
+        "Lucia: ...{STRVAR_1 3, 0}, du passt auf\n",
+        "dich auf, nicht wahr?"
+      ]
+    },
+    {
+      "id": "msg_0047_00008",
+      "de_DE": [
+        "Lucius: Der See der Kühnheit...\n",
+        "Ich frage mich, was da passiert ist."
+      ]
+    },
+    {
+      "id": "msg_0047_00009",
+      "de_DE": [
+        "Lucia: Wir gehen zuerst zum See\n",
+        "der Wahrheit...\r",
+        "Unternimm nichts Unüberlegtes,\n",
+        "sollte etwas passieren!"
+      ]
+    },
+    {
+      "id": "msg_0047_00010",
+      "de_DE": [
+        "Lucius: Wir untersuchen erst den See\n",
+        "der Wahrheit, bevor wir zu dir stoßen.\r",
+        "Spiel nicht den Helden, wenn es\n",
+        "brenzlig wirst, hörst du?!?"
+      ]
+    },
+    {
+      "id": "msg_0047_00011",
+      "de_DE": [
+        "Eibe: Was passiert am See\n",
+        "der Kühnheit?\f",
+        "Du musst es herausfinden!\r",
+        "Aber bevor du aufbrichst, muss ich\n",
+        "dich warnen: Unternimm nichts,\f",
+        "was gefährlich werden könnte!\r",
+        "Wir werden dir helfen, sobald wir am\n",
+        "See der Wahrheit nach dem Rechten\f",
+        "gesehen haben."
+      ]
+    },
+    {
+      "id": "msg_0047_00012",
+      "de_DE": [
+        "Was ist passiert?\n",
+        "Deine Kleidung sieht nass aus.\r",
+        "Warst du am Strand unterhalb\n",
+        "von Sandgemme?"
+      ]
+    },
+    {
+      "id": "msg_0047_00013",
+      "de_DE": [
+        "Dieses Beben... Das fühlte sich gar\n",
+        "nicht wie ein richtiges Erdbeben an.\r",
+        "Eher wie eine Explosion."
+      ]
+    },
+    {
+      "id": "msg_0047_00014",
+      "de_DE": [
+        "Willkommen in Fleetburg, der\n",
+        "Kanalstadt.\r",
+        "In alten Zeiten wurden in diesem\n",
+        "Hafen Güter in alle Welt verschifft."
+      ]
+    },
+    {
+      "id": "msg_0047_00015",
+      "de_DE": [
+        "Was war das für ein Beben? Ich dachte,\n",
+        "der Kraterberg wäre ausgebrochen!"
+      ]
+    },
+    {
+      "id": "msg_0047_00016",
+      "de_DE": [
+        "Ich gehe in die Bibliothek.\n",
+        "Ich liebe Bücher über alles!\r",
+        "Wenn ich lese, tragen mich die\n",
+        "Bücher zu fremden Orten und Zeiten."
+      ]
+    },
+    {
+      "id": "msg_0047_00017",
+      "de_DE": [
+        "Eine Explosion am See der Kühnheit?\n",
+        "Aber was gibt es denn da, was\f",
+        "explodieren kann?"
+      ]
+    },
+    {
+      "id": "msg_0047_00018",
+      "de_DE": [
+        "Mein ENTON und ich stehen uns sehr\n",
+        "nahe. Es kennt die Attacke Rückkehr!"
+      ]
+    },
+    {
+      "id": "msg_0047_00019",
+      "de_DE": [
+        "Se-selbst E-E-ENTONs Seher konnte\n",
+        "das Beben nicht vorhersehen!"
+      ]
+    },
+    {
+      "id": "msg_0047_00020",
+      "de_DE": "ENTON: Tonn?"
+    },
+    {
+      "id": "msg_0047_00021",
+      "de_DE": [
+        "ENTON: Tonn! Tonn! En?\n",
+        "Tonn! Tonn?!?"
+      ]
+    },
+    {
+      "id": "msg_0047_00022",
+      "de_DE": [
+        "Der Leiter und die Trainer dieser Arena\n",
+        "gehen oft zur Eiseninsel.\r",
+        "Sie trainieren dort nicht nur ihre\n",
+        "Pokémon, sondern treiben auch\f",
+        "selbst Sport."
+      ]
+    },
+    {
+      "id": "msg_0047_00023",
+      "de_DE": "Ich bin verblüfft!"
+    },
+    {
+      "id": "msg_0047_00024",
+      "de_DE": "Willst du verreisen?"
+    },
+    {
+      "id": "msg_0047_00025",
+      "de_DE": "Anker lichten!\r"
+    },
+    {
+      "id": "msg_0047_00026",
+      "de_DE": [
+        "Sag mir einfach Bescheid, wenn du\n",
+        "irgendwohin möchtest!"
+      ]
+    },
+    {
+      "id": "msg_0047_00027",
+      "de_DE": [
+        "Ahoi! Sag mir einfach Bescheid, wenn ich\n",
+        "den Anker wieder lichten soll!"
+      ]
+    },
+    {
+      "id": "msg_0047_00028",
+      "de_DE": [
+        "Ich habe die Liebe zum Meer verloren,\n",
+        "seit mein Sohn in diesem grausamen\f",
+        "Alptraum gefangen ist...\r",
+        "Um ihn daraus zu befreien, benötige ich\n",
+        "die Lunarfeder von der Vollmond-Insel!\r",
+        "Würdest du für mich zur Vollmond-Insel\n",
+        "gehen? Wenn nicht für mich, dann für\f",
+        "meinen Sohn?"
+      ]
+    },
+    {
+      "id": "msg_0047_00029",
+      "de_DE": [
+        "Wir zählen beide auf dich!\n",
+        "Nur du kannst meinen Sohn aus\f",
+        "diesem Alptraum befreien...\r",
+        "Bitte, ich benötige die Lunarfeder,\n",
+        "die man auf der Vollmond-Insel findet,\f",
+        "um ihn aus dem Alptraum zu befreien!\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00030",
+      "de_DE": [
+        "Musst du dich noch vorbereiten?\r",
+        "Ich warte hier auf dich. Wir hoffen\n",
+        "verzweifelt, dass du uns hilfst."
+      ]
+    },
+    {
+      "id": "msg_0047_00031",
+      "de_DE": [
+        "Die Lunarfeder...\n",
+        "Bitte! Bring sie zu meinem Sohn..."
+      ]
+    },
+    {
+      "id": "msg_0047_00032",
+      "de_DE": [
+        "Du hast sehr lange geschlafen... Was\n",
+        "ist dir nur passiert?\r",
+        "Und was machst du hier? Hier lebt\n",
+        "seit 50 Jahren niemand mehr.\r"
+      ]
+    },
+    {
+      "id": "msg_0047_00033",
+      "de_DE": [
+        "Fleetburg\n",
+        "Verladehafen"
+      ]
+    },
+    {
+      "id": "msg_0047_00034",
+      "de_DE": [
+        "Pokémon Arena Fleetburg\n",
+        "Leiter: Adam\f",
+        "Der Mann mit Muskeln aus Stahl!"
+      ]
+    },
+    {
+      "id": "msg_0047_00035",
+      "de_DE": "Fleetburg Bibliothek"
+    },
+    {
+      "id": "msg_0047_00036",
+      "de_DE": "Seemann Eldrichs Haus"
+    },
+    {
+      "id": "msg_0047_00037",
+      "de_DE": "Dock von Fleetburg"
+    },
+    {
+      "id": "msg_0047_00038",
+      "de_DE": [
+        "Zum Fliegenden Sinnoher...\n",
+        "Der Text ist verwittert und unlesbar."
+      ]
+    },
+    {
+      "id": "msg_0047_00039",
+      "de_DE": [
+        "Zum Fliegenden Sinnoher\r",
+        "Ein Fleck der Ruhe für\n",
+        "rastlose Seefahrer\r",
+        "“Süße Träume in Betten, die\n",
+        "festen Boden unter dem Rahmen haben!”"
+      ]
+    },
+    {
+      "id": "msg_0047_00040",
+      "de_DE": [
+        "Die Tür ist fest verschlossen.\n",
+        "Sie lässt sich wohl nicht öffnen."
+      ]
+    }
+  ]
+}

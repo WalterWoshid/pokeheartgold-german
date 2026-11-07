@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_89.inc"
 	.include "global.inc"
@@ -8153,7 +8154,7 @@ _0225C768:
 	add r3, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r0, [sp, #0x14]
 	ldr r2, [sp, #0x1c]

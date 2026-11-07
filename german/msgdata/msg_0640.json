@@ -1,0 +1,554 @@
+{
+  "key": 7509,
+  "messages": [
+    {
+      "id": "msg_0640_00000",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00001",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00002",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Tag, {STRVAR_1 3, 0, 0}! \r"
+      ]
+    },
+    {
+      "id": "msg_0640_00003",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Tag, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00004",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Abend, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00005",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Abend, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00006",
+      "de_DE": [
+        "Guten Morgen, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch müde?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00007",
+      "de_DE": [
+        "Guten Morgen, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch müde?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00008",
+      "de_DE": [
+        "Guten Tag, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Wie geht’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00009",
+      "de_DE": [
+        "Guten Tag, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Wie geht’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00010",
+      "de_DE": [
+        "Guten Abend, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch wach?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00011",
+      "de_DE": [
+        "Guten Abend, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch wach?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00012",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00013",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00014",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Tag, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00015",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Tag, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00016",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Abend, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00017",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier...\r",
+        "Ah, guten Abend, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00018",
+      "de_DE": [
+        "Guten Morgen, {STRVAR_1 3, 0, 0}!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Wie geht’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00019",
+      "de_DE": [
+        "Guten Morgen, {STRVAR_1 3, 0, 0}!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Wie geht’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00020",
+      "de_DE": [
+        "Guten Tag, {STRVAR_1 3, 0, 0}!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Wie läuft’s so?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00021",
+      "de_DE": [
+        "Guten Tag, {STRVAR_1 3, 0, 0}!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Wie läuft’s so?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00022",
+      "de_DE": [
+        "Guten Abend, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch wach?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00023",
+      "de_DE": [
+        "Guten Abend, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch wach?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00024",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier!\r",
+        "Ah, {STRVAR_1 3, 0, 0}! Guten Morgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00025",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier!\r",
+        "Ah, {STRVAR_1 3, 0, 0}! Guten Morgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00026",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier!\r",
+        "Ah, {STRVAR_1 3, 0, 0}! Guten Tag!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00027",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier!\r",
+        "Ah, {STRVAR_1 3, 0, 0}! Guten Tag!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00028",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier!\r",
+        "Ah, {STRVAR_1 3, 0, 0}! Guten Abend!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00029",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier!\r",
+        "Ah, {STRVAR_1 3, 0, 0}! Guten Abend!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00030",
+      "de_DE": [
+        "Hallo!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Alles okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00031",
+      "de_DE": [
+        "Hallo!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Alles okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00032",
+      "de_DE": [
+        "Hallo!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Alles okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00033",
+      "de_DE": [
+        "Hallo!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Alles okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00034",
+      "de_DE": [
+        "Hallo!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Alles okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00035",
+      "de_DE": [
+        "Hallo!\r",
+        "Ich bin’s, {STRVAR_1 3, 1, 0}! Alles okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00036",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier.\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00037",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier.\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00038",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier.\r",
+        "Ah, guten Tag, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00039",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier.\r",
+        "Ah, guten Tag, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00040",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier.\r",
+        "Ah, guten Abend, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00041",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 1, 0} hier.\r",
+        "Ah, guten Abend, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00042",
+      "de_DE": [
+        "Guten Morgen, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch müde?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00043",
+      "de_DE": [
+        "Guten Morgen, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch müde?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00044",
+      "de_DE": [
+        "Guten Tag, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Wie geht’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00045",
+      "de_DE": [
+        "Guten Tag, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Wie geht’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00046",
+      "de_DE": [
+        "Guten Abend, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch wach?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00047",
+      "de_DE": [
+        "Guten Abend, {STRVAR_1 3, 0, 0}!\r",
+        "{STRVAR_1 3, 1, 0} am Apparat! Noch wach?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00048",
+      "de_DE": [
+        "Hier spricht {STRVAR_1 3, 1, 0}...\r",
+        "Ah, einen schönen guten Morgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00049",
+      "de_DE": [
+        "Hier spricht {STRVAR_1 3, 1, 0}...\r",
+        "Ah, einen schönen guten Morgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00050",
+      "de_DE": [
+        "Hier spricht {STRVAR_1 3, 1, 0}...\r",
+        "Ah, einen schönen guten Tag!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00051",
+      "de_DE": [
+        "Hier spricht {STRVAR_1 3, 1, 0}...\r",
+        "Ah, einen schönen guten Tag!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00052",
+      "de_DE": [
+        "Hier spricht {STRVAR_1 3, 1, 0}...\r",
+        "Ah, einen schönen guten Abend!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00053",
+      "de_DE": [
+        "Hier spricht {STRVAR_1 3, 1, 0}...\r",
+        "Ah, einen schönen guten Abend!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00054",
+      "de_DE": [
+        "Hallo, hier spricht {STRVAR_1 3, 1, 0}.\r",
+        "Guten Morgen! Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00055",
+      "de_DE": [
+        "Hallo, hier spricht {STRVAR_1 3, 1, 0}.\r",
+        "Guten Morgen! Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00056",
+      "de_DE": [
+        "Hallo, hier spricht {STRVAR_1 3, 1, 0}.\r",
+        "Guten Tag! Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00057",
+      "de_DE": [
+        "Hallo, hier spricht {STRVAR_1 3, 1, 0}.\r",
+        "Guten Tag! Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00058",
+      "de_DE": [
+        "Hallo, hier spricht {STRVAR_1 3, 1, 0}.\r",
+        "Guten Abend! Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00059",
+      "de_DE": [
+        "Hallo, hier spricht {STRVAR_1 3, 1, 0}.\r",
+        "Guten Abend! Wie geht es dir?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00060",
+      "de_DE": [
+        "Jaaa! {STRVAR_1 3, 1, 0} hier!\n",
+        "Guuuten Mooorgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00061",
+      "de_DE": [
+        "Jaaa! {STRVAR_1 3, 1, 0} hier!\n",
+        "Guuuten Mooorgen!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00062",
+      "de_DE": [
+        "Jaaa! {STRVAR_1 3, 1, 0} hier!\n",
+        "Guuuten Taaag!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00063",
+      "de_DE": [
+        "Jaaa! {STRVAR_1 3, 1, 0} hier!\n",
+        "Guuuten Taaag!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00064",
+      "de_DE": [
+        "Jaaa! {STRVAR_1 3, 1, 0} hier!\n",
+        "Guuuten Aaabend!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00065",
+      "de_DE": [
+        "Jaaa! {STRVAR_1 3, 1, 0} hier!\n",
+        "Guuuten Aaabend!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00066",
+      "de_DE": [
+        "Guuuten Morgen!\n",
+        "{STRVAR_1 3, 1, 0} hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00067",
+      "de_DE": [
+        "Guuuten Morgen!\n",
+        "{STRVAR_1 3, 1, 0} hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00068",
+      "de_DE": [
+        "Guuuten Taaag!\n",
+        "{STRVAR_1 3, 1, 0} am Apparat!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00069",
+      "de_DE": [
+        "Guuuten Taaag!\n",
+        "{STRVAR_1 3, 1, 0} am Apparat!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00070",
+      "de_DE": [
+        "Guuuten Aaabend!\n",
+        "{STRVAR_1 3, 1, 0} hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00071",
+      "de_DE": [
+        "Guuuten Aaabend!\n",
+        "{STRVAR_1 3, 1, 0} hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00072",
+      "de_DE": [
+        "Guten Morgen!\r",
+        "Dies ist der Verwaltungsservice\n",
+        "des Pokémon-Lagerungssystems!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00073",
+      "de_DE": [
+        "Guten Tag!\r",
+        "Dies ist der Verwaltungsservice\n",
+        "des Pokémon-Lagerungssystems!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00074",
+      "de_DE": [
+        "Guten Abend!\r",
+        "Dies ist der Verwaltungsservice\n",
+        "des Pokémon-Lagerungssystems!\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00075",
+      "de_DE": [
+        "Hier ist {STRVAR_1 3, 1, 0}...\r",
+        "{STRVAR_1 3, 0, 0}! Ein schöner Tag, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00076",
+      "de_DE": [
+        "Hier ist {STRVAR_1 3, 1, 0}...\r",
+        "{STRVAR_1 3, 0, 0}! Schönes Wetter, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0640_00077",
+      "de_DE": [
+        "Hier ist {STRVAR_1 3, 1, 0}...\r",
+        "{STRVAR_1 3, 0, 0}! Schöner Abend, oder?\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "key": 62072,
+  "messages": [
+    {
+      "id": "msg_0670_00000",
+      "de_DE": "Hubert"
+    },
+    {
+      "id": "msg_0670_00001",
+      "de_DE": [
+        "Wohlan! Dürfte ich dir meine\n",
+        "Telefonnummer anvertrauen?\f",
+        "So kann ich mein Kommen\f",
+        "in Zukunft stets ankündigen. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0670_00002",
+      "de_DE": [
+        "Hervorragend!\n",
+        "Nun können wir immer miteinander\f",
+        "Kontakt halten."
+      ]
+    },
+    {
+      "id": "msg_0670_00003",
+      "de_DE": [
+        "Ich verstehe...\r",
+        "Es ist wohl nur natürlich, dass Kinder\n",
+        "mit anderen Kindern spielen wollen."
+      ]
+    },
+    {
+      "id": "msg_0670_00004",
+      "de_DE": [
+        "Oh. Bist du nun gewillt, mit mir\n",
+        "Telefonnummern auszutauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0670_00005",
+      "de_DE": [
+        "Stimmt etwas nicht? Du bist\n",
+        "doch im gleichen Stockwerk wie ich?\r",
+        "In diesem Fall reden wir besser\n",
+        "von Angesicht zu Angesicht!"
+      ]
+    },
+    {
+      "id": "msg_0670_00006",
+      "de_DE": [
+        "Potz Blitz!\n",
+        "Gestern tauschte ich mit einem anderen\f",
+        "Trainer ein NOCTUH.\r",
+        "Es war genau das NOCTUH, das ich\n",
+        "einmal vor langer Zeit beim Tausch\f",
+        "mit einem anderen Trainer weggab.\r",
+        "Nun ist es also über zahlreiche Umwege\n",
+        "wieder in mein Team zurückgekehrt.\r",
+        "Alles in der Welt ist miteinander\n",
+        "verbunden!"
+      ]
+    },
+    {
+      "id": "msg_0670_00007",
+      "de_DE": [
+        "Potz Blitz!\n",
+        "Ich habe dir doch erzählt, wie ich\f",
+        "neulich ein NOCTUH getauscht habe.\r",
+        "Ein mir sehr wohl bekanntes NOCTUH\n",
+        "noch dazu!\r",
+        "Ein NOCTUH, das ich selbst einmal\n",
+        "vor langer Zeit aufgezogen hatte!\r",
+        "Und das nun zu mir zurückgekehrt ist...\f",
+        "So kam es mir zumindest vor...\f",
+        "Aber bei genauerem Hinsehen...\f",
+        "war es ein völlig anderes NOCTUH!\r",
+        "In der Welt läuft eben doch\n",
+        "nicht alles so, wie man es erwartet."
+      ]
+    },
+    {
+      "id": "msg_0670_00008",
+      "de_DE": [
+        "Wilde Pokémon zu fangen ist nicht\n",
+        "unbedingt meine Stärke.\f",
+        "Häufig muss ich Rückschläge einstecken.\r",
+        "Neulich zum Beispiel ist mir ein\n",
+        "RATTFRATZ entwischt...\r",
+        "Ich hatte kaum meinen Hut gezückt,\n",
+        "um es anständig zu grüßen,\f",
+        "da war es auch schon fortgeflitzt.\r",
+        "Diese wilden RATTFRATZ sind\n",
+        "wirklich reichlich unwirtliche Gesellen!"
+      ]
+    },
+    {
+      "id": "msg_0670_00009",
+      "de_DE": [
+        "Hohoho! Darf es wieder ein\n",
+        "Kampf sein?\r",
+        "Aber mit großem Vergnügen!\r",
+        "Ich schlage vor, wir kämpfen hier:\n",
+        "{STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0670_00010",
+      "de_DE": [
+        "Pardon? Erinnerst du\n",
+        "dich noch an unseren Kampf?\r",
+        "Ich erwarte dich hier:\n",
+        "{STRVAR_1 4, 3, 0}.\f",
+        "Bitte komm unverzüglich!"
+      ]
+    },
+    {
+      "id": "msg_0670_00011",
+      "de_DE": [
+        "Wer hätte gedacht, dass ich einmal mit\n",
+        "einem jungen Menschen wie dir\f",
+        "telefonisch Anekdoten austausche?\r",
+        "Auch das ist ein Beweis für die\n",
+        "wundersame Kraft der Pokémon,\f",
+        "die Menschen zusammenzuführen.\r",
+        "Pokémon sind schon einzigartige\n",
+        "Geschöpfe!"
+      ]
+    }
+  ]
+}

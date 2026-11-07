@@ -1,0 +1,197 @@
+{
+  "key": 25643,
+  "messages": [
+    {
+      "id": "msg_0072_00000",
+      "de_DE": [
+        "Hallo! Willkommen im\n",
+        "Bergbaumuseum von Erzelingen!"
+      ]
+    },
+    {
+      "id": "msg_0072_00001",
+      "de_DE": [
+        "Hallo, hallo!\n",
+        "Wie geht es dir?\r",
+        "Ich studiere Pokémon-Fossilien!\n",
+        "Ja, genau! Hier und jetzt!\r"
+      ]
+    },
+    {
+      "id": "msg_0072_00002",
+      "de_DE": [
+        "Hast du ein Fossil für mich?\n",
+        "Soll ich es in ein Pokémon verwandeln?"
+      ]
+    },
+    {
+      "id": "msg_0072_00003",
+      "de_DE": [
+        "Welches Fossil soll ich in ein Pokémon\n",
+        "verwandeln? Wähle! Sofort!"
+      ]
+    },
+    {
+      "id": "msg_0072_00004",
+      "de_DE": [
+        "Gut, das mache ich! Ich werde das\n",
+        "Fossil in ein Pokémon verwandeln!"
+      ]
+    },
+    {
+      "id": "msg_0072_00005",
+      "de_DE": [
+        "Ich soll also kein Fossil in ein Pokémon\n",
+        "verwandeln. Gut. Wenn du nicht willst..."
+      ]
+    },
+    {
+      "id": "msg_0072_00006",
+      "de_DE": [
+        "Ich bin gerade dabei, ein Fossil in dein\n",
+        "Pokémon zu verwandeln.\r",
+        "Du gehst jetzt nach draußen. Sofort!\n",
+        "Ich brauche nur Zeit! SOFORT!!!"
+      ]
+    },
+    {
+      "id": "msg_0072_00007",
+      "de_DE": [
+        "Ich habe es geschafft!\r",
+        "Dies ist dein {STRVAR_1 0, 0}!\n",
+        "Behandle es gut, verstanden?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0072_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat das\n",
+        "{STRVAR_1 0, 1} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0072_00009",
+      "de_DE": [
+        "Möchtest du dem {STRVAR_1 0, 1}\n",
+        "einen Spitznamen geben?"
+      ]
+    },
+    {
+      "id": "msg_0072_00010",
+      "de_DE": [
+        "Aber nein, das geht nicht!\n",
+        "Du hast viel zu viele Pokémon bei dir!\r",
+        "Ich werde es bei mir behalten, bis du\n",
+        "es an dich nehmen kannst."
+      ]
+    },
+    {
+      "id": "msg_0072_00011",
+      "de_DE": [
+        "Erhältst du ein Fossil, dann bring\n",
+        "es, wenn es sein muss, zu mir."
+      ]
+    },
+    {
+      "id": "msg_0072_00012",
+      "de_DE": [
+        "Ich stehe kurz vor dem Durchbruch,\n",
+        "das tue ich. Kurz davor, aus Fossilien\f",
+        "Pokémon zu extrahieren.\r",
+        "Das geht, das kann ich. Aber noch\n",
+        "nicht sofort, noch nicht sofort."
+      ]
+    },
+    {
+      "id": "msg_0072_00013",
+      "de_DE": [
+        "Wow! Das ist also Kohle? Ich hätte\n",
+        "niemals etwas so Großes erwartet!"
+      ]
+    },
+    {
+      "id": "msg_0072_00014",
+      "de_DE": [
+        "Boah! Das Pokémon, das so etwas tragen\n",
+        "kann, muss unglaublich stark sein!"
+      ]
+    },
+    {
+      "id": "msg_0072_00015",
+      "de_DE": [
+        "Hör dir das an!\r",
+        "Die Erzelingen-Mine verläuft\n",
+        "sogar unter dem Meer!!!"
+      ]
+    },
+    {
+      "id": "msg_0072_00016",
+      "de_DE": [
+        "Wie Kohle entsteht   1\r",
+        "“Vor Urzeiten wurde Pflanzenmaterial\n",
+        "durch Regen und Flüsse an\r",
+        "Land gespült, wo es von Erde\n",
+        "bedeckt wurde.”"
+      ]
+    },
+    {
+      "id": "msg_0072_00017",
+      "de_DE": [
+        "Wie Kohle entsteht   2\r",
+        "“Das Pflanzenmaterial wurde durch\n",
+        "Erdbeben und die Bewegungen der\r",
+        "Landmassen immer tiefer in die Erde\n",
+        "gedrückt.”"
+      ]
+    },
+    {
+      "id": "msg_0072_00018",
+      "de_DE": [
+        "Wie Kohle entsteht   3\r",
+        "“In der Tiefe wurde das\n",
+        "Pflanzenmaterial Druck und der Hitze\r",
+        "von Magma ausgesetzt und verwandelte\n",
+        "sich so langsam zu Kohle.”"
+      ]
+    },
+    {
+      "id": "msg_0072_00019",
+      "de_DE": [
+        "Hier sind Kohlearten aus\n",
+        "verschiedenen Regionen zu sehen."
+      ]
+    },
+    {
+      "id": "msg_0072_00020",
+      "de_DE": [
+        "Dieser Kasten enthält verschiedene\n",
+        "Arten von Kohle."
+      ]
+    },
+    {
+      "id": "msg_0072_00021",
+      "de_DE": [
+        "Verschiedene Grubenlampen sind hier\n",
+        "zu sehen. Die Bergleute trugen diese\r",
+        "früher auf ihrem Kopf, wenn sie in der\n",
+        "Mine arbeiteten."
+      ]
+    },
+    {
+      "id": "msg_0072_00022",
+      "de_DE": [
+        "Alte, abgenutzte hölzerne Werkzeuge\n",
+        "sind hier zu sehen.\r",
+        "Offenbar wurde ganz früher die Kohle\n",
+        "mit diesen Werkzeugen abgebaut."
+      ]
+    },
+    {
+      "id": "msg_0072_00023",
+      "de_DE": [
+        "Alltägliche Gegenstände der\n",
+        "Minenarbeiter und alte Werkzeuge."
+      ]
+    }
+  ]
+}

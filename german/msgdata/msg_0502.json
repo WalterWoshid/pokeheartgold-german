@@ -1,0 +1,16 @@
+{
+  "key": 17426,
+  "messages": [
+    {
+      "id": "msg_0502_00000",
+      "de_DE": "Dieser Aufzug führt zum Dach."
+    },
+    {
+      "id": "msg_0502_00001",
+      "de_DE": [
+        "Dieser Aufzug pendelt zwischen dem\n",
+        "Erdgeschoss und dem zweiten Stock."
+      ]
+    }
+  ]
+}

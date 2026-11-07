@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_67.inc"
 	.include "global.inc"
@@ -1727,7 +1728,7 @@ _021E66C4:
 	str r0, [sp, #0x14]
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	add r3, r6, r5
 	sub r2, r2, #4

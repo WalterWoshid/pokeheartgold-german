@@ -1,0 +1,349 @@
+{
+  "key": 37027,
+  "messages": [
+    {
+      "id": "msg_0430_00000",
+      "de_DE": "Soll {STRVAR_1 8, 0, 0} platziert werden?"
+    },
+    {
+      "id": "msg_0430_00001",
+      "de_DE": "{STRVAR_1 8, 0, 0} wurde platziert."
+    },
+    {
+      "id": "msg_0430_00002",
+      "de_DE": "Anzahl der platzierbaren Blöcke: {STRVAR_1 51, 0, 0}."
+    },
+    {
+      "id": "msg_0430_00003",
+      "de_DE": "Du hast alle möglichen Blöcke platziert."
+    },
+    {
+      "id": "msg_0430_00004",
+      "de_DE": "Hier ist nicht genug Platz."
+    },
+    {
+      "id": "msg_0430_00005",
+      "de_DE": "Das kann man nicht auf Land platzieren."
+    },
+    {
+      "id": "msg_0430_00006",
+      "de_DE": "Das kann man nicht im Wasser platzieren."
+    },
+    {
+      "id": "msg_0430_00007",
+      "de_DE": "Du kannst nicht mehr davon platzieren."
+    },
+    {
+      "id": "msg_0430_00008",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0430_00009",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0430_00010",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0430_00011",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0430_00012",
+      "de_DE": "{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}"
+    },
+    {
+      "id": "msg_0430_00013",
+      "de_DE": "{STRVAR_1 8, 0, 0}"
+    },
+    {
+      "id": "msg_0430_00014",
+      "de_DE": "Buchsbaum"
+    },
+    {
+      "id": "msg_0430_00015",
+      "de_DE": "Rote Blume"
+    },
+    {
+      "id": "msg_0430_00016",
+      "de_DE": "Weiße Blume"
+    },
+    {
+      "id": "msg_0430_00017",
+      "de_DE": "Baum"
+    },
+    {
+      "id": "msg_0430_00018",
+      "de_DE": "Baumstumpf"
+    },
+    {
+      "id": "msg_0430_00019",
+      "de_DE": "Äste"
+    },
+    {
+      "id": "msg_0430_00020",
+      "de_DE": "Kleiner Fels"
+    },
+    {
+      "id": "msg_0430_00021",
+      "de_DE": "Großer Fels"
+    },
+    {
+      "id": "msg_0430_00022",
+      "de_DE": "Moosstein"
+    },
+    {
+      "id": "msg_0430_00023",
+      "de_DE": "Pfütze"
+    },
+    {
+      "id": "msg_0430_00024",
+      "de_DE": "Springbrunn."
+    },
+    {
+      "id": "msg_0430_00025",
+      "de_DE": "Trinkbrunnen"
+    },
+    {
+      "id": "msg_0430_00026",
+      "de_DE": "Bank"
+    },
+    {
+      "id": "msg_0430_00027",
+      "de_DE": "Kurz. Zaun 1"
+    },
+    {
+      "id": "msg_0430_00028",
+      "de_DE": "Kurz. Zaun 2"
+    },
+    {
+      "id": "msg_0430_00029",
+      "de_DE": "Lg. Zaun 1"
+    },
+    {
+      "id": "msg_0430_00030",
+      "de_DE": "Lg. Zaun 2"
+    },
+    {
+      "id": "msg_0430_00031",
+      "de_DE": "Schild"
+    },
+    {
+      "id": "msg_0430_00032",
+      "de_DE": "Denkmal"
+    },
+    {
+      "id": "msg_0430_00033",
+      "de_DE": "Flagge"
+    },
+    {
+      "id": "msg_0430_00034",
+      "de_DE": "Straßenlampe"
+    },
+    {
+      "id": "msg_0430_00035",
+      "de_DE": "Wegweiser R"
+    },
+    {
+      "id": "msg_0430_00036",
+      "de_DE": "Wegweiser L"
+    },
+    {
+      "id": "msg_0430_00037",
+      "de_DE": "Mülleimer"
+    },
+    {
+      "id": "msg_0430_00038",
+      "de_DE": [
+        "Ein Buchsbaum.\n",
+        "Pokémon, die auf Wiesen leben,\n",
+        "finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00039",
+      "de_DE": [
+        "Eine feurig gefärbte Blume.\n",
+        "Pokémon, die auf Wiesen leben,\n",
+        "finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00040",
+      "de_DE": [
+        "Eine sanft gefärbte Blume.\n",
+        "Pokémon, die auf Wiesen leben,\n",
+        "finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00041",
+      "de_DE": [
+        "Nicht unbedingt der größte Baum.\n",
+        "Aber Pokémon, die in Wäldern leben,\n",
+        "finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00042",
+      "de_DE": [
+        "Das war einmal ein mächtiger Baumstamm.\n",
+        "Pokémon, die in Wäldern leben,\n",
+        "finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00043",
+      "de_DE": [
+        "Ein Haufen abgebrochener Äste.\n",
+        "Pokémon, die in Wäldern leben,\n",
+        "finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00044",
+      "de_DE": [
+        "Ein kompakter, runder Fels.\n",
+        "Pokémon, die auf steinigem Grund\n",
+        "leben, finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00045",
+      "de_DE": [
+        "Ein großer, rumpeliger Fels.\n",
+        "Pokémon, die auf steinigem Grund\n",
+        "leben, finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00046",
+      "de_DE": [
+        "Ein mit Moos bewachsener Fels.\n",
+        "Pokémon, die auf steinigem Grund\n",
+        "leben, finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00047",
+      "de_DE": [
+        "Ein angestautes Wasserreservoir.\n",
+        "Pokémon, die am Wasserufer\n",
+        "leben, finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00048",
+      "de_DE": [
+        "Kann nur beim Surfen platziert werden.\n",
+        "Pokémon, die am Wasserufer\n",
+        "leben, finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00049",
+      "de_DE": [
+        "Kühles, erfrischendes Wasser quillt\n",
+        "daraus empor. Pokémon, die am\n",
+        "Wasserufer leben, finden Gefallen daran."
+      ]
+    },
+    {
+      "id": "msg_0430_00050",
+      "de_DE": [
+        "Eine schmale, längliche Bank,\n",
+        "von der Sorte, die in jedem Park oder\n",
+        "in Wartezimmern herumsteht."
+      ]
+    },
+    {
+      "id": "msg_0430_00051",
+      "de_DE": [
+        "Ein kurzes, horizontal verlaufendes\n",
+        "Stück Zaun. Mit ein paar davon ließe sich\n",
+        "ein See oder ein Blumenbeet umzäunen."
+      ]
+    },
+    {
+      "id": "msg_0430_00052",
+      "de_DE": [
+        "Ein kurzes, vertikal verlaufendes Stück\n",
+        "Zaun. Mit ein paar davon ließe sich\n",
+        "ein See oder ein Blumenbeet umzäunen."
+      ]
+    },
+    {
+      "id": "msg_0430_00053",
+      "de_DE": [
+        "Ein langes, horizontal verlaufendes\n",
+        "Stück Zaun. Mit ein paar davon ließe sich\n",
+        "ein See oder ein Blumenbeet umzäunen."
+      ]
+    },
+    {
+      "id": "msg_0430_00054",
+      "de_DE": [
+        "Ein langes, vertikal verlaufendes Stück\n",
+        "Zaun. Mit ein paar davon ließe sich\n",
+        "ein See oder ein Blumenbeet umzäunen."
+      ]
+    },
+    {
+      "id": "msg_0430_00055",
+      "de_DE": [
+        "Ein hölzernes Schild. Es besteht\n",
+        "aus einem in den Boden gerammten Pfahl\n",
+        "und einem daran festgenagelten Brett."
+      ]
+    },
+    {
+      "id": "msg_0430_00056",
+      "de_DE": [
+        "Eine dir selbst nachempfundene Statue.\n",
+        "Mit der im Garten kannst auch du dich\n",
+        "einmal wie ein echter Held fühlen!"
+      ]
+    },
+    {
+      "id": "msg_0430_00057",
+      "de_DE": [
+        "Eine Flagge mit deinem Konterfei.\n",
+        "Mit der im Garten kannst auch du dich\n",
+        "einmal wie ein echter Held fühlen!"
+      ]
+    },
+    {
+      "id": "msg_0430_00058",
+      "de_DE": [
+        "Eine hell leuchtende Laterne.\n",
+        "Im Dunklen eignet sie sich perfekt, um\n",
+        "deinen Weg hübsch auszuleuchten."
+      ]
+    },
+    {
+      "id": "msg_0430_00059",
+      "de_DE": [
+        "Eine nach rechts weisende Markierung.\n",
+        "Wer sie sieht, wird wahrscheinlich den\n",
+        "Drang verspüren, rechts abzubiegen."
+      ]
+    },
+    {
+      "id": "msg_0430_00060",
+      "de_DE": [
+        "Eine nach links weisende Markierung.\n",
+        "Wer sie sieht, wird wahrscheinlich den\n",
+        "Drang verspüren, links abzubiegen."
+      ]
+    },
+    {
+      "id": "msg_0430_00061",
+      "de_DE": [
+        "Ein Mülleimer zum Sammeln von Abfällen.\n",
+        "Denke immer daran, deinen Müll ordentlich\n",
+        "zu entsorgen oder mit dir mitzunehmen!"
+      ]
+    }
+  ]
+}

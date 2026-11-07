@@ -1,0 +1,185 @@
+{
+  "key": 10503,
+  "messages": [
+    {
+      "id": "msg_0015_00000",
+      "de_DE": "{STRVAR_1 1, 0} wurde ausgewählt."
+    },
+    {
+      "id": "msg_0015_00001",
+      "de_DE": "Markiere dein Pokémon."
+    },
+    {
+      "id": "msg_0015_00002",
+      "de_DE": "Dieses Pokémon freilassen?"
+    },
+    {
+      "id": "msg_0015_00003",
+      "de_DE": "{STRVAR_1 1, 0} ist wieder frei."
+    },
+    {
+      "id": "msg_0015_00004",
+      "de_DE": "Tschüss, {STRVAR_1 1, 0}!"
+    },
+    {
+      "id": "msg_0015_00005",
+      "de_DE": "Dein Team ist voll!"
+    },
+    {
+      "id": "msg_0015_00006",
+      "de_DE": "Dein letztes Pokémon!"
+    },
+    {
+      "id": "msg_0015_00007",
+      "de_DE": "Was möchtest du tun?"
+    },
+    {
+      "id": "msg_0015_00008",
+      "de_DE": "Zu welcher Box wechseln?"
+    },
+    {
+      "id": "msg_0015_00009",
+      "de_DE": "Wähle eine Motivsammlung."
+    },
+    {
+      "id": "msg_0015_00010",
+      "de_DE": "Wähle ein Hintergrundmotiv."
+    },
+    {
+      "id": "msg_0015_00011",
+      "de_DE": "Die Box verlassen?"
+    },
+    {
+      "id": "msg_0015_00012",
+      "de_DE": "Die Box weiter bearbeiten?"
+    },
+    {
+      "id": "msg_0015_00013",
+      "de_DE": "Die Box ist voll."
+    },
+    {
+      "id": "msg_0015_00014",
+      "de_DE": "Der Beutel ist voll."
+    },
+    {
+      "id": "msg_0015_00015",
+      "de_DE": "Nahm das Item {STRVAR_1 8, 0}."
+    },
+    {
+      "id": "msg_0015_00016",
+      "de_DE": "{STRVAR_1 8, 0} wird nun gehalten."
+    },
+    {
+      "id": "msg_0015_00017",
+      "de_DE": "Du hältst ein Pokémon!"
+    },
+    {
+      "id": "msg_0015_00018",
+      "de_DE": "Welches wählst du aus?"
+    },
+    {
+      "id": "msg_0015_00019",
+      "de_DE": "In welche Box ablegen?"
+    },
+    {
+      "id": "msg_0015_00020",
+      "de_DE": "Kein Item"
+    },
+    {
+      "id": "msg_0015_00021",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0015_00022",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0015_00023",
+      "de_DE": "{STRVAR_1 8, 0} nehmen?"
+    },
+    {
+      "id": "msg_0015_00024",
+      "de_DE": "Brief-Lagerung unmöglich!"
+    },
+    {
+      "id": "msg_0015_00025",
+      "de_DE": "{STRVAR_1 8, 0} wurde ausgewählt."
+    },
+    {
+      "id": "msg_0015_00026",
+      "de_DE": "{STRVAR_1 8, 0} weglegen?"
+    },
+    {
+      "id": "msg_0015_00027",
+      "de_DE": "{STRVAR_1 8, 0} im Beutel verstaut."
+    },
+    {
+      "id": "msg_0015_00028",
+      "de_DE": "Item geben?"
+    },
+    {
+      "id": "msg_0015_00029",
+      "de_DE": "Bitte entferne die Ballkapsel."
+    },
+    {
+      "id": "msg_0015_00030",
+      "de_DE": "Brief bitte entfernen."
+    },
+    {
+      "id": "msg_0015_00031",
+      "de_DE": "Du kannst kein Ei freilassen!"
+    },
+    {
+      "id": "msg_0015_00032",
+      "de_DE": "{STRVAR_1 1, 0} kam zurück!"
+    },
+    {
+      "id": "msg_0015_00033",
+      "de_DE": "War es in Sorge um dich?"
+    },
+    {
+      "id": "msg_0015_00034",
+      "de_DE": "Ein Ei kann kein Item halten."
+    },
+    {
+      "id": "msg_0015_00035",
+      "de_DE": "WESEN"
+    },
+    {
+      "id": "msg_0015_00036",
+      "de_DE": "Lv."
+    },
+    {
+      "id": "msg_0015_00037",
+      "de_DE": "KP"
+    },
+    {
+      "id": "msg_0015_00038",
+      "de_DE": "ANGRIFF"
+    },
+    {
+      "id": "msg_0015_00039",
+      "de_DE": "VERT."
+    },
+    {
+      "id": "msg_0015_00040",
+      "de_DE": "SP. ANG."
+    },
+    {
+      "id": "msg_0015_00041",
+      "de_DE": "SP. VER."
+    },
+    {
+      "id": "msg_0015_00042",
+      "de_DE": "INIT."
+    },
+    {
+      "id": "msg_0015_00043",
+      "de_DE": "ATTACKE"
+    },
+    {
+      "id": "msg_0015_00044",
+      "de_DE": "???"
+    }
+  ]
+}

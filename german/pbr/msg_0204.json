@@ -1,0 +1,52 @@
+{
+  "key": 51967,
+  "messages": [
+    {
+      "id": "msg_0204_00000",
+      "de_DE": [
+        "Dexter: Das war’s, Leute!\n",
+        "Die Wertungen sind abgeschlossen!\r",
+        "Welches Pokémon wird wohl der\n",
+        "Gewinner sein?\r",
+        "Hier sind die Ergebnisse!\r"
+      ]
+    },
+    {
+      "id": "msg_0204_00001",
+      "de_DE": [
+        "Zunächst die Ergebnisse des\n",
+        "Modelwettstreits!\r"
+      ]
+    },
+    {
+      "id": "msg_0204_00002",
+      "de_DE": [
+        "Als Nächstes die Ergebnisse des\n",
+        "Tanzwettstreits!\r"
+      ]
+    },
+    {
+      "id": "msg_0204_00003",
+      "de_DE": [
+        "Und schließlich die Ergebnisse des\n",
+        "Aktionswettstreits!\r"
+      ]
+    },
+    {
+      "id": "msg_0204_00004",
+      "de_DE": [
+        "Dexter: Gewonnen hat...\n",
+        "Nummer {STRVAR_1 50, 0}!\r",
+        "{STRVAR_1 0, 2} von {STRVAR_1 3, 1}!\n",
+        "Herzlichen Glückwunsch!\r"
+      ]
+    },
+    {
+      "id": "msg_0204_00005",
+      "de_DE": [
+        "Und jetzt ist es an der Zeit, die Sieger\n",
+        "der einzelnen Kategorien zu nennen!\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "key": 9314,
+  "messages": [
+    {
+      "id": "msg_0282_00000",
+      "de_DE": [
+        "Hallo, dies ist die Tauschecke.\r",
+        "Wir tauschen deine Gewinnpunkte\n",
+        "gegen großartige Preise ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0282_00001",
+      "de_DE": [
+        "Möchtest du einen dieser Preise\n",
+        "für deine Gewinnpunkte?"
+      ]
+    },
+    {
+      "id": "msg_0282_00002",
+      "de_DE": "Du möchtest {STRVAR_1 8, 0} haben?"
+    },
+    {
+      "id": "msg_0282_00003",
+      "de_DE": "Bitte, hier ist dein Preis.\r"
+    },
+    {
+      "id": "msg_0282_00004",
+      "de_DE": [
+        "Es tut mir sehr leid... Aber\n",
+        "du hast nicht genug Gewinnpunkte...\r"
+      ]
+    },
+    {
+      "id": "msg_0282_00005",
+      "de_DE": [
+        "Leider hat dein Beutel nicht\n",
+        "genug Platz für {STRVAR_1 8, 0}...\r"
+      ]
+    },
+    {
+      "id": "msg_0282_00006",
+      "de_DE": [
+        "Vielen Dank.\r",
+        "Bitte komm wieder, wenn du \n",
+        "mehr Gewinnpunkte hast."
+      ]
+    },
+    {
+      "id": "msg_0282_00007",
+      "de_DE": [
+        "{STRVAR_1 8, 0}, {STRVAR_1 6, 1}.\n",
+        "Stimmt das so?"
+      ]
+    },
+    {
+      "id": "msg_0282_00008",
+      "de_DE": [
+        "Was soll ich mir nur holen...\n",
+        "Vielleicht eine Technische Maschine."
+      ]
+    },
+    {
+      "id": "msg_0282_00009",
+      "de_DE": [
+        "Am meisten interessiert mich die\n",
+        "vernichtende Kraft meiner Pokémon.\r",
+        "Gibt es vielleicht irgendwelche Preise,\n",
+        "die diese Kraft noch steigern?"
+      ]
+    },
+    {
+      "id": "msg_0282_00010",
+      "de_DE": [
+        "Wie läuft’s denn so?\r",
+        "Nicht gut? Dann solltest du dir hier\n",
+        "vielleicht ein paar Preise holen.\r",
+        "Vielleicht sind deine Pokémon\n",
+        "dann etwas besser drauf."
+      ]
+    },
+    {
+      "id": "msg_0282_00011",
+      "de_DE": [
+        "Mädchen: Oooma, Oooma!\n",
+        "Ich habe getauscht!\r",
+        "Das ist für dich, Oma!\r"
+      ]
+    },
+    {
+      "id": "msg_0282_00012",
+      "de_DE": [
+        "Oma: Oh, was ist es denn, Liebes?\n",
+        "Oh, eine Matschbombe...\r",
+        "Vielen Dank, mein Schatz.\r",
+        "Du bist so ein süßes, nettes\n",
+        "und starkes Mädchen...\r",
+        "Ich bin gesegnet, eine Enkelin\n",
+        "wie dich zu haben..."
+      ]
+    },
+    {
+      "id": "msg_0282_00013",
+      "de_DE": [
+        "Hast du das kleine, niedliche Mädchen\n",
+        "mit seiner Großmutter oben gesehen?\r",
+        "Die Kleine ist im Kampf ein BIEST!\n",
+        "So kann man sich bei Leuten irren!"
+      ]
+    },
+    {
+      "id": "msg_0282_00014",
+      "de_DE": [
+        "Dieses Gebäude ist so riesig...\n",
+        "Muss es denn gleich so groß sein?!?"
+      ]
+    }
+  ]
+}

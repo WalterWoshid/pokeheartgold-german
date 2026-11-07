@@ -1,0 +1,144 @@
+{
+  "key": 20458,
+  "messages": [
+    {
+      "id": "msg_0695_00000",
+      "de_DE": "Gudrun"
+    },
+    {
+      "id": "msg_0695_00001",
+      "de_DE": [
+        "Immer wenn ich auf einen starken\n",
+        "Trainer treffe, möchte ich sein\f",
+        "Cheerleader sein.\r",
+        "Manchmal finde ich Items auf meinen\n",
+        "Spaziergängen. Finde ich etwas,\f",
+        "bekommst du es.\r",
+        "Gibst du mir deine Telefonnummer?\n",
+        "Ich rufe an, wenn ich etwas finde. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0695_00002",
+      "de_DE": [
+        "Ich rufe an, wenn\n",
+        "ich etwas habe!"
+      ]
+    },
+    {
+      "id": "msg_0695_00003",
+      "de_DE": [
+        "Wenn du meinst.\n",
+        "Nun, ich jubele dir trotzdem zu!"
+      ]
+    },
+    {
+      "id": "msg_0695_00004",
+      "de_DE": [
+        "Falls ich ein Item finde,\n",
+        "gebe ich es dir!\r",
+        "Gibst du mir deine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0695_00005",
+      "de_DE": [
+        "Da bist du ja endlich!\n",
+        "Ich denke, das wird dir gefallen.\r"
+      ]
+    },
+    {
+      "id": "msg_0695_00006",
+      "de_DE": [
+        "Du liebst dein Telefon wohl sehr,\n",
+        "wenn du es selbst\f",
+        "auf so kurze Distanz verwendest."
+      ]
+    },
+    {
+      "id": "msg_0695_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} und ich stimmen\n",
+        "uns immer besser aufeinander ab.\r",
+        "Neulich haben wir gegen ein wildes\n",
+        "{STRVAR_1 0, 11, 0} gekämpft und knapp\f",
+        "gewonnen! Wir kommen jetzt in Schwung!\r",
+        "Tschüss! Wir plaudern wieder!"
+      ]
+    },
+    {
+      "id": "msg_0695_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} und ich stimmen\n",
+        "uns immer besser aufeinander ab.\r",
+        "Aber weißt du?\n",
+        "Ich habe immer noch kein\f",
+        "{STRVAR_1 0, 11, 0} gefangen. Das wird\f",
+        "langsam frustrierend...\r",
+        "Tschüss! Wir plaudern wieder!"
+      ]
+    },
+    {
+      "id": "msg_0695_00009",
+      "de_DE": [
+        "Möchtest du mein Trainingskamerad\n",
+        "sein?\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\r",
+        "...Kannst du mich das nächste Mal\n",
+        "etwas schonender behandeln?"
+      ]
+    },
+    {
+      "id": "msg_0695_00010",
+      "de_DE": [
+        "Wann kann ich mit dir und unserem\n",
+        "Kampf rechnen?\f",
+        "Vergiss es nicht, {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0695_00011",
+      "de_DE": [
+        "Wann kann ich mit dir und unserem\n",
+        "Kampf rechnen?\f",
+        "Vergiss es nicht, {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0695_00012",
+      "de_DE": [
+        "Sorry, ich habe noch nichts\n",
+        "Brauchbares gefunden...\r",
+        "Ich verspreche, dass du es haben\n",
+        "kannst, wenn ich etwas finde!"
+      ]
+    },
+    {
+      "id": "msg_0695_00013",
+      "de_DE": [
+        "Ich habe heute etwas Tolles gefunden.\n",
+        "Ich möchte es dir geben, darum rufe\f",
+        "ich an!\r",
+        "Du holst es dir doch ab, oder?\n",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0695_00014",
+      "de_DE": [
+        "Ich werde wirklich ungeduldig. Ich\n",
+        "möchte dir endlich dein Geschenk geben!\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0695_00015",
+      "de_DE": [
+        "Hast du von Team Rocket gehört?\r",
+        "Sie haben den Radioturm in\n",
+        "Dukatia City in ihre Gewalt gebracht.\r",
+        "Sind die Menschen im Turm in Sicherheit?"
+      ]
+    }
+  ]
+}

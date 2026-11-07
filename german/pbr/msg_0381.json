@@ -1,0 +1,185 @@
+{
+  "key": 42882,
+  "messages": [
+    {
+      "id": "msg_0381_00000",
+      "de_DE": [
+        "Hallo!\r",
+        "Hier kannst du Beeren kochen\n",
+        "und aus ihnen Knurspe machen.\r"
+      ]
+    },
+    {
+      "id": "msg_0381_00001",
+      "de_DE": [
+        "Möchtest du allein kochen oder\n",
+        "mit anderen zusammen?"
+      ]
+    },
+    {
+      "id": "msg_0381_00002",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "wird initialisiert."
+      ]
+    },
+    {
+      "id": "msg_0381_00003",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0381_00004",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0381_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00006",
+      "de_DE": "Oh, du hast keine Beeren!\r"
+    },
+    {
+      "id": "msg_0381_00007",
+      "de_DE": "Deine Knurspbox ist voll.\r"
+    },
+    {
+      "id": "msg_0381_00008",
+      "de_DE": [
+        "Tut mir leid, du brauchst eine\n",
+        "Knurspbox dafür!"
+      ]
+    },
+    {
+      "id": "msg_0381_00009",
+      "de_DE": "ALLEIN"
+    },
+    {
+      "id": "msg_0381_00010",
+      "de_DE": "IN EINER GRUPPE"
+    },
+    {
+      "id": "msg_0381_00011",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0381_00012",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0381_00013",
+      "de_DE": [
+        "Bitte legt fest, wer in der Gruppe\n",
+        "der “LEITER” ist.\r",
+        "Die anderen Spieler wählen\n",
+        "“MITSPIELER” aus."
+      ]
+    },
+    {
+      "id": "msg_0381_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00015",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00016",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00017",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00018",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00019",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00020",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00021",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00022",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00023",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00024",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00025",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00026",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00027",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00028",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00029",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00030",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00031",
+      "garbage": 79
+    },
+    {
+      "id": "msg_0381_00032",
+      "de_DE": [
+        "Wirf die Beere in den Topf\n",
+        "und fang an zu rühren!\r",
+        "Die Pfeile zeigen dir an, in welche\n",
+        "Richtung du rühren musst.\r",
+        "Du musst schnell sein! Rührst du\n",
+        "zu langsam, brennt es an.\r",
+        "Aber nicht zu schnell! Bist du zu\n",
+        "schnell, kocht die Masse über.\r",
+        "Wenn du alles richtig machst,\n",
+        "stellst du einen leckeren Knursp her!\r",
+        "Du kannst allein kochen oder in\n",
+        "einer Gruppe von bis zu 4 Leuten.\r",
+        "Kochen mehrere Leute, werden\n",
+        "auch mehr Knurspe für jeden gekocht!"
+      ]
+    },
+    {
+      "id": "msg_0381_00033",
+      "de_DE": [
+        "Komm ruhig wieder, wenn du Lust\n",
+        "zum Kochen hast."
+      ]
+    },
+    {
+      "id": "msg_0381_00034",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0381_00035",
+      "garbage": 0
+    }
+  ]
+}

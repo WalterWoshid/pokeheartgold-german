@@ -1,0 +1,124 @@
+{
+  "key": 44521,
+  "messages": [
+    {
+      "id": "msg_0422_00000",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0422_00001",
+      "de_DE": "ID: {STRVAR_1 54, 0, 0}"
+    },
+    {
+      "id": "msg_0422_00002",
+      "de_DE": [
+        "Wenn die Spieler bereit sind...\n",
+        "A-Knopf: Bestätigen   B-Knopf: Abbruch"
+      ]
+    },
+    {
+      "id": "msg_0422_00003",
+      "de_DE": "Sind das die Mitglieder?"
+    },
+    {
+      "id": "msg_0422_00004",
+      "de_DE": "Statistiktausch abbrechen?"
+    },
+    {
+      "id": "msg_0422_00005",
+      "de_DE": "Statistiktausch wird abgebrochen."
+    },
+    {
+      "id": "msg_0422_00006",
+      "de_DE": [
+        "Es gibt ein Mitglied, das nicht\n",
+        "länger teilnehmen kann."
+      ]
+    },
+    {
+      "id": "msg_0422_00007",
+      "de_DE": [
+        "Es sind keine Mitglieder anwesend.\n",
+        "Statistiktausch wird abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0422_00008",
+      "de_DE": [
+        "Bitte warten...\n",
+        "B-Knopf: Abbrechen"
+      ]
+    },
+    {
+      "id": "msg_0422_00009",
+      "de_DE": [
+        "Ein Mitglied kann nicht mehr teilnehmen.\n",
+        "Statistiktausch wird abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0422_00010",
+      "de_DE": "Statistiktausch abbrechen?"
+    },
+    {
+      "id": "msg_0422_00011",
+      "de_DE": "Statistiktausch wird abgebrochen."
+    },
+    {
+      "id": "msg_0422_00012",
+      "de_DE": [
+        "Statistiken werden getauscht...\n",
+        "Bitte das System nicht ausschalten!"
+      ]
+    },
+    {
+      "id": "msg_0422_00013",
+      "de_DE": [
+        "Statistiktausch abgeschlossen.\n",
+        "Kehre zum Konnex-Klub zurück."
+      ]
+    },
+    {
+      "id": "msg_0422_00014",
+      "de_DE": [
+        "Falls der Leiter die Gruppe verlässt,\n",
+        "wird sie aufgelöst. Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0422_00015",
+      "de_DE": "{STRVAR_1 3, 0, 0} ist gegangen."
+    },
+    {
+      "id": "msg_0422_00016",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Leiter) ist gegangen.\n",
+        "Die Gruppe wird aufgelöst."
+      ]
+    },
+    {
+      "id": "msg_0422_00017",
+      "de_DE": "Suche Freunde zum Statistiktausch!"
+    },
+    {
+      "id": "msg_0422_00018",
+      "de_DE": "Statistiken werden getauscht!"
+    },
+    {
+      "id": "msg_0422_00019",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0422_00020",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0422_00021",
+      "de_DE": "WEITER"
+    },
+    {
+      "id": "msg_0422_00022",
+      "de_DE": "ZURÜCK"
+    }
+  ]
+}

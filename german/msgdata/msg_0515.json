@@ -1,0 +1,33 @@
+{
+  "key": 12115,
+  "messages": [
+    {
+      "id": "msg_0515_00000",
+      "de_DE": [
+        "Oh, ein Pokédex! Hast du den\n",
+        "von Professor Eich bekommen?"
+      ]
+    },
+    {
+      "id": "msg_0515_00001",
+      "de_DE": [
+        "Ich habe mich in der Pokémon-Arena\n",
+        "ganz schön erschreckt, sage ich dir!\f",
+        "Da waren ganz viele Mädchen, die\f",
+        "alle gleich aussahen!"
+      ]
+    },
+    {
+      "id": "msg_0515_00002",
+      "de_DE": "Hier kommt Janina! Hokuspokus fidibus!\r"
+    },
+    {
+      "id": "msg_0515_00003",
+      "de_DE": [
+        "Na? Jetzt sehe ich genauso aus wie sie!\r",
+        "...Hm?\r",
+        "Huch, das hat wohl nicht geklappt..."
+      ]
+    }
+  ]
+}

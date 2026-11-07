@@ -1,0 +1,24 @@
+{
+  "key": 46163,
+  "messages": [
+    {
+      "id": "msg_0546_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} startet den PC\n",
+        "und überprüft den Posteingang.\r"
+      ]
+    },
+    {
+      "id": "msg_0546_00001",
+      "de_DE": "Du hast keine neuen E-Mails..."
+    },
+    {
+      "id": "msg_0546_00002",
+      "de_DE": [
+        "Da steht eine Wii-Konsole!\r",
+        "Auch in Johto sind alle ganz verrückt\n",
+        "nach dieser Wunderkiste!"
+      ]
+    }
+  ]
+}

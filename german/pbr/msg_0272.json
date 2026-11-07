@@ -1,0 +1,70 @@
+{
+  "key": 50251,
+  "messages": [
+    {
+      "id": "msg_0272_00000",
+      "de_DE": "Kyiaaaun.\r"
+    },
+    {
+      "id": "msg_0272_00001",
+      "de_DE": "VESPRIT ist irgendwohin geflogen...\r"
+    },
+    {
+      "id": "msg_0272_00002",
+      "de_DE": [
+        "Eibe: ...\n",
+        "...\r",
+        "{STRVAR_1 3, 0}, das war doch VESPRIT,\n",
+        "oder etwa nicht?\r",
+        "Du hast alles getan, was ich dir an der\n",
+        "Bibliothek von Fleetburg aufgetragen\f",
+        "habe.\r",
+        "Ich bat dich, Daten über das\n",
+        "Pokémon aus dem See zu sammeln.\r",
+        "Leider gaben die Daten keine Antworten\n",
+        "auf das Geheimnis der Entwicklung.\r",
+        "Ich weiß immer noch nicht,\n",
+        "warum nur bestimmte Pokémon\f",
+        "davon betroffen sind.\r",
+        "Im Endeffekt wurde das Geheimnis\n",
+        "nur noch mysteriöser.\r",
+        "Aber Mysteriöses ist mein Metier...\n",
+        "Der Wissenschaftler in mir freut sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0272_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0}, warum suchst\n",
+        "du nicht nach VESPRIT?\r",
+        "Es schien mir, als ob es\n",
+        "mit dir spielen wollte.\r",
+        "Mit dem Pokétch-Zubehör Landkarte\n",
+        "solltest du die Bewegungen dieses\f",
+        "Pokémon nachverfolgen können.\r"
+      ]
+    },
+    {
+      "id": "msg_0272_00004",
+      "de_DE": [
+        "Wie bitte?\n",
+        "Du hast das Zubehör Landkarte nicht?\r",
+        "...Dann solltest du vielleicht der\n",
+        "Pokétch Gesellschaft einen\f",
+        "Besuch abstatten.\r"
+      ]
+    },
+    {
+      "id": "msg_0272_00005",
+      "de_DE": [
+        "Nur zu, {STRVAR_1 3, 0}.\r",
+        "Bestimmt begegnest du vielen\n",
+        "Pokémon und Leuten.\r",
+        "Diese Begegnungen werden dich auf\n",
+        "ihre eigene Weise voranbringen.\r",
+        "Ich hoffe, die Erfahrungen werden dir\n",
+        "gefallen! Alles Gute, {STRVAR_1 3, 0}.\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "key": 45992,
+  "messages": [
+    {
+      "id": "msg_0581_00000",
+      "de_DE": "NAME:"
+    },
+    {
+      "id": "msg_0581_00001",
+      "de_DE": "BASIS-F.:"
+    },
+    {
+      "id": "msg_0581_00002",
+      "de_DE": "ID: "
+    },
+    {
+      "id": "msg_0581_00003",
+      "de_DE": ": "
+    },
+    {
+      "id": "msg_0581_00004",
+      "de_DE": "{STRVAR_1 1, 0}"
+    },
+    {
+      "id": "msg_0581_00005",
+      "de_DE": "{STRVAR_1 54, 6}"
+    },
+    {
+      "id": "msg_0581_00006",
+      "de_DE": "PUNKTE:"
+    },
+    {
+      "id": "msg_0581_00007",
+      "de_DE": "Getroffene Personen:"
+    },
+    {
+      "id": "msg_0581_00008",
+      "de_DE": "Gegebene Geschenke:"
+    },
+    {
+      "id": "msg_0581_00009",
+      "de_DE": "Eroberte Fahnen:"
+    },
+    {
+      "id": "msg_0581_00010",
+      "de_DE": "Ausgegrabene Sphären:"
+    },
+    {
+      "id": "msg_0581_00011",
+      "de_DE": "Ausgegrabene Fossilien:"
+    },
+    {
+      "id": "msg_0581_00012",
+      "de_DE": "Erfolgreiche Fallen:"
+    },
+    {
+      "id": "msg_0581_00013",
+      "de_DE": "{STRVAR_1 57, 6}"
+    },
+    {
+      "id": "msg_0581_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0581_00015",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0581_00016",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0581_00017",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0581_00018",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0581_00019",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0581_00020",
+      "de_DE": "Normale Fahne"
+    },
+    {
+      "id": "msg_0581_00021",
+      "de_DE": "Bronze-Fahne"
+    },
+    {
+      "id": "msg_0581_00022",
+      "de_DE": "Silber-Fahne"
+    },
+    {
+      "id": "msg_0581_00023",
+      "de_DE": "Gold-Fahne"
+    },
+    {
+      "id": "msg_0581_00024",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00025",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00026",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00027",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00028",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00029",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00030",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00031",
+      "de_DE": "Platin-Fahne"
+    },
+    {
+      "id": "msg_0581_00032",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Bisherige Gesamtpunktzahl:\n",
+        "{STRVAR_1 57, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00033",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der Leute, denen du im\n",
+        "Untergrund begegnet bist: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00034",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl von Dekoartikeln, die du bisher\n",
+        "verschenkt hast: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00035",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der bislang eroberten Fahnen\n",
+        "von Geheimbasen: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00036",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der bislang ausgegrabenen\n",
+        "Sphären: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00037",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der bislang ausgegrabenen\n",
+        "Fossilien: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00038",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der erfolgreichen\n",
+        "Fallenstellungen: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00039",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der eigenen Auslösung von\n",
+        "Fallen: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00040",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der Hilfestellungen unter\n",
+        "der Erde: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00041",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der erhaltenen Geschenke\n",
+        "unter der Erde: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00042",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der Fahneneroberungen aus\n",
+        "der Geheimbasis durch andere: {STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00043",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der zurückeroberten Fahnen:\n",
+        "{STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00044",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der Umzüge der Geheimbasis:\n",
+        "{STRVAR_1 55, 6}"
+      ]
+    },
+    {
+      "id": "msg_0581_00045",
+      "de_DE": [
+        "Hier steht etwas geschrieben...\r",
+        "Anzahl der eroberten, auf dem PC\n",
+        "eingetragenen Fahnen: {STRVAR_1 55, 6}"
+      ]
+    }
+  ]
+}

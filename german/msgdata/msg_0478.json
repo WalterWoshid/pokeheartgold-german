@@ -1,0 +1,36 @@
+{
+  "key": 25630,
+  "messages": [
+    {
+      "id": "msg_0478_00000",
+      "de_DE": [
+        "Ja, das hier ist das Haus von Mr. Fuji...\n",
+        "Aber im Moment ist er leider nicht hier.\r",
+        "Du suchst am besten mal im\n",
+        "Haus der Erinnerungen nach ihm!"
+      ]
+    },
+    {
+      "id": "msg_0478_00001",
+      "de_DE": [
+        "Es gibt da draußen schreckliche Leute,\n",
+        "die ihre Pokémon links liegen lassen,\f",
+        "wenn sie genug von ihnen haben.\r",
+        "Mr. Fuji bietet diesen armen,\n",
+        "heimatlosen Pokémon ein Zuhause."
+      ]
+    },
+    {
+      "id": "msg_0478_00002",
+      "de_DE": "ENTON: E-Enton?"
+    },
+    {
+      "id": "msg_0478_00003",
+      "de_DE": "NIDORINO: Nido!!!"
+    },
+    {
+      "id": "msg_0478_00004",
+      "de_DE": "TAUBSI: T-t-taubsi!"
+    }
+  ]
+}

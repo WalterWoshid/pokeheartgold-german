@@ -1,0 +1,431 @@
+{
+  "key": 62230,
+  "messages": [
+    {
+      "id": "msg_0641_00000",
+      "de_DE": "Buena"
+    },
+    {
+      "id": "msg_0641_00001",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\n",
+        "Wenn du in der Nähe bist, \f",
+        "dann komm doch gleich vorbei!\f",
+        "Keine Angst, ich beiße nicht!!"
+      ]
+    },
+    {
+      "id": "msg_0641_00002",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\n",
+        "Wenn du in der Nähe bist, \f",
+        "dann komm doch gleich vorbei!\f",
+        "Keine Angst, ich beiße nicht!!"
+      ]
+    },
+    {
+      "id": "msg_0641_00003",
+      "de_DE": [
+        "Hallo, hier ist Buena!\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\n",
+        "Ich bin noch schläfrig früh am Morgen...\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00004",
+      "de_DE": [
+        "Hallo, hier ist Buena!\r",
+        "Ah, guten Morgen, {STRVAR_1 3, 0, 0}!\n",
+        "Ich bin noch schläfrig früh am Morgen...\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00005",
+      "de_DE": [
+        "Hallo, hier ist Buena!\r",
+        "Oh! Hi, {STRVAR_1 3, 0, 0}!\n",
+        "Verfolgst du meine Sendung?\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00006",
+      "de_DE": [
+        "Hallo, hier ist Buena!\r",
+        "Oh! Hi, {STRVAR_1 3, 0, 0}!\n",
+        "Verfolgst du meine Sendung?\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00007",
+      "de_DE": [
+        "Hier ist Buena!\r",
+        "Oh! Hi, {STRVAR_1 3, 0, 0}!\n",
+        "Ich bin gerade mit der Arbeit fertig!\f",
+        "Ich bin vielleicht erschöpft!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00008",
+      "de_DE": [
+        "Hier ist Buena!\r",
+        "Oh! Hi, {STRVAR_1 3, 0, 0}!\n",
+        "Ich bin gerade mit der Arbeit fertig!\f",
+        "Ich bin vielleicht erschöpft!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00009",
+      "de_DE": [
+        "Hier spricht Buena. \r",
+        "Ich kann jetzt leider nicht ans Telefon.\r",
+        "Wenn du unbedingt meine Stimme hören\n",
+        "willst, dann schalte jetzt das Radio ein\r",
+        "und verfolge eine weitere Ausgabe von\n",
+        "“Passwort mit Buena”!"
+      ]
+    },
+    {
+      "id": "msg_0641_00010",
+      "de_DE": [
+        "Ich denke darüber nach, morgen in die\n",
+        "Spielhalle zu gehen. Ich war lange nicht\f",
+        "dort. Weißt du, ich habe da so meine\f",
+        "ganz eigene Strategie...\r",
+        "Es klappt prima, du wirst schon sehen!\n",
+        "Du willst wissen, welche?\r",
+        "Das ist ein Geheimnis! Das musst du\n",
+        "schon selbst herausfinden!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00011",
+      "de_DE": [
+        "He, du hörst mit deinem Pokécom Radio,\n",
+        "nicht wahr? Ich habe gehört, dass man\f",
+        "sich sogar Karten mit dem Pokécom\f",
+        "ansehen kann. Ich habe ein schlechtes\f",
+        "Orientierungsvermögen.\r",
+        "Ein Pokécom wäre da praktisch...\r",
+        "Danke für den Anruf! Tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0641_00012",
+      "de_DE": [
+        "Scheint heute eigentlich die Sonne?\n",
+        "Wenn man so wie ich die ganze Zeit im\f",
+        "Radioturm arbeitet, dann verliert man\f",
+        "glatt den Kontakt zur Außenwelt!\f",
+        "Ach, wie öde!\r",
+        "Bis später!\n"
+      ]
+    },
+    {
+      "id": "msg_0641_00013",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Wie geht’s dir?\r",
+        "He, das ist nicht der richtige\n",
+        "Zeitpunkt für eine unbekümmerte\f",
+        "Begrüßung!\r",
+        "Der Radioturm ist in Gefahr!\r",
+        "{STRVAR_1 3, 0, 0}, pass bitte auch auf!"
+      ]
+    },
+    {
+      "id": "msg_0641_00014",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Wie geht’s dir?\r",
+        "He, das ist nicht der richtige\n",
+        "Zeitpunkt für eine unbekümmerte\f",
+        "Begrüßung!\r",
+        "Der Radioturm ist in Gefahr!\r",
+        "{STRVAR_1 3, 0, 0}, pass bitte auch auf!"
+      ]
+    },
+    {
+      "id": "msg_0641_00015",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Buena hier!\n",
+        "Ich bin früh aufgestanden und\f",
+        "dachte, ich rufe dich einmal an!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00016",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Buena hier!\n",
+        "Ich bin früh aufgestanden und\f",
+        "dachte, ich rufe dich einmal an!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00017",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Ich bin’s, Buena!\n",
+        "Ich möchte ein bisschen quatschen!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00018",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Ich bin’s, Buena!\n",
+        "Ich möchte ein bisschen quatschen!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00019",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Ich bin’s, Buena!\n",
+        "Ich kann einfach nicht einschlafen und\f",
+        "da dachte ich mir, ich rufe dich mal an!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00020",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Ich bin’s, Buena!\n",
+        "Ich kann einfach nicht einschlafen und\f",
+        "da dachte ich mir, ich rufe dich mal an!\r"
+      ]
+    },
+    {
+      "id": "msg_0641_00021",
+      "de_DE": [
+        "Neulich war ich mit DJ Ben essen!\n",
+        "Und als ob das nicht schon toll genug\f",
+        "wär, hat er mir auch noch gesagt, wie\f",
+        "klasse er die Musik findet, die ich in\f",
+        "meiner Sendung abspiele!\r",
+        "Oh, wow! Was soll ich jetzt tun?\n",
+        "Ups, ich muss mich auf die Sendung\f",
+        "vorbereiten.\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00022",
+      "de_DE": [
+        "Kennst du die Rezeptionistin aus dem\n",
+        "Radioturm?\r",
+        "“Willkommen” ist alles,\n",
+        "was sie sagt, nicht wahr?\r",
+        "Aber sie ist wirklich die größte\n",
+        "Plaudertasche im Radioturm!\r",
+        "Wehe, wenn sie einmal anfängt...\n",
+        "Sie muss sich ziemlich zurückhalten,\f",
+        "um so ruhig zu bleiben.\r",
+        "Ist das nicht lustig, wenn man es weiß?\n",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00023",
+      "de_DE": [
+        "Hör mal! Hast du schon einmal bei der\n",
+        "Pokémon-Lotterie im Erdgeschoss des\f",
+        "Radioturms gewonnen?\r",
+        "Die Wahrscheinlichkeit zu gewinnen\n",
+        "steigt, wenn du mit so vielen Leuten wie\f",
+        "möglich Pokémon tauschst,\f",
+        "um verschiedene ID-Nummern\f",
+        "zu erhalten!"
+      ]
+    },
+    {
+      "id": "msg_0641_00024",
+      "de_DE": [
+        "Gestern Abend nach der Arbeit war ich\n",
+        "total müde. \r",
+        "Also habe ich mir ein paar Süßigkeiten\n",
+        "gegönnt. Naja, eigentlich waren es\f",
+        "ziemlich viele... und das, wo ich doch mit\f",
+        "Margit um die Wette abnehmen wollte...\f",
+        "Das wird wohl nichts!\r",
+        "Häh? Wie viel ich wiege? Das geht dich\n",
+        "gar nichts an! Aber Margit wiegt...\r",
+        "...Oh! Hallo, Margit!\n",
+        "Ähm, tja, hm...\f",
+        "Da hat sich wohl jemand verwählt!"
+      ]
+    },
+    {
+      "id": "msg_0641_00025",
+      "de_DE": [
+        "Gestern war Professor Eich im Studio,\n",
+        "um seine Sendung aufzuzeichnen.\f",
+        "Und weißt du, was er mir gesagt hat?\f",
+        "Er hört sich meine Sendung an!\f",
+        "Ist das zu glauben!\r",
+        "Ich bin so glücklich! Das ist eine große\n",
+        "Ehre für mich!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00026",
+      "de_DE": [
+        "...Hust, röchel!\n",
+        "Entschuldigung, uh, ich bin erkältet.\r",
+        "Aber, schnief, ich bin ein Profi und muss\n",
+        "das wegstecken, h-hatschiiie! Soll doch\f",
+        "schließlich niemand, schnief, merken!\r",
+        "Uh, meine, hust, Stimme.\n",
+        "Bis später, schnief!"
+      ]
+    },
+    {
+      "id": "msg_0641_00027",
+      "de_DE": [
+        "Hör mal! Du hast doch das Radio-Modul\n",
+        "bei dem Quiz gewonnen, weil du die\f",
+        "Fragen richtig beantwortet hast, oder?\r",
+        "Um ehrlich zu sein, die Fragen hab ich\n",
+        "mir ausgedacht! Waren sie zu einfach?\r",
+        "Nun gut, bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00028",
+      "de_DE": [
+        "Ich bin entzückt, dass immer mehr\n",
+        "Menschen an meiner Passwort-Sendung\f",
+        "teilnehmen.\r",
+        "Aber als “PIKACHU” das Passwort war,\n",
+        "war es einfach... überwältigend...\r",
+        "Mitglieder des Pokémon Fan Club kamen in\n",
+        "Scharen und riefen immer wieder\r",
+        "“PIKACHU”!\r",
+        "Sie waren sehr laut. Jeder, der die\n",
+        "Sendung gehört hat, muss von dem Krach\f",
+        "schockiert gewesen sein!\r",
+        "Egal, zurück an die Arbeit!\n",
+        "Wir reden später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00029",
+      "de_DE": [
+        "Weißt du was?\n",
+        "Der Intendant des Radioturms ist ein\f",
+        "großer TV-Fan!\r",
+        "Vor geraumer Zeit sagte man in einer\n",
+        "Modenschau im TV, dass braune Anzüge in\f",
+        "wären.\r",
+        "Seitdem trägt er nur noch braune\n",
+        "Anzüge.\r",
+        "Es ist aber ein Geheimnis, dass unser\n",
+        "Intendant ein TV-Fan ist.\r",
+        "Wenn du ihm begegnest, erwähne es\n",
+        "bitte nicht!\r",
+        "Der Intendant wird bald hier sein!\n",
+        "Bis später! Hör dir meine Sendung an!"
+      ]
+    },
+    {
+      "id": "msg_0641_00030",
+      "de_DE": [
+        "Sag mal!\n",
+        "Wann entspannst du dich am besten?\r",
+        "Mir hilft es immer, wenn ich nach der\n",
+        "Sendung im Studio bleibe und eine Tasse\f",
+        "Tee trinke.\r",
+        "Es ist so angenehm, dass ich davon\n",
+        "manchmal richtig schläfrig werde...\r",
+        "...... ...... ............ ......Zzz\r",
+        "Ups, ich war kurz eingenickt... bloß weil\n",
+        "ich daran gedacht habe!\r",
+        "Wie... äh, peinlich! Bitte vergiss das!\n",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00031",
+      "de_DE": [
+        "Sag mal! Welches war das erste\n",
+        "Pokémon, das du gefangen hast?\r",
+        "...Oh, tatsächlich?\n",
+        "Ich habe schon viele Pokémon gesehen,\f",
+        "aber gefangen habe ich noch keins!\r",
+        "Ich sollte es einmal ausprobieren!\n",
+        "Wusstest du, dass TRAUMATO Margits\f",
+        "erstes Pokémon war?\f",
+        "Das passt gar nicht zu ihr, oder?\r",
+        "Aber weil Margits TRAUMATO sie immer\n",
+        "während der Arbeit hat einschlafen\f",
+        "lassen, hat sie es mit einem Fan gegen\f",
+        "ein MAUZI eingetauscht!\r",
+        "Lass uns bald wieder über Pokémon\n",
+        "plaudern! Tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0641_00032",
+      "de_DE": [
+        "Also neulich hat Ben stundenlang mit\n",
+        "seinem Team diskutiert, welche\f",
+        "Pokémon-Musik man an welchem Wochentag\f",
+        "abspielen soll...\r",
+        "Und weißt du was? Am Ende hat Bens\n",
+        "typische Art zu reden auf das ganze\f",
+        "Team abgefärbt und dann haben alle\f",
+        "versucht, so zu reden wie er...\r",
+        "Alle sollen sich riesig amüsiert haben!\n",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00033",
+      "de_DE": [
+        "Ich habe vor, mit Margit einen\n",
+        "Einkaufsbummel im Kaufhaus von Dukatia\f",
+        "City zu machen. Hoffentlich finden wir\f",
+        "ein paar gute Schnäppchen!\r",
+        "Vielleicht treffen wir uns dort!\n",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0641_00034",
+      "de_DE": [
+        "Weißt du? Wir alle vom Radioturm machen\n",
+        "einen Betriebsausflug zum Radioturm in\f",
+        "Lavandia.\r",
+        "Wir verschwenden unsere Urlaubstage\n",
+        "für einen anderen Radioturm?\r",
+        "Ich wäre viel lieber am Strand!\n",
+        "{STRVAR_1 3, 0, 0}, ich hoffe, du hast\f",
+        "genügend Spaß für uns beide!\r",
+        "Tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0641_00035",
+      "de_DE": [
+        "Weißt du? Jeder Angestellte vom \n",
+        "Radioturm ist beim Firmenausflug zum\f",
+        "Radioturm in Lavandia dabei.\r",
+        "Wir verschwenden unsere Urlaubstage\n",
+        "für einen anderen Radioturm?\r",
+        "Ich wäre viel lieber am Strand!\n",
+        "{STRVAR_1 3, 0, 0}, ich hoffe, du hast\f",
+        "genügend Spaß für uns beide!\r",
+        "Tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0641_00036",
+      "de_DE": [
+        "Du hilfst doch Professor Lind, stimmt’s?\n",
+        "Da kommst du bestimmt ziemlich viel rum,\f",
+        "hab ich recht? Ich beneide dich darum!\r",
+        "Könnte ich doch auch einmal verreisen!\n",
+        "Aber es geht nicht, ich muss wieder an\f",
+        "meine Arbeit!\r",
+        "Bis später!"
+      ]
+    }
+  ]
+}

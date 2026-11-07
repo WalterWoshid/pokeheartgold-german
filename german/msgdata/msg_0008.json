@@ -1,0 +1,26 @@
+{
+  "key": 34442,
+  "messages": [
+    {
+      "id": "msg_0008_00000",
+      "de_DE": [
+        "Auf die Speicherdaten konnte nicht\n",
+        "zugegriffen werden.\n",
+        "\n",
+        "Bitte schalte das System aus,\n",
+        "entferne die DS-Karte und stecke\n",
+        "sie dann erneut ein."
+      ]
+    },
+    {
+      "id": "msg_0008_00001",
+      "de_DE": [
+        "Fehler beim Lesen der Daten.\n",
+        "\n",
+        "Bitte schalte das System aus,\n",
+        "entferne das Game Boy Advance-Modul\n",
+        "und stecke es dann erneut ein."
+      ]
+    }
+  ]
+}

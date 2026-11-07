@@ -1,3 +1,10 @@
+#include "config.h"
+	.extern _ull_div
+#ifdef GERMAN
+#define POKEDEX_APP_OFFSET(value) ((value) - 8)
+#else
+#define POKEDEX_APP_OFFSET(value) (value)
+#endif
 	.include "macros.inc"
 	.include "overlay_18.inc"
 	.include "global.inc"
@@ -235,7 +242,7 @@ _021EE47C:
 	add sp, #0x30
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021EE4FC: .word 0x00000854
+_021EE4FC: .word POKEDEX_APP_OFFSET(0x00000854)
 _021EE500: .word 0x000F0800
 _021EE504: .word 0x0000065C
 	thumb_func_end ov18_021EE44C
@@ -346,7 +353,7 @@ _021EE556:
 	add sp, #0x30
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021EE5E0: .word 0x00000854
+_021EE5E0: .word POKEDEX_APP_OFFSET(0x00000854)
 	thumb_func_end ov18_021EE520
 
 	thumb_func_start ov18_021EE5E4
@@ -387,9 +394,9 @@ ov18_021EE5FC: ; 0x021EE5FC
 	strb r0, [r4, r1]
 	pop {r4, pc}
 	nop
-_021EE62C: .word 0x0000185D
-_021EE630: .word 0x0000102C
-_021EE634: .word 0x0000102E
+_021EE62C: .word POKEDEX_APP_OFFSET(0x0000185D)
+_021EE630: .word POKEDEX_APP_OFFSET(0x0000102C)
+_021EE634: .word POKEDEX_APP_OFFSET(0x0000102E)
 	thumb_func_end ov18_021EE5FC
 
 	thumb_func_start ov18_021EE638
@@ -452,7 +459,7 @@ _021EE6A6:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021EE6B4: .word 0x0000185C
+_021EE6B4: .word POKEDEX_APP_OFFSET(0x0000185C)
 _021EE6B8: .word 0x00020100
 	thumb_func_end ov18_021EE638
 
@@ -592,11 +599,14 @@ _021EE7C6:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021EE7D0: .word 0x00001858
+_021EE7D0: .word POKEDEX_APP_OFFSET(0x00001858)
 _021EE7D4: .word 0x00020100
 _021EE7D8: .word 0x0000065C
 	thumb_func_end ov18_021EE75C
 
+#ifdef GERMAN
+#include "pokedex_ov18_021EE7DC.inc"
+#else
 	thumb_func_start ov18_021EE7DC
 ov18_021EE7DC: ; 0x021EE7DC
 	push {r3, r4, r5, r6, lr}
@@ -639,7 +649,11 @@ _021EE826:
 	.balign 4, 0
 _021EE830: .word 0x00020100
 	thumb_func_end ov18_021EE7DC
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021EE834.inc"
+#else
 	thumb_func_start ov18_021EE834
 ov18_021EE834: ; 0x021EE834
 	push {r3, r4, r5, r6, r7, lr}
@@ -700,10 +714,14 @@ _021EE8A6:
 	add sp, #0x10
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021EE8B0: .word 0x00001032
+_021EE8B0: .word POKEDEX_APP_OFFSET(0x00001032)
 _021EE8B4: .word 0x00020100
 	thumb_func_end ov18_021EE834
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021EE8B8.inc"
+#else
 	thumb_func_start ov18_021EE8B8
 ov18_021EE8B8: ; 0x021EE8B8
 	push {r4, r5, r6, lr}
@@ -790,8 +808,9 @@ _021EE950:
 _021EE97C:
 	pop {r4, r5, r6, pc}
 	nop
-_021EE980: .word 0x0000185C
+_021EE980: .word POKEDEX_APP_OFFSET(0x0000185C)
 	thumb_func_end ov18_021EE8B8
+#endif
 
 	thumb_func_start ov18_021EE984
 ov18_021EE984: ; 0x021EE984
@@ -844,8 +863,8 @@ _021EE9EC:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021EE9F0: .word 0x00001032
-_021EE9F4: .word 0x0000185C
+_021EE9F0: .word POKEDEX_APP_OFFSET(0x00001032)
+_021EE9F4: .word POKEDEX_APP_OFFSET(0x0000185C)
 _021EE9F8: .word 0x00020100
 	thumb_func_end ov18_021EE984
 
@@ -998,7 +1017,7 @@ ov18_021EEAE4: ; 0x021EEAE4
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
 _021EEB2C: .word 0x00020100
-_021EEB30: .word 0x00001032
+_021EEB30: .word POKEDEX_APP_OFFSET(0x00001032)
 	thumb_func_end ov18_021EEAE4
 
 	thumb_func_start ov18_021EEB34
@@ -1084,7 +1103,7 @@ ov18_021EEB94: ; 0x021EEB94
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
 _021EEBDC: .word 0x00020100
-_021EEBE0: .word 0x00001032
+_021EEBE0: .word POKEDEX_APP_OFFSET(0x00001032)
 	thumb_func_end ov18_021EEB94
 
 	thumb_func_start ov18_021EEBE4
@@ -1120,7 +1139,7 @@ ov18_021EEBE4: ; 0x021EEBE4
 	add sp, #0x10
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
-_021EEC28: .word 0x0000185C
+_021EEC28: .word POKEDEX_APP_OFFSET(0x0000185C)
 _021EEC2C: .word 0x00020100
 _021EEC30: .word 0x0000065C
 	thumb_func_end ov18_021EEBE4
@@ -1180,7 +1199,7 @@ _021EEC5A:
 	add sp, #0x1c
 	pop {r4, r5, r6, r7, pc}
 	nop
-_021EECA4: .word 0x00001858
+_021EECA4: .word POKEDEX_APP_OFFSET(0x00001858)
 _021EECA8: .word 0x00020100
 _021EECAC: .word 0x0000065C
 	thumb_func_end ov18_021EEC34
@@ -1219,7 +1238,7 @@ ov18_021EECB0: ; 0x021EECB0
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021EECF8: .word 0x0000185C
+_021EECF8: .word POKEDEX_APP_OFFSET(0x0000185C)
 _021EECFC: .word 0x00020100
 	thumb_func_end ov18_021EECB0
 
@@ -1272,11 +1291,14 @@ _021EED3C:
 	add sp, #0x10
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021EED64: .word 0x00001032
-_021EED68: .word 0x0000185C
+_021EED64: .word POKEDEX_APP_OFFSET(0x00001032)
+_021EED68: .word POKEDEX_APP_OFFSET(0x0000185C)
 _021EED6C: .word 0x00020100
 	thumb_func_end ov18_021EED00
 
+#ifdef GERMAN
+#include "pokedex_ov18_021EED70.inc"
+#else
 	thumb_func_start ov18_021EED70
 ov18_021EED70: ; 0x021EED70
 	push {r4, r5, r6, lr}
@@ -1369,8 +1391,9 @@ _021EEE44: .word 0x000005AC
 _021EEE48: .word 0x000005BC
 _021EEE4C: .word 0x000005CC
 _021EEE50: .word 0x000005DC
-_021EEE54: .word 0x0000185C
+_021EEE54: .word POKEDEX_APP_OFFSET(0x0000185C)
 	thumb_func_end ov18_021EED70
+#endif
 
 	thumb_func_start ov18_021EEE58
 ov18_021EEE58: ; 0x021EEE58
@@ -1812,7 +1835,7 @@ _021EF1CE:
 	.balign 4, 0
 _021EF1D8: .word 0x00020100
 _021EF1DC: .word 0x0000065C
-_021EF1E0: .word 0x0000102C
+_021EF1E0: .word POKEDEX_APP_OFFSET(0x0000102C)
 	thumb_func_end ov18_021EEED0
 
 	thumb_func_start ov18_021EF1E4
@@ -2129,7 +2152,7 @@ _021EF3B4:
 	add sp, #0x30
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021EF450: .word 0x00000854
+_021EF450: .word POKEDEX_APP_OFFSET(0x00000854)
 _021EF454: .word 0x00020100
 _021EF458: .word 0x0000065C
 	thumb_func_end ov18_021EF388
@@ -2297,9 +2320,9 @@ _021EF5BA:
 	bls _021EF5BA
 	pop {r3, r4, r5, pc}
 	nop
-_021EF5CC: .word 0x00001870
-_021EF5D0: .word 0x00001874
-_021EF5D4: .word 0x00001850
+_021EF5CC: .word POKEDEX_APP_OFFSET(0x00001870)
+_021EF5D0: .word POKEDEX_APP_OFFSET(0x00001874)
+_021EF5D4: .word POKEDEX_APP_OFFSET(0x00001850)
 	thumb_func_end ov18_021EF528
 
 	thumb_func_start ov18_021EF5D8
@@ -2680,8 +2703,8 @@ _021EF8F6:
 _021EF908: .word 0x00020100
 _021EF90C: .word 0x0000065C
 _021EF910: .word ov18_021F9DE4 + 7 * 8 + 2
-_021EF914: .word 0x00001870
-_021EF918: .word 0x00001874
+_021EF914: .word POKEDEX_APP_OFFSET(0x00001870)
+_021EF918: .word POKEDEX_APP_OFFSET(0x00001874)
 	thumb_func_end ov18_021EF848
 
 	thumb_func_start ov18_021EF91C
@@ -2751,7 +2774,7 @@ _021EF992:
 _021EF9A4: .word 0x0000044C
 _021EF9A8: .word 0x00020100
 _021EF9AC: .word 0x0000065C
-_021EF9B0: .word 0x00001850
+_021EF9B0: .word POKEDEX_APP_OFFSET(0x00001850)
 	thumb_func_end ov18_021EF91C
 
 	thumb_func_start ov18_021EF9B4
@@ -2823,7 +2846,7 @@ _021EFA2E:
 _021EFA40: .word 0x0000047C
 _021EFA44: .word 0x00020100
 _021EFA48: .word 0x0000065C
-_021EFA4C: .word 0x00001850
+_021EFA4C: .word POKEDEX_APP_OFFSET(0x00001850)
 	thumb_func_end ov18_021EF9B4
 
 	thumb_func_start ov18_021EFA50
@@ -2963,7 +2986,7 @@ _021EFB74: .word 0x000004EC
 _021EFB78: .word 0x000004FC
 _021EFB7C: .word 0x00020100
 _021EFB80: .word 0x0000065C
-_021EFB84: .word 0x00001860
+_021EFB84: .word POKEDEX_APP_OFFSET(0x00001860)
 	thumb_func_end ov18_021EFA50
 
 	thumb_func_start ov18_021EFB88
@@ -3047,7 +3070,7 @@ ov18_021EFBE8: ; 0x021EFBE8
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
 _021EFC30: .word 0x00020100
-_021EFC34: .word 0x00001868
+_021EFC34: .word POKEDEX_APP_OFFSET(0x00001868)
 _021EFC38: .word 0x0000065C
 	thumb_func_end ov18_021EFBE8
 
@@ -3094,7 +3117,7 @@ _021EFC5E:
 	add sp, #0x10
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021EFC90: .word 0x0000186C
+_021EFC90: .word POKEDEX_APP_OFFSET(0x0000186C)
 _021EFC94: .word 0x00020100
 _021EFC98: .word 0x0000065C
 	thumb_func_end ov18_021EFC3C
@@ -3148,6 +3171,9 @@ _021EFCF8: .word ov18_021F9DC0
 _021EFCFC: .word 0x0000065C
 	thumb_func_end ov18_021EFC9C
 
+#ifdef GERMAN
+#include "pokedex_metric_number.inc"
+#else
 	thumb_func_start ov18_021EFD00
 ov18_021EFD00: ; 0x021EFD00
 	push {r3, r4, r5, r6, r7, lr}
@@ -3317,7 +3343,11 @@ _021EFE64: .word 0x0000C350
 _021EFE68: .word 0x00020100
 _021EFE6C: .word 0x0000065C
 	thumb_func_end ov18_021EFDB4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021EFE70.inc"
+#else
 	thumb_func_start ov18_021EFE70
 ov18_021EFE70: ; 0x021EFE70
 	push {r4, r5, r6, lr}
@@ -3355,9 +3385,10 @@ ov18_021EFE70: ; 0x021EFE70
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
 _021EFEB8: .word 0x00020100
-_021EFEBC: .word 0x00001888
+_021EFEBC: .word POKEDEX_APP_OFFSET(0x00001888)
 _021EFEC0: .word 0x0000065C
 	thumb_func_end ov18_021EFE70
+#endif
 
 	thumb_func_start ov18_021EFEC4
 ov18_021EFEC4: ; 0x021EFEC4
@@ -3481,9 +3512,9 @@ _021EFFD0:
 	bls _021EFFD0
 	pop {r3, r4, r5, pc}
 	.balign 4, 0
-_021EFFE0: .word 0x00001870
-_021EFFE4: .word 0x00001874
-_021EFFE8: .word 0x00001850
+_021EFFE0: .word POKEDEX_APP_OFFSET(0x00001870)
+_021EFFE4: .word POKEDEX_APP_OFFSET(0x00001874)
+_021EFFE8: .word POKEDEX_APP_OFFSET(0x00001850)
 	thumb_func_end ov18_021EFEC4
 
 	thumb_func_start ov18_021EFFEC
@@ -3538,9 +3569,9 @@ ov18_021EFFEC: ; 0x021EFFEC
 	strb r0, [r4, r1]
 	pop {r4, pc}
 	.balign 4, 0
-_021F0060: .word 0x0000185D
-_021F0064: .word 0x0000102C
-_021F0068: .word 0x0000102E
+_021F0060: .word POKEDEX_APP_OFFSET(0x0000185D)
+_021F0064: .word POKEDEX_APP_OFFSET(0x0000102C)
+_021F0068: .word POKEDEX_APP_OFFSET(0x0000102E)
 	thumb_func_end ov18_021EFFEC
 
 	thumb_func_start ov18_021F006C
@@ -3781,6 +3812,9 @@ _021F01F6:
 _021F0218: .word ov18_021F9EBC
 	thumb_func_end ov18_021F01D4
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F021C.inc"
+#else
 	thumb_func_start ov18_021F021C
 ov18_021F021C: ; 0x021F021C
 	push {r3, r4, r5, lr}
@@ -3959,11 +3993,12 @@ _021F0364:
 _021F03A4: .word ov18_021F9E4C
 _021F03A8: .word 0x00020100
 _021F03AC: .word 0x0000065C
-_021F03B0: .word 0x000018A2
+_021F03B0: .word POKEDEX_APP_OFFSET(0x000018A2)
 _021F03B4: .word 0x00050900
-_021F03B8: .word 0x00001860
+_021F03B8: .word POKEDEX_APP_OFFSET(0x00001860)
 _021F03BC: .word 0x000F0C00
 	thumb_func_end ov18_021F021C
+#endif
 
 	thumb_func_start ov18_021F03C0
 ov18_021F03C0: ; 0x021F03C0
@@ -4015,10 +4050,13 @@ ov18_021F03E0: ; 0x021F03E0
 	pop {r4, pc}
 	.balign 4, 0
 _021F041C: .word 0x00020100
-_021F0420: .word 0x000018C9
+_021F0420: .word POKEDEX_APP_OFFSET(0x000018C9)
 _021F0424: .word 0x0000065C
 	thumb_func_end ov18_021F03E0
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F0428.inc"
+#else
 	thumb_func_start ov18_021F0428
 ov18_021F0428: ; 0x021F0428
 	push {r3, r4, r5, r6, r7, lr}
@@ -4087,10 +4125,11 @@ _021F0480:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F04B4: .word 0x000018CA
+_021F04B4: .word POKEDEX_APP_OFFSET(0x000018CA)
 _021F04B8: .word 0x000F0C00
 _021F04BC: .word 0x0000065C
 	thumb_func_end ov18_021F0428
+#endif
 
 	thumb_func_start ov18_021F04C0
 ov18_021F04C0: ; 0x021F04C0
@@ -4125,7 +4164,7 @@ _021F04E4:
 	mov r0, #0x85
 	pop {r3, r4, r5, pc}
 	nop
-_021F0500: .word 0x000018FC
+_021F0500: .word POKEDEX_APP_OFFSET(0x000018FC)
 	thumb_func_end ov18_021F04C0
 
 	thumb_func_start ov18_021F0504
@@ -4233,11 +4272,14 @@ _021F05D0:
 	add sp, #0x1c
 	pop {r4, r5, r6, r7, pc}
 	nop
-_021F05DC: .word 0x000018CA
+_021F05DC: .word POKEDEX_APP_OFFSET(0x000018CA)
 _021F05E0: .word 0x000F0C00
 _021F05E4: .word 0x0000065C
 	thumb_func_end ov18_021F0504
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F05E8.inc"
+#else
 	thumb_func_start ov18_021F05E8
 ov18_021F05E8: ; 0x021F05E8
 	push {r3, r4, r5, r6, r7, lr}
@@ -4508,12 +4550,13 @@ _021F080E:
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
 _021F0820: .word ov18_021F9DE4
-_021F0824: .word 0x000018A2
+_021F0824: .word POKEDEX_APP_OFFSET(0x000018A2)
 _021F0828: .word 0x00020100
 _021F082C: .word 0x0000065C
 _021F0830: .word 0x00050900
 _021F0834: .word 0x000F0500
 	thumb_func_end ov18_021F05E8
+#endif
 
 	thumb_func_start ov18_021F0838
 ov18_021F0838: ; 0x021F0838
@@ -4722,12 +4765,15 @@ _021F0994:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F09C8: .word 0x000018C5
-_021F09CC: .word 0x000018C4
+_021F09C8: .word POKEDEX_APP_OFFSET(0x000018C5)
+_021F09CC: .word POKEDEX_APP_OFFSET(0x000018C4)
 _021F09D0: .word 0x000F0C00
 _021F09D4: .word 0x0000065C
 	thumb_func_end ov18_021F0940
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F09D8.inc"
+#else
 	thumb_func_start ov18_021F09D8
 ov18_021F09D8: ; 0x021F09D8
 	push {r3, r4, r5, lr}
@@ -4948,10 +4994,11 @@ _021F0B38:
 	add sp, #8
 	pop {r3, r4, r5, pc}
 	.balign 4, 0
-_021F0B64: .word 0x000018A2
+_021F0B64: .word POKEDEX_APP_OFFSET(0x000018A2)
 _021F0B68: .word 0x0000019D
-_021F0B6C: .word 0x000018A4
+_021F0B6C: .word POKEDEX_APP_OFFSET(0x000018A4)
 	thumb_func_end ov18_021F09D8
+#endif
 
 	thumb_func_start ov18_021F0B70
 ov18_021F0B70: ; 0x021F0B70
@@ -5056,11 +5103,14 @@ _021F0C38:
 	add sp, #0x1c
 	pop {r4, r5, r6, r7, pc}
 	nop
-_021F0C44: .word 0x000018C5
+_021F0C44: .word POKEDEX_APP_OFFSET(0x000018C5)
 _021F0C48: .word 0x000F0C00
 _021F0C4C: .word 0x0000065C
 	thumb_func_end ov18_021F0B70
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F0C50.inc"
+#else
 	thumb_func_start ov18_021F0C50
 ov18_021F0C50: ; 0x021F0C50
 	push {r4, r5, lr}
@@ -5154,10 +5204,11 @@ _021F0CB2:
 	nop
 _021F0D18: .word 0x00020100
 _021F0D1C: .word 0x0000065C
-_021F0D20: .word 0x000018C4
+_021F0D20: .word POKEDEX_APP_OFFSET(0x000018C4)
 _021F0D24: .word 0x000F0C00
-_021F0D28: .word 0x000018A2
+_021F0D28: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F0C50
+#endif
 
 	thumb_func_start ov18_021F0D2C
 ov18_021F0D2C: ; 0x021F0D2C
@@ -5191,7 +5242,7 @@ ov18_021F0D2C: ; 0x021F0D2C
 	add sp, #0x14
 	pop {r3, r4, pc}
 	nop
-_021F0D70: .word 0x000018C5
+_021F0D70: .word POKEDEX_APP_OFFSET(0x000018C5)
 _021F0D74: .word 0x00020100
 _021F0D78: .word 0x0000065C
 	thumb_func_end ov18_021F0D2C
@@ -5232,6 +5283,9 @@ ov18_021F0D7C: ; 0x021F0D7C
 	pop {r4, pc}
 	thumb_func_end ov18_021F0D7C
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F0DD0.inc"
+#else
 	thumb_func_start ov18_021F0DD0
 ov18_021F0DD0: ; 0x021F0DD0
 	push {r4, r5, lr}
@@ -5376,12 +5430,13 @@ ov18_021F0DD0: ; 0x021F0DD0
 	.balign 4, 0
 _021F0F10: .word 0x00020100
 _021F0F14: .word 0x0000065C
-_021F0F18: .word 0x000018A2
+_021F0F18: .word POKEDEX_APP_OFFSET(0x000018A2)
 _021F0F1C: .word 0x00050900
 _021F0F20: .word 0x000F0C00
-_021F0F24: .word 0x000018C5
-_021F0F28: .word 0x000018C6
+_021F0F24: .word POKEDEX_APP_OFFSET(0x000018C5)
+_021F0F28: .word POKEDEX_APP_OFFSET(0x000018C6)
 	thumb_func_end ov18_021F0DD0
+#endif
 
 	thumb_func_start ov18_021F0F2C
 ov18_021F0F2C: ; 0x021F0F2C
@@ -5487,6 +5542,9 @@ ov18_021F0FEC: ; 0x021F0FEC
 	.balign 4, 0
 	thumb_func_end ov18_021F0FEC
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1004.inc"
+#else
 	thumb_func_start ov18_021F1004
 ov18_021F1004: ; 0x021F1004
 	push {r4, r5, r6, lr}
@@ -5507,7 +5565,11 @@ _021F1018:
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
 	thumb_func_end ov18_021F1004
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1024.inc"
+#else
 	thumb_func_start ov18_021F1024
 ov18_021F1024: ; 0x021F1024
 	push {r4, r5, r6, r7, lr}
@@ -5582,6 +5644,7 @@ _021F10BC: .word ov18_021FA3C8
 _021F10C0: .word ov18_021FA36C
 _021F10C4: .word ov18_021FA380
 	thumb_func_end ov18_021F1024
+#endif
 
 	thumb_func_start ov18_021F10C8
 ov18_021F10C8: ; 0x021F10C8
@@ -5618,6 +5681,9 @@ _021F1100:
 	.balign 4, 0
 	thumb_func_end ov18_021F10E8
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1104.inc"
+#else
 	thumb_func_start ov18_021F1104
 ov18_021F1104: ; 0x021F1104
 	push {r3, r4, r5, lr}
@@ -5633,6 +5699,7 @@ _021F110A:
 	pop {r3, r4, r5, pc}
 	.balign 4, 0
 	thumb_func_end ov18_021F1104
+#endif
 
 	thumb_func_start ov18_021F111C
 ov18_021F111C: ; 0x021F111C
@@ -5894,6 +5961,9 @@ _021F12E4:
 	pop {r4, pc}
 	thumb_func_end ov18_021F12C8
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F12FC.inc"
+#else
 	thumb_func_start ov18_021F12FC
 ov18_021F12FC: ; 0x021F12FC
 	push {r4, lr}
@@ -5905,9 +5975,13 @@ ov18_021F12FC: ; 0x021F12FC
 	str r0, [r4, r1]
 	pop {r4, pc}
 	nop
-_021F1310: .word 0x00000858
+_021F1310: .word POKEDEX_APP_OFFSET(0x00000858)
 	thumb_func_end ov18_021F12FC
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1314.inc"
+#else
 	thumb_func_start ov18_021F1314
 ov18_021F1314: ; 0x021F1314
 	ldr r1, _021F131C ; =0x00000858
@@ -5915,10 +5989,14 @@ ov18_021F1314: ; 0x021F1314
 	ldr r0, [r0, r1]
 	bx r3
 	.balign 4, 0
-_021F131C: .word 0x00000858
+_021F131C: .word POKEDEX_APP_OFFSET(0x00000858)
 _021F1320: .word NARC_Delete
 	thumb_func_end ov18_021F1314
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1324.inc"
+#else
 	thumb_func_start ov18_021F1324
 ov18_021F1324: ; 0x021F1324
 	push {r3, r4, r5, r6, r7, lr}
@@ -6000,9 +6078,10 @@ _021F13C4: .word 0x00000000
 _021F13C8: .word 0x0000C550
 _021F13CC: .word 0x00000668
 _021F13D0: .word 0x0000066C
-_021F13D4: .word 0x00000854
-_021F13D8: .word 0x00000858
+_021F13D4: .word POKEDEX_APP_OFFSET(0x00000854)
+_021F13D8: .word POKEDEX_APP_OFFSET(0x00000858)
 	thumb_func_end ov18_021F1324
+#endif
 
 	thumb_func_start ov18_021F13DC
 ov18_021F13DC: ; 0x021F13DC
@@ -6094,6 +6173,9 @@ _021F1484: .word 0x0000C550
 _021F1488: .word 0x00000668
 	thumb_func_end ov18_021F1424
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F148C.inc"
+#else
 	thumb_func_start ov18_021F148C
 ov18_021F148C: ; 0x021F148C
 	push {r3, r4, r5, lr}
@@ -6112,8 +6194,9 @@ ov18_021F148C: ; 0x021F148C
 	bl GfGfxLoader_GetCharDataFromOpenNarc
 	pop {r3, r4, r5, pc}
 	nop
-_021F14B0: .word 0x00000858
+_021F14B0: .word POKEDEX_APP_OFFSET(0x00000858)
 	thumb_func_end ov18_021F148C
+#endif
 
 	thumb_func_start ov18_021F14B4
 ov18_021F14B4: ; 0x021F14B4
@@ -6289,8 +6372,8 @@ _021F1614:
 	add sp, #8
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F1618: .word 0x00001030
-_021F161C: .word 0x00001032
+_021F1618: .word POKEDEX_APP_OFFSET(0x00001030)
+_021F161C: .word POKEDEX_APP_OFFSET(0x00001032)
 	thumb_func_end ov18_021F1598
 
 	thumb_func_start ov18_021F1620
@@ -6371,8 +6454,8 @@ _021F1656:
 	blo _021F1656
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F16BC: .word 0x0000185E
-_021F16C0: .word 0x00001859
+_021F16BC: .word POKEDEX_APP_OFFSET(0x0000185E)
+_021F16C0: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F1620
 
 	thumb_func_start ov18_021F16C4
@@ -6451,8 +6534,8 @@ _021F172C:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F1758: .word 0x0000185E
-_021F175C: .word 0x00001859
+_021F1758: .word POKEDEX_APP_OFFSET(0x0000185E)
+_021F175C: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F16C4
 
 	thumb_func_start ov18_021F1760
@@ -6531,10 +6614,13 @@ _021F17C8:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F17F4: .word 0x0000185E
-_021F17F8: .word 0x00001859
+_021F17F4: .word POKEDEX_APP_OFFSET(0x0000185E)
+_021F17F8: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F1760
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F17FC.inc"
+#else
 	thumb_func_start ov18_021F17FC
 ov18_021F17FC: ; 0x021F17FC
 	push {r4, lr}
@@ -6640,6 +6726,7 @@ _021F18D4: .word 0x0000C552
 _021F18D8: .word 0x0000C553
 _021F18DC: .word 0x0000C551
 	thumb_func_end ov18_021F17FC
+#endif
 
 	thumb_func_start ov18_021F18E0
 ov18_021F18E0: ; 0x021F18E0
@@ -6679,6 +6766,9 @@ _021F1934: .word 0x0000C553
 _021F1938: .word 0x0000C551
 	thumb_func_end ov18_021F18E0
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F193C.inc"
+#else
 	thumb_func_start ov18_021F193C
 ov18_021F193C: ; 0x021F193C
 	push {r4, lr}
@@ -6761,6 +6851,7 @@ _021F19E0: .word 0x0000C58F
 _021F19E4: .word 0x0000C554
 _021F19E8: .word 0x0000C555
 	thumb_func_end ov18_021F193C
+#endif
 
 	thumb_func_start ov18_021F19EC
 ov18_021F19EC: ; 0x021F19EC
@@ -6828,6 +6919,9 @@ _021F1A74: .word ov18_021FABF4
 _021F1A78: .word 0x00000674
 	thumb_func_end ov18_021F1A30
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1A7C.inc"
+#else
 	thumb_func_start ov18_021F1A7C
 ov18_021F1A7C: ; 0x021F1A7C
 	push {r3, r4, r5, r6, r7, lr}
@@ -6984,6 +7078,7 @@ _021F1BB4:
 _021F1BC0: .word ov18_021FA328
 _021F1BC4: .word 0x00000147
 	thumb_func_end ov18_021F1A7C
+#endif
 
 	thumb_func_start ov18_021F1BC8
 ov18_021F1BC8: ; 0x021F1BC8
@@ -7094,7 +7189,7 @@ _021F1C88:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	nop
-_021F1CA8: .word 0x0000185F
+_021F1CA8: .word POKEDEX_APP_OFFSET(0x0000185F)
 	thumb_func_end ov18_021F1BC8
 
 	thumb_func_start ov18_021F1CAC
@@ -7104,6 +7199,9 @@ ov18_021F1CAC: ; 0x021F1CAC
 	pop {r3, pc}
 	thumb_func_end ov18_021F1CAC
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1CB4.inc"
+#else
 	thumb_func_start ov18_021F1CB4
 ov18_021F1CB4: ; 0x021F1CB4
 	push {r3, r4, r5, lr}
@@ -7174,10 +7272,11 @@ ov18_021F1CB4: ; 0x021F1CB4
 	nop
 _021F1D44: .word 0x0000C599
 _021F1D48: .word 0x00000668
-_021F1D4C: .word 0x00000854
+_021F1D4C: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F1D50: .word 0x0000C55B
 _021F1D54: .word 0x0000C558
 	thumb_func_end ov18_021F1CB4
+#endif
 
 	thumb_func_start ov18_021F1D58
 ov18_021F1D58: ; 0x021F1D58
@@ -7243,6 +7342,9 @@ _021F1DDC: .word 0x0000066C
 _021F1DE0: .word 0x0000C55B
 	thumb_func_end ov18_021F1D98
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F1DE4.inc"
+#else
 	thumb_func_start ov18_021F1DE4
 ov18_021F1DE4: ; 0x021F1DE4
 	push {r3, r4, r5, r6, lr}
@@ -7305,10 +7407,11 @@ _021F1E2E:
 	add sp, #4
 	pop {r3, r4, r5, r6, pc}
 	nop
-_021F1E64: .word 0x0000185C
-_021F1E68: .word 0x00001032
+_021F1E64: .word POKEDEX_APP_OFFSET(0x0000185C)
+_021F1E68: .word POKEDEX_APP_OFFSET(0x00001032)
 _021F1E6C: .word 0x000001E7
 	thumb_func_end ov18_021F1DE4
+#endif
 
 	thumb_func_start ov18_021F1E70
 ov18_021F1E70: ; 0x021F1E70
@@ -7421,7 +7524,7 @@ ov18_021F1E70: ; 0x021F1E70
 	nop
 _021F1F54: .word 0x0000C593
 _021F1F58: .word 0x00000668
-_021F1F5C: .word 0x00000854
+_021F1F5C: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F1F60: .word 0x0000C594
 _021F1F64: .word 0x0000C595
 _021F1F68: .word 0x0000C596
@@ -7561,6 +7664,9 @@ _021F2094: .word 0x0000C596
 _021F2098: .word 0x0000067C
 	thumb_func_end ov18_021F1FDC
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F209C.inc"
+#else
 	thumb_func_start ov18_021F209C
 ov18_021F209C: ; 0x021F209C
 	push {r3, r4, r5, r6, r7, lr}
@@ -7719,13 +7825,14 @@ _021F21C8:
 	add sp, #8
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F21E4: .word 0x0000185C
-_021F21E8: .word 0x00001032
+_021F21E4: .word POKEDEX_APP_OFFSET(0x0000185C)
+_021F21E8: .word POKEDEX_APP_OFFSET(0x00001032)
 _021F21EC: .word 0x00000674
 _021F21F0: .word 0x00000678
 _021F21F4: .word 0x0000067C
-_021F21F8: .word 0x0000185F
+_021F21F8: .word POKEDEX_APP_OFFSET(0x0000185F)
 	thumb_func_end ov18_021F209C
+#endif
 
 	thumb_func_start ov18_021F21FC
 ov18_021F21FC: ; 0x021F21FC
@@ -7775,7 +7882,7 @@ ov18_021F21FC: ; 0x021F21FC
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F2264: .word 0x00000854
+_021F2264: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F2268: .word 0x0000066C
 _021F226C: .word 0x0000C558
 	thumb_func_end ov18_021F21FC
@@ -7847,7 +7954,7 @@ ov18_021F2270: ; 0x021F2270
 	.balign 4, 0
 _021F22F4: .word 0x0000C597
 _021F22F8: .word 0x00000668
-_021F22FC: .word 0x00000854
+_021F22FC: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F2300: .word 0x0000C559
 _021F2304: .word 0x0000C556
 	thumb_func_end ov18_021F2270
@@ -7949,7 +8056,7 @@ ov18_021F2348: ; 0x021F2348
 	.balign 4, 0
 _021F23D0: .word 0x0000C598
 _021F23D4: .word 0x00000668
-_021F23D8: .word 0x00000854
+_021F23D8: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F23DC: .word 0x0000C55A
 _021F23E0: .word 0x0000C557
 	thumb_func_end ov18_021F2348
@@ -8114,9 +8221,12 @@ _021F2508:
 	bl ManagedSprite_SetDrawFlag
 	pop {r3, r4, r5, pc}
 	.balign 4, 0
-_021F252C: .word 0x0000185C
+_021F252C: .word POKEDEX_APP_OFFSET(0x0000185C)
 	thumb_func_end ov18_021F24E0
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F2530.inc"
+#else
 	thumb_func_start ov18_021F2530
 ov18_021F2530: ; 0x021F2530
 	push {r3, r4, r5, r6, r7, lr}
@@ -8254,8 +8364,9 @@ _021F263E:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F2644: .word 0x0000185C
+_021F2644: .word POKEDEX_APP_OFFSET(0x0000185C)
 	thumb_func_end ov18_021F2530
+#endif
 
 	thumb_func_start ov18_021F2648
 ov18_021F2648: ; 0x021F2648
@@ -8325,7 +8436,7 @@ ov18_021F2648: ; 0x021F2648
 	nop
 _021F26D0: .word 0x0000C590
 _021F26D4: .word 0x00000668
-_021F26D8: .word 0x00000854
+_021F26D8: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F26DC: .word 0x0000C556
 _021F26E0: .word 0x0000C552
 	thumb_func_end ov18_021F2648
@@ -8465,7 +8576,7 @@ ov18_021F2724: ; 0x021F2724
 	nop
 _021F2800: .word 0x0000C591
 _021F2804: .word 0x00000668
-_021F2808: .word 0x00000854
+_021F2808: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F280C: .word 0x0000C557
 _021F2810: .word 0x0000C553
 _021F2814: .word 0x0000C592
@@ -8608,7 +8719,7 @@ _021F28BC:
 	bl ManagedSprite_SetDrawFlag
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
-_021F2960: .word 0x00001860
+_021F2960: .word POKEDEX_APP_OFFSET(0x00001860)
 	thumb_func_end ov18_021F2880
 
 	thumb_func_start ov18_021F2964
@@ -8801,7 +8912,7 @@ _021F2ADE:
 	bl ManagedSprite_SetPositionXY
 	pop {r3, pc}
 	nop
-_021F2AF4: .word 0x00001858
+_021F2AF4: .word POKEDEX_APP_OFFSET(0x00001858)
 	thumb_func_end ov18_021F2AC0
 
 	thumb_func_start ov18_021F2AF8
@@ -8906,7 +9017,7 @@ _021F2BA8:
 	mov r0, #0x70
 	bx lr
 	.balign 4, 0
-_021F2BAC: .word 0x00001858
+_021F2BAC: .word POKEDEX_APP_OFFSET(0x00001858)
 	thumb_func_end ov18_021F2B9C
 
 	thumb_func_start ov18_021F2BB0
@@ -8943,7 +9054,7 @@ ov18_021F2BB0: ; 0x021F2BB0
 	bl ManagedSprite_SetDrawFlag
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F2BF8: .word 0x0000185A
+_021F2BF8: .word POKEDEX_APP_OFFSET(0x0000185A)
 	thumb_func_end ov18_021F2BB0
 
 	thumb_func_start ov18_021F2BFC
@@ -8994,7 +9105,7 @@ _021F2C4A:
 	bl ov18_021F118C
 	pop {r4, r5, r6, pc}
 	nop
-_021F2C58: .word 0x00001859
+_021F2C58: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F2C10
 
 	thumb_func_start ov18_021F2C5C
@@ -9200,7 +9311,7 @@ _021F2DCA:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F2DD0: .word 0x00001859
+_021F2DD0: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F2D24
 
 	thumb_func_start ov18_021F2DD4
@@ -9327,7 +9438,7 @@ ov18_021F2E80: ; 0x021F2E80
 	add sp, #8
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F2EC4: .word 0x00001859
+_021F2EC4: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F2E80
 
 	thumb_func_start ov18_021F2EC8
@@ -9357,7 +9468,7 @@ _021F2EE8:
 	bl ManagedSprite_SetDrawFlag
 	pop {r3, pc}
 	nop
-_021F2EFC: .word 0x00001032
+_021F2EFC: .word POKEDEX_APP_OFFSET(0x00001032)
 	thumb_func_end ov18_021F2EC8
 
 	thumb_func_start ov18_021F2F00
@@ -9586,7 +9697,7 @@ ov18_021F2F4C: ; 0x021F2F4C
 	nop
 _021F30E0: .word 0x0000C5A0
 _021F30E4: .word 0x00000668
-_021F30E8: .word 0x00000854
+_021F30E8: .word POKEDEX_APP_OFFSET(0x00000854)
 _021F30EC: .word 0x0000C561
 _021F30F0: .word 0x0000C55E
 _021F30F4: .word 0x0000C59F
@@ -9650,6 +9761,9 @@ _021F3188: .word 0x0000C561
 _021F318C: .word 0x0000C55E
 	thumb_func_end ov18_021F310C
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3190.inc"
+#else
 	thumb_func_start ov18_021F3190
 ov18_021F3190: ; 0x021F3190
 	push {r4, r5, r6, r7, lr}
@@ -9762,6 +9876,7 @@ _021F3288: .word 0x0000047C
 _021F328C: .word 0x0000066C
 _021F3290: .word 0x0000C55A
 	thumb_func_end ov18_021F3190
+#endif
 
 	thumb_func_start ov18_021F3294
 ov18_021F3294: ; 0x021F3294
@@ -9780,6 +9895,9 @@ ov18_021F3294: ; 0x021F3294
 	.balign 4, 0
 	thumb_func_end ov18_021F3294
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F32B8.inc"
+#else
 	thumb_func_start ov18_021F32B8
 ov18_021F32B8: ; 0x021F32B8
 	push {r4, r5, r6, r7, lr}
@@ -9953,8 +10071,9 @@ _021F3424: .word 0x000006D8
 _021F3428: .word ov18_021FB580
 _021F342C: .word 0x000006DC
 _021F3430: .word ov18_021FA4EC
-_021F3434: .word 0x0000188C
+_021F3434: .word POKEDEX_APP_OFFSET(0x0000188C)
 	thumb_func_end ov18_021F32B8
+#endif
 
 	thumb_func_start ov18_021F3438
 ov18_021F3438: ; 0x021F3438
@@ -9966,6 +10085,9 @@ ov18_021F3438: ; 0x021F3438
 	pop {r4, pc}
 	thumb_func_end ov18_021F3438
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3448.inc"
+#else
 	thumb_func_start ov18_021F3448
 ov18_021F3448: ; 0x021F3448
 	push {r4, lr}
@@ -9998,7 +10120,11 @@ _021F3488: .word 0x0000C59E
 _021F348C: .word 0x0000C55F
 _021F3490: .word 0x0000C55C
 	thumb_func_end ov18_021F3448
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3494.inc"
+#else
 	thumb_func_start ov18_021F3494
 ov18_021F3494: ; 0x021F3494
 	push {r4, lr}
@@ -10022,9 +10148,13 @@ _021F34AA:
 	bl ov18_021F118C
 	pop {r4, pc}
 	.balign 4, 0
-_021F34C0: .word 0x0000188C
+_021F34C0: .word POKEDEX_APP_OFFSET(0x0000188C)
 	thumb_func_end ov18_021F3494
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F34C4.inc"
+#else
 	thumb_func_start ov18_021F34C4
 ov18_021F34C4: ; 0x021F34C4
 	push {r4, r5, r6, lr}
@@ -10048,7 +10178,11 @@ _021F34D8:
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
 	thumb_func_end ov18_021F34C4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F34EC.inc"
+#else
 	thumb_func_start ov18_021F34EC
 ov18_021F34EC: ; 0x021F34EC
 	push {r4, r5, r6, lr}
@@ -10094,7 +10228,11 @@ _021F3530:
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
 	thumb_func_end ov18_021F34EC
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3544.inc"
+#else
 	thumb_func_start ov18_021F3544
 ov18_021F3544: ; 0x021F3544
 	push {r4, r5, r6, lr}
@@ -10112,7 +10250,11 @@ _021F354C:
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
 	thumb_func_end ov18_021F3544
+#endif
 
+#ifdef GERMAN
+#include "pokedex_metric_sliders.inc"
+#else
 	thumb_func_start ov18_021F3560
 ov18_021F3560: ; 0x021F3560
 	push {r4, r5, r6, lr}
@@ -10194,9 +10336,13 @@ _021F35FE:
 	bl ov18_021F3A64
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
-_021F3614: .word 0x00001850
+_021F3614: .word POKEDEX_APP_OFFSET(0x00001850)
 	thumb_func_end ov18_021F3560
+#endif
 
+#ifdef GERMAN
+#include "pokedex_metric_search.inc"
+#else
 	thumb_func_start ov18_021F3618
 ov18_021F3618: ; 0x021F3618
 	push {r4, lr}
@@ -10282,9 +10428,13 @@ _021F36BE:
 	bl ov18_021F3544
 	pop {r4, pc}
 	.balign 4, 0
-_021F36D0: .word 0x00001878
+_021F36D0: .word POKEDEX_APP_OFFSET(0x00001878)
 	thumb_func_end ov18_021F3618
+#endif
 
+#ifdef GERMAN
+#include "pokedex_metric_positions.inc"
+#else
 	thumb_func_start ov18_021F36D4
 ov18_021F36D4: ; 0x021F36D4
 	push {r3, r4, r5, r6, r7, lr}
@@ -10543,7 +10693,11 @@ _021F38E4: .word 0x00000678
 _021F38E8: .word 0x0000067C
 _021F38EC: .word 0x00000684
 	thumb_func_end ov18_021F37D4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_metric_digits.inc"
+#else
 	thumb_func_start ov18_021F38F0
 ov18_021F38F0: ; 0x021F38F0
 	push {r3, r4, r5, r6, r7, lr}
@@ -10718,6 +10872,7 @@ _021F3A58: .word 0x00035D2E
 _021F3A5C: .word 0x0000C350
 _021F3A60: .word 0x00002710
 	thumb_func_end ov18_021F39C4
+#endif
 
 	thumb_func_start ov18_021F3A64
 ov18_021F3A64: ; 0x021F3A64
@@ -10784,6 +10939,9 @@ ov18_021F3AD0: ; 0x021F3AD0
 	.balign 4, 0
 	thumb_func_end ov18_021F3AD0
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3AD8.inc"
+#else
 	thumb_func_start ov18_021F3AD8
 ov18_021F3AD8: ; 0x021F3AD8
 	push {r3, r4, lr}
@@ -10822,10 +10980,14 @@ _021F3B20:
 	add sp, #4
 	pop {r3, r4, pc}
 	.balign 4, 0
-_021F3B24: .word 0x00001860
+_021F3B24: .word POKEDEX_APP_OFFSET(0x00001860)
 _021F3B28: .word 0x000006B4
 	thumb_func_end ov18_021F3AD8
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3B2C.inc"
+#else
 	thumb_func_start ov18_021F3B2C
 ov18_021F3B2C: ; 0x021F3B2C
 	push {r3, r4, r5, lr}
@@ -10852,7 +11014,11 @@ ov18_021F3B2C: ; 0x021F3B2C
 	nop
 _021F3B5C: .word 0x000006B4
 	thumb_func_end ov18_021F3B2C
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3B60.inc"
+#else
 	thumb_func_start ov18_021F3B60
 ov18_021F3B60: ; 0x021F3B60
 	push {r4, r5, r6, lr}
@@ -10889,7 +11055,11 @@ _021F3B8C:
 	bl ov18_021F3BA4
 	pop {r4, r5, r6, pc}
 	thumb_func_end ov18_021F3B60
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3BA4.inc"
+#else
 	thumb_func_start ov18_021F3BA4
 ov18_021F3BA4: ; 0x021F3BA4
 	push {r4, lr}
@@ -10913,9 +11083,13 @@ _021F3BBA:
 	bl ov18_021F118C
 	pop {r4, pc}
 	.balign 4, 0
-_021F3BD0: .word 0x0000188C
+_021F3BD0: .word POKEDEX_APP_OFFSET(0x0000188C)
 	thumb_func_end ov18_021F3BA4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3BD4.inc"
+#else
 	thumb_func_start ov18_021F3BD4
 ov18_021F3BD4: ; 0x021F3BD4
 	push {r3, r4, r5, lr}
@@ -10961,7 +11135,11 @@ ov18_021F3BD4: ; 0x021F3BD4
 	.balign 4, 0
 _021F3C2C: .word 0x0000071C
 	thumb_func_end ov18_021F3BD4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3C30.inc"
+#else
 	thumb_func_start ov18_021F3C30
 ov18_021F3C30: ; 0x021F3C30
 	push {r4, lr}
@@ -10980,7 +11158,11 @@ ov18_021F3C30: ; 0x021F3C30
 	nop
 _021F3C50: .word 0x000006D4
 	thumb_func_end ov18_021F3C30
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3C54.inc"
+#else
 	thumb_func_start ov18_021F3C54
 ov18_021F3C54: ; 0x021F3C54
 	push {r3, r4, r5, lr}
@@ -11007,7 +11189,11 @@ ov18_021F3C54: ; 0x021F3C54
 	nop
 _021F3C84: .word 0x000006D4
 	thumb_func_end ov18_021F3C54
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3C88.inc"
+#else
 	thumb_func_start ov18_021F3C88
 ov18_021F3C88: ; 0x021F3C88
 	push {r4, lr}
@@ -11025,6 +11211,7 @@ ov18_021F3C88: ; 0x021F3C88
 	.balign 4, 0
 _021F3CA4: .word 0x000006D4
 	thumb_func_end ov18_021F3C88
+#endif
 
 	thumb_func_start ov18_021F3CA8
 ov18_021F3CA8: ; 0x021F3CA8
@@ -11103,7 +11290,7 @@ _021F3D28:
 	strb r0, [r5]
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F3D30: .word 0x000018A4
+_021F3D30: .word POKEDEX_APP_OFFSET(0x000018A4)
 	thumb_func_end ov18_021F3CA8
 
 	thumb_func_start ov18_021F3D34
@@ -11208,7 +11395,7 @@ _021F3DA6:
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
 _021F3E00: .word ov18_021FA610
-_021F3E04: .word 0x000018A2
+_021F3E04: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F3D98
 
 	thumb_func_start ov18_021F3E08
@@ -11228,6 +11415,9 @@ _021F3E0E:
 	pop {r3, r4, r5, pc}
 	thumb_func_end ov18_021F3E08
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F3E24.inc"
+#else
 	thumb_func_start ov18_021F3E24
 ov18_021F3E24: ; 0x021F3E24
 	push {r4, lr}
@@ -11415,8 +11605,8 @@ ov18_021F3E24: ; 0x021F3E24
 	nop
 _021F3FB0: .word 0x0000C550
 _021F3FB4: .word 0x00000668
-_021F3FB8: .word 0x00000854
-_021F3FBC: .word 0x00000858
+_021F3FB8: .word POKEDEX_APP_OFFSET(0x00000854)
+_021F3FBC: .word POKEDEX_APP_OFFSET(0x00000858)
 _021F3FC0: .word 0x0000C551
 _021F3FC4: .word 0x0000C59C
 _021F3FC8: .word 0x0000C55E
@@ -11425,6 +11615,7 @@ _021F3FD0: .word 0x0000C59A
 _021F3FD4: .word 0x0000C55C
 _021F3FD8: .word 0x0000C559
 	thumb_func_end ov18_021F3E24
+#endif
 
 	thumb_func_start ov18_021F3FDC
 ov18_021F3FDC: ; 0x021F3FDC
@@ -11507,9 +11698,12 @@ ov18_021F4080: ; 0x021F4080
 	bl ov18_021F1294
 	pop {r3, pc}
 	.balign 4, 0
-_021F409C: .word 0x000018C9
+_021F409C: .word POKEDEX_APP_OFFSET(0x000018C9)
 	thumb_func_end ov18_021F4080
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F40A0.inc"
+#else
 	thumb_func_start ov18_021F40A0
 ov18_021F40A0: ; 0x021F40A0
 	push {r3, r4, lr}
@@ -11540,8 +11734,9 @@ ov18_021F40A0: ; 0x021F40A0
 	pop {r3, r4, pc}
 	nop
 _021F40DC: .word ov18_021FA35A
-_021F40E0: .word 0x000018CA
+_021F40E0: .word POKEDEX_APP_OFFSET(0x000018CA)
 	thumb_func_end ov18_021F40A0
+#endif
 
 	thumb_func_start ov18_021F40E4
 ov18_021F40E4: ; 0x021F40E4
@@ -11586,6 +11781,9 @@ _021F410E:
 	.balign 4, 0
 	thumb_func_end ov18_021F40E4
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F4134.inc"
+#else
 	thumb_func_start ov18_021F4134
 ov18_021F4134: ; 0x021F4134
 	push {r3, lr}
@@ -11628,8 +11826,9 @@ _021F417A:
 	bl ov18_021F11C0
 	pop {r3, pc}
 	.balign 4, 0
-_021F4184: .word 0x000018C8
+_021F4184: .word POKEDEX_APP_OFFSET(0x000018C8)
 	thumb_func_end ov18_021F4134
+#endif
 
 	thumb_func_start ov18_021F4188
 ov18_021F4188: ; 0x021F4188
@@ -11662,6 +11861,9 @@ _021F4196:
 _021F41C0: .word ov18_021FA4B8
 	thumb_func_end ov18_021F4188
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F41C4.inc"
+#else
 	thumb_func_start ov18_021F41C4
 ov18_021F41C4: ; 0x021F41C4
 	push {r3, r4, r5, r6, r7, lr}
@@ -11818,10 +12020,14 @@ _021F42AC:
 	strh r1, [r0]
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F42DC: .word 0x0000190C
-_021F42E0: .word 0x000018C8
+_021F42DC: .word POKEDEX_APP_OFFSET(0x0000190C)
+_021F42E0: .word POKEDEX_APP_OFFSET(0x000018C8)
 	thumb_func_end ov18_021F41C4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F42E4.inc"
+#else
 	thumb_func_start ov18_021F42E4
 ov18_021F42E4: ; 0x021F42E4
 	push {r3, r4, r5, r6, r7, lr}
@@ -11905,10 +12111,14 @@ _021F4374:
 	strb r0, [r5]
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F437C: .word 0x00001908
+_021F437C: .word POKEDEX_APP_OFFSET(0x00001908)
 _021F4380: .word 0x000001E7
 	thumb_func_end ov18_021F42E4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F4384.inc"
+#else
 	thumb_func_start ov18_021F4384
 ov18_021F4384: ; 0x021F4384
 	push {r3, r4, r5, r6, r7, lr}
@@ -12222,11 +12432,12 @@ _021F4602:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F4610: .word 0x000018CA
-_021F4614: .word 0x000018FC
+_021F4610: .word POKEDEX_APP_OFFSET(0x000018CA)
+_021F4614: .word POKEDEX_APP_OFFSET(0x000018FC)
 _021F4618: .word ov18_021FA3B0
 _021F461C: .word ov18_021FA3B0 + 1
 	thumb_func_end ov18_021F4384
+#endif
 
 	thumb_func_start ov18_021F4620
 ov18_021F4620: ; 0x021F4620
@@ -12246,6 +12457,9 @@ _021F4628:
 	.balign 4, 0
 	thumb_func_end ov18_021F4620
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F463C.inc"
+#else
 	thumb_func_start ov18_021F463C
 ov18_021F463C: ; 0x021F463C
 	push {r4, r5, r6, r7, lr}
@@ -12421,11 +12635,12 @@ _021F4794:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F47B0: .word 0x000018CA
-_021F47B4: .word 0x000018CB
-_021F47B8: .word 0x000018FC
+_021F47B0: .word POKEDEX_APP_OFFSET(0x000018CA)
+_021F47B4: .word POKEDEX_APP_OFFSET(0x000018CB)
+_021F47B8: .word POKEDEX_APP_OFFSET(0x000018FC)
 _021F47BC: .word 0x00000694
 	thumb_func_end ov18_021F463C
+#endif
 
 	thumb_func_start ov18_021F47C0
 ov18_021F47C0: ; 0x021F47C0
@@ -12778,6 +12993,9 @@ _021F4A56:
 	pop {r3, r4, r5, pc}
 	thumb_func_end ov18_021F4A50
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F4A6C.inc"
+#else
 	thumb_func_start ov18_021F4A6C
 ov18_021F4A6C: ; 0x021F4A6C
 	push {r4, lr}
@@ -13043,8 +13261,8 @@ _021F4BE8:
 	.balign 4, 0
 _021F4C98: .word 0x0000C551
 _021F4C9C: .word 0x00000668
-_021F4CA0: .word 0x00000854
-_021F4CA4: .word 0x00000858
+_021F4CA0: .word POKEDEX_APP_OFFSET(0x00000854)
+_021F4CA4: .word POKEDEX_APP_OFFSET(0x00000858)
 _021F4CA8: .word 0x0000C55A
 _021F4CAC: .word 0x0000C55B
 _021F4CB0: .word 0x0000C59B
@@ -13053,6 +13271,7 @@ _021F4CB8: .word 0x0000C59D
 _021F4CBC: .word 0x0000C55D
 _021F4CC0: .word 0x0000C55E
 	thumb_func_end ov18_021F4A6C
+#endif
 
 	thumb_func_start ov18_021F4CC4
 ov18_021F4CC4: ; 0x021F4CC4
@@ -13171,8 +13390,8 @@ _021F4D90:
 	bl ManagedSprite_SetAffineTranslation
 	pop {r3, r4, r5, pc}
 	nop
-_021F4DD0: .word 0x000018A4
-_021F4DD4: .word 0x000018A2
+_021F4DD0: .word POKEDEX_APP_OFFSET(0x000018A4)
+_021F4DD4: .word POKEDEX_APP_OFFSET(0x000018A2)
 _021F4DD8: .word 0x0000068C
 	thumb_func_end ov18_021F4D64
 
@@ -13209,8 +13428,8 @@ ov18_021F4DDC: ; 0x021F4DDC
 	add sp, #8
 	pop {r3, r4, r5, pc}
 	nop
-_021F4E20: .word 0x000018CC
-_021F4E24: .word 0x000018A2
+_021F4E20: .word POKEDEX_APP_OFFSET(0x000018CC)
+_021F4E24: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F4DDC
 
 	thumb_func_start ov18_021F4E28
@@ -13271,7 +13490,7 @@ ov18_021F4E28: ; 0x021F4E28
 	add sp, #8
 	pop {r4, r5, r6, pc}
 	.balign 4, 0
-_021F4EA4: .word 0x000018CC
+_021F4EA4: .word POKEDEX_APP_OFFSET(0x000018CC)
 _021F4EA8: .word 0x45800000
 _021F4EAC: .word 0x00000674
 	thumb_func_end ov18_021F4E28
@@ -13528,7 +13747,7 @@ _021F50A8:
 	pop {r3, r4, r5, pc}
 	nop
 _021F50B4: .word 0x0000019A
-_021F50B8: .word 0x0000184C
+_021F50B8: .word POKEDEX_APP_OFFSET(0x0000184C)
 _021F50BC: .word ov18_021FA5CC
 	thumb_func_end ov18_021F504C
 
@@ -13670,6 +13889,9 @@ _021F51B0:
 	.balign 4, 0
 	thumb_func_end ov18_021F5198
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F51BC.inc"
+#else
 	thumb_func_start ov18_021F51BC
 ov18_021F51BC: ; 0x021F51BC
 	push {r3, lr}
@@ -13678,9 +13900,13 @@ ov18_021F51BC: ; 0x021F51BC
 	mov r0, #0
 	pop {r3, pc}
 	.balign 4, 0
-_021F51C8: .word 0x000008EB
+_021F51C8: .word POKEDEX_APP_OFFSET(0x000008EB)
 	thumb_func_end ov18_021F51BC
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F51CC.inc"
+#else
 	thumb_func_start ov18_021F51CC
 ov18_021F51CC: ; 0x021F51CC
 	push {r4, lr}
@@ -13731,10 +13957,14 @@ _021F522A:
 	mov r0, #1
 	pop {r4, pc}
 	nop
-_021F5230: .word 0x000008EB
+_021F5230: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F5234: .word 0x0000068C
 	thumb_func_end ov18_021F51CC
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F5238.inc"
+#else
 	thumb_func_start ov18_021F5238
 ov18_021F5238: ; 0x021F5238
 	push {r4, lr}
@@ -13785,10 +14015,14 @@ _021F5296:
 	mov r0, #1
 	pop {r4, pc}
 	nop
-_021F529C: .word 0x000008EB
+_021F529C: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F52A0: .word 0x0000068C
 	thumb_func_end ov18_021F5238
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F52A4.inc"
+#else
 	thumb_func_start ov18_021F52A4
 ov18_021F52A4: ; 0x021F52A4
 	push {r4, lr}
@@ -13838,11 +14072,15 @@ _021F5300:
 	mov r0, #1
 	pop {r4, pc}
 	.balign 4, 0
-_021F5304: .word 0x000008EB
+_021F5304: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F5308: .word 0xFFFFFEE0
 _021F530C: .word 0x0000068C
 	thumb_func_end ov18_021F52A4
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F5310.inc"
+#else
 	thumb_func_start ov18_021F5310
 ov18_021F5310: ; 0x021F5310
 	push {r4, lr}
@@ -13892,11 +14130,15 @@ _021F536C:
 	mov r0, #1
 	pop {r4, pc}
 	.balign 4, 0
-_021F5370: .word 0x000008EB
+_021F5370: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F5374: .word 0xFFFFFEC0
 _021F5378: .word 0x0000068C
 	thumb_func_end ov18_021F5310
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F537C.inc"
+#else
 	thumb_func_start ov18_021F537C
 ov18_021F537C: ; 0x021F537C
 	push {r4, lr}
@@ -13946,11 +14188,15 @@ _021F53D8:
 	mov r0, #1
 	pop {r4, pc}
 	.balign 4, 0
-_021F53DC: .word 0x000008EB
+_021F53DC: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F53E0: .word 0xFFFFFEA0
 _021F53E4: .word 0x0000068C
 	thumb_func_end ov18_021F537C
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F53E8.inc"
+#else
 	thumb_func_start ov18_021F53E8
 ov18_021F53E8: ; 0x021F53E8
 	push {r4, lr}
@@ -14000,11 +14246,15 @@ _021F5444:
 	mov r0, #1
 	pop {r4, pc}
 	.balign 4, 0
-_021F5448: .word 0x000008EB
+_021F5448: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F544C: .word 0xFFFFFEC0
 _021F5450: .word 0x0000068C
 	thumb_func_end ov18_021F53E8
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F5454.inc"
+#else
 	thumb_func_start ov18_021F5454
 ov18_021F5454: ; 0x021F5454
 	push {r4, lr}
@@ -14054,10 +14304,11 @@ _021F54B0:
 	mov r0, #1
 	pop {r4, pc}
 	.balign 4, 0
-_021F54B4: .word 0x000008EB
+_021F54B4: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F54B8: .word 0xFFFFFE80
 _021F54BC: .word 0x0000068C
 	thumb_func_end ov18_021F5454
+#endif
 
 	thumb_func_start ov18_021F54C0
 ov18_021F54C0: ; 0x021F54C0
@@ -14247,6 +14498,9 @@ _021F5630:
 	.balign 4, 0
 	thumb_func_end ov18_021F55D8
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F5638.inc"
+#else
 	thumb_func_start ov18_021F5638
 ov18_021F5638: ; 0x021F5638
 	push {r3, r4, r5, lr}
@@ -14322,9 +14576,10 @@ _021F56CE:
 	mov r0, #1
 	pop {r3, r4, r5, pc}
 	nop
-_021F56D4: .word 0x000008EB
+_021F56D4: .word POKEDEX_APP_OFFSET(0x000008EB)
 _021F56D8: .word 0x0000068C
 	thumb_func_end ov18_021F5638
+#endif
 
 	thumb_func_start ov18_021F56DC
 ov18_021F56DC: ; 0x021F56DC
@@ -15331,9 +15586,9 @@ _021F5E48:
 _021F5ED8: .word 0x00000668
 _021F5EDC: .word 0x0000066C
 _021F5EE0: .word ov18_021FAC28
-_021F5EE4: .word 0x000018C4
+_021F5EE4: .word POKEDEX_APP_OFFSET(0x000018C4)
 _021F5EE8: .word ov18_021FA348
-_021F5EEC: .word 0x000018C5
+_021F5EEC: .word POKEDEX_APP_OFFSET(0x000018C5)
 	thumb_func_end ov18_021F5E0C
 
 	thumb_func_start ov18_021F5EF0
@@ -15461,8 +15716,8 @@ _021F5F4A:
 	add sp, #0x10
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F5FF4: .word 0x000018C7
-_021F5FF8: .word 0x000018A2
+_021F5FF4: .word POKEDEX_APP_OFFSET(0x000018C7)
+_021F5FF8: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F5EFC
 
 	thumb_func_start ov18_021F5FFC
@@ -15496,8 +15751,8 @@ _021F6026:
 	bl ov18_021F14FC
 	pop {r3, r4, r5, pc}
 	.balign 4, 0
-_021F6030: .word 0x000018A4
-_021F6034: .word 0x000018A2
+_021F6030: .word POKEDEX_APP_OFFSET(0x000018A4)
+_021F6034: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F5FFC
 
 	thumb_func_start ov18_021F6038
@@ -15548,8 +15803,8 @@ _021F6076:
 	blo _021F6040
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F6094: .word 0x000018C5
-_021F6098: .word 0x000018C4
+_021F6094: .word POKEDEX_APP_OFFSET(0x000018C5)
+_021F6098: .word POKEDEX_APP_OFFSET(0x000018C4)
 	thumb_func_end ov18_021F6038
 
 	thumb_func_start ov18_021F609C
@@ -15658,7 +15913,7 @@ _021F6152:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	nop
-_021F6174: .word 0x000018C5
+_021F6174: .word POKEDEX_APP_OFFSET(0x000018C5)
 	thumb_func_end ov18_021F609C
 
 	thumb_func_start ov18_021F6178
@@ -15989,10 +16244,13 @@ _021F63C4:
 	nop
 _021F63CC: .word 0x00000684
 _021F63D0: .word ov18_021FA310
-_021F63D4: .word 0x000018C4
-_021F63D8: .word 0x000018C5
+_021F63D4: .word POKEDEX_APP_OFFSET(0x000018C4)
+_021F63D8: .word POKEDEX_APP_OFFSET(0x000018C5)
 	thumb_func_end ov18_021F6310
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F63DC.inc"
+#else
 	thumb_func_start ov18_021F63DC
 ov18_021F63DC: ; 0x021F63DC
 	push {r3, r4, r5, r6, r7, lr}
@@ -16090,8 +16348,9 @@ _021F6492:
 	.balign 4, 0
 _021F6498: .word 0x00000684
 _021F649C: .word ov18_021FA304
-_021F64A0: .word 0x000018CA
+_021F64A0: .word POKEDEX_APP_OFFSET(0x000018CA)
 	thumb_func_end ov18_021F63DC
+#endif
 
 	thumb_func_start ov18_021F64A4
 ov18_021F64A4: ; 0x021F64A4
@@ -16130,9 +16389,12 @@ _021F64E6:
 	pop {r3, r4, r5, r6, pc}
 	nop
 _021F64EC: .word ov18_021FA310
-_021F64F0: .word 0x000018C4
+_021F64F0: .word POKEDEX_APP_OFFSET(0x000018C4)
 	thumb_func_end ov18_021F64A4
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F64F4.inc"
+#else
 	thumb_func_start ov18_021F64F4
 ov18_021F64F4: ; 0x021F64F4
 	push {r3, r4, r5, r6, lr}
@@ -16172,6 +16434,7 @@ _021F6538:
 	.balign 4, 0
 _021F653C: .word ov18_021FA304
 	thumb_func_end ov18_021F64F4
+#endif
 
 	thumb_func_start ov18_021F6540
 ov18_021F6540: ; 0x021F6540
@@ -16259,7 +16522,7 @@ ov18_021F65AC: ; 0x021F65AC
 	pop {r3, r4, pc}
 	nop
 _021F65E4: .word 0x00000684
-_021F65E8: .word 0x000018C5
+_021F65E8: .word POKEDEX_APP_OFFSET(0x000018C5)
 	thumb_func_end ov18_021F65AC
 
 	thumb_func_start ov18_021F65EC
@@ -16290,7 +16553,7 @@ ov18_021F65EC: ; 0x021F65EC
 	pop {r3, r4, pc}
 	nop
 _021F6624: .word 0x00000684
-_021F6628: .word 0x000018CA
+_021F6628: .word POKEDEX_APP_OFFSET(0x000018CA)
 	thumb_func_end ov18_021F65EC
 
 	thumb_func_start ov18_021F662C
@@ -16330,7 +16593,7 @@ ov18_021F662C: ; 0x021F662C
 	bl ov18_021F11C0
 	pop {r4, pc}
 	.balign 4, 0
-_021F6680: .word 0x000018C5
+_021F6680: .word POKEDEX_APP_OFFSET(0x000018C5)
 	thumb_func_end ov18_021F662C
 
 	thumb_func_start ov18_021F6684
@@ -16473,9 +16736,9 @@ _021F6752:
 	add sp, #4
 	pop {r3, r4, pc}
 	.balign 4, 0
-_021F67C4: .word 0x000018C4
-_021F67C8: .word 0x000018C5
-_021F67CC: .word 0x000018C6
+_021F67C4: .word POKEDEX_APP_OFFSET(0x000018C4)
+_021F67C8: .word POKEDEX_APP_OFFSET(0x000018C5)
+_021F67CC: .word POKEDEX_APP_OFFSET(0x000018C6)
 	thumb_func_end ov18_021F6714
 
 	thumb_func_start ov18_021F67D0
@@ -16688,8 +16951,8 @@ _021F6950:
 	add sp, #0x18
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F697C: .word 0x000018C7
-_021F6980: .word 0x000018A2
+_021F697C: .word POKEDEX_APP_OFFSET(0x000018C7)
+_021F6980: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F684C
 
 	thumb_func_start ov18_021F6984
@@ -16725,7 +16988,7 @@ _021F69AC:
 	bl ov18_021F1294
 	pop {r3, pc}
 	.balign 4, 0
-_021F69BC: .word 0x000018C7
+_021F69BC: .word POKEDEX_APP_OFFSET(0x000018C7)
 	thumb_func_end ov18_021F6990
 
 	thumb_func_start ov18_021F69C0
@@ -16981,13 +17244,16 @@ _021F6BA2:
 _021F6BA4:
 	pop {r4, pc}
 	nop
-_021F6BA8: .word 0x00000864
+_021F6BA8: .word POKEDEX_APP_OFFSET(0x00000864)
 _021F6BAC: .word ov18_021FB72C
 _021F6BB0: .word ov18_021FB6F0
-_021F6BB4: .word 0x00001860
+_021F6BB4: .word POKEDEX_APP_OFFSET(0x00001860)
 _021F6BB8: .word gSystem
 	thumb_func_end ov18_021F6B00
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F6BBC.inc"
+#else
 	thumb_func_start ov18_021F6BBC
 ov18_021F6BBC: ; 0x021F6BBC
 	push {r3, r4, r5, r6, r7, lr}
@@ -17255,16 +17521,17 @@ _021F6DB4:
 	add sp, #8
 	pop {r3, r4, r5, r6, r7, pc}
 	nop
-_021F6DBC: .word 0x00000864
+_021F6DBC: .word POKEDEX_APP_OFFSET(0x00000864)
 _021F6DC0: .word ov18_021FB8A4
 _021F6DC4: .word ov18_021FB84C
-_021F6DC8: .word 0x0000185A
-_021F6DCC: .word 0x000008E9
-_021F6DD0: .word 0x000008F2
+_021F6DC8: .word POKEDEX_APP_OFFSET(0x0000185A)
+_021F6DCC: .word POKEDEX_APP_OFFSET(0x000008E9)
+_021F6DD0: .word POKEDEX_APP_OFFSET(0x000008F2)
 _021F6DD4: .word gSystem
-_021F6DD8: .word 0x000008E8
-_021F6DDC: .word 0x00001859
+_021F6DD8: .word POKEDEX_APP_OFFSET(0x000008E8)
+_021F6DDC: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F6BBC
+#endif
 
 	thumb_func_start ov18_021F6DE0
 ov18_021F6DE0: ; 0x021F6DE0
@@ -17299,7 +17566,7 @@ ov18_021F6DE0: ; 0x021F6DE0
 _021F6E1C: .word ov18_021FB878
 _021F6E20: .word ov18_021FB9F0
 _021F6E24: .word ov18_021FB688
-_021F6E28: .word 0x00001864
+_021F6E28: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F6DE0
 
 	thumb_func_start ov18_021F6E2C
@@ -17322,7 +17589,7 @@ _021F6E4C:
 	pop {r4, pc}
 	nop
 _021F6E50: .word gSystem
-_021F6E54: .word 0x00001864
+_021F6E54: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F6E2C
 
 	thumb_func_start ov18_021F6E58
@@ -17351,10 +17618,13 @@ ov18_021F6E58: ; 0x021F6E58
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	nop
-_021F6E90: .word 0x00001864
+_021F6E90: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F6E94: .word ov18_021FBD1C
 	thumb_func_end ov18_021F6E58
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F6E98.inc"
+#else
 	thumb_func_start ov18_021F6E98
 ov18_021F6E98: ; 0x021F6E98
 	push {r3, lr}
@@ -17363,8 +17633,9 @@ ov18_021F6E98: ; 0x021F6E98
 	bl PlaySE
 	pop {r3, pc}
 	nop
-_021F6EA8: .word 0x000008E8
+_021F6EA8: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F6E98
+#endif
 
 	thumb_func_start ov18_021F6EAC
 ov18_021F6EAC: ; 0x021F6EAC
@@ -17409,7 +17680,7 @@ ov18_021F6EC0: ; 0x021F6EC0
 _021F6EF8: .word ov18_021FB828
 _021F6EFC: .word ov18_021FB968
 _021F6F00: .word ov18_021FB668
-_021F6F04: .word 0x00001864
+_021F6F04: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F6EC0
 
 	thumb_func_start ov18_021F6F08
@@ -17434,7 +17705,7 @@ _021F6F24:
 	pop {r4, pc}
 	nop
 _021F6F30: .word gSystem
-_021F6F34: .word 0x00001864
+_021F6F34: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F6F08
 
 	thumb_func_start ov18_021F6F38
@@ -17463,10 +17734,13 @@ ov18_021F6F38: ; 0x021F6F38
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	nop
-_021F6F70: .word 0x00001864
+_021F6F70: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F6F74: .word ov18_021FB628
 	thumb_func_end ov18_021F6F38
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F6F78.inc"
+#else
 	thumb_func_start ov18_021F6F78
 ov18_021F6F78: ; 0x021F6F78
 	push {r3, lr}
@@ -17475,8 +17749,9 @@ ov18_021F6F78: ; 0x021F6F78
 	bl PlaySE
 	pop {r3, pc}
 	nop
-_021F6F88: .word 0x000008E8
+_021F6F88: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F6F78
+#endif
 
 	thumb_func_start ov18_021F6F8C
 ov18_021F6F8C: ; 0x021F6F8C
@@ -17521,7 +17796,7 @@ ov18_021F6FA0: ; 0x021F6FA0
 _021F6FD8: .word ov18_021FBA94
 _021F6FDC: .word ov18_021FBC34
 _021F6FE0: .word ov18_021FB6A8
-_021F6FE4: .word 0x00001864
+_021F6FE4: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F6FA0
 
 	thumb_func_start ov18_021F6FE8
@@ -17546,7 +17821,7 @@ _021F7004:
 	pop {r4, pc}
 	nop
 _021F7010: .word gSystem
-_021F7014: .word 0x00001864
+_021F7014: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F6FE8
 
 	thumb_func_start ov18_021F7018
@@ -17582,9 +17857,12 @@ _021F7050:
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	.balign 4, 0
-_021F705C: .word 0x00001864
+_021F705C: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F7018
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F7060.inc"
+#else
 	thumb_func_start ov18_021F7060
 ov18_021F7060: ; 0x021F7060
 	push {r4, r5, r6, lr}
@@ -17663,12 +17941,13 @@ _021F70DA:
 	bl PlaySE
 	pop {r4, r5, r6, pc}
 	nop
-_021F70F0: .word 0x0000189C
+_021F70F0: .word POKEDEX_APP_OFFSET(0x0000189C)
 _021F70F4: .word ov18_021FBC34
-_021F70F8: .word 0x00001864
+_021F70F8: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F70FC: .word ov18_021FBC34 + 0xD0
-_021F7100: .word 0x000008E8
+_021F7100: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F7060
+#endif
 
 	thumb_func_start ov18_021F7104
 ov18_021F7104: ; 0x021F7104
@@ -17684,7 +17963,7 @@ ov18_021F7104: ; 0x021F7104
 	str r4, [r5, r0]
 	pop {r3, r4, r5, pc}
 	nop
-_021F7120: .word 0x0000189C
+_021F7120: .word POKEDEX_APP_OFFSET(0x0000189C)
 	thumb_func_end ov18_021F7104
 
 	thumb_func_start ov18_021F7124
@@ -17718,7 +17997,7 @@ ov18_021F7124: ; 0x021F7124
 _021F715C: .word ov18_021FBA40
 _021F7160: .word ov18_021FBB94
 _021F7164: .word ov18_021FB638
-_021F7168: .word 0x00001864
+_021F7168: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F7124
 
 	thumb_func_start ov18_021F716C
@@ -17743,7 +18022,7 @@ _021F7188:
 	pop {r4, pc}
 	nop
 _021F7194: .word gSystem
-_021F7198: .word 0x00001864
+_021F7198: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F716C
 
 	thumb_func_start ov18_021F719C
@@ -17772,10 +18051,13 @@ ov18_021F719C: ; 0x021F719C
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	nop
-_021F71D4: .word 0x00001864
+_021F71D4: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F71D8: .word ov18_021FBD3C
 	thumb_func_end ov18_021F719C
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F71DC.inc"
+#else
 	thumb_func_start ov18_021F71DC
 ov18_021F71DC: ; 0x021F71DC
 	push {r4, r5, r6, lr}
@@ -17942,10 +18224,11 @@ _021F7312:
 	bl PlaySE
 	pop {r4, r5, r6, pc}
 	nop
-_021F7328: .word 0x0000189C
-_021F732C: .word 0x00001864
-_021F7330: .word 0x000008E8
+_021F7328: .word POKEDEX_APP_OFFSET(0x0000189C)
+_021F732C: .word POKEDEX_APP_OFFSET(0x00001864)
+_021F7330: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F71DC
+#endif
 
 	thumb_func_start ov18_021F7334
 ov18_021F7334: ; 0x021F7334
@@ -17961,7 +18244,7 @@ ov18_021F7334: ; 0x021F7334
 	str r4, [r5, r0]
 	pop {r3, r4, r5, pc}
 	nop
-_021F7350: .word 0x0000189C
+_021F7350: .word POKEDEX_APP_OFFSET(0x0000189C)
 	thumb_func_end ov18_021F7334
 
 	thumb_func_start ov18_021F7354
@@ -17995,7 +18278,7 @@ ov18_021F7354: ; 0x021F7354
 _021F738C: .word ov18_021FB6C8
 _021F7390: .word ov18_021FB780
 _021F7394: .word ov18_021FB648
-_021F7398: .word 0x00001864
+_021F7398: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F7354
 
 	thumb_func_start ov18_021F739C
@@ -18077,7 +18360,7 @@ _021F742C:
 	bl GridInputHandler_HandleInput_AllowHold
 	pop {r4, r5, r6, pc}
 	nop
-_021F7438: .word 0x00001864
+_021F7438: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F743C: .word gSystem
 _021F7440: .word ov18_021FB718
 	thumb_func_end ov18_021F739C
@@ -18127,12 +18410,15 @@ _021F7482:
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	.balign 4, 0
-_021F74A0: .word 0x00001864
-_021F74A4: .word 0x0000187C
-_021F74A8: .word 0x00001878
+_021F74A0: .word POKEDEX_APP_OFFSET(0x00001864)
+_021F74A4: .word POKEDEX_APP_OFFSET(0x0000187C)
+_021F74A8: .word POKEDEX_APP_OFFSET(0x00001878)
 _021F74AC: .word ov18_021FB618
 	thumb_func_end ov18_021F7444
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F74B0.inc"
+#else
 	thumb_func_start ov18_021F74B0
 ov18_021F74B0: ; 0x021F74B0
 	push {r3, lr}
@@ -18141,8 +18427,9 @@ ov18_021F74B0: ; 0x021F74B0
 	bl PlaySE
 	pop {r3, pc}
 	nop
-_021F74C0: .word 0x000008E8
+_021F74C0: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F74B0
+#endif
 
 	thumb_func_start ov18_021F74C4
 ov18_021F74C4: ; 0x021F74C4
@@ -18187,7 +18474,7 @@ ov18_021F74D8: ; 0x021F74D8
 _021F7510: .word ov18_021FB6DC
 _021F7514: .word ov18_021FB7A0
 _021F7518: .word ov18_021FB678
-_021F751C: .word 0x00001864
+_021F751C: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F74D8
 
 	thumb_func_start ov18_021F7520
@@ -18269,11 +18556,14 @@ _021F75B0:
 	bl GridInputHandler_HandleInput_AllowHold
 	pop {r4, r5, r6, pc}
 	nop
-_021F75BC: .word 0x00001864
+_021F75BC: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F75C0: .word gSystem
 _021F75C4: .word ov18_021FB718
 	thumb_func_end ov18_021F7520
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F75C8.inc"
+#else
 	thumb_func_start ov18_021F75C8
 ov18_021F75C8: ; 0x021F75C8
 	push {r3, r4, r5, lr}
@@ -18320,11 +18610,15 @@ _021F7608:
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	nop
-_021F7628: .word 0x00001864
-_021F762C: .word 0x00001884
+_021F7628: .word POKEDEX_APP_OFFSET(0x00001864)
+_021F762C: .word POKEDEX_APP_OFFSET(0x00001884)
 _021F7630: .word ov18_021FB61C
 	thumb_func_end ov18_021F75C8
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F7634.inc"
+#else
 	thumb_func_start ov18_021F7634
 ov18_021F7634: ; 0x021F7634
 	push {r3, lr}
@@ -18333,8 +18627,9 @@ ov18_021F7634: ; 0x021F7634
 	bl PlaySE
 	pop {r3, pc}
 	nop
-_021F7644: .word 0x000008E8
+_021F7644: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F7634
+#endif
 
 	thumb_func_start ov18_021F7648
 ov18_021F7648: ; 0x021F7648
@@ -18388,7 +18683,7 @@ ov18_021F7668: ; 0x021F7668
 _021F76A0: .word ov18_021FB744
 _021F76A4: .word ov18_021FB8D4
 _021F76A8: .word ov18_021FB6B8
-_021F76AC: .word 0x00001864
+_021F76AC: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F7668
 
 	thumb_func_start ov18_021F76B0
@@ -18413,7 +18708,7 @@ _021F76CC:
 	pop {r4, pc}
 	nop
 _021F76D8: .word gSystem
-_021F76DC: .word 0x00001864
+_021F76DC: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F76B0
 
 	thumb_func_start ov18_021F76E0
@@ -18442,10 +18737,13 @@ ov18_021F76E0: ; 0x021F76E0
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	nop
-_021F7718: .word 0x00001864
+_021F7718: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F771C: .word ov18_021FB620
 	thumb_func_end ov18_021F76E0
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F7720.inc"
+#else
 	thumb_func_start ov18_021F7720
 ov18_021F7720: ; 0x021F7720
 	push {r3, lr}
@@ -18454,8 +18752,9 @@ ov18_021F7720: ; 0x021F7720
 	bl PlaySE
 	pop {r3, pc}
 	nop
-_021F7730: .word 0x000008E8
+_021F7730: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F7720
+#endif
 
 	thumb_func_start ov18_021F7734
 ov18_021F7734: ; 0x021F7734
@@ -18500,7 +18799,7 @@ ov18_021F7748: ; 0x021F7748
 _021F7780: .word ov18_021FB9A8
 _021F7784: .word ov18_021FBB0C
 _021F7788: .word ov18_021FB658
-_021F778C: .word 0x00001864
+_021F778C: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F7748
 
 	thumb_func_start ov18_021F7790
@@ -18525,7 +18824,7 @@ _021F77AC:
 	pop {r4, pc}
 	nop
 _021F77B8: .word gSystem
-_021F77BC: .word 0x00001864
+_021F77BC: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F7790
 
 	thumb_func_start ov18_021F77C0
@@ -18554,10 +18853,13 @@ ov18_021F77C0: ; 0x021F77C0
 	bl ov18_021F118C
 	pop {r3, r4, r5, pc}
 	nop
-_021F77F8: .word 0x00001864
+_021F77F8: .word POKEDEX_APP_OFFSET(0x00001864)
 _021F77FC: .word ov18_021FBD28
 	thumb_func_end ov18_021F77C0
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F7800.inc"
+#else
 	thumb_func_start ov18_021F7800
 ov18_021F7800: ; 0x021F7800
 	push {r4, r5, r6, lr}
@@ -18720,10 +19022,11 @@ _021F7932:
 	bl PlaySE
 	pop {r4, r5, r6, pc}
 	nop
-_021F7948: .word 0x0000189C
-_021F794C: .word 0x00001864
-_021F7950: .word 0x000008E8
+_021F7948: .word POKEDEX_APP_OFFSET(0x0000189C)
+_021F794C: .word POKEDEX_APP_OFFSET(0x00001864)
+_021F7950: .word POKEDEX_APP_OFFSET(0x000008E8)
 	thumb_func_end ov18_021F7800
+#endif
 
 	thumb_func_start ov18_021F7954
 ov18_021F7954: ; 0x021F7954
@@ -18739,9 +19042,12 @@ ov18_021F7954: ; 0x021F7954
 	str r4, [r5, r0]
 	pop {r3, r4, r5, pc}
 	nop
-_021F7970: .word 0x0000189C
+_021F7970: .word POKEDEX_APP_OFFSET(0x0000189C)
 	thumb_func_end ov18_021F7954
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F7974.inc"
+#else
 	thumb_func_start ov18_021F7974
 ov18_021F7974: ; 0x021F7974
 	push {r4, r5, r6, lr}
@@ -18998,12 +19304,13 @@ _021F7B52:
 	.balign 4, 0
 _021F7B58: .word ov18_021FB8A4
 _021F7B5C: .word ov18_021FB84C
-_021F7B60: .word 0x0000185A
-_021F7B64: .word 0x000008E9
+_021F7B60: .word POKEDEX_APP_OFFSET(0x0000185A)
+_021F7B64: .word POKEDEX_APP_OFFSET(0x000008E9)
 _021F7B68: .word gSystem
-_021F7B6C: .word 0x000008E8
-_021F7B70: .word 0x00001859
+_021F7B6C: .word POKEDEX_APP_OFFSET(0x000008E8)
+_021F7B70: .word POKEDEX_APP_OFFSET(0x00001859)
 	thumb_func_end ov18_021F7974
+#endif
 
 	thumb_func_start ov18_021F7B74
 ov18_021F7B74: ; 0x021F7B74
@@ -19020,7 +19327,7 @@ ov18_021F7B74: ; 0x021F7B74
 _021F7B8A:
 	pop {r4, pc}
 	.balign 4, 0
-_021F7B8C: .word 0x00001864
+_021F7B8C: .word POKEDEX_APP_OFFSET(0x00001864)
 	thumb_func_end ov18_021F7B74
 
 	thumb_func_start ov18_021F7B90
@@ -19089,10 +19396,13 @@ _021F7BFE:
 	nop
 _021F7C04: .word ov18_021FB704
 _021F7C08: .word ov18_021FB698
-_021F7C0C: .word 0x000018A2
+_021F7C0C: .word POKEDEX_APP_OFFSET(0x000018A2)
 _021F7C10: .word gSystem
 	thumb_func_end ov18_021F7B94
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F7C14.inc"
+#else
 	thumb_func_start ov18_021F7C14
 ov18_021F7C14: ; 0x021F7C14
 	push {r3, r4, r5, lr}
@@ -19216,10 +19526,11 @@ _021F7CE6:
 _021F7CE8: .word ov18_021FB934
 _021F7CEC: .word ov18_021FB904
 _021F7CF0: .word gSystem
-_021F7CF4: .word 0x000018C9
-_021F7CF8: .word 0x000018C8
-_021F7CFC: .word 0x000018A2
+_021F7CF4: .word POKEDEX_APP_OFFSET(0x000018C9)
+_021F7CF8: .word POKEDEX_APP_OFFSET(0x000018C8)
+_021F7CFC: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F7C14
+#endif
 
 	thumb_func_start ov18_021F7D00
 ov18_021F7D00: ; 0x021F7D00
@@ -19330,7 +19641,7 @@ _021F7DBA:
 _021F7DBC: .word ov18_021FB804
 _021F7DC0: .word ov18_021FB760
 _021F7DC4: .word gSystem
-_021F7DC8: .word 0x000018A2
+_021F7DC8: .word POKEDEX_APP_OFFSET(0x000018A2)
 	thumb_func_end ov18_021F7D30
 
 	thumb_func_start ov18_021F7DCC
@@ -19420,7 +19731,7 @@ _021F7E5C:
 _021F7E60: .word ov18_021FB7E0
 _021F7E64: .word ov18_021FB7C0
 _021F7E68: .word gSystem
-_021F7E6C: .word 0x000018C7
+_021F7E6C: .word POKEDEX_APP_OFFSET(0x000018C7)
 	thumb_func_end ov18_021F7DCC
 
 	thumb_func_start ov18_021F7E70
@@ -19477,6 +19788,9 @@ _021F7ECC: .word ov18_021FB630
 _021F7ED0: .word gSystem
 	thumb_func_end ov18_021F7E70
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F7ED4.inc"
+#else
 	thumb_func_start ov18_021F7ED4
 ov18_021F7ED4: ; 0x021F7ED4
 	push {r4, r5, r6, r7, lr}
@@ -19774,10 +20088,11 @@ _021F8142:
 	add sp, #0x24
 	pop {r4, r5, r6, r7, pc}
 	nop
-_021F815C: .word 0x00000878
+_021F815C: .word POKEDEX_APP_OFFSET(0x00000878)
 _021F8160: .word 0x000003DA
-_021F8164: .word 0x00001860
+_021F8164: .word POKEDEX_APP_OFFSET(0x00001860)
 	thumb_func_end ov18_021F7ED4
+#endif
 
 	thumb_func_start ov18_021F8168
 ov18_021F8168: ; 0x021F8168
@@ -20438,9 +20753,12 @@ _021F8638:
 	add sp, #0x10
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F863C: .word 0x00001854
+_021F863C: .word POKEDEX_APP_OFFSET(0x00001854)
 	thumb_func_end ov18_021F8584
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F8640.inc"
+#else
 	thumb_func_start ov18_021F8640
 ov18_021F8640: ; 0x021F8640
 	push {r4, r5, r6, r7, lr}
@@ -20514,9 +20832,10 @@ _021F86C4:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F86C8: .word 0x00001848
-_021F86CC: .word 0x00001850
+_021F86C8: .word POKEDEX_APP_OFFSET(0x00001848)
+_021F86CC: .word POKEDEX_APP_OFFSET(0x00001850)
 	thumb_func_end ov18_021F8640
+#endif
 
 	thumb_func_start ov18_021F86D0
 ov18_021F86D0: ; 0x021F86D0
@@ -20593,8 +20912,8 @@ _021F8758:
 	add sp, #0xc
 	pop {r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F875C: .word 0x0000184C
-_021F8760: .word 0x00001850
+_021F875C: .word POKEDEX_APP_OFFSET(0x0000184C)
+_021F8760: .word POKEDEX_APP_OFFSET(0x00001850)
 	thumb_func_end ov18_021F86D0
 
 	thumb_func_start ov18_021F8764
@@ -20717,7 +21036,7 @@ ov18_021F8824: ; 0x021F8824
 	add r0, r2, r0
 	bx lr
 	.balign 4, 0
-_021F8834: .word 0x0000185A
+_021F8834: .word POKEDEX_APP_OFFSET(0x0000185A)
 	thumb_func_end ov18_021F8824
 
 	thumb_func_start ov18_021F8838
@@ -20731,7 +21050,7 @@ ov18_021F8838: ; 0x021F8838
 	ldrh r0, [r1, r0]
 	pop {r4, pc}
 	nop
-_021F884C: .word 0x00001030
+_021F884C: .word POKEDEX_APP_OFFSET(0x00001030)
 	thumb_func_end ov18_021F8838
 
 	thumb_func_start ov18_021F8850
@@ -20767,6 +21086,9 @@ _021F8878:
 _021F8880: .word 0x000007B4
 	thumb_func_end ov18_021F8850
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F8884.inc"
+#else
 	thumb_func_start ov18_021F8884
 ov18_021F8884: ; 0x021F8884
 	push {r3, r4, r5, r6, r7, lr}
@@ -20834,15 +21156,19 @@ _021F88EA:
 _021F88FE:
 	pop {r3, r4, r5, r6, r7, pc}
 	.balign 4, 0
-_021F8900: .word 0x00001030
-_021F8904: .word 0x0000102C
-_021F8908: .word 0x00001858
-_021F890C: .word 0x00000878
-_021F8910: .word 0x0000087A
-_021F8914: .word 0x00001032
-_021F8918: .word 0x00001034
+_021F8900: .word POKEDEX_APP_OFFSET(0x00001030)
+_021F8904: .word POKEDEX_APP_OFFSET(0x0000102C)
+_021F8908: .word POKEDEX_APP_OFFSET(0x00001858)
+_021F890C: .word POKEDEX_APP_OFFSET(0x00000878)
+_021F8910: .word POKEDEX_APP_OFFSET(0x0000087A)
+_021F8914: .word POKEDEX_APP_OFFSET(0x00001032)
+_021F8918: .word POKEDEX_APP_OFFSET(0x00001034)
 	thumb_func_end ov18_021F8884
+#endif
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F891C.inc"
+#else
 	thumb_func_start ov18_021F891C
 ov18_021F891C: ; 0x021F891C
 	push {r3, lr}
@@ -20865,10 +21191,11 @@ _021F892A:
 	bl Pokedex_ConvertToCurrentDexNo
 	pop {r3, pc}
 	nop
-_021F8944: .word 0x0000102C
-_021F8948: .word 0x00001858
-_021F894C: .word 0x00000878
+_021F8944: .word POKEDEX_APP_OFFSET(0x0000102C)
+_021F8948: .word POKEDEX_APP_OFFSET(0x00001858)
+_021F894C: .word POKEDEX_APP_OFFSET(0x00000878)
 	thumb_func_end ov18_021F891C
+#endif
 
 	thumb_func_start ov18_021F8950
 ov18_021F8950: ; 0x021F8950
@@ -21318,6 +21645,9 @@ _021F8CC4:
 _021F8CC8: .word 0x00000242
 	thumb_func_end ov18_021F8C68
 
+#ifdef GERMAN
+#include "pokedex_ov18_021F8CCC.inc"
+#else
 	thumb_func_start ov18_021F8CCC
 ov18_021F8CCC: ; 0x021F8CCC
 	push {r3, r4, r5, r6, r7, lr}
@@ -21573,6 +21903,7 @@ _021F8F04: .word ov18_021FBDB4
 _021F8F08: .word 0x00000322
 _021F8F0C: .word 0x00020100
 	thumb_func_end ov18_021F8CCC
+#endif
 
 	thumb_func_start ov18_021F8F10
 ov18_021F8F10: ; 0x021F8F10
@@ -22602,6 +22933,10 @@ ov18_021F9694: ; 0x021F9694
 	thumb_func_end ov18_021F9694
 
 	.rodata
+#ifdef GERMAN
+#include "german/pokedex_data.h"
+#else
+
 	.balign 4, 0
 
 	; file boundary
@@ -23906,3 +24241,5 @@ ov18_021FBE10:
 	.word 0x00000034
 	.word 0x00000030
 	.size ov18_021FBE10,.-ov18_021FBE10
+
+#endif

@@ -1,0 +1,26 @@
+{
+  "key": 29739,
+  "messages": [
+    {
+      "id": "msg_0056_00000",
+      "de_DE": [
+        "...Willkommen...\r",
+        "...\n",
+        "...Hähähä...\r",
+        "Wir haben eine Reservierung für dich...\n",
+        "Wir haben sie seit einer langen Zeit...\r"
+      ]
+    },
+    {
+      "id": "msg_0056_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0} liegt auf dem Bett\n",
+        "wie festgebunden...\r"
+      ]
+    },
+    {
+      "id": "msg_0056_00002",
+      "de_DE": "{STRVAR_1 3, 0} wacht auf!"
+    }
+  ]
+}

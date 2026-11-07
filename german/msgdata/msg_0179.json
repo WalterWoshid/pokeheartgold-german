@@ -1,0 +1,35 @@
+{
+  "key": 61304,
+  "messages": [
+    {
+      "id": "msg_0179_00000",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} wird\n",
+        "{STRVAR_1 3, 2, 0} zugesandt."
+      ]
+    },
+    {
+      "id": "msg_0179_00001",
+      "de_DE": "Tschüss, {STRVAR_1 0, 0, 0}!"
+    },
+    {
+      "id": "msg_0179_00002",
+      "de_DE": "{STRVAR_1 3, 2, 0} versandte {STRVAR_1 0, 1, 0}."
+    },
+    {
+      "id": "msg_0179_00003",
+      "de_DE": "Kümmere dich gut um {STRVAR_1 0, 1, 0}!"
+    },
+    {
+      "id": "msg_0179_00004",
+      "de_DE": "{STRVAR_1 0, 0, 0} wird angeboten."
+    },
+    {
+      "id": "msg_0179_00005",
+      "de_DE": [
+        "{STRVAR_1 0, 1, 0} wurde aus dem\n",
+        "Angebot genommen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "key": 39397,
+  "messages": [
+    {
+      "id": "msg_0566_00000",
+      "de_DE": [
+        "Hallo, Herausforderer!\r",
+        "Diese Arena wurde von Kai errichtet!\n",
+        "Sie ist ein riesiger Käfer-Pokémon-Hort.\r",
+        "Kai mag zwar jung sein, aber er hat\n",
+        "seine Käfer-Pokémon fest im Griff!\r",
+        "Ich gebe dir besser einen Tipp, sonst\n",
+        "kommst du gegen ihn nicht sehr weit.\r",
+        "Mal sehen... Käfer-Pokémon können\n",
+        "Feuer nicht ausstehen!\r",
+        "Außerdem sind Attacken vom Typ\n",
+        "Flug sehr effektiv gegen sie!"
+      ]
+    },
+    {
+      "id": "msg_0566_00001",
+      "de_DE": [
+        "Nicht übel! Das war ein Musterkampf\n",
+        "zweier talentierter, junger Trainer!\r",
+        "Mit Leuten wie dir sieht die Zukunft\n",
+        "der Pokémon Liga rosig aus!"
+      ]
+    },
+    {
+      "id": "msg_0566_00002",
+      "de_DE": "Pokémon-Arena von Azalea City"
+    },
+    {
+      "id": "msg_0566_00003",
+      "de_DE": [
+        "Pokémon-Arena von Azalea City\r",
+        "Leiter: Kai\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

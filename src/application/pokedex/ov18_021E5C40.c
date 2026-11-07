@@ -145,6 +145,152 @@ static const u16 sDungeonMapIDs[] = {
     MAP_CERULEAN_CAVE_1F,
 };
 
+#ifdef GERMAN
+static const int sMapIDs_Alphabetical[142] = {
+    MAP_ROUTE_1,
+    MAP_ROUTE_2,
+    MAP_ROUTE_2_EAST,
+    MAP_ROUTE_3,
+    MAP_ROUTE_4,
+    MAP_ROUTE_5,
+    MAP_ROUTE_6,
+    MAP_ROUTE_7,
+    MAP_ROUTE_8,
+    MAP_ROUTE_9,
+    MAP_ROUTE_10,
+    MAP_ROUTE_11,
+    MAP_ROUTE_12,
+    MAP_ROUTE_13,
+    MAP_ROUTE_14,
+    MAP_ROUTE_15,
+    MAP_ROUTE_16_EAST,
+    MAP_ROUTE_16,
+    MAP_ROUTE_17,
+    MAP_ROUTE_18,
+    MAP_ROUTE_19,
+    MAP_ROUTE_20,
+    MAP_ROUTE_21,
+    MAP_ROUTE_22,
+    MAP_ROUTE_24,
+    MAP_ROUTE_25,
+    MAP_ROUTE_26,
+    MAP_ROUTE_27,
+    MAP_ROUTE_28,
+    MAP_ROUTE_29,
+    MAP_ROUTE_30,
+    MAP_ROUTE_31,
+    MAP_ROUTE_32,
+    MAP_ROUTE_33,
+    MAP_ROUTE_34,
+    MAP_ROUTE_35,
+    MAP_ROUTE_36,
+    MAP_ROUTE_37,
+    MAP_ROUTE_38,
+    MAP_ROUTE_39,
+    MAP_ROUTE_40,
+    MAP_ROUTE_41,
+    MAP_ROUTE_42,
+    MAP_ROUTE_43,
+    MAP_ROUTE_44,
+    MAP_ROUTE_45,
+    MAP_ROUTE_46,
+    MAP_ROUTE_47,
+    MAP_ROUTE_48,
+    MAP_PALLET,
+    MAP_RUINS_OF_ALPH,
+    MAP_RUINS_OF_ALPH_UNDERGROUND_HALL,
+    MAP_RUINS_OF_ALPH_UNDERGROUND_HALL_SINJOH_EVENT,
+    MAP_RUINS_OF_ALPH_HALL_ENTRANCE_SINJOH_EVENT,
+    MAP_RUINS_OF_ALPH_UNDERGROUND_HALL_SINJOH_EVENT_2,
+    MAP_CIANWOOD,
+    MAP_AZALEA,
+    MAP_CERULEAN,
+    MAP_CERULEAN_CAVE_1F,
+    MAP_CERULEAN_CAVE_2F,
+    MAP_CERULEAN_CAVE_B1F,
+    MAP_DIGLETT_CAVE,
+    MAP_DRAGONS_DEN,
+    MAP_DARK_CAVE_ROUTE_45_SIDE,
+    MAP_DARK_CAVE_ROUTE_31_SIDE,
+    MAP_BLACKTHORN,
+    MAP_UNION_CAVE_1F,
+    MAP_UNION_CAVE_B1F,
+    MAP_UNION_CAVE_B2F,
+    MAP_ICE_PATH_1F,
+    MAP_ICE_PATH_B1F,
+    MAP_ICE_PATH_B2F,
+    MAP_ICE_PATH_B3F,
+    MAP_CLIFF_EDGE_GATE,
+    MAP_CLIFF_CAVE,
+    MAP_ROCK_TUNNEL_1F,
+    MAP_ROCK_TUNNEL_B1F,
+    MAP_SLOWPOKE_WELL_B1F,
+    MAP_SLOWPOKE_WELL_B2F,
+    MAP_FUCHSIA,
+    MAP_BELL_TOWER_2F,
+    MAP_BELL_TOWER_3F,
+    MAP_BELL_TOWER_4F,
+    MAP_BELL_TOWER_5F,
+    MAP_BELL_TOWER_6F,
+    MAP_BELL_TOWER_7F,
+    MAP_BELL_TOWER_8F,
+    MAP_BELL_TOWER_9F,
+    MAP_BELL_TOWER_10F,
+    MAP_MOUNT_MORTAR_1F_ENTRANCE,
+    MAP_MOUNT_MORTAR_1F_BACK,
+    MAP_MOUNT_MORTAR_2F,
+    MAP_MOUNT_MORTAR_B1F,
+    MAP_SPROUT_TOWER_2F,
+    MAP_SPROUT_TOWER_3F,
+    MAP_PEWTER,
+    MAP_MOUNT_MOON,
+    MAP_MOUNT_MOON_SQUARE_ENTRANCE,
+    MAP_MOUNT_MOON_SQUARE,
+    MAP_MOUNT_MOON_SQUARE_CLEFAIRY_EVENT,
+    MAP_NATIONAL_PARK,
+    MAP_NATIONAL_PARK_BUG_CATCHING_CONTEST,
+    MAP_NEW_BARK,
+    MAP_SS_AQUA_OLIVINE_PORT_INTERIOR,
+    MAP_OLIVINE,
+    MAP_VERMILION,
+    MAP_CELADON,
+    MAP_CHERRYGROVE,
+    MAP_SAFARI_ZONE_GATE,
+    MAP_SAFARI_ZONE_ENTRANCE_EXTERIOR,
+    MAP_LAKE_OF_RAGE,
+    MAP_SEAFOAM_ISLANDS_1F,
+    MAP_SEAFOAM_ISLANDS_B1F,
+    MAP_SEAFOAM_ISLANDS_B2F,
+    MAP_SEAFOAM_ISLANDS_B3F,
+    MAP_SEAFOAM_ISLANDS_B4F,
+    MAP_VICTORY_ROAD_1F,
+    MAP_VICTORY_ROAD_2F,
+    MAP_VICTORY_ROAD_3F,
+    MAP_MOUNT_SILVER,
+    MAP_MOUNT_SILVER_CAVE_1F,
+    MAP_MOUNT_SILVER_CAVE_UPPER_MOUNTAINSIDE,
+    MAP_MOUNT_SILVER_CAVE_LOWER_MOUNTAINSIDE,
+    MAP_MOUNT_SILVER_CAVE_EXPERT_BELT_CHAMBER,
+    MAP_MOUNT_SILVER_CAVE_MOLTRES_CHAMBER,
+    MAP_MOUNT_SILVER_CAVE_2F,
+    MAP_MOUNT_SILVER_CAVE_3F,
+    MAP_ILEX_FOREST,
+    MAP_WHIRL_ISLANDS_1F,
+    MAP_WHIRL_ISLANDS_B1F,
+    MAP_WHIRL_ISLANDS_B2F,
+    MAP_WHIRL_ISLANDS_B3F,
+    MAP_WHIRL_ISLANDS_B3F_LUGIA_CAVE,
+    MAP_ECRUTEAK,
+    MAP_TOHJO_FALLS,
+    MAP_TOHJO_FALLS_HIDDEN_ROOM,
+    MAP_BURNED_TOWER_1F,
+    MAP_BURNED_TOWER_B1F,
+    MAP_VIRIDIAN,
+    MAP_VIRIDIAN_FOREST,
+    MAP_VIOLET,
+    MAP_CINNABAR_ISLAND,
+};
+#else
 static const int sMapIDs_Alphabetical[142] = {
     MAP_ROUTE_1,
     MAP_ROUTE_2,
@@ -289,6 +435,7 @@ static const int sMapIDs_Alphabetical[142] = {
     MAP_WHIRL_ISLANDS_B3F,
     MAP_WHIRL_ISLANDS_B3F_LUGIA_CAVE,
 };
+#endif
 
 static const GraphicsBanks sGraphicsBanks = {
     .bg = GX_VRAM_BG_128_B,
@@ -1015,7 +1162,7 @@ static void ov18_021E6868(PokedexAppData *pokedexApp) {
     GfGfxLoader_LoadCharDataFromOpenNarc(pokedexApp->gfxNarc, NARC_zukan_gra_zukan_gra_00000017_NCGR_lz, pokedexApp->bgConfig, GF_BG_LYR_SUB_0, 0, 0, TRUE, HEAP_ID_POKEDEX_APP);
     GfGfxLoader_LoadScrnDataFromOpenNarc(pokedexApp->gfxNarc, NARC_zukan_gra_zukan_gra_00000016_NSCR_lz, pokedexApp->bgConfig, GF_BG_LYR_SUB_0, 0, 0, TRUE, HEAP_ID_POKEDEX_APP);
     GfGfxLoader_LoadCharDataFromOpenNarc(pokedexApp->gfxNarc, NARC_zukan_gra_zukan_gra_00000019_NCGR_lz, pokedexApp->bgConfig, GF_BG_LYR_SUB_3, 0, 0, TRUE, HEAP_ID_POKEDEX_APP);
-    if (pokedexApp->unk_185C == 2) {
+    if (pokedexApp->unk_185C == GAME_LANGUAGE) {
         GfGfxLoader_LoadScrnDataFromOpenNarc(pokedexApp->gfxNarc, NARC_zukan_gra_zukan_gra_00000020_NSCR_lz, pokedexApp->bgConfig, GF_BG_LYR_SUB_3, 0, 0, TRUE, HEAP_ID_POKEDEX_APP);
     } else {
         GfGfxLoader_LoadScrnDataFromOpenNarc(pokedexApp->gfxNarc, NARC_zukan_gra_zukan_gra_00000021_NSCR_lz, pokedexApp->bgConfig, GF_BG_LYR_SUB_3, 0, 0, TRUE, HEAP_ID_POKEDEX_APP);
@@ -1498,8 +1645,8 @@ void ov18_021E7724(PokedexAppData *pokedexApp) {
 void ov18_021E78AC(PokedexAppData *pokedexApp) {
     int r6 = ov18_021F8824(pokedexApp);
     if (r6 == 0) {
-        ov18_021F2A2C(pokedexApp, 22, 0);
-        ov18_021F2A84(pokedexApp, 24, 0);
+        ov18_021F2A2C(pokedexApp, POKEDEX_SPRITE_ID(22), 0);
+        ov18_021F2A84(pokedexApp, POKEDEX_SPRITE_ID(24), 0);
         ov18_021F3B60(pokedexApp, 0);
         ov18_021EE638(pokedexApp, SPECIES_NONE, 94);
         ov18_021F014C(pokedexApp);
@@ -1519,26 +1666,26 @@ void ov18_021E78AC(PokedexAppData *pokedexApp) {
         ScheduleBgTilemapBufferTransfer(pokedexApp->bgConfig, GF_BG_LYR_SUB_1);
         pokedexApp->unk_1898 = 2;
         ov18_021F3B60(pokedexApp, 1);
-        ov18_021F1CAC(pokedexApp, species, 46, 45);
-        ov18_021F24E0(pokedexApp, species, 24);
-        ov18_021F2530(pokedexApp, species, 53);
-        ov18_021F209C(pokedexApp, species, r6, 49);
-        ov18_021F1DE4(pokedexApp, species, r6, 48);
-        ov18_021F2EC8(pokedexApp, r6, 44);
+        ov18_021F1CAC(pokedexApp, species, POKEDEX_SPRITE_ID(46), POKEDEX_SPRITE_ID(45));
+        ov18_021F24E0(pokedexApp, species, POKEDEX_SPRITE_ID(24));
+        ov18_021F2530(pokedexApp, species, POKEDEX_SPRITE_ID(53));
+        ov18_021F209C(pokedexApp, species, r6, POKEDEX_SPRITE_ID(49));
+        ov18_021F1DE4(pokedexApp, species, r6, POKEDEX_SPRITE_ID(48));
+        ov18_021F2EC8(pokedexApp, r6, POKEDEX_SPRITE_ID(44));
         if (species == SPECIES_NONE) {
-            ov18_021F2A2C(pokedexApp, 22, 0);
-            ov18_021F2A84(pokedexApp, 24, 0);
+            ov18_021F2A2C(pokedexApp, POKEDEX_SPRITE_ID(22), 0);
+            ov18_021F2A84(pokedexApp, POKEDEX_SPRITE_ID(24), 0);
             ov18_021E6FB8(pokedexApp->bgConfig, GF_BG_LYR_SUB_3, pokedexApp->gfxNarc, HEAP_ID_POKEDEX_APP);
             ClearWindowTilemapAndScheduleTransfer(&pokedexApp->windows[81]);
 
-            ov18_021F11C0(pokedexApp, 45, 0);
+            ov18_021F11C0(pokedexApp, POKEDEX_SPRITE_ID(45), 0);
         } else {
             if (ov18_021E6D38(pokedexApp, species) == TRUE) {
-                ov18_021F2A2C(pokedexApp, 22, 1);
+                ov18_021F2A2C(pokedexApp, POKEDEX_SPRITE_ID(22), 1);
             } else {
-                ov18_021F2A2C(pokedexApp, 22, 0);
+                ov18_021F2A2C(pokedexApp, POKEDEX_SPRITE_ID(22), 0);
             }
-            ov18_021F2A84(pokedexApp, 24, 1);
+            ov18_021F2A84(pokedexApp, POKEDEX_SPRITE_ID(24), 1);
             ov18_021E6F6C(pokedexApp->bgConfig, GF_BG_LYR_SUB_3, pokedexApp->unk_185C, pokedexApp->gfxNarc, HEAP_ID_POKEDEX_APP);
             ScheduleWindowCopyToVram(&pokedexApp->windows[81]);
         }
@@ -1588,11 +1735,11 @@ void ov18_021E7A80(PokedexAppData *pokedexApp, u16 species, s16 a2) {
             ov18_021EE638(pokedexApp, species, 94);
             ov18_021E6F6C(pokedexApp->bgConfig, GF_BG_LYR_SUB_3, pokedexApp->unk_185C, pokedexApp->gfxNarc, HEAP_ID_POKEDEX_APP);
             ov18_021EED70(pokedexApp, species, spC);
-            ov18_021F24E0(pokedexApp, species, 24);
-            ov18_021F2530(pokedexApp, species, 53);
-            ov18_021F209C(pokedexApp, species, spC, 49);
-            ov18_021F1DE4(pokedexApp, species, spC, 48);
-            ov18_021F2EC8(pokedexApp, spC, 44);
+            ov18_021F24E0(pokedexApp, species, POKEDEX_SPRITE_ID(24));
+            ov18_021F2530(pokedexApp, species, POKEDEX_SPRITE_ID(53));
+            ov18_021F209C(pokedexApp, species, spC, POKEDEX_SPRITE_ID(49));
+            ov18_021F1DE4(pokedexApp, species, spC, POKEDEX_SPRITE_ID(48));
+            ov18_021F2EC8(pokedexApp, spC, POKEDEX_SPRITE_ID(44));
             PlaySE(SEQ_SE_GS_ZKN03);
             break;
         }

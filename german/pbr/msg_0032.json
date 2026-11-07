@@ -1,0 +1,46 @@
+{
+  "key": 17471,
+  "messages": [
+    {
+      "id": "msg_0032_00000",
+      "de_DE": [
+        "Hallo und vielen Dank, dass du dir die\n",
+        "Zeit genommen hast, uns einen Besuch\f",
+        "abzustatten.\r",
+        "In welchen Stock möchtest du? "
+      ]
+    },
+    {
+      "id": "msg_0032_00001",
+      "de_DE": [
+        "Ich hoffe, ich kann dir bald\n",
+        "wieder zu Diensten sein."
+      ]
+    },
+    {
+      "id": "msg_0032_00002",
+      "de_DE": [
+        "Es ist mir ein Vergnügen.\n",
+        "Aufwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00003",
+      "de_DE": [
+        "Es ist mir ein Vergnügen.\n",
+        "Abwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00004",
+      "de_DE": [
+        "Oh, wir sind doch schon in\n",
+        "diesem Stockwerk..."
+      ]
+    },
+    {
+      "id": "msg_0032_00005",
+      "de_DE": "Da sind wir!"
+    }
+  ]
+}

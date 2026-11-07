@@ -186,7 +186,8 @@ unsigned char *LZCompress(unsigned char *src, int srcSize, int *compressedSize, 
             FindBestBlock(src, srcPos, srcSize, minDistance, &bestBlockDistance, &bestBlockSize, extFormat);
 
             if (extFormat) {
-                if (bestBlockSize >= 272) {
+                // The three-byte form includes length 272; the wide form starts at 273.
+                if (bestBlockSize >= 273) {
                     *flags |= (0x80 >> i);
                     srcPos += bestBlockSize;
                     bestBlockSize -= 273;

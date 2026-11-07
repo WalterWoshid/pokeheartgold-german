@@ -1,0 +1,199 @@
+{
+  "key": 40604,
+  "messages": [
+    {
+      "id": "msg_0415_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, du hast doch auch\n",
+        "Nachrichten im Fernsehen gesehen, ja?\r",
+        "Du weißt schon: “Suche nach dem\n",
+        "Roten GARADOS!\r",
+        "Das geheimnisvolle Auftauchen eines\n",
+        "wütenden Pokémon in einem See!”\r",
+        "Das hat mir doch zu denken gegeben.\r",
+        "Ich wette mit dir, bei uns im See\n",
+        "lebt bestimmt auch so ein Pokémon!\r",
+        "Und weißt du, was wir jetzt machen?!?\n",
+        "Wir ziehen los und suchen das Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0415_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey!\n",
+        "Wo willst du denn hin?!?\r",
+        "Das rätselhafte Pokémon aus dem\n",
+        "Fernsehbericht! Es ruft nach mir!\r",
+        "Wir gehen nicht nach Hause! Vergiss es!\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00002",
+      "de_DE": [
+        "Was hat deine Mutter nochmal gesagt?!?\r",
+        "“{STRVAR_1 3, 0}!\n",
+        "Geh nicht ins hohe Gras!\r",
+        "Wilde Pokémon könnten dich angreifen,\n",
+        "wenn du durch hohes Gras gehst.\r",
+        "Das wäre nicht schlimm, wenn du ein\n",
+        "eigenes Pokémon dabeihättest, aber...”"
+      ]
+    },
+    {
+      "id": "msg_0415_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, diese Leute da!\n",
+        "Argh, die starren uns an!\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00004",
+      "de_DE": [
+        "Professor: Hmm...\r",
+        "{STRVAR_1 3, 0} hat mir erzählt, dass ihr\n",
+        "unsere Pokémon eingesetzt habt?\f",
+        "Darf ich sie mal sehen, bitte?\r",
+        "Hmm...\n",
+        "{STRVAR_1 0, 1} und {STRVAR_1 0, 2}...\r",
+        "...\r",
+        "Hmm...\f",
+        "Ah ja...\n",
+        "So ist das also...\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0}!\n",
+        "Ich gehe zurück in mein Labor!\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00006",
+      "de_DE": [
+        "Lucia: Ähm... Ja!\n",
+        "Professor, warten Sie auf mich!\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00007",
+      "de_DE": [
+        "Ihr solltet mal in unser Labor kommen.\r",
+        "Bis später!\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00008",
+      "de_DE": [
+        "Lucius: Äh... Ja, sicher!\n",
+        "Professor, warten Sie!\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00009",
+      "de_DE": [
+        "Ihr solltet unbedingt in unser Labor\n",
+        "kommen.\r",
+        "Man sieht sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00010",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was sollte das denn\n",
+        "jetzt?!?\r",
+        "Ich meine, wenn er sauer auf uns ist,\n",
+        "warum schreit er uns nicht einfach an?\r",
+        "Und wieso will er seine Pokémon\n",
+        "nicht zurückhaben...?\r",
+        "{STRVAR_1 3, 1}...\n",
+        "Lass uns nach Hause gehen...\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00011",
+      "de_DE": [
+        "Wilde Pokémon halten sich bevorzugt im\n",
+        "hohen Gras auf.\r",
+        "Sie können jederzeit auftauchen. Wenn\n",
+        "du also gegen wilde Pokémon antreten\f",
+        "willst, laufe einfach durch hohes Gras.\r",
+        "Und wenn du ihnen aus dem Weg gehen\n",
+        "möchtest, musst du hohes Gras meiden."
+      ]
+    },
+    {
+      "id": "msg_0415_00012",
+      "de_DE": [
+        "Hi!\n",
+        "Ich arbeite im Pokémon-Supermarkt.\r",
+        "Wusstest du, dass man die Gesundheit\n",
+        "eines Pokémon in Kraftpunkten (KP)\f",
+        "angibt?\r",
+        "Gehen die KP eines Pokémon auf null,\n",
+        "wird es kampfunfähig.\r",
+        "Nehmen die KP eines Pokémon ab,\n",
+        "solltest du es mit einem Trank heilen.\r",
+        "Hier, ich schenke dir einen Trank.\n",
+        "Nimm nur. Der kostet dich nichts!\r",
+        "Der wird automatisch in die\n",
+        "Medizintasche deines Beutels gelegt.\r"
+      ]
+    },
+    {
+      "id": "msg_0415_00013",
+      "de_DE": [
+        "In den meisten Städten und Großstädten\n",
+        "findest du einen Pokémon-Supermarkt."
+      ]
+    },
+    {
+      "id": "msg_0415_00014",
+      "de_DE": [
+        "Diesen Vorsprung kannst du hinunter-\n",
+        "springen. So kommst du schneller nach\f",
+        "Zweiblattdorf!"
+      ]
+    },
+    {
+      "id": "msg_0415_00015",
+      "de_DE": [
+        "Lässt die Gesundheit deines Pokémon\n",
+        "nach, und damit seine KP, solltest du\f",
+        "in ein Pokémon-Center gehen."
+      ]
+    },
+    {
+      "id": "msg_0415_00016",
+      "de_DE": [
+        "Lässt die Gesundheit deines Pokémon\n",
+        "nach, und damit seine KP, solltest du\f",
+        "nach Hause gehen und dich ausruhen."
+      ]
+    },
+    {
+      "id": "msg_0415_00017",
+      "de_DE": [
+        "Route 201\n",
+        "Zweiblattdorf"
+      ]
+    },
+    {
+      "id": "msg_0415_00018",
+      "de_DE": [
+        "Route 201\n",
+        "Sandgemme"
+      ]
+    },
+    {
+      "id": "msg_0415_00019",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Nur keine Schüchternheit! Sprich mit\n",
+        "jedem, den du siehst.\r",
+        "Dadurch erhältst du viele wichtige\n",
+        "Informationen und auch Ratschläge."
+      ]
+    }
+  ]
+}

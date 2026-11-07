@@ -1,0 +1,644 @@
+{
+  "key": 54625,
+  "messages": [
+    {
+      "id": "msg_0591_00000",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00002",
+      "de_DE": "{STRVAR_1 1, 0} wurde nicht getauscht.\r"
+    },
+    {
+      "id": "msg_0591_00003",
+      "de_DE": "{STRVAR_1 1, 0} ist offenbar geflohen...\r"
+    },
+    {
+      "id": "msg_0591_00004",
+      "de_DE": "Suchst oder bietest du ein Pokémon?"
+    },
+    {
+      "id": "msg_0591_00005",
+      "de_DE": "Was willst du mit {STRVAR_1 1, 0} tun?"
+    },
+    {
+      "id": "msg_0591_00006",
+      "de_DE": "Willst du dieses {STRVAR_1 1, 0} nehmen?"
+    },
+    {
+      "id": "msg_0591_00007",
+      "de_DE": [
+        "Soll die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wirklich beendet werden?"
+      ]
+    },
+    {
+      "id": "msg_0591_00008",
+      "de_DE": "Welche Art von Pokémon suchst du?"
+    },
+    {
+      "id": "msg_0591_00009",
+      "de_DE": "Wähle aus, welches Pokémon du willst."
+    },
+    {
+      "id": "msg_0591_00010",
+      "de_DE": "Wähle das Geschlecht."
+    },
+    {
+      "id": "msg_0591_00011",
+      "de_DE": "Wähle den Level."
+    },
+    {
+      "id": "msg_0591_00012",
+      "de_DE": "Wähle aus, welches Pokémon du willst."
+    },
+    {
+      "id": "msg_0591_00013",
+      "de_DE": "Dein Wunsch-Pokémon wird gesucht..."
+    },
+    {
+      "id": "msg_0591_00014",
+      "de_DE": "Leider nichts gefunden!"
+    },
+    {
+      "id": "msg_0591_00015",
+      "de_DE": "Suche abbrechen?"
+    },
+    {
+      "id": "msg_0591_00016",
+      "de_DE": "Gegen dieses Pokémon tauschen?"
+    },
+    {
+      "id": "msg_0591_00017",
+      "de_DE": "Wähle das zu tauschende Pokémon."
+    },
+    {
+      "id": "msg_0591_00018",
+      "de_DE": "Was willst du mit {STRVAR_1 1, 0} tun?"
+    },
+    {
+      "id": "msg_0591_00019",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00020",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00021",
+      "de_DE": "Wähle das Pokémon zum Anbieten."
+    },
+    {
+      "id": "msg_0591_00022",
+      "de_DE": "{STRVAR_1 1, 0} anbieten?"
+    },
+    {
+      "id": "msg_0591_00023",
+      "de_DE": "Bist du damit einverstanden?"
+    },
+    {
+      "id": "msg_0591_00024",
+      "de_DE": "Überprüfe GTS-Status..."
+    },
+    {
+      "id": "msg_0591_00025",
+      "de_DE": [
+        "Die Ballkapsel wird entfernt.\n",
+        "Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0591_00026",
+      "de_DE": [
+        "Dieses Pokémon kann nicht zum Tausch\n",
+        "angeboten werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00027",
+      "de_DE": [
+        "Ein Ei kann nicht zum Tausch\n",
+        "angeboten werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00028",
+      "de_DE": [
+        "Dein Team ist voll.\n",
+        "Du kannst kein Pokémon empfangen.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00029",
+      "de_DE": [
+        "Deine Boxen sind voll.\n",
+        "Du kannst kein Pokémon empfangen.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00030",
+      "de_DE": "Tauschpartner gefunden!"
+    },
+    {
+      "id": "msg_0591_00031",
+      "de_DE": "Nintendo Wi-Fi Connection"
+    },
+    {
+      "id": "msg_0591_00032",
+      "de_DE": "Berühren: Tauschpartner auswählen."
+    },
+    {
+      "id": "msg_0591_00033",
+      "de_DE": "Bitte ändere die Bedingungen."
+    },
+    {
+      "id": "msg_0591_00034",
+      "de_DE": "Bitte warte einen Moment."
+    },
+    {
+      "id": "msg_0591_00035",
+      "de_DE": [
+        "Dein Team ist voll.\r",
+        "Du kannst kein Pokémon\n",
+        "empfangen, das einen Brief hält.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00036",
+      "de_DE": "In deinem Team ist kein Platz mehr."
+    },
+    {
+      "id": "msg_0591_00037",
+      "de_DE": [
+        "Es hat ein besonderes Band. Es kann\n",
+        "nicht zum Tausch angeboten werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00038",
+      "de_DE": "GTS-Überprüfung fehlgeschlagen."
+    },
+    {
+      "id": "msg_0591_00039",
+      "de_DE": "GLOBALES TAUSCHSYSTEM"
+    },
+    {
+      "id": "msg_0591_00040",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0591_00041",
+      "de_DE": "POKéMON SUCHEN"
+    },
+    {
+      "id": "msg_0591_00042",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0591_00043",
+      "de_DE": "{STRVAR_1 1, 0}"
+    },
+    {
+      "id": "msg_0591_00044",
+      "de_DE": "{STRVAR_1 0, 1}"
+    },
+    {
+      "id": "msg_0591_00045",
+      "de_DE": "Lv. {STRVAR_1 52, 2}"
+    },
+    {
+      "id": "msg_0591_00046",
+      "de_DE": "ITEM"
+    },
+    {
+      "id": "msg_0591_00047",
+      "de_DE": "{STRVAR_1 8, 3}"
+    },
+    {
+      "id": "msg_0591_00048",
+      "de_DE": "ANBIETER"
+    },
+    {
+      "id": "msg_0591_00049",
+      "de_DE": "{STRVAR_1 3, 4}"
+    },
+    {
+      "id": "msg_0591_00050",
+      "de_DE": "POKéMON GESUCHT"
+    },
+    {
+      "id": "msg_0591_00051",
+      "de_DE": "{STRVAR_1 0, 5}"
+    },
+    {
+      "id": "msg_0591_00052",
+      "de_DE": "Lv. {STRVAR_1 52, 6} und mehr"
+    },
+    {
+      "id": "msg_0591_00053",
+      "de_DE": "Jeder Level"
+    },
+    {
+      "id": "msg_0591_00054",
+      "de_DE": "ZURÜCKNEHMEN"
+    },
+    {
+      "id": "msg_0591_00055",
+      "de_DE": "SO LASSEN"
+    },
+    {
+      "id": "msg_0591_00056",
+      "de_DE": "Ja"
+    },
+    {
+      "id": "msg_0591_00057",
+      "de_DE": "Nein"
+    },
+    {
+      "id": "msg_0591_00058",
+      "de_DE": "NACH POKéMON SUCHEN"
+    },
+    {
+      "id": "msg_0591_00059",
+      "de_DE": "POKéMON"
+    },
+    {
+      "id": "msg_0591_00060",
+      "de_DE": "{STRVAR_1 0, 0}"
+    },
+    {
+      "id": "msg_0591_00061",
+      "de_DE": "GESCHLECHT"
+    },
+    {
+      "id": "msg_0591_00062",
+      "de_DE": "{STRVAR_1 40, 0, 1}"
+    },
+    {
+      "id": "msg_0591_00063",
+      "de_DE": "LEVEL"
+    },
+    {
+      "id": "msg_0591_00064",
+      "de_DE": "{STRVAR_1 41, 0, 2}"
+    },
+    {
+      "id": "msg_0591_00065",
+      "de_DE": "SUCHEN"
+    },
+    {
+      "id": "msg_0591_00066",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0591_00067",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00068",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00069",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0591_00070",
+      "de_DE": "ITEM"
+    },
+    {
+      "id": "msg_0591_00071",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00072",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00073",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00074",
+      "de_DE": "GESUCHT"
+    },
+    {
+      "id": "msg_0591_00075",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00076",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0591_00077",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00078",
+      "de_DE": "TRAINERORT"
+    },
+    {
+      "id": "msg_0591_00079",
+      "de_DE": "{STRVAR_1 36, 8}"
+    },
+    {
+      "id": "msg_0591_00080",
+      "de_DE": "{STRVAR_1 37, 9}"
+    },
+    {
+      "id": "msg_0591_00081",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0591_00082",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0591_00083",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00084",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0591_00085",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0591_00086",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0591_00087",
+      "de_DE": "Ja"
+    },
+    {
+      "id": "msg_0591_00088",
+      "de_DE": "Nein"
+    },
+    {
+      "id": "msg_0591_00089",
+      "de_DE": "IM TEAM"
+    },
+    {
+      "id": "msg_0591_00090",
+      "de_DE": "POKéMON ANBIETEN"
+    },
+    {
+      "id": "msg_0591_00091",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00092",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0591_00093",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0591_00094",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0591_00095",
+      "de_DE": "ANBIETEN"
+    },
+    {
+      "id": "msg_0591_00096",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0591_00097",
+      "de_DE": "GESUCHT"
+    },
+    {
+      "id": "msg_0591_00098",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00099",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00100",
+      "de_DE": "PKMN ANBIETEN"
+    },
+    {
+      "id": "msg_0591_00101",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0591_00102",
+      "de_DE": "Lv. {STRVAR_1 52, 3}"
+    },
+    {
+      "id": "msg_0591_00103",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0591_00104",
+      "de_DE": "ABC"
+    },
+    {
+      "id": "msg_0591_00105",
+      "de_DE": "DEF"
+    },
+    {
+      "id": "msg_0591_00106",
+      "de_DE": "GHI"
+    },
+    {
+      "id": "msg_0591_00107",
+      "de_DE": "JKL"
+    },
+    {
+      "id": "msg_0591_00108",
+      "de_DE": "MNO"
+    },
+    {
+      "id": "msg_0591_00109",
+      "de_DE": "PQR"
+    },
+    {
+      "id": "msg_0591_00110",
+      "de_DE": "STU"
+    },
+    {
+      "id": "msg_0591_00111",
+      "de_DE": "VWX"
+    },
+    {
+      "id": "msg_0591_00112",
+      "de_DE": "YZ"
+    },
+    {
+      "id": "msg_0591_00113",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00114",
+      "de_DE": "EGAL"
+    },
+    {
+      "id": "msg_0591_00115",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0591_00116",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0591_00117",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0591_00118",
+      "de_DE": "EGAL"
+    },
+    {
+      "id": "msg_0591_00119",
+      "de_DE": "Bis Lv. 9"
+    },
+    {
+      "id": "msg_0591_00120",
+      "de_DE": "Lv. 10 und mehr"
+    },
+    {
+      "id": "msg_0591_00121",
+      "de_DE": "Lv. 20 und mehr"
+    },
+    {
+      "id": "msg_0591_00122",
+      "de_DE": "Lv. 30 und mehr"
+    },
+    {
+      "id": "msg_0591_00123",
+      "de_DE": "Lv. 40 und mehr"
+    },
+    {
+      "id": "msg_0591_00124",
+      "de_DE": "Lv. 50 und mehr"
+    },
+    {
+      "id": "msg_0591_00125",
+      "de_DE": "Lv. 60 und mehr"
+    },
+    {
+      "id": "msg_0591_00126",
+      "de_DE": "Lv. 70 und mehr"
+    },
+    {
+      "id": "msg_0591_00127",
+      "de_DE": "Lv. 80 und mehr"
+    },
+    {
+      "id": "msg_0591_00128",
+      "de_DE": "Lv. 90 und mehr"
+    },
+    {
+      "id": "msg_0591_00129",
+      "de_DE": "LV. 100"
+    },
+    {
+      "id": "msg_0591_00130",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0591_00131",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00132",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00133",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00134",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00135",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00136",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00137",
+      "de_DE": [
+        "Leider wurde es bereits mit einem\n",
+        "anderen Trainer getauscht.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00138",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0591_00139",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0591_00140",
+      "de_DE": [
+        "Die GTS wird momentan überarbeitet.\n",
+        "Versuche es bitte später noch einmal.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00141",
+      "de_DE": [
+        "Die GTS ist momentan überfüllt.\n",
+        "Versuche es bitte später noch einmal.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00142",
+      "de_DE": "Suche fehlgeschlagen..."
+    },
+    {
+      "id": "msg_0591_00143",
+      "de_DE": "Verbindungsfehler..."
+    },
+    {
+      "id": "msg_0591_00144",
+      "de_DE": "Verbindungsfehler...\r"
+    },
+    {
+      "id": "msg_0591_00145",
+      "de_DE": [
+        "Verbindung zur GTS nicht möglich.\n",
+        "Kehre zur Rezeption zurück.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00146",
+      "de_DE": [
+        "Verbindung zur GTS wurde abgebrochen.\n",
+        "Kehre zur Rezeption zurück.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00147",
+      "de_DE": "Verbindung zur GTS wurde abgebrochen."
+    },
+    {
+      "id": "msg_0591_00148",
+      "de_DE": "Kehre zur Rezeption zurück."
+    }
+  ]
+}

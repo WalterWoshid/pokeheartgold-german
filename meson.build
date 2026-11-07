@@ -20,6 +20,8 @@ relative_source_root = fs.relative_to(meson.project_source_root(), meson.project
 ###                    COMPILER FLAGS                    ###
 ############################################################
 game_version = get_option('game_version')
+game_language = get_option('game_language')
+game_region = game_language == 'GERMAN' ? 'de' : 'us'
 
 c_args = [
     '-proc', 'arm946e',
@@ -119,8 +121,8 @@ main_lcf = custom_target('main.lcf',
     command: [makelcf_exe, '@INPUT@','@OUTPUT@']
 )
 
-subdir('heartgold.us')
-subdir('soulsilver.us')
+subdir('heartgold.' + game_region)
+subdir('soulsilver.' + game_region)
 
 ############################################################
 ###                  INTERNAL LIBRARIES                  ###
@@ -131,6 +133,14 @@ subdir('lib')
 ###                     FILE SYSTEM                      ###
 ############################################################
 subdir('files')
+
+regional_inputs = []
+regional_headers = []
+if game_language == 'GERMAN'
+    subdir('german')
+    regional_inputs = [localized_files]
+    regional_headers = [german_embedded, german_pokedex_data]
+endif
 
 ############################################################
 ###                     ARM9 BINARY                      ###
@@ -145,10 +155,12 @@ main = executable('main',
         pokeheartgold_c,
         pokeheartgold_asm,
         naix_headers,
+        regional_headers,
     ],
     c_args : [
         '-DPM_KEEP_ASSERTS',
         '-D' + game_version,
+        '-D' + game_language,
         '-W', 'all',
         '-W', 'pedantic',
         '-W', 'noimpl_signedunsigned',
@@ -161,6 +173,7 @@ main = executable('main',
         '-DPM_ASM',
         '-DSDK_ASM',
         '-D' + game_version,
+        '-D' + game_language,
         asm_args
     ],
     include_directories : [
@@ -345,14 +358,15 @@ ichneumon_sub = subproject('NitroSDK').get_variable('ichneumon_sub')
 ############################################################
 
 if game_version == 'HEARTGOLD'
-    pokeheartgold_nds = custom_target('pokeheartgold.us.nds',
-        output : 'pokeheartgold.us.nds',
+    pokeheartgold_nds = custom_target('pokeheartgold.' + game_region + '.nds',
+        output : 'pokeheartgold.' + game_region + '.nds',
         input : [
             main,
             rom_header_template_hg,
             icon_png_hg,
             ichneumon_sub,
             nitrofs_files,
+            regional_inputs,
         ],
         command : [
             nitrorom_exe,
@@ -367,14 +381,15 @@ if game_version == 'HEARTGOLD'
         depends : main_lz,
     )
 elif game_version == 'SOULSILVER'
-    pokesoulsilver_nds = custom_target('pokesoulsilver.us.nds',
-        output : 'pokesoulsilver.us.nds',
+    pokesoulsilver_nds = custom_target('pokesoulsilver.' + game_region + '.nds',
+        output : 'pokesoulsilver.' + game_region + '.nds',
         input : [
             main,
             rom_header_template_ss,
             icon_png_ss,
             ichneumon_sub,
             nitrofs_files,
+            regional_inputs,
         ],
         command : [
             nitrorom_exe,

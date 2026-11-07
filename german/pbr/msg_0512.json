@@ -1,0 +1,24 @@
+{
+  "key": 37911,
+  "messages": [
+    {
+      "id": "msg_0512_00000",
+      "de_DE": [
+        "Pokémon werden stärker, indem sie\n",
+        "gegen andere Pokémon kämpfen.\r",
+        "Du solltest sie regelmäßig im\n",
+        "Pokémon-Center heilen, damit sie\f",
+        "kämpfen und stärker werden können."
+      ]
+    },
+    {
+      "id": "msg_0512_00001",
+      "de_DE": [
+        "Ein guter Trainer achtet darauf, dass\n",
+        "seine Pokémon genügend KP haben\r",
+        "und nicht durch zu wenige\n",
+        "kampfunfähig werden."
+      ]
+    }
+  ]
+}

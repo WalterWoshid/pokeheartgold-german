@@ -1,0 +1,145 @@
+{
+  "key": 208,
+  "messages": [
+    {
+      "id": "msg_0578_00000",
+      "de_DE": "DEKO"
+    },
+    {
+      "id": "msg_0578_00001",
+      "de_DE": "DEKORIEREN"
+    },
+    {
+      "id": "msg_0578_00002",
+      "de_DE": "ENTFERNEN"
+    },
+    {
+      "id": "msg_0578_00003",
+      "de_DE": "DEKO BEWEGEN"
+    },
+    {
+      "id": "msg_0578_00004",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0578_00005",
+      "de_DE": [
+        "Wähle auf dem PC gespeicherte\n",
+        "Dekoartikel und stelle sie aus."
+      ]
+    },
+    {
+      "id": "msg_0578_00006",
+      "de_DE": [
+        "Speichert Dekos, die in deiner Geheim-\n",
+        "basis ausgestellt sind, auf deinem PC."
+      ]
+    },
+    {
+      "id": "msg_0578_00007",
+      "de_DE": [
+        "Bewegt ausgestellte Dekoartikel\n",
+        "in deiner Geheimbasis."
+      ]
+    },
+    {
+      "id": "msg_0578_00008",
+      "de_DE": "Dekorieren abbrechen."
+    },
+    {
+      "id": "msg_0578_00009",
+      "de_DE": "Deko"
+    },
+    {
+      "id": "msg_0578_00010",
+      "de_DE": "{STRVAR_1 51, 0}/{STRVAR_1 51, 1}"
+    },
+    {
+      "id": "msg_0578_00011",
+      "de_DE": "{STRVAR_1 10, 0} ausgestellt."
+    },
+    {
+      "id": "msg_0578_00012",
+      "de_DE": "Kann hier nicht ausgestellt werden."
+    },
+    {
+      "id": "msg_0578_00013",
+      "de_DE": [
+        "{STRVAR_1 10, 0} wurde wieder auf dem\n",
+        "PC gespeichert."
+      ]
+    },
+    {
+      "id": "msg_0578_00014",
+      "de_DE": "Der Große Felsen wurde entfernt."
+    },
+    {
+      "id": "msg_0578_00015",
+      "de_DE": [
+        "Du kannst einen Großen\n",
+        "Felsen nicht wegräumen."
+      ]
+    },
+    {
+      "id": "msg_0578_00016",
+      "de_DE": [
+        "Du kannst einen Großen\n",
+        "Felsen nicht verschieben."
+      ]
+    },
+    {
+      "id": "msg_0578_00017",
+      "de_DE": [
+        "Du kannst noch {STRVAR_1 51, 0} Großen\n",
+        "Felsen wegräumen."
+      ]
+    },
+    {
+      "id": "msg_0578_00018",
+      "de_DE": [
+        "Du kannst keine weiteren\n",
+        "Großen Felsen wegräumen."
+      ]
+    },
+    {
+      "id": "msg_0578_00019",
+      "de_DE": [
+        "Auf deinem PC sind keine\n",
+        "Dekoartikel gespeichert."
+      ]
+    },
+    {
+      "id": "msg_0578_00020",
+      "de_DE": [
+        "Du kannst keine weiteren\n",
+        "Dekoartikel ausstellen."
+      ]
+    },
+    {
+      "id": "msg_0578_00021",
+      "de_DE": [
+        "Dieser Dekoartikel wird\n",
+        "bereits ausgestellt. "
+      ]
+    },
+    {
+      "id": "msg_0578_00022",
+      "de_DE": "Der PC kann nicht weggeräumt werden."
+    },
+    {
+      "id": "msg_0578_00023",
+      "de_DE": "Der PC kann nicht bewegt werden."
+    },
+    {
+      "id": "msg_0578_00024",
+      "de_DE": "Dekorieren beenden."
+    },
+    {
+      "id": "msg_0578_00025",
+      "de_DE": [
+        "Du kannst noch {STRVAR_1 51, 0} Große\n",
+        "Felsen wegräumen."
+      ]
+    }
+  ]
+}

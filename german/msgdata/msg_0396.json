@@ -1,0 +1,137 @@
+{
+  "key": 19259,
+  "messages": [
+    {
+      "id": "msg_0396_00000",
+      "de_DE": [
+        "Route 39\n",
+        "Südlich nach Oliviana City"
+      ]
+    },
+    {
+      "id": "msg_0396_00001",
+      "de_DE": [
+        "Kuhmuh-Farm\n",
+        "Hier wartet immer ein Glas frische\f",
+        "und bekömmliche Milch auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0396_00002",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Benutze Kopfnuss, um Pokémon aus\n",
+        "Bäumen zu schütteln. Von jedem Baum\f",
+        "könnte ein anderes Pokémon purzeln!\r",
+        "Probiere Kopfnuss also an möglichst\n",
+        "vielen verschiedenen Bäumen aus!"
+      ]
+    },
+    {
+      "id": "msg_0396_00003",
+      "de_DE": "MILTANK: Miltank!"
+    },
+    {
+      "id": "msg_0396_00004",
+      "de_DE": [
+        "Baoba: ...Sehe ich richtig?\n",
+        "Dieses Ding, das du da bei dir trägst,\f",
+        "ist doch ein Pokédex, oder?\r",
+        "Ach ja, da werden Erinnerungen wach!\r",
+        "Mein Name ist Baoba!\r",
+        "Bis vor Kurzem habe ich noch die Safari\n",
+        "in Fuchsania City geleitet. Aber es\f",
+        "tauchten immer neue Parks auf und \f",
+        "irgendwann blieb meine Safari-Zone\f",
+        "hinter der Konkurrenz zurück.\r",
+        "Also ergriff ich die Initiative!\n",
+        "Ich eignete mir im Ausland einige\f",
+        "neue Kniffe an und entschied mich,\f",
+        "in Anemonia City eine neue Safari\f",
+        "zu eröffnen!\r",
+        "Dass wir zwei uns hier kennenlernen,\n",
+        "ist bestimmt Schicksal!\r",
+        "Wenn das mal kein guter Grund dafür ist,\n",
+        "Telefonnummern auszutauschen, was?\r",
+        "Wenn die Safari-Zone eröffnet wird,\n",
+        "bist du der Erste, der davon erfährt!\r"
+      ]
+    },
+    {
+      "id": "msg_0396_00005",
+      "de_DE": "Also, wollen wir Nummern tauschen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0396_00006",
+      "de_DE": "Sehr schön! Eine gute Antwort!\r"
+    },
+    {
+      "id": "msg_0396_00007",
+      "de_DE": [
+        "Oh, also dass du ablehnst, hätte\n",
+        "ich jetzt wirklich nicht erwartet.\r",
+        "Du würdest bei der Safari bestimmt\n",
+        "auch seltene Pokémon finden!\r",
+        "Und deinen Pokédex könntest du\n",
+        "obendrein auch weiter füllen.\f",
+        "Die Sache hätte nur Vorteile!\r"
+      ]
+    },
+    {
+      "id": "msg_0396_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Baobas Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0396_00009",
+      "de_DE": [
+        "Baoba: In Ordnung! Wenn die Safari\n",
+        "fertiggestellt wurde, melde ich mich\f",
+        "bei dir auf dem Pokécom!\r"
+      ]
+    },
+    {
+      "id": "msg_0396_00010",
+      "de_DE": [
+        "Major Bob: Hey, du! Rekrut!\r",
+        "Wie wäre es mit einem Bild von uns\n",
+        "beiden für die Militärkartei? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0396_00011",
+      "de_DE": [
+        "Major Bob: Roger, Roger!\r",
+        "Dann wollen wir doch mal sehen,\n",
+        "ob du auch lächeln kannst!\r"
+      ]
+    },
+    {
+      "id": "msg_0396_00012",
+      "de_DE": [
+        "Major Bob: Beeindruckend! Dieses Bild\n",
+        "wird sich gut in den Akten machen!\r",
+        "Viele Grüße von Route 39!"
+      ]
+    },
+    {
+      "id": "msg_0396_00013",
+      "de_DE": [
+        "Major Bob: Du kneifst also, Rekrut?\r",
+        "Ich hoffe schwer, dass du beim nächsten\n",
+        "Mal mehr Mumm in den Knochen hast!"
+      ]
+    },
+    {
+      "id": "msg_0396_00014",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

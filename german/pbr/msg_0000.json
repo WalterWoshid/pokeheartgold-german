@@ -1,0 +1,9824 @@
+{
+  "key": 22758,
+  "messages": [
+    {
+      "id": "msg_0000_00000",
+      "de_DE": "!"
+    },
+    {
+      "id": "msg_0000_00001",
+      "de_DE": "!"
+    },
+    {
+      "id": "msg_0000_00002",
+      "de_DE": "!"
+    },
+    {
+      "id": "msg_0000_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Pfund ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00004",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Pfund ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00005",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Pfund ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00006",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Karateschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00007",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Karateschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00008",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Karateschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00009",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Duplexhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00010",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Duplexhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00011",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Duplexhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00012",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kometenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00013",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kometenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00014",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kometenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00015",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Megahieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00016",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Megahieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Megahieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00018",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zahltag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00019",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zahltag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00020",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zahltag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00021",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Feuerschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00022",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Feuerschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00023",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Feuerschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00024",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eishieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00025",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eishieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00026",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eishieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00027",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Donnerschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00028",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Donnerschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00029",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Donnerschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00030",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kratzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00031",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kratzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00032",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kratzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00033",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Klammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00034",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Klammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00035",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Klammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00036",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Guillotine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00037",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Guillotine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00038",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Guillotine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00039",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Klingensturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00040",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Klingensturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00041",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Klingensturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00042",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schwerttanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00043",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schwerttanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00044",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schwerttanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00045",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zerschneider ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00046",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zerschneider ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00047",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zerschneider ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00048",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Windstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00049",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Windstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00050",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Windstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00051",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Flügelschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00052",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Flügelschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00053",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Flügelschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00054",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wirbelwind ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00055",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wirbelwind ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00056",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wirbelwind ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00057",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fliegen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00058",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fliegen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00059",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fliegen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00060",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00061",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00062",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Klammergriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00063",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Slam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00064",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Slam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00065",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Slam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00066",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rankenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00067",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rankenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00068",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rankenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00069",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Stampfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00070",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Stampfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00071",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Stampfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00072",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Doppelkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00073",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Doppelkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00074",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Doppelkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00075",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Megakick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00076",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Megakick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00077",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Megakick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00078",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sprungkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00079",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sprungkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00080",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sprungkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00081",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fegekick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00082",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fegekick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00083",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fegekick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00084",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sandwirbel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00085",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sandwirbel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00086",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sandwirbel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00087",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kopfnuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00088",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kopfnuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00089",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kopfnuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00090",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hornattacke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00091",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hornattacke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00092",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hornattacke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00093",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Furienschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00094",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Furienschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00095",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Furienschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00096",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hornbohrer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00097",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hornbohrer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00098",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hornbohrer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00099",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Tackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00100",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Tackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00101",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Tackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00102",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bodyslam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00103",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bodyslam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00104",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bodyslam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00105",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wickel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00106",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wickel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00107",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wickel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00108",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bodycheck ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00109",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bodycheck ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00110",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bodycheck ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00111",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fuchtler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00112",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fuchtler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00113",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fuchtler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00114",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Risikotackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00115",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Risikotackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00116",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Risikotackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00117",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rutenschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00118",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rutenschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00119",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rutenschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00120",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftstachel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00121",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftstachel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00122",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftstachel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00123",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Duonadel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00124",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Duonadel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00125",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Duonadel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00126",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nadelrakete ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00127",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nadelrakete ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00128",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nadelrakete ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00129",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Silberblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00130",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Silberblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00131",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Silberblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00132",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Biss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00133",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Biss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00134",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Biss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00135",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Heuler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00136",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Heuler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00137",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Heuler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00138",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Brüller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00139",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Brüller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00140",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Brüller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00141",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gesang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00142",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gesang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00143",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gesang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00144",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Superschall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00145",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Superschall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00146",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Superschall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00147",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ultraschall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00148",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ultraschall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00149",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ultraschall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00150",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aussetzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00151",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aussetzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00152",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aussetzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00153",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Säure ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00154",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Säure ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00155",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Säure ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00156",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Glut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00157",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Glut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00158",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Glut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00159",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Flammenwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00160",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Flammenwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00161",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Flammenwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00162",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Weißnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00163",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Weißnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00164",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Weißnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00165",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aquaknarre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00166",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aquaknarre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00167",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aquaknarre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00168",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hydropumpe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00169",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hydropumpe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00170",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hydropumpe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00171",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Surfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00172",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Surfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00173",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Surfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00174",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eisstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00175",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eisstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00176",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eisstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00177",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blizzard ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00178",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blizzard ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00179",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blizzard ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00180",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psystrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00181",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psystrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00182",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psystrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00183",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blubbstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00184",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blubbstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00185",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blubbstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00186",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aurorastrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00187",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aurorastrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00188",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aurorastrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00189",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hyperstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00190",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hyperstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00191",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hyperstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00192",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schnabel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00193",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schnabel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00194",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schnabel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00195",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bohrschnabel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00196",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bohrschnabel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00197",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bohrschnabel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00198",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Überroller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00199",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Überroller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00200",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Überroller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00201",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fußkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00202",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fußkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00203",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fußkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00204",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Konter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00205",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Konter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00206",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Konter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00207",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Geowurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00208",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Geowurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00209",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Geowurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00210",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Stärke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00211",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Stärke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00212",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Stärke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00213",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Absorber ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00214",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Absorber ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00215",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Absorber ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00216",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Megasauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00217",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Megasauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00218",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Megasauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00219",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Egelsamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00220",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Egelsamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00221",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Egelsamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00222",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wachstum ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00223",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wachstum ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00224",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wachstum ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00225",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rasierblatt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00226",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rasierblatt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00227",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rasierblatt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00228",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Solarstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00229",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Solarstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00230",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Solarstrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00231",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftpuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00232",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftpuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00233",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftpuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00234",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Stachelspore ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00235",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Stachelspore ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00236",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Stachelspore ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00237",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlafpuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00238",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlafpuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00239",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlafpuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00240",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blättertanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00241",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blättertanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00242",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blättertanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00243",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fadenschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00244",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fadenschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00245",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fadenschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00246",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Drachenwut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00247",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Drachenwut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00248",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Drachenwut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00249",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Feuerwirbel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00250",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Feuerwirbel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00251",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Feuerwirbel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00252",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Donnerschock ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00253",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Donnerschock ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00254",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Donnerschock ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00255",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Donnerblitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00256",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Donnerblitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00257",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Donnerblitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00258",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Donnerwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00259",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Donnerwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00260",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Donnerwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00261",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Donner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00262",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Donner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00263",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Donner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00264",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Steinwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00265",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Steinwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00266",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Steinwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00267",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Erdbeben ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00268",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Erdbeben ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00269",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Erdbeben ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00270",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Geofissur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00271",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Geofissur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00272",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Geofissur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00273",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schaufler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00274",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schaufler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00275",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schaufler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00276",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Toxin ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00277",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Toxin ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00278",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Toxin ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00279",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Konfusion ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00280",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Konfusion ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00281",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Konfusion ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00282",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psychokinese ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00283",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psychokinese ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00284",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psychokinese ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00285",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hypnose ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00286",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hypnose ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00287",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hypnose ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00288",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Meditation ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00289",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Meditation ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00290",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Meditation ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00291",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Agilität ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00292",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Agilität ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00293",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Agilität ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00294",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ruckzuckhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00295",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ruckzuckhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00296",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ruckzuckhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00297",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Raserei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00298",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Raserei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00299",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Raserei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00300",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Teleport ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00301",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Teleport ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00302",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Teleport ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00303",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nachtnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00304",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nachtnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00305",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nachtnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00306",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Mimikry ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00307",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Mimikry ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00308",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Mimikry ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00309",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kreideschrei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00310",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kreideschrei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00311",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kreideschrei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00312",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Doppelteam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00313",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Doppelteam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00314",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Doppelteam ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00315",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Genesung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00316",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Genesung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00317",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Genesung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00318",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Härtner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00319",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Härtner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00320",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Härtner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00321",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Komprimator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00322",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Komprimator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00323",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Komprimator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00324",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rauchwolke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00325",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rauchwolke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00326",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rauchwolke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00327",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Konfustrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00328",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Konfustrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00329",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Konfustrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00330",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Panzerschutz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00331",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Panzerschutz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00332",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Panzerschutz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00333",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Einigler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00334",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Einigler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00335",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Einigler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00336",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Barriere ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00337",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Barriere ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00338",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Barriere ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00339",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lichtschild ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00340",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lichtschild ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00341",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lichtschild ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00342",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Dunkelnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00343",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Dunkelnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00344",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Dunkelnebel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00345",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Reflektor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00346",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Reflektor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00347",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Reflektor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00348",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Energiefokus ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00349",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Energiefokus ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00350",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Energiefokus ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00351",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Geduld ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00352",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Geduld ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00353",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Geduld ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00354",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Metronom ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00355",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Metronom ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00356",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Metronom ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00357",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Spiegeltrick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00358",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Spiegeltrick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00359",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Spiegeltrick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00360",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Finale ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00361",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Finale ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00362",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Finale ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00363",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eierbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00364",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eierbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00365",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eierbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00366",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlecker ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00367",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlecker ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00368",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlecker ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00369",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Smog ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00370",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Smog ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00371",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Smog ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00372",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlammbad ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00373",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlammbad ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00374",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlammbad ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00375",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Knochenkeule ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00376",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Knochenkeule ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00377",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Knochenkeule ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00378",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Feuersturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00379",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Feuersturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00380",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Feuersturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00381",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kaskade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00382",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kaskade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00383",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kaskade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00384",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schnapper ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00385",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schnapper ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00386",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schnapper ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00387",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sternschauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00388",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sternschauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00389",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sternschauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00390",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schädelwumme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00391",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schädelwumme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00392",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schädelwumme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00393",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Dornkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00394",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Dornkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00395",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Dornkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00396",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Umklammerung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00397",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Umklammerung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00398",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Umklammerung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00399",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Amnesie ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00400",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Amnesie ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00401",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Amnesie ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00402",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psykraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00403",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psykraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00404",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psykraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00405",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Weichei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00406",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Weichei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00407",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Weichei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00408",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Turmkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00409",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Turmkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00410",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Turmkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00411",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00412",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00413",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00414",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Traumfresser ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00415",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Traumfresser ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00416",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Traumfresser ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00417",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftwolke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00418",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftwolke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00419",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftwolke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00420",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Stakkato ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00421",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Stakkato ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00422",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Stakkato ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00423",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blutsauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00424",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blutsauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00425",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blutsauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00426",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Todeskuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00427",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Todeskuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00428",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Todeskuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00429",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Himmelsfeger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00430",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Himmelsfeger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00431",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Himmelsfeger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00432",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wandler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00433",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wandler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00434",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wandler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00435",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blubber ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00436",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blubber ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00437",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blubber ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00438",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Irrschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00439",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Irrschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00440",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Irrschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00441",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Pilzspore ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00442",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Pilzspore ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00443",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Pilzspore ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00444",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00445",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00446",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00447",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psywelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00448",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psywelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00449",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psywelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00450",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Platscher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00451",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Platscher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00452",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Platscher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00453",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Säurepanzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00454",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Säurepanzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00455",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Säurepanzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00456",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Krabbhammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00457",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Krabbhammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00458",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Krabbhammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00459",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Explosion ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00460",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Explosion ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00461",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Explosion ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00462",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kratzfurie ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00463",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kratzfurie ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00464",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kratzfurie ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00465",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Knochmerang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00466",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Knochmerang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00467",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Knochmerang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00468",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Erholung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00469",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Erholung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00470",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Erholung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00471",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Steinhagel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00472",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Steinhagel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00473",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Steinhagel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00474",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hyperzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00475",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hyperzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00476",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hyperzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00477",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schärfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00478",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schärfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00479",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schärfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00480",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Umwandlung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00481",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Umwandlung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00482",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Umwandlung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00483",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Triplette ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00484",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Triplette ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00485",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Triplette ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00486",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Superzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00487",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Superzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00488",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Superzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00489",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlitzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00490",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlitzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00491",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlitzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00492",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Delegator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00493",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Delegator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00494",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Delegator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00495",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Verzweifler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00496",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Verzweifler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00497",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Verzweifler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00498",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nachahmer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00499",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nachahmer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00500",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nachahmer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00501",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Dreifachkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00502",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Dreifachkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00503",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Dreifachkick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00504",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Raub ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00505",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Raub ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00506",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Raub ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00507",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Spinnennetz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00508",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Spinnennetz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00509",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Spinnennetz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00510",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Willensleser ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00511",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Willensleser ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00512",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Willensleser ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00513",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nachtmahr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00514",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nachtmahr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00515",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nachtmahr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00516",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Flammenrad ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00517",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Flammenrad ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00518",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Flammenrad ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00519",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schnarcher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00520",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schnarcher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00521",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schnarcher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00522",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fluch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00523",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fluch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00524",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fluch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00525",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Dreschflegel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00526",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Dreschflegel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00527",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Dreschflegel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00528",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Umwandlung2 ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00529",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Umwandlung2 ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00530",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Umwandlung2 ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00531",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Luftstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00532",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Luftstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00533",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Luftstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00534",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Baumwollsaat ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00535",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Baumwollsaat ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00536",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Baumwollsaat ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00537",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gegenschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00538",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gegenschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00539",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gegenschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00540",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Groll ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00541",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Groll ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00542",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Groll ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00543",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Pulverschnee ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00544",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Pulverschnee ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00545",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Pulverschnee ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00546",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schutzschild ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00547",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schutzschild ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00548",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schutzschild ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00549",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Tempohieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00550",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Tempohieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00551",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Tempohieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00552",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Grimasse ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00553",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Grimasse ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00554",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Grimasse ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00555",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Finte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00556",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Finte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00557",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Finte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00558",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bitterkuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00559",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bitterkuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00560",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bitterkuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00561",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bauchtrommel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00562",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bauchtrommel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00563",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bauchtrommel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00564",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Matschbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00565",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Matschbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00566",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Matschbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00567",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lehmschelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00568",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lehmschelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00569",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lehmschelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00570",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Octazooka ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00571",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Octazooka ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00572",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Octazooka ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00573",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Stachler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00574",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Stachler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00575",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Stachler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00576",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blitzkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00577",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blitzkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00578",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blitzkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00579",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gesichte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00580",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gesichte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00581",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gesichte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00582",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Abgangsbund ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00583",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Abgangsbund ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00584",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Abgangsbund ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00585",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Abgesang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00586",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Abgesang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00587",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Abgesang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00588",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eissturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00589",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eissturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00590",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eissturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00591",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Scanner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00592",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Scanner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00593",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Scanner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00594",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Knochenhatz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00595",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Knochenhatz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00596",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Knochenhatz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00597",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zielschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00598",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zielschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00599",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zielschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00600",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wutanfall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00601",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wutanfall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00602",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wutanfall ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00603",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sandsturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00604",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sandsturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00605",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sandsturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00606",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gigasauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00607",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gigasauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00608",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gigasauger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00609",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ausdauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00610",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ausdauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00611",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ausdauer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00612",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Charme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00613",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Charme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00614",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Charme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00615",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Walzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00616",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Walzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00617",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Walzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00618",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Trugschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00619",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Trugschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00620",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Trugschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00621",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Angeberei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00622",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Angeberei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00623",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Angeberei ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00624",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Milchgetränk ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00625",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Milchgetränk ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00626",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Milchgetränk ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00627",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Funkensprung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00628",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Funkensprung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00629",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Funkensprung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00630",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zornklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00631",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zornklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00632",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zornklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00633",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Stahlflügel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00634",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Stahlflügel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00635",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Stahlflügel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00636",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Horrorblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00637",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Horrorblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00638",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Horrorblick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00639",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Anziehung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00640",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Anziehung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00641",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Anziehung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00642",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlafrede ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00643",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlafrede ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00644",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlafrede ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00645",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Vitalglocke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00646",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Vitalglocke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00647",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Vitalglocke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00648",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rückkehr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00649",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rückkehr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00650",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rückkehr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00651",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Geschenk ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00652",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Geschenk ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00653",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Geschenk ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00654",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Frustration ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00655",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Frustration ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00656",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Frustration ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00657",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bodyguard ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00658",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bodyguard ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00659",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bodyguard ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00660",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Leidteiler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00661",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Leidteiler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00662",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Leidteiler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00663",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Läuterfeuer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00664",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Läuterfeuer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00665",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Läuterfeuer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00666",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Intensität ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00667",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Intensität ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00668",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Intensität ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00669",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wuchtschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00670",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wuchtschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00671",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wuchtschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00672",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Vielender ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00673",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Vielender ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00674",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Vielender ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00675",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Feuerodem ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00676",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Feuerodem ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00677",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Feuerodem ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00678",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Staffette ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00679",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Staffette ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00680",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Staffette ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00681",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zugabe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00682",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zugabe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00683",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zugabe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00684",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Verfolgung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00685",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Verfolgung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00686",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Verfolgung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00687",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Turbodreher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00688",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Turbodreher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00689",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Turbodreher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00690",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lockduft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00691",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lockduft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00692",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lockduft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00693",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eisenschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00694",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eisenschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00695",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eisenschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00696",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Metallklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00697",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Metallklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00698",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Metallklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00699",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Überwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00700",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Überwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00701",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Überwurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00702",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Morgengrauen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00703",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Morgengrauen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00704",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Morgengrauen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00705",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Synthese ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00706",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Synthese ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00707",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Synthese ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00708",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Mondschein ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00709",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Mondschein ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00710",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Mondschein ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00711",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kraftreserve ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00712",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kraftreserve ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00713",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kraftreserve ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00714",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kreuzhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00715",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kreuzhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00716",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kreuzhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00717",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Windhose ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00718",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Windhose ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00719",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Windhose ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00720",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Regentanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00721",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Regentanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00722",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Regentanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00723",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sonnentag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00724",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sonnentag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00725",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sonnentag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00726",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Knirscher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00727",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Knirscher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00728",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Knirscher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00729",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Spiegelcape ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00730",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Spiegelcape ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00731",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Spiegelcape ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00732",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psycho-Plus ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00733",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psycho-Plus ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00734",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psycho-Plus ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00735",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Turbotempo ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00736",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Turbotempo ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00737",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Turbotempo ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00738",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Antik-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00739",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Antik-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00740",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Antik-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00741",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Spukball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00742",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Spukball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00743",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Spukball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00744",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Seher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00745",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Seher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00746",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Seher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00747",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zertrümmerer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00748",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zertrümmerer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00749",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zertrümmerer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00750",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Whirlpool ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00751",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Whirlpool ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00752",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Whirlpool ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00753",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Prügler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00754",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Prügler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00755",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Prügler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00756",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Mogelhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00757",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Mogelhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00758",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Mogelhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00759",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aufruhr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00760",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aufruhr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00761",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aufruhr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00762",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Horter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00763",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Horter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00764",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Horter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00765",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Entfessler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00766",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Entfessler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00767",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Entfessler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00768",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Verzehrer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00769",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Verzehrer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00770",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Verzehrer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00771",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hitzewelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00772",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hitzewelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00773",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hitzewelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00774",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hagelsturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00775",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hagelsturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00776",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hagelsturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00777",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Folterknecht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00778",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Folterknecht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00779",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Folterknecht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00780",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schmeichler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00781",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schmeichler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00782",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schmeichler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00783",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Irrlicht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00784",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Irrlicht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00785",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Irrlicht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00786",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Memento-Mori ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00787",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Memento-Mori ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00788",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Memento-Mori ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00789",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fassade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00790",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fassade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00791",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fassade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00792",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Power-Punch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00793",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Power-Punch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00794",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Power-Punch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00795",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Riechsalz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00796",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Riechsalz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00797",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Riechsalz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00798",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Spotlight ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00799",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Spotlight ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00800",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Spotlight ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00801",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Natur-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00802",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Natur-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00803",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Natur-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00804",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ladevorgang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00805",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ladevorgang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00806",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ladevorgang ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00807",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Verhöhner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00808",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Verhöhner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00809",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Verhöhner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00810",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rechte Hand ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00811",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rechte Hand ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00812",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rechte Hand ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00813",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Trickbetrug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00814",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Trickbetrug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00815",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Trickbetrug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00816",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rollentausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00817",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rollentausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00818",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rollentausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00819",
+      "de_DE": [
+        "{STRVAR_1 1, 0} spricht einen\n",
+        "Wunschtraum aus!"
+      ]
+    },
+    {
+      "id": "msg_0000_00820",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) spricht einen\n",
+        "Wunschtraum aus!"
+      ]
+    },
+    {
+      "id": "msg_0000_00821",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) spricht einen\n",
+        "Wunschtraum aus!"
+      ]
+    },
+    {
+      "id": "msg_0000_00822",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zuschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00823",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zuschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00824",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zuschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00825",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Verwurzler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00826",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Verwurzler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00827",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Verwurzler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00828",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kraftkoloss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00829",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kraftkoloss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00830",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kraftkoloss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00831",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Magiemantel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00832",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Magiemantel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00833",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Magiemantel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00834",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aufbereitung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00835",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aufbereitung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00836",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aufbereitung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00837",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Vergeltung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00838",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Vergeltung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00839",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Vergeltung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00840",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Durchbruch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00841",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Durchbruch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00842",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Durchbruch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00843",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gähner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00844",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gähner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00845",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gähner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00846",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Abschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00847",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Abschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00848",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Abschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00849",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Notsituation ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00850",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Notsituation ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00851",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Notsituation ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00852",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eruption ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00853",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eruption ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00854",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eruption ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00855",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wertewechsel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00856",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wertewechsel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00857",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wertewechsel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00858",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Begrenzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00859",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Begrenzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00860",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Begrenzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00861",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Heilung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00862",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Heilung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00863",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Heilung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00864",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nachspiel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00865",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nachspiel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00866",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nachspiel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00867",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Übernahme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00868",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Übernahme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00869",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Übernahme ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00870",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Geheimpower ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00871",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Geheimpower ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00872",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Geheimpower ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00873",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Taucher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00874",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Taucher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00875",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Taucher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00876",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Armstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00877",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Armstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00878",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Armstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00879",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Tarnung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00880",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Tarnung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00881",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Tarnung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00882",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schweifglanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00883",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schweifglanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00884",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schweifglanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00885",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Scheinwerfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00886",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Scheinwerfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00887",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Scheinwerfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00888",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nebelball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00889",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nebelball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00890",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nebelball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00891",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Daunenreigen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00892",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Daunenreigen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00893",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Daunenreigen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00894",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Taumeltanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00895",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Taumeltanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00896",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Taumeltanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00897",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Feuerfeger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00898",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Feuerfeger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00899",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Feuerfeger ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00900",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lehmsuhler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00901",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lehmsuhler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00902",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lehmsuhler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00903",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Frostbeule ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00904",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Frostbeule ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00905",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Frostbeule ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00906",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nietenranke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00907",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nietenranke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00908",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nietenranke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00909",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Tagedieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00910",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Tagedieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00911",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Tagedieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00912",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schallwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00913",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schallwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00914",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schallwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00915",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00916",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00917",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00918",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zermalmklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00919",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zermalmklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00920",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zermalmklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00921",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lohekanonade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00922",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lohekanonade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00923",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lohekanonade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00924",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aquahaubitze ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00925",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aquahaubitze ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00926",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aquahaubitze ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00927",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sternenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00928",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sternenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00929",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sternenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00930",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Erstauner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00931",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Erstauner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00932",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Erstauner ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00933",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Meteorologe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00934",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Meteorologe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00935",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Meteorologe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00936",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aromakur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00937",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aromakur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00938",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aromakur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00939",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Trugträne ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00940",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Trugträne ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00941",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Trugträne ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00942",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Windschnitt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00943",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Windschnitt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00944",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Windschnitt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00945",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hitzekoller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00946",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hitzekoller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00947",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hitzekoller ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00948",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schnüffler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00949",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schnüffler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00950",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schnüffler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00951",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Felsgrab ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00952",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Felsgrab ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00953",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Felsgrab ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00954",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Silberhauch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00955",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Silberhauch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00956",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Silberhauch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00957",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Metallsound ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00958",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Metallsound ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00959",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Metallsound ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00960",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Grasflöte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00961",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Grasflöte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00962",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Grasflöte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00963",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Spaßkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00964",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Spaßkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00965",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Spaßkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00966",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kosmik-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00967",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kosmik-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00968",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kosmik-Kraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00969",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fontränen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00970",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fontränen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00971",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fontränen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00972",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ampelleuchte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00973",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ampelleuchte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00974",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ampelleuchte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00975",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Finsterfaust ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00976",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Finsterfaust ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00977",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Finsterfaust ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00978",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sondersensor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00979",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sondersensor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00980",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sondersensor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00981",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Himmelhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00982",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Himmelhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00983",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Himmelhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00984",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sandgrab ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00985",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sandgrab ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00986",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sandgrab ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00987",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eiseskälte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00988",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eiseskälte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00989",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eiseskälte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00990",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lehmbrühe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00991",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lehmbrühe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00992",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lehmbrühe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00993",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kugelsaat ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00994",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kugelsaat ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00995",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kugelsaat ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00996",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aero-Ass ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00997",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aero-Ass ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00998",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aero-Ass ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_00999",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eisspeer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01000",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eisspeer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01001",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eisspeer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01002",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eisenabwehr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01003",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eisenabwehr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01004",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eisenabwehr ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01005",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rückentzug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01006",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rückentzug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01007",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rückentzug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01008",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Jauler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01009",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Jauler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01010",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Jauler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01011",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Drachenklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01012",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Drachenklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01013",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Drachenklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01014",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fauna-Statue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01015",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fauna-Statue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01016",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fauna-Statue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01017",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Protzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01018",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Protzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01019",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Protzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01020",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sprungfeder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01021",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sprungfeder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01022",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sprungfeder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01023",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lehmschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01024",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lehmschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01025",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lehmschuss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01026",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01027",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01028",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01029",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bezirzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01030",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bezirzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01031",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bezirzer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01032",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Volttackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01033",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Volttackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01034",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Volttackle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01035",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zauberblatt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01036",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zauberblatt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01037",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zauberblatt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01038",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nassmacher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01039",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nassmacher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01040",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nassmacher ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01041",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gedankengut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01042",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gedankengut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01043",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gedankengut ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01044",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Laubklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01045",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Laubklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01046",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Laubklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01047",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Drachentanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01048",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Drachentanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01049",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Drachentanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01050",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Felswurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01051",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Felswurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01052",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Felswurf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01053",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schockwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01054",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schockwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01055",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schockwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01056",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aquawelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01057",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aquawelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01058",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aquawelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01059",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kismetwunsch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01060",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kismetwunsch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01061",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kismetwunsch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01062",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psyschub ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01063",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psyschub ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01064",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psyschub ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01065",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ruheort ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01066",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ruheort ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01067",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ruheort ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01068",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Erdanziehung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01069",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Erdanziehung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01070",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Erdanziehung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01071",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wunderauge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01072",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wunderauge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01073",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wunderauge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01074",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Weckruf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01075",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Weckruf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01076",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Weckruf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01077",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Hammerarm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01078",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Hammerarm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01079",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Hammerarm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01080",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gyroball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01081",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gyroball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01082",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gyroball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01083",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Heilopfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01084",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Heilopfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01085",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Heilopfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01086",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lake ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01087",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lake ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01088",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lake ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01089",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Beerenkräfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01090",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Beerenkräfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01091",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Beerenkräfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01092",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Offenlegung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01093",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Offenlegung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01094",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Offenlegung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01095",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Pflücker ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01096",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Pflücker ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01097",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Pflücker ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01098",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Rückenwind ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01099",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Rückenwind ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01100",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Rückenwind ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01101",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Akupressur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01102",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Akupressur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01103",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Akupressur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01104",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Metallstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01105",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Metallstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01106",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Metallstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01107",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kehrtwende ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01108",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kehrtwende ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01109",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kehrtwende ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01110",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nahkampf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01111",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nahkampf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01112",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nahkampf ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01113",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gegenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01114",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gegenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01115",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gegenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01116",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gewissheit ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01117",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gewissheit ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01118",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gewissheit ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01119",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Itemsperre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01120",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Itemsperre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01121",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Itemsperre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01122",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schleuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01123",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schleuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01124",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schleuder ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01125",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psybann ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01126",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psybann ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01127",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psybann ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01128",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Trumpfkarte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01129",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Trumpfkarte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01130",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Trumpfkarte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01131",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Heilblockade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01132",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Heilblockade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01133",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Heilblockade ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01134",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Auswringen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01135",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Auswringen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01136",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Auswringen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01137",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Krafttrick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01138",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Krafttrick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01139",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Krafttrick ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01140",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Magensäfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01141",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Magensäfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01142",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Magensäfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01143",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Beschwörung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01144",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Beschwörung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01145",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Beschwörung ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01146",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Egotrip ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01147",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Egotrip ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01148",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Egotrip ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01149",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Imitator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01150",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Imitator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01151",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Imitator ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01152",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Krafttausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01153",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Krafttausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01154",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Krafttausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01155",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schutztausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01156",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schutztausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01157",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schutztausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01158",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Strafattacke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01159",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Strafattacke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01160",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Strafattacke ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01161",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zuflucht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01162",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zuflucht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01163",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zuflucht ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01164",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sorgensamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01165",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sorgensamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01166",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sorgensamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01167",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Tiefschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01168",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Tiefschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01169",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Tiefschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01170",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftspitzen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01171",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftspitzen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01172",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftspitzen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01173",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Statustausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01174",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Statustausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01175",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Statustausch ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01176",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wasserring ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01177",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wasserring ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01178",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wasserring ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01179",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Magnetflug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01180",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Magnetflug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01181",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Magnetflug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01182",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Flammenblitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01183",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Flammenblitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01184",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Flammenblitz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01185",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kraftwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01186",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kraftwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01187",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kraftwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01188",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Aurasphäre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01189",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Aurasphäre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01190",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Aurasphäre ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01191",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Steinpolitur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01192",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Steinpolitur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01193",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Steinpolitur ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01194",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gifthieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01195",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gifthieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01196",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gifthieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01197",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Finsteraura ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01198",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Finsteraura ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01199",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Finsteraura ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01200",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nachthieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01201",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nachthieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01202",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nachthieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01203",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Nassschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01204",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Nassschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01205",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Nassschweif ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01206",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Samenbomben ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01207",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Samenbomben ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01208",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Samenbomben ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01209",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Luftschnitt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01210",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Luftschnitt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01211",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Luftschnitt ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01212",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kreuzschere ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01213",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kreuzschere ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01214",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kreuzschere ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01215",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Käfergebrumm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01216",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Käfergebrumm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01217",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Käfergebrumm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01218",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Drachenpuls ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01219",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Drachenpuls ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01220",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Drachenpuls ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01221",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Drachenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01222",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Drachenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01223",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Drachenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01224",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Juwelenkraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01225",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Juwelenkraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01226",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Juwelenkraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01227",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ableithieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01228",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ableithieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01229",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ableithieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01230",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Vakuumwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01231",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Vakuumwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01232",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Vakuumwelle ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01233",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Fokusstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01234",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Fokusstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01235",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Fokusstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01236",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Energieball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01237",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Energieball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01238",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Energieball ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01239",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Sturzflug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01240",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Sturzflug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01241",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Sturzflug ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01242",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Erdkräfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01243",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Erdkräfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01244",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Erdkräfte ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01245",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wechseldich ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01246",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wechseldich ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01247",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wechseldich ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01248",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Gigastoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01249",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Gigastoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01250",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Gigastoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01251",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ränkeschmied ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01252",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ränkeschmied ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01253",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ränkeschmied ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01254",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Patronenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01255",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Patronenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01256",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Patronenhieb ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01257",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lawine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01258",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lawine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01259",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lawine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01260",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eissplitter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01261",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eissplitter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01262",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eissplitter ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01263",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Dunkelklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01264",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Dunkelklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01265",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Dunkelklaue ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01266",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Donnerzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01267",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Donnerzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01268",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Donnerzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01269",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eiszahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01270",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eiszahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01271",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eiszahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01272",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Feuerzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01273",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Feuerzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01274",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Feuerzahn ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01275",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schattenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01276",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schattenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01277",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schattenstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01278",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlammbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01279",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlammbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01280",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlammbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01281",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Psychoklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01282",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Psychoklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01283",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Psychoklinge ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01284",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zen-Kopfstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01285",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zen-Kopfstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01286",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zen-Kopfstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01287",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Spiegelsalve ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01288",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Spiegelsalve ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01289",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Spiegelsalve ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01290",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lichtkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01291",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lichtkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01292",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lichtkanone ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01293",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kraxler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01294",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kraxler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01295",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kraxler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01296",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Auflockern ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01297",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Auflockern ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01298",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Auflockern ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01299",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Bizarroraum ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01300",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Bizarroraum ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01301",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Bizarroraum ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01302",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Draco Meteor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01303",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Draco Meteor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01304",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Draco Meteor ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01305",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ladungsstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01306",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ladungsstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01307",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ladungsstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01308",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Flammensturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01309",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Flammensturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01310",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Flammensturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01311",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blättersturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01312",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blättersturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01313",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blättersturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01314",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blattgeißel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01315",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blattgeißel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01316",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blattgeißel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01317",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Felswerfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01318",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Felswerfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01319",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Felswerfer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01320",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Giftstreich ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01321",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Giftstreich ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01322",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Giftstreich ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01323",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Mülltreffer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01324",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Mülltreffer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01325",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Mülltreffer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01326",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Eisenschädel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01327",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Eisenschädel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01328",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Eisenschädel ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01329",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Magnetbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01330",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Magnetbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01331",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Magnetbombe ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01332",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Steinkante ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01333",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Steinkante ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01334",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Steinkante ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01335",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Liebreiz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01336",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Liebreiz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01337",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Liebreiz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01338",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Tarnsteine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01339",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Tarnsteine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01340",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Tarnsteine ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01341",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Strauchler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01342",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Strauchler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01343",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Strauchler ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01344",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Geschwätz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01345",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Geschwätz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01346",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Geschwätz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01347",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Urteilskraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01348",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Urteilskraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01349",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Urteilskraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01350",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Käferbiss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01351",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Käferbiss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01352",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Käferbiss ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01353",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Ladestrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01354",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Ladestrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01355",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Ladestrahl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01356",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Holzhammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01357",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Holzhammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01358",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Holzhammer ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01359",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Wasserdüse ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01360",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Wasserdüse ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01361",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Wasserdüse ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01362",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlagbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01363",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlagbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01364",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlagbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01365",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Blockbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01366",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Blockbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01367",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Blockbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01368",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Heilbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01369",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Heilbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01370",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Heilbefehl ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01371",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Kopfstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01372",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Kopfstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01373",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Kopfstoß ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01374",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Doppelschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01375",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Doppelschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01376",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Doppelschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01377",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Zeitenlärm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01378",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Zeitenlärm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01379",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Zeitenlärm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01380",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Raumschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01381",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Raumschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01382",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Raumschlag ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01383",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lunartanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01384",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lunartanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01385",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lunartanz ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01386",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Quetschgriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01387",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Quetschgriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01388",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Quetschgriff ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01389",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Lavasturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01390",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Lavasturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01391",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Lavasturm ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01392",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schlummerort ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01393",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schlummerort ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01394",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schlummerort ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01395",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schocksamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01396",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schocksamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01397",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schocksamen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01398",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Unheilböen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01399",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Unheilböen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01400",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Unheilböen ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01401",
+      "de_DE": [
+        "{STRVAR_1 1, 0} setzt\n",
+        "Schemenkraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01402",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Wild) setzt\n",
+        "Schemenkraft ein!"
+      ]
+    },
+    {
+      "id": "msg_0000_01403",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Gegner) setzt\n",
+        "Schemenkraft ein!"
+      ]
+    }
+  ]
+}

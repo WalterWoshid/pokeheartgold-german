@@ -1,0 +1,86 @@
+{
+  "key": 9235,
+  "messages": [
+    {
+      "id": "msg_0142_00000",
+      "de_DE": [
+        "Hallo.\n",
+        "Kann ich dir helfen?"
+      ]
+    },
+    {
+      "id": "msg_0142_00001",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0}.\n",
+        "Kann ich dir helfen?"
+      ]
+    },
+    {
+      "id": "msg_0142_00002",
+      "de_DE": "Viel Vergnügen!"
+    },
+    {
+      "id": "msg_0142_00003",
+      "de_DE": [
+        "Mittels Trugschlag lassen sich wilde\n",
+        "Pokémon leichter fangen.\r",
+        "Das haben mir viele zufriedene Kunden\n",
+        "bestätigt."
+      ]
+    },
+    {
+      "id": "msg_0142_00004",
+      "de_DE": [
+        "Für Pokémon vom Typ Feuer darf ich\n",
+        "Feuersturm empfehlen."
+      ]
+    },
+    {
+      "id": "msg_0142_00005",
+      "de_DE": [
+        "Schutzschild hilft, gegnerischen\n",
+        "Attacken auszuweichen.\r",
+        "Allerdings kann wiederholter Gebrauch\n",
+        "zu vorzeitigem Versagen führen."
+      ]
+    },
+    {
+      "id": "msg_0142_00006",
+      "de_DE": [
+        "Im Regen trifft die Attacke Donner\n",
+        "deutlich genauer.\r",
+        "Achte auf das Wetter."
+      ]
+    },
+    {
+      "id": "msg_0142_00007",
+      "de_DE": [
+        "Ein Freund wollte mir MASCHOCK\n",
+        "geben, als wir über die Drahtlose\f",
+        "DS-Datenübertragung tauschten.\r",
+        "Doch statt MASCHOCK habe ich ein\n",
+        "anderes Pokémon erhalten."
+      ]
+    },
+    {
+      "id": "msg_0142_00008",
+      "de_DE": [
+        "Um sie nicht zu vergessen, habe ich\n",
+        "meine Geheimnisse zu einem Brief\f",
+        "zusammengefasst...\r",
+        "Aber wenn das jetzt jemand liest...\n",
+        "Dann habe ich ein großes Problem!"
+      ]
+    },
+    {
+      "id": "msg_0142_00009",
+      "de_DE": [
+        "EG: Alles für den Trainer\r",
+        "1S: Alles für den Kampf\r",
+        "2S: TM\r",
+        "3S: Poképuppen und Deko\r",
+        "4S: Dachterrasse"
+      ]
+    }
+  ]
+}

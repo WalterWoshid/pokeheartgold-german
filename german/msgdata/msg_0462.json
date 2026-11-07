@@ -1,0 +1,102 @@
+{
+  "key": 39269,
+  "messages": [
+    {
+      "id": "msg_0462_00000",
+      "de_DE": [
+        "Rocko: Wow! Mit Leuten aus Johto habe\n",
+        "ich es hier nur selten zu tun!\r",
+        "Mein Name ist Rocko! Ich bin der\n",
+        "Arenaleiter von Marmoria City.\r",
+        "Mein Fachgebiet sind Gestein-Pokémon!\r",
+        "Von ein paar halbherzigen Attacken\n",
+        "lassen sich meine Pokémon ganz\f",
+        "bestimmt nicht beeindrucken!\f",
+        "Das juckt sie nicht im Geringsten!\r",
+        "Und jetzt los! Lass uns kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0462_00001",
+      "de_DE": [
+        "Rocko: Unglaublich! Die mächtigen\n",
+        "Attacken deiner Pokémon haben\f",
+        "meine Verteidigung durchbrochen.\r",
+        "Hier! Nimm diesen Orden!\r"
+      ]
+    },
+    {
+      "id": "msg_0462_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Felsenorden."
+      ]
+    },
+    {
+      "id": "msg_0462_00003",
+      "de_DE": [
+        "Rocko: Danke, {STRVAR_1 3, 0, 0}!\n",
+        "Das nenne ich doch mal einen Kampf!\r",
+        "Damit hast du dir ein Geschenk verdient!\n",
+        "Hier, zum Dank will ich dir außerdem\f",
+        "noch die Attacke Steinhagel schenken.\r",
+        "Die Attacke lässt gelegentlich auch\n",
+        "gegnerische Pokémon zurückschrecken!\r"
+      ]
+    },
+    {
+      "id": "msg_0462_00004",
+      "de_DE": [
+        "Rocko: Danke, {STRVAR_1 3, 0, 0}!\n",
+        "Das nenne ich doch mal einen Kampf!\r",
+        "Damit hast du dir ein Geschenk verdient!\n",
+        "Hier, zum Dank will ich dir außerdem\f",
+        "noch die Attacke Steinhagel schenken.\r",
+        "Die Attacke lässt gelegentlich auch\n",
+        "gegnerische Pokémon zurückschrecken!\r"
+      ]
+    },
+    {
+      "id": "msg_0462_00005",
+      "de_DE": [
+        "Rocko: Es ist eine große, weite Welt!\n",
+        "Da draußen gibt es bestimmt noch jede\f",
+        "Menge andere starke Trainer wie dich.\r",
+        "Auch ich werde an mir feilen, dass ich\n",
+        "ein noch viel besserer Trainer werde!"
+      ]
+    },
+    {
+      "id": "msg_0462_00006",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Heute scheint ja echt dein Tag zu sein!\r",
+        "Hast du vor, alle Arenaleiter von Kanto\n",
+        "zum Kampf herauszufordern?\r",
+        "Sie sind starke Gegner und stehen\n",
+        "ihren Kollegen aus Johto in nichts nach!"
+      ]
+    },
+    {
+      "id": "msg_0462_00007",
+      "de_DE": [
+        "Ja, aus dir wird wirklich mal ein Champ!\n",
+        "Dieser Kampf war kein Problem für dich.\f",
+        "Ehrlich, ich bin schwer beeindruckt!"
+      ]
+    },
+    {
+      "id": "msg_0462_00008",
+      "de_DE": "Pokémon-Arena von Marmoria City"
+    },
+    {
+      "id": "msg_0462_00009",
+      "de_DE": [
+        "Pokémon-Arena von Marmoria City\r",
+        "Leiter: Rocko\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

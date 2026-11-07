@@ -104,8 +104,9 @@ int Json::FromFile(MessagesConverter &converter) {
         for (std::size_t i = 0; i < numMessages; i++) {
             string message;
             datanode_t elem = dp_arrelem(messages, i);
-            if (dp_hasmemb(elem, "en_US")) {
-                datanode_t content = dp_objmemb(elem, "en_US");
+            const char *language = dp_hasmemb(elem, "de_DE") ? "de_DE" : "en_US";
+            if (dp_hasmemb(elem, language)) {
+                datanode_t content = dp_objmemb(elem, language);
                 std::size_t numLines = 0;
                 switch (content.type) {
                 case DATAPROC_T_STRING:
@@ -129,7 +130,7 @@ int Json::FromFile(MessagesConverter &converter) {
                 message.resize(dp_int(dp_objmemb(elem, "garbage")), ' ');
             }
             else {
-                dp_error(&elem, "expected a definition for one of 'garbage' or 'en_US'");
+                dp_error(&elem, "expected a definition for 'garbage', 'en_US', or 'de_DE'");
                 continue;
             }
 

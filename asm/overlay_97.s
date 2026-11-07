@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_97.inc"
 	.include "global.inc"
@@ -1770,6 +1771,9 @@ _0221F32A:
 _0221F424: .word 0x00010200
 	thumb_func_end ov97_0221F294
 
+#ifdef GERMAN
+#include "german_ov97_0221F428.inc"
+#else
 	thumb_func_start ov97_0221F428
 ov97_0221F428: ; 0x0221F428
 	push {r4, r5, r6, lr}
@@ -1913,6 +1917,7 @@ _0221F4FE:
 _0221F564: .word 0x00010200
 _0221F568: .word 0x00070800
 	thumb_func_end ov97_0221F428
+#endif
 
 	thumb_func_start ov97_0221F56C
 ov97_0221F56C: ; 0x0221F56C

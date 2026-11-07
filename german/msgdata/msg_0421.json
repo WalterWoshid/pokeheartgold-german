@@ -1,0 +1,303 @@
+{
+  "key": 40969,
+  "messages": [
+    {
+      "id": "msg_0421_00000",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0421_00001",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0421_00002",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0421_00003",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0421_00004",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0421_00005",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0421_00006",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0421_00007",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0421_00008",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0421_00009",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0421_00010",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0421_00011",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0421_00012",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0421_00013",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0421_00014",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0421_00015",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0421_00016",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0421_00017",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0421_00018",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0421_00019",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0421_00020",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0421_00021",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0421_00022",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0421_00023",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0421_00024",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0421_00025",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0421_00026",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0421_00027",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0421_00028",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0421_00029",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0421_00030",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0421_00031",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0421_00032",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0421_00033",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0421_00034",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0421_00035",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0421_00036",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0421_00037",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0421_00038",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0421_00039",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0421_00040",
+      "de_DE": "{ALN_CENTER}REKORD LÖSCHEN"
+    },
+    {
+      "id": "msg_0421_00041",
+      "de_DE": "{ALN_CENTER}ZURÜCK"
+    },
+    {
+      "id": "msg_0421_00042",
+      "de_DE": "{STRVAR_1 50, 0, 0}."
+    },
+    {
+      "id": "msg_0421_00043",
+      "de_DE": "{STRVAR_1 3, 1, 0}"
+    },
+    {
+      "id": "msg_0421_00044",
+      "de_DE": "{STRVAR_1 53, 0, 0} Sieg(e)"
+    },
+    {
+      "id": "msg_0421_00045",
+      "de_DE": "{STRVAR_1 50, 0, 0} Sieg(e)"
+    },
+    {
+      "id": "msg_0421_00046",
+      "de_DE": "{STRVAR_1 55, 0, 0}"
+    },
+    {
+      "id": "msg_0421_00047",
+      "de_DE": "{STRVAR_1 55, 0, 0}"
+    },
+    {
+      "id": "msg_0421_00048",
+      "de_DE": [
+        "Wähle den zu löschenden Rekord und\n",
+        "drücke den A-Knopf oder den X-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0421_00049",
+      "de_DE": [
+        "Soll der Rekord von {STRVAR_1 3, 0, 0}\n",
+        "wirklich gelöscht werden?"
+      ]
+    },
+    {
+      "id": "msg_0421_00050",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0421_00051",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0421_00052",
+      "de_DE": "Löschen eigener Rekorde nicht möglich."
+    },
+    {
+      "id": "msg_0421_00053",
+      "de_DE": "{ALN_CENTER}Siegesserien-Rekord im"
+    },
+    {
+      "id": "msg_0421_00054",
+      "de_DE": "{ALN_CENTER}Duellturm - Einzelkampf"
+    },
+    {
+      "id": "msg_0421_00055",
+      "de_DE": "{ALN_CENTER}Siegesserien-Rekord im"
+    },
+    {
+      "id": "msg_0421_00056",
+      "de_DE": "{ALN_CENTER}Duellturm - Doppelkampf"
+    },
+    {
+      "id": "msg_0421_00057",
+      "de_DE": "{ALN_CENTER}Siegesserien-Rekord im"
+    },
+    {
+      "id": "msg_0421_00058",
+      "de_DE": "{ALN_CENTER}Duellturm - Multikampf"
+    },
+    {
+      "id": "msg_0421_00059",
+      "de_DE": "{ALN_CENTER}Siegesserien-Rekord im"
+    },
+    {
+      "id": "msg_0421_00060",
+      "de_DE": "{ALN_CENTER}Duellturm - Link-Multikampf"
+    },
+    {
+      "id": "msg_0421_00061",
+      "de_DE": "{ALN_CENTER}Siegesserien-Rekord im"
+    },
+    {
+      "id": "msg_0421_00062",
+      "de_DE": "{ALN_CENTER}Duellturm - Wi-Fi-Kampf"
+    },
+    {
+      "id": "msg_0421_00063",
+      "de_DE": "{ALN_CENTER}Anzahl durchschnittlicher Siege in den"
+    },
+    {
+      "id": "msg_0421_00064",
+      "de_DE": "{ALN_CENTER}Kampfräumen des Duellturms"
+    },
+    {
+      "id": "msg_0421_00065",
+      "de_DE": "{ALN_CENTER}Pokémon-Rekorde"
+    },
+    {
+      "id": "msg_0421_00066",
+      "de_DE": "{ALN_CENTER}Anzahl der besiegten Pokémon"
+    },
+    {
+      "id": "msg_0421_00067",
+      "de_DE": "{ALN_CENTER}Pokémon-Rekorde"
+    },
+    {
+      "id": "msg_0421_00068",
+      "de_DE": "{ALN_CENTER}Zahl d. mit Pokébällen gefangenen PKMN"
+    },
+    {
+      "id": "msg_0421_00069",
+      "de_DE": "{ALN_CENTER}Pokémon-Rekorde"
+    },
+    {
+      "id": "msg_0421_00070",
+      "de_DE": "{ALN_CENTER}Zahl der aus Eiern geschlüpften Pokémon"
+    },
+    {
+      "id": "msg_0421_00071",
+      "de_DE": "{ALN_CENTER}Pokémon-Rekorde"
+    },
+    {
+      "id": "msg_0421_00072",
+      "de_DE": "{ALN_CENTER}Anzahl der geangelten Pokémon"
+    }
+  ]
+}

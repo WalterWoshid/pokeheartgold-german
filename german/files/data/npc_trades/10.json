@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_PIKACHU",
+  "hpIv": 20,
+  "atkIv": 25,
+  "defIv": 18,
+  "speedIv": 31,
+  "spAtkIv": 25,
+  "spDefIv": 13,
+  "ability": 9,
+  "otId": 33038,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 4741238,
+  "heldItem": "ITEM_YELLOW_SHARD",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_ENGLISH",
+  "ask_species": "SPECIES_PIKACHU",
+  "unk_50": 0
+}

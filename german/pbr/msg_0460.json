@@ -1,0 +1,67 @@
+{
+  "key": 61163,
+  "messages": [
+    {
+      "id": "msg_0460_00000",
+      "de_DE": [
+        "Wenn du hier weitergehst, kommst du an\n",
+        "die Route 218. Dort kann man wunderbar\f",
+        "angeln, das weiß nur kaum einer."
+      ]
+    },
+    {
+      "id": "msg_0460_00001",
+      "de_DE": [
+        "Hmm!\n",
+        "Eine Angel ist wirklich gut!\r",
+        "Meinst du nicht auch?"
+      ]
+    },
+    {
+      "id": "msg_0460_00002",
+      "de_DE": [
+        "Ja! Eine sehr gute Antwort!\n",
+        "Das wollte ich hören, Freund!\r",
+        "Und da du ein Freund bist...\n",
+        "Schenke ich dir diese {STRVAR_1 8, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0460_00003",
+      "de_DE": [
+        "Wo immer du Wasser findest, versuche\n",
+        "dein Glück mit Angeln.\r",
+        "Soll ich dir erklären, wie man angelt?"
+      ]
+    },
+    {
+      "id": "msg_0460_00004",
+      "de_DE": [
+        "Ach was?\n",
+        "Magst du keinen Fisch?"
+      ]
+    },
+    {
+      "id": "msg_0460_00005",
+      "de_DE": [
+        "Zunächst mal stellst du dich mit\n",
+        "dem Gesicht zum Wasser, dann\f",
+        "setzt du deine Angel ein.\r",
+        "Nun heißt es, sich zu konzentrieren!\n",
+        "Beißt ein Pokémon an, siehst du ein\f",
+        "“!”.\r",
+        "Dann musst du die Angelschnur einholen!"
+      ]
+    },
+    {
+      "id": "msg_0460_00006",
+      "de_DE": [
+        "Beim Angeln nach Pokémon geht es nur\n",
+        "darum, dass ein Pokémon auch anbeißt.\r",
+        "Wenn das geschehen ist, holst du das\n",
+        "Pokémon an Land und kämpfst mit ihm.\r",
+        "So macht Angeln doppelt Spaß!"
+      ]
+    }
+  ]
+}

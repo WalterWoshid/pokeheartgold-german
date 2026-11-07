@@ -1,0 +1,121 @@
+{
+  "key": 357,
+  "messages": [
+    {
+      "id": "msg_0413_00000",
+      "de_DE": "Übertrage Daten. Bitte warten..."
+    },
+    {
+      "id": "msg_0413_00001",
+      "de_DE": [
+        "{STRVAR_1 8, 0} wurde\n",
+        "hineingegeben!"
+      ]
+    },
+    {
+      "id": "msg_0413_00002",
+      "de_DE": "{STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0413_00003",
+      "de_DE": "Es brennt an! Rühren!"
+    },
+    {
+      "id": "msg_0413_00004",
+      "de_DE": "Kocht über! Langsam!"
+    },
+    {
+      "id": "msg_0413_00005",
+      "de_DE": "Es brennt an! Schnell!"
+    },
+    {
+      "id": "msg_0413_00006",
+      "de_DE": "Etwas langsamer!"
+    },
+    {
+      "id": "msg_0413_00007",
+      "de_DE": "Schnell! Schnell!"
+    },
+    {
+      "id": "msg_0413_00008",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0413_00009",
+      "de_DE": "ERGEBNISSE"
+    },
+    {
+      "id": "msg_0413_00010",
+      "de_DE": "Zeit:"
+    },
+    {
+      "id": "msg_0413_00011",
+      "de_DE": "{STRVAR_1 51, 0}:{STRVAR_1 51, 1}:{STRVAR_1 51, 2}"
+    },
+    {
+      "id": "msg_0413_00012",
+      "de_DE": "Übergekocht:"
+    },
+    {
+      "id": "msg_0413_00013",
+      "de_DE": "{STRVAR_1 53, 0}-mal"
+    },
+    {
+      "id": "msg_0413_00014",
+      "de_DE": "Angebrannt:"
+    },
+    {
+      "id": "msg_0413_00015",
+      "de_DE": "{STRVAR_1 53, 0}-mal"
+    },
+    {
+      "id": "msg_0413_00016",
+      "de_DE": "Knurspe:"
+    },
+    {
+      "id": "msg_0413_00017",
+      "de_DE": "{STRVAR_1 9, 3} Lv. {STRVAR_1 51, 1} x {STRVAR_1 51, 2}"
+    },
+    {
+      "id": "msg_0413_00018",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0413_00019",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0413_00020",
+      "de_DE": [
+        "{STRVAR_1 3, 0} legte\n",
+        "{STRVAR_1 9, 3} in die Box."
+      ]
+    },
+    {
+      "id": "msg_0413_00021",
+      "de_DE": "Möchtest du weitere Knurspe kochen?"
+    },
+    {
+      "id": "msg_0413_00022",
+      "de_DE": [
+        "Jemand will nicht mehr kochen.\n",
+        "Das Kochen wird abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0413_00023",
+      "de_DE": [
+        "Bitte wähle eine Beere aus, die\n",
+        "du kochen willst."
+      ]
+    },
+    {
+      "id": "msg_0413_00024",
+      "de_DE": "Deine Knurspbox ist voll."
+    },
+    {
+      "id": "msg_0413_00025",
+      "de_DE": "Du hast keine Beeren..."
+    }
+  ]
+}

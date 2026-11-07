@@ -1,0 +1,47 @@
+{
+  "key": 62499,
+  "messages": [
+    {
+      "id": "msg_0240_00000",
+      "de_DE": [
+        "Oh, na guck mal!\n",
+        "Du hast einen Pokétch!\r",
+        "Hmm... Du bist noch nicht\n",
+        "sooo lange Trainer, oder?\r",
+        "Aber das ist nicht schlimm! Du bist\n",
+        "schließlich ein Freund der Pokémon!\r",
+        "Und daher schenke ich dir diese\n",
+        "Versteckte Maschine!\r"
+      ]
+    },
+    {
+      "id": "msg_0240_00001",
+      "de_DE": [
+        "Diese Versteckte Maschine,\n",
+        "oder kurz VM, enthält die\f",
+        "Attacke Zertrümmerer.\r",
+        "Ein Pokémon, das diese Attacke\n",
+        "beherrscht, kann kleinere\f",
+        "Felsen zertrümmern.\r",
+        "Aber um diese Attacke anwenden zu\n",
+        "können, benötigt der Trainer den\f",
+        "Orden der Arena von Erzelingen.\r",
+        "Ohne diesen Orden kann ein\n",
+        "Pokémon diese Attacke außerhalb\f",
+        "eines Kampfes nicht anwenden."
+      ]
+    },
+    {
+      "id": "msg_0240_00002",
+      "de_DE": [
+        "Oh! Du meine Güte!\r",
+        "Das ist der Orden der Arena\n",
+        "von Erzelingen!\r",
+        "Sehr gut! Nun kann dein Pokémon\n",
+        "die Attacke Zertrümmerer auch\r",
+        "außerhalb eines Kampfes anwenden\n",
+        "und kleinere Felsen zertrümmern!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "key": 26381,
+  "messages": [
+    {
+      "id": "msg_0268_00000",
+      "de_DE": [
+        "Es wird die Wörter vergessen, die\n",
+        "es im Moment kennt. Einverstanden?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0268_00001",
+      "de_DE": [
+        "Berühre den Weiter-Knopf, dann\n",
+        "sprich in das Mikrofon.\r"
+      ]
+    },
+    {
+      "id": "msg_0268_00002",
+      "de_DE": "{STRVAR_1 1, 0, 0} hat neue Wörter gelernt!\r"
+    },
+    {
+      "id": "msg_0268_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat keine neuen Wörter\n",
+        "gelernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0268_00004",
+      "de_DE": "Möchtest du es noch mal versuchen?{YESNO 0}"
+    },
+    {
+      "id": "msg_0268_00005",
+      "de_DE": [
+        "Es scheint abgelenkt zu sein und\n",
+        "sich nicht konzentrieren zu können..."
+      ]
+    },
+    {
+      "id": "msg_0268_00006",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0268_00007",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0268_00008",
+      "de_DE": "Mikrofon wird vorbereitet..."
+    }
+  ]
+}

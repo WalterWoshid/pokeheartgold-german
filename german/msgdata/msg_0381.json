@@ -1,0 +1,128 @@
+{
+  "key": 20371,
+  "messages": [
+    {
+      "id": "msg_0381_00000",
+      "de_DE": [
+        "Das hier ist ein beliebter Angelplatz.\n",
+        "Sieh dir nur an, wie viele Leute hier\f",
+        "am Angeln sind! Kriegst du da nicht auch\f",
+        "Lust, mal die Angelrute auszuwerfen?\r",
+        "Ich kann dir eine Angel geben, wenn\n",
+        "du magst. Also, wie sieht’s aus? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0381_00001",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0381_00002",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0381_00003",
+      "de_DE": [
+        "Um zu angeln, musst du zuallererst\n",
+        "deine Rute auswerfen.\r",
+        "Ist das geschehen, solltest du deinen\n",
+        "Blick auf das Wasser konzentrieren.\r",
+        "Sobald ein Pokémon anbeißt, wird\n",
+        "dir ein “!”-Symbol angezeigt.\r",
+        "Nun musst du blitzschnell den A-Knopf\n",
+        "drücken und an der Angel ziehen!\r",
+        "Der Rest erklärt sich von selbst.\n",
+        "Probier’s doch einfach mal aus!\r",
+        "Du kannst deine Angel überall dort\n",
+        "zücken, wo es Wasser gibt, wie zum\f",
+        "Beispiel am Meer oder an Flüssen!"
+      ]
+    },
+    {
+      "id": "msg_0381_00004",
+      "de_DE": "Oh, das ist echt schade..."
+    },
+    {
+      "id": "msg_0381_00005",
+      "de_DE": [
+        "Um zu angeln, musst du zuallererst\n",
+        "deine Rute auswerfen.\r",
+        "Ist das geschehen, solltest du deinen\n",
+        "Blick auf das Wasser konzentrieren.\r",
+        "Sobald ein Pokémon anbeißt, wird\n",
+        "dir ein “!”-Symbol angezeigt.\r",
+        "Nun musst du blitzschnell den A-Knopf\n",
+        "drücken und an der Angel ziehen!\r",
+        "Der Rest erklärt sich von selbst.\n",
+        "Probier’s doch einfach mal aus!"
+      ]
+    },
+    {
+      "id": "msg_0381_00006",
+      "de_DE": [
+        "Hm, welches Item sollte ich meinem\n",
+        "Pokémon wohl am besten geben?\r",
+        "Vielleicht eins, das seinen\n",
+        "Angriffs-Wert erhöht?"
+      ]
+    },
+    {
+      "id": "msg_0381_00007",
+      "de_DE": [
+        "Apri olé!\n",
+        "Hallo! Toller Tag heute, was?\f",
+        "Sammelst du Aprikokos? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0381_00008",
+      "de_DE": [
+        "Sehr schön! Sehr schön!\n",
+        "Auch junge Leute wie du können\f",
+        "echte Aprikenner sein, was?\r",
+        "Hör mal, ich bin heute echt gut drauf.\n",
+        "Hier, ich schenke dir etwas!\r"
+      ]
+    },
+    {
+      "id": "msg_0381_00009",
+      "de_DE": [
+        "Was, wirklich nicht? Das macht mich\n",
+        "fast ein bisschen traurig!\r",
+        "Ich möchte dir gerne den Reiz der\n",
+        "Aprikokos etwas näher bringen.\r",
+        "Zuallererst wirst du das hier brauchen.\n",
+        "Los, nimm ruhig!\r"
+      ]
+    },
+    {
+      "id": "msg_0381_00010",
+      "de_DE": [
+        "Das sind Köderbälle!\r",
+        "Mit ihnen wird es dir viel leichter fallen,\n",
+        "Pokémon zu fangen, die an deiner\f",
+        "Angel angebissen haben!\r",
+        "Ach ja, dieser Ball wurde übrigens\n",
+        "mit Aprikokos hergestellt!\r",
+        "Und weil ich so freundlich bin, habe\n",
+        "ich dir gleich zwei Stück gegeben.\f",
+        "Wenn du noch mehr davon möchtest,\f",
+        "solltest du nach Azalea City gehen!\r",
+        "Da gibt es einen Mann namens Kurt,\n",
+        "der aus Aprikokos spezielle Pokébälle\f",
+        "für dich anfertigen kann.\r",
+        "Ach ja, Aprikokos sind schon toll!"
+      ]
+    },
+    {
+      "id": "msg_0381_00011",
+      "de_DE": [
+        "Kurt ist für alle Aprikenner auf dieser\n",
+        "Welt ein großes Vorbild.\r",
+        "Statte ihm unbedingt einen Besuch ab,\n",
+        "wenn du mal nach Azalea City kommst!\f",
+        "Richte ihm aprikoköse Grüße von mir aus!"
+      ]
+    }
+  ]
+}

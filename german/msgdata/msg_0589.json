@@ -1,0 +1,136 @@
+{
+  "key": 25726,
+  "messages": [
+    {
+      "id": "msg_0589_00000",
+      "de_DE": [
+        "Hast du schon von diesem merkwürdigen\n",
+        "Baum auf Route 36 gehört?\r",
+        "Angeblich beginnt er zu tanzen,\n",
+        "wenn man Wasser über ihn schüttet...\r",
+        "Oh nein, schlag dir das aus dem Kopf!\r",
+        "Als Blumenverkäuferin habe ich zwar\n",
+        "Gießkannen auf Lager, aber es wäre\f",
+        "verantwortungslos, dir eine zu leihen.\r",
+        "Es ist einfach zu gefährlich!\r",
+        "Hm, aber sagen wir mal...\n",
+        "Sagen wir mal, du besiegst die Leiterin\f",
+        "der Pokémon-Arena von Dukatia City...\f",
+        "Dann könnte ich meine Meinung ändern!"
+      ]
+    },
+    {
+      "id": "msg_0589_00001",
+      "de_DE": [
+        "Hast du schon von diesem merkwürdigen\n",
+        "Baum auf Route 36 gehört?\r",
+        "Angeblich beginnt er zu tanzen,\n",
+        "wenn man Wasser über ihn schüttet...\r",
+        "Oh, das ist ja der Orden aus der\n",
+        "Pokémon-Arena von Dukatia City!\f",
+        "Heißt das, du hast Bianka besiegt?\r",
+        "Dann brauche ich mir wohl keine\n",
+        "Sorgen um dich zu machen.\r",
+        "Hier, ich leihe... nein, ich schenke dir\n",
+        "diese Schiggykanne!\r"
+      ]
+    },
+    {
+      "id": "msg_0589_00002",
+      "de_DE": [
+        "Dieser merkwürdige Baum soll\n",
+        "sich auf Route 36 befinden.\r",
+        "Sei vorsichtig, hörst du?"
+      ]
+    },
+    {
+      "id": "msg_0589_00003",
+      "de_DE": [
+        "Lalala, lalalala! Hier habt ihr euer\n",
+        "Wasser, meine Hübschen!\r"
+      ]
+    },
+    {
+      "id": "msg_0589_00004",
+      "de_DE": [
+        "Benutzt du eigentlich dein Pflanzset?\r",
+        "Du musst dafür nur auswählen, welche\n",
+        "Beeren du gerne hättest, und sie dann\f",
+        "in die Erde pflanzen!\f",
+        "Und vergiss nicht, sie zu wässern!"
+      ]
+    },
+    {
+      "id": "msg_0589_00005",
+      "de_DE": [
+        "I... ... ...\n",
+        "... ... ...\f",
+        "... ... ...\f",
+        "... ... ...\f",
+        "Ist das süüüüüß!!!\r",
+        "Was ist das bloß für ein Pokémon?\n",
+        "Das ist einfach zu süß!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0589_00006",
+      "de_DE": [
+        "SHAYMIN heißt es also, was?\n",
+        "Es ist wirklich extrem knuddelig!\r",
+        "Weißt du was?\r",
+        "Ich werde diesem süßen Ding eine Blume\n",
+        "schenken, die sehr gut zu ihm passt!\r"
+      ]
+    },
+    {
+      "id": "msg_0589_00007",
+      "de_DE": [
+        "Ich finde, dass diese Gracidea wirklich\n",
+        "sehr gut zu SHAYMIN passt!\f",
+        "Es sollte sie tragen, wenn es hell ist!"
+      ]
+    },
+    {
+      "id": "msg_0589_00008",
+      "de_DE": [
+        "Brauchst du vielleicht etwas Mulch?\n",
+        "Ich seh’s dir doch an! Du willst Mulch!\r",
+        "Deine Beeren wachsen viel besser,\n",
+        "wenn du sie in Mulch einbettest!\r"
+      ]
+    },
+    {
+      "id": "msg_0589_00009",
+      "de_DE": [
+        "{STRVAR_1 8, 0, 0} besteht aus besonders\n",
+        "hochwertiger Erde und dem\f",
+        "Du-weißt-schon-was von Pokémon.\f",
+        "Es ist ein erstklassiger Nährboden!\r",
+        "Damit ist dir eine ausgezeichnete\n",
+        "Beerenernte garantiert!"
+      ]
+    },
+    {
+      "id": "msg_0589_00010",
+      "de_DE": [
+        "Vielen Dank! Ich hoffe, du kaufst\n",
+        "bald mal wieder hier ein!"
+      ]
+    },
+    {
+      "id": "msg_0589_00011",
+      "de_DE": "Du hast {STRVAR_1 8, 0, 0} gekauft.\r"
+    },
+    {
+      "id": "msg_0589_00012",
+      "de_DE": "Oh, du kannst nichts mehr tragen!"
+    },
+    {
+      "id": "msg_0589_00013",
+      "de_DE": [
+        "Ähm... ich sage es ja nur ungern, aber\n",
+        "dein Geld reicht nicht..."
+      ]
+    }
+  ]
+}

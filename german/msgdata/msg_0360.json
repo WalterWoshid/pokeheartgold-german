@@ -1,0 +1,237 @@
+{
+  "key": 20247,
+  "messages": [
+    {
+      "id": "msg_0360_00000",
+      "de_DE": [
+        "Pokémon Liga\n",
+        "Eingang Siegesstraße\n"
+      ]
+    },
+    {
+      "id": "msg_0360_00001",
+      "de_DE": [
+        "CELEBI hat dich scheinbar mit der\n",
+        "Attacke Zeitreise zurück in die\f",
+        "Vergangenheit geschickt!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Die Stärksten! Du hast\n",
+        "zu mir gesagt, wir wären die stärksten\f",
+        "Menschen auf der ganzen Welt!\r",
+        "Und jetzt lässt du das alles fallen?!?\r",
+        "Was soll denn jetzt aus uns werden?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Wo ist denn jetzt bitte\n",
+        "deine “Stärke”?\r",
+        "Du hattest so viele Leute um dich\n",
+        "versammelt, und trotzdem konnte\f",
+        "uns ein einzelnes Kind im\f",
+        "Alleingang besiegen!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Ich verstehe dich nicht!\r",
+        "Ich verstehe kein Wort von dem,\n",
+        "was du mir hier sagen willst, Paps!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Und ich will’s auch nicht!\r",
+        "Ich hoffe, ich werde nie so wie du!\r",
+        "Solange du dich hinter all deinen\n",
+        "Untergebenen verstecken kannst, tönst\f",
+        "du groß herum, aber auf dich alleine\f",
+        "gestellt bist du ein Schwächling!\f",
+        "So jemand will ich nie werden!\r",
+        "Aus mir soll ein starker Mann werden!\r",
+        "Ich werde ganz alleine stark werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00006",
+      "de_DE": "{SIZE 200}GANZ ALLEINE!!!\r"
+    },
+    {
+      "id": "msg_0360_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: ...Was willst du?!?\n",
+        "Starre mich nicht so an!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00008",
+      "de_DE": [
+        "... ... ...\r",
+        "Ohne meine Niederlage zu akzeptieren,\n",
+        "kann ich nicht nach vorne blicken...\r",
+        "Ich werde mich eine Weile in die\n",
+        "Einsamkeit zurückziehen, um dann ein\f",
+        "noch stärkeres Team zu gründen!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00009",
+      "de_DE": [
+        "Durch die vereinten Kräfte\n",
+        "von vielen entsteht eine neue,\f",
+        "noch größere Macht.\f",
+        "So funktioniert ein Team...\f",
+        "Das ist die wahre Stärke eines Teams!\r",
+        "Ich konnte das Potenzial meiner vielen\n",
+        "Untergebenen nicht voll mobilisieren...\r",
+        "Aber irgendwann kommt der Tag, an dem\n",
+        "ich {COLOR 1}Team Rocket{COLOR 0} zum Comeback verhelfe!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00010",
+      "de_DE": [
+        "... ... ...\n",
+        "Irgendwann wirst auch du\f",
+        "das verstehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00011",
+      "de_DE": "Klarin: Wo sind wir?\r"
+    },
+    {
+      "id": "msg_0360_00012",
+      "de_DE": "Lyra: Wo sind wir?\r"
+    },
+    {
+      "id": "msg_0360_00013",
+      "de_DE": [
+        "Klarin: Wo ist der Steineichenwald hin?\r",
+        "...Nein, verschwunden ist er wohl kaum.\n",
+        "Sind wir vielleicht einfach an\f",
+        "einem anderen Ort gelandet?\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00014",
+      "de_DE": [
+        "Lyra: Wo ist der Steineichenwald hin?\r",
+        "...Nein, verschwunden ist er wohl kaum.\n",
+        "Sind wir vielleicht einfach an\f",
+        "einem anderen Ort gelandet?\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00015",
+      "de_DE": [
+        "Wie seltsam, {STRVAR_1 3, 0, 0}!\r",
+        "Im Radio meines Pokécoms sagen sie\n",
+        "ein Datum von vor drei Jahren an.\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00016",
+      "de_DE": [
+        "Das ist echt komisch, {STRVAR_1 3, 0, 0}!\r",
+        "Im Radio meines Pokécoms geben sie\n",
+        "ein Datum von vor drei Jahren durch.\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00017",
+      "de_DE": [
+        "Ist... dieses Pokémon da etwa...\n",
+        "CELEBI?\r",
+        "Jetzt macht alles Sinn!\n",
+        "CELEBI ist hierfür verantwortlich!\r",
+        "Es ist, wie mein Großvater sagte!\n",
+        "CELEBI setzt eine mysteriöse Macht\f",
+        "namens {COLOR 1}Zeitreise{COLOR 0} ein, um die Zeit\f",
+        "vor- oder zurückzudrehen!\r",
+        "CELEBI hat uns bestimmt mit sich\n",
+        "in die Vergangenheit gezerrt!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00018",
+      "de_DE": [
+        "Ist... dieses Pokémon da etwa...\n",
+        "CELEBI?\r",
+        "Jetzt macht alles Sinn!\n",
+        "CELEBI ist hierfür verantwortlich!\r",
+        "Es ist, wie mein Großvater sagte!\n",
+        "CELEBI setzt eine mysteriöse Macht\f",
+        "namens {COLOR 1}Zeitreise{COLOR 0} ein, um die Zeit\f",
+        "vor- oder zurückzudrehen!\r",
+        "CELEBI hat uns bestimmt mit sich\n",
+        "in die Vergangenheit gezerrt!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00019",
+      "de_DE": [
+        "Da ist jemand, {STRVAR_1 3, 0, 0}!\n",
+        "Komm, gehen wir mal hin!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00020",
+      "de_DE": [
+        "Da ist jemand, {STRVAR_1 3, 0, 0}!\n",
+        "Komm, gehen wir mal hin!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00021",
+      "de_DE": [
+        "Klarin: Was hat der denn für ein\n",
+        "Problem? So ein Fiesling!\r",
+        "Aber worüber haben die beiden geredet?\n",
+        "Was hat das alles zu bedeuten?\r",
+        "“Team Rocket” zum Comeback verhelfen?\r",
+        "Hm, es ist wahr, dass {COLOR 1}Team Rocket{COLOR 0} vor\n",
+        "drei Jahren von einem Jungen aus Kanto\f",
+        "in die Knie gezwungen wurde...\r",
+        "Dann sind wir also tatsächlich drei\n",
+        "Jahre in der Vergangenheit gelandet!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00022",
+      "de_DE": [
+        "Lyra: Was hat der denn für ein Problem?\n",
+        "So ein Fiesling!\r",
+        "Aber worüber haben die beiden geredet?\n",
+        "Was hat das alles zu bedeuten?\r",
+        "“Team Rocket” zum Comeback verhelfen?\r",
+        "Hm, es ist wahr, dass {COLOR 1}Team Rocket{COLOR 0} vor\n",
+        "drei Jahren von einem Jungen aus Kanto\f",
+        "in die Knie gezwungen wurde...\r",
+        "Dann sind wir also tatsächlich drei\n",
+        "Jahre in der Vergangenheit gelandet!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00023",
+      "de_DE": [
+        "Huah! Das ist genau wie vorhin!\r",
+        "CELEBI setzt {COLOR 1}Zeitreise{COLOR 0} ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0360_00024",
+      "de_DE": [
+        "Huah! Das ist genau wie vorhin!\r",
+        "CELEBI setzt {COLOR 1}Zeitreise{COLOR 0} ein!\r"
+      ]
+    }
+  ]
+}

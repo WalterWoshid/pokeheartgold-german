@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_STEELIX",
+  "hpIv": 8,
+  "atkIv": 30,
+  "defIv": 28,
+  "speedIv": 6,
+  "spAtkIv": 18,
+  "spDefIv": 20,
+  "ability": 69,
+  "otId": 26491,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 1054102,
+  "heldItem": "ITEM_SOOTHE_BELL",
+  "gender": 1,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_STEELIX",
+  "unk_50": 0
+}

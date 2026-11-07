@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_VOLTORB",
+  "hpIv": 15,
+  "atkIv": 20,
+  "defIv": 15,
+  "speedIv": 25,
+  "spAtkIv": 25,
+  "spDefIv": 15,
+  "ability": 9,
+  "otId": 29189,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 475,
+  "heldItem": "ITEM_CHERI_BERRY",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_KRABBY",
+  "unk_50": 0
+}

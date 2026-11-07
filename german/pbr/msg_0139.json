@@ -1,0 +1,203 @@
+{
+  "key": 9219,
+  "messages": [
+    {
+      "id": "msg_0139_00000",
+      "de_DE": "Willkommen in der Spielhalle.\r"
+    },
+    {
+      "id": "msg_0139_00001",
+      "de_DE": [
+        "Okay, du möchtest Münzen für die\n",
+        "Spiele haben?\r",
+        "Aber du hast keinen Münzkorb für die\n",
+        "Münzen."
+      ]
+    },
+    {
+      "id": "msg_0139_00002",
+      "de_DE": [
+        "Brauchst du Münzen?\r",
+        "Das macht 1000 $ für 50 Münzen.\n",
+        "Möchtest du welche haben?"
+      ]
+    },
+    {
+      "id": "msg_0139_00003",
+      "de_DE": [
+        "Vielen Dank!\n",
+        "Hier sind deine Münzen!"
+      ]
+    },
+    {
+      "id": "msg_0139_00004",
+      "de_DE": [
+        "Ähm... Es scheint, du hast nicht\n",
+        "genügend Geld dabei..."
+      ]
+    },
+    {
+      "id": "msg_0139_00005",
+      "de_DE": [
+        "Oh?\n",
+        "Dein Münzkorb ist voll."
+      ]
+    },
+    {
+      "id": "msg_0139_00006",
+      "de_DE": [
+        "Oh... Dann brauchst du keine Münzen?\n",
+        "Viel Glück bei deinem Abenteuer!"
+      ]
+    },
+    {
+      "id": "msg_0139_00007",
+      "de_DE": [
+        "Zehn Bonusrunden hintereinander!\n",
+        "Das ist ja der Wahnsinn!\r",
+        "Da hast du wohl eine Glückssträhne\n",
+        "par excellence!\r",
+        "Nimm diese TM als Gratulation und\n",
+        "Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00008",
+      "de_DE": "Spiel ruhig weiter. Viel Glück."
+    },
+    {
+      "id": "msg_0139_00009",
+      "de_DE": [
+        "Oh, dein Beutel ist voll...\n",
+        "Wir werden die TM noch etwas behalten."
+      ]
+    },
+    {
+      "id": "msg_0139_00010",
+      "de_DE": "Du kannst ohne Münzkorb nicht spielen."
+    },
+    {
+      "id": "msg_0139_00011",
+      "de_DE": [
+        "Ich erkläre dir, wie die Einarmigen\n",
+        "Banditen in der Spielhalle funktionieren.\r",
+        "Während des regulären Spiels stoppst\n",
+        "du die Rollen von links.\r",
+        "In der Bonusrunde schaust du, wohin\n",
+        "PIEPI zeigt, und stoppst die Rollen\f",
+        "in der entsprechenden Reihenfolge."
+      ]
+    },
+    {
+      "id": "msg_0139_00012",
+      "de_DE": [
+        "Hey, wenn du hier spielen willst,\n",
+        "brauchst du einen Münzkorb.\r",
+        "Ich glaube, der junge Mann nebenan\n",
+        "hatte noch einen übrig."
+      ]
+    },
+    {
+      "id": "msg_0139_00013",
+      "de_DE": [
+        "Ich habe heute eine Glückssträhne.\n",
+        "Und ich teile mein Glück mit dir. Hier...\r",
+        "{STRVAR_1 3, 0} erhält 20 Münzen.\r",
+        "{STRVAR_1 3, 0} legt die Münzen in den\n",
+        "Münzkorb."
+      ]
+    },
+    {
+      "id": "msg_0139_00014",
+      "de_DE": [
+        "Hör zu. Wenn PIEPI erscheint, musst\n",
+        "du die Siebener in eine Linie bringen.\r",
+        "Das öffnet dir die Tür zur Bonusrunde!"
+      ]
+    },
+    {
+      "id": "msg_0139_00015",
+      "de_DE": [
+        "Juhuu! PIEPI! Schau nur!\n",
+        "Ich drehe hier noch völlig durch!\r",
+        "Ach, wenn du nur einen Münzkorb\n",
+        "hättest. Dann wüsstest du, wie toll\f",
+        "das ist."
+      ]
+    },
+    {
+      "id": "msg_0139_00016",
+      "de_DE": [
+        "Juhuu! PIEPI! Schau nur!\n",
+        "Jawoll! Was für ein Fest!\r",
+        "Komm, lass mich dir einen Teil\n",
+        "meiner Freude schenken!\r",
+        "{STRVAR_1 3, 0} erhält 50 Münzen.\r",
+        "{STRVAR_1 3, 0} legt die Münzen in den\n",
+        "Münzkorb."
+      ]
+    },
+    {
+      "id": "msg_0139_00017",
+      "de_DE": [
+        "Juhuu! PIEPI! Wie wunderbar!\n",
+        "Allein der Anblick macht mich wild!\r",
+        "Oh, lass mich dir einen Rat geben!\r",
+        "Wenn der Mond rot ist, versuche nicht,\n",
+        "ein Replay zu erhalten, denn dann wird\f",
+        "PIEPI müde!"
+      ]
+    },
+    {
+      "id": "msg_0139_00018",
+      "de_DE": [
+        "Ich will natürlich Münzen, klar, aber\n",
+        "Rekorde zu brechen ist auch toll!"
+      ]
+    },
+    {
+      "id": "msg_0139_00019",
+      "de_DE": [
+        "Wenn ein Pokéball erscheint, hast du die\n",
+        "Chance, die Zeichen aufzureihen.\r",
+        "Replays und PIKACHU erscheinen quasi\n",
+        "automatisch.\r",
+        "Aber auf bessere Zeichen, wie Pokébälle\n",
+        "und Mondsteine, musst du gezielt\f",
+        "hinarbeiten."
+      ]
+    },
+    {
+      "id": "msg_0139_00020",
+      "de_DE": [
+        "Ein Freund aus meiner Gruppe hat hier\n",
+        "tonnenweise Münzen gewonnen.\r",
+        "Den werde ich herausfordern!"
+      ]
+    },
+    {
+      "id": "msg_0139_00021",
+      "de_DE": [
+        "Seufz...\n",
+        "Heute klappt auch gar nichts...\r",
+        "Bist du ein Trainer?\n",
+        "Hast du die Arenaleiterin besiegt?\r",
+        "Sie ist nämlich meine Tochter.\n",
+        "Und ganz schön stark!"
+      ]
+    },
+    {
+      "id": "msg_0139_00022",
+      "de_DE": [
+        "Gewinne hoch 10!\n",
+        "Erwische die Bonusrunden!\r",
+        "Wenn du 10 Bonusrunden hintereinander\n",
+        "schaffst, gehe zum Schalter.\r",
+        "Dort erhältst du dann einen\n",
+        "wunderbaren Preis!\r",
+        "Der Rekord liegt momentan bei {STRVAR_1 52, 0}\n",
+        "ununterbrochenen Bonusrunden!"
+      ]
+    }
+  ]
+}

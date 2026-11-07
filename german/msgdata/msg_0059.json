@@ -1,0 +1,86 @@
+{
+  "key": 19490,
+  "messages": [
+    {
+      "id": "msg_0059_00000",
+      "de_DE": [
+        "Jens: Das Legendäre Pokémon\n",
+        "hat mich nicht auserwählt...\r",
+        "Aber deshalb muss ich ja nicht\n",
+        "sofort das Handtuch werfen.\r",
+        "Ich trainiere einfach weiter, bis\n",
+        "sich ein neues Ziel vor mir auftut.\r",
+        "Was sagst du? Wollen wir nicht ab\n",
+        "und zu gemeinsam trainieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0059_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Jens’ Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0059_00002",
+      "de_DE": [
+        "Jens: Ruf mich \n",
+        "dienstagabends an.\f",
+        "Ich bin immer für einen Kampf zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0059_00003",
+      "de_DE": [
+        "Jens: Verstehe...\n",
+        "Das ist natürlich schade..."
+      ]
+    },
+    {
+      "id": "msg_0059_00004",
+      "de_DE": [
+        "Jens: Hast du Lust, mit \n",
+        "mir zu trainieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0059_00005",
+      "de_DE": [
+        "Jens: He, da bist du ja wieder!\r",
+        "Was meinst du? Wollen wir\n",
+        "ein Erinnerungsfoto schießen?\f",
+        "Was hältst du davon? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0059_00006",
+      "de_DE": [
+        "Jens: Prima! Dann mal los!\n",
+        "Stell dich hier neben mich.\r"
+      ]
+    },
+    {
+      "id": "msg_0059_00007",
+      "de_DE": [
+        "Jens: Sehr schön! Ein ziemlich\n",
+        "gutes Foto, wenn ich das so sagen darf."
+      ]
+    },
+    {
+      "id": "msg_0059_00008",
+      "de_DE": [
+        "Jens: Verstehe schon... du hast\n",
+        "bestimmt auch viel um die Ohren."
+      ]
+    },
+    {
+      "id": "msg_0059_00009",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

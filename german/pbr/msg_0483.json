@@ -1,0 +1,41 @@
+{
+  "key": 46504,
+  "messages": [
+    {
+      "id": "msg_0483_00000",
+      "de_DE": "{COLOR 1}{STRVAR_1 4, 0}{COLOR 0}"
+    },
+    {
+      "id": "msg_0483_00001",
+      "de_DE": "SPIELER:"
+    },
+    {
+      "id": "msg_0483_00002",
+      "de_DE": "ORDEN:"
+    },
+    {
+      "id": "msg_0483_00003",
+      "de_DE": "POKéDEX:"
+    },
+    {
+      "id": "msg_0483_00004",
+      "de_DE": "SPIELZEIT:"
+    },
+    {
+      "id": "msg_0483_00005",
+      "de_DE": "{STRVAR_1 3, 1}"
+    },
+    {
+      "id": "msg_0483_00006",
+      "de_DE": "{STRVAR_1 50, 2}"
+    },
+    {
+      "id": "msg_0483_00007",
+      "de_DE": "{STRVAR_1 52, 3}"
+    },
+    {
+      "id": "msg_0483_00008",
+      "de_DE": "{STRVAR_1 52, 4}:{STRVAR_1 51, 5}"
+    }
+  ]
+}

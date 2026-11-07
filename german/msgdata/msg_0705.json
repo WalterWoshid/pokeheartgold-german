@@ -1,0 +1,120 @@
+{
+  "key": 6309,
+  "messages": [
+    {
+      "id": "msg_0705_00000",
+      "de_DE": "Maik"
+    },
+    {
+      "id": "msg_0705_00001",
+      "de_DE": [
+        "Oh, du bist stark. So einen harten\n",
+        "Kampf hatte ich lange nicht mehr.\r",
+        "Gibst du mir deine Telefonnummer?\r",
+        "Ich fordere dich erneut heraus,\n",
+        "wenn meine Pokémon wieder fit sind. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0705_00002",
+      "de_DE": [
+        "Wie nur? Wie kann ich dich besiegen?\n",
+        "Der Gedanke lässt mich nicht mehr los!"
+      ]
+    },
+    {
+      "id": "msg_0705_00003",
+      "de_DE": [
+        "Aha... ich verstehe...\n",
+        "Aber gib mir Bescheid,\f",
+        "falls du deine Meinung änderst.\n"
+      ]
+    },
+    {
+      "id": "msg_0705_00004",
+      "de_DE": [
+        "Gibst du mir deine Telefonnummer?\r",
+        "Ich fordere dich erneut heraus,\n",
+        "wenn meine Pokémon stärker sind. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0705_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0705_00006",
+      "de_DE": [
+        "He? Du hörst dich an, als ob...\n",
+        "Du stehst ganz in der Nähe, oder?\f",
+        "Lass uns lieber direkt reden."
+      ]
+    },
+    {
+      "id": "msg_0705_00007",
+      "de_DE": [
+        "Ich glaube, mein {STRVAR_1 0, 10, 0} ist\n",
+        "stärker, als ich dachte.\r",
+        "Ich bezweifle, dass ich jemals ein\n",
+        "{STRVAR_1 0, 10, 0} sehe, das besser als\f",
+        "meins ist."
+      ]
+    },
+    {
+      "id": "msg_0705_00008",
+      "de_DE": [
+        "Vor geraumer Zeit habe ich versucht,\n",
+        "ein wildes {STRVAR_1 0, 11, 0} zu fangen...\f",
+        "Aber es ist mir entkommen.\r",
+        "Eine einzige falsche Entscheidung kann\n",
+        "über Sieg oder Niederlage entscheiden.\f",
+        "Auch du solltest vorsichtig sein!"
+      ]
+    },
+    {
+      "id": "msg_0705_00009",
+      "de_DE": [
+        "Oh, ich habe vor Kurzem knapp gegen\n",
+        "ein {STRVAR_1 0, 11, 0} gewonnen.\r",
+        "Ich habe noch nie ein so starkes\n",
+        "{STRVAR_1 0, 11, 0} gesehen...\r",
+        "Du solltest dich nicht in Sicherheit\n",
+        "wähnen, nur weil du ein Pokémon\f",
+        "schon öfter gesehen hast."
+      ]
+    },
+    {
+      "id": "msg_0705_00010",
+      "de_DE": [
+        "Auf in den Kampf!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\r",
+        "Sprich mich an, wenn du in der Nähe bist."
+      ]
+    },
+    {
+      "id": "msg_0705_00011",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, wo bleibst du?\r",
+        "{STRVAR_1 4, 3, 0}! An diesem Ort\n",
+        "mache ich dich fertig!"
+      ]
+    },
+    {
+      "id": "msg_0705_00012",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, wo bleibst du?\r",
+        "{STRVAR_1 4, 3, 0}! An diesem Ort\n",
+        "mache ich dich fertig!"
+      ]
+    },
+    {
+      "id": "msg_0705_00013",
+      "de_DE": [
+        "Deine Stärke hat bei mir einen\n",
+        "unvergesslichen Eindruck hinterlassen.\r",
+        "Tagtäglich kann ich an nichts anderes\n",
+        "denken, als daran, dich zu besiegen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "key": 9359,
+  "messages": [
+    {
+      "id": "msg_0139_00000",
+      "de_DE": [
+        "Einen schööönen guten Tag,\n",
+        "junge Pokéathlon-Hoffnung!\r",
+        "... ... ...\r",
+        "Na los, ein bisschen mehr Elan bitte!\n",
+        "Also noch mal! Einen schönen guten Tag!\r",
+        "So ist’s brav!\r",
+        "Mein Name ist Pollux!\n",
+        "Ich bin ein Pokéathlon-Fachmann.\f",
+        "Nett, dich kennenzulernen!\r",
+        "Wenn du bei etwas Hilfe brauchst, biete\n",
+        "ich dir meinen fachmännischen Rat an!\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00001",
+      "de_DE": [
+        "Pollux: Einen schööönen guten Tag!\r",
+        "Ich kann dir meinen fachmännischen\n",
+        "Rat zu allem anbieten, was mit dem\f",
+        "Pokéathlon zu tun hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00002",
+      "de_DE": "Gibt’s etwas, das du wissen willst? {YESNO 0}"
+    },
+    {
+      "id": "msg_0139_00003",
+      "de_DE": [
+        "Über welches Turnier möchtest du\n",
+        "etwas wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0139_00004",
+      "de_DE": [
+        "Und zu welcher Disziplin benötigst\n",
+        "du meinen Rat? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0139_00005",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was über den Pokéathlon!\r",
+        "Der Pokéathlon ist ein unmittelbarer\n",
+        "Ausdruck der Freundschaft zwischen\f",
+        "Pokémon und Menschen!\r",
+        "...Was sagst du da?\n",
+        "Diese Erklärung ist dir zu allgemein?\f",
+        "Also gut, dann gehe ich eben ins Detail.\r",
+        "Du schließt dich mit drei deiner Pokémon\n",
+        "zu einem Team zusammen. In der Gruppe\f",
+        "nehmt ihr dann an zehn Disziplinen teil.\r",
+        "Zusammen müsst ihr euch gegen die\n",
+        "verschiedensten Hindernisse bewähren\f",
+        "und auf diese Weise eure Freundschaft\f",
+        "auf den Prüfstand stellen.\r",
+        "Da hast du’s also! Der Pokéathlon ist\n",
+        "ein unmittelbarer Ausdruck der\f",
+        "Freundschaft zwischen\f",
+        "Pokémon und Menschen!\r",
+        "Hast du jetzt alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00006",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Hürdenlauf!\r",
+        "Der Hürdenlauf ist eine Disziplin, bei der\n",
+        "die Schnelligkeit deiner Pokémon\f",
+        "auf die Probe gestellt wird.\r",
+        "Nähern sich deine Pokémon einer Hürde,\n",
+        "musst du sie zum Springen bringen.\r",
+        "Wenn du den richtigen Moment abpasst,\n",
+        "werden sie über die Hürde springen.\r",
+        "Die Gesamtzeit deiner drei Pokémon\n",
+        "entscheidet über deine Punktzahl.\r",
+        "Diese Disziplin ist also wie für mein\n",
+        "flottes Pokémon-Team geschaffen!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00007",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Flaggenschnappen!\r",
+        "Flaggenschnappen ist eine Disziplin, bei\n",
+        "der du auf einer Strandfläche möglichst\f",
+        "viele Flaggen einsammeln musst.\r",
+        "Aber es reicht noch längst nicht, die\n",
+        "Flaggen einfach nur einzusammeln!\r",
+        "Punkte erhältst du erst dann für sie,\n",
+        "wenn du sie über das Ziel trägst.\r",
+        "Diese Disziplin ist also wie für mein\n",
+        "schnelles und technisch begabtes\f",
+        "Pokémon-Team geschaffen!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00008",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Drängelkreis!\r",
+        "Der Drängelkreis ist eine Disziplin, bei\n",
+        "der sich die Kontrahenten gegenseitig\f",
+        "durch die Gegend schubsen.\r",
+        "Wenn du es schaffst, innerhalb der\n",
+        "markierten Kreise des Rings zu bleiben,\f",
+        "erhältst du dafür Punkte.\r",
+        "Deine Gesamtpunktzahl setzt sich aus\n",
+        "den Punkten zusammen, die deine drei\f",
+        "Pokémon insgesamt erzielen.\r",
+        "Diese Disziplin ist also wie für mein\n",
+        "starkes und widerstandsfähiges\f",
+        "Pokémon-Team geschaffen!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00009",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Ziegelbrechen!\r",
+        "Wie der Name schon sagt, geht es bei\n",
+        "dieser Disziplin darum, so viele Ziegel\f",
+        "wie möglich zu zerbrechen.\r",
+        "Deine Gesamtpunktzahl errechnet sich\n",
+        "direkt aus der Anzahl an Ziegeln, die du\f",
+        "entzweigeteilt hast. Ganz einfach also!\r",
+        "Diese Disziplin ist also wie für mein\n",
+        "mächtiges Pokémon-Team geschaffen!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00010",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Diskusfangen!\r",
+        "Beim Diskusfangen geht es darum, die\n",
+        "Disken, die auf dich zugeflogen kommen,\f",
+        "im Sprung abzufangen.\r",
+        "Je früher deine Pokémon die Scheiben\n",
+        "fangen, desto mehr Punkte erhältst du\f",
+        "zum Schluss auch für sie.\r",
+        "Die Gesamtpunktzahl errechnet sich aus\n",
+        "der Anzahl der Disken, die du fängst.\r",
+        "Diese Disziplin ist also wie geschaffen\n",
+        "für mein springfideles und mächtiges\f",
+        "Pokémon-Team!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00011",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Lampionspringen!\r",
+        "Das Lampionspringen ist eine Disziplin,\n",
+        "bei der dein Team von einem elastischen\f",
+        "Sprungfeld abspringt und versuchen\f",
+        "muss, dabei so viele der brennenden\f",
+        "Lampions wie möglich zu berühren.\r",
+        "Für jeden berührten Lampion erhältst\n",
+        "du Punkte, aus denen sich später auch\f",
+        "deine Gesamtpunktzahl errechnet.\r",
+        "Diese Disziplin ist also wie geschaffen\n",
+        "für mein springfideles Pokémon-Team!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00012",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Staffellauf!\r",
+        "Beim Staffellauf wird getestet, wie weit\n",
+        "dein Team innerhalb von 90 Sekunden\f",
+        "laufen kann. Du kannst das Pokémon,\f",
+        "das für dich an den Start geht, während\f",
+        "des Laufs mit einem anderen aus deinem\f",
+        "Dreierteam ablösen.\r",
+        "Deine Gesamtpunktzahl errechnet sich\n",
+        "aus der Strecke, die du zurücklegst.\r",
+        "Diese Disziplin ist also wie geschaffen\n",
+        "für mein durchtrainiertes Team!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00013",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Ringrangeln!\r",
+        "Bei dieser Disziplin muss dein Team\n",
+        "versuchen, die gegnerischen Pokémon\f",
+        "aus dem Ring zu stoßen.\r",
+        "Für jeden erfolgreichen Schubser\n",
+        "erhältst du einen Punkt. Landest du\f",
+        "nach einem Sprung auf einem Gegner,\f",
+        "erhältst du dafür zwei Punkte.\r",
+        "Schubst du einen Gegner vom Feld,\n",
+        "erhältst du dafür zehn Bonuspunkte.\r",
+        "Diese Disziplin ist also wie geschaffen\n",
+        "für mein durchtrainiertes Team!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00014",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zur Schneeschlacht!\r",
+        "Der Name sagt eigentlich schon alles.\n",
+        "In dieser Disziplin nimmt dein Team an\f",
+        "einer Schneeballschlacht teil!\r",
+        "Deine Gesamtpunktzahl errechnet sich\n",
+        "aus der Anzahl der Schneebälle, die\f",
+        "dein Team erfolgreich versenken kann.\r",
+        "Diese Disziplin ist also wie geschaffen\n",
+        "für mein starkes und technisch\f",
+        "begabtes Pokémon-Team!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00015",
+      "de_DE": [
+        "In Ordnung, dann erkläre ich dir jetzt\n",
+        "ein bisschen was zum Torschießen!\r",
+        "Bei dieser Disziplin gilt es, die Bälle\n",
+        "in das gegnerische Tor zu bugsieren.\r",
+        "Jeder Ball, den du in ein gegnerisches\n",
+        "Tor schießt, bringt dir einen Punkt ein.\f",
+        "Für einen goldenen Ball gibt es zwei.\r",
+        "Die Anzahl der Tore, die dein Team\n",
+        "schießt, entscheidet, auf welchem Platz\f",
+        "es schließlich landet, und damit auch,\f",
+        "welche Gesamtpunktzahl du erhältst.\r",
+        "Diese Disziplin ist also wie geschaffen\n",
+        "für mein starkes und technisch\f",
+        "begabtes Pokémon-Team!\r",
+        "Hast du alles verstanden?\n",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00016",
+      "de_DE": [
+        "Schön, junge Pokéathlon-Hoffnung!\r",
+        "Und noch etwas: Vor dem Sport das\n",
+        "Aufwärmtraining nicht vergessen!"
+      ]
+    },
+    {
+      "id": "msg_0139_00017",
+      "de_DE": [
+        "Was, ich? Meinst du wirklich mich?\n",
+        "Du willst etwas über mich wissen?\r",
+        "Hahaha, nein, das braucht dir doch\n",
+        "nicht peinlich zu sein!\r",
+        "Also gut! Ich habe...\n",
+        "... ... ...\f",
+        "... ... ...\f",
+        "...einen Zwillingsbruder!\r",
+        "Ich bin der Jüngere von uns beiden.\n",
+        "Ich habe also einen großen Bruder!\r",
+        "Ähm, also... verstehst du, was ich\n",
+        "dir sagen möchte?\f",
+        "Gut! Was soll ich sonst noch erklären?\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00018",
+      "de_DE": "RATTFRATZ: Ratt..."
+    },
+    {
+      "id": "msg_0139_00019",
+      "de_DE": "RATTFRATZ: Fratz..."
+    },
+    {
+      "id": "msg_0139_00020",
+      "de_DE": "MACHOLLO: Machollo..."
+    },
+    {
+      "id": "msg_0139_00021",
+      "de_DE": "MACHOLLO: Machollo!"
+    },
+    {
+      "id": "msg_0139_00022",
+      "de_DE": "SMETTBO: Smett, smett, smett..."
+    },
+    {
+      "id": "msg_0139_00023",
+      "de_DE": "SMETTBO: Smettbo, Smettbo..."
+    },
+    {
+      "id": "msg_0139_00024",
+      "de_DE": [
+        "Dein Sieg beim Pokéathlon hängt\n",
+        "völlig von deiner Endpunktzahl ab.\r",
+        "Das Blatt kann sich bis zuletzt noch\n",
+        "wenden! Werde also nicht nachlässig!"
+      ]
+    },
+    {
+      "id": "msg_0139_00025",
+      "de_DE": [
+        "So einen anmutigen Poké-Athleten wie\n",
+        "{STRVAR_1 3, 0, 0} sieht man nicht oft. Diese\f",
+        "Grazie ist hypnotisierend!\r",
+        "... ... ...\n",
+        "Was? Bist du es wirklich?!?"
+      ]
+    },
+    {
+      "id": "msg_0139_00026",
+      "de_DE": [
+        "Vor dem Wettkampf einen Aprikodrink!\r",
+        "Diese Dinger kitzeln aus jedem Pokémon\n",
+        "das Maximum an Leistung heraus!"
+      ]
+    },
+    {
+      "id": "msg_0139_00027",
+      "de_DE": [
+        "Vor dem Wettkampf einen Aprikodrink!\r",
+        "{STRVAR_1 3, 0, 0}, welchen Drink verwendest\n",
+        "du eigentlich?\r",
+        "Wenn ich den im Aprikodrink-Laden finde,\n",
+        "kaufe ich ihn auf der Stelle!\f",
+        "Ich bin eben ein Fan von dir!"
+      ]
+    },
+    {
+      "id": "msg_0139_00028",
+      "de_DE": [
+        "M-mein Ziel ist es, alle Turniere\n",
+        "mit KARPADOR zu gewinnen!"
+      ]
+    },
+    {
+      "id": "msg_0139_00029",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}!\r",
+        "I-ich will alle Turniere nur mit\n",
+        "KARPADOR gewinnen.\r",
+        "Wie...\r",
+        "Wie geht das? Wie kann man alle Turniere\n",
+        "nur mit KARPADOR gewinnen?"
+      ]
+    },
+    {
+      "id": "msg_0139_00030",
+      "de_DE": [
+        "Ich stelle beim Hürdenlauf einen neuen\n",
+        "Rekord auf! Du wirst schon sehen!\r",
+        "Hm... welches Pokémon ist dafür wohl\n",
+        "am besten geeignet?"
+      ]
+    },
+    {
+      "id": "msg_0139_00031",
+      "de_DE": [
+        "Huch! Du bist {STRVAR_1 3, 0, 0}, stimmt’s?\n",
+        "Jetzt bin ich vielleicht erschrocken!\r",
+        "Ich habe echt keinen blassen Schimmer,\n",
+        "welches Pokémon ich einsetzen müsste,\f",
+        "um gegen dich anzukommen.\f",
+        "Du bist einfach der größte Poké-Athlet!"
+      ]
+    },
+    {
+      "id": "msg_0139_00032",
+      "de_DE": [
+        "Huch! Sieh nur mal, da drüben!\n",
+        "Das ist Faustus, der Besitzer\f",
+        "des Pokéathlon!\r",
+        "Ob es wohl wahr ist, dass er vor langer\n",
+        "Zeit einmal im Armdrücken gegen ein\f",
+        "MACHOMEI gewonnen hat?"
+      ]
+    },
+    {
+      "id": "msg_0139_00033",
+      "de_DE": [
+        "Huch! Du bist doch {STRVAR_1 3, 0, 0}!\r",
+        "Ich bin ein riesiger Fan von dir!\n",
+        "Das reißt mich jetzt echt vom Hocker!\f",
+        "Oje, was soll ich bloß tun?\f",
+        "Bitte gib mir ein Autogramm!"
+      ]
+    },
+    {
+      "id": "msg_0139_00034",
+      "de_DE": "Oooh!"
+    },
+    {
+      "id": "msg_0139_00035",
+      "de_DE": [
+        "Oooh! Du bist ja {STRVAR_1 3, 0, 0}!\r",
+        "Wenn ich dir so ins Gesicht sehe,\n",
+        "fühle ich mich gleich viel jünger!\f",
+        "Ab jetzt bin ich dein Fan!"
+      ]
+    },
+    {
+      "id": "msg_0139_00036",
+      "de_DE": "Kreeeiiisch!"
+    },
+    {
+      "id": "msg_0139_00037",
+      "de_DE": [
+        "Sag, dass das nicht wahr ist!\n",
+        "Du bist doch {STRVAR_1 3, 0, 0}, oder?\r",
+        "So aus der Nähe siehst du genau\n",
+        "wie mein Sohn aus!\f",
+        "Wir stehen alle direkt hinter dir!"
+      ]
+    },
+    {
+      "id": "msg_0139_00038",
+      "de_DE": [
+        "Sag, dass das nicht wahr ist!\n",
+        "Du bist doch {STRVAR_1 3, 0, 0}, oder?\r",
+        "So aus der Nähe siehst du genau\n",
+        "wie meine Tochter aus!\f",
+        "Wir stehen alle direkt hinter dir!"
+      ]
+    },
+    {
+      "id": "msg_0139_00039",
+      "de_DE": [
+        "Mein Freund ist ein Poké-Athlet!\r",
+        "Aber mein Schatz ist eher der\n",
+        "scheue Typ, weißt du...\r",
+        "Deshalb feuere ich ihn hier aus\n",
+        "dem Schutz dieser Säule an,\f",
+        "damit er mich nicht sieht!"
+      ]
+    },
+    {
+      "id": "msg_0139_00040",
+      "de_DE": [
+        "Findest du es nicht auch cool, wie mein\n",
+        "Schatz mit seinen Pokémon all diese\f",
+        "schweißtreibenden Sachen macht?\r",
+        "Ach ja... aber ganz so toll wie du ist er\n",
+        "dann auch wieder nicht, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0139_00041",
+      "de_DE": [
+        "Der Pokéathlon wirkt\n",
+        "Wunder gegen Stress!\f",
+        "Das ist eine echt tolle Sache!"
+      ]
+    },
+    {
+      "id": "msg_0139_00042",
+      "de_DE": [
+        "Das ist nicht wahr!\n",
+        "Wenn es deine Mutter packt, dann\f",
+        "kann sie einfach nichts aufhalten!\r",
+        "Du solltest sie mal im Einkaufszentrum\n",
+        "sehen, wenn Schlussverkauf ist...\r",
+        "...Allein beim Gedanken daran läuft\n",
+        "es mir eiskalt den Rücken herunter!\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00043",
+      "de_DE": [
+        "Einfach jeder Vater möchte gerne das\n",
+        "große Vorbild seines Sohns sein.\r",
+        "Hm, sollte ich vielleicht... ab jetzt\n",
+        "auch am Pokéathlon teilnehmen?\r",
+        "Sieh jetzt gut zu, Junge!"
+      ]
+    },
+    {
+      "id": "msg_0139_00044",
+      "de_DE": [
+        "Oh Sohnemann, siehst du nicht, wie sehr\n",
+        "du deinem alten Herrn wehtust?\r",
+        "Tu mir den Gefallen und sag, dass du so\n",
+        "sein willst wie dein Vater!\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00045",
+      "de_DE": [
+        "Meine Mutter nimmt am Pokéathlon teil.\r",
+        "Dabei kommt sie sonst nie aus dem Haus!\n",
+        "Ich hoffe, sie übersteht das...\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00046",
+      "de_DE": [
+        "Wenn ich groß bin, will ich mal\n",
+        "ein starker Poké-Athlet sein!\f",
+        "Genau wie du, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0139_00047",
+      "de_DE": "Wir feuern gerade unseren Star an!"
+    },
+    {
+      "id": "msg_0139_00048",
+      "de_DE": [
+        "W-w-w-was?!\n",
+        "Du bist doch {STRVAR_1 3, 0, 0}!\r",
+        "In Fleisch und Blut!\n",
+        "Du stehst direkt vor mir!"
+      ]
+    },
+    {
+      "id": "msg_0139_00049",
+      "de_DE": "Wir schauen gerade unserem Star zu!"
+    },
+    {
+      "id": "msg_0139_00050",
+      "de_DE": [
+        "W-w-w-was?!\n",
+        "Du bist ja {STRVAR_1 3, 0, 0}!\r",
+        "Tatsch, tatsch, tatsch!\n",
+        "Ich habe dich angefasst!"
+      ]
+    },
+    {
+      "id": "msg_0139_00051",
+      "de_DE": [
+        "Hier gibt es mehr Frauen in meinem\n",
+        "Alter, als ich gedacht hätte!\f",
+        "Vielleicht sollte ich ja selbst mal\f",
+        "am Pokéathlon teilnehmen?\r",
+        "Ich will ganz nah bei meinem\n",
+        "geliebten Caspar sein!\f",
+        "Habe ich das eben laut gesagt? Hihihi!"
+      ]
+    },
+    {
+      "id": "msg_0139_00052",
+      "de_DE": [
+        "Kreisch! Du bist doch {STRVAR_1 3, 0, 0}!\r",
+        "Wenn du am Pokéathlon teilnimmst,\n",
+        "fangen die Augen meiner Tochter\f",
+        "immer zu funkeln an!\r",
+        "Darf ich vielleicht ein Autogramm haben?\n",
+        "Aber nein, doch nicht für mich! Hihihi..."
+      ]
+    }
+  ]
+}

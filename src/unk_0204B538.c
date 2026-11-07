@@ -144,7 +144,7 @@ MessageFormat *sub_0204B538(SaveData *saveData, u16 numEligiblePokemon, u16 a2, 
             continue;
         }
         ReadMsgDataIntoString(messageData, species, speciesName);
-        BufferString(messageFormat, *numLegendaryPokemonSeen + 1, speciesName, a2, a3, 2);
+        BufferString(messageFormat, *numLegendaryPokemonSeen + 1, speciesName, a2, a3, GAME_LANGUAGE);
         (*numLegendaryPokemonSeen)++;
     }
     DestroyMsgData(messageData);

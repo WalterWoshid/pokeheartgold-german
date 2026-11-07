@@ -1,0 +1,83 @@
+{
+  "key": 61138,
+  "messages": [
+    {
+      "id": "msg_0575_00000",
+      "de_DE": [
+        "Bist du schon dem Sammler aus unserer\n",
+        "Stadt über den Weg gelaufen?\r",
+        "Er erzählt immer überall herum, wie\n",
+        "stolz er doch auf seine Sammlung\f",
+        "seltener Pokémon ist."
+      ]
+    },
+    {
+      "id": "msg_0575_00001",
+      "de_DE": [
+        "Manchmal bekommt man einfach Lust\n",
+        "darauf, seine Pokémon herumzuzeigen.\r",
+        "Ich habe da einen Freund in Viola City,\n",
+        "dem ich nur zu gerne mal all die Pokémon\f",
+        "zeigen würde, die ich trainiert habe..."
+      ]
+    },
+    {
+      "id": "msg_0575_00002",
+      "de_DE": [
+        "In dieser Pokémon-Arena wimmelt es\n",
+        "geradezu von Schlägertypen!\r",
+        "Wenn ich mich ihnen nur nähere, kriege\n",
+        "ich schon Angst, dass sie mich mit vom\f",
+        "Parkett fegen.\r",
+        "Deshalb will ich dir einen Tipp geben:\n",
+        "Der Arenaleiter hier ist spezialisiert\f",
+        "auf Kampf-Pokémon!\r",
+        "Du musst sein Team also mit Pokémon\n",
+        "vom Typ Psycho verwirren!\r",
+        "Versuche, alle zu besiegen, bevor\n",
+        "sie überhaupt zuschlagen können!\r",
+        "Und noch etwas... der Arenaleiter\n",
+        "Hartwig ist voll auf sein Training unter\f",
+        "dem Wasserfall konzentriert.\r",
+        "Du musst irgendwie den Wasserfluss\n",
+        "unterbrechen, sonst bekommst du\f",
+        "kein Wort aus ihm heraus."
+      ]
+    },
+    {
+      "id": "msg_0575_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Du hast gewonnen, oder?\n",
+        "Ich sehe es an deinem Blick!"
+      ]
+    },
+    {
+      "id": "msg_0575_00004",
+      "de_DE": [
+        "Huch? Sag mal, kann es sein, dass...\n",
+        "dass du nur ein Pokémon dabeihast?\r",
+        "So geht das aber nicht!\r",
+        "... ... ...\r",
+        "Na gut, dann gebe ich dir mein TENTACHA.\r",
+        "Ich habe zu viele von diesen Pokémon\n",
+        "gefangen und wollte dieses hier ohnehin\f",
+        "wieder laufen lassen, also bitte keine\f",
+        "falsche Bescheidenheit!\r"
+      ]
+    },
+    {
+      "id": "msg_0575_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "TENTACHA!"
+      ]
+    },
+    {
+      "id": "msg_0575_00006",
+      "de_DE": [
+        "Möchtest du TENTACHA\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    }
+  ]
+}

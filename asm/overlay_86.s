@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_86.inc"
 	.include "global.inc"
@@ -1678,7 +1679,7 @@ ov86_021E668C: ; 0x021E668C
 	bl DestroyMsgData
 	mov r1, #0
 	str r1, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	mov r0, #0x85
 	lsl r0, r0, #2

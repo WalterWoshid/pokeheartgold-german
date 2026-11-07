@@ -1,0 +1,649 @@
+{
+  "key": 5879,
+  "messages": [
+    {
+      "id": "msg_0275_00000",
+      "de_DE": [
+        "Du und {STRVAR_1 1, 3, 0} aus dem Team von\n",
+        "{STRVAR_1 3, 2, 0} hattet viele Abenteuer!"
+      ]
+    },
+    {
+      "id": "msg_0275_00001",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} war sehr aktiv und hat\n",
+        "sogar ein paar Zentimeter zugelegt."
+      ]
+    },
+    {
+      "id": "msg_0275_00002",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} glühte vor Unter-\n",
+        "nehmungslust und gab das Tempo an!"
+      ]
+    },
+    {
+      "id": "msg_0275_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} war heute völlig\n",
+        "überdreht."
+      ]
+    },
+    {
+      "id": "msg_0275_00004",
+      "de_DE": [
+        "{STRVAR_1 1, 3, 0} hat dir beigestanden!\n",
+        "Eure Freundschaft hat sich vertieft."
+      ]
+    },
+    {
+      "id": "msg_0275_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 2, 0} ist mit {STRVAR_1 1, 3, 0}\n",
+        "gegen dich angetreten."
+      ]
+    },
+    {
+      "id": "msg_0275_00006",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} preschte so schnell\n",
+        "voran, dass {STRVAR_1 1, 3, 0} nicht mitkam!"
+      ]
+    },
+    {
+      "id": "msg_0275_00007",
+      "de_DE": [
+        "Das war buchstäblich haarscharf!\n",
+        "{STRVAR_1 1, 1, 0} hat ganz knapp gewonnen!"
+      ]
+    },
+    {
+      "id": "msg_0275_00008",
+      "de_DE": [
+        "Das war eine heiße Schlacht! Doch\n",
+        "der letzte Patzer schmerzt am ärgsten!"
+      ]
+    },
+    {
+      "id": "msg_0275_00009",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hüpfte leichtfüßig voran\n",
+        "...und fiel auf die Nase!"
+      ]
+    },
+    {
+      "id": "msg_0275_00010",
+      "de_DE": [
+        "{STRVAR_1 1, 3, 0} aus dem Team von\n",
+        "{STRVAR_1 3, 2, 0} lief mit dir um die Wette."
+      ]
+    },
+    {
+      "id": "msg_0275_00011",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} war so schnell, dass es\n",
+        "{STRVAR_1 1, 3, 0} abgeschüttelt hat."
+      ]
+    },
+    {
+      "id": "msg_0275_00012",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hat zum Endspurt ange-\n",
+        "setzt und noch einmal alles gegeben!"
+      ]
+    },
+    {
+      "id": "msg_0275_00013",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist in der\n",
+        "zweiten Hälfte aufgeblüht."
+      ]
+    },
+    {
+      "id": "msg_0275_00014",
+      "de_DE": [
+        "{STRVAR_1 1, 3, 0} war so schnell,\n",
+        "dass es unerreichbar blieb."
+      ]
+    },
+    {
+      "id": "msg_0275_00015",
+      "de_DE": [
+        "Du hast mit {STRVAR_1 1, 3, 0} aus dem\n",
+        "Team von Trainer {STRVAR_1 3, 2, 0} gespielt."
+      ]
+    },
+    {
+      "id": "msg_0275_00016",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} war heute das Zugpferd\n",
+        "für {STRVAR_1 1, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0275_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} lief\n",
+        "mutig voran!"
+      ]
+    },
+    {
+      "id": "msg_0275_00018",
+      "de_DE": [
+        "Ihr habt einen schönen gemeinsamen\n",
+        "Spaziergang gemacht."
+      ]
+    },
+    {
+      "id": "msg_0275_00019",
+      "de_DE": "{STRVAR_1 1, 1, 0} ist auf die Nase gefallen!"
+    },
+    {
+      "id": "msg_0275_00020",
+      "de_DE": [
+        "Du hast kurz mit {STRVAR_1 1, 3, 0} aus dem\n",
+        "Team von {STRVAR_1 3, 2, 0} gespielt."
+      ]
+    },
+    {
+      "id": "msg_0275_00021",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hat sich an\n",
+        "{STRVAR_1 1, 3, 0} geschmiegt."
+      ]
+    },
+    {
+      "id": "msg_0275_00022",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hat {STRVAR_1 1, 3, 0}\n",
+        "verschmitzt angegrinst."
+      ]
+    },
+    {
+      "id": "msg_0275_00023",
+      "de_DE": "{STRVAR_1 1, 1, 0} sieht müde aus."
+    },
+    {
+      "id": "msg_0275_00024",
+      "de_DE": "{STRVAR_1 1, 1, 0} ist eingenickt!"
+    },
+    {
+      "id": "msg_0275_00025",
+      "de_DE": [
+        "Unterwegs bist du {STRVAR_1 3, 2, 0} und\n",
+        "{STRVAR_1 1, 3, 0} begegnet. So\n",
+        "ein Pokémon hast du noch nie gesehen!\n",
+        "...Wenn du dich nur erinnern könntest!"
+      ]
+    },
+    {
+      "id": "msg_0275_00026",
+      "de_DE": [
+        "Du hast das Itemradar verwendet\n",
+        "und {STRVAR_1 8, 4, 0} gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0275_00027",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist sehr selbstbewusst.\n",
+        "Es scheint extrem auf Zack zu sein."
+      ]
+    },
+    {
+      "id": "msg_0275_00028",
+      "de_DE": [
+        "Die Sinne von {STRVAR_1 1, 1, 0} sind\n",
+        "gerade offenbar besonders scharf!"
+      ]
+    },
+    {
+      "id": "msg_0275_00029",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hat beste Laune!\n",
+        "Es steht kurz davor loszutanzen."
+      ]
+    },
+    {
+      "id": "msg_0275_00030",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist sehr glücklich\n",
+        "und spielt mit {STRVAR_1 8, 4, 0}."
+      ]
+    },
+    {
+      "id": "msg_0275_00031",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} beäugt dich neugierig.\n",
+        "{STRVAR_1 8, 4, 0} hat es ihm angetan!"
+      ]
+    },
+    {
+      "id": "msg_0275_00032",
+      "de_DE": "{STRVAR_1 1, 1, 0} ist stolz auf sich selbst."
+    },
+    {
+      "id": "msg_0275_00033",
+      "de_DE": [
+        "...Hoppla? Liegt da\n",
+        "etwa ein {STRVAR_1 8, 4, 0}?\n",
+        "{STRVAR_1 1, 1, 0} freut sich\n",
+        "über den seltenen Fund!"
+      ]
+    },
+    {
+      "id": "msg_0275_00034",
+      "de_DE": [
+        "...He? Kommt da ein {STRVAR_1 8, 4, 0}\n",
+        "vom Himmel gesegelt?\n",
+        "Das Leben ist doch\n",
+        "voller Überraschungen!"
+      ]
+    },
+    {
+      "id": "msg_0275_00035",
+      "de_DE": [
+        "{STRVAR_1 0, 5, 0} mit dem Pokéradar\n",
+        "aufgestöbert und gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0275_00036",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist sehr selbstbewusst!\n",
+        "Es scheint in Topform zu sein."
+      ]
+    },
+    {
+      "id": "msg_0275_00037",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} strotzt vor Energie! Es\n",
+        "zeigt keine Anzeichen von Müdigkeit."
+      ]
+    },
+    {
+      "id": "msg_0275_00038",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} wirkt besonders gewandt.\n",
+        "Es bewegt sich hochergonomisch."
+      ]
+    },
+    {
+      "id": "msg_0275_00039",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hechtet gewandt umher!\n",
+        "Der Gegner kann es nicht überraschen."
+      ]
+    },
+    {
+      "id": "msg_0275_00040",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} bewegt sich\n",
+        "mit schlafwandlerischer Sicherheit."
+      ]
+    },
+    {
+      "id": "msg_0275_00041",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} gibt sich gelassen.\n",
+        "Es hat noch eine Menge Reserven!"
+      ]
+    },
+    {
+      "id": "msg_0275_00042",
+      "de_DE": [
+        "Du hast ein {STRVAR_1 0, 5, 0} gefunden!\n",
+        "{STRVAR_1 1, 1, 0} sitzt andächtig da\n",
+        "und beäugt den Neuankömmling."
+      ]
+    },
+    {
+      "id": "msg_0275_00043",
+      "de_DE": [
+        "Du hast ein {STRVAR_1 0, 5, 0} gefunden!\n",
+        "Das {STRVAR_1 0, 5, 0} sitzt andächtig da\n",
+        "und beäugt {STRVAR_1 3, 0, 0}."
+      ]
+    },
+    {
+      "id": "msg_0275_00044",
+      "de_DE": [
+        "Dein Pokéradar hat ein {STRVAR_1 0, 5, 0}\n",
+        "geortet! Leider ist es entkommen..."
+      ]
+    },
+    {
+      "id": "msg_0275_00045",
+      "de_DE": [
+        "Das {STRVAR_1 0, 5, 0}, das du mit dem\n",
+        "Pokéradar fandest, war eine Nummer zu\n",
+        "groß für {STRVAR_1 1, 1, 0}...\n",
+        "Leider habt ihr verloren."
+      ]
+    },
+    {
+      "id": "msg_0275_00046",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hat \n",
+        "{STRVAR_1 8, 4, 0} aufgestöbert!"
+      ]
+    },
+    {
+      "id": "msg_0275_00047",
+      "de_DE": [
+        "Anscheinend will es {STRVAR_1 3, 0, 0}\n",
+        "ein Geschenk geben."
+      ]
+    },
+    {
+      "id": "msg_0275_00048",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} möchte, dass\n",
+        "{STRVAR_1 3, 0, 0} das Item verwendet."
+      ]
+    },
+    {
+      "id": "msg_0275_00049",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} überreicht dir mit stolz\n",
+        "geschwellter Brust ein Item."
+      ]
+    },
+    {
+      "id": "msg_0275_00050",
+      "de_DE": [
+        "Es pfeffert das Item in deine Richtung.\n",
+        "...Das war wohl für dich."
+      ]
+    },
+    {
+      "id": "msg_0275_00051",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hüpft vor Freude!\n",
+        "Es scheint sich in der Gegenwart\n",
+        "von {STRVAR_1 3, 0, 0} sehr wohl zu fühlen."
+      ]
+    },
+    {
+      "id": "msg_0275_00052",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hüpft vor Freude!\n",
+        "Es zieht alle Register, um die\n",
+        "Aufmerksamkeit von {STRVAR_1 3, 0, 0}\n",
+        "auf sich zu ziehen!"
+      ]
+    },
+    {
+      "id": "msg_0275_00053",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0275_00054",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist in Hochstimmung\n",
+        "und wuselt ständig um die Füße\n",
+        "von {STRVAR_1 3, 0, 0}. Müdigkeit\n",
+        "ist ihm wohl ein Fremdwort."
+      ]
+    },
+    {
+      "id": "msg_0275_00055",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} prescht glücklich voran.\n",
+        "Doch als es merkte, dass es sich\n",
+        "von {STRVAR_1 3, 0, 0} entfernte, rannte es\n",
+        "aufgeregt zurück!"
+      ]
+    },
+    {
+      "id": "msg_0275_00056",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} fegt selbstvergessen\n",
+        "durch die Gegend.\n",
+        "Selbst als du es beim Namen rufst,\n",
+        "schaltet es auf Durchzug."
+      ]
+    },
+    {
+      "id": "msg_0275_00057",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} sieht zu dir herüber\n",
+        "und trabt schweigsam neben\n",
+        "{STRVAR_1 3, 0, 0} her.\n",
+        "Was es wohl gerade denkt?"
+      ]
+    },
+    {
+      "id": "msg_0275_00058",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} dreht sich in\n",
+        "deine Richtung und sieht sich\n",
+        "beim Wandern interessiert um.\n",
+        "Hat es vielleicht etwas gefunden?"
+      ]
+    },
+    {
+      "id": "msg_0275_00059",
+      "de_DE": [
+        "Gerade als du dachtest, \n",
+        "{STRVAR_1 1, 1, 0} würde sich zu dir\n",
+        "umdrehen, wendet es den Blick ab!"
+      ]
+    },
+    {
+      "id": "msg_0275_00060",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} scheint nichts zu tun zu\n",
+        "haben. Es schaut dich unaufhörlich\n",
+        "mit erwartungsvollen Augen an..."
+      ]
+    },
+    {
+      "id": "msg_0275_00061",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} scheint nichts zu tun\n",
+        "zu haben und starrt dich ruhig an.\n",
+        "Offenbar möchte es, dass du dich\n",
+        "um es kümmerst..."
+      ]
+    },
+    {
+      "id": "msg_0275_00062",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} scheint nichts zu tun zu\n",
+        "haben und langweilt sich.\n",
+        "Es wirkt irgendwie frustriert..."
+      ]
+    },
+    {
+      "id": "msg_0275_00063",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} sieht müde aus...\n",
+        "Wer viel spielt, braucht auch\n",
+        "mal ein Ruhepäuschen."
+      ]
+    },
+    {
+      "id": "msg_0275_00064",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} sieht müde aus...\n",
+        "Wer viel spielt, braucht auch\n",
+        "mal ein Ruhepäuschen."
+      ]
+    },
+    {
+      "id": "msg_0275_00065",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} sieht müde aus...\n",
+        "Wer viel spielt, braucht auch\n",
+        "mal ein Ruhepäuschen."
+      ]
+    },
+    {
+      "id": "msg_0275_00066",
+      "de_DE": [
+        "Dir folgt ein {STRVAR_1 1, 1, 0}!\n",
+        "Scheint, als wollte es auch mit\n",
+        "dir spazieren gehen."
+      ]
+    },
+    {
+      "id": "msg_0275_00067",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} kam völlig\n",
+        "ausgelaugt zurück nach Hause..."
+      ]
+    },
+    {
+      "id": "msg_0275_00068",
+      "de_DE": "{STRVAR_1 51, 10, 0}.{STRVAR_1 51, 9, 0}."
+    },
+    {
+      "id": "msg_0275_00069",
+      "de_DE": [
+        "Mit {STRVAR_1 1, 1, 0} entlang Route\n",
+        "{STRVAR_34 19, 8, 0} aufgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0275_00070",
+      "de_DE": [
+        "Richtung {STRVAR_34 19, 8, 0}\n",
+        "aufgebrochen!"
+      ]
+    },
+    {
+      "id": "msg_0275_00071",
+      "de_DE": "Um {STRVAR_1 33, 6, 0} Uhr zurückgekehrt."
+    },
+    {
+      "id": "msg_0275_00072",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist rundum zufrieden!\n",
+        "Heute war ein unvergesslicher Tag!"
+      ]
+    },
+    {
+      "id": "msg_0275_00073",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hat nach Herzenslust\n",
+        "gespielt und ist rundum zufrieden!"
+      ]
+    },
+    {
+      "id": "msg_0275_00074",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} sieht glücklich aus.\n",
+        "Es scheint ihm gut zu gehen."
+      ]
+    },
+    {
+      "id": "msg_0275_00075",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} scheint es\n",
+        "Spaß gemacht zu haben,\n",
+        "mit dir zu spielen!"
+      ]
+    },
+    {
+      "id": "msg_0275_00076",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} wirkt fröhlich.\n",
+        "Es scheint in Sachen Ausflüge\n",
+        "auf den Geschmack gekommen zu sein."
+      ]
+    },
+    {
+      "id": "msg_0275_00077",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} kommt nur ungern\n",
+        "nach Hause. Es möchte offenbar\n",
+        "noch weiterspielen."
+      ]
+    },
+    {
+      "id": "msg_0275_00078",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} zieht einen Flunsch.\n",
+        "Es scheint zu schmollen."
+      ]
+    },
+    {
+      "id": "msg_0275_00079",
+      "de_DE": [
+        "Es ist {STRVAR_1 54, 7, 0} Schritte gelaufen.\n",
+        "{STRVAR_1 1, 1, 0} scheint überglücklich zu\n",
+        "sein, dass es mit {STRVAR_1 3, 0, 0} spielen\n",
+        "durfte! Sein Gesicht glüht vor Freude!"
+      ]
+    },
+    {
+      "id": "msg_0275_00080",
+      "de_DE": [
+        "Es ist {STRVAR_1 54, 7, 0} Schritte gelaufen!\n",
+        "{STRVAR_1 1, 1, 0} springt ausgelassen\n",
+        "umher. Jede Minute wird es an dir\n",
+        "hochspringen!"
+      ]
+    },
+    {
+      "id": "msg_0275_00081",
+      "de_DE": [
+        "Es ist {STRVAR_1 54, 7, 0} Schritte gelaufen.\n",
+        "{STRVAR_1 1, 1, 0} wirkt beschwingt.\n",
+        "Es hält tapfer mit dir Schritt!"
+      ]
+    },
+    {
+      "id": "msg_0275_00082",
+      "de_DE": [
+        "Es ist {STRVAR_1 54, 7, 0} Schritte gelaufen.\n",
+        "{STRVAR_1 1, 1, 0} zottelt\n",
+        "gemütlich hinter dir her."
+      ]
+    },
+    {
+      "id": "msg_0275_00083",
+      "de_DE": "{STRVAR_1 1, 1, 0} schläft tief und fest."
+    },
+    {
+      "id": "msg_0275_00084",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hält ein\n",
+        "Mittagsschläfchen."
+      ]
+    },
+    {
+      "id": "msg_0275_00085",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} legt eine kleine\n",
+        "Ruhepause ein. Scheint, als hätte \n",
+        "es gerade nichts Besseres zu tun."
+      ]
+    },
+    {
+      "id": "msg_0275_00086",
+      "de_DE": "{STRVAR_1 51, 10, 0}.{STRVAR_1 51, 9, 0}."
+    },
+    {
+      "id": "msg_0275_00087",
+      "de_DE": "{STRVAR_1 33, 6, 0} Uhr"
+    },
+    {
+      "id": "msg_0275_00088",
+      "de_DE": "{STRVAR_1 33, 6, 0} Uhr"
+    },
+    {
+      "id": "msg_0275_00089",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0275_00090",
+      "de_DE": "Um {STRVAR_1 33, 6, 0} Uhr zurückgekehrt."
+    },
+    {
+      "id": "msg_0275_00091",
+      "de_DE": "{STRVAR_1 0, 11, 0}:{STRVAR_1 0, 12, 0}"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "key": 53789,
+  "messages": [
+    {
+      "id": "msg_0008_00000",
+      "de_DE": "BEARBEITEN"
+    },
+    {
+      "id": "msg_0008_00001",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0008_00002",
+      "de_DE": "ANBRINGEN"
+    },
+    {
+      "id": "msg_0008_00003",
+      "de_DE": "ENTFERNEN"
+    },
+    {
+      "id": "msg_0008_00004",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0008_00005",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0008_00006",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0008_00007",
+      "de_DE": "Wähle eine Kapsel."
+    },
+    {
+      "id": "msg_0008_00008",
+      "de_DE": "Was möchtest du tun?"
+    },
+    {
+      "id": "msg_0008_00009",
+      "de_DE": "Die Kapsel wurde entfernt."
+    },
+    {
+      "id": "msg_0008_00010",
+      "de_DE": "Mit welcher Kapsel tauschen?"
+    },
+    {
+      "id": "msg_0008_00011",
+      "de_DE": "Die Kapseln wurden getauscht."
+    },
+    {
+      "id": "msg_0008_00012",
+      "de_DE": "Bearbeiten der Kapseln beendet."
+    },
+    {
+      "id": "msg_0008_00013",
+      "de_DE": "Vorschau..."
+    },
+    {
+      "id": "msg_0008_00014",
+      "de_DE": [
+        "Beenden ohne Kapseldesign\n",
+        "zu ändern?"
+      ]
+    },
+    {
+      "id": "msg_0008_00015",
+      "de_DE": "Es ist kein Platz mehr vorhanden!"
+    },
+    {
+      "id": "msg_0008_00016",
+      "de_DE": "Du hast keine Sticker mehr."
+    }
+  ]
+}

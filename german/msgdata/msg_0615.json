@@ -1,0 +1,61 @@
+{
+  "key": 61106,
+  "messages": [
+    {
+      "id": "msg_0615_00000",
+      "de_DE": [
+        "Bill: Ich heiße Bill. Und wer bist du?\r",
+        "Oh, {STRVAR_1 3, 0, 0} lautet also dein Name!\r"
+      ]
+    },
+    {
+      "id": "msg_0615_00001",
+      "de_DE": [
+        "Hör mal... ich bin der Erfinder des\n",
+        "Pokémon-Übertragungssystems.\r",
+        "Aber ganz allein mein Verdienst ist\n",
+        "es natürlich auch nicht.\r",
+        "Du kennst doch die Hoenn-Region, oder?\r",
+        "Dort wohnt jemand namens Lanette.\n",
+        "Sie hat das Lagerungssystem um einiges\f",
+        "benutzerfreundlicher gemacht, als es in\f",
+        "meinen ursprünglichen Entwürfen war.\r",
+        "Wenn wir auch weiter unser Bestes\n",
+        "geben und alle gleichgesinnten Trainer\f",
+        "aus dem ganzen Land zusammenarbeiten,\f",
+        "können wir das System zum Tauschen und\f",
+        "Lagern von Pokémon sicher auch in\f",
+        "Zukunft noch sehr viel verbessern!\r",
+        "Hm, ich glaube ich sollte so langsam\n",
+        "mal wieder zurück nach Dukatia City.\r",
+        "Ich will mich mal wieder zu Hause\n",
+        "blicken lassen.\r",
+        "Also dann! Mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0615_00002",
+      "de_DE": [
+        "Die Kimono-Girls sind echt hübsch, was?\r",
+        "Ihre Tänze und die Art, wie sie mit ihren\n",
+        "Pokémon umgehen... alles an ihnen ist\f",
+        "immer so atemberaubend anmutig!"
+      ]
+    },
+    {
+      "id": "msg_0615_00003",
+      "de_DE": [
+        "Jens, der Arenaleiter, ist sooo cool!\n",
+        "Seine Pokémon sind auch total stark!"
+      ]
+    },
+    {
+      "id": "msg_0615_00004",
+      "de_DE": [
+        "Hm, der See des Zorns... das plötzliche\n",
+        "Erscheinen des roten GARADOS...\f",
+        "Da ist doch irgendwas im Busch!\n"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": 12640,
+  "messages": [
+    {
+      "id": "msg_0486_00000",
+      "de_DE": [
+        "Die Batterie ist nicht genügend\n",
+        "aufgeladen.\r",
+        "Anzahl der nötigen Schritte,\n",
+        "um die Batterie vollständig\f",
+        "aufzuladen: {STRVAR_1 51, 0}"
+      ]
+    },
+    {
+      "id": "msg_0486_00001",
+      "de_DE": [
+        "Es gibt keine Trainer in Reichweite,\n",
+        "die kämpfen können...\r",
+        "Der Kampffahnder wurde\n",
+        "abgeschaltet."
+      ]
+    },
+    {
+      "id": "msg_0486_00002",
+      "de_DE": [
+        "Es scheint, dass die anderen Trainer\n",
+        "nicht zum Kampf bereit sind.\r",
+        "Warte noch ein wenig!"
+      ]
+    }
+  ]
+}

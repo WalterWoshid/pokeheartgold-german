@@ -1,0 +1,125 @@
+{
+  "key": 36415,
+  "messages": [
+    {
+      "id": "msg_0313_00000",
+      "de_DE": "Tempo-Turnier"
+    },
+    {
+      "id": "msg_0313_00001",
+      "de_DE": "Kraft-Turnier"
+    },
+    {
+      "id": "msg_0313_00002",
+      "de_DE": "Technik-Turnier"
+    },
+    {
+      "id": "msg_0313_00003",
+      "de_DE": "Ausdauer-Turnier"
+    },
+    {
+      "id": "msg_0313_00004",
+      "de_DE": "Sprung-Turnier"
+    },
+    {
+      "id": "msg_0313_00005",
+      "de_DE": "Tempo&Sprung-Turnier"
+    },
+    {
+      "id": "msg_0313_00006",
+      "de_DE": "Sprung&Technik-Turnier"
+    },
+    {
+      "id": "msg_0313_00007",
+      "de_DE": "Technik&Kraft-Turnier"
+    },
+    {
+      "id": "msg_0313_00008",
+      "de_DE": "Kraft&Ausdauer-Turnier"
+    },
+    {
+      "id": "msg_0313_00009",
+      "de_DE": "Ausdauer&Tempo-Turnier"
+    },
+    {
+      "id": "msg_0313_00010",
+      "de_DE": "Meister-Turnier"
+    },
+    {
+      "id": "msg_0313_00011",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0313_00012",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0313_00013",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0313_00014",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0313_00015",
+      "de_DE": "Tempo-Medaille"
+    },
+    {
+      "id": "msg_0313_00016",
+      "de_DE": "Kraft-Medaille"
+    },
+    {
+      "id": "msg_0313_00017",
+      "de_DE": "Tech.-Medaille"
+    },
+    {
+      "id": "msg_0313_00018",
+      "de_DE": "Ausd.-Medaille"
+    },
+    {
+      "id": "msg_0313_00019",
+      "de_DE": "Sprung-Medaille"
+    },
+    {
+      "id": "msg_0313_00020",
+      "de_DE": "Hürdenlauf"
+    },
+    {
+      "id": "msg_0313_00021",
+      "de_DE": "Flaggenschnappen"
+    },
+    {
+      "id": "msg_0313_00022",
+      "de_DE": "Drängelkreis"
+    },
+    {
+      "id": "msg_0313_00023",
+      "de_DE": "Ziegelbrechen"
+    },
+    {
+      "id": "msg_0313_00024",
+      "de_DE": "Diskusfangen"
+    },
+    {
+      "id": "msg_0313_00025",
+      "de_DE": "Lampionspringen"
+    },
+    {
+      "id": "msg_0313_00026",
+      "de_DE": "Staffellauf"
+    },
+    {
+      "id": "msg_0313_00027",
+      "de_DE": "Ringrangeln"
+    },
+    {
+      "id": "msg_0313_00028",
+      "de_DE": "Schneeschlacht"
+    },
+    {
+      "id": "msg_0313_00029",
+      "de_DE": "Torschießen"
+    }
+  ]
+}

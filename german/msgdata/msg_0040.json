@@ -1,0 +1,766 @@
+{
+  "key": 55507,
+  "messages": [
+    {
+      "id": "msg_0040_00000",
+      "de_DE": [
+        "Willkommen im Pokémon-Center!\r",
+        "Wir heilen deine Pokémon und\n",
+        "machen sie wieder fit.\r",
+        "O.K. Wir benötigen deine Pokémon. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00001",
+      "de_DE": [
+        "Okay, ich nehme deine Pokémon für\n",
+        "einen Moment in meine Obhut."
+      ]
+    },
+    {
+      "id": "msg_0040_00002",
+      "de_DE": [
+        "Danke!\r",
+        "Deine Pokémon sind wieder topfit!\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00003",
+      "de_DE": "Komm bald wieder!"
+    },
+    {
+      "id": "msg_0040_00004",
+      "de_DE": [
+        "Willkommen im Pokémon-Center!\r",
+        "Wir heilen deine Pokémon und\n",
+        "machen sie wieder fit.\r",
+        "O.K. Wir benötigen deine Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00005",
+      "de_DE": [
+        "D-dieser Trainerpass!\r",
+        "Diese intensive Farbe!\n",
+        "Und dann all diese Sterne!\r",
+        "Ich habe ja schon einige Trainer mit\n",
+        "einem Violettpass getroffen...\r",
+        "Aber du stellst sie mit dem Pass\n",
+        "in dieser Farbe alle in den Schatten.\r",
+        "{STRVAR_1 3, 0, 0}, erweist du mir die Ehre,\n",
+        "deine Pokémon heilen zu dürfen? {YESNO 0}\n"
+      ]
+    },
+    {
+      "id": "msg_0040_00006",
+      "de_DE": [
+        "Ich freue mich, dich zu sehen,\n",
+        "{STRVAR_1 3, 0, 0}! Das Übliche, ja? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00007",
+      "de_DE": [
+        "Okay, ich nehme deine Pokémon für einen\n",
+        "Moment in meine Obhut."
+      ]
+    },
+    {
+      "id": "msg_0040_00008",
+      "de_DE": "Danke!"
+    },
+    {
+      "id": "msg_0040_00009",
+      "de_DE": "Komm bald wieder!"
+    },
+    {
+      "id": "msg_0040_00010",
+      "de_DE": [
+        "Dein Pokémon scheint von dem\n",
+        "Pokérus befallen zu sein.\r",
+        "Über den Pokérus ist bisher wenig be-\n",
+        "kannt, außer dass es Mikroorganismen\f",
+        "sind, die Pokémon befallen.\r",
+        "Sind deine Pokémon infiziert,\n",
+        "wachsen sie besonders gut."
+      ]
+    },
+    {
+      "id": "msg_0040_00011",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat kein\n",
+        "kampffähiges Pokémon mehr!\r",
+        "{STRVAR_1 3, 0, 0} wird ohnmächtig!"
+      ]
+    },
+    {
+      "id": "msg_0040_00012",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0040_00013",
+      "de_DE": "Möchtest du das Spiel speichern? {YESNO 0}"
+    },
+    {
+      "id": "msg_0040_00014",
+      "de_DE": [
+        "Es gibt bereits einen Spielstand.\n",
+        "Spielstand überschreiben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00015",
+      "de_DE": [
+        "Speichervorgang... bitte das\n",
+        "System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0040_00016",
+      "de_DE": "{STRVAR_1 3, 0, 0} hat das Spiel gespeichert."
+    },
+    {
+      "id": "msg_0040_00017",
+      "garbage": 116
+    },
+    {
+      "id": "msg_0040_00018",
+      "de_DE": "Fehler beim Speichern!"
+    },
+    {
+      "id": "msg_0040_00019",
+      "garbage": 35
+    },
+    {
+      "id": "msg_0040_00020",
+      "de_DE": [
+        "Es gibt bereits einen Spielstand.\n",
+        "Speichern nicht möglich.\r",
+        "Weitere Details findest du\n",
+        "in der Spielanleitung.\r",
+        "Drücke im Titelbildschirm\n",
+        "Oben + SELECT + B-Knopf, wenn du den\f",
+        "aktuellen Spielstand löschen willst."
+      ]
+    },
+    {
+      "id": "msg_0040_00021",
+      "de_DE": [
+        "Speichere eine Menge Daten...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0040_00022",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0040_00023",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0040_00024",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0040_00025",
+      "de_DE": "{STRVAR_1 8, 0, 0} erhalten!"
+    },
+    {
+      "id": "msg_0040_00026",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0040_00027",
+      "de_DE": [
+        "Zu schade!\n",
+        "Der Beutel ist voll..."
+      ]
+    },
+    {
+      "id": "msg_0040_00028",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{COLOR 2}{STRVAR_1 8, 1, 0}{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0040_00029",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{COLOR 1}{STRVAR_1 8, 1, 0}{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0040_00030",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} verstaut {STRVAR_1 8, 1, 0}\n",
+        "in der {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0}-Tasche."
+      ]
+    },
+    {
+      "id": "msg_0040_00031",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} verstaut {STRVAR_1 8, 1, 0}\n",
+        "in der {STRVAR_1 31, 2, 0}-Tasche."
+      ]
+    },
+    {
+      "id": "msg_0040_00032",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} verstaut\n",
+        "{STRVAR_1 31, 1, 0} im Modekoffer."
+      ]
+    },
+    {
+      "id": "msg_0040_00033",
+      "de_DE": "{STRVAR_1 3, 0, 0} schaltet den PC ein.\r"
+    },
+    {
+      "id": "msg_0040_00034",
+      "de_DE": "Zugriff auf wessen PC? {YESNO 0}"
+    },
+    {
+      "id": "msg_0040_00035",
+      "de_DE": "Pokémon-Lagerungssystem geöffnet.\r"
+    },
+    {
+      "id": "msg_0040_00036",
+      "de_DE": "Verbindung mit PC von {STRVAR_1 3, 0, 0}.\r"
+    },
+    {
+      "id": "msg_0040_00037",
+      "de_DE": [
+        "Professor Eich sagt immer...\n",
+        "“{STRVAR_1 3, 0, 0}, dies ist weder der\f",
+        "rechte Ort noch die rechte Zeit dafür!”"
+      ]
+    },
+    {
+      "id": "msg_0040_00038",
+      "de_DE": [
+        "Willkommen!\n",
+        "Kann ich helfen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00039",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0040_00040",
+      "de_DE": [
+        "Deine Pokémon wurden vollständig\n",
+        "geheilt.\r",
+        "Wir hoffen, du kommst groß raus!"
+      ]
+    },
+    {
+      "id": "msg_0040_00041",
+      "de_DE": [
+        "Mutter: {STRVAR_1 3, 0, 0}!\n",
+        "Willkommen zu Hause.\r",
+        "Offenbar hast du viele aufregende\n",
+        "Dinge da draußen erlebt.\r",
+        "Vielleicht solltest du dich etwas\n",
+        "ausruhen und wieder zu Kräften kommen.\r",
+        "...\n",
+        "..."
+      ]
+    },
+    {
+      "id": "msg_0040_00042",
+      "de_DE": [
+        "Mutter: Sehr gut! Du und dein\n",
+        "Pokémon sehen großartig aus!\r",
+        "Der Professor hat sich soeben\n",
+        "bei mir gemeldet.\r",
+        "Er erklärte mir, dass die Energie\n",
+        "der Pokémon in KP gemessen wird.\r",
+        "Falls dein Pokémon seine KP\n",
+        "verliert, kannst du sie in einem\f",
+        "Pokémon-Center auffüllen lassen.\r",
+        "Falls du dich auf lange Reisen\n",
+        "begibst, solltest du deinen Vorrat\f",
+        "mit Tränken vom Pokémon-\f",
+        "Supermarkt auffüllen.\r",
+        "Lass mich stolz auf dich sein!\n",
+        "Pass auf dich auf!"
+      ]
+    },
+    {
+      "id": "msg_0040_00043",
+      "de_DE": [
+        "Mutter: Schön! Du und dein\n",
+        "Pokémon sehen großartig aus.\r",
+        "{STRVAR_1 3, 0, 0}, dein Pokémon wird\n",
+        "ohnmächtig, wenn ihm KP ausgehen.\r",
+        "Sollte dein Pokémon KP verlieren,\n",
+        "komm nach Hause, bevor es zu spät ist.\r",
+        "Ich heile es dann vollständig,\n",
+        "indem ich ihm Ruhe verordne.\r",
+        "Mach mich stolz!\n",
+        "Und pass auf dich auf!"
+      ]
+    },
+    {
+      "id": "msg_0040_00044",
+      "de_DE": [
+        "Zunächst solltest du deine Pokémon\n",
+        "vollständig heilen."
+      ]
+    },
+    {
+      "id": "msg_0040_00045",
+      "de_DE": [
+        "Deine Pokémon wurden vollständig\n",
+        "geheilt."
+      ]
+    },
+    {
+      "id": "msg_0040_00046",
+      "de_DE": [
+        "Falls deine Pokémon ihre KP\n",
+        "verlieren, kannst du sie in einem\f",
+        "Pokémon-Center auffüllen lassen.\r",
+        "Falls du dich auf lange Reisen\n",
+        "begibst, solltest du deinen Vorrat\r",
+        "mit Tränken vom Pokémon-Supermarkt\n",
+        "auffüllen. Viel Glück, Trainer!"
+      ]
+    },
+    {
+      "id": "msg_0040_00047",
+      "de_DE": "Keine Briefe im Postfach.\r"
+    },
+    {
+      "id": "msg_0040_00048",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0040_00049",
+      "de_DE": "Da beißt nichts an..."
+    },
+    {
+      "id": "msg_0040_00050",
+      "de_DE": "Das Pokémon ist entkommen..."
+    },
+    {
+      "id": "msg_0040_00051",
+      "de_DE": "Zu schnell eingezogen..."
+    },
+    {
+      "id": "msg_0040_00052",
+      "de_DE": "Du hast ein Pokémon geangelt!"
+    },
+    {
+      "id": "msg_0040_00053",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} übersteht die Vergiftung.\n",
+        "Das Gift löst sich auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00054",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0040_00055",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0040_00056",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0040_00057",
+      "de_DE": "Hier scheint nichts zu sein..."
+    },
+    {
+      "id": "msg_0040_00058",
+      "de_DE": [
+        "Aus irgendeinem Grund ist\n",
+        "der süße Geruch verschwunden..."
+      ]
+    },
+    {
+      "id": "msg_0040_00059",
+      "de_DE": "Mit dem Fahrrad fahren? {YESNO 0}"
+    },
+    {
+      "id": "msg_0040_00060",
+      "de_DE": "Vom Fahrrad absteigen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0040_00061",
+      "de_DE": [
+        "Hier kannst du\n",
+        "nicht absteigen!"
+      ]
+    },
+    {
+      "id": "msg_0040_00062",
+      "de_DE": "Wie?"
+    },
+    {
+      "id": "msg_0040_00063",
+      "de_DE": "{STRVAR_1 0, 0, 0} schlüpfte aus dem Ei!"
+    },
+    {
+      "id": "msg_0040_00064",
+      "de_DE": [
+        "Möchtest du dem geschlüpften\n",
+        "{STRVAR_1 0, 0, 0} einen Spitznamen geben?"
+      ]
+    },
+    {
+      "id": "msg_0040_00065",
+      "de_DE": "Schutz wirkt nicht mehr..."
+    },
+    {
+      "id": "msg_0040_00066",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0040_00067",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0040_00068",
+      "de_DE": [
+        "Tut mir schrecklich leid.\r",
+        "Wir arbeiten derzeit unter der Erde.\n",
+        "Kein Zutritt für Unbefugte.\r",
+        "Versuche es später noch einmal."
+      ]
+    },
+    {
+      "id": "msg_0040_00069",
+      "garbage": 94
+    },
+    {
+      "id": "msg_0040_00070",
+      "garbage": 90
+    },
+    {
+      "id": "msg_0040_00071",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Als das Universum entstand, entstand\n",
+        "diese Tafel aus einem Splitter.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00072",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Die Kraft besiegter Giganten\n",
+        "speist diese Tafel mit Energie.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00073",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Zwei Wesen von Zeit und Raum wurden\n",
+        "aus dem Ursprünglichen geboren.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00074",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Um Zeit und Raum miteinander zu\n",
+        "vereinen, wurden drei Wesen geboren.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00075",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Zwei sind Materie, drei sind Geist\n",
+        "und bilden gemeinsam die Welt.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00076",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Das Ursprüngliche atmete, da war\n",
+        "das Universum noch nicht geboren.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00077",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Die Kräfte der Tafeln werden\n",
+        "von allen Pokémon geteilt.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00078",
+      "de_DE": [
+        "Auf der erhaltenen Tafel ist eine\n",
+        "Inschrift eingraviert...\r",
+        "“Dem rechtmäßigen Träger einer Tafel\n",
+        "soll ihre Kraft verliehen werden.”\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00079",
+      "de_DE": [
+        "Ballkapseln können nicht verwendet\n",
+        "werden, da du keine Sticker besitzt.\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00080",
+      "garbage": 41
+    },
+    {
+      "id": "msg_0040_00081",
+      "de_DE": "Möchtest du das Spiel speichern?"
+    },
+    {
+      "id": "msg_0040_00082",
+      "de_DE": [
+        "Es gibt bereits einen Spielstand.\n",
+        "Spielstand überschreiben?"
+      ]
+    },
+    {
+      "id": "msg_0040_00083",
+      "de_DE": [
+        "Guten Morgen!\n",
+        "Willkommen im Pokémon-Center!\r",
+        "Wir heilen deine Pokémon und\n",
+        "machen sie wieder fit.\r",
+        "O.K. Wir benötigen deine Pokémon. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00084",
+      "de_DE": [
+        "Hallo und willkommen im Pokémon-Center!\r",
+        "Wir heilen deine Pokémon und\n",
+        "machen sie wieder fit.\r",
+        "O.K. Wir benötigen deine Pokémon. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00085",
+      "de_DE": [
+        "Die Azurflöte von {STRVAR_1 3, 0, 0}\n",
+        "gibt ein Geräusch von sich!\r",
+        "Möchtest du die Azurflöte spielen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00086",
+      "de_DE": "{STRVAR_1 3, 0, 0} spielt die Azurflöte.\r"
+    },
+    {
+      "id": "msg_0040_00087",
+      "de_DE": "Eine leuchtende Treppe ist erschienen!"
+    },
+    {
+      "id": "msg_0040_00088",
+      "de_DE": [
+        "Die Azurflöte erklingt in\n",
+        "einem hohlen Geräusch...\r",
+        "Es bringt wohl nichts, die\n",
+        "Azurflöte hier zu spielen..."
+      ]
+    },
+    {
+      "id": "msg_0040_00089",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} verstaut {STRVAR_1 8, 1, 0}\n",
+        "in der {COLOR 2}{STRVAR_1 27, 2, 0}{COLOR 0}-Tasche.\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00090",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} verstaut\n",
+        "{STRVAR_1 31, 1, 0} im Modekoffer.\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00091",
+      "garbage": 24
+    },
+    {
+      "id": "msg_0040_00092",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0040_00093",
+      "de_DE": [
+        "Dein Beutel ist voll.\r",
+        "Platinum-Orb konnte nicht abgelegt\n",
+        "werden. Du kannst nicht eintreten."
+      ]
+    },
+    {
+      "id": "msg_0040_00094",
+      "de_DE": [
+        "Deine Ruhmeshalle-Daten\n",
+        "sind beschädigt.\r",
+        "Das Problem wird behoben, wenn\n",
+        "du die Ruhmeshalle erneut betrittst.\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00095",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält {STRVAR_1 31, 1, 0}!\r",
+        "Doch von {STRVAR_1 31, 1, 0} hast\n",
+        "du schon genug in deinem Modekoffer!"
+      ]
+    },
+    {
+      "id": "msg_0040_00096",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0040_00097",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat ein Glänzendes Blatt\n",
+        "gefunden!\r",
+        "{STRVAR_1 3, 0, 0} gibt {STRVAR_1 1, 1, 0}\n",
+        "das Glänzende Blatt!"
+      ]
+    },
+    {
+      "id": "msg_0040_00098",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat ein Glänzendes Blatt\n",
+        "gefunden!\r",
+        "Aber {STRVAR_1 1, 1, 0} trägt dieses\n",
+        "Glänzende Blatt bereits bei sich!"
+      ]
+    },
+    {
+      "id": "msg_0040_00099",
+      "de_DE": [
+        "Hey?\n",
+        "{STRVAR_1 1, 0, 0} verwandelt sich...\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00100",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat seine\n",
+        "Landform angenommen!"
+      ]
+    },
+    {
+      "id": "msg_0040_00101",
+      "de_DE": [
+        "Die Nummer wurde\n",
+        "im Pokécom registriert!\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00102",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} geht es wieder besser.\n",
+        "Es wird dich jetzt wieder begleiten.\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00103",
+      "de_DE": [
+        "Hey!\r",
+        "Kannst du mir beschreiben, wie das ist,\n",
+        "wenn man kurz vor einem Kampf steht?\r",
+        "Und wie ist das, wenn man gewinnt oder\n",
+        "verliert?\r",
+        "Was wäre das wohl für ein Gefühl,\n",
+        "die Nummer eins zu sein? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00104",
+      "de_DE": [
+        "Was geht dir durch den Kopf, wenn\n",
+        "du kurz vor einem Kampf stehst?\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00105",
+      "de_DE": [
+        "Was ist das für ein Gefühl, wenn\n",
+        "du einen Kampf gewonnen hast?\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00106",
+      "de_DE": [
+        "Und was ist es für ein Gefühl, wenn\n",
+        "du einen Kampf verloren hast?\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00107",
+      "de_DE": [
+        "Wie würdest du dich fühlen, wenn\n",
+        "du die Nummer eins werden würdest?\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00108",
+      "de_DE": [
+        "Naja, dann eben nicht.\n",
+        "Was für ein seltsames Verhalten."
+      ]
+    },
+    {
+      "id": "msg_0040_00109",
+      "de_DE": [
+        "Vielen Dank! Beantwortest\n",
+        "du mir noch eine Frage? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0040_00110",
+      "de_DE": "Verstanden! Danke!"
+    },
+    {
+      "id": "msg_0040_00111",
+      "de_DE": [
+        "Verstanden! Danke!\n",
+        "Hmmm, {STRVAR_1 28, 0, 0} also..."
+      ]
+    },
+    {
+      "id": "msg_0040_00112",
+      "de_DE": "Vor dem Kampf"
+    },
+    {
+      "id": "msg_0040_00113",
+      "de_DE": "Bei Sieg"
+    },
+    {
+      "id": "msg_0040_00114",
+      "de_DE": "Bei Niederlage"
+    },
+    {
+      "id": "msg_0040_00115",
+      "de_DE": "Nr. 1 werden"
+    },
+    {
+      "id": "msg_0040_00116",
+      "de_DE": "Ich sage nix!"
+    }
+  ]
+}

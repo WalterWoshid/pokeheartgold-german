@@ -1,0 +1,28 @@
+{
+  "key": 44490,
+  "messages": [
+    {
+      "id": "msg_0006_00000",
+      "de_DE": [
+        "Daten konnten nicht geschrieben\n",
+        "werden.\n",
+        "\n",
+        "Bitte schalte das System aus,\n",
+        "entferne die DS-Karte und\n",
+        "stecke sie dann erneut ein."
+      ]
+    },
+    {
+      "id": "msg_0006_00001",
+      "de_DE": [
+        "Fehler beim Speichern der Daten.\n",
+        "\n",
+        "Fehler im Backup. Das Spiel kann\n",
+        "gespielt, aber nicht gespeichert\n",
+        "werden.\n",
+        "\n",
+        "Bitte schalte das System aus."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "key": 54299,
+  "messages": [
+    {
+      "id": "msg_0159_00000",
+      "de_DE": [
+        "Mona: Oh, hallo.\n",
+        "Was bist du für ein süßer Trainer.\r",
+        "Mein Mann ist Seemann und ständig\n",
+        "irgendwo weit weg unterwegs.\r",
+        "Ich sehne mich danach, ihn endlich\n",
+        "wieder bei mir zu haben.\r",
+        "Allerdings kann das ganze Warten\n",
+        "ganz schön langweilig werden...\r",
+        "Ich hab eine Idee! Besuche mich ab und\n",
+        "an und erzähle mir Geschichten, ja?"
+      ]
+    },
+    {
+      "id": "msg_0159_00001",
+      "de_DE": [
+        "Besuche mich ab morgen und unterhalte\n",
+        "mich mit Geschichten über deine Reisen."
+      ]
+    },
+    {
+      "id": "msg_0159_00002",
+      "de_DE": [
+        "Mona: Heute ist Montag!\r",
+        "Die neue Woche sollte voller Energie\n",
+        "und Elan in Angriff genommen werden.\r",
+        "Hast du vielleicht eine Geschichte in\n",
+        "petto, die mir Energie gibt?\r",
+        "Vielleicht darüber, wie du mit\n",
+        "Wasser bespritzt wurdest..."
+      ]
+    },
+    {
+      "id": "msg_0159_00003",
+      "de_DE": [
+        "{STRVAR_1 28, 0} mit Wasser\n",
+        "bespritzt...\r",
+        "Wie erfrischend!\n",
+        "Ich fühle mich gleich viel wacher!\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00004",
+      "de_DE": [
+        "Vielen Dank!\n",
+        "Gib das hier bitte deinem Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 2} erhält\n",
+        "{STRVAR_1 39, 3}.\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 2} steckt\n",
+        "{STRVAR_1 0, 1} das\f",
+        "{STRVAR_1 39, 3} an.\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00007",
+      "de_DE": [
+        "Mona: Erzähle mir morgen noch\n",
+        "eine Geschichte."
+      ]
+    },
+    {
+      "id": "msg_0159_00008",
+      "de_DE": [
+        "Mona: Oh, hallo!\r",
+        "Oh, das ist ja das {STRVAR_1 0, 1}, dem\n",
+        "ich mal das Band gegeben hatte.\r",
+        "Ich habe viele Bänder. Bring doch\n",
+        "auch mal andere Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0159_00009",
+      "de_DE": [
+        "Mona: Oh...\n",
+        "Dir ist nichts eingefallen?"
+      ]
+    },
+    {
+      "id": "msg_0159_00010",
+      "de_DE": [
+        "Mona: Heute ist Dienstag!\r",
+        "An einem Dienstag haben sich mein\n",
+        "Mann und ich kennengelernt.\r",
+        "Mein Herz raste wie verrückt, so als\n",
+        "hätte ich Angst. Hatte ich ja auch.\r",
+        "Kennst du vielleicht eine ähnlich\n",
+        "aufregende Story?\r",
+        "Vielleicht über etwas, das plötzlich aus\n",
+        "einem Versteck auftauchte?"
+      ]
+    },
+    {
+      "id": "msg_0159_00011",
+      "de_DE": [
+        "{STRVAR_1 28, 0}? Aus einem\n",
+        "Schrank gesprungen?\f",
+        "...\r",
+        "Uuuh!\n",
+        "Das klingt beängstigend!\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00012",
+      "de_DE": [
+        "Mona: Ächz...\n",
+        "Ich habe etwas zugenommen...\r",
+        "Das Kleid, das mir mein Mann gekauft\n",
+        "hat, ist ein wenig eng geworden...\r",
+        "Das macht mich so traurig...\r",
+        "Jetzt ist mir nach etwas Rührseligem.\n",
+        "Erzähle etwas Trauriges, bitte."
+      ]
+    },
+    {
+      "id": "msg_0159_00013",
+      "de_DE": [
+        "{STRVAR_1 28, 0}... Wie traurig.\n",
+        "...\r",
+        "Schluchz... Das ist so traurig...\n",
+        "Ich bin richtig melancholisch!\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00014",
+      "de_DE": [
+        "Mona: Was, schon Donnerstag?!?\n",
+        "Die Zeit vergeht wie im Flug!\r",
+        "Mein Lieblingsmagazin kommt heute\n",
+        "heraus. Ich muss es schnell holen!\r",
+        "Kennst du eine Geschichte über\n",
+        "Zerstreutheit?\r",
+        "Wenn man zum Beispiel die Schuhe\n",
+        "umgekehrt anzieht?"
+      ]
+    },
+    {
+      "id": "msg_0159_00015",
+      "de_DE": [
+        "{STRVAR_1 28, 0} hat die Schuhe\n",
+        "umgekehrt angezogen?\r",
+        "...\n",
+        "Buahaha! Wie dämlich!\r",
+        "Wie kann man nur so\n",
+        "geistesabwesend sein?\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00016",
+      "de_DE": [
+        "Mona: Heute ist Freitag!\r",
+        "So langsam weiß ich nicht mehr,\n",
+        "was ich kochen soll!\r",
+        "Hast du vielleicht eine Geschichte\n",
+        "parat, die mich auf eine Idee bringt?\r",
+        "Vielleicht über Zahlen, die etwas\n",
+        "Besonderes an sich haben?"
+      ]
+    },
+    {
+      "id": "msg_0159_00017",
+      "de_DE": [
+        "Du hast beim Kauf von {STRVAR_1 28, 0}\n",
+        "genau 777 $ ausgegeben?\r",
+        "Das ist ja eine lustige Zahl.\n",
+        "Hört sich irgendwie nett an.\r",
+        "Das bringt mich auf andere Gedanken!\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00018",
+      "de_DE": [
+        "Mona: Gähn...\n",
+        "Heute ist Samstag...\f",
+        "Bin heute zu nichts zu gebrauchen...\r",
+        "Hätte ich doch nur ein Kissen...\n",
+        "Aber welche Art Kissen?"
+      ]
+    },
+    {
+      "id": "msg_0159_00019",
+      "de_DE": [
+        "{STRVAR_1 28, 0} Kuschelkissen...\n",
+        "...\r",
+        "Hm... Damit könnte ich endlich\n",
+        "gut schlafen!\r",
+        "Wo kann ich so eins kaufen?\r"
+      ]
+    },
+    {
+      "id": "msg_0159_00020",
+      "de_DE": [
+        "Mona: Oh, hallo! Auch an einem Sonntag\n",
+        "setzt du dein Abenteuer fort!\r",
+        "Als ich jung war, war jeder Tag\n",
+        "wie ein Abenteuer für mich.\r",
+        "Ich hatte ständig Spaß, mochte die\n",
+        "Leute um mich herum...\f",
+        "Ich war einfach nur glücklich.\r",
+        "Oh, heute bin ich natürlich\n",
+        "auch glücklich.\r",
+        "Das Leben mit meinem Mann macht\n",
+        "mir sehr viel Spaß. Es ist einfach nur...\f",
+        "anders, weißt du?\r",
+        "Und, was macht dich glücklich?"
+      ]
+    },
+    {
+      "id": "msg_0159_00021",
+      "de_DE": [
+        "Du liebst {STRVAR_1 28, 0}?\n",
+        "...\r",
+        "Aha... Das sagt schon einiges über\n",
+        "dich aus. Da muss ich schmunzeln!\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "key": 58683,
+  "messages": [
+    {
+      "id": "msg_0716_00000",
+      "de_DE": "Lind"
+    },
+    {
+      "id": "msg_0716_00001",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Wozu rufst du denn an? Ich bin doch\n",
+        "ganz in der Nähe. Komm einfach vorbei.\f",
+        "Lass uns persönlich miteinander reden!"
+      ]
+    },
+    {
+      "id": "msg_0716_00002",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Wozu rufst du denn an? Ich bin doch\n",
+        "ganz in der Nähe. Komm einfach vorbei.\f",
+        "Lass uns persönlich miteinander reden!"
+      ]
+    },
+    {
+      "id": "msg_0716_00003",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Gib stets acht, dein Team nicht zu über-\n",
+        "anstrengen. Ist ein Pokémon verletzt,\f",
+        "solltest du ihm eine Ruhepause gönnen."
+      ]
+    },
+    {
+      "id": "msg_0716_00004",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Gib stets acht, dein Team nicht zu über-\n",
+        "anstrengen. Ist ein Pokémon verletzt,\f",
+        "solltest du ihm eine Ruhepause gönnen."
+      ]
+    },
+    {
+      "id": "msg_0716_00005",
+      "de_DE": [
+        "Ach ja, {STRVAR_1 3, 0, 0}...\r",
+        "Ich sage dir, ich habe nur einen\n",
+        "Augenblick nicht hingesehen, und da...\f",
+        "So ein Schlamassel aber auch..."
+      ]
+    },
+    {
+      "id": "msg_0716_00006",
+      "de_DE": [
+        "Ach ja, {STRVAR_1 3, 0, 0}...\r",
+        "Ich sage dir, ich habe nur einen\n",
+        "Augenblick nicht hingesehen, und da...\f",
+        "So ein Schlamassel aber auch..."
+      ]
+    },
+    {
+      "id": "msg_0716_00007",
+      "de_DE": [
+        "Hallo? Bist du das, {STRVAR_1 3, 0, 0}?\r",
+        "Ich überprüfe gerade das Ei. Es scheint\n",
+        "tatsächlich ein Pokémon-Ei zu sein!\r",
+        "Aber wir machen noch ein paar Tests."
+      ]
+    },
+    {
+      "id": "msg_0716_00008",
+      "de_DE": [
+        "Hallo? Bist du das, {STRVAR_1 3, 0, 0}?\r",
+        "Ich überprüfe gerade das Ei. Es scheint\n",
+        "tatsächlich ein Pokémon-Ei zu sein!\r",
+        "Aber wir machen noch ein paar Tests."
+      ]
+    },
+    {
+      "id": "msg_0716_00009",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\r",
+        "Warst du schon bei meinem Assistenten\n",
+        "im Pokémon-Supermarkt von Viola City?\r",
+        "Die Sache ist wirklich wichtig für mich.\n",
+        "Hilf mir bitte und nimm das Ei an dich!"
+      ]
+    },
+    {
+      "id": "msg_0716_00010",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\r",
+        "Warst du schon bei meinem Assistenten\n",
+        "im Pokémon-Supermarkt von Viola City?\r",
+        "Die Sache ist wirklich wichtig für mich.\n",
+        "Hilf mir bitte und nimm das Ei an dich!"
+      ]
+    },
+    {
+      "id": "msg_0716_00011",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Was macht das Ei?\n",
+        "Hat sich schon etwas getan?\r",
+        "Ruf mich unbedingt an, sobald\n",
+        "es etwas Neues gibt, ja?"
+      ]
+    },
+    {
+      "id": "msg_0716_00012",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Was macht das Ei?\n",
+        "Hat sich schon etwas getan?\r",
+        "Ruf mich unbedingt an, sobald\n",
+        "es etwas Neues gibt, ja?"
+      ]
+    },
+    {
+      "id": "msg_0716_00013",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe es schon gehört!\f",
+        "Aus dem Ei ist also tatsächlich\f",
+        "ein Pokémon geschlüpft!\r",
+        "Ich wusste doch, auf dich ist Verlass,\n",
+        "{STRVAR_1 3, 0, 0}! Dir das Ei anzuvertrauen\f",
+        "war genau das Richtige!\r",
+        "Besuche mich doch mal. Ich würde zu\n",
+        "gerne sehen, was für ein Pokémon\f",
+        "daraus entstanden ist!"
+      ]
+    },
+    {
+      "id": "msg_0716_00014",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe es schon gehört!\f",
+        "Aus dem Ei ist also tatsächlich\f",
+        "ein Pokémon geschlüpft!\r",
+        "Ich wusste doch, auf dich ist Verlass,\n",
+        "{STRVAR_1 3, 0, 0}! Dir das Ei anzuvertrauen\f",
+        "war genau das Richtige!\r",
+        "Besuche mich doch mal. Ich würde zu\n",
+        "gerne sehen, was für ein Pokémon\f",
+        "daraus entstanden ist!"
+      ]
+    },
+    {
+      "id": "msg_0716_00015",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Ich habe soeben eine neue Entdeckung\n",
+        "gemacht! Anscheinend dauert es\f",
+        "je nach Art unterschiedlich lange,\f",
+        "bis ein Pokémon aus einem Ei schlüpft."
+      ]
+    },
+    {
+      "id": "msg_0716_00016",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Ich habe soeben eine neue Entdeckung\n",
+        "gemacht! Anscheinend dauert es\f",
+        "je nach Art unterschiedlich lange,\f",
+        "bis ein Pokémon aus einem Ei schlüpft."
+      ]
+    },
+    {
+      "id": "msg_0716_00017",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Es ist immer noch unerforscht, mit\n",
+        "welchen Attacken junge Pokémon\f",
+        "geboren werden.\f",
+        "Das untersuchen wir jetzt."
+      ]
+    },
+    {
+      "id": "msg_0716_00018",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Es ist immer noch unerforscht, mit\n",
+        "welchen Attacken junge Pokémon\f",
+        "geboren werden.\f",
+        "Das untersuchen wir jetzt."
+      ]
+    },
+    {
+      "id": "msg_0716_00019",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Etwas stimmt nicht mit dem Radio. Ob in\n",
+        "Dukatia City irgendetwas passiert ist?"
+      ]
+    },
+    {
+      "id": "msg_0716_00020",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Etwas stimmt nicht mit dem Radio. Ob in\n",
+        "Dukatia City irgendetwas passiert ist?"
+      ]
+    },
+    {
+      "id": "msg_0716_00021",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Wie ich höre, fehlt dir nur noch ein\n",
+        "Orden der Johto-Region!\r",
+        "Gib acht. Der Arenaleiter von Ebenholz\n",
+        "City ist ein Drachenprofi und bekannt\f",
+        "dafür, dass er keinen Spaß versteht!"
+      ]
+    },
+    {
+      "id": "msg_0716_00022",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Wie ich höre, fehlt dir nur noch ein\n",
+        "Orden der Johto-Region!\r",
+        "Gib acht. Die Arenaleiterin von Ebenholz\n",
+        "City ist ein Drachenprofi und bekannt\f",
+        "dafür, dass sie keinen Spaß versteht!"
+      ]
+    },
+    {
+      "id": "msg_0716_00023",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Du scheinst ja richtig in Fahrt zu sein!\r",
+        "Ich sehe schon, ich muss mir keine\n",
+        "Sorgen um dich machen.\r",
+        "Mach nur weiter so und schau zu,\n",
+        "wie weit du es noch bringst!"
+      ]
+    },
+    {
+      "id": "msg_0716_00024",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Du scheinst ja richtig in Fahrt zu sein!\r",
+        "Ich sehe schon, ich muss mir keine\n",
+        "Sorgen um dich machen.\r",
+        "Mach nur weiter so und schau zu,\n",
+        "wie weit du es noch bringst!"
+      ]
+    },
+    {
+      "id": "msg_0716_00025",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Professor Eich hat mir etwas\n",
+        "für dich mitgegeben.\r",
+        "Komm doch mal im Labor vorbei.\n",
+        "Ich zähle auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0716_00026",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Professor Eich hat mir etwas\n",
+        "für dich mitgegeben.\r",
+        "Komm doch mal im Labor vorbei.\n",
+        "Ich zähle auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0716_00027",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Die Entwicklung der Pokémon gibt\n",
+        "uns noch immer viele Rätsel auf.\r",
+        "Es scheint sogar Pokémon zu geben,\n",
+        "die sich nur unter sehr speziellen\f",
+        "Voraussetzungen entwickeln!"
+      ]
+    },
+    {
+      "id": "msg_0716_00028",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Die Entwicklung der Pokémon gibt\n",
+        "uns noch immer viele Rätsel auf.\r",
+        "Es scheint sogar Pokémon zu geben,\n",
+        "die sich nur unter sehr speziellen\f",
+        "Voraussetzungen entwickeln!"
+      ]
+    },
+    {
+      "id": "msg_0716_00029",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "In der Kanto-Region gibt es noch viele\n",
+        "Pokémon, die ich noch nicht kenne.\r",
+        "Wer weiß, vielleicht kennt man dort auch\n",
+        "mir völlig neue Entwicklungsmethoden!\r",
+        "Halte also immer die Augen auf\n",
+        "und beobachte alles ganz genau!"
+      ]
+    },
+    {
+      "id": "msg_0716_00030",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "In der Kanto-Region gibt es noch viele\n",
+        "Pokémon, die ich noch nicht kenne.\r",
+        "Wer weiß, vielleicht kennt man dort auch\n",
+        "mir völlig neue Entwicklungsmethoden!\r",
+        "Halte also immer die Augen auf\n",
+        "und beobachte alles ganz genau!"
+      ]
+    },
+    {
+      "id": "msg_0716_00031",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Pokémon, die mit dem Pokérus infiziert\n",
+        "sind, scheinen schneller zu wachsen.\f",
+        "Wenn ich nur wüsste, woran das liegt..."
+      ]
+    },
+    {
+      "id": "msg_0716_00032",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Pokémon, die mit dem Pokérus infiziert\n",
+        "sind, scheinen schneller zu wachsen.\f",
+        "Wenn ich nur wüsste, woran das liegt..."
+      ]
+    },
+    {
+      "id": "msg_0716_00033",
+      "de_DE": [
+        "H-hallo, {STRVAR_1 3, 0, 0}?\n",
+        "Es ist schrecklich!\f",
+        "Äh... uhm... wie soll ich das erklären?\r",
+        "Ich weiß ja selbst nicht, wie...\n",
+        "Jedenfalls ist es ganz schrecklich!\r",
+        "Bitte, komm schnell zurück!"
+      ]
+    },
+    {
+      "id": "msg_0716_00034",
+      "de_DE": [
+        "H-hallo, {STRVAR_1 3, 0, 0}?\n",
+        "Es ist schrecklich!\f",
+        "Äh... uhm... wie soll ich das erklären?\r",
+        "Ich weiß ja selbst nicht, wie...\n",
+        "Jedenfalls ist es ganz schrecklich!\r",
+        "Bitte, komm schnell zurück!"
+      ]
+    },
+    {
+      "id": "msg_0716_00035",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe noch eine Entdeckung gemacht!\r",
+        "Genaues kann ich dir nicht sagen,\n",
+        "aber ich möchte unbedingt,\f",
+        "dass du das Ei an dich nimmst!\r",
+        "Mein Assistent wartet im\n",
+        "Pokémon-Supermarkt von Viola City auf\f",
+        "dich.\f",
+        "Sei so gut und hole es dort ab, ja?"
+      ]
+    },
+    {
+      "id": "msg_0716_00036",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe noch eine Entdeckung gemacht!\r",
+        "Genaues kann ich dir nicht sagen,\n",
+        "aber ich möchte unbedingt,\f",
+        "dass du das Ei an dich nimmst!\r",
+        "Mein Assistent wartet im\n",
+        "Pokémon-Supermarkt von Viola City auf\f",
+        "dich.\f",
+        "Sei so gut und hole es dort ab, ja?"
+      ]
+    },
+    {
+      "id": "msg_0716_00037",
+      "de_DE": [
+        "He, {STRVAR_1 3, 0, 0}!\n",
+        "Wie stehen die Dinge?\r",
+        "Hör mal, im Radio geschieht gerade\n",
+        "irgendetwas Merkwürdiges.\f",
+        "Ich höre immer bloß “Team Rocket”...\r",
+        "Da dachte ich, ich rufe mal an.\n",
+        "{STRVAR_1 3, 0, 0}, weißt du, was da los ist?\r",
+        "Team Rocket feiert doch nicht etwa\n",
+        "ein Comeback?\f",
+        "Nein... das wäre doch zu abwegig.\r",
+        "Entschuldige, ich wollte dich nicht\n",
+        "beunruhigen. Pass auf dich auf!"
+      ]
+    },
+    {
+      "id": "msg_0716_00038",
+      "de_DE": [
+        "He, {STRVAR_1 3, 0, 0}!\n",
+        "Wie stehen die Dinge?\r",
+        "Hör mal, im Radio geschieht gerade\n",
+        "irgendetwas Merkwürdiges.\f",
+        "Ich höre immer bloß “Team Rocket”...\r",
+        "Da dachte ich, ich rufe mal an.\n",
+        "{STRVAR_1 3, 0, 0}, weißt du, was da los ist?\r",
+        "Team Rocket feiert doch nicht etwa\n",
+        "ein Comeback?\f",
+        "Nein... das wäre doch zu abwegig.\r",
+        "Entschuldige, ich wollte dich nicht\n",
+        "beunruhigen. Pass auf dich auf!"
+      ]
+    },
+    {
+      "id": "msg_0716_00039",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Wie steht’s?\r",
+        "Hör mal,\n",
+        "ich habe hier etwas Tolles für dich!\f",
+        "Hol es dir bei Gelegenheit im Labor ab.\r",
+        "Bis die Tage!"
+      ]
+    },
+    {
+      "id": "msg_0716_00040",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Wie steht’s?\r",
+        "Hör mal,\n",
+        "ich habe hier etwas Tolles für dich!\f",
+        "Hol es dir bei Gelegenheit im Labor ab.\r",
+        "Bis die Tage!"
+      ]
+    },
+    {
+      "id": "msg_0716_00041",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe hier etwas für dich.\r",
+        "Schaust du mal in meinem Labor vorbei?\n",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0716_00042",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe hier etwas für dich.\r",
+        "Schaust du mal in meinem Labor vorbei?\n",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0716_00043",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0, 0}, bist du dran?!\r",
+        "Ich habe da etwas Seltsames entdeckt.\n",
+        "Anscheinend gibt es einen sogenannten\f",
+        "Pokérus, der Pokémon infiziert.\r",
+        "Ja, genau. Es muss eine Art Virus sein -\n",
+        "daher ja auch der Name.\r",
+        "Der Pokérus vermehrt sich rapide und\n",
+        "befällt andere Pokémon in deinem Team.\r",
+        "Sonstige Auswirkungen scheint er aber\n",
+        "nicht zu haben und nach einiger Zeit\f",
+        "verschwindet er ganz von allein.\r",
+        "Ich denke, man braucht sich darüber\n",
+        "keine Sorgen zu machen!\r",
+        "Das war’s auch schon. Halt die\n",
+        "Ohren steif!"
+      ]
+    },
+    {
+      "id": "msg_0716_00044",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0, 0}, bist du dran?!\r",
+        "Ich habe da etwas Seltsames entdeckt.\n",
+        "Anscheinend gibt es einen sogenannten\f",
+        "Pokérus, der Pokémon infiziert.\r",
+        "Ja, genau. Es muss eine Art Virus sein -\n",
+        "daher ja auch der Name.\r",
+        "Der Pokérus vermehrt sich rapide und\n",
+        "befällt andere Pokémon in deinem Team.\r",
+        "Sonstige Auswirkungen scheint er aber\n",
+        "nicht zu haben und nach einiger Zeit\f",
+        "verschwindet er ganz von allein.\r",
+        "Ich denke, man braucht sich darüber\n",
+        "keine Sorgen zu machen!\r",
+        "Das war’s auch schon. Halt die\n",
+        "Ohren steif!"
+      ]
+    }
+  ]
+}

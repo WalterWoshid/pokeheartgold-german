@@ -1,0 +1,23 @@
+{
+  "key": 42007,
+  "messages": [
+    {
+      "id": "msg_0503_00000",
+      "de_DE": [
+        "Du verbringst viel Zeit mit\n",
+        "{STRVAR_1 3, 0}. Ihr seid wahre Freunde!"
+      ]
+    },
+    {
+      "id": "msg_0503_00001",
+      "de_DE": [
+        "Vor langer Zeit bin ich mit meinen\n",
+        "Pokémon ebenfalls auf eine\f",
+        "Abenteuerreise gegangen.\r",
+        "Sie führte mich nur bis in den\n",
+        "Nachbarort, aber dennoch...\f",
+        "Es war eine schöne Zeit."
+      ]
+    }
+  ]
+}

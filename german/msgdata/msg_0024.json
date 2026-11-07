@@ -1,0 +1,390 @@
+{
+  "key": 62272,
+  "messages": [
+    {
+      "id": "msg_0024_00000",
+      "de_DE": "{STRVAR_1 0, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00001",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00002",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0024_00003",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0024_00004",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0024_00005",
+      "de_DE": "{STRVAR_1 11, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00006",
+      "de_DE": "BOX 1"
+    },
+    {
+      "id": "msg_0024_00007",
+      "de_DE": "BOX 2"
+    },
+    {
+      "id": "msg_0024_00008",
+      "de_DE": "BOX 3"
+    },
+    {
+      "id": "msg_0024_00009",
+      "de_DE": "BOX 4"
+    },
+    {
+      "id": "msg_0024_00010",
+      "de_DE": "BOX 5"
+    },
+    {
+      "id": "msg_0024_00011",
+      "de_DE": "BOX 6"
+    },
+    {
+      "id": "msg_0024_00012",
+      "de_DE": "BOX 7"
+    },
+    {
+      "id": "msg_0024_00013",
+      "de_DE": "BOX 8"
+    },
+    {
+      "id": "msg_0024_00014",
+      "de_DE": "BOX 9"
+    },
+    {
+      "id": "msg_0024_00015",
+      "de_DE": "BOX 10"
+    },
+    {
+      "id": "msg_0024_00016",
+      "de_DE": "BOX 11"
+    },
+    {
+      "id": "msg_0024_00017",
+      "de_DE": "BOX 12"
+    },
+    {
+      "id": "msg_0024_00018",
+      "de_DE": "BOX 13"
+    },
+    {
+      "id": "msg_0024_00019",
+      "de_DE": "BOX 14"
+    },
+    {
+      "id": "msg_0024_00020",
+      "de_DE": "BOX 15"
+    },
+    {
+      "id": "msg_0024_00021",
+      "de_DE": "BOX 16"
+    },
+    {
+      "id": "msg_0024_00022",
+      "de_DE": "BOX 17"
+    },
+    {
+      "id": "msg_0024_00023",
+      "de_DE": "BOX 18"
+    },
+    {
+      "id": "msg_0024_00024",
+      "de_DE": "{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}"
+    },
+    {
+      "id": "msg_0024_00025",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0024_00026",
+      "de_DE": "MOTIV"
+    },
+    {
+      "id": "msg_0024_00027",
+      "de_DE": "NAME"
+    },
+    {
+      "id": "msg_0024_00028",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0024_00029",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0024_00030",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0024_00031",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0024_00032",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0024_00033",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0024_00034",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0024_00035",
+      "de_DE": "WALD"
+    },
+    {
+      "id": "msg_0024_00036",
+      "de_DE": "MAUER"
+    },
+    {
+      "id": "msg_0024_00037",
+      "de_DE": "WÜSTE"
+    },
+    {
+      "id": "msg_0024_00038",
+      "de_DE": "STEPPE"
+    },
+    {
+      "id": "msg_0024_00039",
+      "de_DE": "GERÖLL"
+    },
+    {
+      "id": "msg_0024_00040",
+      "de_DE": "VULKAN"
+    },
+    {
+      "id": "msg_0024_00041",
+      "de_DE": "SCHNEE"
+    },
+    {
+      "id": "msg_0024_00042",
+      "de_DE": "HÖHLE"
+    },
+    {
+      "id": "msg_0024_00043",
+      "de_DE": "STRAND"
+    },
+    {
+      "id": "msg_0024_00044",
+      "de_DE": "TIEFSEE"
+    },
+    {
+      "id": "msg_0024_00045",
+      "de_DE": "FLUSS"
+    },
+    {
+      "id": "msg_0024_00046",
+      "de_DE": "HIMMEL"
+    },
+    {
+      "id": "msg_0024_00047",
+      "de_DE": "POKé-CENTER"
+    },
+    {
+      "id": "msg_0024_00048",
+      "de_DE": "METALL"
+    },
+    {
+      "id": "msg_0024_00049",
+      "de_DE": "KARIERT"
+    },
+    {
+      "id": "msg_0024_00050",
+      "de_DE": "WEISS"
+    },
+    {
+      "id": "msg_0024_00051",
+      "de_DE": "HEART"
+    },
+    {
+      "id": "msg_0024_00052",
+      "de_DE": "SOUL"
+    },
+    {
+      "id": "msg_0024_00053",
+      "de_DE": "CASTOR"
+    },
+    {
+      "id": "msg_0024_00054",
+      "de_DE": "POKéATHLON"
+    },
+    {
+      "id": "msg_0024_00055",
+      "de_DE": "TRIO"
+    },
+    {
+      "id": "msg_0024_00056",
+      "de_DE": "PICHU PIKA"
+    },
+    {
+      "id": "msg_0024_00057",
+      "de_DE": "KIMONO"
+    },
+    {
+      "id": "msg_0024_00058",
+      "de_DE": "COMEBACK"
+    },
+    {
+      "id": "msg_0024_00059",
+      "de_DE": "-"
+    },
+    {
+      "id": "msg_0024_00060",
+      "de_DE": "TEAM-₧₦"
+    },
+    {
+      "id": "msg_0024_00061",
+      "de_DE": "BEWEGEN"
+    },
+    {
+      "id": "msg_0024_00062",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0024_00063",
+      "de_DE": "BOX WECHSELN"
+    },
+    {
+      "id": "msg_0024_00064",
+      "de_DE": "ITEM BEWEG."
+    },
+    {
+      "id": "msg_0024_00065",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0024_00066",
+      "de_DE": "ITEM"
+    },
+    {
+      "id": "msg_0024_00067",
+      "de_DE": "MARKIEREN"
+    },
+    {
+      "id": "msg_0024_00068",
+      "de_DE": "FREILASSEN"
+    },
+    {
+      "id": "msg_0024_00069",
+      "de_DE": "MITNEHMEN"
+    },
+    {
+      "id": "msg_0024_00070",
+      "de_DE": "ABLEGEN"
+    },
+    {
+      "id": "msg_0024_00071",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0024_00072",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0024_00073",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0024_00074",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0024_00075",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0024_00076",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0024_00077",
+      "de_DE": [
+        "BOX\n",
+        "WECHSELN"
+      ]
+    },
+    {
+      "id": "msg_0024_00078",
+      "de_DE": [
+        "MOTIV\n",
+        "WECHSELN"
+      ]
+    },
+    {
+      "id": "msg_0024_00079",
+      "de_DE": [
+        "POKéMON\n",
+        "ABLEGEN"
+      ]
+    },
+    {
+      "id": "msg_0024_00080",
+      "de_DE": "BEUTEL"
+    },
+    {
+      "id": "msg_0024_00081",
+      "de_DE": "GEBEN"
+    },
+    {
+      "id": "msg_0024_00082",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0024_00083",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0024_00084",
+      "de_DE": "{STRVAR_1 5, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00085",
+      "de_DE": "{STRVAR_1 7, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00086",
+      "de_DE": "{STRVAR_1 8, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00087",
+      "de_DE": "WESEN"
+    },
+    {
+      "id": "msg_0024_00088",
+      "de_DE": "FÄHIGKEIT"
+    },
+    {
+      "id": "msg_0024_00089",
+      "de_DE": "ITEM"
+    },
+    {
+      "id": "msg_0024_00090",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00091",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0024_00092",
+      "de_DE": "Nichts"
+    },
+    {
+      "id": "msg_0024_00093",
+      "de_DE": "???"
+    }
+  ]
+}

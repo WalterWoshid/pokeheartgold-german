@@ -4315,7 +4315,7 @@ _021E7ADA:
 	strb r0, [r5, #4]
 	mov r0, #GAME_VERSION
 	strb r0, [r5, #5]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	strb r0, [r5, #6]
 	add r0, r4, #0
 	bl PlayerProfile_GetNamePtr

@@ -1,0 +1,281 @@
+{
+  "key": 18871,
+  "messages": [
+    {
+      "id": "msg_0496_00000",
+      "de_DE": [
+        "Lucia: Hey, {STRVAR_1 3, 0}?\n",
+        "Der Professor hat mir was erzählt.\r",
+        "Er glaubt, dass {STRVAR_1 0, 1} wieder an\n",
+        "der Speersäule aufgetaucht ist..."
+      ]
+    },
+    {
+      "id": "msg_0496_00001",
+      "de_DE": [
+        "Lucia: Hallo, {STRVAR_1 3, 0}!\r",
+        "Du kennst doch die Älteste von\n",
+        "Elyses gut, nicht wahr?\r",
+        "Sie hat mir gesagt, ich soll dir\n",
+        "ausrichten, dass sie dir etwas\f",
+        "zeigen möchte."
+      ]
+    },
+    {
+      "id": "msg_0496_00002",
+      "de_DE": [
+        "Lucia: Hallo, {STRVAR_1 3, 0}!\n",
+        "Zeigst du mir mal deinen Pokédex?\r",
+        "...\r",
+        "Oh, Wahnsinn!!! Du hast ja jede\n",
+        "Pokémonart in Sinnoh gesehen!\r",
+        "Hast du Prof. Eibe schon deinen\n",
+        "Pokédex gezeigt?"
+      ]
+    },
+    {
+      "id": "msg_0496_00003",
+      "de_DE": [
+        "Lucia: Hey, {STRVAR_1 3, 0}, hast du\n",
+        "eigentlich schon meine kleine\f",
+        "Schwester getroffen?"
+      ]
+    },
+    {
+      "id": "msg_0496_00004",
+      "de_DE": [
+        "Lucia: Oh, du kennst Lana bereits,\n",
+        "{STRVAR_1 3, 0}?\r",
+        "Sie wohnt in Herzhofen.\r",
+        "Jeder Trainer sollte Lana einen\n",
+        "Besuch abstatten."
+      ]
+    },
+    {
+      "id": "msg_0496_00005",
+      "de_DE": [
+        "Lucia: Hey! {STRVAR_1 3, 0}, besitzt du\n",
+        "ein Pokéradar?\r",
+        "Achte auf hohes Gras, in dem sich was\n",
+        "bewegt, wenn du das Radar einsetzt.\r",
+        "Vielleicht hast du Glück und dort hat\n",
+        "sich ein seltenes Pokémon versteckt."
+      ]
+    },
+    {
+      "id": "msg_0496_00006",
+      "de_DE": [
+        "Lucia: Hi, {STRVAR_1 3, 0}!\n",
+        "Was macht dein Pokéradar?\r",
+        "Siehst du manchmal, wenn du es\n",
+        "einsetzt, dass sich mehr als eine\f",
+        "Grasstelle bewegt?\r",
+        "Die Stelle, die weiter von dir entfernt\n",
+        "ist, könnte ein ähnliches Pokémon\f",
+        "verbergen.\r",
+        "Das denke ich jedenfalls."
+      ]
+    },
+    {
+      "id": "msg_0496_00007",
+      "de_DE": [
+        "Lucia: Manchmal funkelt ein Grasfleck,\n",
+        "während du das Pokéradar einsetzt.\r",
+        "Man sagt, dass sich ein Pokémon in\n",
+        "einer anderen Farbe dort versteckt!\r",
+        "Ob das wohl stimmt?"
+      ]
+    },
+    {
+      "id": "msg_0496_00008",
+      "de_DE": [
+        "Lucia: So, {STRVAR_1 3, 0}.\r",
+        "Ich helfe dem Professor, den Nationalen\n",
+        "Pokédex zusammenzustellen.\r",
+        "Das Fangen von Pokémon kann eine wahre\n",
+        "Herausforderung sein, habe ich Recht?\r",
+        "Aber genau das macht ja so viel Spaß!"
+      ]
+    },
+    {
+      "id": "msg_0496_00009",
+      "de_DE": [
+        "Lucia: {STRVAR_1 3, 0}!\r",
+        "{STRVAR_1 3, 0}, {STRVAR_1 3, 0},\n",
+        "{STRVAR_1 3, 0}!\r",
+        "Herzlichen Glückwunsch zur Vervoll-\n",
+        "ständigung des Nationalen Pokédex!"
+      ]
+    },
+    {
+      "id": "msg_0496_00010",
+      "de_DE": [
+        "Lucia: Du, kann es sein, dass du\n",
+        "heute Geburtstag hast, {STRVAR_1 3, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0496_00011",
+      "de_DE": [
+        "Lucia: Hiii hiii...\n",
+        "Herzlichen Glückwunsch, {STRVAR_1 3, 0}!\f",
+        "Und alles, alles Gute!"
+      ]
+    },
+    {
+      "id": "msg_0496_00012",
+      "de_DE": [
+        "Lucia: Oh, du hast gar nicht\n",
+        "Geburtstag?\r",
+        "Wie komme ich denn dann bloß\n",
+        "darauf?!? Mh..."
+      ]
+    },
+    {
+      "id": "msg_0496_00013",
+      "de_DE": [
+        "Lucia: {STRVAR_1 3, 0}!\n",
+        "Meinen Glückwunsch, Champ!\r",
+        "Das war einfach unglaublich!"
+      ]
+    },
+    {
+      "id": "msg_0496_00014",
+      "de_DE": [
+        "Lucius: Hey, {STRVAR_1 3, 0}?\n",
+        "Der Professor hat mir was erzählt.\r",
+        "Er glaubt, dass {STRVAR_1 0, 1} wieder an\n",
+        "der Speersäule aufgetaucht ist..."
+      ]
+    },
+    {
+      "id": "msg_0496_00015",
+      "de_DE": [
+        "Lucius: Hallo, {STRVAR_1 3, 0}!\r",
+        "Du kennst doch die Älteste von\n",
+        "Elyses gut, nicht wahr?\r",
+        "Sie hat mir gesagt, ich soll dir\n",
+        "ausrichten, dass sie dir etwas\f",
+        "zeigen möchte."
+      ]
+    },
+    {
+      "id": "msg_0496_00016",
+      "de_DE": [
+        "Lucius: Hallo, {STRVAR_1 3, 0}!\n",
+        "Zeigst du mir mal deinen Pokédex?\r",
+        "...\r",
+        "Irre!!! Du hast ja jede Pokémonart in\n",
+        "Sinnoh gesehen!\r",
+        "Hast du Prof. Eibe schon deinen\n",
+        "Pokédex gezeigt?"
+      ]
+    },
+    {
+      "id": "msg_0496_00017",
+      "de_DE": [
+        "Lucius: Hey, {STRVAR_1 3, 0}, hast du\n",
+        "eigentlich schon meine kleine\f",
+        "Schwester getroffen?"
+      ]
+    },
+    {
+      "id": "msg_0496_00018",
+      "de_DE": [
+        "Lucius: Oh, du kennst Lana bereits,\n",
+        "{STRVAR_1 3, 0}?\r",
+        "Sie wohnt in Herzhofen.\r",
+        "Jeder Trainer sollte Lana einen\n",
+        "Besuch abstatten."
+      ]
+    },
+    {
+      "id": "msg_0496_00019",
+      "de_DE": [
+        "Lucius: Hey! {STRVAR_1 3, 0}, besitzt du\n",
+        "ein Pokéradar?\r",
+        "Achte auf hohes Gras, in dem sich was\n",
+        "bewegt, wenn du das Radar einsetzt.\r",
+        "Vielleicht hast du Glück und dort hat\n",
+        "sich ein seltenes Pokémon versteckt."
+      ]
+    },
+    {
+      "id": "msg_0496_00020",
+      "de_DE": [
+        "Lucius: Hi, {STRVAR_1 3, 0}!\n",
+        "Was macht dein Pokéradar?\r",
+        "Siehst du manchmal, wenn du es\n",
+        "einsetzt, dass sich mehr als eine\f",
+        "Grasstelle bewegt?\r",
+        "Die Stelle, die weiter von dir entfernt\n",
+        "ist, könnte ein ähnliches Pokémon\f",
+        "verbergen.\r",
+        "Das denke ich jedenfalls."
+      ]
+    },
+    {
+      "id": "msg_0496_00021",
+      "de_DE": [
+        "Lucius: Manchmal funkelt ein Grasfleck,\n",
+        "während du das Pokéradar einsetzt.\r",
+        "Man sagt, dass ein Pokémon in einer\n",
+        "anderen Farbe sich dort versteckt!\r",
+        "Ob das wohl stimmt?"
+      ]
+    },
+    {
+      "id": "msg_0496_00022",
+      "de_DE": [
+        "Lucius: So, {STRVAR_1 3, 0}.\r",
+        "Ich helfe dem Professor, den Nationalen\n",
+        "Pokédex zusammenzustellen.\r",
+        "Das Fangen von Pokémon kann eine wahre\n",
+        "Herausforderung sein, habe ich Recht?\r",
+        "Aber genau das macht ja so viel Spaß!"
+      ]
+    },
+    {
+      "id": "msg_0496_00023",
+      "de_DE": [
+        "Lucius: {STRVAR_1 3, 0}!\r",
+        "{STRVAR_1 3, 0}, {STRVAR_1 3, 0},\n",
+        "{STRVAR_1 3, 0}!\r",
+        "Herzlichen Glückwunsch zur Vervoll-\n",
+        "ständigung des Nationalen Pokédex!"
+      ]
+    },
+    {
+      "id": "msg_0496_00024",
+      "de_DE": [
+        "Lucius: Du, kann es sein, dass du\n",
+        "heute Geburtstag hast, {STRVAR_1 3, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0496_00025",
+      "de_DE": [
+        "Lucius: Wusste ich es doch!\n",
+        "Herzlichen Glückwunsch, {STRVAR_1 3, 0}!\f",
+        "Auf viele weitere Jahre Freundschaft!"
+      ]
+    },
+    {
+      "id": "msg_0496_00026",
+      "de_DE": [
+        "Lucius: Oh, du hast gar nicht\n",
+        "Geburtstag?\r",
+        "Wie komme ich denn dann bloß\n",
+        "darauf?!? Seltsam, seltsam."
+      ]
+    },
+    {
+      "id": "msg_0496_00027",
+      "de_DE": [
+        "Lucius: {STRVAR_1 3, 0}!\n",
+        "Meinen Glückwunsch, Champ!\r",
+        "Das war einfach unglaublich!"
+      ]
+    }
+  ]
+}

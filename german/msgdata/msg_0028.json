@@ -1,0 +1,151 @@
+{
+  "key": 12299,
+  "messages": [
+    {
+      "id": "msg_0028_00000",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0028_00001",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0028_00002",
+      "de_DE": "Wi-Fi-Kampf - Ergebnisse"
+    },
+    {
+      "id": "msg_0028_00003",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0028_00004",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0028_00005",
+      "de_DE": [
+        "{COLOR 1}Aktueller{COLOR 0}\n",
+        "{COLOR 1}Rang{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0028_00006",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0028_00007",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0028_00008",
+      "de_DE": [
+        "{COLOR 1}Rekord\n",
+        "Wi-Fi{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0028_00009",
+      "de_DE": "{COLOR 1}VORHER{COLOR 0}"
+    },
+    {
+      "id": "msg_0028_00010",
+      "de_DE": "{COLOR 1}AKTUELL{COLOR 0}"
+    },
+    {
+      "id": "msg_0028_00011",
+      "de_DE": "{COLOR 1}REKORD{COLOR 0}"
+    },
+    {
+      "id": "msg_0028_00012",
+      "de_DE": "{COLOR 1}RANG{COLOR 0}"
+    },
+    {
+      "id": "msg_0028_00013",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0028_00014",
+      "de_DE": "{STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0028_00015",
+      "de_DE": "Siegesserie: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0028_00016",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0028_00017",
+      "de_DE": "Rang {STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0028_00018",
+      "de_DE": "Kampfraum {STRVAR_1 52, 1, 0}"
+    },
+    {
+      "id": "msg_0028_00019",
+      "de_DE": "TOP TRAINER"
+    },
+    {
+      "id": "msg_0028_00020",
+      "de_DE": "{STRVAR_1 50, 0, 0}"
+    },
+    {
+      "id": "msg_0028_00021",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0028_00022",
+      "de_DE": "Werteübersicht {COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 0}"
+    },
+    {
+      "id": "msg_0028_00023",
+      "de_DE": "Werteübersicht {COLOR 1}{STRVAR_1 3, 0, 0}{COLOR 0}"
+    },
+    {
+      "id": "msg_0028_00024",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0028_00025",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0028_00026",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0028_00027",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0028_00028",
+      "de_DE": "Heimatort"
+    },
+    {
+      "id": "msg_0028_00029",
+      "de_DE": "{STRVAR_1 36, 0, 0}"
+    },
+    {
+      "id": "msg_0028_00030",
+      "de_DE": "{STRVAR_1 37, 0, 0}"
+    },
+    {
+      "id": "msg_0028_00031",
+      "de_DE": "nicht registriert"
+    },
+    {
+      "id": "msg_0028_00032",
+      "de_DE": "Fühlt sich wie die Nummer eins."
+    },
+    {
+      "id": "msg_0028_00033",
+      "de_DE": "Heart"
+    },
+    {
+      "id": "msg_0028_00034",
+      "de_DE": "Soul"
+    }
+  ]
+}

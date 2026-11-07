@@ -6,10 +6,17 @@
 #include "unk_02091278.h"
 
 // Lookup table for dex flag cycling
+#ifdef GERMAN
+static const u8 sDexCycleTable[] = {
+    3,
+    1,
+    2,
+#else
 static const u8 sDexCycleTable[] = {
     1,
     2,
     3,
+#endif
     4,
     5,
     0
@@ -23,7 +30,7 @@ int sub_020912AC(int index) {
         return sDexCycleTable[index];
     }
 
-    return LanguageToDexFlag(LANGUAGE_ENGLISH);
+    return LanguageToDexFlag(GAME_LANGUAGE);
 }
 
 // Get dex cycle value with offset wrapping
@@ -38,5 +45,5 @@ s16 sub_020912D0(s16 value, u32 offset) {
         }
     }
 
-    return LanguageToDexFlag(LANGUAGE_ENGLISH);
+    return LanguageToDexFlag(GAME_LANGUAGE);
 }

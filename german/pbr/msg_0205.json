@@ -1,0 +1,33 @@
+{
+  "key": 24412,
+  "messages": [
+    {
+      "id": "msg_0205_00000",
+      "de_DE": "Schlaf"
+    },
+    {
+      "id": "msg_0205_00001",
+      "de_DE": "Gift"
+    },
+    {
+      "id": "msg_0205_00002",
+      "de_DE": "Brand"
+    },
+    {
+      "id": "msg_0205_00003",
+      "de_DE": "Paralyse"
+    },
+    {
+      "id": "msg_0205_00004",
+      "de_DE": "Gefroren"
+    },
+    {
+      "id": "msg_0205_00005",
+      "de_DE": "Verwirrt"
+    },
+    {
+      "id": "msg_0205_00006",
+      "de_DE": "Anziehung"
+    }
+  ]
+}

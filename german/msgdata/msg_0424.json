@@ -1,0 +1,2559 @@
+{
+  "key": 53609,
+  "messages": [
+    {
+      "id": "msg_0424_00000",
+      "de_DE": "Band des Champs"
+    },
+    {
+      "id": "msg_0424_00001",
+      "de_DE": "Band der Coolness"
+    },
+    {
+      "id": "msg_0424_00002",
+      "de_DE": "Band der Coolness Super"
+    },
+    {
+      "id": "msg_0424_00003",
+      "de_DE": "Band der Coolness Hyper"
+    },
+    {
+      "id": "msg_0424_00004",
+      "de_DE": "Band der Coolness Master"
+    },
+    {
+      "id": "msg_0424_00005",
+      "de_DE": "Band der Schönheit"
+    },
+    {
+      "id": "msg_0424_00006",
+      "de_DE": "Band der Schönheit Super"
+    },
+    {
+      "id": "msg_0424_00007",
+      "de_DE": "Band der Schönheit Hyper"
+    },
+    {
+      "id": "msg_0424_00008",
+      "de_DE": "Band der Schönheit Master"
+    },
+    {
+      "id": "msg_0424_00009",
+      "de_DE": "Band der Anmut"
+    },
+    {
+      "id": "msg_0424_00010",
+      "de_DE": "Band der Anmut Super"
+    },
+    {
+      "id": "msg_0424_00011",
+      "de_DE": "Band der Anmut Hyper"
+    },
+    {
+      "id": "msg_0424_00012",
+      "de_DE": "Band der Anmut Master"
+    },
+    {
+      "id": "msg_0424_00013",
+      "de_DE": "Band der Klugheit"
+    },
+    {
+      "id": "msg_0424_00014",
+      "de_DE": "Band der Klugheit Super"
+    },
+    {
+      "id": "msg_0424_00015",
+      "de_DE": "Band der Klugheit Hyper"
+    },
+    {
+      "id": "msg_0424_00016",
+      "de_DE": "Band der Klugheit Master"
+    },
+    {
+      "id": "msg_0424_00017",
+      "de_DE": "Band der Stärke"
+    },
+    {
+      "id": "msg_0424_00018",
+      "de_DE": "Band der Stärke Super"
+    },
+    {
+      "id": "msg_0424_00019",
+      "de_DE": "Band der Stärke Hyper"
+    },
+    {
+      "id": "msg_0424_00020",
+      "de_DE": "Band der Stärke Master"
+    },
+    {
+      "id": "msg_0424_00021",
+      "de_DE": "Band des Gewinners"
+    },
+    {
+      "id": "msg_0424_00022",
+      "de_DE": "Band des Sieges"
+    },
+    {
+      "id": "msg_0424_00023",
+      "de_DE": "Band des Künstlers"
+    },
+    {
+      "id": "msg_0424_00024",
+      "de_DE": "Fleiß-Band"
+    },
+    {
+      "id": "msg_0424_00025",
+      "de_DE": "Band des Meeres"
+    },
+    {
+      "id": "msg_0424_00026",
+      "de_DE": "Band der Landmassen"
+    },
+    {
+      "id": "msg_0424_00027",
+      "de_DE": "Band der Lüfte"
+    },
+    {
+      "id": "msg_0424_00028",
+      "de_DE": "Band des Landes"
+    },
+    {
+      "id": "msg_0424_00029",
+      "de_DE": "Band der Nation"
+    },
+    {
+      "id": "msg_0424_00030",
+      "de_DE": "Band der Erde"
+    },
+    {
+      "id": "msg_0424_00031",
+      "de_DE": "Band der Welt"
+    },
+    {
+      "id": "msg_0424_00032",
+      "de_DE": "Band des Champs von Sinnoh"
+    },
+    {
+      "id": "msg_0424_00033",
+      "de_DE": "Band der Coolness"
+    },
+    {
+      "id": "msg_0424_00034",
+      "de_DE": "Band der Coolness Mega"
+    },
+    {
+      "id": "msg_0424_00035",
+      "de_DE": "Band der Coolness Ultra"
+    },
+    {
+      "id": "msg_0424_00036",
+      "de_DE": "Band der Coolness Master"
+    },
+    {
+      "id": "msg_0424_00037",
+      "de_DE": "Band der Schönheit"
+    },
+    {
+      "id": "msg_0424_00038",
+      "de_DE": "Band der Schönheit Mega"
+    },
+    {
+      "id": "msg_0424_00039",
+      "de_DE": "Band der Schönheit Ultra"
+    },
+    {
+      "id": "msg_0424_00040",
+      "de_DE": "Band der Schönheit Master"
+    },
+    {
+      "id": "msg_0424_00041",
+      "de_DE": "Band der Anmut"
+    },
+    {
+      "id": "msg_0424_00042",
+      "de_DE": "Band der Anmut Mega"
+    },
+    {
+      "id": "msg_0424_00043",
+      "de_DE": "Band der Anmut Ultra"
+    },
+    {
+      "id": "msg_0424_00044",
+      "de_DE": "Band der Anmut Master"
+    },
+    {
+      "id": "msg_0424_00045",
+      "de_DE": "Band der Klugheit"
+    },
+    {
+      "id": "msg_0424_00046",
+      "de_DE": "Band der Klugheit Mega"
+    },
+    {
+      "id": "msg_0424_00047",
+      "de_DE": "Band der Klugheit Ultra"
+    },
+    {
+      "id": "msg_0424_00048",
+      "de_DE": "Band der Klugheit Master"
+    },
+    {
+      "id": "msg_0424_00049",
+      "de_DE": "Band der Stärke"
+    },
+    {
+      "id": "msg_0424_00050",
+      "de_DE": "Band der Stärke Mega"
+    },
+    {
+      "id": "msg_0424_00051",
+      "de_DE": "Band der Stärke Ultra"
+    },
+    {
+      "id": "msg_0424_00052",
+      "de_DE": "Band der Stärke Master"
+    },
+    {
+      "id": "msg_0424_00053",
+      "de_DE": "Band der Fähigkeit"
+    },
+    {
+      "id": "msg_0424_00054",
+      "de_DE": "Großes Band der Fähigkeit"
+    },
+    {
+      "id": "msg_0424_00055",
+      "de_DE": "Doppel-Band der Fähigkeit"
+    },
+    {
+      "id": "msg_0424_00056",
+      "de_DE": "Multi-Band der Fähigkeit"
+    },
+    {
+      "id": "msg_0424_00057",
+      "de_DE": "Paar-Band der Fähigkeit"
+    },
+    {
+      "id": "msg_0424_00058",
+      "de_DE": "Welt-Band der Fähigkeit"
+    },
+    {
+      "id": "msg_0424_00059",
+      "de_DE": "Band der Wachsamkeit"
+    },
+    {
+      "id": "msg_0424_00060",
+      "de_DE": "Band des Schocks"
+    },
+    {
+      "id": "msg_0424_00061",
+      "de_DE": "Band des Niederschlags"
+    },
+    {
+      "id": "msg_0424_00062",
+      "de_DE": "Band der Sorglosigkeit"
+    },
+    {
+      "id": "msg_0424_00063",
+      "de_DE": "Band der Entspannung"
+    },
+    {
+      "id": "msg_0424_00064",
+      "de_DE": "Band des Schlafens"
+    },
+    {
+      "id": "msg_0424_00065",
+      "de_DE": "Band des Lächelns"
+    },
+    {
+      "id": "msg_0424_00066",
+      "de_DE": "Hinreißendes Band"
+    },
+    {
+      "id": "msg_0424_00067",
+      "de_DE": "Königliches Band"
+    },
+    {
+      "id": "msg_0424_00068",
+      "de_DE": "Hinreißendes Königliches Band"
+    },
+    {
+      "id": "msg_0424_00069",
+      "de_DE": "Fußabdruck-Band"
+    },
+    {
+      "id": "msg_0424_00070",
+      "de_DE": "Band des Rekords"
+    },
+    {
+      "id": "msg_0424_00071",
+      "de_DE": "Band der Geschichte"
+    },
+    {
+      "id": "msg_0424_00072",
+      "de_DE": "Band der Legende"
+    },
+    {
+      "id": "msg_0424_00073",
+      "de_DE": "Rotes Band"
+    },
+    {
+      "id": "msg_0424_00074",
+      "de_DE": "Grünes Band"
+    },
+    {
+      "id": "msg_0424_00075",
+      "de_DE": "Blaues Band"
+    },
+    {
+      "id": "msg_0424_00076",
+      "de_DE": "Festival-Band"
+    },
+    {
+      "id": "msg_0424_00077",
+      "de_DE": "Jahrmarkt-Band"
+    },
+    {
+      "id": "msg_0424_00078",
+      "de_DE": "Klassisches Band"
+    },
+    {
+      "id": "msg_0424_00079",
+      "de_DE": "Premierband"
+    },
+    {
+      "id": "msg_0424_00080",
+      "de_DE": [
+        "Band für Meisterung der Pokémon Liga und\n",
+        "Erreichen der Ruhmeshalle in anderer Region."
+      ]
+    },
+    {
+      "id": "msg_0424_00081",
+      "de_DE": [
+        "Hoenn Coolness-Wettbewerb\n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00082",
+      "de_DE": [
+        "Hoenn Coolness-Wettbewerb\n",
+        "Sieger in der Super-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00083",
+      "de_DE": [
+        "Hoenn Coolness-Wettbewerb\n",
+        "Sieger in der Hyper-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00084",
+      "de_DE": [
+        "Hoenn Coolness-Wettbewerb\n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00085",
+      "de_DE": [
+        "Hoenn Schönheitswettbewerb\n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00086",
+      "de_DE": [
+        "Hoenn Schönheitswettbewerb\n",
+        "Sieger in der Super-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00087",
+      "de_DE": [
+        "Hoenn Schönheitswettbewerb\n",
+        "Sieger in der Hyper-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00088",
+      "de_DE": [
+        "Hoenn Schönheitswettbewerb\n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00089",
+      "de_DE": [
+        "Hoenn Anmut-Wettbewerb\n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00090",
+      "de_DE": [
+        "Hoenn Anmut-Wettbewerb\n",
+        "Sieger in der Super-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00091",
+      "de_DE": [
+        "Hoenn Anmut-Wettbewerb\n",
+        "Sieger in der Hyper-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00092",
+      "de_DE": [
+        "Hoenn Anmut-Wettbewerb\n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00093",
+      "de_DE": [
+        "Hoenn Klugheits-Wettbewerb\n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00094",
+      "de_DE": [
+        "Hoenn Klugheits-Wettbewerb\n",
+        "Sieger in der Super-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00095",
+      "de_DE": [
+        "Hoenn Klugheits-Wettbewerb\n",
+        "Sieger in der Hyper-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00096",
+      "de_DE": [
+        "Hoenn Klugheits-Wettbewerb\n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00097",
+      "de_DE": [
+        "Hoenn Stärke-Wettbewerb\n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00098",
+      "de_DE": [
+        "Hoenn Stärke-Wettbewerb\n",
+        "Sieger in der Super-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00099",
+      "de_DE": [
+        "Hoenn Stärke-Wettbewerb\n",
+        "Sieger in der Hyper-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00100",
+      "de_DE": [
+        "Hoenn Stärke-Wettbewerb\n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00101",
+      "de_DE": [
+        "Band für Siege in der Lv. 50-Kategorie\n",
+        "im Duellturm von Hoenn."
+      ]
+    },
+    {
+      "id": "msg_0424_00102",
+      "de_DE": [
+        "Band für Siege in der Lv. 100-Kategorie\n",
+        "im Duellturm von Hoenn."
+      ]
+    },
+    {
+      "id": "msg_0424_00103",
+      "de_DE": [
+        "Belohnung für die Wahl zum Super-Model\n",
+        "in Hoenn."
+      ]
+    },
+    {
+      "id": "msg_0424_00104",
+      "de_DE": "Band für extrem fleißige Arbeiter."
+    },
+    {
+      "id": "msg_0424_00105",
+      "de_DE": [
+        "Band für den Sieg über den Sinnoh\n",
+        "Champ und den Eintritt in die Ruhmeshalle."
+      ]
+    },
+    {
+      "id": "msg_0424_00106",
+      "de_DE": [
+        "Super-Coolness-Wettbewerb \n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00107",
+      "de_DE": [
+        "Super-Coolness-Wettbewerb \n",
+        "Sieger in der Mega-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00108",
+      "de_DE": [
+        "Super-Coolness-Wettbewerb \n",
+        "Sieger in der Ultra-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00109",
+      "de_DE": [
+        "Super-Coolness-Wettbewerb \n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00110",
+      "de_DE": [
+        "Super-Schönheitswettbewerb \n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00111",
+      "de_DE": [
+        "Super-Schönheitswettbewerb \n",
+        "Sieger in der Mega-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00112",
+      "de_DE": [
+        "Super-Schönheitswettbewerb \n",
+        "Sieger in der Ultra-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00113",
+      "de_DE": [
+        "Super-Schönheitswettbewerb \n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00114",
+      "de_DE": [
+        "Super-Anmut-Wettbewerb \n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00115",
+      "de_DE": [
+        "Super-Anmut-Wettbewerb \n",
+        "Sieger in der Mega-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00116",
+      "de_DE": [
+        "Super-Anmut-Wettbewerb \n",
+        "Sieger in der Ultra-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00117",
+      "de_DE": [
+        "Super-Anmut-Wettbewerb \n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00118",
+      "de_DE": [
+        "Super-Klugheits-Wettbewerb \n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00119",
+      "de_DE": [
+        "Super-Klugheits-Wettbewerb \n",
+        "Sieger in der Mega-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00120",
+      "de_DE": [
+        "Super-Klugheits-Wettbewerb \n",
+        "Sieger in der Ultra-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00121",
+      "de_DE": [
+        "Super-Klugheits-Wettbewerb \n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00122",
+      "de_DE": [
+        "Super-Stärkewettbewerb \n",
+        "Sieger in der Normal-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00123",
+      "de_DE": [
+        "Super-Stärkewettbewerb \n",
+        "Sieger in der Mega-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00124",
+      "de_DE": [
+        "Super-Stärkewettbewerb \n",
+        "Sieger in der Ultra-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00125",
+      "de_DE": [
+        "Super-Stärkewettbewerb \n",
+        "Sieger in der Master-Klasse!"
+      ]
+    },
+    {
+      "id": "msg_0424_00126",
+      "de_DE": [
+        "Ein Band, verliehen zum Sieg über den\n",
+        "Kampfkoloss des Duellturms."
+      ]
+    },
+    {
+      "id": "msg_0424_00127",
+      "de_DE": [
+        "Ein Band, verliehen zum Sieg über den\n",
+        "Kampfkoloss des Duellturms."
+      ]
+    },
+    {
+      "id": "msg_0424_00128",
+      "de_DE": [
+        "Ein Band für die Meisterung\n",
+        "des Doppels im Sinnoh Duellturm."
+      ]
+    },
+    {
+      "id": "msg_0424_00129",
+      "de_DE": [
+        "Ein Band für die Meisterung der\n",
+        "Multi-Herausforderung im Sinnoh Duellturm."
+      ]
+    },
+    {
+      "id": "msg_0424_00130",
+      "de_DE": [
+        "Ein Band für die Meisterung der Link-Multi-\n",
+        "Herausforderung im Sinnoh Duellturm."
+      ]
+    },
+    {
+      "id": "msg_0424_00131",
+      "de_DE": [
+        "Ein Band für die Meisterung der Wi-Fi-\n",
+        "Herausforderung im Sinnoh Duellturm."
+      ]
+    },
+    {
+      "id": "msg_0424_00132",
+      "de_DE": [
+        "Ein Band zur Erinnerung an ein stärkendes,\n",
+        "Lebensenergie gebendes Ereignis."
+      ]
+    },
+    {
+      "id": "msg_0424_00133",
+      "de_DE": [
+        "Ein Band zur Erinnerung an ein Ereignis,\n",
+        "das das Leben aufregender machte."
+      ]
+    },
+    {
+      "id": "msg_0424_00134",
+      "de_DE": [
+        "Ein Band zur Erinnerung an die Traurigkeit,\n",
+        "die dem Leben Würze gab."
+      ]
+    },
+    {
+      "id": "msg_0424_00135",
+      "de_DE": [
+        "Ein Band zur Erinnerung an einen Fehler, der\n",
+        "zu lebenswichtigen Entscheidungen führte."
+      ]
+    },
+    {
+      "id": "msg_0424_00136",
+      "de_DE": [
+        "Ein Band zur Erinnerung an ein erfrischendes\n",
+        "Ereignis, das dem Leben Glanz gab."
+      ]
+    },
+    {
+      "id": "msg_0424_00137",
+      "de_DE": [
+        "Ein Band zur Erinnerung an einen tiefen\n",
+        "Schlaf, der den Fluss des Lebens beruhigte."
+      ]
+    },
+    {
+      "id": "msg_0424_00138",
+      "de_DE": [
+        "Ein Band zur Erinnerung daran, dass ein\n",
+        "Lächeln das Leben bereichert."
+      ]
+    },
+    {
+      "id": "msg_0424_00139",
+      "de_DE": [
+        "Ein außergewöhnlich schönes\n",
+        "und extravagantes Band."
+      ]
+    },
+    {
+      "id": "msg_0424_00140",
+      "de_DE": [
+        "Ein unglaublich königliches Band, das eine\n",
+        "Aura der Erhabenheit ausstrahlt."
+      ]
+    },
+    {
+      "id": "msg_0424_00141",
+      "de_DE": [
+        "Ein wunderschönes und königliches\n",
+        "Band, das einfach sagenhaft ist."
+      ]
+    },
+    {
+      "id": "msg_0424_00142",
+      "de_DE": [
+        "Ein Band für ein Pokémon, das einen\n",
+        "besonders guten Fußabdruck hinterlässt."
+      ]
+    },
+    {
+      "id": "msg_0424_00143",
+      "de_DE": [
+        "Ein Band für das Aufstellen eines\n",
+        "unglaublichen Rekords."
+      ]
+    },
+    {
+      "id": "msg_0424_00144",
+      "de_DE": [
+        "Ein Band für das Aufstellen eines\n",
+        "historischen Rekords."
+      ]
+    },
+    {
+      "id": "msg_0424_00145",
+      "de_DE": [
+        "Ein Band für das Aufstellen eines\n",
+        "legendären Rekords."
+      ]
+    },
+    {
+      "id": "msg_0424_00146",
+      "de_DE": [
+        "Ein Gedenk-Band - an einem mysteriösen\n",
+        "Ort erhalten."
+      ]
+    },
+    {
+      "id": "msg_0424_00147",
+      "de_DE": [
+        "Regionalturnier 2003\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00148",
+      "de_DE": [
+        "National Turnier 2003\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00149",
+      "de_DE": [
+        "Weltpokal 2003\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00150",
+      "de_DE": [
+        "Regionalturnier 2003\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00151",
+      "de_DE": [
+        "National Turnier 2003\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00152",
+      "de_DE": [
+        "Weltpokal 2003\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00153",
+      "de_DE": [
+        "Regionalturnier 2003\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00154",
+      "de_DE": [
+        "National Turnier 2003\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00155",
+      "de_DE": [
+        "Weltpokal 2003\n",
+        "Band des Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00156",
+      "de_DE": [
+        "Regionalturnier 2004\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00157",
+      "de_DE": [
+        "National Turnier 2004\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00158",
+      "de_DE": [
+        "Weltpokal 2004\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00159",
+      "de_DE": [
+        "Regionalturnier 2004\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00160",
+      "de_DE": [
+        "National Turnier 2004\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00161",
+      "de_DE": [
+        "Weltpokal 2004\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00162",
+      "de_DE": [
+        "Regionalturnier 2004\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00163",
+      "de_DE": [
+        "National Turnier 2004\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00164",
+      "de_DE": [
+        "Weltpokal 2004\n",
+        "Band des Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00165",
+      "de_DE": [
+        "Regionalturnier 2005\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00166",
+      "de_DE": [
+        "National Turnier 2005\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00167",
+      "de_DE": [
+        "Weltpokal 2005\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00168",
+      "de_DE": [
+        "Regionalturnier 2005\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00169",
+      "de_DE": [
+        "National Turnier 2005\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00170",
+      "de_DE": [
+        "Weltpokal 2005\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00171",
+      "de_DE": [
+        "Regionalturnier 2005\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00172",
+      "de_DE": [
+        "National Turnier 2005\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00173",
+      "de_DE": [
+        "Weltpokal 2005\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00174",
+      "de_DE": [
+        "Pokémon-Kampf-Pokal\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00175",
+      "de_DE": [
+        "Pokémon-Kampf-Pokal\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00176",
+      "de_DE": [
+        "Pokémon-Kampf-Pokal\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00177",
+      "de_DE": [
+        "Pokémon-Kampf-Pokal\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00178",
+      "de_DE": [
+        "Pokémon Liga\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00179",
+      "de_DE": [
+        "Pokémon Liga\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00180",
+      "de_DE": [
+        "Pokémon Liga\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00181",
+      "de_DE": [
+        "Pokémon Liga\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00182",
+      "de_DE": [
+        "Talentpokal\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00183",
+      "de_DE": [
+        "Talentpokal\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00184",
+      "de_DE": [
+        "Talentpokal\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00185",
+      "de_DE": [
+        "Talentpokal\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00186",
+      "de_DE": [
+        "Pokémon-Turnier\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00187",
+      "de_DE": [
+        "Pokémon-Wettkampf\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00188",
+      "de_DE": [
+        "Pokémon-Festival\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00189",
+      "de_DE": [
+        "Schwerer-Grad-Abschluss\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00190",
+      "de_DE": [
+        "Band für den erfolgreichen Abschluss\n",
+        "aller Schwierigkeitsgrade."
+      ]
+    },
+    {
+      "id": "msg_0424_00191",
+      "de_DE": [
+        "100. Sieg in Folge\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00192",
+      "de_DE": [
+        "Gedenk-Band zur Meisterung des\n",
+        "Apokelipse-Turms."
+      ]
+    },
+    {
+      "id": "msg_0424_00193",
+      "de_DE": [
+        "Gedenk-Band für die Meisterung\n",
+        "des Roten Turms."
+      ]
+    },
+    {
+      "id": "msg_0424_00194",
+      "de_DE": [
+        "Gedenk-Band für die Meisterung\n",
+        "des Eisernen Turms."
+      ]
+    },
+    {
+      "id": "msg_0424_00195",
+      "de_DE": [
+        "Gedenk-Band für die Meisterung\n",
+        "des Final-Turms."
+      ]
+    },
+    {
+      "id": "msg_0424_00196",
+      "de_DE": [
+        "Ein Band in Erinnerung an die\n",
+        "Schaffung einer Legende."
+      ]
+    },
+    {
+      "id": "msg_0424_00197",
+      "de_DE": [
+        "Pokémon-Center Tokio\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00198",
+      "de_DE": [
+        "Pokémon-Center Osaka\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00199",
+      "de_DE": [
+        "Pokémon-Center Nagoya\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00200",
+      "de_DE": [
+        "Nintendo World N. Y.\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00201",
+      "de_DE": "Sommerferien-Band"
+    },
+    {
+      "id": "msg_0424_00202",
+      "de_DE": "Weihnachtsferien-Band"
+    },
+    {
+      "id": "msg_0424_00203",
+      "de_DE": "Osterferien-Band"
+    },
+    {
+      "id": "msg_0424_00204",
+      "de_DE": "Evergreen-Band"
+    },
+    {
+      "id": "msg_0424_00205",
+      "de_DE": "Sonderurlaubs-Band"
+    },
+    {
+      "id": "msg_0424_00206",
+      "de_DE": "Fleiß-Band"
+    },
+    {
+      "id": "msg_0424_00207",
+      "de_DE": "Beliebtheits-Band"
+    },
+    {
+      "id": "msg_0424_00208",
+      "de_DE": "Energie-Band"
+    },
+    {
+      "id": "msg_0424_00209",
+      "de_DE": [
+        "Ein Gedenk-Band für ein\n",
+        "beliebtes Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0424_00210",
+      "de_DE": [
+        "Ein Band für Pokémon-\n",
+        "Freunde."
+      ]
+    },
+    {
+      "id": "msg_0424_00211",
+      "de_DE": [
+        "Pokémon-Center Sapporo\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00212",
+      "de_DE": [
+        "Pokémon-Center Yokohama\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00213",
+      "de_DE": [
+        "Pokémon-Center Fukuoka\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00214",
+      "de_DE": [
+        "Pokémon Fan Club\n",
+        "Sonderband"
+      ]
+    },
+    {
+      "id": "msg_0424_00215",
+      "de_DE": [
+        "Pokémon Fan Club\n",
+        "Wi-Fi-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00216",
+      "de_DE": [
+        "Globales Wi-Fi-Ereignis\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00217",
+      "de_DE": [
+        "Globales Wi-Fi-Geschenk\n",
+        "Sonderband"
+      ]
+    },
+    {
+      "id": "msg_0424_00218",
+      "de_DE": [
+        "Weltweites Geschenk (simultan)\n",
+        "Sonderband"
+      ]
+    },
+    {
+      "id": "msg_0424_00219",
+      "de_DE": [
+        "Eröffnung des Pokémon-Centers\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00220",
+      "de_DE": [
+        "Eröffnung des Poké-Parks\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00221",
+      "de_DE": [
+        "Poké-Park\n",
+        "Sonderband"
+      ]
+    },
+    {
+      "id": "msg_0424_00222",
+      "de_DE": [
+        "Pokémon-Konzert\n",
+        "Gedenk-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00223",
+      "de_DE": [
+        "Pokémon Liga 2006\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00224",
+      "de_DE": [
+        "Pokémon Liga 2006\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00225",
+      "de_DE": [
+        "Pokémon Liga 2006\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00226",
+      "de_DE": [
+        "Pokémon Liga 2006\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00227",
+      "de_DE": [
+        "Pokémon Liga 2007\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00228",
+      "de_DE": [
+        "Pokémon Liga 2007\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00229",
+      "de_DE": [
+        "Pokémon Liga 2007\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00230",
+      "de_DE": [
+        "Pokémon Liga 2007\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00231",
+      "de_DE": [
+        "Pokémon Liga 2008\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00232",
+      "de_DE": [
+        "Pokémon Liga 2008\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00233",
+      "de_DE": [
+        "Pokémon Liga 2008\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00234",
+      "de_DE": [
+        "Pokémon Liga 2008\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00235",
+      "de_DE": [
+        "Pokémon Liga 2009\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00236",
+      "de_DE": [
+        "Pokémon Liga 2009\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00237",
+      "de_DE": [
+        "Pokémon Liga 2009\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00238",
+      "de_DE": [
+        "Pokémon Liga 2009\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00239",
+      "de_DE": [
+        "Pokémon Liga 2010\n",
+        "Band des Champs"
+      ]
+    },
+    {
+      "id": "msg_0424_00240",
+      "de_DE": [
+        "Pokémon Liga 2010\n",
+        "Band für Platzierungen"
+      ]
+    },
+    {
+      "id": "msg_0424_00241",
+      "de_DE": [
+        "Pokémon Liga 2010\n",
+        "Band für Halbfinalisten"
+      ]
+    },
+    {
+      "id": "msg_0424_00242",
+      "de_DE": [
+        "Pokémon Liga 2010\n",
+        "Teilnehmer-Band"
+      ]
+    },
+    {
+      "id": "msg_0424_00243",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00244",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00245",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00246",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00247",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00248",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00249",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00250",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00251",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00252",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00253",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00254",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00255",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00256",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00257",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00258",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00259",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00260",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00261",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00262",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00263",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00264",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00265",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00266",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00267",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00268",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00269",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00270",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00271",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00272",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00273",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00274",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00275",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00276",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00277",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00278",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00279",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00280",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00281",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00282",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00283",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00284",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00285",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00286",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00287",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00288",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00289",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00290",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00291",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00292",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00293",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00294",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00295",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00296",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00297",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00298",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00299",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00300",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00301",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00302",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00303",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00304",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00305",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00306",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00307",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00308",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00309",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00310",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00311",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00312",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00313",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00314",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00315",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00316",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00317",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00318",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00319",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00320",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00321",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00322",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00323",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00324",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00325",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00326",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00327",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00328",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00329",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00330",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00331",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00332",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00333",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00334",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00335",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00336",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00337",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00338",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00339",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00340",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00341",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00342",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00343",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00344",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00345",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00346",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00347",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00348",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00349",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00350",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00351",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00352",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00353",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00354",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00355",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00356",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00357",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00358",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00359",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00360",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00361",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00362",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00363",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00364",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00365",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00366",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00367",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00368",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00369",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00370",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00371",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00372",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00373",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00374",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00375",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00376",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00377",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00378",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00379",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00380",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00381",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00382",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00383",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00384",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00385",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00386",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00387",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00388",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00389",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00390",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00391",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00392",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00393",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00394",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00395",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00396",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00397",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00398",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00399",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00400",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00401",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    },
+    {
+      "id": "msg_0424_00402",
+      "de_DE": [
+        "Ein Gedenk-Band - erhalten an einem\n",
+        "mysteriösen Ort."
+      ]
+    }
+  ]
+}

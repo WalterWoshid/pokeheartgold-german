@@ -1,0 +1,72 @@
+{
+  "key": 46115,
+  "messages": [
+    {
+      "id": "msg_0052_00000",
+      "de_DE": [
+        "Du hast noch nicht all deine\n",
+        "Pokémon gefangen, aber...\r",
+        "Möchtest du deine\n",
+        "Fangshow abbrechen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0052_00001",
+      "de_DE": [
+        "Verstehe...\r",
+        "Es enttäuscht mich, dass du aufgegeben\n",
+        "hast. Nächstes Mal bleibe bis zum\f",
+        "Schluss dabei!\r"
+      ]
+    },
+    {
+      "id": "msg_0052_00002",
+      "de_DE": [
+        "Das ist die richtige Einstellung,\n",
+        "{STRVAR_1 3, 0, 0}! Ich mag dein\f",
+        "Durchhaltevermögen!"
+      ]
+    },
+    {
+      "id": "msg_0052_00003",
+      "de_DE": [
+        "Das ist die richtige Einstellung,\n",
+        "{STRVAR_1 3, 0, 0}! Ich mag dein\f",
+        "Durchhaltevermögen!"
+      ]
+    },
+    {
+      "id": "msg_0052_00004",
+      "de_DE": [
+        "Ding-dong!\n",
+        "Herzlichen Glückwunsch!\r",
+        "{STRVAR_1 3, 0, 0} hat alle deponierten\n",
+        "Pokémon gefangen!\r"
+      ]
+    },
+    {
+      "id": "msg_0052_00005",
+      "de_DE": "Möchtest du die Show abbrechen?"
+    },
+    {
+      "id": "msg_0052_00006",
+      "de_DE": "Starten wir den Countdown!"
+    },
+    {
+      "id": "msg_0052_00007",
+      "de_DE": "Drei..."
+    },
+    {
+      "id": "msg_0052_00008",
+      "de_DE": "Zwei..."
+    },
+    {
+      "id": "msg_0052_00009",
+      "de_DE": "Eins..."
+    },
+    {
+      "id": "msg_0052_00010",
+      "de_DE": "Los!"
+    }
+  ]
+}

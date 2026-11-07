@@ -1,0 +1,223 @@
+{
+  "key": 35842,
+  "messages": [
+    {
+      "id": "msg_0120_00000",
+      "de_DE": "Julia: Oh! Mein Held!\r"
+    },
+    {
+      "id": "msg_0120_00001",
+      "de_DE": "Mutter: Oh, hallo, {STRVAR_1 3, 0}.\r"
+    },
+    {
+      "id": "msg_0120_00002",
+      "de_DE": [
+        "Julia: Was? Nein. Wirklich?\n",
+        "Katrin ist deine Mutter?\r",
+        "Dann kannst du ja den Wettbewerb\n",
+        "gewinnen!?!\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00003",
+      "de_DE": [
+        "Mutter: Oh, das weiß ich nicht.\r",
+        "Ich habe mit {STRVAR_1 3, 0} nie über\n",
+        "Wettbewerbe gesprochen.\r",
+        "Außerdem bin ich überrascht, dass ihr\n",
+        "zwei euch kennt.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00004",
+      "de_DE": [
+        "Julia: Oh, ja, richtig!\r",
+        "Danke nochmal für vorhin.\n",
+        "Bitte nimm dieses Accessoire.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00005",
+      "de_DE": [
+        "Julia: Statte dein Pokémon vor dem\n",
+        "Wettbewerb mit dem Accessoire aus.\r",
+        "Das wird ihm Erhabenheit und Glamour\n",
+        "verleihen.\r",
+        "Ich bin Juror, also komm mal vorbei\n",
+        "und amüsier dich.\r",
+        "Keine Sorge. Für Einsteiger bieten\n",
+        "wir auch Übungskurse.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00006",
+      "de_DE": "Okay, Katrin, dann bis später.\r"
+    },
+    {
+      "id": "msg_0120_00007",
+      "de_DE": [
+        "Mutter: Warst du so überrascht, mich\n",
+        "zu sehen, {STRVAR_1 3, 0}?\r",
+        "Mir war langweilig, also wollte ich Urlaub\n",
+        "in Herzhofen machen.\r",
+        "Und ich bin genauso überrascht wie\n",
+        "du, mein Kind!\r",
+        "Aber willst du wirklich bei einem\n",
+        "Wettbewerb mitmachen?\r",
+        "Dann solltest du dich etwas besser\n",
+        "anziehen. Es ist immerhin eine Show.\r",
+        "Wenn dein Pokémon ganz schick ist,\n",
+        "kannst du nicht völlig normal aussehen.\r",
+        "Zieh das hier an. Das passt besser.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00008",
+      "de_DE": "{STRVAR_1 3, 0} erhielt einen Smoking!"
+    },
+    {
+      "id": "msg_0120_00009",
+      "de_DE": "{STRVAR_1 3, 0} erhielt ein Kleid!"
+    },
+    {
+      "id": "msg_0120_00010",
+      "de_DE": [
+        "Mutter: Du wirst bestimmt\n",
+        "klasse darin aussehen!\r",
+        "Genieße die Wettbewerbe!\r",
+        "Sie zeigen dir viele Facetten\n",
+        "der Pokémon.\r",
+        "Das wird eine tolle Erfahrung\n",
+        "für dich werden. Bis später!\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00011",
+      "de_DE": [
+        "Du willst an einem Wettbewerb\n",
+        "teilnehmen?\r",
+        "Du hast doch gar keine Knurspbox.\r",
+        "Ohne die wird es sehr schwierig werden,\n",
+        "Wettbewerbe zu gewinnen.\r",
+        "Aber wenn du trotzdem entschlossen\n",
+        "bist, werde ich dich nicht hindern.\r",
+        "Du solltest erst mal zum Übungsschalter\n",
+        "auf der rechten Seite gehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00012",
+      "de_DE": [
+        "Du willst an einem Wettbewerb\n",
+        "teilnehmen?\r",
+        "Und du hast eine Knurspbox?\r",
+        "Sehr gut. Dann habe ich hier einen\n",
+        "überaus schmackhaften Knursp für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00013",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhielt einen Lieblichen\n",
+        "Knursp!"
+      ]
+    },
+    {
+      "id": "msg_0120_00014",
+      "de_DE": [
+        "Der Liebliche Knursp wurde in\n",
+        "der Knurspbox verstaut.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00015",
+      "de_DE": [
+        "Gib diesen Knursp dem Pokémon, das an\n",
+        "dem Wettbewerb teilnehmen soll.\r",
+        "Ach, und eines noch.\n",
+        "Genieße die Wettbewerbe!\r",
+        "Am besten bereitest du dich vor, indem\n",
+        "du zunächst etwas übst.\r",
+        "Am Schalter ganz rechts kannst du\n",
+        "Übungswettbewerbe bestreiten.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00016",
+      "de_DE": [
+        "Gib diesen Knursp dem Pokémon, das an\n",
+        "dem Wettbewerb teilnehmen soll.\r",
+        "Ach, und eines noch.\n",
+        "Genieße die Wettbewerbe!\r",
+        "Am besten bereitest du dich vor, indem\n",
+        "du zunächst etwas übst.\r",
+        "Am Schalter ganz rechts kannst du\n",
+        "Übungswettbewerbe bestreiten."
+      ]
+    },
+    {
+      "id": "msg_0120_00017",
+      "de_DE": [
+        "Wie überall sind auch hier die\n",
+        "Grundregeln wichtig.\r",
+        "Wettbewerbe zu gewinnen braucht viel\n",
+        "Übung!"
+      ]
+    },
+    {
+      "id": "msg_0120_00018",
+      "de_DE": "Oh nein. Deine Knurspbox ist voll!"
+    },
+    {
+      "id": "msg_0120_00019",
+      "de_DE": [
+        "Oh nein. Deine Knurspbox ist voll!\n",
+        "Ich gebe ihn dir ein andermal.\r",
+        "Ach, und eines noch.\n",
+        "Genieße die Wettbewerbe!\r",
+        "Am besten bereitest du dich vor, indem\n",
+        "du zunächst etwas übst.\r",
+        "Am Schalter ganz rechts kannst du\n",
+        "Übungswettbewerbe bestreiten.\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00020",
+      "de_DE": [
+        "Ein Pokémon, das Knurspe bekam,\n",
+        "schneidet im Modelwettstreit besser ab.\r",
+        "Du solltest lernen, wie man in der\n",
+        "Knursperei leckere Knurspe kocht!"
+      ]
+    },
+    {
+      "id": "msg_0120_00021",
+      "de_DE": [
+        "Ein Wettbewerb hat drei Teile: Model!\n",
+        "Tanz! Und Aktion!\r",
+        "In diesen drei Kategorien werden die\n",
+        "Teilnehmer bewertet. Hohoho."
+      ]
+    },
+    {
+      "id": "msg_0120_00022",
+      "de_DE": "Sie hängen Fotos der Gewinner auf!"
+    },
+    {
+      "id": "msg_0120_00023",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0120_00024",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0120_00025",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0120_00026",
+      "de_DE": "Ein Rahmen für ein Foto."
+    }
+  ]
+}

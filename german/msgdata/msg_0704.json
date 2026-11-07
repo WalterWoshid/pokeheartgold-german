@@ -1,0 +1,212 @@
+{
+  "key": 5527,
+  "messages": [
+    {
+      "id": "msg_0704_00000",
+      "de_DE": "Julius"
+    },
+    {
+      "id": "msg_0704_00001",
+      "de_DE": [
+        "Du scheinst gewaltig viel Ahnung\n",
+        "von Pokémon zu haben!\f",
+        "Du gefällst mir!\r",
+        "Sollen wir Tipps austauschen?\r",
+        "Ich rufe an, wenn’s was Neues gibt.\n",
+        "Gibst du mir deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0704_00002",
+      "de_DE": [
+        "Ich rufe dich an, sobald ich\n",
+        "etwas Interessantes höre!"
+      ]
+    },
+    {
+      "id": "msg_0704_00003",
+      "de_DE": [
+        "O.K. Dann nicht...\r",
+        "Komm wieder vorbei, wenn du\n",
+        "meine Nummer möchtest."
+      ]
+    },
+    {
+      "id": "msg_0704_00004",
+      "de_DE": [
+        "Sollen wir Tipps austauschen?\n",
+        "Ich rufe dich an, wenn ich\f",
+        "etwas Neues lerne.\r",
+        "Gibst du mir deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0704_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0704_00006",
+      "de_DE": [
+        "Stimmt was nicht?\n",
+        "Wir sind doch genau hier.\f",
+        "Komm doch einfach selbst her."
+      ]
+    },
+    {
+      "id": "msg_0704_00007",
+      "de_DE": [
+        "Die Intelligenz von meinem {STRVAR_1 0, 10, 0}\n",
+        "steigt und steigt. Es könnte\f",
+        "sogar cleverer als deines sein!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0704_00008",
+      "de_DE": [
+        "Neulich habe ich mit Leichtigkeit\n",
+        "ein {STRVAR_1 0, 11, 0} besiegt.\r",
+        "Das lag wohl daran, dass wir uns\n",
+        "gegenseitig Tipps gegeben haben.\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0704_00009",
+      "de_DE": [
+        "Oh, und hör zu.\n",
+        "Ich habe es nur knapp nicht\f",
+        "geschafft, ein {STRVAR_1 0, 11, 0} zu fangen.\r",
+        "Wäre ich besser informiert gewesen,\n",
+        "hätte ich es bestimmt gefangen...\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0704_00010",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Wenn es regnet, trifft die Attacke\n",
+        "Donner einhundertprozentig."
+      ]
+    },
+    {
+      "id": "msg_0704_00011",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Wenn du Einigler einsetzt, steigt\n",
+        "die Stärke von Walzer\f",
+        "überdurchschnittlich an."
+      ]
+    },
+    {
+      "id": "msg_0704_00012",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Wenn das Sonnenlicht stark ist, muss\n",
+        "Solarstrahl nicht aufgeladen werden."
+      ]
+    },
+    {
+      "id": "msg_0704_00013",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Setzt der Gegner Komprimator ein,\n",
+        "wird Stampfer noch effektiver."
+      ]
+    },
+    {
+      "id": "msg_0704_00014",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Setzt dein Gegner Fliegen ein, wird\n",
+        "Windstoß noch effektiver."
+      ]
+    },
+    {
+      "id": "msg_0704_00015",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Setzt dein Gegner Fliegen ein, wird\n",
+        "Windhose noch effektiver."
+      ]
+    },
+    {
+      "id": "msg_0704_00016",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Setzt dein Gegner Schaufler ein, wird\n",
+        "Erdbeben noch effektiver."
+      ]
+    },
+    {
+      "id": "msg_0704_00017",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Setzt dein Gegner Schaufler ein, wird\n",
+        "Intensität noch effektiver."
+      ]
+    },
+    {
+      "id": "msg_0704_00018",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Pokémon der Elementklassen Boden,\n",
+        "Gestein und Stahl werden von\f",
+        "Sandsturm nicht verletzt."
+      ]
+    },
+    {
+      "id": "msg_0704_00019",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Wenn das Sonnenlicht stark ist,\n",
+        "sind Wasser-Attacken viel schwächer."
+      ]
+    },
+    {
+      "id": "msg_0704_00020",
+      "de_DE": [
+        "Hast du gewusst?\r",
+        "Bei Regen sind Feuer-Attacken\n",
+        "viel schwächer als gewöhnlich."
+      ]
+    },
+    {
+      "id": "msg_0704_00021",
+      "de_DE": [
+        "Willst du kämpfen?\n",
+        "Ich zeige dir, wie man clever kämpft.\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\r",
+        "Melde dich, wenn du in der Nähe bist."
+      ]
+    },
+    {
+      "id": "msg_0704_00022",
+      "de_DE": [
+        "Heh, {STRVAR_1 3, 0, 0}!\r",
+        "Erinnerst du dich noch an unsere\n",
+        "Verabredung? Lass uns bald kämpfen!\r",
+        "{STRVAR_1 4, 3, 0}! Ich warte auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0704_00023",
+      "de_DE": [
+        "Heh, {STRVAR_1 3, 0, 0}!\r",
+        "Erinnerst du dich noch an unsere\n",
+        "Verabredung? Lass uns bald kämpfen!\r",
+        "{STRVAR_1 4, 3, 0}! Ich warte auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0704_00024",
+      "de_DE": [
+        "Einer meiner Freunde sagte, er hätte\n",
+        "ein paar gute Tipps für mich.\r",
+        "Wenn er sie mir sagt, rufe ich\n",
+        "dich sofort an!"
+      ]
+    }
+  ]
+}

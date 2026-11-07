@@ -1,0 +1,90 @@
+{
+  "key": 42051,
+  "messages": [
+    {
+      "id": "msg_0253_00000",
+      "de_DE": [
+        "Ich bin Orisa...\r",
+        "Ich wollte Pokémon fangen und habe\n",
+        "mich verirrt...\r",
+        "Ich habe Angst...\r",
+        "Bitte!\n",
+        "Bitte bring mich zum Ausgang!\r"
+      ]
+    },
+    {
+      "id": "msg_0253_00001",
+      "de_DE": "{STRVAR_1 3, 0} begleitet Orisa!"
+    },
+    {
+      "id": "msg_0253_00002",
+      "de_DE": [
+        "Orisa: Ich werde deine Pokémon immer bei\n",
+        "guter Gesundheit halten!"
+      ]
+    },
+    {
+      "id": "msg_0253_00003",
+      "de_DE": [
+        "Trainer, dein Name ist {STRVAR_1 3, 0}?\r",
+        "Ich heiße Orisa.\n",
+        "Du hast einen schönen Namen!\r"
+      ]
+    },
+    {
+      "id": "msg_0253_00004",
+      "de_DE": [
+        "Orisa: Oh! {STRVAR_1 3, 0}...\n",
+        "Ich habe... so lange gewartet...\r"
+      ]
+    },
+    {
+      "id": "msg_0253_00005",
+      "de_DE": [
+        "Orisa: Oh! Da ist ja der Ausgang!\r",
+        "Ich will stärker werden, damit ich nicht\n",
+        "mehr so ein Hasenfuß bin.\r",
+        "{STRVAR_1 3, 0}, mach’s gut!\n",
+        "Und vielen Dank!\r"
+      ]
+    },
+    {
+      "id": "msg_0253_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0253_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0253_00008",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0253_00009",
+      "de_DE": [
+        "Orisa: Ich mag unterstützende Pokémon-\n",
+        "Attacken wie Heuler und Komprimator.\r",
+        "Das sind meine Lieblingsattacken."
+      ]
+    },
+    {
+      "id": "msg_0253_00010",
+      "de_DE": [
+        "Orisa: Diese Höhle...\n",
+        "Man verläuft sich ja so leicht.\r",
+        "Weißt du noch, wo wir sind?"
+      ]
+    },
+    {
+      "id": "msg_0253_00011",
+      "de_DE": [
+        "Orisa: {STRVAR_1 3, 0}, bist du so stark\n",
+        "geworden, weil du immer viel Zeit mit\f",
+        "deinen Pokémon verbringst?\r",
+        "Ja! Das muss es sein!\n",
+        "Ich werde es genauso machen!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "key": 33883,
+  "messages": [
+    {
+      "id": "msg_0071_00000",
+      "de_DE": [
+        "Dies ist der Aufzug des Radioturms\n",
+        "von Dukatia City.\f",
+        "Nächster Halt: Die Aussichtsplattform.\r"
+      ]
+    },
+    {
+      "id": "msg_0071_00001",
+      "de_DE": [
+        "Dies ist der Aufzug des Radioturms\n",
+        "von Dukatia City.\f",
+        "Nächster Halt: Vierter Stock.\r"
+      ]
+    },
+    {
+      "id": "msg_0071_00002",
+      "de_DE": "Die Aussichtsplattform, bitteschön."
+    },
+    {
+      "id": "msg_0071_00003",
+      "de_DE": "Der 4. Stock, bitteschön."
+    }
+  ]
+}

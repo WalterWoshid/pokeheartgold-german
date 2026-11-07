@@ -1,0 +1,180 @@
+{
+  "key": 40636,
+  "messages": [
+    {
+      "id": "msg_0429_00000",
+      "de_DE": [
+        "Der Turm der Ruhenden.\n",
+        "Hier finden Pokémon ihre Ruhe..."
+      ]
+    },
+    {
+      "id": "msg_0429_00001",
+      "de_DE": [
+        "Das war bestimmt mal ein Turm. Jetzt\n",
+        "ist es ein Haufen alter Steine..."
+      ]
+    },
+    {
+      "id": "msg_0429_00002",
+      "de_DE": [
+        "Das war bestimmt mal ein Turm. Jetzt\n",
+        "ist es ein Haufen alter Steine...\r",
+        "An dieser Stelle würde der Spiritkern\n",
+        "ganz hervorragend passen.\r",
+        "Willst du den Spiritkern einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0429_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0} setzt den Spiritkern\n",
+        "in den Steinturm ein.\r",
+        "Der Steinturm wurde wiederhergestellt!\r",
+        "Auf dem Turm kann man die Inschrift\n",
+        "“Geweihter Turm” lesen."
+      ]
+    },
+    {
+      "id": "msg_0429_00004",
+      "de_DE": [
+        "Dies ist der Geweihte Turm.\r",
+        "Er wurde offenbar vor vielen, vielen\n",
+        "Jahren erbaut."
+      ]
+    },
+    {
+      "id": "msg_0429_00005",
+      "de_DE": [
+        "Dies ist der Geweihte Turm.\r",
+        "Die Steine scheinen sich\n",
+        "verschoben zu haben..."
+      ]
+    },
+    {
+      "id": "msg_0429_00006",
+      "de_DE": [
+        "Dies ist der Geweihte Turm.\r",
+        "...Kommen die Schreie aus dem Inneren\n",
+        "des Turms?"
+      ]
+    },
+    {
+      "id": "msg_0429_00007",
+      "de_DE": [
+        "Dies ist der Geweihte Turm.\r",
+        "...Kann es sein, dass der Turm leicht\n",
+        "zittert?"
+      ]
+    },
+    {
+      "id": "msg_0429_00008",
+      "de_DE": [
+        "Dies ist der Geweihte Turm.\r",
+        "Hier ist etwas... Ein Wesen...\n",
+        "Es wird sich gleich zeigen!"
+      ]
+    },
+    {
+      "id": "msg_0429_00009",
+      "de_DE": "Yulaaah!\r"
+    },
+    {
+      "id": "msg_0429_00010",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0429_00011",
+      "de_DE": [
+        "Hmmm!\n",
+        "Eine {STRVAR_1 8, 0} ist wirklich gut!\r",
+        "Meinst du nicht auch?"
+      ]
+    },
+    {
+      "id": "msg_0429_00012",
+      "de_DE": [
+        "Hmmm!\n",
+        "Da sind wir ja der gleichen Meinung!\r",
+        "Hmmm!\n",
+        "Ich schenke dir diese {STRVAR_1 8, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0429_00013",
+      "de_DE": [
+        "Wo immer du Wasser findest, versuche\n",
+        "dein Glück mit Angeln.\r",
+        "Oh. Soll ich dir erklären, wie man diese\n",
+        "Angel verwendet?"
+      ]
+    },
+    {
+      "id": "msg_0429_00014",
+      "de_DE": "Angelst du nicht gerne?"
+    },
+    {
+      "id": "msg_0429_00015",
+      "de_DE": [
+        "Schau dir zuerst das Wasser an und\n",
+        "wirf dann deine Angel aus.\r",
+        "Konzentriere dich... Wenn etwas\n",
+        "anbeißt, erscheint ein “!”.\f",
+        "Und dann musst du die Angel einholen."
+      ]
+    },
+    {
+      "id": "msg_0429_00016",
+      "de_DE": [
+        "Wenn du nach Pokémon angelst, besteht\n",
+        "die erste Hürde darin, dass erst mal\f",
+        "etwas anbeißen muss.\r",
+        "Wenn du das Pokémon dann erwischt\n",
+        "hast, musst du mit ihm kämpfen.\r",
+        "So hast du gleich doppelt Spaß!"
+      ]
+    },
+    {
+      "id": "msg_0429_00017",
+      "de_DE": [
+        "Gehst du auch jeden Morgen Joggen?\n",
+        "Ich schon."
+      ]
+    },
+    {
+      "id": "msg_0429_00018",
+      "de_DE": [
+        "Als ich neulich joggen war, hat mich ein\n",
+        "wildes Pokémon gejagt.\r",
+        "Ich sage dir, ich hatte solche Angst,\n",
+        "dass ich meine bisherige Bestzeit weit\f",
+        "unterboten habe."
+      ]
+    },
+    {
+      "id": "msg_0429_00019",
+      "de_DE": [
+        "Route 209\n",
+        "Herzhofen"
+      ]
+    },
+    {
+      "id": "msg_0429_00020",
+      "de_DE": [
+        "Trostu\n",
+        "Route 209"
+      ]
+    },
+    {
+      "id": "msg_0429_00021",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Du kannst ein Basis-Item auswählen,\n",
+        "das du ohne Umwege verwenden kannst.\r",
+        "Registriere es auf dem Y-Knopf.\r",
+        "Drückst du den Y-Knopf nun, kannst\n",
+        "du es sofort einsetzen."
+      ]
+    }
+  ]
+}

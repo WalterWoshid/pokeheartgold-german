@@ -1,0 +1,27 @@
+{
+  "key": 50279,
+  "messages": [
+    {
+      "id": "msg_0095_00000",
+      "de_DE": [
+        "Dies ist der Aufzug des Leuchtturms.\n",
+        "Nächster Halt: Lichtkuppel.\r"
+      ]
+    },
+    {
+      "id": "msg_0095_00001",
+      "de_DE": [
+        "Dies ist der Aufzug des Leuchtturms.\n",
+        "Nächster Halt: Erdgeschoss.\r"
+      ]
+    },
+    {
+      "id": "msg_0095_00002",
+      "de_DE": "Die Lichtkuppel, bitte schön."
+    },
+    {
+      "id": "msg_0095_00003",
+      "de_DE": "Das Erdgeschoss, bitte schön."
+    }
+  ]
+}

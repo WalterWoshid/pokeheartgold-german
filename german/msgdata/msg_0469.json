@@ -1,0 +1,148 @@
+{
+  "key": 63844,
+  "messages": [
+    {
+      "id": "msg_0469_00000",
+      "de_DE": "RUMMS!\r"
+    },
+    {
+      "id": "msg_0469_00001",
+      "de_DE": [
+        "Oh! Sorry!\n",
+        "Bist du auch not verletzt?\f",
+        "Ich bin total busy, beschäftigt!\f",
+        "No time, um mit dir here Zeit mit\f",
+        "lange Gespräche zu verschwenden!\f",
+        "Wenn mich here jemand sieht, you know,\f",
+        "then ich bin in große trouble!\r"
+      ]
+    },
+    {
+      "id": "msg_0469_00002",
+      "de_DE": [
+        "...Aber oh no!\n",
+        "Du hast me ja schon gesehen!\f",
+        "Das war ein groß big Fehler von mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0469_00003",
+      "de_DE": [
+        "You! Du musst all of this vergessen!\n",
+        "Du hast hier nothing gesehen, okay?\f",
+        "Du weißt von absolutely nothing, klar?\r",
+        "Goodbye!\n",
+        "Auf never Wiedersehen!!\r"
+      ]
+    },
+    {
+      "id": "msg_0469_00004",
+      "de_DE": [
+        "Ich bin kurz weg...\n",
+        "- Misty, Die Arenaleiterin"
+      ]
+    },
+    {
+      "id": "msg_0469_00005",
+      "de_DE": [
+        "Wenn Misty nicht hier ist, gehen\n",
+        "wir eben auch einen draufmachen!\f",
+        "- Die restlichen Trainer der Arena"
+      ]
+    },
+    {
+      "id": "msg_0469_00006",
+      "de_DE": "Pokémon-Arena von Azuria City"
+    },
+    {
+      "id": "msg_0469_00007",
+      "de_DE": [
+        "Pokémon-Arena von Azuria City\r",
+        "Leiterin: Misty\n",
+        "Die jungenhafte Meerjungfrau\r",
+        "Anerkannter Trainer:\n",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0469_00008",
+      "de_DE": [
+        "Misty: Ah, unser Störenfried!\r",
+        "Du magst dir in Johto vielleicht viele\n",
+        "Orden erkämpft haben, aber ich rate\f",
+        "dir, mich nicht zu unterschätzen!\r",
+        "Meine Wasser-Pokémon haben’s drauf!\r"
+      ]
+    },
+    {
+      "id": "msg_0469_00009",
+      "de_DE": [
+        "Misty: Mann, du bist wirklich gut...\r",
+        "Ich gebe es offen zu! Du hast\n",
+        "wirklich einiges an Talent...\r",
+        "Hier hast du den Quellorden!\r"
+      ]
+    },
+    {
+      "id": "msg_0469_00010",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Quellorden von Misty!"
+      ]
+    },
+    {
+      "id": "msg_0469_00011",
+      "de_DE": [
+        "Misty: Oh, und noch etwas...\n",
+        "Hier, behalte das als Andenken an\f",
+        "unseren Kampf!\r"
+      ]
+    },
+    {
+      "id": "msg_0469_00012",
+      "de_DE": [
+        "Misty: Darin findest du Aquawelle!\r",
+        "Manchmal können deine Pokémon mit\n",
+        "dieser Attacke ihren Gegner verwirren.\r",
+        "Du hast dich von Johto bis hierher\n",
+        "durchgekämpft. Ich bin mir sicher, dass\f",
+        "du sie zu deinem Vorteil einsetzen wirst."
+      ]
+    },
+    {
+      "id": "msg_0469_00013",
+      "de_DE": [
+        "Misty: Gibt es in Johto sehr\n",
+        "viele starke Trainer?\r",
+        "Irgendwann gehe ich genau wie\n",
+        "du auf eine Reise und kämpfe\f",
+        "gegen jede Menge starke Trainer!"
+      ]
+    },
+    {
+      "id": "msg_0469_00014",
+      "de_DE": [
+        "Oh, hi, zukünftiger Champ!\n",
+        "Als Misty und die anderen weg waren, bin\f",
+        "ich mich auch etwas amüsieren gegangen.\f",
+        "Hihihi..."
+      ]
+    },
+    {
+      "id": "msg_0469_00015",
+      "de_DE": [
+        "Wow, du bist wirklich ganz schön stark!\n",
+        "Das war echt ein toller Kampf!"
+      ]
+    },
+    {
+      "id": "msg_0469_00016",
+      "de_DE": [
+        "...\r",
+        "{STRVAR_1 3, 0, 0} hat einen schwarzen\n",
+        "Klumpen vom Rand des Pools aufgehoben!\r",
+        "Es ist irgendeine Art Spule!\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "key": 42006,
+  "messages": [
+    {
+      "id": "msg_0234_00000",
+      "de_DE": [
+        "...Ich heiße Charlie.\n",
+        "...Und du bist?\r",
+        "Oh... {STRVAR_1 3, 0}, kannst\n",
+        "du mir bitte helfen?\r",
+        "Ich muss durch diesen Tunnel.\n",
+        "Gehst du mit mir da durch?\r"
+      ]
+    },
+    {
+      "id": "msg_0234_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0} beschließt,\n",
+        "mit Charlie zu gehen!"
+      ]
+    },
+    {
+      "id": "msg_0234_00002",
+      "de_DE": [
+        "Charlie: ...Pokémon sollten nicht\n",
+        "verletzt sein... Ich heile sie..."
+      ]
+    },
+    {
+      "id": "msg_0234_00003",
+      "de_DE": [
+        "Charlie: ...Das hat lange gedauert...\n",
+        "Lass mich bitte nicht warten...\r",
+        "Ich habe mich so verloren gefühlt...\n",
+        "So ganz allein...\r"
+      ]
+    },
+    {
+      "id": "msg_0234_00004",
+      "de_DE": [
+        "Charlie: ...Du gehst wieder zurück...\n",
+        "Jammerschade... Tschüssi...\r"
+      ]
+    },
+    {
+      "id": "msg_0234_00005",
+      "de_DE": [
+        "Charlie: ...Oh! Wir sind richtig!\n",
+        "Dieser Weg führt zur Steintafel...\r",
+        "Ich wollte nur sehen, welches Pokémon\n",
+        "sie ständig aufsucht, das ist alles...\r",
+        "...Ich weiß deine Hilfe zu schätzen...\r",
+        "...Zumindest ein wenig...\r"
+      ]
+    },
+    {
+      "id": "msg_0234_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0234_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0234_00008",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0234_00009",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0234_00010",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0234_00011",
+      "garbage": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "key": 52142,
+  "messages": [
+    {
+      "id": "msg_0279_00000",
+      "de_DE": "Möchtest du zurück nach Fleetburg?"
+    },
+    {
+      "id": "msg_0279_00001",
+      "de_DE": [
+        "Aye, aye!\n",
+        "Anker lichten!\r"
+      ]
+    },
+    {
+      "id": "msg_0279_00002",
+      "de_DE": [
+        "Wie du willst. Sag mir einfach Bescheid,\n",
+        "falls du wieder nach Fleetburg willst."
+      ]
+    }
+  ]
+}

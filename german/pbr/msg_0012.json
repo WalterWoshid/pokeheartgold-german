@@ -1,0 +1,79 @@
+{
+  "key": 17467,
+  "messages": [
+    {
+      "id": "msg_0012_00000",
+      "de_DE": [
+        "Eine Anfrage eines Pokémon Rangers\n",
+        "ist eingetroffen.\n",
+        "\n",
+        "Du kannst von diesem Pokémon\n",
+        "Ranger ein {COLOR 1}MANAPHY-Ei{COLOR 0} erhalten!\n",
+        "\n",
+        "Wähle im nächsten Bildschirm\n",
+        "{COLOR 1}Link mit Pokémon Ranger{COLOR 0} aus.\n",
+        "Zum Fortfahren A-Knopf drücken."
+      ]
+    },
+    {
+      "id": "msg_0012_00001",
+      "de_DE": [
+        "Das Signal eines Geheimgeschehens\n",
+        "wurde lokalisiert.\n",
+        "\n",
+        "Du kannst nun das Geheimgeschehen\n",
+        "empfangen!\n",
+        "\n",
+        "Wähle im nächsten Bildschirm\n",
+        "{COLOR 1}Geheimgeschehen{COLOR 0} aus.\n",
+        "Zum Fortfahren A-Knopf drücken."
+      ]
+    },
+    {
+      "id": "msg_0012_00002",
+      "de_DE": [
+        "Eine Anfrage eines Pokémon Rangers\n",
+        "ist eingetroffen.\n",
+        "\n",
+        "Wenn du mit diesem Pokémon Ranger\n",
+        "kommunizieren möchtest, musst du\n",
+        "zuerst während deines Abenteuers\n",
+        "einen Pokédex erhalten.\n",
+        "Zum Fortfahren A-Knopf drücken."
+      ]
+    },
+    {
+      "id": "msg_0012_00003",
+      "de_DE": [
+        "Das Signal eines Geheimgeschehens\n",
+        "wurde lokalisiert.\n",
+        "\n",
+        "Um das Geheimgeschehen empfangen\n",
+        "zu können, musst du zuerst\n",
+        "während deines Abenteuers einen\n",
+        "Pokédex erhalten.\n",
+        "Zum Fortfahren A-Knopf drücken."
+      ]
+    },
+    {
+      "id": "msg_0012_00004",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0012_00005",
+      "de_DE": [
+        "\n",
+        "{COLOR 1}ACHTUNG!\n",
+        "{COLOR 0}Es existiert bereits ein Spielstand.\n",
+        "Beginnst du jetzt ein neues Abenteuer,\n",
+        "kannst du dieses nicht speichern.\n",
+        "Drücke Oben + SELECT + B-Knopf im\n",
+        "Titelbildschirm, wenn du den aktuellen\n",
+        "Spielstand löschen willst.\n",
+        "\n",
+        "A-Knopf: Abenteuer beginnen\n",
+        "B-Knopf: Zum Menü zurückkehren"
+      ]
+    }
+  ]
+}

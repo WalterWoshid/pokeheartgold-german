@@ -1,0 +1,120 @@
+{
+  "key": 63854,
+  "messages": [
+    {
+      "id": "msg_0049_00000",
+      "de_DE": [
+        "Ah!\n",
+        "Das ist der Orden von Erzelingen!\r",
+        "Verstehe, verstehe!\n",
+        "Du hast meinen Sohn besiegt!\r",
+        "Nun, das ist kein Wunder!\n",
+        "Er muss schließlich noch viel lernen.\r",
+        "Und im Gegensatz zu Veit bin ich\n",
+        "eine wirkliche Herausforderung für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0049_00001",
+      "de_DE": [
+        "Du hast es geschafft, mein\n",
+        "hervorragendes Team zu besiegen.\r",
+        "In Anerkennung deiner Stärke\n",
+        "überreiche ich dir... den Minenorden!\r"
+      ]
+    },
+    {
+      "id": "msg_0049_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält den\n",
+        "Minenorden von Adam!"
+      ]
+    },
+    {
+      "id": "msg_0049_00003",
+      "de_DE": [
+        "Dank des Minenordens kannst du nun\n",
+        "die Attacke Stärke auch außerhalb eines\f",
+        "Kampfes anwenden.\r",
+        "Nun besitzt du sechs Orden.\r",
+        "Das bedeutet, dass dir alle Pokémon\n",
+        "bis Level 70 auf’s Wort gehorchen!\r",
+        "Hier!\n",
+        "Das gebe ich dir auch noch!\r"
+      ]
+    },
+    {
+      "id": "msg_0049_00004",
+      "de_DE": [
+        "Die {STRVAR_1 8, 0} enthält die\n",
+        "Attacke {STRVAR_1 6, 1}.\r",
+        "Trifft sie den Gegner, wird dessen\n",
+        "Spezial-Verteidigung eventuell gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0049_00005",
+      "de_DE": [
+        "Muahahahahaha!\n",
+        "Die Region Sinnoh ist groß!\r",
+        "Ständig tauchen starke Trainer wie\n",
+        "du und {STRVAR_1 3, 1} auf, die die\f",
+        "alte Garde herausfordern!\r",
+        "Mit jungen Trainern, wie euch beiden\n",
+        "und meinem Sohn, liegt die Zukunft\f",
+        "der Pokémon im Hellen!\r",
+        "Aber noch mache ich nicht Platz\n",
+        "für einen jüngeren Trainer.\r",
+        "Ich muss mich nur wieder mehr auf\n",
+        "das Training konzentrieren. Ich\f",
+        "werde zur Eiseninsel aufbrechen."
+      ]
+    },
+    {
+      "id": "msg_0049_00006",
+      "de_DE": [
+        "Hey, du da!\n",
+        "Zukünftiger Champ!\r",
+        "Der Arenaleiter hier setzt\n",
+        "Stahl-Pokémon ein.\r",
+        "Diese haben eine starke Verteidigung,\n",
+        "daher musst du sie mit kräftigen\f",
+        "Angriffen treffen!"
+      ]
+    },
+    {
+      "id": "msg_0049_00007",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0}!\n",
+        "Du hast den Arenaleiter besiegt!\r",
+        "Sehr gut gemacht!\n",
+        "Das ist dein sechster Orden!\r",
+        "Soll ich dir was sagen? Du entwickelst\n",
+        "dich zu einem klasse Trainer.\r",
+        "Wenn du mir jetzt sagen würdest, du\n",
+        "willst Pokémon Champ werden...\r",
+        "Nun, ich würde dich bestimmt nicht\n",
+        "auslachen! Ich steh auf deiner Seite!"
+      ]
+    },
+    {
+      "id": "msg_0049_00008",
+      "de_DE": [
+        "Pokémon Arena Fleetburg\n",
+        "Leiter: Adam\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 1}"
+      ]
+    },
+    {
+      "id": "msg_0049_00009",
+      "de_DE": [
+        "Pokémon Arena Fleetburg\n",
+        "Leiter: Adam\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 0}\f",
+        "{STRVAR_1 3, 1}"
+      ]
+    }
+  ]
+}

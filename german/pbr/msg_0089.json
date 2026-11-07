@@ -1,0 +1,135 @@
+{
+  "key": 37906,
+  "messages": [
+    {
+      "id": "msg_0089_00000",
+      "de_DE": [
+        "Hallo, hallo!\n",
+        "Ich bin der Namenbewerter!\r",
+        "Soll ich die Spitznamen deiner\n",
+        "Pokémon bewerten?"
+      ]
+    },
+    {
+      "id": "msg_0089_00001",
+      "de_DE": [
+        "Von welchem Pokémon darf\n",
+        "ich den Spitznamen bewerten?"
+      ]
+    },
+    {
+      "id": "msg_0089_00002",
+      "de_DE": [
+        "{STRVAR_1 1, 0}, stimmt’s?\n",
+        "Ein passender Spitzname!\r",
+        "Aber wollen wir ihm nicht einen noch viel\n",
+        "passenderen geben?\r",
+        "Wie sieht’s aus?"
+      ]
+    },
+    {
+      "id": "msg_0089_00003",
+      "de_DE": [
+        "Ah, gut. Und wie soll der neue\n",
+        "Spitzname lauten?"
+      ]
+    },
+    {
+      "id": "msg_0089_00004",
+      "de_DE": [
+        "Erledigt! Von jetzt an heißt dieses\n",
+        "Pokémon also {STRVAR_1 1, 0}!\r",
+        "Ein schönerer Name als zuvor!\n",
+        "Du bist ja so ein Glückspilz!"
+      ]
+    },
+    {
+      "id": "msg_0089_00005",
+      "de_DE": [
+        "Verstehe.\n",
+        "Bis zum nächsten Mal."
+      ]
+    },
+    {
+      "id": "msg_0089_00006",
+      "de_DE": [
+        "Erledigt! Von jetzt an heißt dieses\n",
+        "Pokémon also {STRVAR_1 1, 0}!\r",
+        "Es hört sich kaum anders an als vorher,\n",
+        "und ist doch viel schöner.\r",
+        "Du bist ja so ein Glückspilz!"
+      ]
+    },
+    {
+      "id": "msg_0089_00007",
+      "de_DE": [
+        "{STRVAR_1 1, 0}, stimmt’s?\n",
+        "Welch ein makelloser Name!\r",
+        "Pass gut auf {STRVAR_1 1, 0} auf!"
+      ]
+    },
+    {
+      "id": "msg_0089_00008",
+      "de_DE": [
+        "Ach, komm schon. Das ist ein Ei!\n",
+        "Und ein Ei kann keinen Namen tragen!\n"
+      ]
+    },
+    {
+      "id": "msg_0089_00009",
+      "de_DE": [
+        "Entschuldigung... Hast du ein Pokémon\n",
+        "namens BAMELIN?\r",
+        "Willst du es gegen mein PLAUDAGEI\n",
+        "tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0089_00010",
+      "de_DE": [
+        "Ja! Wahnsinn! Ein BAMELIN!\n",
+        "Ich werde ganz, ganz lieb zu ihm sein!\r",
+        "PLAUDAGEI kann übrigens die menschliche\n",
+        "Sprache lernen.\r",
+        "Probiere mal seine Attacke Geschwätz.\n",
+        "Dann siehst du, was ich meine."
+      ]
+    },
+    {
+      "id": "msg_0089_00011",
+      "de_DE": "Ich brauche unbedingt ein BAMELIN..."
+    },
+    {
+      "id": "msg_0089_00012",
+      "de_DE": [
+        "Oh, schon gut. Verstehe.\n",
+        "Es zwingt dich ja keiner.\r",
+        "Aber wenn du deine Meinung änderst,\n",
+        "müssen wir unbedingt Pokémon tauschen."
+      ]
+    },
+    {
+      "id": "msg_0089_00013",
+      "de_DE": [
+        "Hat mein PLAUDAGEI schon die Attacke\n",
+        "Geschwätz gelernt?\r",
+        "Setzt du sie außerhalb eines Kampfes\n",
+        "ein, imitiert es deine Sprache."
+      ]
+    },
+    {
+      "id": "msg_0089_00014",
+      "de_DE": [
+        "Hi! Ich bin der Gebäudewächter.\n",
+        "Ich bin 24 Stunden am Tag wachsam!"
+      ]
+    },
+    {
+      "id": "msg_0089_00015",
+      "de_DE": [
+        "...Bin... Gebäudewächter... schnarch...\n",
+        "...24 Stunden... wachsam... zzz..."
+      ]
+    }
+  ]
+}

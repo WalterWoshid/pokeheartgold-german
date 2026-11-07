@@ -1,0 +1,53 @@
+{
+  "key": 58463,
+  "messages": [
+    {
+      "id": "msg_0584_00000",
+      "de_DE": [
+        "Seufz... wir haben hier eine neue Zweig-\n",
+        "stelle des Fahrradladens eröffnet,\f",
+        "aber es kommen einfach keine Kunden...\r",
+        "Was sagst du, würdest du dich für mich\n",
+        "auf den Drahtesel schwingen und\f",
+        "Werbung für uns machen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0584_00001",
+      "de_DE": [
+        "W-wirklich? Ganz im Ernst?\r",
+        "Dann verrate mir doch bitte deinen\n",
+        "Namen und deine Telefonnummer!\f",
+        "Ich leihe dir ein Fahrrad! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0584_00002",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0584_00003",
+      "de_DE": [
+        "Dieser Laden hat seinen Hauptsitz in\n",
+        "Azuria City in der Kanto-Region.\r",
+        "Wenn du dort vorbeikommen solltest,\n",
+        "dann grüße mir meinen Chef!\r",
+        "Die Fahrräder des Fahrradladens\n",
+        "sind einfach allererste Sahne!\r",
+        "Wenn’s sein muss, bringen sie\n",
+        "dich bis nach Kanto!"
+      ]
+    },
+    {
+      "id": "msg_0584_00004",
+      "de_DE": [
+        "Seufz... gibt es denn keine guten\n",
+        "Menschen mehr auf diesem Planeten?"
+      ]
+    },
+    {
+      "id": "msg_0584_00005",
+      "de_DE": "Ein nigelnagelneues Fahrrad!"
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_69.inc"
 	.include "global.inc"
@@ -2728,14 +2729,26 @@ ov69_021E6F8C: ; 0x021E6F8C
 	add r4, r1, #0
 	add r4, #0x14
 	str r2, [r0, r4]
+#ifdef GERMAN
+	mov r5, #0x96
+#else
 	mov r5, #0x69
+#endif
 	add r4, r1, #0
 	lsl r5, r5, #6
 	add r4, #0x18
 	str r5, [r0, r4]
+#ifdef GERMAN
+	mov r5, #0x2a
+#else
 	mov r5, #0x1f
+#endif
 	add r4, r1, #0
+#ifdef GERMAN
+	lsl r5, r5, #8
+#else
 	lsl r5, r5, #0xa
+#endif
 	add r4, #0x1c
 	str r5, [r0, r4]
 	add r4, r1, #0
@@ -2755,6 +2768,9 @@ ov69_021E6F8C: ; 0x021E6F8C
 _021E6FE4: .word 0x0000C2AC
 	thumb_func_end ov69_021E6F8C
 
+#ifdef GERMAN
+#include "german_ov69_021E6FE8.inc"
+#else
 	thumb_func_start ov69_021E6FE8
 ov69_021E6FE8: ; 0x021E6FE8
 	push {r3, r4, r5, r6, r7, lr}
@@ -2818,6 +2834,7 @@ _021E7060: .word 0x0000C2DC
 _021E7064: .word 0x000005C1
 _021E7068: .word 0x0000C304
 	thumb_func_end ov69_021E6FE8
+#endif
 
 	thumb_func_start ov69_021E706C
 ov69_021E706C: ; 0x021E706C

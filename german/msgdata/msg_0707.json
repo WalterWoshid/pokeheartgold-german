@@ -1,0 +1,164 @@
+{
+  "key": 25087,
+  "messages": [
+    {
+      "id": "msg_0707_00000",
+      "de_DE": "Eberhard"
+    },
+    {
+      "id": "msg_0707_00001",
+      "de_DE": [
+        "Wollen wir nicht Telefonnummern\n",
+        "tauschen, bevor wir uns beide\f",
+        "eine kleine Stärkung gönnen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0707_00002",
+      "de_DE": [
+        "Ich trage meinen Pokécom\n",
+        "stets griffbereit bei mir.\f",
+        "Wenn du anrufst, gehe ich sofort ran!"
+      ]
+    },
+    {
+      "id": "msg_0707_00003",
+      "de_DE": [
+        "Kein Grund zur Sorge!\r",
+        "Ich bin ein Camper\n",
+        "und von Grund auf herzensgut."
+      ]
+    },
+    {
+      "id": "msg_0707_00004",
+      "de_DE": [
+        "Möchtest du jetzt Telefonnummern\n",
+        "mit mir tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0707_00005",
+      "de_DE": [
+        "Da bist du ja endlich!\r",
+        "Den hier habe ich für dich aufgehoben.\n",
+        "Greif ruhig zu, ich schenke ihn dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0707_00006",
+      "de_DE": [
+        "Sekunde... du bist doch ganz\n",
+        "in der Nähe?\r",
+        "Mich aus der kurzen Distanz anzurufen\n",
+        "ist doch nun wirklich albern!"
+      ]
+    },
+    {
+      "id": "msg_0707_00007",
+      "de_DE": [
+        "Es ist sicher nichts falsch daran, seine\n",
+        "Pokémon im Haus zu halten.\r",
+        "Aber mein {STRVAR_1 0, 10, 0} begleitet mich\n",
+        "überallhin, auch wenn ich zelte.\f",
+        "Es ist ziemlich robust, weißt du!\r",
+        "Neulich hat es sogar ein {STRVAR_1 0, 11, 0}\n",
+        "mit einem Schlag besiegt!\f",
+        "Das hättest du sehen sollen!"
+      ]
+    },
+    {
+      "id": "msg_0707_00008",
+      "de_DE": [
+        "Man sollte kein wildes Pokémon fangen, \n",
+        "nur um seine eigenen stärker zu machen.\r",
+        "Genauso wenig sollte man planlos\n",
+        "mit Pokébällen um sich werfen.\r",
+        "Was zählt ist, dass du eine Verbindung\n",
+        "zwischen dir und dem Pokémon spürst!\r",
+        "Nun, ich würde gerne behaupten,\n",
+        "dass ich und mein {STRVAR_1 0, 10, 0}\f",
+        "perfekt aufeinander abgestimmt sind!\r",
+        "...Aber um ehrlich zu sein, neulich ist\n",
+        "uns um Haaresbreite ein {STRVAR_1 0, 11, 0}\f",
+        "durch die Lappen gegangen!\r",
+        "Es klappt eben nicht immer alles so,\n",
+        "wie man es sich vorstellt."
+      ]
+    },
+    {
+      "id": "msg_0707_00009",
+      "de_DE": [
+        "Vor Kurzem bin ich einem\n",
+        "{STRVAR_1 0, 11, 0} begegnet!\r",
+        "Es geschah, als ich gerade auf dem Weg\n",
+        "von meinem Camp zurück nach Hause war.\f",
+        "Mann, war ich vielleicht baff!\r",
+        "In der Natur sollte man eben immer\n",
+        "auf seine Umgebung achten."
+      ]
+    },
+    {
+      "id": "msg_0707_00010",
+      "de_DE": [
+        "Ich wollte gerade Essen zubereiten,\n",
+        "da habe ich an dich gedacht.\r",
+        "Wie wär’s mit einem Kämpfchen\n",
+        "vor dem Essen?\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\n",
+        "Bring deine besten Pokémon mit!"
+      ]
+    },
+    {
+      "id": "msg_0707_00011",
+      "de_DE": [
+        "Was ist denn los mit dir?\n",
+        "Hast du dich verlaufen?\r",
+        "Kein Problem! Gehe einfach Richtung\n",
+        "{STRVAR_1 4, 3, 0}. Du findest mich\f",
+        "schon. Ich stehe genau in der Mitte!"
+      ]
+    },
+    {
+      "id": "msg_0707_00012",
+      "de_DE": [
+        "Kennst du den Unterschied zwischen\n",
+        "einem Picknick und Campen?\r",
+        "...Na, die Art der Lieder!\r",
+        "Beim Picknick singt man fröhliche,\n",
+        "lustige Lieder, während man\f",
+        "durch die Landschaft spaziert.\r",
+        "Camper singen wehmütige,\n",
+        "leise Weisen, während sie\f",
+        "in das Lagerfeuer schauen.\r",
+        "Was?\n",
+        "Glaubst du mir etwa nicht?\r",
+        "Dann komm doch mal mit\n",
+        "und probiere es aus!\f",
+        "Dann schauen wir gemeinsam ins\f",
+        "Lagerfeuer und summen\f",
+        "schwermütige Lieder."
+      ]
+    },
+    {
+      "id": "msg_0707_00013",
+      "de_DE": [
+        "Als ich neulich eine Kuhle aushob,\n",
+        "um eine Feuerstelle zu machen,\f",
+        "habe ich etwas Sonderbares entdeckt!\r",
+        "Offenbar handelt\n",
+        "es sich um einen Sonnenstein.\r",
+        "Ich schenke ihn dir! Unser Treffpunkt\n",
+        "heißt {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0707_00014",
+      "de_DE": [
+        "Ich habe immer noch den Sonnenstein,\n",
+        "den ich dir versprochen habe!\r",
+        "Beeil dich mal ein bisschen und\n",
+        "komm hierher: {STRVAR_1 4, 3, 0}!"
+      ]
+    }
+  ]
+}

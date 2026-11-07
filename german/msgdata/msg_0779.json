@@ -1,0 +1,316 @@
+{
+  "key": 62496,
+  "messages": [
+    {
+      "id": "msg_0779_00000",
+      "de_DE": "ADRESSBUCH"
+    },
+    {
+      "id": "msg_0779_00001",
+      "de_DE": "FREUNDESLISTE PRÜFEN"
+    },
+    {
+      "id": "msg_0779_00002",
+      "de_DE": "FREUNDESCODE REGISTRIEREN"
+    },
+    {
+      "id": "msg_0779_00003",
+      "de_DE": "CODE VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00004",
+      "de_DE": "BEENDEN"
+    },
+    {
+      "id": "msg_0779_00005",
+      "de_DE": "FREUNDESLISTE"
+    },
+    {
+      "id": "msg_0779_00006",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00007",
+      "de_DE": "{ALN_CENTER}ZURÜCK"
+    },
+    {
+      "id": "msg_0779_00008",
+      "de_DE": "DETAILS"
+    },
+    {
+      "id": "msg_0779_00009",
+      "de_DE": "NAME NEU SCHREIBEN"
+    },
+    {
+      "id": "msg_0779_00010",
+      "de_DE": "LÖSCHEN"
+    },
+    {
+      "id": "msg_0779_00011",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0779_00012",
+      "de_DE": [
+        "Was möchtest du mit den Daten von\n",
+        "{STRVAR_1 3, 0, 0} tun?"
+      ]
+    },
+    {
+      "id": "msg_0779_00013",
+      "de_DE": "STATISTIK ÜBER {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00014",
+      "de_DE": "{ALN_CENTER}A: ZURÜCK ZUM LETZTEN BILDSCHIRM"
+    },
+    {
+      "id": "msg_0779_00015",
+      "de_DE": "GRUPPE"
+    },
+    {
+      "id": "msg_0779_00016",
+      "de_DE": "{STRVAR_34 3, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00017",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00018",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}"
+    },
+    {
+      "id": "msg_0779_00019",
+      "de_DE": "KAMPFERGEBNIS"
+    },
+    {
+      "id": "msg_0779_00020",
+      "de_DE": "SIEGE"
+    },
+    {
+      "id": "msg_0779_00021",
+      "de_DE": "NDLG."
+    },
+    {
+      "id": "msg_0779_00022",
+      "de_DE": "{ALN_RIGHT}{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00023",
+      "de_DE": "POKéMON-TAUSCH"
+    },
+    {
+      "id": "msg_0779_00024",
+      "de_DE": "{ALN_RIGHT}{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00025",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0779_00026",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0779_00027",
+      "de_DE": "ZULETZT GESPIELT"
+    },
+    {
+      "id": "msg_0779_00028",
+      "de_DE": "{STRVAR_1 51, 2, 0}. {STRVAR_1 51, 1, 0} {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00029",
+      "de_DE": "DUELLTURM"
+    },
+    {
+      "id": "msg_0779_00030",
+      "de_DE": "KAMPFFABRIK"
+    },
+    {
+      "id": "msg_0779_00031",
+      "de_DE": "KAMPFPALAIS"
+    },
+    {
+      "id": "msg_0779_00032",
+      "de_DE": "KAMPFSAAL"
+    },
+    {
+      "id": "msg_0779_00033",
+      "de_DE": "KAMPFARKADEN"
+    },
+    {
+      "id": "msg_0779_00034",
+      "de_DE": "VORHER"
+    },
+    {
+      "id": "msg_0779_00035",
+      "de_DE": "AKTUELL"
+    },
+    {
+      "id": "msg_0779_00036",
+      "de_DE": "REKORD"
+    },
+    {
+      "id": "msg_0779_00037",
+      "de_DE": "SIEGSERIE: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00038",
+      "de_DE": "LEVEL 50"
+    },
+    {
+      "id": "msg_0779_00039",
+      "de_DE": "OFFENER LEVEL"
+    },
+    {
+      "id": "msg_0779_00040",
+      "de_DE": "LEIHEN/TAUSCH"
+    },
+    {
+      "id": "msg_0779_00041",
+      "de_DE": "{ALN_RIGHT}PALAISPUNKTE"
+    },
+    {
+      "id": "msg_0779_00042",
+      "de_DE": "REKORD VON {STRVAR_1 0, 0, 0}:"
+    },
+    {
+      "id": "msg_0779_00043",
+      "de_DE": "{ALN_RIGHT}{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00044",
+      "de_DE": "{ALN_RIGHT}{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0779_00045",
+      "de_DE": "SIEGSERIE: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00046",
+      "de_DE": "GESCHAFFT: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00047",
+      "de_DE": "PLAZA-SPIELE GESPIELT"
+    },
+    {
+      "id": "msg_0779_00048",
+      "de_DE": "{STRVAR_3 0, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00049",
+      "de_DE": "{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00050",
+      "de_DE": "CODE VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0779_00051",
+      "de_DE": "{ALN_CENTER}ZURÜCK"
+    },
+    {
+      "id": "msg_0779_00052",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
+    },
+    {
+      "id": "msg_0779_00053",
+      "de_DE": [
+        "Tauschst du Freundescodes mit\n",
+        "anderen Spielern, kannst du\n",
+        "mit ihnen über die Nintendo WFC\n",
+        "kämpfen und Pokémon tauschen."
+      ]
+    },
+    {
+      "id": "msg_0779_00054",
+      "de_DE": [
+        "Bitte stelle eine Verbindung\n",
+        "zur Nintendo Wi-Fi Connection\n",
+        "her, um deinen Freundescode\n",
+        "zu erhalten."
+      ]
+    },
+    {
+      "id": "msg_0779_00055",
+      "de_DE": [
+        "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\n",
+        "{STRVAR_1 3, 0, 0} wird registriert."
+      ]
+    },
+    {
+      "id": "msg_0779_00056",
+      "de_DE": [
+        "Der Freundescode ist falsch.\n",
+        "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
+      ]
+    },
+    {
+      "id": "msg_0779_00057",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wird gelöscht.\n",
+        "Bist du ganz sicher?"
+      ]
+    },
+    {
+      "id": "msg_0779_00058",
+      "de_DE": "Deine Freundesliste ist voll."
+    },
+    {
+      "id": "msg_0779_00059",
+      "de_DE": [
+        "Dieser Freundescode wurde bereits\n",
+        "registriert."
+      ]
+    },
+    {
+      "id": "msg_0779_00060",
+      "de_DE": [
+        "Freundescode von {STRVAR_1 3, 0, 0}:\n",
+        "{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}"
+      ]
+    },
+    {
+      "id": "msg_0779_00061",
+      "de_DE": "FREUNDESCODE PRÜFEN"
+    },
+    {
+      "id": "msg_0779_00062",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} in deinem Adressbuch\n",
+        "registrieren?"
+      ]
+    },
+    {
+      "id": "msg_0779_00063",
+      "de_DE": [
+        "Deine Freundesliste ist voll.\n",
+        "Möchtest du jemanden löschen?"
+      ]
+    },
+    {
+      "id": "msg_0779_00064",
+      "de_DE": [
+        "Registrierung von {STRVAR_1 3, 0, 0}\n",
+        "abbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0779_00065",
+      "de_DE": [
+        "Daten von {STRVAR_1 3, 0, 0} aus deiner\n",
+        "Freundesliste löschen?"
+      ]
+    },
+    {
+      "id": "msg_0779_00066",
+      "de_DE": [
+        "Bitte versuche noch einmal, dich mit\n",
+        "{STRVAR_1 3, 0, 0} zu verbinden."
+      ]
+    }
+  ]
+}

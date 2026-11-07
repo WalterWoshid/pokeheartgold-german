@@ -1,0 +1,97 @@
+{
+  "key": 22295,
+  "messages": [
+    {
+      "id": "msg_0399_00000",
+      "de_DE": [
+        "Route 42\n",
+        "Östlich nach Mahagonia City"
+      ]
+    },
+    {
+      "id": "msg_0399_00001",
+      "de_DE": [
+        "Kesselberg\r",
+        "Im Inneren des Bergs befindet sich eine\n",
+        "Höhle mit einem großen Wasserfall."
+      ]
+    },
+    {
+      "id": "msg_0399_00002",
+      "de_DE": [
+        "Kesselberg\r",
+        "Im Inneren des Bergs befindet sich eine\n",
+        "Höhle mit einem großen Wasserfall."
+      ]
+    },
+    {
+      "id": "msg_0399_00003",
+      "de_DE": [
+        "Route 42\n",
+        "Westlich nach Teak City"
+      ]
+    },
+    {
+      "id": "msg_0399_00004",
+      "de_DE": "{SIZE 200}RUMMS!\r"
+    },
+    {
+      "id": "msg_0399_00005",
+      "de_DE": [
+        "Oh, das tut mir jetzt wirklich leid!\r",
+        "Jetzt habe ich doch glatt einen\n",
+        "passierenden Trainer umgerempelt!\r",
+        "Bist du auch nicht verletzt?\n",
+        "Hier, nimm das als Wiedergutmachung!\f",
+        "Und jetzt sei tapfer und weine nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0399_00006",
+      "de_DE": [
+        "Die Attacke darin nennt sich Stärke!\r",
+        "Wenn du sie einem deiner Pokémon\n",
+        "beibringst, kann es damit störende\f",
+        "Felsen aus dem Weg räumen.\r",
+        "Nicht schlecht, oder?\r",
+        "In Ordnung, dann wünsche ich dir\n",
+        "noch einen angenehmen Aufstieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0399_00007",
+      "de_DE": [
+        "Eusin: SUICUNE...\n",
+        "Du bist so tapfer...\f",
+        "Du bist so jung und schön...\f",
+        "Du bist so anmutig...\f",
+        "Und du bist immer so schnell wieder weg!\r"
+      ]
+    },
+    {
+      "id": "msg_0399_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Du bist echt immer genau\n",
+        "da, wo SUICUNE auftaucht!\r",
+        "Na ja, aber das Verlangen, SUICUNE\n",
+        "zu finden, brennt in meiner Brust\f",
+        "immer noch viel heißer als in deiner!\r",
+        "Weißt du, meine Großeltern wussten\n",
+        "einfach alles über alte Legenden.\f",
+        "Als ich noch klein war, haben sie mir\f",
+        "oft Geschichten erzählt, besonders\f",
+        "über SUICUNE!\r"
+      ]
+    },
+    {
+      "id": "msg_0399_00009",
+      "de_DE": [
+        "SUICUNE...\r",
+        "Ich werde nicht eher ruhen, bis\n",
+        "ich herausgefunden habe, wohin\f",
+        "dich deine Reise führt...\r",
+        "Ach ja, hab ich das nicht schön gesagt?\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "key": 2269,
+  "messages": [
+    {
+      "id": "msg_0702_00000",
+      "de_DE": "Zora&Finn"
+    },
+    {
+      "id": "msg_0702_00001",
+      "de_DE": [
+        "Das hier ist eine tolle Gelegenheit,\n",
+        "Telefonnummern auszutauschen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0702_00002",
+      "de_DE": [
+        "Ruf uns an, wenn es\n",
+        "etwas Neues gibt!"
+      ]
+    },
+    {
+      "id": "msg_0702_00003",
+      "de_DE": "Waaas? Schade..."
+    },
+    {
+      "id": "msg_0702_00004",
+      "de_DE": [
+        "Möchtest du doch mit uns Nummern\n",
+        "tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0702_00005",
+      "de_DE": [
+        "Woher rufst du denn gerade an?\r",
+        "Wenn du in der Nähe bist, kannst du\n",
+        "doch direkt zu uns kommen.\f",
+        "Genau!"
+      ]
+    },
+    {
+      "id": "msg_0702_00006",
+      "de_DE": [
+        "Hi, hier ist Zora!\r",
+        "Wie steht es um deine Kondition\n",
+        "seit unserem letzten Kampf?\f",
+        "Hat dein Team sich gut entwickelt?\r",
+        "Bei uns läuft alles wie geschmiert!\n",
+        "{STRVAR_1 0, 10, 0} zeigt vollen Einsatz.\r",
+        "Ein tolles Pokémon-Team hast du ja\n",
+        "bereits. Jetzt bleibt nur noch...\f",
+        "dir einen wunderbaren Lebenspartner\f",
+        "zu suchen! Hihihihi!"
+      ]
+    },
+    {
+      "id": "msg_0702_00007",
+      "de_DE": [
+        "Hi, hier ist Zora!\r",
+        "Wie steht es um deine Kondition\n",
+        "seit unserem letzten Gespräch?\f",
+        "Schlägst du dich gut in deinen Kämpfen?\r",
+        "Bei uns läuft’s wie geschmiert! Sogar\n",
+        "ein {STRVAR_1 0, 11, 0} haben wir geplättet!\r",
+        "Ein tolles Pokémon-Team hast du ja\n",
+        "bereits. Jetzt bleibt nur noch...\f",
+        "dir einen wunderbaren Lebenspartner\f",
+        "zu suchen! Hihihihi!"
+      ]
+    },
+    {
+      "id": "msg_0702_00008",
+      "de_DE": [
+        "Hi, hier ist Zora!\r",
+        "Wie läuft es so bei dir in\n",
+        "letzter Zeit? Ich habe schon\f",
+        "jede Menge Pokémo... jieks!\r",
+        "Hallo? Hier ist Finn!\n",
+        "Ab und zu könntest du mich auch\f",
+        "ruhig einmal zu Wort komm.... he!\r",
+        "Und neulich, weißt du, ist mir\n",
+        "ein {STRVAR_1 0, 11, 0} entwischt,\f",
+        "und da sagt mein Freund zu mir:\f",
+        "“Zora, Pokémon gibt es wie Sand am\f",
+        "Meer, aber du bist unvergleich...” oh!\r",
+        "Hallo? Hier spricht Finn!\n",
+        "Glaub ihr kein Wort! In Wahrheit... urk!\r",
+        "Nun, den Rest kannst du dir ja denken.\n",
+        "Wir reden nächstes Mal weiter!\f",
+        "Bye-bye!"
+      ]
+    },
+    {
+      "id": "msg_0702_00009",
+      "de_DE": [
+        "Hast du nicht Lust, mal wieder\n",
+        "gegen uns anzutreten?\r",
+        "Na, sicher hast du!\n",
+        "Hier warten wir: {STRVAR_1 4, 3, 0}!\f",
+        "Bis da-hann!"
+      ]
+    },
+    {
+      "id": "msg_0702_00010",
+      "de_DE": [
+        "Sag mal! Hast du unsere Verabredung\n",
+        "vergessen!\r",
+        "Mit Finn an meiner Seite langweile ich\n",
+        "mich zwar nicht, aber trotzdem...\r",
+        "Beeil dich, und komm her zu uns!\n",
+        "{STRVAR_1 4, 3, 0}, alles klar?"
+      ]
+    },
+    {
+      "id": "msg_0702_00011",
+      "de_DE": [
+        "Hi, hier ist Zora!\n",
+        "Mir ist sooo laaaangweilig.\r",
+        "Mein Freund macht kurz eine Erledigung\n",
+        "und kommt gleich zurück.\r",
+        "Hör mal, vor ein paar Tagen traf ich\n",
+        "einen unglaublich gut aussehenden Kerl!\r",
+        "Er trug einen violetten Frack\n",
+        "und eine rote Fliege!\f",
+        "Sie stand ihm unglaublich gut!\r",
+        "Oh, mein Freund ist zurück!\n",
+        "Bis später!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "key": 25706,
+  "messages": [
+    {
+      "id": "msg_0113_00000",
+      "de_DE": [
+        "Siegfried: Alles in Ordnung bei dir?\r",
+        "Deine Pokémon sind ziemlich\n",
+        "angeschlagen! Komm, ich gebe\f",
+        "dir was von meinen Tränken ab.\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00001",
+      "de_DE": [
+        "Los, {STRVAR_1 3, 0, 0}! Lass uns für die\n",
+        "Pokémon unser Bestes geben!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00002",
+      "de_DE": [
+        "Los, {STRVAR_1 3, 0, 0}! Lass uns für die\n",
+        "Pokémon unser Bestes geben!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00003",
+      "de_DE": "Athena: Stehengeblieben!"
+    },
+    {
+      "id": "msg_0113_00004",
+      "de_DE": [
+        "Athena: Wenn wir zulassen, dass sich ein\n",
+        "Balg wie du hier so aufspielt, wird der\f",
+        "Ruf von Team Rocket dadurch immer mehr\f",
+        "Schaden nehmen. Das wäre nicht nur\f",
+        "schade, sondern eine Schande!\r",
+        "...Und genau deshalb werden wir hier\n",
+        "langsam mal den Schlussstrich ziehen!\r",
+        "Du magst noch so stark sein, wenn\n",
+        "du es mit uns beiden gleichzeitig\f",
+        "zu tun hast, ist das auch für dich das\f",
+        "Ende der Fahnenstange! Sieh es ein!\r",
+        "Mwahahaha!\n",
+        "Tut uns leid, jetzt wirst du zermalmt!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00005",
+      "de_DE": [
+        "Siegfried: Augenblick mal!\r",
+        "Zwei gegen einen? Findet ihr das nicht\n",
+        "auch reichlich unausgewogen?\r",
+        "Aber was erwarte ich schon von Team\n",
+        "Rocket? Ihr lebt ja von solchen Tricks!\r",
+        "Tut mir wirklich leid für euch, aber ich\n",
+        "werde auch an diesem Kampf teilnehmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00006",
+      "de_DE": [
+        "Athena: Nanu, du bist nicht alleine?\n",
+        "Das passt mir aber gar nicht...\r",
+        "Ihr frechen Rotzlöffel!\n",
+        "Lasst euch von mir, Giovannis\f",
+        "Vertreterin, eins gesagt sein!\r",
+        "Ihr werdet noch früh genug erfahren,\n",
+        "was mit Leuten geschieht, die sich Team\f",
+        "Rocket in den Weg stellen!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00007",
+      "de_DE": [
+        "Hoppla, du bist ziemlich stark!\r",
+        "Das ist echt ein Jammer!\n",
+        "Jemand wie du könnte es bei Team Rocket\f",
+        "bis in den Vorstand schaffen!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00008",
+      "de_DE": [
+        "Athena: Ach, und wennschon!\r",
+        "Jetzt, wo unser Sende-Experiment\n",
+        "geglückt ist, kümmert es mich nicht,\f",
+        "was aus diesem Versteck wird!\r",
+        "Unsere Sache ist seeehr viel größer\n",
+        "als das alles hier zusammengenommen!\r",
+        "Du wirst schon noch sehen! Vor Team\n",
+        "Rocket nimmt man sich lieber in Acht!\r",
+        "Sieh diesem Tag mit Freude entgegen!\n",
+        "Mwahhahaha...\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00009",
+      "de_DE": [
+        "Siegfried: ...Puh, damit hätten wir\n",
+        "dieses Versteck dann wohl von Team\f",
+        "Rockets Mitgliedern gesäubert.\r",
+        "Aber ich wüsste gerne mehr über den\n",
+        "Jungen mit den roten Haaren, den wir\f",
+        "da vorhin beim Kämpfen erleben durften.\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00010",
+      "de_DE": [
+        "Nimm’s mir nicht übel, {STRVAR_1 3, 0, 0}! Du\n",
+        "hast dich eben so ins Zeug gelegt, dass\f",
+        "ich mich erst mal zurückgehalten habe.\r",
+        "Na gut! Jetzt müssen wir nur noch\n",
+        "dieses seltsame Signal stoppen!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00011",
+      "de_DE": [
+        "Nimm’s mir nicht übel, {STRVAR_1 3, 0, 0}! Du\n",
+        "hast dich eben so ins Zeug gelegt, dass\f",
+        "ich mich erst mal zurückgehalten habe.\r",
+        "Na gut! Jetzt müssen wir nur noch\n",
+        "dieses seltsame Signal stoppen!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00012",
+      "de_DE": [
+        "Diese Maschine ist an allem schuld...\n",
+        "aber ich finde nirgendwo einen Schalter!\r",
+        "Dann gibt es nur einen Ausweg!\n",
+        "Wir setzen die LEKTROBAL außer Gefecht.\r",
+        "Danach sollte auch dieses seltsame\n",
+        "Signal nicht mehr gesendet werden...\r",
+        "Für diese unschuldigen LEKTROBAL\n",
+        "tut es mir natürlich leid, aber uns\f",
+        "bleibt eben keine andere Wahl.\r",
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Ich kümmere mich um die rechte Seite!\f",
+        "Du übernimmst die linke!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00013",
+      "de_DE": [
+        "Diese Maschine ist an allem schuld...\n",
+        "aber ich finde nirgendwo einen Schalter!\r",
+        "Dann gibt es nur einen Ausweg!\n",
+        "Wir setzen die LEKTROBAL außer Gefecht.\r",
+        "Danach sollte auch dieses seltsame\n",
+        "Signal nicht mehr gesendet werden...\r",
+        "Für diese unschuldigen LEKTROBAL\n",
+        "tut es mir natürlich leid, aber uns\f",
+        "bleibt eben keine andere Wahl.\r",
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Ich kümmere mich um die rechte Seite!\f",
+        "Du übernimmst die linke!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00014",
+      "de_DE": "Siegfried: Diese Seite übernehme ich!\r"
+    },
+    {
+      "id": "msg_0113_00015",
+      "de_DE": [
+        "Siegfried: Endlich ist dieses\n",
+        "seltsame Signal verschwunden!\r",
+        "Damit sollte mit dem See nun auch\n",
+        "wieder alles beim Alten sein.\f",
+        "Das haben wir alles dir zu verdanken!\r",
+        "Lass mich dir im Namen aller\n",
+        "Pokémon danke sagen!\r",
+        "Ach ja!\r",
+        "Hier, nimm das doch bitte mit!\r",
+        "Das habe ich vorhin gefunden, aber\n",
+        "ich habe keine Verwendung dafür.\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00016",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält VM05\n",
+        "von Siegfried!"
+      ]
+    },
+    {
+      "id": "msg_0113_00017",
+      "de_DE": [
+        "Siegfried: Das nennt sich Whirlpool!\r",
+        "Bringe das einem Pokémon bei, um selbst\n",
+        "stürmische Gewässer zu überqueren!\r",
+        "Aber ohne den Orden aus der Arena von\n",
+        "Mahagonia City wird dir das nicht\f",
+        "gelingen! Aufgepasst also!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00018",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Man sagt, der Weg\n",
+        "zum Pokémon-Champ sei hart\f",
+        "und steinig...\f",
+        "Willst du es dennoch versuchen?\r",
+        "...\r",
+        "Oh, aber ja!\r",
+        "Du hast völlig recht.\r",
+        "Wer so leicht aufgibt, hatte wohl auch\n",
+        "nie vor, seinen Traum zu verwirklichen.\r",
+        "Also dann! Bis irgendwann mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Man sagt, der Weg\n",
+        "zum Pokémon-Champ sei hart\f",
+        "und steinig...\f",
+        "Willst du es dennoch versuchen?\r",
+        "...\r",
+        "Oh, aber ja!\r",
+        "Du hast völlig recht.\r",
+        "Wer so leicht aufgibt, hatte wohl auch\n",
+        "nie vor, seinen Traum zu verwirklichen.\r",
+        "Also dann! Bis irgendwann mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00020",
+      "de_DE": [
+        "Radiotransmitter\r",
+        "Diese Tür öffnet sich nur, wenn die\n",
+        "Stimme dessen erkannt wird, der das\f",
+        "Passwort eingerichtet hat..."
+      ]
+    },
+    {
+      "id": "msg_0113_00021",
+      "de_DE": [
+        "Die Tür ist verschlossen...\r",
+        "{STRVAR_1 3, 0, 0} gibt das Passwort ein.\r",
+        "Die Tür öffnet sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0113_00022",
+      "de_DE": [
+        "Der Radiotransmitter läuft\n",
+        "auf vollen Touren."
+      ]
+    },
+    {
+      "id": "msg_0113_00023",
+      "de_DE": [
+        "Der Radiotransmitter scheint\n",
+        "nun nicht mehr zu laufen."
+      ]
+    },
+    {
+      "id": "msg_0113_00024",
+      "de_DE": "KRAMURX: Lang lebe Giovanni!\r"
+    },
+    {
+      "id": "msg_0113_00025",
+      "de_DE": "KRAMURX: Lang lebe Giovanni!\r"
+    },
+    {
+      "id": "msg_0113_00026",
+      "de_DE": "KRAMURX: Lang lebe Giovanni!\r"
+    },
+    {
+      "id": "msg_0113_00027",
+      "de_DE": [
+        "KRAMURX kreischt das Passwort\n",
+        "mit exakt derselben Stimme wie\f",
+        "Lambda heraus!\r",
+        "...\r",
+        "Das sprachgesteuerte\n",
+        "Schloss löst sich!\r"
+      ]
+    }
+  ]
+}

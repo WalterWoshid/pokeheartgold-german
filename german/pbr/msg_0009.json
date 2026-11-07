@@ -1,0 +1,153 @@
+{
+  "key": 14338,
+  "messages": [
+    {
+      "id": "msg_0009_00000",
+      "de_DE": [
+        "Bitte begib dich auf die gewünschte\n",
+        "Position und beginne den Kampf."
+      ]
+    },
+    {
+      "id": "msg_0009_00001",
+      "de_DE": [
+        "Bitte warten...\n",
+        "B-Knopf: Abbrechen"
+      ]
+    },
+    {
+      "id": "msg_0009_00002",
+      "de_DE": [
+        "Mal sehen, was {STRVAR_1 3, 0} hier\n",
+        "hat...\r",
+        "...Aha! Eine Normale Karte!"
+      ]
+    },
+    {
+      "id": "msg_0009_00003",
+      "de_DE": [
+        "Mal sehen, was {STRVAR_1 3, 0} hier\n",
+        "hat...\r",
+        "...Aha! Eine Bronze Karte!"
+      ]
+    },
+    {
+      "id": "msg_0009_00004",
+      "de_DE": [
+        "Mal sehen, was {STRVAR_1 3, 0} hier\n",
+        "hat...\r",
+        "...Aha! Eine Kupfer Karte!"
+      ]
+    },
+    {
+      "id": "msg_0009_00005",
+      "de_DE": [
+        "Mal sehen, was {STRVAR_1 3, 0} hier\n",
+        "hat...\r",
+        "...Aha! Eine Silber Karte!"
+      ]
+    },
+    {
+      "id": "msg_0009_00006",
+      "de_DE": [
+        "Mal sehen, was {STRVAR_1 3, 0} hier\n",
+        "hat...\r",
+        "...Aha! Eine Gold Karte!"
+      ]
+    },
+    {
+      "id": "msg_0009_00007",
+      "de_DE": [
+        "Mal sehen, was {STRVAR_1 3, 0} hier\n",
+        "hat...\r",
+        "...Aha! Eine Schwarze Karte!"
+      ]
+    },
+    {
+      "id": "msg_0009_00008",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0009_00009",
+      "de_DE": [
+        "Verbindung wird beendet.\n",
+        "Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0009_00010",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0009_00011",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0009_00012",
+      "de_DE": [
+        "Verbindung wird abgebrochen!\n",
+        "Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0009_00013",
+      "de_DE": "Wähle die Pokémon.\r"
+    },
+    {
+      "id": "msg_0009_00014",
+      "de_DE": "{STRVAR_1 3, 0} wählt. Bitte warten..."
+    },
+    {
+      "id": "msg_0009_00015",
+      "de_DE": [
+        "Die Kampfvorbereitungen\n",
+        "wurden abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0009_00016",
+      "de_DE": "Bitte besuche uns wieder!"
+    },
+    {
+      "id": "msg_0009_00017",
+      "de_DE": "Bitte wähle ein Pokémon des Gegners."
+    },
+    {
+      "id": "msg_0009_00018",
+      "de_DE": "Willst du {STRVAR_1 0, 1} auswählen?"
+    },
+    {
+      "id": "msg_0009_00019",
+      "de_DE": [
+        "Bitte wähle drei Pokémon aus, die\n",
+        "antreten sollen.\r"
+      ]
+    },
+    {
+      "id": "msg_0009_00020",
+      "de_DE": [
+        "In einem Mischkampf wählst du ein\n",
+        "Pokémon des Gegners aus, dieser\f",
+        "wählt eines von deinen aus.\r",
+        "Habt ihr eure Wahl getroffen, tauscht\n",
+        "ihr die beiden Pokémon aus.\r"
+      ]
+    },
+    {
+      "id": "msg_0009_00021",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0009_00022",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0009_00023",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0009_00024",
+      "de_DE": "ZURÜCK"
+    }
+  ]
+}

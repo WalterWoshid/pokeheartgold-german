@@ -24,13 +24,13 @@ help() {
 }
 
 JSON_FILES=()
-INCLUDES=""
-DEFINES=""
+INCLUDES=()
+DEFINES=()
 JSONPROC=""
 TEMPLATE=""
 O2NARC=""
 CC="arm-none-eabi-gcc"
-CFLAGS=
+CFLAGS=()
 OUTDIR="."
 LANG="c"
 PADDING="0xFF"
@@ -57,17 +57,17 @@ while [[ $# -gt 0 ]] ; do
             shift
             ;;
         -i|--include)
-            INCLUDES+="-I$2 "
+            INCLUDES+=("-I$2")
             shift
             shift
             ;;
         -D|--define)
-            DEFINES+="-D$2 "
+            DEFINES+=("-D$2")
             shift
             shift
             ;;
         -F|--flags)
-            CFLAGS="$2"
+            read -r -a CFLAGS <<< "$2"
             shift
             shift
             ;;
@@ -134,6 +134,13 @@ while [[ $# -gt 0 ]] ; do
     esac
 done
 
+# Meson passes the Metrowerks executable and its SDK selector together.
+# Keep the executable path intact when the checkout directory contains spaces.
+CC_COMMAND=("$CC")
+if [[ "$CC" == *" -wrap:sdk "* ]]; then
+    CC_COMMAND=("${CC%% -wrap:sdk *}" -wrap:sdk "${CC##* -wrap:sdk }")
+fi
+
 mkdir -p "$OUTDIR"
 
 for json_file in "${JSON_FILES[@]}" ; do
@@ -169,19 +176,19 @@ for json_file in "${JSON_FILES[@]}" ; do
         naix="$OUTDIR/$json_noext.naix"
     fi
     # Convert
-    $JSONPROC "$json_file" $TEMPLATE "$json_intr"
-    $CC $CFLAGS $INCLUDES $DEFINES -c "$json_intr" -o "$json_obj"
+    "$JSONPROC" "$json_file" "$TEMPLATE" "$json_intr"
+    "${CC_COMMAND[@]}" "${CFLAGS[@]}" "${INCLUDES[@]}" "${DEFINES[@]}" -c "$json_intr" -o "$json_obj"
     if [ "$OBJ_COPY_FLAG" = true ] ; then
-        $OBJ_COPY -O binary "$json_obj" "$json_bin"
+        "$OBJ_COPY" -O binary "$json_obj" "$json_bin"
     elif [ "$BUILD_NARC" = true ] ; then
-        $O2NARC "$json_obj" "$narc" -N -p $PADDING
+        "$O2NARC" "$json_obj" "$narc" -N -p "$PADDING"
         if [ "$VER_AGNO" = true ]; then
             agnoname="${naix%_*.naix}.naix"
-            $SED -r s/_"$SHORTNAME"//g "$naix" > "$agnoname"
+            "$SED" -r s/_"$SHORTNAME"//g "$naix" > "$agnoname"
             rm "$naix"
         fi
     else
-        $O2NARC "$json_obj" "$json_bin" -f
+        "$O2NARC" "$json_obj" "$json_bin" -f
     fi
     rm "$json_intr" "$json_obj"
 done

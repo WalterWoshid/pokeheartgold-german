@@ -1,0 +1,152 @@
+{
+  "key": 52138,
+  "messages": [
+    {
+      "id": "msg_0281_00000",
+      "de_DE": "{SIZE 200}Bumms!!!{SIZE 100}\r"
+    },
+    {
+      "id": "msg_0281_00001",
+      "de_DE": "Was zum...\r"
+    },
+    {
+      "id": "msg_0281_00002",
+      "de_DE": [
+        "Hoppla, tut mir leid!\n",
+        "Ich war in Eile.\r"
+      ]
+    },
+    {
+      "id": "msg_0281_00003",
+      "de_DE": [
+        "Oh, Moment mal...\n",
+        "Bist du nicht...\r",
+        "{STRVAR_1 3, 1} aus Zweiblattdorf, genau!\n",
+        "Mann, all die Erinnerungen!\r",
+        "Wenn du hier bist, ist er\n",
+        "bestimmt nicht weit...\r",
+        "Das wird bestimmt witzig.\n",
+        "Man sieht sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0281_00004",
+      "de_DE": "{SIZE 200}Bumms!!!{SIZE 100}\r"
+    },
+    {
+      "id": "msg_0281_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was zum...\r",
+        "Oh, hi {STRVAR_1 3, 1}!\r",
+        "Bist auch zum Duellturm\n",
+        "gekommen, was?\r",
+        "Wollte mich mal testen, bevor ich\n",
+        "zum Kahlberg aufbreche.\r",
+        "Du, dieser Typ, mit dem du\n",
+        "gerade gequatscht hast...\r",
+        "...Egal, wird schon passen!\n",
+        "Hab’s selbst hierher geschafft.\f",
+        "Bald habe ich ihn vorm Visier.\r",
+        "Man sieht sich, {STRVAR_1 3, 1}!\n",
+        "Zeit für ein wenig Training!\r"
+      ]
+    },
+    {
+      "id": "msg_0281_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was zum...\r",
+        "Oh, hi {STRVAR_1 3, 1}!\r",
+        "Bist auch zum Duellturm\n",
+        "gekommen, was?\r",
+        "Wollte mich mal testen, wie meine\n",
+        "Chancen sind, der größte Trainer\f",
+        "aller Zeiten zu werden.\r",
+        "Du, dieser Typ, mit dem du\n",
+        "gerade gequatscht hast...\r",
+        "...Egal, wird schon passen!\n",
+        "Hab’s selbst hierher geschafft.\f",
+        "Bald habe ich ihn vorm Visier.\r",
+        "Man sieht sich, {STRVAR_1 3, 1}!\n",
+        "Zeit für ein wenig Training!\r"
+      ]
+    },
+    {
+      "id": "msg_0281_00007",
+      "de_DE": [
+        "Tauschecke\n",
+        "Items im Überfluss!"
+      ]
+    },
+    {
+      "id": "msg_0281_00008",
+      "de_DE": [
+        "Duellturm\n",
+        "Die Trainerelite unter sich!"
+      ]
+    },
+    {
+      "id": "msg_0281_00009",
+      "de_DE": [
+        "Der siebte Trainer eines jeden\n",
+        "Raumes ist auch der Endgegner.\r",
+        "Du musst dich schon anstrengen,\n",
+        "wenn du gewinnen willst!"
+      ]
+    },
+    {
+      "id": "msg_0281_00010",
+      "de_DE": [
+        "Wenn du im Duellturm eine lange\n",
+        "Siegesserie hinlegst, darfst du\f",
+        "gegen echte Superstars kämpfen."
+      ]
+    },
+    {
+      "id": "msg_0281_00011",
+      "de_DE": [
+        "Hahaha! Wir haben uns im Duellturm\n",
+        "haufenweise GP verdient.\r",
+        "Jetzt kann ich mir sehr,\n",
+        "sehr viele Items holen!"
+      ]
+    },
+    {
+      "id": "msg_0281_00012",
+      "de_DE": "Aaah."
+    },
+    {
+      "id": "msg_0281_00013",
+      "de_DE": [
+        "Ich bin Babysitter und Trainer in einem!\r",
+        "Jetzt gehe ich mit meinem geliebten\n",
+        "Sohnemann zu den Multikampf-Räumen!"
+      ]
+    },
+    {
+      "id": "msg_0281_00014",
+      "de_DE": [
+        "Ich hörte, dies sei der beste Ort\n",
+        "für Kämpfe auf der ganzen Welt.\r",
+        "Das ist meine Chance, ganz groß\n",
+        "rauszukommen und berühmt zu werden!"
+      ]
+    },
+    {
+      "id": "msg_0281_00015",
+      "de_DE": [
+        "Das Wesen der Pokémon!\r",
+        "Die Attacken, die man einsetzen muss!\r",
+        "Die richtigen Items zur Hand haben!\r",
+        "Die Nummer eins wird man nur, wenn\n",
+        "man alle Details genauestens beachtet!"
+      ]
+    },
+    {
+      "id": "msg_0281_00016",
+      "de_DE": [
+        "Hätte nichts dagegen, an der Seite\n",
+        "einer Schönheit im Multikampf zu stehen."
+      ]
+    }
+  ]
+}

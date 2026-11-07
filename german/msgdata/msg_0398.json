@@ -1,0 +1,142 @@
+{
+  "key": 25726,
+  "messages": [
+    {
+      "id": "msg_0398_00000",
+      "de_DE": [
+        "Muhkuh ist krank... es braucht jetzt\n",
+        "sehr viele von den Sinelbeeren,\f",
+        "die es so gerne mag...\r"
+      ]
+    },
+    {
+      "id": "msg_0398_00001",
+      "de_DE": [
+        "Vielen Dank! Muhkuh ist jetzt\n",
+        "wieder fit wie ein Turnschuh!\r",
+        "Bitte nimm diese Sticker als\n",
+        "Dankeschön!\r"
+      ]
+    },
+    {
+      "id": "msg_0398_00002",
+      "de_DE": [
+        "Hoppla! Ich habe hier ein paar Sticker\n",
+        "für dich, aber dir fehlt leider der\f",
+        "zugehörige Stickerkoffer dafür!\r",
+        "Aber nur keine Panik! Meine\n",
+        "Schwester schenkt dir einen!\r"
+      ]
+    },
+    {
+      "id": "msg_0398_00003",
+      "de_DE": "Hoppla! Du hast schon zu viele Sticker!\r"
+    },
+    {
+      "id": "msg_0398_00004",
+      "de_DE": "Muhkuh ist wieder fit wie ein Turnschuh!\r"
+    },
+    {
+      "id": "msg_0398_00005",
+      "de_DE": [
+        "Muhkuh ist krank... es braucht jetzt\n",
+        "sehr viele von den Sinelbeeren,\f",
+        "die es so gerne mag...\r"
+      ]
+    },
+    {
+      "id": "msg_0398_00006",
+      "de_DE": [
+        "Vielen Dank! Muhkuh ist jetzt\n",
+        "wieder fit wie ein Turnschuh!\r",
+        "Bitte nimm diesen Stickerkoffer\n",
+        "als Dankeschön!\r"
+      ]
+    },
+    {
+      "id": "msg_0398_00007",
+      "de_DE": [
+        "Du kannst deinen Pokébällen einen\n",
+        "persönlichen Hauch verpassen, indem\f",
+        "du verschiedene Sticker auf sie klebst.\r",
+        "Dazu musst du als Erstes im Menü am PC\n",
+        "den Punkt “Ballkapsel” auswählen.\r",
+        "Du kannst einen Sticker deiner Wahl\n",
+        "auf eine Kapsel kleben und sie an\f",
+        "einem beliebigen Ball anbringen.\r",
+        "Experimentiere einfach etwas herum!\n",
+        "Meine kleine Schwester gibt dir bestimmt\f",
+        "ein paar Sticker!\r"
+      ]
+    },
+    {
+      "id": "msg_0398_00008",
+      "de_DE": [
+        "Bei uns zu Hause kannst du\n",
+        "Kuhmuh-Milch kaufen! Schau doch\f",
+        "mal vorbei, wenn du Lust hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0398_00009",
+      "de_DE": "MILTANK: ...tank...\r"
+    },
+    {
+      "id": "msg_0398_00010",
+      "de_DE": "Sein Ruf ist sehr schwach..."
+    },
+    {
+      "id": "msg_0398_00011",
+      "de_DE": "MILTANK: Miiillltank!\r"
+    },
+    {
+      "id": "msg_0398_00012",
+      "de_DE": "Es strotzt vor Energie!"
+    },
+    {
+      "id": "msg_0398_00013",
+      "de_DE": "Gibst du MILTANK eine Sinelbeere? {YESNO 0}"
+    },
+    {
+      "id": "msg_0398_00014",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gibt MILTANK eine\n",
+        "Sinelbeere!"
+      ]
+    },
+    {
+      "id": "msg_0398_00015",
+      "de_DE": "MILTANK geht es wieder etwas besser!"
+    },
+    {
+      "id": "msg_0398_00016",
+      "de_DE": "MILTANK geht es immer besser!"
+    },
+    {
+      "id": "msg_0398_00017",
+      "de_DE": "MILTANK ist wieder voll bei Kräften!"
+    },
+    {
+      "id": "msg_0398_00018",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat keine\n",
+        "Sinelbeeren dabei..."
+      ]
+    },
+    {
+      "id": "msg_0398_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat MILTANK keine\n",
+        "Sinelbeeren gegeben.\r",
+        "Es sieht dich ganz traurig an..."
+      ]
+    },
+    {
+      "id": "msg_0398_00020",
+      "de_DE": [
+        "{STRVAR_1 10, 0, 0} wurden\n",
+        "im Stickerkoffer verstaut."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "key": 42696,
+  "messages": [
+    {
+      "id": "msg_0754_00000",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0754_00001",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0754_00002",
+      "de_DE": [
+        "Möchtest du aufhören, mit dem\n",
+        "Fußabdruck-Stempel zu spielen?"
+      ]
+    },
+    {
+      "id": "msg_0754_00003",
+      "de_DE": [
+        "Der Fußabdruck-Stempel ist jetzt\n",
+        "geschlossen."
+      ]
+    }
+  ]
+}

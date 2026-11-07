@@ -1,0 +1,289 @@
+{
+  "key": 62603,
+  "messages": [
+    {
+      "id": "msg_0130_00000",
+      "de_DE": [
+        "Oh! Willkommen!\r",
+        "Aber nicht doch! Du musst dich\n",
+        "für nichts rechtfertigen!\f",
+        "Sandra hat dich zu mir geschickt,\f",
+        "habe ich nicht recht?\r",
+        "Sie ist so ein eigensinniges Mädchen...\r",
+        "Sei mir nicht böse, aber ich muss dich\n",
+        "einem winzig kleinen Test unterziehen.\f",
+        "Oh nein! Keine Sorge, ich werde dir\f",
+        "nur ein paar Fragen stellen.\r",
+        "Gut, dann fangen wir mal an...\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00001",
+      "de_DE": "Was sind Pokémon für dich? {YESNO 0}"
+    },
+    {
+      "id": "msg_0130_00002",
+      "de_DE": [
+        "Was benötigt man, um einen\n",
+        "Pokémon-Kampf zu gewinnen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0130_00003",
+      "de_DE": [
+        "Gegen welche Sorte von Trainer\n",
+        "würdest du am liebsten kämpfen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0130_00004",
+      "de_DE": [
+        "Worauf muss man am meisten achten,\n",
+        "wenn man Pokémon trainiert? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0130_00005",
+      "de_DE": [
+        "Welche sind dir lieber? Starke\n",
+        "Pokémon oder schwache Pokémon? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0130_00006",
+      "de_DE": [
+        "Hm... ich verstehe.\r",
+        "In deiner Brust schlägt wirklich\n",
+        "ein Herz für Pokémon...\r",
+        "Ich bin begeistert!\n",
+        "Du hast genau die richtige Einstellung!\r",
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Bewahre sie fest in deinem Herzen!\f",
+        "Wenn dir das gelingt, wird es dir\f",
+        "auch später in der Pokémon Liga\f",
+        "einmal von großem Nutzen sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00007",
+      "de_DE": [
+        "Was sagst du da? Ich habe dich\n",
+        "nicht richtig verstanden...\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00008",
+      "de_DE": "Was hast du da gerade gesagt?"
+    },
+    {
+      "id": "msg_0130_00009",
+      "de_DE": "Hm, ich verstehe...\r"
+    },
+    {
+      "id": "msg_0130_00010",
+      "de_DE": [
+        "Na, wie hast du abgeschnitten?\r",
+        "Warte, lass mich raten...\n",
+        "Bei dir ist Hopfen und Malz verloren!\f",
+        "... ... ...\f",
+        "...Was! Du hast bestanden?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00011",
+      "de_DE": "{SIZE 200}Niemals!\r"
+    },
+    {
+      "id": "msg_0130_00012",
+      "de_DE": [
+        "Das darf doch nicht wahr sein!\n",
+        "N-nicht einmal ich wurde von\f",
+        "ihm als würdig anerkannt!\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00013",
+      "de_DE": [
+        "Sandra!\r",
+        "Dieses Kind ist eine wahre Offenbarung,\n",
+        "was Technik und Einstellung angeht!\f",
+        "Nun spring endlich über deinen Schatten\f",
+        "und rücke mit dem Drachenorden heraus!\r",
+        "Wenn du dich weigerst... sehe ich mich\n",
+        "gezwungen, Siegfried davon zu erzählen!\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00014",
+      "de_DE": "I-in Ordnung...\r"
+    },
+    {
+      "id": "msg_0130_00015",
+      "de_DE": [
+        "Hier, das ist der Drachenorden...\n",
+        "Los, jetzt nimm ihn schon!\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00016",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "den Drachenorden."
+      ]
+    },
+    {
+      "id": "msg_0130_00017",
+      "de_DE": [
+        "Mit dem Drachenorden in deinem Besitz\n",
+        "können deine Pokémon mit der Attacke\f",
+        "Kaskade jeden Wasserfall erklimmen...\f",
+        "Ferner werden dich alle Pokémon\f",
+        "als Trainer anerkennen und dir\f",
+        "bedingungslos gehorchen.\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00018",
+      "de_DE": [
+        "Sandra...\r",
+        "Dieses Kind besitzt etwas,\n",
+        "das dir fehlt...\f",
+        "Denke mal in Ruhe darüber nach,\f",
+        "was ich damit meinen könnte.\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00019",
+      "de_DE": [
+        "... ... ...\n",
+        "... ... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00020",
+      "de_DE": [
+        "Übrigens...\n",
+        "Hast du schon einmal den\f",
+        "Namen LUGIA gehört?\r",
+        "Es heißt, dieses Wesen habe vor langer\n",
+        "Zeit auf den Strudelinseln gelebt.\f",
+        "LUGIA ist zwar ein Pokémon, aber...\r",
+        "Ach, schon gut! Hör nicht auf das\n",
+        "senile Gefasel eines alten Mannes!"
+      ]
+    },
+    {
+      "id": "msg_0130_00021",
+      "de_DE": [
+        "Übrigens... Hast du schon\n",
+        "einmal von einem Pokémon\f",
+        "namens LUGIA gehört?\r",
+        "Nun...\r",
+        "Zwischen Oliviana und Anemonia City\n",
+        "gibt es einen Ort, den man die\f",
+        "Strudelinseln nennt.\r",
+        "Tief unter diesen Inseln befindet\n",
+        "sich eine Höhle, durch die ein\f",
+        "gigantischer Wasserfall strömt.\r",
+        "Es heißt, am Grund dieses Wasserfalls\n",
+        "schlummere LUGIA...\r",
+        "Aber dorthin gelangt man nur, wenn\n",
+        "man im Besitz des Silberflügels ist.\f",
+        "So lautet die Legende..."
+      ]
+    },
+    {
+      "id": "msg_0130_00022",
+      "de_DE": [
+        "Tief unter den Strudelinseln soll sich\n",
+        "eine Höhle befinden, durch die ein\f",
+        "gigantischer Wasserfall strömt.\r",
+        "Man sagt, am Grund dieses Wasserfalls\n",
+        "schlummere LUGIA...\r",
+        "Aber dorthin gelangt man nur, wenn\n",
+        "man im Besitz des Silberflügels ist.\f",
+        "So lautet die Legende..."
+      ]
+    },
+    {
+      "id": "msg_0130_00023",
+      "de_DE": [
+        "Komm wieder, wenn du es dir\n",
+        "anders überlegen solltest!"
+      ]
+    },
+    {
+      "id": "msg_0130_00024",
+      "de_DE": [
+        "Es ist schon lange her, seit jemand die\n",
+        "Anerkennung unseres Meisters erhielt.\f",
+        "Der letzte vor dir war Siegfried!\n"
+      ]
+    },
+    {
+      "id": "msg_0130_00025",
+      "de_DE": [
+        "Kennst du Siegfried?\r",
+        "Er ist das genaue Ebenbild unseres\n",
+        "Meisters in seinen jungen Jahren.\f",
+        "Sie sind aus demselben Holz geschnitzt."
+      ]
+    },
+    {
+      "id": "msg_0130_00026",
+      "de_DE": [
+        "Oh! Sei mir willkommen!\r",
+        "Du kommst genau richtig.\n",
+        "Ich habe hier etwas für dich!\r",
+        "Führe es als Zeichen meiner\n",
+        "Anerkennung mit dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0130_00027",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "DRATINI!"
+      ]
+    },
+    {
+      "id": "msg_0130_00028",
+      "de_DE": [
+        "Nanu?\n",
+        "Du hast schon zu viele Pokémon dabei!"
+      ]
+    },
+    {
+      "id": "msg_0130_00029",
+      "de_DE": [
+        "Drachen-Pokémon sind das\n",
+        "Markenzeichen unseres Klans!\r",
+        "Dir kann ich eins von ihnen anvertrauen."
+      ]
+    },
+    {
+      "id": "msg_0130_00030",
+      "de_DE": [
+        "Sandra scheint aus ihrer Begegnung\n",
+        "mit dir etwas mitgenommen zu haben...\r",
+        "Ich, ihr Großvater, danke dir dafür."
+      ]
+    },
+    {
+      "id": "msg_0130_00031",
+      "de_DE": [
+        "Ein Junge deines Alters ist gerade\n",
+        "hier, um unterwiesen zu werden.\r",
+        "Er ist ein bisschen so, wie Sandra\n",
+        "früher war. Das besorgt mich etwas..."
+      ]
+    },
+    {
+      "id": "msg_0130_00032",
+      "de_DE": [
+        "Möchtest du\n",
+        "DRATINI einen Spitznamen geben? {YESNO 0}"
+      ]
+    }
+  ]
+}

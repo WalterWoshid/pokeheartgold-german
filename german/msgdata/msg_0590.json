@@ -1,0 +1,24 @@
+{
+  "key": 58383,
+  "messages": [
+    {
+      "id": "msg_0590_00000",
+      "de_DE": [
+        "Neulich sind einem meiner Pokémon im\n",
+        "Kampf die Angriffspunkte\f",
+        "ausgegangen, und es konnte eine\f",
+        "bestimmte Attacke nicht mehr einsetzen."
+      ]
+    },
+    {
+      "id": "msg_0590_00001",
+      "de_DE": [
+        "Manchmal kann auch ein gesundes\n",
+        "Pokémon nicht mehr angreifen!\r",
+        "In diesem Fall solltest du es in einem\n",
+        "Pokémon-Center oder mithilfe eines\f",
+        "Items wieder heilen!"
+      ]
+    }
+  ]
+}

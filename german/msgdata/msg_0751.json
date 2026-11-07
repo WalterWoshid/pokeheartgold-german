@@ -1,0 +1,1877 @@
+{
+  "key": 22192,
+  "messages": [
+    {
+      "id": "msg_0751_00000",
+      "de_DE": "-"
+    },
+    {
+      "id": "msg_0751_00001",
+      "de_DE": "PFUND"
+    },
+    {
+      "id": "msg_0751_00002",
+      "de_DE": "KARATESCHLAG"
+    },
+    {
+      "id": "msg_0751_00003",
+      "de_DE": "DUPLEXHIEB"
+    },
+    {
+      "id": "msg_0751_00004",
+      "de_DE": "KOMETENHIEB"
+    },
+    {
+      "id": "msg_0751_00005",
+      "de_DE": "MEGAHIEB"
+    },
+    {
+      "id": "msg_0751_00006",
+      "de_DE": "ZAHLTAG"
+    },
+    {
+      "id": "msg_0751_00007",
+      "de_DE": "FEUERSCHLAG"
+    },
+    {
+      "id": "msg_0751_00008",
+      "de_DE": "EISHIEB"
+    },
+    {
+      "id": "msg_0751_00009",
+      "de_DE": "DONNERSCHLAG"
+    },
+    {
+      "id": "msg_0751_00010",
+      "de_DE": "KRATZER"
+    },
+    {
+      "id": "msg_0751_00011",
+      "de_DE": "KLAMMER"
+    },
+    {
+      "id": "msg_0751_00012",
+      "de_DE": "GUILLOTINE"
+    },
+    {
+      "id": "msg_0751_00013",
+      "de_DE": "KLINGENSTURM"
+    },
+    {
+      "id": "msg_0751_00014",
+      "de_DE": "SCHWERTTANZ"
+    },
+    {
+      "id": "msg_0751_00015",
+      "de_DE": "ZERSCHNEIDER"
+    },
+    {
+      "id": "msg_0751_00016",
+      "de_DE": "WINDSTOSS"
+    },
+    {
+      "id": "msg_0751_00017",
+      "de_DE": "FLÜGELSCHLAG"
+    },
+    {
+      "id": "msg_0751_00018",
+      "de_DE": "WIRBELWIND"
+    },
+    {
+      "id": "msg_0751_00019",
+      "de_DE": "FLIEGEN"
+    },
+    {
+      "id": "msg_0751_00020",
+      "de_DE": "KLAMMERGRIFF"
+    },
+    {
+      "id": "msg_0751_00021",
+      "de_DE": "SLAM"
+    },
+    {
+      "id": "msg_0751_00022",
+      "de_DE": "RANKENHIEB"
+    },
+    {
+      "id": "msg_0751_00023",
+      "de_DE": "STAMPFER"
+    },
+    {
+      "id": "msg_0751_00024",
+      "de_DE": "DOPPELKICK"
+    },
+    {
+      "id": "msg_0751_00025",
+      "de_DE": "MEGAKICK"
+    },
+    {
+      "id": "msg_0751_00026",
+      "de_DE": "SPRUNGKICK"
+    },
+    {
+      "id": "msg_0751_00027",
+      "de_DE": "FEGEKICK"
+    },
+    {
+      "id": "msg_0751_00028",
+      "de_DE": "SANDWIRBEL"
+    },
+    {
+      "id": "msg_0751_00029",
+      "de_DE": "KOPFNUSS"
+    },
+    {
+      "id": "msg_0751_00030",
+      "de_DE": "HORNATTACKE"
+    },
+    {
+      "id": "msg_0751_00031",
+      "de_DE": "FURIENSCHLAG"
+    },
+    {
+      "id": "msg_0751_00032",
+      "de_DE": "HORNBOHRER"
+    },
+    {
+      "id": "msg_0751_00033",
+      "de_DE": "TACKLE"
+    },
+    {
+      "id": "msg_0751_00034",
+      "de_DE": "BODYSLAM"
+    },
+    {
+      "id": "msg_0751_00035",
+      "de_DE": "WICKEL"
+    },
+    {
+      "id": "msg_0751_00036",
+      "de_DE": "BODYCHECK"
+    },
+    {
+      "id": "msg_0751_00037",
+      "de_DE": "FUCHTLER"
+    },
+    {
+      "id": "msg_0751_00038",
+      "de_DE": "RISIKOTACKLE"
+    },
+    {
+      "id": "msg_0751_00039",
+      "de_DE": "RUTENSCHLAG"
+    },
+    {
+      "id": "msg_0751_00040",
+      "de_DE": "GIFTSTACHEL"
+    },
+    {
+      "id": "msg_0751_00041",
+      "de_DE": "DUONADEL"
+    },
+    {
+      "id": "msg_0751_00042",
+      "de_DE": "NADELRAKETE"
+    },
+    {
+      "id": "msg_0751_00043",
+      "de_DE": "SILBERBLICK"
+    },
+    {
+      "id": "msg_0751_00044",
+      "de_DE": "BISS"
+    },
+    {
+      "id": "msg_0751_00045",
+      "de_DE": "HEULER"
+    },
+    {
+      "id": "msg_0751_00046",
+      "de_DE": "BRÜLLER"
+    },
+    {
+      "id": "msg_0751_00047",
+      "de_DE": "GESANG"
+    },
+    {
+      "id": "msg_0751_00048",
+      "de_DE": "SUPERSCHALL"
+    },
+    {
+      "id": "msg_0751_00049",
+      "de_DE": "ULTRASCHALL"
+    },
+    {
+      "id": "msg_0751_00050",
+      "de_DE": "AUSSETZER"
+    },
+    {
+      "id": "msg_0751_00051",
+      "de_DE": "SÄURE"
+    },
+    {
+      "id": "msg_0751_00052",
+      "de_DE": "GLUT"
+    },
+    {
+      "id": "msg_0751_00053",
+      "de_DE": "FLAMMENWURF"
+    },
+    {
+      "id": "msg_0751_00054",
+      "de_DE": "WEISSNEBEL"
+    },
+    {
+      "id": "msg_0751_00055",
+      "de_DE": "AQUAKNARRE"
+    },
+    {
+      "id": "msg_0751_00056",
+      "de_DE": "HYDROPUMPE"
+    },
+    {
+      "id": "msg_0751_00057",
+      "de_DE": "SURFER"
+    },
+    {
+      "id": "msg_0751_00058",
+      "de_DE": "EISSTRAHL"
+    },
+    {
+      "id": "msg_0751_00059",
+      "de_DE": "BLIZZARD"
+    },
+    {
+      "id": "msg_0751_00060",
+      "de_DE": "PSYSTRAHL"
+    },
+    {
+      "id": "msg_0751_00061",
+      "de_DE": "BLUBBSTRAHL"
+    },
+    {
+      "id": "msg_0751_00062",
+      "de_DE": "AURORASTRAHL"
+    },
+    {
+      "id": "msg_0751_00063",
+      "de_DE": "HYPERSTRAHL"
+    },
+    {
+      "id": "msg_0751_00064",
+      "de_DE": "SCHNABEL"
+    },
+    {
+      "id": "msg_0751_00065",
+      "de_DE": "BOHRSCHNABEL"
+    },
+    {
+      "id": "msg_0751_00066",
+      "de_DE": "ÜBERROLLER"
+    },
+    {
+      "id": "msg_0751_00067",
+      "de_DE": "FUSSKICK"
+    },
+    {
+      "id": "msg_0751_00068",
+      "de_DE": "KONTER"
+    },
+    {
+      "id": "msg_0751_00069",
+      "de_DE": "GEOWURF"
+    },
+    {
+      "id": "msg_0751_00070",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0751_00071",
+      "de_DE": "ABSORBER"
+    },
+    {
+      "id": "msg_0751_00072",
+      "de_DE": "MEGASAUGER"
+    },
+    {
+      "id": "msg_0751_00073",
+      "de_DE": "EGELSAMEN"
+    },
+    {
+      "id": "msg_0751_00074",
+      "de_DE": "WACHSTUM"
+    },
+    {
+      "id": "msg_0751_00075",
+      "de_DE": "RASIERBLATT"
+    },
+    {
+      "id": "msg_0751_00076",
+      "de_DE": "SOLARSTRAHL"
+    },
+    {
+      "id": "msg_0751_00077",
+      "de_DE": "GIFTPUDER"
+    },
+    {
+      "id": "msg_0751_00078",
+      "de_DE": "STACHELSPORE"
+    },
+    {
+      "id": "msg_0751_00079",
+      "de_DE": "SCHLAFPUDER"
+    },
+    {
+      "id": "msg_0751_00080",
+      "de_DE": "BLÄTTERTANZ"
+    },
+    {
+      "id": "msg_0751_00081",
+      "de_DE": "FADENSCHUSS"
+    },
+    {
+      "id": "msg_0751_00082",
+      "de_DE": "DRACHENWUT"
+    },
+    {
+      "id": "msg_0751_00083",
+      "de_DE": "FEUERWIRBEL"
+    },
+    {
+      "id": "msg_0751_00084",
+      "de_DE": "DONNERSCHOCK"
+    },
+    {
+      "id": "msg_0751_00085",
+      "de_DE": "DONNERBLITZ"
+    },
+    {
+      "id": "msg_0751_00086",
+      "de_DE": "DONNERWELLE"
+    },
+    {
+      "id": "msg_0751_00087",
+      "de_DE": "DONNER"
+    },
+    {
+      "id": "msg_0751_00088",
+      "de_DE": "STEINWURF"
+    },
+    {
+      "id": "msg_0751_00089",
+      "de_DE": "ERDBEBEN"
+    },
+    {
+      "id": "msg_0751_00090",
+      "de_DE": "GEOFISSUR"
+    },
+    {
+      "id": "msg_0751_00091",
+      "de_DE": "SCHAUFLER"
+    },
+    {
+      "id": "msg_0751_00092",
+      "de_DE": "TOXIN"
+    },
+    {
+      "id": "msg_0751_00093",
+      "de_DE": "KONFUSION"
+    },
+    {
+      "id": "msg_0751_00094",
+      "de_DE": "PSYCHOKINESE"
+    },
+    {
+      "id": "msg_0751_00095",
+      "de_DE": "HYPNOSE"
+    },
+    {
+      "id": "msg_0751_00096",
+      "de_DE": "MEDITATION"
+    },
+    {
+      "id": "msg_0751_00097",
+      "de_DE": "AGILITÄT"
+    },
+    {
+      "id": "msg_0751_00098",
+      "de_DE": "RUCKZUCKHIEB"
+    },
+    {
+      "id": "msg_0751_00099",
+      "de_DE": "RASEREI"
+    },
+    {
+      "id": "msg_0751_00100",
+      "de_DE": "TELEPORT"
+    },
+    {
+      "id": "msg_0751_00101",
+      "de_DE": "NACHTNEBEL"
+    },
+    {
+      "id": "msg_0751_00102",
+      "de_DE": "MIMIKRY"
+    },
+    {
+      "id": "msg_0751_00103",
+      "de_DE": "KREIDESCHREI"
+    },
+    {
+      "id": "msg_0751_00104",
+      "de_DE": "DOPPELTEAM"
+    },
+    {
+      "id": "msg_0751_00105",
+      "de_DE": "GENESUNG"
+    },
+    {
+      "id": "msg_0751_00106",
+      "de_DE": "HÄRTNER"
+    },
+    {
+      "id": "msg_0751_00107",
+      "de_DE": "KOMPRIMATOR"
+    },
+    {
+      "id": "msg_0751_00108",
+      "de_DE": "RAUCHWOLKE"
+    },
+    {
+      "id": "msg_0751_00109",
+      "de_DE": "KONFUSTRAHL"
+    },
+    {
+      "id": "msg_0751_00110",
+      "de_DE": "PANZERSCHUTZ"
+    },
+    {
+      "id": "msg_0751_00111",
+      "de_DE": "EINIGLER"
+    },
+    {
+      "id": "msg_0751_00112",
+      "de_DE": "BARRIERE"
+    },
+    {
+      "id": "msg_0751_00113",
+      "de_DE": "LICHTSCHILD"
+    },
+    {
+      "id": "msg_0751_00114",
+      "de_DE": "DUNKELNEBEL"
+    },
+    {
+      "id": "msg_0751_00115",
+      "de_DE": "REFLEKTOR"
+    },
+    {
+      "id": "msg_0751_00116",
+      "de_DE": "ENERGIEFOKUS"
+    },
+    {
+      "id": "msg_0751_00117",
+      "de_DE": "GEDULD"
+    },
+    {
+      "id": "msg_0751_00118",
+      "de_DE": "METRONOM"
+    },
+    {
+      "id": "msg_0751_00119",
+      "de_DE": "SPIEGELTRICK"
+    },
+    {
+      "id": "msg_0751_00120",
+      "de_DE": "FINALE"
+    },
+    {
+      "id": "msg_0751_00121",
+      "de_DE": "EIERBOMBE"
+    },
+    {
+      "id": "msg_0751_00122",
+      "de_DE": "SCHLECKER"
+    },
+    {
+      "id": "msg_0751_00123",
+      "de_DE": "SMOG"
+    },
+    {
+      "id": "msg_0751_00124",
+      "de_DE": "SCHLAMMBAD"
+    },
+    {
+      "id": "msg_0751_00125",
+      "de_DE": "KNOCHENKEULE"
+    },
+    {
+      "id": "msg_0751_00126",
+      "de_DE": "FEUERSTURM"
+    },
+    {
+      "id": "msg_0751_00127",
+      "de_DE": "KASKADE"
+    },
+    {
+      "id": "msg_0751_00128",
+      "de_DE": "SCHNAPPER"
+    },
+    {
+      "id": "msg_0751_00129",
+      "de_DE": "STERNSCHAUER"
+    },
+    {
+      "id": "msg_0751_00130",
+      "de_DE": "SCHÄDELWUMME"
+    },
+    {
+      "id": "msg_0751_00131",
+      "de_DE": "DORNKANONE"
+    },
+    {
+      "id": "msg_0751_00132",
+      "de_DE": "UMKLAMMERUNG"
+    },
+    {
+      "id": "msg_0751_00133",
+      "de_DE": "AMNESIE"
+    },
+    {
+      "id": "msg_0751_00134",
+      "de_DE": "PSYKRAFT"
+    },
+    {
+      "id": "msg_0751_00135",
+      "de_DE": "WEICHEI"
+    },
+    {
+      "id": "msg_0751_00136",
+      "de_DE": "TURMKICK"
+    },
+    {
+      "id": "msg_0751_00137",
+      "de_DE": "GIFTBLICK"
+    },
+    {
+      "id": "msg_0751_00138",
+      "de_DE": "TRAUMFRESSER"
+    },
+    {
+      "id": "msg_0751_00139",
+      "de_DE": "GIFTWOLKE"
+    },
+    {
+      "id": "msg_0751_00140",
+      "de_DE": "STAKKATO"
+    },
+    {
+      "id": "msg_0751_00141",
+      "de_DE": "BLUTSAUGER"
+    },
+    {
+      "id": "msg_0751_00142",
+      "de_DE": "TODESKUSS"
+    },
+    {
+      "id": "msg_0751_00143",
+      "de_DE": "HIMMELSFEGER"
+    },
+    {
+      "id": "msg_0751_00144",
+      "de_DE": "WANDLER"
+    },
+    {
+      "id": "msg_0751_00145",
+      "de_DE": "BLUBBER"
+    },
+    {
+      "id": "msg_0751_00146",
+      "de_DE": "IRRSCHLAG"
+    },
+    {
+      "id": "msg_0751_00147",
+      "de_DE": "PILZSPORE"
+    },
+    {
+      "id": "msg_0751_00148",
+      "de_DE": "BLITZ"
+    },
+    {
+      "id": "msg_0751_00149",
+      "de_DE": "PSYWELLE"
+    },
+    {
+      "id": "msg_0751_00150",
+      "de_DE": "PLATSCHER"
+    },
+    {
+      "id": "msg_0751_00151",
+      "de_DE": "SÄUREPANZER"
+    },
+    {
+      "id": "msg_0751_00152",
+      "de_DE": "KRABBHAMMER"
+    },
+    {
+      "id": "msg_0751_00153",
+      "de_DE": "EXPLOSION"
+    },
+    {
+      "id": "msg_0751_00154",
+      "de_DE": "KRATZFURIE"
+    },
+    {
+      "id": "msg_0751_00155",
+      "de_DE": "KNOCHMERANG"
+    },
+    {
+      "id": "msg_0751_00156",
+      "de_DE": "ERHOLUNG"
+    },
+    {
+      "id": "msg_0751_00157",
+      "de_DE": "STEINHAGEL"
+    },
+    {
+      "id": "msg_0751_00158",
+      "de_DE": "HYPERZAHN"
+    },
+    {
+      "id": "msg_0751_00159",
+      "de_DE": "SCHÄRFER"
+    },
+    {
+      "id": "msg_0751_00160",
+      "de_DE": "UMWANDLUNG"
+    },
+    {
+      "id": "msg_0751_00161",
+      "de_DE": "TRIPLETTE"
+    },
+    {
+      "id": "msg_0751_00162",
+      "de_DE": "SUPERZAHN"
+    },
+    {
+      "id": "msg_0751_00163",
+      "de_DE": "SCHLITZER"
+    },
+    {
+      "id": "msg_0751_00164",
+      "de_DE": "DELEGATOR"
+    },
+    {
+      "id": "msg_0751_00165",
+      "de_DE": "VERZWEIFLER"
+    },
+    {
+      "id": "msg_0751_00166",
+      "de_DE": "NACHAHMER"
+    },
+    {
+      "id": "msg_0751_00167",
+      "de_DE": "DREIFACHKICK"
+    },
+    {
+      "id": "msg_0751_00168",
+      "de_DE": "RAUB"
+    },
+    {
+      "id": "msg_0751_00169",
+      "de_DE": "SPINNENNETZ"
+    },
+    {
+      "id": "msg_0751_00170",
+      "de_DE": "WILLENSLESER"
+    },
+    {
+      "id": "msg_0751_00171",
+      "de_DE": "NACHTMAHR"
+    },
+    {
+      "id": "msg_0751_00172",
+      "de_DE": "FLAMMENRAD"
+    },
+    {
+      "id": "msg_0751_00173",
+      "de_DE": "SCHNARCHER"
+    },
+    {
+      "id": "msg_0751_00174",
+      "de_DE": "FLUCH"
+    },
+    {
+      "id": "msg_0751_00175",
+      "de_DE": "DRESCHFLEGEL"
+    },
+    {
+      "id": "msg_0751_00176",
+      "de_DE": "UMWANDLUNG2"
+    },
+    {
+      "id": "msg_0751_00177",
+      "de_DE": "LUFTSTOSS"
+    },
+    {
+      "id": "msg_0751_00178",
+      "de_DE": "BAUMWOLLSAAT"
+    },
+    {
+      "id": "msg_0751_00179",
+      "de_DE": "GEGENSCHLAG"
+    },
+    {
+      "id": "msg_0751_00180",
+      "de_DE": "GROLL"
+    },
+    {
+      "id": "msg_0751_00181",
+      "de_DE": "PULVERSCHNEE"
+    },
+    {
+      "id": "msg_0751_00182",
+      "de_DE": "SCHUTZSCHILD"
+    },
+    {
+      "id": "msg_0751_00183",
+      "de_DE": "TEMPOHIEB"
+    },
+    {
+      "id": "msg_0751_00184",
+      "de_DE": "GRIMASSE"
+    },
+    {
+      "id": "msg_0751_00185",
+      "de_DE": "FINTE"
+    },
+    {
+      "id": "msg_0751_00186",
+      "de_DE": "BITTERKUSS"
+    },
+    {
+      "id": "msg_0751_00187",
+      "de_DE": "BAUCHTROMMEL"
+    },
+    {
+      "id": "msg_0751_00188",
+      "de_DE": "MATSCHBOMBE"
+    },
+    {
+      "id": "msg_0751_00189",
+      "de_DE": "LEHMSCHELLE"
+    },
+    {
+      "id": "msg_0751_00190",
+      "de_DE": "OCTAZOOKA"
+    },
+    {
+      "id": "msg_0751_00191",
+      "de_DE": "STACHLER"
+    },
+    {
+      "id": "msg_0751_00192",
+      "de_DE": "BLITZKANONE"
+    },
+    {
+      "id": "msg_0751_00193",
+      "de_DE": "GESICHTE"
+    },
+    {
+      "id": "msg_0751_00194",
+      "de_DE": "ABGANGSBUND"
+    },
+    {
+      "id": "msg_0751_00195",
+      "de_DE": "ABGESANG"
+    },
+    {
+      "id": "msg_0751_00196",
+      "de_DE": "EISSTURM"
+    },
+    {
+      "id": "msg_0751_00197",
+      "de_DE": "SCANNER"
+    },
+    {
+      "id": "msg_0751_00198",
+      "de_DE": "KNOCHENHATZ"
+    },
+    {
+      "id": "msg_0751_00199",
+      "de_DE": "ZIELSCHUSS"
+    },
+    {
+      "id": "msg_0751_00200",
+      "de_DE": "WUTANFALL"
+    },
+    {
+      "id": "msg_0751_00201",
+      "de_DE": "SANDSTURM"
+    },
+    {
+      "id": "msg_0751_00202",
+      "de_DE": "GIGASAUGER"
+    },
+    {
+      "id": "msg_0751_00203",
+      "de_DE": "AUSDAUER"
+    },
+    {
+      "id": "msg_0751_00204",
+      "de_DE": "CHARME"
+    },
+    {
+      "id": "msg_0751_00205",
+      "de_DE": "WALZER"
+    },
+    {
+      "id": "msg_0751_00206",
+      "de_DE": "TRUGSCHLAG"
+    },
+    {
+      "id": "msg_0751_00207",
+      "de_DE": "ANGEBEREI"
+    },
+    {
+      "id": "msg_0751_00208",
+      "de_DE": "MILCHGETRÄNK"
+    },
+    {
+      "id": "msg_0751_00209",
+      "de_DE": "FUNKENSPRUNG"
+    },
+    {
+      "id": "msg_0751_00210",
+      "de_DE": "ZORNKLINGE"
+    },
+    {
+      "id": "msg_0751_00211",
+      "de_DE": "STAHLFLÜGEL"
+    },
+    {
+      "id": "msg_0751_00212",
+      "de_DE": "HORRORBLICK"
+    },
+    {
+      "id": "msg_0751_00213",
+      "de_DE": "ANZIEHUNG"
+    },
+    {
+      "id": "msg_0751_00214",
+      "de_DE": "SCHLAFREDE"
+    },
+    {
+      "id": "msg_0751_00215",
+      "de_DE": "VITALGLOCKE"
+    },
+    {
+      "id": "msg_0751_00216",
+      "de_DE": "RÜCKKEHR"
+    },
+    {
+      "id": "msg_0751_00217",
+      "de_DE": "GESCHENK"
+    },
+    {
+      "id": "msg_0751_00218",
+      "de_DE": "FRUSTRATION"
+    },
+    {
+      "id": "msg_0751_00219",
+      "de_DE": "BODYGUARD"
+    },
+    {
+      "id": "msg_0751_00220",
+      "de_DE": "LEIDTEILER"
+    },
+    {
+      "id": "msg_0751_00221",
+      "de_DE": "LÄUTERFEUER"
+    },
+    {
+      "id": "msg_0751_00222",
+      "de_DE": "INTENSITÄT"
+    },
+    {
+      "id": "msg_0751_00223",
+      "de_DE": "WUCHTSCHLAG"
+    },
+    {
+      "id": "msg_0751_00224",
+      "de_DE": "VIELENDER"
+    },
+    {
+      "id": "msg_0751_00225",
+      "de_DE": "FEUERODEM"
+    },
+    {
+      "id": "msg_0751_00226",
+      "de_DE": "STAFFETTE"
+    },
+    {
+      "id": "msg_0751_00227",
+      "de_DE": "ZUGABE"
+    },
+    {
+      "id": "msg_0751_00228",
+      "de_DE": "VERFOLGUNG"
+    },
+    {
+      "id": "msg_0751_00229",
+      "de_DE": "TURBODREHER"
+    },
+    {
+      "id": "msg_0751_00230",
+      "de_DE": "LOCKDUFT"
+    },
+    {
+      "id": "msg_0751_00231",
+      "de_DE": "EISENSCHWEIF"
+    },
+    {
+      "id": "msg_0751_00232",
+      "de_DE": "METALLKLAUE"
+    },
+    {
+      "id": "msg_0751_00233",
+      "de_DE": "ÜBERWURF"
+    },
+    {
+      "id": "msg_0751_00234",
+      "de_DE": "MORGENGRAUEN"
+    },
+    {
+      "id": "msg_0751_00235",
+      "de_DE": "SYNTHESE"
+    },
+    {
+      "id": "msg_0751_00236",
+      "de_DE": "MONDSCHEIN"
+    },
+    {
+      "id": "msg_0751_00237",
+      "de_DE": "KRAFTRESERVE"
+    },
+    {
+      "id": "msg_0751_00238",
+      "de_DE": "KREUZHIEB"
+    },
+    {
+      "id": "msg_0751_00239",
+      "de_DE": "WINDHOSE"
+    },
+    {
+      "id": "msg_0751_00240",
+      "de_DE": "REGENTANZ"
+    },
+    {
+      "id": "msg_0751_00241",
+      "de_DE": "SONNENTAG"
+    },
+    {
+      "id": "msg_0751_00242",
+      "de_DE": "KNIRSCHER"
+    },
+    {
+      "id": "msg_0751_00243",
+      "de_DE": "SPIEGELCAPE"
+    },
+    {
+      "id": "msg_0751_00244",
+      "de_DE": "PSYCHO-PLUS"
+    },
+    {
+      "id": "msg_0751_00245",
+      "de_DE": "TURBOTEMPO"
+    },
+    {
+      "id": "msg_0751_00246",
+      "de_DE": "ANTIK-KRAFT"
+    },
+    {
+      "id": "msg_0751_00247",
+      "de_DE": "SPUKBALL"
+    },
+    {
+      "id": "msg_0751_00248",
+      "de_DE": "SEHER"
+    },
+    {
+      "id": "msg_0751_00249",
+      "de_DE": "ZERTRÜMMERER"
+    },
+    {
+      "id": "msg_0751_00250",
+      "de_DE": "WHIRLPOOL"
+    },
+    {
+      "id": "msg_0751_00251",
+      "de_DE": "PRÜGLER"
+    },
+    {
+      "id": "msg_0751_00252",
+      "de_DE": "MOGELHIEB"
+    },
+    {
+      "id": "msg_0751_00253",
+      "de_DE": "AUFRUHR"
+    },
+    {
+      "id": "msg_0751_00254",
+      "de_DE": "HORTER"
+    },
+    {
+      "id": "msg_0751_00255",
+      "de_DE": "ENTFESSLER"
+    },
+    {
+      "id": "msg_0751_00256",
+      "de_DE": "VERZEHRER"
+    },
+    {
+      "id": "msg_0751_00257",
+      "de_DE": "HITZEWELLE"
+    },
+    {
+      "id": "msg_0751_00258",
+      "de_DE": "HAGELSTURM"
+    },
+    {
+      "id": "msg_0751_00259",
+      "de_DE": "FOLTERKNECHT"
+    },
+    {
+      "id": "msg_0751_00260",
+      "de_DE": "SCHMEICHLER"
+    },
+    {
+      "id": "msg_0751_00261",
+      "de_DE": "IRRLICHT"
+    },
+    {
+      "id": "msg_0751_00262",
+      "de_DE": "MEMENTO-MORI"
+    },
+    {
+      "id": "msg_0751_00263",
+      "de_DE": "FASSADE"
+    },
+    {
+      "id": "msg_0751_00264",
+      "de_DE": "POWER-PUNCH"
+    },
+    {
+      "id": "msg_0751_00265",
+      "de_DE": "RIECHSALZ"
+    },
+    {
+      "id": "msg_0751_00266",
+      "de_DE": "SPOTLIGHT"
+    },
+    {
+      "id": "msg_0751_00267",
+      "de_DE": "NATUR-KRAFT"
+    },
+    {
+      "id": "msg_0751_00268",
+      "de_DE": "LADEVORGANG"
+    },
+    {
+      "id": "msg_0751_00269",
+      "de_DE": "VERHÖHNER"
+    },
+    {
+      "id": "msg_0751_00270",
+      "de_DE": "RECHTE HAND"
+    },
+    {
+      "id": "msg_0751_00271",
+      "de_DE": "TRICKBETRUG"
+    },
+    {
+      "id": "msg_0751_00272",
+      "de_DE": "ROLLENTAUSCH"
+    },
+    {
+      "id": "msg_0751_00273",
+      "de_DE": "WUNSCHTRAUM"
+    },
+    {
+      "id": "msg_0751_00274",
+      "de_DE": "ZUSCHUSS"
+    },
+    {
+      "id": "msg_0751_00275",
+      "de_DE": "VERWURZLER"
+    },
+    {
+      "id": "msg_0751_00276",
+      "de_DE": "KRAFTKOLOSS"
+    },
+    {
+      "id": "msg_0751_00277",
+      "de_DE": "MAGIEMANTEL"
+    },
+    {
+      "id": "msg_0751_00278",
+      "de_DE": "AUFBEREITUNG"
+    },
+    {
+      "id": "msg_0751_00279",
+      "de_DE": "VERGELTUNG"
+    },
+    {
+      "id": "msg_0751_00280",
+      "de_DE": "DURCHBRUCH"
+    },
+    {
+      "id": "msg_0751_00281",
+      "de_DE": "GÄHNER"
+    },
+    {
+      "id": "msg_0751_00282",
+      "de_DE": "ABSCHLAG"
+    },
+    {
+      "id": "msg_0751_00283",
+      "de_DE": "NOTSITUATION"
+    },
+    {
+      "id": "msg_0751_00284",
+      "de_DE": "ERUPTION"
+    },
+    {
+      "id": "msg_0751_00285",
+      "de_DE": "WERTEWECHSEL"
+    },
+    {
+      "id": "msg_0751_00286",
+      "de_DE": "BEGRENZER"
+    },
+    {
+      "id": "msg_0751_00287",
+      "de_DE": "HEILUNG"
+    },
+    {
+      "id": "msg_0751_00288",
+      "de_DE": "NACHSPIEL"
+    },
+    {
+      "id": "msg_0751_00289",
+      "de_DE": "ÜBERNAHME"
+    },
+    {
+      "id": "msg_0751_00290",
+      "de_DE": "GEHEIMPOWER"
+    },
+    {
+      "id": "msg_0751_00291",
+      "de_DE": "TAUCHER"
+    },
+    {
+      "id": "msg_0751_00292",
+      "de_DE": "ARMSTOSS"
+    },
+    {
+      "id": "msg_0751_00293",
+      "de_DE": "TARNUNG"
+    },
+    {
+      "id": "msg_0751_00294",
+      "de_DE": "SCHWEIFGLANZ"
+    },
+    {
+      "id": "msg_0751_00295",
+      "de_DE": "SCHEINWERFER"
+    },
+    {
+      "id": "msg_0751_00296",
+      "de_DE": "NEBELBALL"
+    },
+    {
+      "id": "msg_0751_00297",
+      "de_DE": "DAUNENREIGEN"
+    },
+    {
+      "id": "msg_0751_00298",
+      "de_DE": "TAUMELTANZ"
+    },
+    {
+      "id": "msg_0751_00299",
+      "de_DE": "FEUERFEGER"
+    },
+    {
+      "id": "msg_0751_00300",
+      "de_DE": "LEHMSUHLER"
+    },
+    {
+      "id": "msg_0751_00301",
+      "de_DE": "FROSTBEULE"
+    },
+    {
+      "id": "msg_0751_00302",
+      "de_DE": "NIETENRANKE"
+    },
+    {
+      "id": "msg_0751_00303",
+      "de_DE": "TAGEDIEB"
+    },
+    {
+      "id": "msg_0751_00304",
+      "de_DE": "SCHALLWELLE"
+    },
+    {
+      "id": "msg_0751_00305",
+      "de_DE": "GIFTZAHN"
+    },
+    {
+      "id": "msg_0751_00306",
+      "de_DE": "ZERMALMKLAUE"
+    },
+    {
+      "id": "msg_0751_00307",
+      "de_DE": "LOHEKANONADE"
+    },
+    {
+      "id": "msg_0751_00308",
+      "de_DE": "AQUAHAUBITZE"
+    },
+    {
+      "id": "msg_0751_00309",
+      "de_DE": "STERNENHIEB"
+    },
+    {
+      "id": "msg_0751_00310",
+      "de_DE": "ERSTAUNER"
+    },
+    {
+      "id": "msg_0751_00311",
+      "de_DE": "METEOROLOGE"
+    },
+    {
+      "id": "msg_0751_00312",
+      "de_DE": "AROMAKUR"
+    },
+    {
+      "id": "msg_0751_00313",
+      "de_DE": "TRUGTRÄNE"
+    },
+    {
+      "id": "msg_0751_00314",
+      "de_DE": "WINDSCHNITT"
+    },
+    {
+      "id": "msg_0751_00315",
+      "de_DE": "HITZEKOLLER"
+    },
+    {
+      "id": "msg_0751_00316",
+      "de_DE": "SCHNÜFFLER"
+    },
+    {
+      "id": "msg_0751_00317",
+      "de_DE": "FELSGRAB"
+    },
+    {
+      "id": "msg_0751_00318",
+      "de_DE": "SILBERHAUCH"
+    },
+    {
+      "id": "msg_0751_00319",
+      "de_DE": "METALLSOUND"
+    },
+    {
+      "id": "msg_0751_00320",
+      "de_DE": "GRASFLÖTE"
+    },
+    {
+      "id": "msg_0751_00321",
+      "de_DE": "SPASSKANONE"
+    },
+    {
+      "id": "msg_0751_00322",
+      "de_DE": "KOSMIK-KRAFT"
+    },
+    {
+      "id": "msg_0751_00323",
+      "de_DE": "FONTRÄNEN"
+    },
+    {
+      "id": "msg_0751_00324",
+      "de_DE": "AMPELLEUCHTE"
+    },
+    {
+      "id": "msg_0751_00325",
+      "de_DE": "FINSTERFAUST"
+    },
+    {
+      "id": "msg_0751_00326",
+      "de_DE": "SONDERSENSOR"
+    },
+    {
+      "id": "msg_0751_00327",
+      "de_DE": "HIMMELHIEB"
+    },
+    {
+      "id": "msg_0751_00328",
+      "de_DE": "SANDGRAB"
+    },
+    {
+      "id": "msg_0751_00329",
+      "de_DE": "EISESKÄLTE"
+    },
+    {
+      "id": "msg_0751_00330",
+      "de_DE": "LEHMBRÜHE"
+    },
+    {
+      "id": "msg_0751_00331",
+      "de_DE": "KUGELSAAT"
+    },
+    {
+      "id": "msg_0751_00332",
+      "de_DE": "AERO-ASS"
+    },
+    {
+      "id": "msg_0751_00333",
+      "de_DE": "EISSPEER"
+    },
+    {
+      "id": "msg_0751_00334",
+      "de_DE": "EISENABWEHR"
+    },
+    {
+      "id": "msg_0751_00335",
+      "de_DE": "RÜCKENTZUG"
+    },
+    {
+      "id": "msg_0751_00336",
+      "de_DE": "JAULER"
+    },
+    {
+      "id": "msg_0751_00337",
+      "de_DE": "DRACHENKLAUE"
+    },
+    {
+      "id": "msg_0751_00338",
+      "de_DE": "FAUNA-STATUE"
+    },
+    {
+      "id": "msg_0751_00339",
+      "de_DE": "PROTZER"
+    },
+    {
+      "id": "msg_0751_00340",
+      "de_DE": "SPRUNGFEDER"
+    },
+    {
+      "id": "msg_0751_00341",
+      "de_DE": "LEHMSCHUSS"
+    },
+    {
+      "id": "msg_0751_00342",
+      "de_DE": "GIFTSCHWEIF"
+    },
+    {
+      "id": "msg_0751_00343",
+      "de_DE": "BEZIRZER"
+    },
+    {
+      "id": "msg_0751_00344",
+      "de_DE": "VOLTTACKLE"
+    },
+    {
+      "id": "msg_0751_00345",
+      "de_DE": "ZAUBERBLATT"
+    },
+    {
+      "id": "msg_0751_00346",
+      "de_DE": "NASSMACHER"
+    },
+    {
+      "id": "msg_0751_00347",
+      "de_DE": "GEDANKENGUT"
+    },
+    {
+      "id": "msg_0751_00348",
+      "de_DE": "LAUBKLINGE"
+    },
+    {
+      "id": "msg_0751_00349",
+      "de_DE": "DRACHENTANZ"
+    },
+    {
+      "id": "msg_0751_00350",
+      "de_DE": "FELSWURF"
+    },
+    {
+      "id": "msg_0751_00351",
+      "de_DE": "SCHOCKWELLE"
+    },
+    {
+      "id": "msg_0751_00352",
+      "de_DE": "AQUAWELLE"
+    },
+    {
+      "id": "msg_0751_00353",
+      "de_DE": "KISMETWUNSCH"
+    },
+    {
+      "id": "msg_0751_00354",
+      "de_DE": "PSYSCHUB"
+    },
+    {
+      "id": "msg_0751_00355",
+      "de_DE": "RUHEORT"
+    },
+    {
+      "id": "msg_0751_00356",
+      "de_DE": "ERDANZIEHUNG"
+    },
+    {
+      "id": "msg_0751_00357",
+      "de_DE": "WUNDERAUGE"
+    },
+    {
+      "id": "msg_0751_00358",
+      "de_DE": "WECKRUF"
+    },
+    {
+      "id": "msg_0751_00359",
+      "de_DE": "HAMMERARM"
+    },
+    {
+      "id": "msg_0751_00360",
+      "de_DE": "GYROBALL"
+    },
+    {
+      "id": "msg_0751_00361",
+      "de_DE": "HEILOPFER"
+    },
+    {
+      "id": "msg_0751_00362",
+      "de_DE": "LAKE"
+    },
+    {
+      "id": "msg_0751_00363",
+      "de_DE": "BEERENKRÄFTE"
+    },
+    {
+      "id": "msg_0751_00364",
+      "de_DE": "OFFENLEGUNG"
+    },
+    {
+      "id": "msg_0751_00365",
+      "de_DE": "PFLÜCKER"
+    },
+    {
+      "id": "msg_0751_00366",
+      "de_DE": "RÜCKENWIND"
+    },
+    {
+      "id": "msg_0751_00367",
+      "de_DE": "AKUPRESSUR"
+    },
+    {
+      "id": "msg_0751_00368",
+      "de_DE": "METALLSTOSS"
+    },
+    {
+      "id": "msg_0751_00369",
+      "de_DE": "KEHRTWENDE"
+    },
+    {
+      "id": "msg_0751_00370",
+      "de_DE": "NAHKAMPF"
+    },
+    {
+      "id": "msg_0751_00371",
+      "de_DE": "GEGENSTOSS"
+    },
+    {
+      "id": "msg_0751_00372",
+      "de_DE": "GEWISSHEIT"
+    },
+    {
+      "id": "msg_0751_00373",
+      "de_DE": "ITEMSPERRE"
+    },
+    {
+      "id": "msg_0751_00374",
+      "de_DE": "SCHLEUDER"
+    },
+    {
+      "id": "msg_0751_00375",
+      "de_DE": "PSYBANN"
+    },
+    {
+      "id": "msg_0751_00376",
+      "de_DE": "TRUMPFKARTE"
+    },
+    {
+      "id": "msg_0751_00377",
+      "de_DE": "HEILBLOCKADE"
+    },
+    {
+      "id": "msg_0751_00378",
+      "de_DE": "AUSWRINGEN"
+    },
+    {
+      "id": "msg_0751_00379",
+      "de_DE": "KRAFTTRICK"
+    },
+    {
+      "id": "msg_0751_00380",
+      "de_DE": "MAGENSÄFTE"
+    },
+    {
+      "id": "msg_0751_00381",
+      "de_DE": "BESCHWÖRUNG"
+    },
+    {
+      "id": "msg_0751_00382",
+      "de_DE": "EGOTRIP"
+    },
+    {
+      "id": "msg_0751_00383",
+      "de_DE": "IMITATOR"
+    },
+    {
+      "id": "msg_0751_00384",
+      "de_DE": "KRAFTTAUSCH"
+    },
+    {
+      "id": "msg_0751_00385",
+      "de_DE": "SCHUTZTAUSCH"
+    },
+    {
+      "id": "msg_0751_00386",
+      "de_DE": "STRAFATTACKE"
+    },
+    {
+      "id": "msg_0751_00387",
+      "de_DE": "ZUFLUCHT"
+    },
+    {
+      "id": "msg_0751_00388",
+      "de_DE": "SORGENSAMEN"
+    },
+    {
+      "id": "msg_0751_00389",
+      "de_DE": "TIEFSCHLAG"
+    },
+    {
+      "id": "msg_0751_00390",
+      "de_DE": "GIFTSPITZEN"
+    },
+    {
+      "id": "msg_0751_00391",
+      "de_DE": "STATUSTAUSCH"
+    },
+    {
+      "id": "msg_0751_00392",
+      "de_DE": "WASSERRING"
+    },
+    {
+      "id": "msg_0751_00393",
+      "de_DE": "MAGNETFLUG"
+    },
+    {
+      "id": "msg_0751_00394",
+      "de_DE": "FLAMMENBLITZ"
+    },
+    {
+      "id": "msg_0751_00395",
+      "de_DE": "KRAFTWELLE"
+    },
+    {
+      "id": "msg_0751_00396",
+      "de_DE": "AURASPHÄRE"
+    },
+    {
+      "id": "msg_0751_00397",
+      "de_DE": "STEINPOLITUR"
+    },
+    {
+      "id": "msg_0751_00398",
+      "de_DE": "GIFTHIEB"
+    },
+    {
+      "id": "msg_0751_00399",
+      "de_DE": "FINSTERAURA"
+    },
+    {
+      "id": "msg_0751_00400",
+      "de_DE": "NACHTHIEB"
+    },
+    {
+      "id": "msg_0751_00401",
+      "de_DE": "NASSSCHWEIF"
+    },
+    {
+      "id": "msg_0751_00402",
+      "de_DE": "SAMENBOMBEN"
+    },
+    {
+      "id": "msg_0751_00403",
+      "de_DE": "LUFTSCHNITT"
+    },
+    {
+      "id": "msg_0751_00404",
+      "de_DE": "KREUZSCHERE"
+    },
+    {
+      "id": "msg_0751_00405",
+      "de_DE": "KÄFERGEBRUMM"
+    },
+    {
+      "id": "msg_0751_00406",
+      "de_DE": "DRACHENPULS"
+    },
+    {
+      "id": "msg_0751_00407",
+      "de_DE": "DRACHENSTOSS"
+    },
+    {
+      "id": "msg_0751_00408",
+      "de_DE": "JUWELENKRAFT"
+    },
+    {
+      "id": "msg_0751_00409",
+      "de_DE": "ABLEITHIEB"
+    },
+    {
+      "id": "msg_0751_00410",
+      "de_DE": "VAKUUMWELLE"
+    },
+    {
+      "id": "msg_0751_00411",
+      "de_DE": "FOKUSSTOSS"
+    },
+    {
+      "id": "msg_0751_00412",
+      "de_DE": "ENERGIEBALL"
+    },
+    {
+      "id": "msg_0751_00413",
+      "de_DE": "STURZFLUG"
+    },
+    {
+      "id": "msg_0751_00414",
+      "de_DE": "ERDKRÄFTE"
+    },
+    {
+      "id": "msg_0751_00415",
+      "de_DE": "WECHSELDICH"
+    },
+    {
+      "id": "msg_0751_00416",
+      "de_DE": "GIGASTOSS"
+    },
+    {
+      "id": "msg_0751_00417",
+      "de_DE": "RÄNKESCHMIED"
+    },
+    {
+      "id": "msg_0751_00418",
+      "de_DE": "PATRONENHIEB"
+    },
+    {
+      "id": "msg_0751_00419",
+      "de_DE": "LAWINE"
+    },
+    {
+      "id": "msg_0751_00420",
+      "de_DE": "EISSPLITTER"
+    },
+    {
+      "id": "msg_0751_00421",
+      "de_DE": "DUNKELKLAUE"
+    },
+    {
+      "id": "msg_0751_00422",
+      "de_DE": "DONNERZAHN"
+    },
+    {
+      "id": "msg_0751_00423",
+      "de_DE": "EISZAHN"
+    },
+    {
+      "id": "msg_0751_00424",
+      "de_DE": "FEUERZAHN"
+    },
+    {
+      "id": "msg_0751_00425",
+      "de_DE": "SCHATTENSTOSS"
+    },
+    {
+      "id": "msg_0751_00426",
+      "de_DE": "SCHLAMMBOMBE"
+    },
+    {
+      "id": "msg_0751_00427",
+      "de_DE": "PSYCHOKLINGE"
+    },
+    {
+      "id": "msg_0751_00428",
+      "de_DE": "ZEN-KOPFSTOSS"
+    },
+    {
+      "id": "msg_0751_00429",
+      "de_DE": "SPIEGELSALVE"
+    },
+    {
+      "id": "msg_0751_00430",
+      "de_DE": "LICHTKANONE"
+    },
+    {
+      "id": "msg_0751_00431",
+      "de_DE": "KRAXLER"
+    },
+    {
+      "id": "msg_0751_00432",
+      "de_DE": "AUFLOCKERN"
+    },
+    {
+      "id": "msg_0751_00433",
+      "de_DE": "BIZARRORAUM"
+    },
+    {
+      "id": "msg_0751_00434",
+      "de_DE": "DRACO METEOR"
+    },
+    {
+      "id": "msg_0751_00435",
+      "de_DE": "LADUNGSSTOSS"
+    },
+    {
+      "id": "msg_0751_00436",
+      "de_DE": "FLAMMENSTURM"
+    },
+    {
+      "id": "msg_0751_00437",
+      "de_DE": "BLÄTTERSTURM"
+    },
+    {
+      "id": "msg_0751_00438",
+      "de_DE": "BLATTGEISSEL"
+    },
+    {
+      "id": "msg_0751_00439",
+      "de_DE": "FELSWERFER"
+    },
+    {
+      "id": "msg_0751_00440",
+      "de_DE": "GIFTSTREICH"
+    },
+    {
+      "id": "msg_0751_00441",
+      "de_DE": "MÜLLTREFFER"
+    },
+    {
+      "id": "msg_0751_00442",
+      "de_DE": "EISENSCHÄDEL"
+    },
+    {
+      "id": "msg_0751_00443",
+      "de_DE": "MAGNETBOMBE"
+    },
+    {
+      "id": "msg_0751_00444",
+      "de_DE": "STEINKANTE"
+    },
+    {
+      "id": "msg_0751_00445",
+      "de_DE": "LIEBREIZ"
+    },
+    {
+      "id": "msg_0751_00446",
+      "de_DE": "TARNSTEINE"
+    },
+    {
+      "id": "msg_0751_00447",
+      "de_DE": "STRAUCHLER"
+    },
+    {
+      "id": "msg_0751_00448",
+      "de_DE": "GESCHWÄTZ"
+    },
+    {
+      "id": "msg_0751_00449",
+      "de_DE": "URTEILSKRAFT"
+    },
+    {
+      "id": "msg_0751_00450",
+      "de_DE": "KÄFERBISS"
+    },
+    {
+      "id": "msg_0751_00451",
+      "de_DE": "LADESTRAHL"
+    },
+    {
+      "id": "msg_0751_00452",
+      "de_DE": "HOLZHAMMER"
+    },
+    {
+      "id": "msg_0751_00453",
+      "de_DE": "WASSERDÜSE"
+    },
+    {
+      "id": "msg_0751_00454",
+      "de_DE": "SCHLAGBEFEHL"
+    },
+    {
+      "id": "msg_0751_00455",
+      "de_DE": "BLOCKBEFEHL"
+    },
+    {
+      "id": "msg_0751_00456",
+      "de_DE": "HEILBEFEHL"
+    },
+    {
+      "id": "msg_0751_00457",
+      "de_DE": "KOPFSTOSS"
+    },
+    {
+      "id": "msg_0751_00458",
+      "de_DE": "DOPPELSCHLAG"
+    },
+    {
+      "id": "msg_0751_00459",
+      "de_DE": "ZEITENLÄRM"
+    },
+    {
+      "id": "msg_0751_00460",
+      "de_DE": "RAUMSCHLAG"
+    },
+    {
+      "id": "msg_0751_00461",
+      "de_DE": "LUNARTANZ"
+    },
+    {
+      "id": "msg_0751_00462",
+      "de_DE": "QUETSCHGRIFF"
+    },
+    {
+      "id": "msg_0751_00463",
+      "de_DE": "LAVASTURM"
+    },
+    {
+      "id": "msg_0751_00464",
+      "de_DE": "SCHLUMMERORT"
+    },
+    {
+      "id": "msg_0751_00465",
+      "de_DE": "SCHOCKSAMEN"
+    },
+    {
+      "id": "msg_0751_00466",
+      "de_DE": "UNHEILBÖEN"
+    },
+    {
+      "id": "msg_0751_00467",
+      "de_DE": "SCHEMENKRAFT"
+    }
+  ]
+}

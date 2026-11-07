@@ -1,0 +1,231 @@
+{
+  "key": 14821,
+  "messages": [
+    {
+      "id": "msg_0606_00000",
+      "de_DE": [
+        "Jasmin: ...Danke für deine Hilfe\n",
+        "im Leuchtturm...\r",
+        "Aber wenn du gegen mich kämpfen willst,\n",
+        "mache ich es dir deshalb nicht leichter!\r",
+        "Ich möchte mich noch einmal vorstellen.\n",
+        "Ich bin Jasmin, die Arenaleiterin.\r",
+        "Die Pokémon, die ich einsetze, gehören\n",
+        "alle dem Typ Stahl an! Katsching!!!\r",
+        "Hast du von diesem Typ schon gehört?\r",
+        "Diese Pokémon sind eisenhart, bleiben\n",
+        "immer kühl und berechnend und haben\f",
+        "einen messerscharfen Verstand!\r",
+        "S-sie sind echt stark, in Ordnung?\n",
+        "D-das ist mein voller Ernst!\r"
+      ]
+    },
+    {
+      "id": "msg_0606_00001",
+      "de_DE": [
+        "Jasmin: Du scheinst der bessere Trainer\n",
+        "von uns beiden zu sein.\r",
+        "Das gilt sowohl für dein Geschick als\n",
+        "auch für dein Feingefühl.\r",
+        "In Übereinstimmung mit den Regeln der\n",
+        "Liga überreiche ich dir diesen Orden!\r"
+      ]
+    },
+    {
+      "id": "msg_0606_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Stahlorden!"
+      ]
+    },
+    {
+      "id": "msg_0606_00003",
+      "de_DE": [
+        "Jasmin: Wenn du den Stahlorden besitzt,\n",
+        "gehorchen dir Pokémon bis zu einem\f",
+        "Level von 70, selbst wenn du sie von\f",
+        "einem anderen Trainer erhalten hast.\r",
+        "...Und jetzt nimm bitte noch das hier.\r"
+      ]
+    },
+    {
+      "id": "msg_0606_00004",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0606_00005",
+      "de_DE": [
+        "Jasmin: Diese TM enthält eine Attacke\n",
+        "namens Eisenschweif...\r",
+        "Der harte Schwung mit dem Eisenschweif\n",
+        "kann gelegentlich auch die Verteidigung\f",
+        "deines Gegners senken..."
+      ]
+    },
+    {
+      "id": "msg_0606_00006",
+      "de_DE": [
+        "Jasmin: Ähm... ich weiß nicht, wie\n",
+        "ich das am besten sagen soll, aber...\r",
+        "Viel Glück!"
+      ]
+    },
+    {
+      "id": "msg_0606_00007",
+      "de_DE": [
+        "Jasmin: Lange nicht gesehen, was?\r",
+        "Dir... geht es doch gut, oder?\n",
+        "Ähm...\r",
+        "Ich weiß nicht, wie ich das sagen\n",
+        "soll, aber...\f",
+        "Ach, ist nicht so wichtig!"
+      ]
+    },
+    {
+      "id": "msg_0606_00008",
+      "de_DE": [
+        "Jasmin: Ähm... darf ich dich was fragen?\n",
+        "Hättest du vielleicht Lust, mit mir\f",
+        "Pokémon zu tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0606_00009",
+      "de_DE": [
+        "Jasmin: Oh, wirklich?\n",
+        "Vielen Dank! Das freut mich sehr!\r",
+        "Ich bin mit jedem Pokémon, das du\n",
+        "mir anbietest, zufrieden!\r"
+      ]
+    },
+    {
+      "id": "msg_0606_00010",
+      "de_DE": [
+        "Jasmin: Oh, in Ordnung... das ist zwar\n",
+        "schade, aber ich verstehe es natürlich."
+      ]
+    },
+    {
+      "id": "msg_0606_00011",
+      "de_DE": [
+        "Jasmin: Vielen Dank! Ich werde mich\n",
+        "auch besonders gut darum kümmern!"
+      ]
+    },
+    {
+      "id": "msg_0606_00012",
+      "de_DE": [
+        "Jasmin: Immer wenn ich ein Pokémon vom\n",
+        "Typ Stahl sehe, bekomme ich den Drang,\f",
+        "es mit einem Tuch glänzend zu polieren.\f",
+        "Geht’s dir da genauso wie mir?"
+      ]
+    },
+    {
+      "id": "msg_0606_00013",
+      "de_DE": [
+        "Willst du {STRVAR_1 1, 1, 0} wirklich zum\n",
+        "Tausch anbieten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0606_00014",
+      "de_DE": [
+        "Jasmin: Ein Ei wäre natürlich auch nicht\n",
+        "schlecht, aber wenn ich ehrlich bin,\f",
+        "hätte ich lieber eins der Pokémon, die\f",
+        "du trainiert hast, {STRVAR_1 3, 0, 0}..."
+      ]
+    },
+    {
+      "id": "msg_0606_00015",
+      "de_DE": [
+        "Jasmin: So ein wichtiges Mitglied deines\n",
+        "Teams könnte ich nie annehmen!\f",
+        "Aber die Geste rührt mich!"
+      ]
+    },
+    {
+      "id": "msg_0606_00016",
+      "de_DE": [
+        "Wo Jasmin, die Arenaleiterin, ist?\r",
+        "Dem Pokémon im Leuchtturm scheint\n",
+        "es nicht sehr gut zu gehen, und sie\f",
+        "sieht dort gerade nach dem Rechten.\r",
+        "Ein wirklich starker Trainer muss neben\n",
+        "Stärke auch Mitgefühl beweisen können."
+      ]
+    },
+    {
+      "id": "msg_0606_00017",
+      "de_DE": [
+        "Jasmin setzt ausschließlich Pokémon\n",
+        "vom Typ Stahl ein!\r",
+        "Sie nutzt den kalten Charakter dieser\n",
+        "Pokémon, um ihr gutmütiges Wesen vor\f",
+        "ihren Herausforderern zu verbergen."
+      ]
+    },
+    {
+      "id": "msg_0606_00018",
+      "de_DE": [
+        "Mann, Pokémon vom Typ Stahl sind\n",
+        "einfach unglaublich...\f",
+        "Bei deinem Kampf gegen Jasmin sind\f",
+        "richtig die Funken geflogen!"
+      ]
+    },
+    {
+      "id": "msg_0606_00019",
+      "de_DE": [
+        "So so, du bist also wirklich gekommen.\r",
+        "Du magst der Arenaleiterin vielleicht\n",
+        "geholfen haben, aber in der Arena gilt\f",
+        "immer noch das Gesetz des Stärkeren!\r",
+        "Kämpfe entweder richtig oder gar nicht!"
+      ]
+    },
+    {
+      "id": "msg_0606_00020",
+      "de_DE": [
+        "Das war ausgezeichnet! So solltest du\n",
+        "auf deiner Reise keine Probleme haben!\r",
+        "Und wo du nun schon mal im Besitz von\n",
+        "Surfer bist, solltest du auch mal am See\f",
+        "des Zorns vorbeischauen!"
+      ]
+    },
+    {
+      "id": "msg_0606_00021",
+      "de_DE": [
+        "Hehe! Du hast mir im Leuchtturm bereits\n",
+        "bewiesen, wie stark du wirklich bist.\r",
+        "Aber du wirst all deine Kraft brauchen,\n",
+        "um im Kampf gegen Jasmin zu bestehen!\r",
+        "...Ich hoffe, du gewinnst!"
+      ]
+    },
+    {
+      "id": "msg_0606_00022",
+      "de_DE": [
+        "Das war unbeschreiblich...\r",
+        "So stark wie du bist, solltest du\n",
+        "unbedingt weiterkämpfen!\r",
+        "Warst du schon in Mahagonia City?"
+      ]
+    },
+    {
+      "id": "msg_0606_00023",
+      "de_DE": "Pokémon-Arena von Oliviana City"
+    },
+    {
+      "id": "msg_0606_00024",
+      "de_DE": [
+        "Pokémon-Arena von Oliviana City\r",
+        "Leiterin: Jasmin\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "key": 11095,
+  "messages": [
+    {
+      "id": "msg_0246_00000",
+      "de_DE": [
+        "Ding-dong! Die Zeit ist abgelaufen!\n",
+        "Das Käferturnier ist vorbei.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00001",
+      "de_DE": [
+        "Ding-dong! Du hast keine Turnierbälle\n",
+        "mehr! Das Käferturnier ist vorbei.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00002",
+      "garbage": 34
+    },
+    {
+      "id": "msg_0246_00003",
+      "de_DE": [
+        "Dir bleiben noch {STRVAR_1 51, 0, 0} Minuten.\n",
+        "Möchtest du trotzdem aufhören? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0246_00004",
+      "de_DE": [
+        "Heute ist Dienstag. Das heißt,\n",
+        "heute findet das Käferturnier statt!\r",
+        "Die Regeln sind einfach!\r",
+        "Fange ein Käfer-Pokémon mit einem\n",
+        "deiner eigenen Pokémon.\r",
+        "Das Käfer-Pokémon wird dann\n",
+        "von der Jury bewertet.\r",
+        "Möchtest du es versuchen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0246_00005",
+      "de_DE": [
+        "Heute ist Donnerstag. Das heißt,\n",
+        "heute findet das Käferturnier statt!\r",
+        "Die Regeln sind einfach!\r",
+        "Fange ein Käfer-Pokémon mit einem\n",
+        "deiner eigenen Pokémon.\r",
+        "Das Käfer-Pokémon wird dann\n",
+        "von der Jury bewertet.\r",
+        "Möchtest du es versuchen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0246_00006",
+      "de_DE": [
+        "Heute ist Samstag. Das heißt,\n",
+        "heute findet das Käferturnier statt!\r",
+        "Die Regeln sind einfach!\r",
+        "Fange ein Käfer-Pokémon mit einem\n",
+        "deiner eigenen Pokémon.\r",
+        "Das Käfer-Pokémon wird dann\n",
+        "von der Jury bewertet.\r",
+        "Möchtest du es versuchen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0246_00007",
+      "de_DE": [
+        "Das Käferturnier findet jeden Dienstag,\n",
+        "Donnerstag und Samstag statt.\r",
+        "Jeder Teilnehmer erhält einen Preis,\n",
+        "doch das ist noch nicht alles!\f",
+        "Das Käfer-Pokémon, das du fängst,\f",
+        "kannst du ebenso behalten!"
+      ]
+    },
+    {
+      "id": "msg_0246_00008",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0246_00009",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0246_00010",
+      "de_DE": [
+        "Oh, oh...\n",
+        "Du hast mehr als ein Pokémon dabei.\r",
+        "In dem Fall nimmt dein erstes Team-\n",
+        "Pokémon, {STRVAR_1 1, 0, 0}, am Turnier\f",
+        "teil. Bist du damit einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0246_00011",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0246_00012",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0246_00013",
+      "de_DE": [
+        "Die Pokémon von {STRVAR_1 3, 0, 0} wurden\n",
+        "dem Turnierhelfer übergeben.\r",
+        "Gut. Wir passen währenddessen auf\n",
+        "deine anderen Pokémon auf.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00014",
+      "de_DE": [
+        "Hier sind die Bälle für das Turnier.\r",
+        "{STRVAR_1 3, 0, 0} erhält 20 Turnierbälle.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00015",
+      "de_DE": [
+        "Wer das stärkste Käfer-Pokémon fängt,\n",
+        "gewinnt!\r",
+        "Du hast 20 Minuten Zeit!\r",
+        "Wenn du keine Turnierbälle mehr hast,\n",
+        "ist das Turnier beendet.\r",
+        "Das letzte Pokémon, das du fängst,\n",
+        "darfst du behalten.\r",
+        "Dann mal los! Fang das stärkste Käfer-\n",
+        "Pokémon, das du finden kannst!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00016",
+      "de_DE": [
+        "Das ist jammerschade!\r",
+        "Wie es aussieht, kannst du gar keine\n",
+        "weiteren Pokémon mehr fangen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00017",
+      "de_DE": [
+        "Na gut. Wir hoffen, dass du\n",
+        "später einmal am Turnier teilnimmst."
+      ]
+    },
+    {
+      "id": "msg_0246_00018",
+      "de_DE": [
+        "Das heutige Turnier ist beendet.\n",
+        "Wir freuen uns, wenn du wiederkommst!"
+      ]
+    },
+    {
+      "id": "msg_0246_00019",
+      "de_DE": [
+        "Manche Pokémon kann man nur hier\n",
+        "im Park antreffen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00020",
+      "de_DE": [
+        "Bist du {STRVAR_1 3, 0, 0}?\r",
+        "Hier ist der Preis, den wir für dich\n",
+        "aufbewahrt haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00021",
+      "de_DE": [
+        "Oh, oh...\n",
+        "Sieht so aus, als wäre dein Beutel voll.\r",
+        "Dann bewahren wir deinen Preis noch\n",
+        "etwas länger auf. Schaffe bitte\f",
+        "Platz und komme dann wieder."
+      ]
+    },
+    {
+      "id": "msg_0246_00022",
+      "de_DE": [
+        "Wir würden uns freuen, wenn du auch\n",
+        "nächstes Mal wieder teilnimmst!"
+      ]
+    },
+    {
+      "id": "msg_0246_00023",
+      "de_DE": [
+        "Du hast noch {STRVAR_1 51, 0, 0} Minute(n).\r",
+        "Möchtest du jetzt aufhören? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0246_00024",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0246_00025",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0246_00026",
+      "de_DE": [
+        "Gut. Dann gehe bitte wieder zurück nach\n",
+        "draußen und komme zum Ende.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00027",
+      "de_DE": [
+        "Gut. Dann warte bitte hier auf die\n",
+        "Bekanntgabe der Sieger.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00028",
+      "de_DE": [
+        "Komm zurück, wenn du die Reihenfolge\n",
+        "in deinem Pokémon-Team geändert hast."
+      ]
+    },
+    {
+      "id": "msg_0246_00029",
+      "de_DE": [
+        "Wir bewerten jetzt die gefangenen\n",
+        "Pokémon!\r",
+        "......\n",
+        "......\r",
+        "Die Gewinner\n",
+        "stehen fest!\r",
+        "Bist du bereit?\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00030",
+      "de_DE": [
+        "Auf dem 3. Platz: {STRVAR_1 3, 0, 0} mit\n",
+        "einem {STRVAR_1 0, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00031",
+      "de_DE": [
+        "Auf dem 3. Platz: {STRVAR_1 14, 2, 0}\n",
+        "{STRVAR_1 3, 0, 0} mit einem {STRVAR_1 0, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00032",
+      "de_DE": "Mit einem Punktestand von {STRVAR_1 52, 3, 0}!\r"
+    },
+    {
+      "id": "msg_0246_00033",
+      "de_DE": [
+        "Auf dem 2. Platz: {STRVAR_1 3, 0, 0} mit\n",
+        "einem {STRVAR_1 0, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00034",
+      "de_DE": [
+        "Auf dem 2. Platz: {STRVAR_1 14, 2, 0}\n",
+        "{STRVAR_1 3, 0, 0} mit einem {STRVAR_1 0, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00035",
+      "de_DE": [
+        "Und! Der 1. Platz beim\n",
+        "Käferturnier geht aaan...\r",
+        "{STRVAR_1 3, 0, 0} mit einem {STRVAR_1 0, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00036",
+      "de_DE": [
+        "Und! Der 1. Platz beim\n",
+        "Käferturnier geht aaan...\r",
+        "{STRVAR_1 14, 2, 0} {STRVAR_1 3, 0, 0} mit\n",
+        "einem {STRVAR_1 0, 1, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00037",
+      "de_DE": [
+        "Unser Champ des Tages, {STRVAR_1 3, 0, 0},\n",
+        "erhält {STRVAR_1 8, 3, 0} als Preis.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00038",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gewinnt den 2. Preis:\n",
+        "{STRVAR_1 8, 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00039",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gewinnt den 3. Preis:\n",
+        "{STRVAR_1 8, 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00040",
+      "de_DE": [
+        "Alle anderen erhalten dieses Item\n",
+        "als Trostpreis: {STRVAR_1 8, 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00041",
+      "de_DE": [
+        "Oh, oh...\r",
+        "Sieht so aus, als wäre dein Beutel voll.\r",
+        "Dann bewahren wir deinen Preis noch\n",
+        "etwas länger auf. Schaffe bitte\f",
+        "Platz und komme dann wieder.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00042",
+      "de_DE": [
+        "Wir würden uns freuen, euch beim\n",
+        "nächsten Turnier wiederzusehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00043",
+      "de_DE": [
+        "Möchtest du {STRVAR_1 0, 1, 0}\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0246_00044",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}? Hier ist der Preis, den\n",
+        "wir für dich aufbewahrt haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00045",
+      "de_DE": [
+        "Oh, oh...\r",
+        "Sieht so aus, als wäre dein Beutel voll.\r",
+        "Dann bewahren wir deinen Preis noch\n",
+        "etwas länger auf. Schaffe bitte\f",
+        "Platz und komme dann wieder.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00046",
+      "de_DE": [
+        "Dein Team ist voll.\n",
+        "{STRVAR_1 1, 5, 0} wurde in eine\f",
+        "Box im PC übertragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00047",
+      "de_DE": [
+        "Hier hast du deine Pokémon\n",
+        "zurück. Bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0246_00048",
+      "de_DE": [
+        "Uli: Ich werde gewinnen!\n",
+        "Also bleib mir aus den Füßen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00049",
+      "de_DE": [
+        "Uli: Glück spielt natürlich eine große\n",
+        "Rolle dabei. Man weiß nie,\f",
+        "welches Pokémon auftauchen wird."
+      ]
+    },
+    {
+      "id": "msg_0246_00050",
+      "de_DE": [
+        "Uli: Du? Gewonnen?!\r",
+        "Mann, jetzt bin ich aber neidisch!\n",
+        "Das ist sicher ein tolles Gefühl!"
+      ]
+    },
+    {
+      "id": "msg_0246_00051",
+      "de_DE": [
+        "Alan: Mein PARASEK versetzt Pokémon\n",
+        "mittels Pilzsporen in den Schlaf!"
+      ]
+    },
+    {
+      "id": "msg_0246_00052",
+      "de_DE": [
+        "Alan: Wenn du gewinnen willst,\n",
+        "kannst du geschwächte\f",
+        "oder kranke Pokémon vergessen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00053",
+      "de_DE": [
+        "Alan: Ich beneide dich. Meine Kondition\n",
+        "war heute einfach nicht die beste."
+      ]
+    },
+    {
+      "id": "msg_0246_00054",
+      "de_DE": [
+        "Anita: Für dieses Turnier habe ich\n",
+        "eigens Pokémon trainiert, die resistent\f",
+        "gegen Statusveränderungen sind."
+      ]
+    },
+    {
+      "id": "msg_0246_00055",
+      "de_DE": [
+        "Anita: Ich habe gehört, dass besonders\n",
+        "hübsch gefärbte Pokémon eine größere\f",
+        "Chance auf den Sieg haben. Stimmt das?"
+      ]
+    },
+    {
+      "id": "msg_0246_00056",
+      "de_DE": [
+        "Anita: Das war unglaublich!\n",
+        "Du hast allen die Show gestohlen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00057",
+      "de_DE": [
+        "Wilhelm: Gewinnen? Das ist mir schnurz.\n",
+        "Mir geht es einzig und allein darum,\f",
+        "seltene Pokémon zu fangen. Sonst nix."
+      ]
+    },
+    {
+      "id": "msg_0246_00058",
+      "de_DE": [
+        "Wilhelm: Also, ich bin zufrieden.\n",
+        "Ich habe ein Pokémon gefangen,\f",
+        "das ich haben wollte."
+      ]
+    },
+    {
+      "id": "msg_0246_00059",
+      "de_DE": [
+        "Wilhelm: Du hast gewonnen?\n",
+        "Was für ein Pokémon hast du gefangen?\f",
+        "Bitte, bitte, zeig doch mal!"
+      ]
+    },
+    {
+      "id": "msg_0246_00060",
+      "de_DE": [
+        "Axel: ... ... ...\n",
+        "... ... ...Pssst!\r",
+        "Du hast das SICHLOR verschreckt.\n",
+        "Wir können später reden."
+      ]
+    },
+    {
+      "id": "msg_0246_00061",
+      "de_DE": [
+        "Axel: Hast du dafür Töne? Ich habe\n",
+        "vorhin ein SICHLOR gefangen!\f",
+        "Aber gewonnen habe ich trotzdem nicht."
+      ]
+    },
+    {
+      "id": "msg_0246_00062",
+      "de_DE": [
+        "Axel: Na ja. Heute wollte ich ja sowieso\n",
+        "nur einmal schauen, was hier so läuft.\r",
+        "Aber beim nächsten Mal mache ich Ernst!"
+      ]
+    },
+    {
+      "id": "msg_0246_00063",
+      "de_DE": [
+        "Till: Schwäche Käfer-Pokémon, ehe\n",
+        "du einen Pokéball wirfst."
+      ]
+    },
+    {
+      "id": "msg_0246_00064",
+      "de_DE": [
+        "Till: Mit einem Käfer-Pokémon, das einen\n",
+        "hohen Level hat, steigen deine Gewinn-\f",
+        "chancen. Ich glaube aber, dass auch\f",
+        "noch andere Kriterien in die Bewertung\f",
+        "eingehen."
+      ]
+    },
+    {
+      "id": "msg_0246_00065",
+      "de_DE": [
+        "Till: Das Pokémon, das du da\n",
+        "gefangen hast...\f",
+        "Das ist cool!"
+      ]
+    },
+    {
+      "id": "msg_0246_00066",
+      "de_DE": "Cindy: Ich liebe Käfer-Pokémon!"
+    },
+    {
+      "id": "msg_0246_00067",
+      "de_DE": [
+        "Cindy: Ich liebe Käfer-Pokémon!\r",
+        "Oder habe ich das schon gesagt?"
+      ]
+    },
+    {
+      "id": "msg_0246_00068",
+      "de_DE": [
+        "Cindy: Herzlichen Glückwunsch zum Sieg!\n",
+        "Übrigens...\r",
+        "Ich liebe Käfer-Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0246_00069",
+      "de_DE": [
+        "Enno: Seit meiner Kindheit sammele\n",
+        "ich Käfer-Pokémon.\r",
+        "Du kannst mich nicht besiegen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00070",
+      "de_DE": [
+        "Enno: Ich habe gehört, dass jemand\n",
+        "mit einem RAUPY gewonnen hat!"
+      ]
+    },
+    {
+      "id": "msg_0246_00071",
+      "de_DE": [
+        "Enno: Das Käferturnier ist kein\n",
+        "Vorzeigeturnier für Vogel-Pokémon!\f",
+        "Sonst hieße es ja wohl Vogelturnier!\r",
+        "Aber das müsste dir ja klar sein.\n",
+        "Immerhin hast du gewonnen."
+      ]
+    },
+    {
+      "id": "msg_0246_00072",
+      "de_DE": [
+        "Guido: Was willst du?\n",
+        "Wenn du Zeit für einen Schwatz hast,\f",
+        "dann suche lieber nach Käfer-Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0246_00073",
+      "de_DE": [
+        "Guido: Mist! Ich dachte, ich würde\n",
+        "eine höhere Bewertung erreichen..."
+      ]
+    },
+    {
+      "id": "msg_0246_00074",
+      "de_DE": [
+        "Guido: Das war ein harter Schlag...\n",
+        "Aber er wird mir als Ansporn dienen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00075",
+      "de_DE": [
+        "Michel: Ich habe die Käfer-Pokémon\n",
+        "vorwärts und rückwärts studiert.\f",
+        "Ich werde sicherlich gewinnen!"
+      ]
+    },
+    {
+      "id": "msg_0246_00076",
+      "de_DE": [
+        "Michel: Lernerei allein macht\n",
+        "wohl noch keinen Sieger."
+      ]
+    },
+    {
+      "id": "msg_0246_00077",
+      "de_DE": [
+        "Michel: Gibst du mir ein paar Tipps? Aus\n",
+        "mir soll auch einmal ein Sieger werden!"
+      ]
+    },
+    {
+      "id": "msg_0246_00078",
+      "de_DE": "{TRNAME}Uli"
+    },
+    {
+      "id": "msg_0246_00079",
+      "de_DE": "{TRNAME}Alan"
+    },
+    {
+      "id": "msg_0246_00080",
+      "de_DE": "{TRNAME}Anita"
+    },
+    {
+      "id": "msg_0246_00081",
+      "de_DE": "{TRNAME}Wilhelm"
+    },
+    {
+      "id": "msg_0246_00082",
+      "de_DE": "{TRNAME}Axel"
+    },
+    {
+      "id": "msg_0246_00083",
+      "de_DE": "{TRNAME}Till"
+    },
+    {
+      "id": "msg_0246_00084",
+      "de_DE": "{TRNAME}Cindy"
+    },
+    {
+      "id": "msg_0246_00085",
+      "de_DE": "{TRNAME}Enno"
+    },
+    {
+      "id": "msg_0246_00086",
+      "de_DE": "{TRNAME}Guido"
+    },
+    {
+      "id": "msg_0246_00087",
+      "de_DE": "{TRNAME}Michel"
+    }
+  ]
+}

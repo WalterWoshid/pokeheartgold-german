@@ -1,0 +1,44 @@
+{
+  "key": 54347,
+  "messages": [
+    {
+      "id": "msg_0264_00000",
+      "de_DE": [
+        "Verschlossene Türen kannst du nur mit\n",
+        "einem speziellen Schlüssel öffnen.\r",
+        "Wenn ich ein lustiger Bösewicht wäre,\n",
+        "würde ich es dir verraten...\r",
+        "Aber ich bin nicht lustig!"
+      ]
+    },
+    {
+      "id": "msg_0264_00001",
+      "de_DE": [
+        "Die Tür ist verschlossen.\n",
+        "Du brauchst einen speziellen Schlüssel."
+      ]
+    },
+    {
+      "id": "msg_0264_00002",
+      "de_DE": [
+        "Die Tür ist verschlossen.\n",
+        "Du brauchst einen speziellen Schlüssel.\r",
+        "Den G-Schlüssel verwenden?"
+      ]
+    },
+    {
+      "id": "msg_0264_00003",
+      "de_DE": "Die Tür ist geöffnet."
+    },
+    {
+      "id": "msg_0264_00004",
+      "de_DE": [
+        "Das Credo des Teams Galaktik:\n",
+        "Alles gehört uns!\r",
+        "Und schau über die Welt hinaus -\n",
+        "der ganze Weltraum wird\f",
+        "Team Galaktik gehören!"
+      ]
+    }
+  ]
+}

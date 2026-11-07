@@ -1,0 +1,47 @@
+{
+  "key": 1095,
+  "messages": [
+    {
+      "id": "msg_0370_00000",
+      "de_DE": [
+        "Ho, ho, ho! Wohin bist du mit deinen\n",
+        "Pokémon denn unterwegs?\r",
+        "Ist deine Verbindung zu ihnen\n",
+        "stark genug, dass du dir zutraust,\f",
+        "in der Pokémon Liga zu siegen?\r",
+        "Lass sie mich doch mal sehen...\r"
+      ]
+    },
+    {
+      "id": "msg_0370_00001",
+      "de_DE": [
+        "Oh, deine Pokémon vertrauen dir\n",
+        "wirklich! Ich freue mich immer, wenn ich\f",
+        "einem guten Trainer begegne. Hier, ein\f",
+        "kleines Abschiedsgeschenk! Nimm nur!\r"
+      ]
+    },
+    {
+      "id": "msg_0370_00002",
+      "de_DE": [
+        "TM37 enthält die Attacke Sandsturm!\r",
+        "Sie fügt beiden Kämpfern Schaden zu.\n",
+        "Aber Pokémon vom Typ Gestein, Boden\f",
+        "oder Stahl bleiben von ihr unberührt.\r",
+        "Es gibt auch noch andere Möglichkeiten,\n",
+        "den Schaden durch sie zu vermeiden...\r",
+        "Aber na ja, darüber kannst du dir ruhig\n",
+        "selbst den Kopf zerbrechen..."
+      ]
+    },
+    {
+      "id": "msg_0370_00003",
+      "de_DE": [
+        "Wenn du nicht für mehr Vertrauen unter\n",
+        "euch sorgst, kannst du nicht gewinnen!\r",
+        "Vertrauen ist, was einen Trainer mit\n",
+        "seinen Pokémon verbindet!"
+      ]
+    }
+  ]
+}

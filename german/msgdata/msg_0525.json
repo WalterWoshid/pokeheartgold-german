@@ -1,0 +1,37 @@
+{
+  "key": 46095,
+  "messages": [
+    {
+      "id": "msg_0525_00000",
+      "de_DE": [
+        "Ich bin Bruno, einer von den Top Vier!\r",
+        "Ich glaube fest an das Potenzial meines\n",
+        "Teams und trainiere tagein tagaus,\f",
+        "bis ich kurz vor dem Umfallen stehe.\r",
+        "Denkst du etwa immer noch, du könntest\n",
+        "einen Sieg gegen mich erringen?\r",
+        "Haha! Du scheinst dir deiner Sache\n",
+        "ja extrem sicher zu sein! Sehr schön!\f",
+        "Du bist ein würdiger Gegner für mich!\r",
+        "Los geht’s! Du sollst meine grenzenlose\n",
+        "Macht spüren, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0525_00001",
+      "de_DE": [
+        "Ich habe verloren und damit auch kein\n",
+        "Recht, weiter mit dir zu sprechen.\f",
+        "Gehe nun weiter in den nächsten Raum!\r"
+      ]
+    },
+    {
+      "id": "msg_0525_00002",
+      "de_DE": [
+        "Ich habe verloren und damit auch kein\n",
+        "Recht, weiter mit dir zu sprechen.\f",
+        "Gehe nun weiter in den nächsten Raum!"
+      ]
+    }
+  ]
+}

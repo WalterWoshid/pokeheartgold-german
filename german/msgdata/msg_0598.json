@@ -1,0 +1,79 @@
+{
+  "key": 60503,
+  "messages": [
+    {
+      "id": "msg_0598_00000",
+      "de_DE": [
+        "Herzlich willkommen!\r",
+        "Bitte nenne mir das Stockwerk,\n",
+        "in das du gerne möchtest. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0598_00001",
+      "de_DE": "Dann bis zum nächsten Mal!"
+    },
+    {
+      "id": "msg_0598_00002",
+      "de_DE": "Sehr wohl! Dann geht’s jetzt aufwärts!\r"
+    },
+    {
+      "id": "msg_0598_00003",
+      "de_DE": "Sehr wohl! Dann geht’s jetzt abwärts!\r"
+    },
+    {
+      "id": "msg_0598_00004",
+      "de_DE": "Du bist bereits in diesem Stock."
+    },
+    {
+      "id": "msg_0598_00005",
+      "de_DE": [
+        "Erdgeschoss, zum Info-Schalter\n",
+        "und zum Eingangsbereich."
+      ]
+    },
+    {
+      "id": "msg_0598_00006",
+      "de_DE": [
+        "Erster Stock, der Trainer-Markt!\n",
+        "Für ein reichliches Angebot an Items!"
+      ]
+    },
+    {
+      "id": "msg_0598_00007",
+      "de_DE": [
+        "Zweiter Stock, die Kampf-Kollektion!\n",
+        "Für stärkere, härtere Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0598_00008",
+      "de_DE": [
+        "Dritter Stock, die Arznei-Abteilung!\n",
+        "Alles für gesündere Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0598_00009",
+      "de_DE": [
+        "Vierter Stock, die TM-Ecke!\n",
+        "Passende TM für jeden!"
+      ]
+    },
+    {
+      "id": "msg_0598_00010",
+      "de_DE": [
+        "Der fünfte Stock, das Dachgeschoss!\n",
+        "Versuch dich mal an der Los-Ecke!"
+      ]
+    },
+    {
+      "id": "msg_0598_00011",
+      "de_DE": [
+        "Das Untergeschoss, die Lagerhallen!\n",
+        "Kunden ist der Zutritt in diesen Bereich\f",
+        "nicht erlaubt!"
+      ]
+    }
+  ]
+}

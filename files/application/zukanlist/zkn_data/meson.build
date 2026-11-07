@@ -3,7 +3,11 @@ build_dir = meson.current_build_dir()
 ############################################################
 ###                      ZUKAN_DATA                      ###
 ############################################################
-zukan_json = files('zukan_data.json')
+if game_language == 'GERMAN'
+    zukan_json = files(meson.project_source_root() / 'german/files/application/zukanlist/zkn_data/zukan_data.json')
+else
+    zukan_json = files('zukan_data.json')
+endif
 zukan_template = files('zukan_data.json.txt')
 
 zukan_narc = custom_target('zukan_data.narc',

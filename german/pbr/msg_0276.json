@@ -1,0 +1,35 @@
+{
+  "key": 9283,
+  "messages": [
+    {
+      "id": "msg_0276_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was machst du hier?\n",
+        "Du hast hier nichts zu suchen.\r",
+        "Abgesehen davon gibt es hier\n",
+        "nichts Interessantes für dich.\r",
+        "Sollte doch etwas Interessantes\n",
+        "passieren, kümmere ich mich schon drum.\r",
+        "Schließlich habe ich mein Pokémon\n",
+        "bei mir.\r",
+        "Darüber hinaus bin ich stark,\n",
+        "aber das weißt du ja bereits!"
+      ]
+    },
+    {
+      "id": "msg_0276_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Na, was habe ich gesagt?\n",
+        "Ich habe doch gesagt, ich komme\f",
+        "gut allein zurecht.\r",
+        "Falls du das noch nicht getan\n",
+        "hast, fordere den Arenaleiter\f",
+        "von Sonnewik heraus.\r",
+        "Ich habe das Gefühl, dass alles\n",
+        "irgendwie schwerer wird.\r",
+        "Es könnte noch härter werden,\n",
+        "wenn du keine Arena-Orden hättest."
+      ]
+    }
+  ]
+}

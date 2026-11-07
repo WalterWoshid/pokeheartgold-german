@@ -33,12 +33,14 @@
 #endif
 
 // Sets English as default. Add here all supported ROM languages.
-#if !defined(ENGLISH)
+#if !defined(ENGLISH) && !defined(GERMAN)
 #define ENGLISH
 #endif
 
 #ifdef ENGLISH
 #define GAME_LANGUAGE LANGUAGE_ENGLISH
+#elif defined(GERMAN)
+#define GAME_LANGUAGE LANGUAGE_GERMAN
 #else
 #error "Missing or unrecognized game language define"
 #endif

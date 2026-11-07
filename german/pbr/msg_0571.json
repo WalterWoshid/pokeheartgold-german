@@ -1,0 +1,380 @@
+{
+  "key": 1161,
+  "messages": [
+    {
+      "id": "msg_0571_00000",
+      "de_DE": "Schließen"
+    },
+    {
+      "id": "msg_0571_00001",
+      "de_DE": "Bewegungsfal. ↑"
+    },
+    {
+      "id": "msg_0571_00002",
+      "de_DE": "Bewegungsfal. →"
+    },
+    {
+      "id": "msg_0571_00003",
+      "de_DE": "Bewegungsfal. ↓"
+    },
+    {
+      "id": "msg_0571_00004",
+      "de_DE": "Bewegungsfal. ←"
+    },
+    {
+      "id": "msg_0571_00005",
+      "de_DE": "Schleuderfal. ↑"
+    },
+    {
+      "id": "msg_0571_00006",
+      "de_DE": "Schleuderfal. →"
+    },
+    {
+      "id": "msg_0571_00007",
+      "de_DE": "Schleuderfal. ↓"
+    },
+    {
+      "id": "msg_0571_00008",
+      "de_DE": "Schleuderfal. ←"
+    },
+    {
+      "id": "msg_0571_00009",
+      "de_DE": "Warp-Falle"
+    },
+    {
+      "id": "msg_0571_00010",
+      "de_DE": "XXL-Warp-Falle"
+    },
+    {
+      "id": "msg_0571_00011",
+      "de_DE": "Loch-Falle"
+    },
+    {
+      "id": "msg_0571_00012",
+      "de_DE": "Gruben-Falle"
+    },
+    {
+      "id": "msg_0571_00013",
+      "de_DE": "Retour-Falle"
+    },
+    {
+      "id": "msg_0571_00014",
+      "de_DE": "Chaos-Falle"
+    },
+    {
+      "id": "msg_0571_00015",
+      "de_DE": "Sprint-Falle"
+    },
+    {
+      "id": "msg_0571_00016",
+      "de_DE": "Tarn-Falle"
+    },
+    {
+      "id": "msg_0571_00017",
+      "de_DE": "Lahm-Falle"
+    },
+    {
+      "id": "msg_0571_00018",
+      "de_DE": "Dunst-Falle"
+    },
+    {
+      "id": "msg_0571_00019",
+      "de_DE": "Rauch-Falle"
+    },
+    {
+      "id": "msg_0571_00020",
+      "de_DE": "Fels-Falle"
+    },
+    {
+      "id": "msg_0571_00021",
+      "de_DE": "Gestein-Falle"
+    },
+    {
+      "id": "msg_0571_00022",
+      "de_DE": "Schaum-Falle"
+    },
+    {
+      "id": "msg_0571_00023",
+      "de_DE": "Blasen-Falle"
+    },
+    {
+      "id": "msg_0571_00024",
+      "de_DE": "Botsch.-Falle 1"
+    },
+    {
+      "id": "msg_0571_00025",
+      "de_DE": "Botsch.-Falle 2"
+    },
+    {
+      "id": "msg_0571_00026",
+      "de_DE": "Botsch.-Falle 3"
+    },
+    {
+      "id": "msg_0571_00027",
+      "de_DE": "Botsch.-Falle 4"
+    },
+    {
+      "id": "msg_0571_00028",
+      "de_DE": "Blätter-Falle"
+    },
+    {
+      "id": "msg_0571_00029",
+      "de_DE": "Blumen-Falle"
+    },
+    {
+      "id": "msg_0571_00030",
+      "de_DE": "Asche-Falle"
+    },
+    {
+      "id": "msg_0571_00031",
+      "de_DE": "Feuer-Falle"
+    },
+    {
+      "id": "msg_0571_00032",
+      "de_DE": "Radar-Falle"
+    },
+    {
+      "id": "msg_0571_00033",
+      "de_DE": "Einweg-Bohrer"
+    },
+    {
+      "id": "msg_0571_00034",
+      "de_DE": "Schließen"
+    },
+    {
+      "id": "msg_0571_00035",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und\n",
+        "man rutscht nach oben."
+      ]
+    },
+    {
+      "id": "msg_0571_00036",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und\n",
+        "man rutscht nach rechts."
+      ]
+    },
+    {
+      "id": "msg_0571_00037",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und es geht\n",
+        "geradewegs ab nach unten."
+      ]
+    },
+    {
+      "id": "msg_0571_00038",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und\n",
+        "man rutscht nach links."
+      ]
+    },
+    {
+      "id": "msg_0571_00039",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und\n",
+        "man rutscht weit nach oben."
+      ]
+    },
+    {
+      "id": "msg_0571_00040",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und\n",
+        "man rutscht weit nach rechts."
+      ]
+    },
+    {
+      "id": "msg_0571_00041",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und es geht\n",
+        "geradewegs weit nach unten."
+      ]
+    },
+    {
+      "id": "msg_0571_00042",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und\n",
+        "man rutscht weit nach links."
+      ]
+    },
+    {
+      "id": "msg_0571_00043",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und man findet\n",
+        "sich an einem fernen Ort wieder."
+      ]
+    },
+    {
+      "id": "msg_0571_00044",
+      "de_DE": [
+        "Ein Tritt auf diese Falle und man findet\n",
+        "sich an einem sehr fernen Ort wieder."
+      ]
+    },
+    {
+      "id": "msg_0571_00045",
+      "de_DE": [
+        "Lässt eine Fallgrube entstehen. Ziel\n",
+        "wird nach Fall bewegungsunfähig."
+      ]
+    },
+    {
+      "id": "msg_0571_00046",
+      "de_DE": [
+        "Lässt große Fallgrube entstehen. Ziel\n",
+        "wird nach Fall bewegungsunfähig."
+      ]
+    },
+    {
+      "id": "msg_0571_00047",
+      "de_DE": [
+        "Ein Tritt auf diese Falle kehrt die\n",
+        "Bewegungen um."
+      ]
+    },
+    {
+      "id": "msg_0571_00048",
+      "de_DE": [
+        "Ein Tritt auf diese Falle bringt die\n",
+        "Bewegungen durcheinander."
+      ]
+    },
+    {
+      "id": "msg_0571_00049",
+      "de_DE": [
+        "Ein Sprint ist das Resultat eines\n",
+        "Tritts auf diese Falle."
+      ]
+    },
+    {
+      "id": "msg_0571_00050",
+      "de_DE": [
+        "Unsichtbarkeit ist das Resultat eines\n",
+        "Tritts auf diese Falle."
+      ]
+    },
+    {
+      "id": "msg_0571_00051",
+      "de_DE": [
+        "Ein Tritt auf diese Falle führt zu\n",
+        "Geschwindigkeitsverlust."
+      ]
+    },
+    {
+      "id": "msg_0571_00052",
+      "de_DE": [
+        "Eine Falle, die Dunst freigibt. Der\n",
+        "Dunst kann weggerieben werden."
+      ]
+    },
+    {
+      "id": "msg_0571_00053",
+      "de_DE": [
+        "Eine Falle, die Rauch freigibt. Der\n",
+        "Rauch kann weggerieben werden."
+      ]
+    },
+    {
+      "id": "msg_0571_00054",
+      "de_DE": [
+        "Eine Falle, die Felsen erzeugt. Die\n",
+        "Felsen können zertrümmert werden."
+      ]
+    },
+    {
+      "id": "msg_0571_00055",
+      "de_DE": [
+        "Eine Falle, die Große Felsen erzeugt.\n",
+        "Sie können zertrümmert werden."
+      ]
+    },
+    {
+      "id": "msg_0571_00056",
+      "de_DE": [
+        "Lässt Blasen entstehen. Man kann die\n",
+        "Blasen auch wieder platzen lassen."
+      ]
+    },
+    {
+      "id": "msg_0571_00057",
+      "de_DE": [
+        "Lässt eine Menge Blasen entstehen.\n",
+        "Man kann sie platzen lassen."
+      ]
+    },
+    {
+      "id": "msg_0571_00058",
+      "de_DE": [
+        "Tritt auf diese Falle, um alle\n",
+        "Personen in der Nähe zu grüßen."
+      ]
+    },
+    {
+      "id": "msg_0571_00059",
+      "de_DE": [
+        "Tritt auf diese Falle, um allen\n",
+        "in der Nähe Lebewohl zu sagen."
+      ]
+    },
+    {
+      "id": "msg_0571_00060",
+      "de_DE": [
+        "Ein Tritt auf diese Falle teilt allen mit,\n",
+        "dass du zum Konnex-Klub gehst."
+      ]
+    },
+    {
+      "id": "msg_0571_00061",
+      "de_DE": [
+        "Tritt auf diese Falle und bitte so alle\n",
+        "um dich herum, sich zu versammeln."
+      ]
+    },
+    {
+      "id": "msg_0571_00062",
+      "de_DE": [
+        "Erzeugt bewegungsunfähig machende\n",
+        "Blätter. Blase sie zur Befreiung hinweg."
+      ]
+    },
+    {
+      "id": "msg_0571_00063",
+      "de_DE": [
+        "Erzeugt eine ganze Menge Blumen.\n",
+        "Blase sie hinweg, um dich zu befreien."
+      ]
+    },
+    {
+      "id": "msg_0571_00064",
+      "de_DE": [
+        "Erzeugt bewegungsunfähig machende\n",
+        "Flammen. Blase sie zur Befreiung aus."
+      ]
+    },
+    {
+      "id": "msg_0571_00065",
+      "de_DE": [
+        "Erzeugt lodernde Flammen. Blase sie\n",
+        "hinweg, um dich zu befreien."
+      ]
+    },
+    {
+      "id": "msg_0571_00066",
+      "de_DE": [
+        "Trittst du auf diese Falle, funktioniert\n",
+        "das Radar eine Weile nicht mehr."
+      ]
+    },
+    {
+      "id": "msg_0571_00067",
+      "de_DE": [
+        "Ein Einweg-Bohrer. Bohre ein Loch\n",
+        "und richte eine Geheimbasis ein."
+      ]
+    },
+    {
+      "id": "msg_0571_00068",
+      "de_DE": "Schließt die Tasche."
+    }
+  ]
+}

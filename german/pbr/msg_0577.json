@@ -1,0 +1,436 @@
+{
+  "key": 10232,
+  "messages": [
+    {
+      "id": "msg_0577_00000",
+      "de_DE": [
+        "Hast du eine Sphäre oder zwei parat?\n",
+        "Dann lass uns doch handeln."
+      ]
+    },
+    {
+      "id": "msg_0577_00001",
+      "de_DE": [
+        "Welche Sphäre bietest du für\n",
+        "{STRVAR_1 25, 2} an?"
+      ]
+    },
+    {
+      "id": "msg_0577_00002",
+      "de_DE": [
+        "Alles klar!\n",
+        "Abgemacht!"
+      ]
+    },
+    {
+      "id": "msg_0577_00003",
+      "de_DE": [
+        "Ähm, Moment mal!\n",
+        "Du hast ja nicht genug Platz!"
+      ]
+    },
+    {
+      "id": "msg_0577_00004",
+      "de_DE": "Das ist nicht die richtige Art Sphäre!"
+    },
+    {
+      "id": "msg_0577_00005",
+      "de_DE": [
+        "Hmmm...\n",
+        "Nein, diese Sphäre ist nicht groß genug."
+      ]
+    },
+    {
+      "id": "msg_0577_00006",
+      "de_DE": "{STRVAR_1 25, 2} erhalten!"
+    },
+    {
+      "id": "msg_0577_00007",
+      "de_DE": [
+        "Du erhältst eine {STRVAR_1 25, 2},\n",
+        "in der Größe {STRVAR_1 51, 6}."
+      ]
+    },
+    {
+      "id": "msg_0577_00008",
+      "de_DE": "Sonst noch einen Wunsch?"
+    },
+    {
+      "id": "msg_0577_00009",
+      "de_DE": "Dann sieht man sich!"
+    },
+    {
+      "id": "msg_0577_00010",
+      "de_DE": [
+        "{STRVAR_1 25, 2} für {STRVAR_1 25, 4},\n",
+        "was meinst du?"
+      ]
+    },
+    {
+      "id": "msg_0577_00011",
+      "de_DE": [
+        "Geht klar!\n",
+        "Lass uns tauschen!"
+      ]
+    },
+    {
+      "id": "msg_0577_00012",
+      "de_DE": [
+        "Ähm, Moment mal! Du hast nicht genug\n",
+        "Platz für eine weitere Sphäre!"
+      ]
+    },
+    {
+      "id": "msg_0577_00013",
+      "de_DE": "FALLE NEHMEN"
+    },
+    {
+      "id": "msg_0577_00014",
+      "de_DE": "FALLE GEBEN"
+    },
+    {
+      "id": "msg_0577_00015",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0577_00016",
+      "de_DE": "DEKO NEHMEN"
+    },
+    {
+      "id": "msg_0577_00017",
+      "de_DE": "DEKO GEBEN"
+    },
+    {
+      "id": "msg_0577_00018",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0577_00019",
+      "de_DE": [
+        "Verfügb.\n",
+        " Sphären"
+      ]
+    },
+    {
+      "id": "msg_0577_00020",
+      "de_DE": [
+        "Verfügb.\n",
+        " Fallen"
+      ]
+    },
+    {
+      "id": "msg_0577_00021",
+      "de_DE": [
+        "Verfügb.\n",
+        " Deko"
+      ]
+    },
+    {
+      "id": "msg_0577_00022",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0577_00023",
+      "de_DE": "Benötigte Sphäre"
+    },
+    {
+      "id": "msg_0577_00024",
+      "de_DE": "Offerierte Sphäre"
+    },
+    {
+      "id": "msg_0577_00025",
+      "de_DE": "{STRVAR_1 25, 2} {STRVAR_1 51, 6}"
+    },
+    {
+      "id": "msg_0577_00026",
+      "de_DE": "UNVERKÄUFLICH"
+    },
+    {
+      "id": "msg_0577_00027",
+      "de_DE": [
+        "Hast du Schätze? Die tausche ich für\n",
+        "einige Sphären."
+      ]
+    },
+    {
+      "id": "msg_0577_00028",
+      "de_DE": "SCHÄTZE GEBEN"
+    },
+    {
+      "id": "msg_0577_00029",
+      "de_DE": [
+        "Schätze\n",
+        " gewählt"
+      ]
+    },
+    {
+      "id": "msg_0577_00030",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00031",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00032",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00033",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00034",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00035",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00036",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00037",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00038",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00039",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00040",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00041",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00042",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00043",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00044",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00045",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00046",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00047",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00048",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00049",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00050",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00051",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00052",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00053",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00054",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00055",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00056",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00057",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00058",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00059",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0577_00060",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00061",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00062",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00063",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00064",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00065",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00066",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00067",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00068",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00069",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00070",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00071",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00072",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00073",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00074",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00075",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00076",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00077",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00078",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00079",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00080",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00081",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00082",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00083",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00084",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00085",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00086",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00087",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00088",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00089",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00090",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0577_00091",
+      "de_DE": [
+        "Veit: Hey! {STRVAR_1 3, 0}!\n",
+        "Bist du etwa das erste Mal hier?\r",
+        "Willkommen im Untergrund von Sinnoh!\r",
+        "Hm? Wo das ist, fragst du?\n",
+        "Ist doch klar, sieh mal auf das Radar!\r",
+        "Es handelt sich um ein riesiges Netzwerk\n",
+        "aus Gängen unterhalb von Sinnoh.\r",
+        "Wie? Was ich an so einem geräumigen Ort\n",
+        "denn mache?\r",
+        "Wie erkläre ich das am besten...\r",
+        "Du kannst hier unten sozusagen alles\n",
+        "tun, worauf du Lust hast.\r",
+        "Nach Schätzen graben oder Sphären.\n",
+        "Oder eine Geheimbasis errichten.\r",
+        "Außerdem kannst du hier unten mit\n",
+        "deinen Freunden spielen.\r",
+        "Sprich doch mal mit dem\n",
+        "Untergrund-Mann in Ewigenau.\r",
+        "Ich muss jetzt aber los.\n",
+        "Man sieht sich!"
+      ]
+    }
+  ]
+}

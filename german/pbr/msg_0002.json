@@ -1,0 +1,237 @@
+{
+  "key": 46835,
+  "messages": [
+    {
+      "id": "msg_0002_00000",
+      "de_DE": "KP-/AP-"
+    },
+    {
+      "id": "msg_0002_00001",
+      "de_DE": "ERHOLUNG"
+    },
+    {
+      "id": "msg_0002_00002",
+      "de_DE": "STATUS-"
+    },
+    {
+      "id": "msg_0002_00003",
+      "de_DE": "HEILMITTEL"
+    },
+    {
+      "id": "msg_0002_00004",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0002_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0002_00006",
+      "de_DE": "KAMPFITEMS"
+    },
+    {
+      "id": "msg_0002_00007",
+      "de_DE": "BÄLLE"
+    },
+    {
+      "id": "msg_0002_00008",
+      "de_DE": "Zuletzt verwend. Item"
+    },
+    {
+      "id": "msg_0002_00009",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0002_00010",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0002_00011",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0002_00012",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0002_00013",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0002_00014",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0002_00015",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0002_00016",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0002_00017",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0002_00018",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0002_00019",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0002_00020",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0002_00021",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0002_00022",
+      "de_DE": "KP/AP"
+    },
+    {
+      "id": "msg_0002_00023",
+      "de_DE": "ERHOLUNG"
+    },
+    {
+      "id": "msg_0002_00024",
+      "de_DE": "STATUS"
+    },
+    {
+      "id": "msg_0002_00025",
+      "de_DE": "HEILMITTEL"
+    },
+    {
+      "id": "msg_0002_00026",
+      "de_DE": "BÄLLE"
+    },
+    {
+      "id": "msg_0002_00027",
+      "de_DE": "KAMPFITEMS"
+    },
+    {
+      "id": "msg_0002_00028",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0002_00029",
+      "de_DE": "{STRVAR_1 50, 0}"
+    },
+    {
+      "id": "msg_0002_00030",
+      "de_DE": "{STRVAR_1 50, 0}"
+    },
+    {
+      "id": "msg_0002_00031",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0002_00032",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0002_00033",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0002_00034",
+      "de_DE": "Es wird keine Wirkung haben."
+    },
+    {
+      "id": "msg_0002_00035",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0002_00036",
+      "de_DE": [
+        "{STRVAR_1 1, 0} pumpt\n",
+        "sich auf!"
+      ]
+    },
+    {
+      "id": "msg_0002_00037",
+      "de_DE": [
+        "Angriff von\n",
+        "{STRVAR_1 1, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0002_00038",
+      "de_DE": [
+        "Spezial-Angriff von\n",
+        "{STRVAR_1 1, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0002_00039",
+      "de_DE": [
+        "Initiative von\n",
+        "{STRVAR_1 1, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0002_00040",
+      "de_DE": [
+        "Spezial-Verteidigung von\n",
+        "{STRVAR_1 1, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0002_00041",
+      "de_DE": [
+        "Verteidigung von\n",
+        "{STRVAR_1 1, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0002_00042",
+      "de_DE": [
+        "Genauigkeit von\n",
+        "{STRVAR_1 1, 0} steigt."
+      ]
+    },
+    {
+      "id": "msg_0002_00043",
+      "de_DE": "{STRVAR_1 8, 0} wird eingesetzt!"
+    },
+    {
+      "id": "msg_0002_00044",
+      "de_DE": [
+        "Das klappt nicht! Man kann nicht\n",
+        "zielen, wenn zwei Pokémon da sind."
+      ]
+    },
+    {
+      "id": "msg_0002_00045",
+      "de_DE": [
+        "Du kannst keine weiteren Pokémon\n",
+        "fangen. Alle Boxen im PC sind voll."
+      ]
+    },
+    {
+      "id": "msg_0002_00046",
+      "de_DE": [
+        "{STRVAR_1 6, 1} verhindert den Einsatz\n",
+        "des Items bei {STRVAR_1 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0002_00047",
+      "de_DE": [
+        "Das ist schlecht! Man kann auf ein\n",
+        "nicht sichtbares Pokémon nicht zielen."
+      ]
+    },
+    {
+      "id": "msg_0002_00048",
+      "de_DE": [
+        "Das ist schlecht! Man kann auf ein\n",
+        "nicht sichtbares Pokémon nicht zielen."
+      ]
+    }
+  ]
+}

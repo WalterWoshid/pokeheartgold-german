@@ -1,0 +1,241 @@
+{
+  "key": 15457,
+  "messages": [
+    {
+      "id": "msg_0776_00000",
+      "de_DE": [
+        "Möchtest du {STRVAR_3 0, 0, 0}\n",
+        "spielen?"
+      ]
+    },
+    {
+      "id": "msg_0776_00001",
+      "de_DE": "BEITRETEN"
+    },
+    {
+      "id": "msg_0776_00002",
+      "de_DE": "REGELN"
+    },
+    {
+      "id": "msg_0776_00003",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0776_00004",
+      "de_DE": [
+        "Du konntest der Gruppe nicht beitre-\n",
+        "ten, die {STRVAR_3 0, 0, 0} spielt.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00005",
+      "de_DE": [
+        "Ein Spiel läuft noch. Vor dessen Ende\n",
+        "kannst du nicht beitreten.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00006",
+      "de_DE": [
+        "Registrierung für {STRVAR_3 0, 0, 0}\n",
+        "ist jetzt geschlossen.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00007",
+      "de_DE": [
+        "Registrierungssystem wird vorbereitet.\n",
+        "Bitte komm gleich wieder.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00008",
+      "de_DE": [
+        "Ein Mitglied ist ausgeschieden.\r",
+        "Dein {STRVAR_3 0, 0, 0}-Spiel wurde\n",
+        "abgebrochen.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00009",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0776_00010",
+      "de_DE": [
+        "Warte auf andere Mitglieder...\n",
+        "B-Knopf: Abbrechen"
+      ]
+    },
+    {
+      "id": "msg_0776_00011",
+      "de_DE": [
+        "Das Spiel wird in Kürze beginnen!\n",
+        "Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0776_00012",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0776_00013",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0776_00014",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0776_00015",
+      "de_DE": "Noch {STRVAR_1 51, 0, 0} Sek."
+    },
+    {
+      "id": "msg_0776_00016",
+      "de_DE": [
+        "Es sind genügend Spieler anwesend.\n",
+        "Das Spiel beginnt!"
+      ]
+    },
+    {
+      "id": "msg_0776_00017",
+      "de_DE": [
+        "Ein Mitglied ist ausgeschieden. Bitte mit\n",
+        "der Registrierung neu beginnen.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00018",
+      "de_DE": [
+        "Die Wartezeit ist abgelaufen.\n",
+        "Das Spiel beginnt!"
+      ]
+    },
+    {
+      "id": "msg_0776_00019",
+      "de_DE": [
+        "Während der Registrierungsphase sind\n",
+        "keine Mitglieder beigetreten.\r",
+        "Bitte erneut registrieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00020",
+      "de_DE": [
+        "Dieser Dienst ist leider ausgelastet.\n",
+        "Eine Teilnahme ist jetzt nicht möglich.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00021",
+      "de_DE": [
+        "Das Zeitlimit ist abgelaufen.\n",
+        "{STRVAR_3 0, 0, 0} wird geschlossen.\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00022",
+      "de_DE": "{STRVAR_3 0, 0, 0} ist geschlossen.\r"
+    },
+    {
+      "id": "msg_0776_00023",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0776_00024",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0776_00025",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0776_00026",
+      "de_DE": [
+        "Du bist der erste beitretende Spieler.\r",
+        "Wenn du ausscheidest, wird die Gruppe\n",
+        "aufgelöst. Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0776_00027",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0776_00028",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0776_00029",
+      "de_DE": "Deine Wahl war es, auszuscheiden.\r"
+    },
+    {
+      "id": "msg_0776_00030",
+      "de_DE": [
+        "Die Parade findet später statt.\n",
+        "Bitte gedulde dich bis dahin!\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00031",
+      "de_DE": [
+        "Warte auf den Einzug der Parade...\n",
+        "B-Knopf: Abbrechen"
+      ]
+    },
+    {
+      "id": "msg_0776_00032",
+      "de_DE": "Die Flöße sind nicht mehr betretbar...\r"
+    },
+    {
+      "id": "msg_0776_00033",
+      "de_DE": "Die Parade ist vorbei.\r"
+    },
+    {
+      "id": "msg_0776_00034",
+      "de_DE": [
+        "{STRVAR_3 0, 0, 0}\r",
+        "Schnipse Beeren in das Maul\n",
+        "eines rotierenden SCHLUKWECH.\r",
+        "Erziele Bonuspunkte, indem du\n",
+        "mehrmals in Folge triffst.\r",
+        "Noch mehr Punkte erhältst du, wenn\n",
+        "du dich im Punktefieber befindest.\r",
+        "Entscheide, ob du behutsam zielst\n",
+        "oder nach Gutdünken feuerst!\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00035",
+      "de_DE": [
+        "{STRVAR_3 0, 0, 0}\r",
+        "Rolle einen Ball, damit PANTIMIMI\n",
+        "nicht abstürzt.\r",
+        "Wenn PANTIMIMI auf dem Ball bleibt,\n",
+        "blinken Lichter und es gibt Applaus.\r",
+        "Wenn alle erfolgreich sind, werden\n",
+        "die Vorhänge hochgezogen.\r",
+        "Versuche, PANTIMIMI im Gleichgewicht\n",
+        "und auf dem Ball zu halten!\r"
+      ]
+    },
+    {
+      "id": "msg_0776_00036",
+      "de_DE": [
+        "{STRVAR_3 0, 0, 0}\r",
+        "Drücke bis zum Ablauf des Zeitlimits\n",
+        "von oben auf die Pumpe, um einen\f",
+        "Ballon zum Platzen zu bringen.\r",
+        "Ein energisches Drücken der Pumpe\n",
+        "lässt sie rot werden und erhöht\f",
+        "ihr Volumen.\r",
+        "Das herumkreisende ISSO kann\n",
+        "behilflich sein.\r",
+        "Lass es eine Reihe mit der Pumpe bilden,\n",
+        "um das Luftvolumen zu erhöhen.\r",
+        "Gerätst du aber an ein dünnes\n",
+        "ISSO, wird das Luftvolumen reduziert.\r"
+      ]
+    }
+  ]
+}

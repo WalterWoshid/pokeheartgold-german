@@ -1,0 +1,102 @@
+{
+  "key": 9311,
+  "messages": [
+    {
+      "id": "msg_0628_00000",
+      "de_DE": [
+        "Einst ließ ein erbostes GARADOS hier\n",
+        "seiner Wut freien Lauf und hinterließ\f",
+        "dabei einen Krater. Als sich der Krater\f",
+        "nun immer weiter mit Regenwasser füllte,\f",
+        "entstand daraus der See des Zorns.\r",
+        "Diese Geschichte erzählte man schon\n",
+        "dem Ururgroßvater meines Großvaters.\r",
+        "Wenn man auf der Suche nach KARPADOR\n",
+        "war, konnte man hier früher richtige\f",
+        "Prachtexemplare an die Leine bekommen.\r",
+        "Wo sind sie bloß alle hin?"
+      ]
+    },
+    {
+      "id": "msg_0628_00001",
+      "de_DE": [
+        "Seit diese Männer in Schwarz hier\n",
+        "herumstreichen, ist irgendetwas ganz\f",
+        "seltsames mit dem See im Gange."
+      ]
+    },
+    {
+      "id": "msg_0628_00002",
+      "de_DE": [
+        "Wunderbar! Der See des Zorns ist\n",
+        "wieder wie früher, und die KARPADOR\f",
+        "warten nur darauf, geangelt zu werden!\r",
+        "Vielleicht geht jetzt auch mein Traum in\n",
+        "Erfüllung, das größte KARPADOR der\f",
+        "Welt zu Gesicht zu bekommen!\r",
+        "Wenn du auch ein KARPADOR fängst,\n",
+        "dann zeig es mir doch bitte, ja?"
+      ]
+    },
+    {
+      "id": "msg_0628_00003",
+      "de_DE": [
+        "Ah, du hast ein KARPADOR!\n",
+        "Dann wollen wir doch mal sehen,\f",
+        "wie groß es ist!\r"
+      ]
+    },
+    {
+      "id": "msg_0628_00004",
+      "de_DE": [
+        "{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm!\n",
+        "Ein {STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm großes KARPADOR!!\r",
+        "Das ist ja riesig!\r",
+        "Ich ziehe meinen Hut vor dir!\n",
+        "Hier, nimm das als Andenken!\r"
+      ]
+    },
+    {
+      "id": "msg_0628_00005",
+      "de_DE": [
+        "So! Aber vergiss nicht, dass es hier\n",
+        "vor allem um deinen Rekord geht!\f",
+        "Sieh das einfach als kleinen Bonus an.\n"
+      ]
+    },
+    {
+      "id": "msg_0628_00006",
+      "de_DE": [
+        "{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm...\r",
+        "Das ist ja riesig!\n",
+        "...Aber leider hast du mir schon\f",
+        "einmal ein KARPADOR gezeigt,\f",
+        "das genauso groß war!"
+      ]
+    },
+    {
+      "id": "msg_0628_00007",
+      "de_DE": [
+        "Dieses KARPADOR ist {STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm groß.\r",
+        "Aber ich habe schon mal eins gesehen,\n",
+        "das {STRVAR_1 52, 2, 0},{STRVAR_1 50, 3, 0} cm groß war..."
+      ]
+    },
+    {
+      "id": "msg_0628_00008",
+      "de_DE": "Was? Das ist kein KARPADOR!"
+    },
+    {
+      "id": "msg_0628_00009",
+      "de_DE": "Du kannst nichts mehr tragen!"
+    },
+    {
+      "id": "msg_0628_00010",
+      "de_DE": [
+        "Oh... du hast also keins, das es\n",
+        "wert wäre, mir zu zeigen?\f",
+        "Na ja, vielleicht beim nächsten Mal."
+      ]
+    }
+  ]
+}

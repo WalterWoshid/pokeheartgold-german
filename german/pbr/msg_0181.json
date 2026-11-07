@@ -1,0 +1,60 @@
+{
+  "key": 53294,
+  "messages": [
+    {
+      "id": "msg_0181_00000",
+      "de_DE": [
+        "Cynthia: Der Raum dort drüben,\n",
+        "das ist die Ruhmeshalle...\r"
+      ]
+    },
+    {
+      "id": "msg_0181_00001",
+      "de_DE": [
+        "Eibe: {STRVAR_1 3, 0}!\n",
+        "Dein letzter Kampf war vorzüglich!\r"
+      ]
+    },
+    {
+      "id": "msg_0181_00002",
+      "de_DE": "Cynthia: Oh, guten Tag, Professor Eibe.\r"
+    },
+    {
+      "id": "msg_0181_00003",
+      "de_DE": [
+        "Eibe: Hm!\r",
+        "Ein Kind, dem ich das Pokédex-Projekt\n",
+        "anvertraut habe, kommt so weit...\r",
+        "Da ist es selbstverständlich, dass ich\n",
+        "Zeuge seines Ruhmes werden möchte.\r",
+        "{STRVAR_1 3, 0}!\n",
+        "Ich sollte dich nicht mehr Kind nennen.\f",
+        "Du bist ein wahrer Champ!\r"
+      ]
+    },
+    {
+      "id": "msg_0181_00004",
+      "de_DE": [
+        "Cynthia: Professor, Sie genießen immer\n",
+        "noch den Enthusiasmus, den Kinder in\f",
+        "Ihre Forschungen bringen, nicht wahr?\r"
+      ]
+    },
+    {
+      "id": "msg_0181_00005",
+      "de_DE": "{STRVAR_1 3, 0}, hier entlang, bitte.\r"
+    },
+    {
+      "id": "msg_0181_00006",
+      "de_DE": "{STRVAR_1 3, 0}, hier entlang, bitte.\r"
+    },
+    {
+      "id": "msg_0181_00007",
+      "de_DE": "Prof. Eibe, kommen Sie bitte auch mit.\r"
+    },
+    {
+      "id": "msg_0181_00008",
+      "garbage": 0
+    }
+  ]
+}

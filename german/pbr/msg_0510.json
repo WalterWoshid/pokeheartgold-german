@@ -1,0 +1,97 @@
+{
+  "key": 5150,
+  "messages": [
+    {
+      "id": "msg_0510_00000",
+      "de_DE": [
+        "Ah, Professor Eibe ist also zurück? Er\n",
+        "ist wirklich ein bemerkenswerter Mann.\r",
+        "Er studiert die Pokémon seit ewigen\n",
+        "Zeiten.\r",
+        "Mein Sohn und mein Enkelkind helfen\n",
+        "ihm momentan bei seinen Forschungen."
+      ]
+    },
+    {
+      "id": "msg_0510_00001",
+      "de_DE": [
+        "Oh!!!\n",
+        "Hast du da einen Nationalen Pokédex?\f",
+        "Das ist ja klasse!\r",
+        "Eibe wird hoch erfreut sein. Der wird bei\n",
+        "seinen Studien äußerst hilfreich sein.\r",
+        "Aber, Kindchen...\n",
+        "Du solltest eines wissen.\r",
+        "In dieser Welt gibt es 300...\n",
+        "Nein! 400...\r",
+        "Nein, nein! Auch nicht! In dieser Welt\n",
+        "gibt es noch weitaus mehr Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0510_00002",
+      "de_DE": [
+        "Wer bist du?\r",
+        "...\r",
+        "Oh...\n",
+        "Du bist {STRVAR_1 3, 0}?\r",
+        "Ach, dann beschäftigst du dich doch mit\n",
+        "dem Pokédexdings und hilfst dem\f",
+        "Professor! \r",
+        "Wow! Meine große Schwester macht das\n",
+        "auch! Na, dann viel Erfolg!"
+      ]
+    },
+    {
+      "id": "msg_0510_00003",
+      "de_DE": [
+        "Wer bist du?\r",
+        "...\r",
+        "Oh...\n",
+        "Du bist {STRVAR_1 3, 0}?\r",
+        "Ach, dann beschäftigst du dich doch mit\n",
+        "dem Pokédexdings und hilfst dem\f",
+        "Professor! \r",
+        "Wow! Mein großer Bruder macht das\n",
+        "auch! Na, dann viel Erfolg!"
+      ]
+    },
+    {
+      "id": "msg_0510_00004",
+      "de_DE": [
+        "Oh, hi, {STRVAR_1 3, 0}!\r",
+        "Im Fernsehen haben sie über das\n",
+        "massenhafte Erscheinen von\f",
+        "Pokémon berichtet!\r",
+        "So wird dein Pokédex bestimmt\n",
+        "ganz schnell vollständig!"
+      ]
+    },
+    {
+      "id": "msg_0510_00005",
+      "de_DE": [
+        "Warte mal...\n",
+        "Die haben noch was gesagt... Ach ja!!!\r",
+        "{STRVAR_1 4, 1}! Es heißt, dass dort\n",
+        "ganz viele {STRVAR_1 0, 2} aufgetaucht\f",
+        "sind!\r",
+        "Beeil dich besser, {STRVAR_1 3, 0}!\r",
+        "Ich will, dass du erfolgreicher als\n",
+        "meine Schwester Lucia bist!"
+      ]
+    },
+    {
+      "id": "msg_0510_00006",
+      "de_DE": [
+        "Warte mal...\n",
+        "Die haben noch was gesagt... Ach ja!!!\r",
+        "{STRVAR_1 4, 1}! Es heißt, dass dort\n",
+        "ganz viele {STRVAR_1 0, 2} aufgetaucht\f",
+        "sind!\r",
+        "Beeil dich besser, {STRVAR_1 3, 0}!\r",
+        "Ich will, dass du erfolgreicher als\n",
+        "mein Bruder Lucius bist!"
+      ]
+    }
+  ]
+}

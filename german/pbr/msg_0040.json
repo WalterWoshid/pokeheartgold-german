@@ -1,0 +1,25 @@
+{
+  "key": 50230,
+  "messages": [
+    {
+      "id": "msg_0040_00000",
+      "de_DE": [
+        "Du hast es bis hierher geschafft?\n",
+        "Das erforderte Selbstdisziplin!\r",
+        "Für jemanden wie dich habe ich das\n",
+        "perfekte Item: {STRVAR_1 8, 0}.\r",
+        "Gib es einem Pokémon zum Halten, ja?\r"
+      ]
+    },
+    {
+      "id": "msg_0040_00001",
+      "de_DE": [
+        "Diese Items sind nur dann wirkungsvoll, \n",
+        "wenn sie von einem Pokémon gehalten\f",
+        "werden.\r",
+        "Finde weitere dieser Items und gib\n",
+        "deinem Abenteuer damit mehr Würze!"
+      ]
+    }
+  ]
+}

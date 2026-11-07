@@ -1,0 +1,181 @@
+{
+  "key": 20239,
+  "messages": [
+    {
+      "id": "msg_0620_00000",
+      "de_DE": [
+        "Hey, du! Komm doch mal eben her!\r",
+        "Wenn du schon mal in Mahagonia City\n",
+        "bist, solltest du unbedingt\f",
+        "einen Wutkeks kaufen!\r",
+        "Ich hätte einen für 300 $ für\n",
+        "dich im Angebot. Na, was sagst du? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0620_00001",
+      "de_DE": [
+        "Hör mal, ich wollte dir echt keine\n",
+        "falschen Hoffnungen machen...\r",
+        "Nur weil du mir einen Wutkeks\n",
+        "abgekauft hast, kann ich dich hier\f",
+        "nicht auch automatisch durchlassen!\r",
+        "...In Johto gibt es viel zu entdecken!\r",
+        "Den Leuchtturm von Oliviana City\n",
+        "zum Beispiel, oder die Apotheke\f",
+        "von Anemonia City!\r",
+        "Nimm dir ein bisschen Zeit und\n",
+        "sieh dich überall in Ruhe um."
+      ]
+    },
+    {
+      "id": "msg_0620_00002",
+      "de_DE": [
+        "Hör mal, ich wollte dir echt keine\n",
+        "falschen Hoffnungen machen...\r",
+        "Nur weil du mir einen Wutkeks\n",
+        "abgekauft hast, kann ich dich hier\f",
+        "nicht auch automatisch durchlassen!\r",
+        "...In Johto gibt es viel zu entdecken!\r",
+        "Den Leuchtturm von Oliviana City\n",
+        "zum Beispiel, oder die Apotheke\f",
+        "von Anemonia City!\r",
+        "Nimm dir ein bisschen Zeit und\n",
+        "sieh dich überall in Ruhe um.\r"
+      ]
+    },
+    {
+      "id": "msg_0620_00003",
+      "de_DE": [
+        "Was? Ob du einen Wutkeks haben kannst?\n",
+        "Du möchtest mir wirklich einen abkaufen?\r",
+        "Sehr schön!\r",
+        "Einer macht 300 $. Das ist immer noch\n",
+        "ein absoluter Schnäppchenpreis!\f",
+        "Da muss man doch zugreifen, oder? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0620_00004",
+      "de_DE": [
+        "Was? Ob du einen Wutkeks haben kannst?\n",
+        "Du möchtest mir wirklich einen abkaufen?\r",
+        "Ich finde, einer ist schon genug!"
+      ]
+    },
+    {
+      "id": "msg_0620_00005",
+      "de_DE": [
+        "Vor einiger Zeit war hier übrigens schon\n",
+        "mal jemand aus Kanto, der mir einen\f",
+        "Wutkeks abkaufen wollte.\r",
+        "Leider hatte ich damals aber keine mehr\n",
+        "auf Lager, und so musste ich ihn wieder\f",
+        "nach Hause schicken. Er war so wütend!\r",
+        "Ich habe immer noch ein schlechtes\n",
+        "Gewissen deswegen..."
+      ]
+    },
+    {
+      "id": "msg_0620_00006",
+      "de_DE": [
+        "Vor einiger Zeit war hier übrigens schon\n",
+        "mal jemand aus Kanto, der mir einen\f",
+        "Wutkeks abkaufen wollte.\r",
+        "Leider hatte ich damals aber keine mehr\n",
+        "auf Lager, und so musste ich ihn wieder\f",
+        "nach Hause schicken. Er war so wütend!\r",
+        "Ich habe immer noch ein schlechtes\n",
+        "Gewissen deswegen...\r"
+      ]
+    },
+    {
+      "id": "msg_0620_00007",
+      "de_DE": "Du hast nicht genug Geld."
+    },
+    {
+      "id": "msg_0620_00008",
+      "de_DE": "Du hast nicht genug Geld.\r"
+    },
+    {
+      "id": "msg_0620_00009",
+      "de_DE": "Dann eben nicht..."
+    },
+    {
+      "id": "msg_0620_00010",
+      "de_DE": "Dann eben nicht...\r"
+    },
+    {
+      "id": "msg_0620_00011",
+      "garbage": 43
+    },
+    {
+      "id": "msg_0620_00012",
+      "garbage": 44
+    },
+    {
+      "id": "msg_0620_00013",
+      "de_DE": [
+        "Bist du schon diesem Kerl mit dem\n",
+        "schwarzen Mantel begegnet?\r",
+        "Er meinte, von irgendwo in dieser\n",
+        "Gegend ginge ein seltsames Signal aus.\r",
+        "Man trifft ihn immer irgendwo zwischen\n",
+        "Mahagonia City und dem See des Zorns.\r",
+        "Wer er wohl ist?"
+      ]
+    },
+    {
+      "id": "msg_0620_00014",
+      "de_DE": [
+        "Willst du auch zum See und dir das\n",
+        "GARADOS ansehen?"
+      ]
+    },
+    {
+      "id": "msg_0620_00015",
+      "de_DE": [
+        "Die KARPADOR sollen zum See\n",
+        "des Zorns zurückgekehrt sein!\r",
+        "Das sind gute Neuigkeiten für\n",
+        "die Angler hier in der Umgebung!"
+      ]
+    },
+    {
+      "id": "msg_0620_00016",
+      "de_DE": [
+        "He, du! Schau doch mal bei Großmutters\n",
+        "Laden vorbei, wenn du Zeit hast!\r",
+        "Artikel, die du sonst nirgendwo\n",
+        "bekommst... gibt’s bei ihr auch nicht.\r",
+        "Aber wenn du sowieso schon einkaufen\n",
+        "gehen wolltest, brichst du dir auch\f",
+        "keinen ab, wenn du es bei ihr tust!"
+      ]
+    },
+    {
+      "id": "msg_0620_00017",
+      "de_DE": [
+        "Mahagonia City\n",
+        "Willkommen in Ninja-Stadt!\n"
+      ]
+    },
+    {
+      "id": "msg_0620_00018",
+      "de_DE": [
+        "Andenkenladen\r",
+        "Wir sind ein ganz ehrliches Unternehmen.\n",
+        "Ganz ehrlich!"
+      ]
+    },
+    {
+      "id": "msg_0620_00019",
+      "de_DE": [
+        "Pokémon-Arena von Mahagonia City\n",
+        "Leiter: Norbert\f",
+        "Er wird dir beibringen, was\f",
+        "ein harter Winter ist!"
+      ]
+    }
+  ]
+}

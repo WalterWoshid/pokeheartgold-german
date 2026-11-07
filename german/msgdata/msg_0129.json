@@ -1,0 +1,333 @@
+{
+  "key": 62607,
+  "messages": [
+    {
+      "id": "msg_0129_00000",
+      "de_DE": "Warte!\r"
+    },
+    {
+      "id": "msg_0129_00001",
+      "de_DE": [
+        "Sandra: Ich möchte mich entschuldigen.\n",
+        "Bitte, nimm das als Entschädigung.\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00002",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0129_00003",
+      "de_DE": [
+        "Diese TM enthält Drachenpuls.\r",
+        "Ein Drachenpuls, das ist...\n",
+        "Ach, was das ist, ist ja auch egal!\f",
+        "Jedenfalls haut er ordentlich rein!\r",
+        "Du musst sie nicht nehmen,\n",
+        "wenn du sie nicht möchtest!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00004",
+      "de_DE": [
+        "Hoppla.\n",
+        "Du hast ja gar keinen Platz.\f",
+        "Ordne erst mal deine Siebensachen.\f",
+        "Ich warte solang in der Pokémon-Arena.\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00005",
+      "de_DE": [
+        "Worauf wartest du noch?\n",
+        "Du suchst den Weg zur Pokémon Liga?\f",
+        "Kehre zurück nach Neuborkia\f",
+        "und surfe von Route 27 aus nach Osten.\r",
+        "Allerdings... siehst du mir so aus, als\n",
+        "hättest du erst noch was zu erledigen.\r",
+        "Lass dich jetzt nicht gehen, klar?\n",
+        "Egal, was du von nun an tust - wenn du\f",
+        "aufgibst, bekommst du es mit mir zu tun!\r",
+        "Denn das würde meine Niederlage gegen\n",
+        "dich noch verschlimmern!\r",
+        "... ... ...\n",
+        "...Also, halte die Ohren steif!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00006",
+      "de_DE": [
+        "DRACHENSCHREIN\r",
+        "Der Schrein ehrt die Drachen-Pokémon,\n",
+        "die früher in der Drachenhöhle lebten."
+      ]
+    },
+    {
+      "id": "msg_0129_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: ... ... ... ... ... ...\n",
+        "Was, du auch hier, {STRVAR_1 3, 0, 0}?\r",
+        "Ganz richtig, ich trainiere hier\n",
+        "ebenfalls mein Pokémon-Team.\r",
+        "Du wunderst dich sicherlich,\n",
+        "dass jemand wie ich das nötig hat...\r",
+        "Ja, wundere dich ruhig.\n",
+        "Meine Pokémon sind gerade sowieso\f",
+        "nicht in der Lage, dich zu schlagen.\r",
+        "Ich darf sie nicht zu schroff behandeln.\n",
+        "Ich muss disziplinierter sein,\f",
+        "wenn ich der weltbeste Pokémon-Trainer\f",
+        "werden möchte..."
+      ]
+    },
+    {
+      "id": "msg_0129_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: ... ... ... ... ... ...\r",
+        "Hmpf...\n",
+        "Merkst du nicht, dass du störst?"
+      ]
+    },
+    {
+      "id": "msg_0129_00009",
+      "de_DE": [
+        "Sandra: Wir sind aber früh dran heute.\n",
+        "Scheinst ja viel Freizeit zu haben.\r",
+        "Na gut. Wenn du jemanden zum Reden\n",
+        "brauchst, bin ich nicht abgeneigt.\r",
+        "Wir können gerne\n",
+        "Telefonnummern austauschen...\f",
+        "Wenn du darauf bestehst! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0129_00010",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Sandras Nummer\n",
+        "im Pokécom registriert."
+      ]
+    },
+    {
+      "id": "msg_0129_00011",
+      "de_DE": [
+        "Sandra: Ich stehe dir jeden Freitag-\n",
+        "abend für einen Kampf zur Verfügung.\r",
+        "Wenn du darauf bestehst!"
+      ]
+    },
+    {
+      "id": "msg_0129_00012",
+      "de_DE": "Sandra: ... ... ... ..."
+    },
+    {
+      "id": "msg_0129_00013",
+      "de_DE": [
+        "Sandra: Du willst doch mit mir\n",
+        "Telefonnummern tauschen, oder? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0129_00014",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: ...Was ist los?\n",
+        "Bist du gekommen, um mich\f",
+        "beim Training zu begaffen?\r",
+        "Tse! Jetzt laufe ich schon den weiten\n",
+        "Weg, um mir hier ein paar Geheimtricks\f",
+        "zu holen, und was ist?\r",
+        "Dieser Pseudo-Weise hat mir gar nichts\n",
+        "beizubringen außer ein paar Sprüchen!\r",
+        "Dann trainiere ich eben hier meine\n",
+        "Pokémon, wenn mir sonst nichts bleibt.\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00015",
+      "de_DE": [
+        "Siegfried: Sei gegrüßt, {STRVAR_1 3, 0, 0}!\n",
+        "Und dich... ah, dich kenne ich\f",
+        "doch aus der Team Rocket Basis.\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00016",
+      "de_DE": [
+        "Siegfried: Sei gegrüßt, {STRVAR_1 3, 0, 0}!\n",
+        "Und dich... ah, dich kenne ich\f",
+        "doch aus der Team Rocket Basis.\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00017",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: Du!\n",
+        "Du hast dich wohl bis jetzt versteckt?\r",
+        "Diesmal mache ich dich alle!\n",
+        "Los, kämpfe mit mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00018",
+      "de_DE": [
+        "Siegfried: Ruhig Blut. Kein Grund, gleich\n",
+        "so zornig zu werden. Ich war in Eile und\f",
+        "entschuldige mich für mein Verhalten.\r",
+        "Aber... wenn es ums Kräftemessen\n",
+        "geht, bin ich niemals abgeneigt!\r",
+        "Ah, ich habe eine Idee!\r",
+        "Wie wäre es mit einem Kampf zwei gegen\n",
+        "zwei, wenn wir schon mal alle hier sind?\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: Hah!\n",
+        "War ja klar. Du siehst ein, dass du\f",
+        "allein gegen mich keine Chance hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00020",
+      "de_DE": [
+        "Siegfried: So würde ich es nicht\n",
+        "ausdrücken. Ein Kampf zu viert\f",
+        "erscheint mir einfach vergnüglicher.\r",
+        "In Ordnung! {STRVAR_1 3, 0, 0}?\n",
+        "Gibst du mir erneut die Ehre?\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00021",
+      "de_DE": [
+        "Siegfried: So würde ich es nicht\n",
+        "ausdrücken. Ein Kampf zu viert\f",
+        "erscheint mir einfach vergnüglicher.\r",
+        "In Ordnung! {STRVAR_1 3, 0, 0}?\n",
+        "Gibst du mir erneut die Ehre?\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00022",
+      "de_DE": [
+        "Sandra: Gut. Dann sind du und ich\n",
+        "wohl ebenfalls Partner.\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00023",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: Machst du Witze?\r",
+        "Ziehe dir erst mal etwas Anständiges\n",
+        "an, bevor ich mit dir kämpfe!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00024",
+      "de_DE": [
+        "He, {STRVAR_1 3, 0, 0}!\n",
+        "Komm du in mein Team!\r",
+        "Wir zeigen diesem Siegfried,\n",
+        "wie man’s richtig macht!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00025",
+      "de_DE": [
+        "Siegfried: Genau wie ich es mir dachte.\n",
+        "Gemeinsam seid ihr wahrlich\f",
+        "formidable Gegner.\r",
+        "Sicherlich ist es nicht verkehrt, wenn\n",
+        "ihr weiterhin für euch allein nach\f",
+        "Stärke und höheren Zielen strebt.\r",
+        "Allerdings solltet ihr euch bewusst\n",
+        "sein, dass dies nicht alles ist, was die\f",
+        "Freude am Pokémon-Kampf ausmacht.\r",
+        "Aber nun, das muss ich wohl nicht\n",
+        "erst eigens in Worte fassen.\f",
+        "Ich bin mir sicher, ihr habt\f",
+        "es bereits selbst eingesehen.\r",
+        "Also dann, {STRVAR_1 3, 0, 0}!\n",
+        "Auf ein baldiges Wiedersehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00026",
+      "de_DE": [
+        "Siegfried: Genau wie ich es mir dachte.\n",
+        "Gemeinsam seid ihr wahrlich\f",
+        "formidable Gegner.\r",
+        "Sicherlich ist es nicht verkehrt, wenn\n",
+        "ihr weiterhin für euch allein nach\f",
+        "Stärke und höheren Zielen strebt.\r",
+        "Allerdings solltet ihr euch bewusst\n",
+        "sein, dass dies nicht alles ist, was die\f",
+        "Freude am Pokémon-Kampf ausmacht.\r",
+        "Aber nun, das muss ich wohl nicht\n",
+        "erst eigens in Worte fassen.\f",
+        "Ich bin mir sicher, ihr habt\f",
+        "es bereits selbst eingesehen.\r",
+        "Also dann, {STRVAR_1 3, 0, 0}!\n",
+        "Auf ein baldiges Wiedersehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00027",
+      "de_DE": [
+        "Sandra: Ich breche dann auch auf.\r",
+        "{STRVAR_1 3, 0, 0}, unser Kampf hat mir\n",
+        "viel Spaß gemacht.\r",
+        "Und unserer ebenfalls,\n",
+        "mein ungehobelter Freund.\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00028",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: {STRVAR_1 3, 0, 0}... ...\r",
+        "Irgendwie hat diese Geschichte\n",
+        "einen seltsamen Verlauf genommen...\r",
+        "Aber denke jetzt ja nicht,\n",
+        "ich hätte meinen Plan, dich zu besiegen,\f",
+        "an den Nagel gehängt!\r",
+        "Sobald meine Pokémon und...\n",
+        "und auch ich... \f",
+        "...stärker geworden sind, dann...\f",
+        "stelle ich mich dir wieder in den Weg!\f",
+        "Verlass dich darauf, jawohl!\r"
+      ]
+    },
+    {
+      "id": "msg_0129_00029",
+      "de_DE": [
+        "Sandra: Sag mal...\n",
+        "Hast du nicht Lust, ein gemeinsames\f",
+        "Erinnerungsfoto zu schießen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0129_00030",
+      "de_DE": "Sandra: Lächeln, bitte!\r"
+    },
+    {
+      "id": "msg_0129_00031",
+      "de_DE": [
+        "Sandra: Siehst du? Ich habe halt\n",
+        "ein Händchen für die Fotografie."
+      ]
+    },
+    {
+      "id": "msg_0129_00032",
+      "de_DE": "Sandra: Oh. Das ist aber schade."
+    },
+    {
+      "id": "msg_0129_00033",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

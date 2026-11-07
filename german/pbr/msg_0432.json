@@ -1,0 +1,111 @@
+{
+  "key": 39287,
+  "messages": [
+    {
+      "id": "msg_0432_00000",
+      "de_DE": [
+        "Die ENTON stehen im Weg. Sie machen\n",
+        "keine Anstalten, sich zu bewegen."
+      ]
+    },
+    {
+      "id": "msg_0432_00001",
+      "de_DE": [
+        "Die ENTON stehen im Weg. Sie machen\n",
+        "keine Anstalten, sich zu bewegen.\r",
+        "Möchtest du den Geheimtrank\n",
+        "verwenden?"
+      ]
+    },
+    {
+      "id": "msg_0432_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} verwendet den\n",
+        "Geheimtrank!\r",
+        "Die ENTON sind von ihren chronischen\n",
+        "Kopfschmerzen geheilt!\r"
+      ]
+    },
+    {
+      "id": "msg_0432_00003",
+      "de_DE": [
+        "Cynthia: Oh, gut. Du hast den\n",
+        "Geheimtrank verwendet.\r",
+        "ENTON leiden an chronischen\n",
+        "Kopfschmerzen.\r",
+        "Niemand weiß jedoch, woher diese\n",
+        "Kopfschmerzen kommen.\r",
+        "Kann ich dich um einen Gefallen bitten?\r",
+        "Bring bitte meiner Großmutter in\n",
+        "Elyses diesen Talisman.\r",
+        "Es soll seltene Pokémon zwischen hier\n",
+        "und Elyses geben, also wird es\f",
+        "die Reise wohl wert sein."
+      ]
+    },
+    {
+      "id": "msg_0432_00004",
+      "de_DE": [
+        "Cynthia: Meine Großmutter ist manchmal\n",
+        "etwas... autoritär.\r",
+        "Ich denke, du wirst sie sofort\n",
+        "erkennen.\r",
+        "Ja. Sie ist nämlich die Älteste von\n",
+        "Elyses.\r",
+        "Und die Stadt selbst... Schau auf deine\n",
+        "Karte. Gar nicht zu verfehlen.\r",
+        "Ich zähle auf dich!\n",
+        "Bis später dann!\r"
+      ]
+    },
+    {
+      "id": "msg_0432_00005",
+      "de_DE": [
+        "Ich weiß, das ist sehr viel verlangt.\r",
+        "Aber es ist mir sehr wichtig.\n",
+        "Gehst du für mich nach Elyses?"
+      ]
+    },
+    {
+      "id": "msg_0432_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0432_00007",
+      "de_DE": [
+        "Ich ruhe mich jetzt aus. Wäre ich ein\n",
+        "Vogel-Pokémon, würde ich Ruheort\f",
+        "verwenden. Haha!\r",
+        "Ähm... Du solltest auch schlafen.\r"
+      ]
+    },
+    {
+      "id": "msg_0432_00008",
+      "de_DE": [
+        "Wenn sie immer flögen, würden Vogel-\n",
+        "Pokémon irgendwann abstürzen."
+      ]
+    },
+    {
+      "id": "msg_0432_00009",
+      "de_DE": [
+        "Solange es eine Straße gibt, werden wir\n",
+        "weiterrennen..."
+      ]
+    },
+    {
+      "id": "msg_0432_00010",
+      "de_DE": [
+        "Frisch und Gesund\n",
+        "Die beste Milch der Welt"
+      ]
+    },
+    {
+      "id": "msg_0432_00011",
+      "de_DE": [
+        "Route 210\n",
+        "Trostu"
+      ]
+    }
+  ]
+}

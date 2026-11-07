@@ -1,0 +1,413 @@
+{
+  "key": 39221,
+  "messages": [
+    {
+      "id": "msg_0378_00000",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0378_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, wenn wir einem\n",
+        "Pokémon begegnen, muss ich es fangen.\r",
+        "Immerhin bin ich ein\n",
+        "Pokémon-Trainer.\r",
+        "Du weißt doch, was ein Trainer\n",
+        "macht, oder nicht?\r",
+        "Er sorgt dafür, dass Pokémon\n",
+        "kämpfen und so ’n Zeugs."
+      ]
+    },
+    {
+      "id": "msg_0378_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Alle Pokémon haben\n",
+        "verschiedene Attacken auf Lager.\r",
+        "Ein Trainer lässt Pokémon kämpfen,\n",
+        "indem er ihnen die Attacken befiehlt.\r",
+        "Das ist so was von cool!"
+      ]
+    },
+    {
+      "id": "msg_0378_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Ich will eigene Pokémon!\n",
+        "Je schneller, desto besser.\r",
+        "Dann kann ich mit meinen Pokémon\n",
+        "überall hingehen, wo ich will."
+      ]
+    },
+    {
+      "id": "msg_0378_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: In diesem See lebt\n",
+        "ein verzaubertes Pokémon.\r",
+        "Jeder sagt, da lebt nichts,\n",
+        "aber ich weiß es einfach besser."
+      ]
+    },
+    {
+      "id": "msg_0378_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Eins ist sicher,\n",
+        "ich werde Pokémon-Trainer!\r",
+        "Und nicht einfach nur irgendein Trainer.\n",
+        "Ich werde der beste aller Zeiten.\f",
+        "Das ist mein größter Traum."
+      ]
+    },
+    {
+      "id": "msg_0378_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey,\n",
+        "genug gequatscht.\r",
+        "Ich kann’s kaum noch erwarten. Lass\n",
+        "uns zum See gehen. Los, komm schon!"
+      ]
+    },
+    {
+      "id": "msg_0378_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Also, worauf wartest\n",
+        "du noch?!? Lass uns gehen! Los geht’s!"
+      ]
+    },
+    {
+      "id": "msg_0378_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Wir hatten keine andere\n",
+        "Wahl. Wir mussten die Pokémon dieser\f",
+        "Leute einsetzen, stimmt doch?\r",
+        "Diese Pokémon gehören aber ihnen...\n",
+        "Bestimmt wollen sie sie zurückhaben.\r",
+        "Dabei war’s doch das erste Pokémon,\n",
+        "mit dem ich gekämpft habe..."
+      ]
+    },
+    {
+      "id": "msg_0378_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was würde ich dafür\n",
+        "geben, mit ihm besser zu werden..."
+      ]
+    },
+    {
+      "id": "msg_0378_00010",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Mir ist nicht nach\n",
+        "Reden zu Mute... Lass uns gehen.\r",
+        "...Wir gehen irgendwie langsamer als auf\n",
+        "dem Weg zum See, findest du nicht?"
+      ]
+    },
+    {
+      "id": "msg_0378_00011",
+      "de_DE": [
+        "Raissa: Warte!\n",
+        "Warte bitte, {STRVAR_1 3, 0}!\r",
+        "Setzt du jetzt das Fluchtseil ein, lässt\n",
+        "du mich im Stich, das weißt du doch?!?"
+      ]
+    },
+    {
+      "id": "msg_0378_00012",
+      "de_DE": [
+        "Raissa: Warte!\n",
+        "Warte bitte, {STRVAR_1 3, 0}!\r",
+        "Setzt du jetzt Teleport ein, lässt du\n",
+        "mich im Stich, das weißt du doch?!?"
+      ]
+    },
+    {
+      "id": "msg_0378_00013",
+      "de_DE": [
+        "Raissa: Brrr, schaurig...\n",
+        "Man sagt, hier spukt es...\r",
+        "Hier ist es so unheimlich. Tut mir\n",
+        "leid, aber können wir gehen, bitte?"
+      ]
+    },
+    {
+      "id": "msg_0378_00014",
+      "de_DE": [
+        "Raissa: Unheimlich, wenn plötzlich zwei\n",
+        "wilde Pokémon gleichzeitig auftauchen."
+      ]
+    },
+    {
+      "id": "msg_0378_00015",
+      "de_DE": [
+        "Raissa: Mein Pokémon ist ein\n",
+        "ausgezeichneter Heiler.\r",
+        "Dafür hapert’s bei ihm mit den Attacken."
+      ]
+    },
+    {
+      "id": "msg_0378_00016",
+      "de_DE": [
+        "Raissa: {STRVAR_1 3, 0}, Kämpfe mit\n",
+        "dir sind unheimlich aufregend.\r",
+        "Wenn ich wüsste, was du vorhast,\n",
+        "könnten wir eine starke Kombo starten!"
+      ]
+    },
+    {
+      "id": "msg_0378_00017",
+      "de_DE": "Raissa: Das ist aber schönes Moos..."
+    },
+    {
+      "id": "msg_0378_00018",
+      "de_DE": [
+        "Orisa: Möchtest du das wirklich\n",
+        "verwenden?\r",
+        "Dann werde ich ganz allein gelassen..."
+      ]
+    },
+    {
+      "id": "msg_0378_00019",
+      "de_DE": [
+        "Orisa: Möchtest du das wirklich\n",
+        "verwenden?\r",
+        "Dann werde ich ganz allein gelassen..."
+      ]
+    },
+    {
+      "id": "msg_0378_00020",
+      "de_DE": [
+        "Orisa: Das ist der falsche Weg. Wir\n",
+        "verlaufen uns, wenn wir runtergehen..."
+      ]
+    },
+    {
+      "id": "msg_0378_00021",
+      "de_DE": [
+        "Orisa: Ich bevorzuge hilfreiche\n",
+        "Attacken wie Heuler und Komprimator.\r",
+        "Wenn es geht,\n",
+        "setzte ich diese ein."
+      ]
+    },
+    {
+      "id": "msg_0378_00022",
+      "de_DE": [
+        "Orisa: Diese Höhle...\n",
+        "Hier kann man sich so leicht verlaufen.\f",
+        "Weißt du überhaupt, wo wir sind?"
+      ]
+    },
+    {
+      "id": "msg_0378_00023",
+      "de_DE": [
+        "Orisa: {STRVAR_1 3, 0}, wie\n",
+        "bist du so gut geworden?\r",
+        "Liegt es daran, dass du so viel Zeit\n",
+        "mit deinen Pokémon verbringst?\r",
+        "Genau! Das muss es sein!\n",
+        "Das werde ich auch versuchen!"
+      ]
+    },
+    {
+      "id": "msg_0378_00024",
+      "de_DE": [
+        "Urs: Wenn du das verwendest,\n",
+        "muss ich mich von dir verabschieden."
+      ]
+    },
+    {
+      "id": "msg_0378_00025",
+      "de_DE": [
+        "Urs: Wenn du diese Attacke einsetzt,\n",
+        "muss ich mich von dir verabschieden."
+      ]
+    },
+    {
+      "id": "msg_0378_00026",
+      "de_DE": [
+        "Urs: Hahaha, da muss\n",
+        "ich dir wohl zustimmen.\r",
+        "Leute, die hier trainieren, wissen nicht,\n",
+        "was sie mit ihrer Zeit anfangen sollen."
+      ]
+    },
+    {
+      "id": "msg_0378_00027",
+      "de_DE": [
+        "Urs: Vor langer Zeit war das mal\n",
+        "eine sehr ertragreiche Erzmine.\r",
+        "Das Eisenerz muss jetzt erschöpft sein.\n",
+        "Jetzt gibt’s hier nur noch Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0378_00028",
+      "de_DE": [
+        "Urs: Kennst du Adam?\n",
+        "Den Leiter der Fleetburg-Arena?\r",
+        "Er hat mich gefragt, ob ich nicht\n",
+        "Arenaleiter werden will.\r",
+        "Aber da gibt’s ja noch\n",
+        "seinen Sohn Veit."
+      ]
+    },
+    {
+      "id": "msg_0378_00029",
+      "de_DE": [
+        "Urs: Stell dir vor, ein Pokémon des\n",
+        "Typs Stahl kämpft gegen ein anderes\f",
+        "desselben Typs. Wie das wohl ist?\r",
+        "Ist es so, als ob man gegen sein\n",
+        "Ebenbild kämpft?\r",
+        "Es ist sicher schwerer, sich selbst\n",
+        "zu besiegen, als sonst jemanden."
+      ]
+    },
+    {
+      "id": "msg_0378_00030",
+      "de_DE": [
+        "Urs: Was geht hier eigentlich vor?\n",
+        "Die wilden Pokémon sind aufgebracht...\r",
+        "Das gefällt mir überhaupt nicht...\n",
+        "Beeilen wir uns lieber."
+      ]
+    },
+    {
+      "id": "msg_0378_00031",
+      "de_DE": [
+        "Urs: Danke!\n",
+        "Du hast mir echt geholfen.\r",
+        "Ich habe hier ein\n",
+        "Pokémon namens Luca.\r",
+        "Möchtest du es mitnehmen?\r"
+      ]
+    },
+    {
+      "id": "msg_0378_00032",
+      "de_DE": [
+        "Urs: Vielen Dank!\r",
+        "Ich möchte, dass du Luca alle\n",
+        "möglichen Welten zeigst.\r"
+      ]
+    },
+    {
+      "id": "msg_0378_00033",
+      "de_DE": [
+        "Urs: Danke dir...\r",
+        "Leider hast du keinen Platz, um ein\n",
+        "weiteres Pokémon aufzunehmen.\r",
+        "Als gut, ich warte dann auf dich."
+      ]
+    },
+    {
+      "id": "msg_0378_00034",
+      "de_DE": [
+        "Urs: Ich hoffe, du nimmst es als\n",
+        "Zeichen unserer Freundschaft."
+      ]
+    },
+    {
+      "id": "msg_0378_00035",
+      "de_DE": [
+        "Urs: Die Zeit mit dir war\n",
+        "wirklich unterhaltsam.\r",
+        "Jetzt will ich meine Fähigkeiten\n",
+        "aber an anderen Orten testen.\r",
+        "Ich fände es schön, wenn wir uns\n",
+        "irgendwann wiedersehen würden.\r"
+      ]
+    },
+    {
+      "id": "msg_0378_00036",
+      "de_DE": [
+        "Charlie: ...Willst du mich\n",
+        "hier allein lassen?"
+      ]
+    },
+    {
+      "id": "msg_0378_00037",
+      "de_DE": [
+        "Charlie: ...Willst du mich\n",
+        "hier allein lassen?"
+      ]
+    },
+    {
+      "id": "msg_0378_00038",
+      "de_DE": [
+        "Charlie: ...Tut mir leid,\n",
+        "da oben gehe ich nicht rauf."
+      ]
+    },
+    {
+      "id": "msg_0378_00039",
+      "de_DE": "Charlie: ...Nicht dort entlang."
+    },
+    {
+      "id": "msg_0378_00040",
+      "de_DE": "Charlie: ...Du bist sehr gesprächig..."
+    },
+    {
+      "id": "msg_0378_00041",
+      "de_DE": "Charlie: ...Das Pokémon im Blumenfeld..."
+    },
+    {
+      "id": "msg_0378_00042",
+      "de_DE": [
+        "Avenaro: Hey, {STRVAR_1 3, 0}!\r",
+        "Wenn du das da verwendest, lässt du\n",
+        "mich und mein Pokémon im Stich!\r",
+        "Tu das bloß nicht!"
+      ]
+    },
+    {
+      "id": "msg_0378_00043",
+      "de_DE": [
+        "Avenaro: Hey, {STRVAR_1 3, 0}!\r",
+        "Wenn du das da verwendest, lässt du\n",
+        "mich und mein Pokémon im Stich!\r",
+        "Tu das bloß nicht!"
+      ]
+    },
+    {
+      "id": "msg_0378_00044",
+      "de_DE": [
+        "Avenaro: Warum ich den\n",
+        "Vulkan so sehr mag?\r",
+        "Dafür kann ich dir keinen richtigen\n",
+        "Grund nennen. Wozu denn auch?!?"
+      ]
+    },
+    {
+      "id": "msg_0378_00045",
+      "de_DE": [
+        "Avenaro: Kein Gesetz der Welt befiehlt,\n",
+        "dass man hart sein muss oder so.\r",
+        "Doch wenn man verliert, ist es meinen\n",
+        "Pokémon gegenüber einfach nicht fair.\r",
+        "Immerhin geben sie immer alles für mich.\r",
+        "Meine Verantwortung als Trainer liegt\n",
+        "darin, ihre harte Arbeit anzuerkennen."
+      ]
+    },
+    {
+      "id": "msg_0378_00046",
+      "de_DE": [
+        "Avenaro: Mein großer Bruder\n",
+        "ist einer der Top Vier.\r",
+        "Nicht verwunderlich, dass ich\n",
+        "besser bin als Otto Normaltrainer.\r",
+        "Doch darauf kommt es mir nicht an.\n",
+        "Ich möchte eigene Maßstäbe setzen.\r",
+        "Das schulde ich den Pokémon,\n",
+        "die an meiner Seite sind."
+      ]
+    },
+    {
+      "id": "msg_0378_00047",
+      "de_DE": [
+        "Avenaro: Arenaleiter oder gar einer der\n",
+        "Top Vier zu sein mag cool sein...\r",
+        "Andererseits klingt es nach verflixt\n",
+        "viel Arbeit, wenn du mich fragst!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "key": 46235,
+  "messages": [
+    {
+      "id": "msg_0125_00000",
+      "de_DE": [
+        "Tamao: Dies ist der Ort, an dem wir\n",
+        "mit LUGIA in Kontakt treten werden.\r",
+        "Wenn sich hier der Klang des Tanzes,\n",
+        "den wir täglich proben, mit dem\f",
+        "Eurer Gischtglocke überlagert, wird\f",
+        "LUGIA aus seinem Schlaf tief am Grund\r",
+        "des Wasserfalls erwachen und sich\n",
+        "von uns erblicken lassen!\r"
+      ]
+    },
+    {
+      "id": "msg_0125_00001",
+      "de_DE": [
+        "Mehr können wir nicht für Euch tun...\n",
+        "Was nun geschieht, liegt ganz allein\f",
+        "in Euren Händen..."
+      ]
+    },
+    {
+      "id": "msg_0125_00002",
+      "de_DE": [
+        "Was Ihr da vor Euch seht, ist LUGIA...\n",
+        "Seit Urzeiten erzählt man sich hier\f",
+        "von ihm, dem Schutzpatron der Meere...\r",
+        "Schon viele vor Euch haben sich daran\n",
+        "versucht, das Gleiche zu erreichen,\f",
+        "doch alle scheiterten sie kläglich...\r",
+        "{STRVAR_1 3, 0, 0}, Ihr hattet endlich Erfolg\n",
+        "damit, weil Euer Herz mit\f",
+        "der Gischtglocke in Einklang stand...\r"
+      ]
+    },
+    {
+      "id": "msg_0125_00003",
+      "de_DE": [
+        "Seht nur, {STRVAR_1 3, 0, 0}!\r",
+        "LUGIA...\n",
+        "...scheint darauf, dass jemand wie Ihr\f",
+        "in Erscheinung tritt...\f",
+        "...gewartet zu haben?"
+      ]
+    },
+    {
+      "id": "msg_0125_00004",
+      "de_DE": "LUGIA: Giiiaaah!!!\r"
+    },
+    {
+      "id": "msg_0125_00005",
+      "de_DE": [
+        "Wir danken Euch für alles.\n",
+        "Wenn Ihr Professor Lind begegnet,\f",
+        "richtet ihm bitte unsere Grüße aus."
+      ]
+    },
+    {
+      "id": "msg_0125_00006",
+      "de_DE": [
+        "Ihr habt LUGIA nicht nur hierher\n",
+        "gerufen, sondern Ihr konntet es auch,\f",
+        "wie durch ein Wunder, einfangen...\r",
+        "Das war wahrlich eine große Heldentat.\n",
+        "Es gibt nun nichts mehr, was\f",
+        "wir Euch noch erzählen könnten.\r",
+        "Wir wünschen Euch auch für den Rest\n",
+        "Eurer Reise alles Gute..."
+      ]
+    },
+    {
+      "id": "msg_0125_00007",
+      "de_DE": [
+        "Wenn es das ist, worauf Ihr aus wart,\n",
+        "so gibt es nichts mehr, was wir\f",
+        "Euch noch sagen könnten.\r",
+        "Bis auf eines... \n",
+        "Solltet Ihr LUGIA erneut sehen\f",
+        "wollen, dann kommt noch einmal\f",
+        "an diesen Ort zurück,\f",
+        "wenn Ihr alles Weitere erledigt habt..."
+      ]
+    },
+    {
+      "id": "msg_0125_00008",
+      "de_DE": [
+        "Wenn wir ihm jetzt den Rücken zuwenden,\n",
+        "wird LUGIA wahrscheinlich eine Weile lang\f",
+        "nicht mehr hierher zurückkehren...\r",
+        "Ihr solltet dann noch\n",
+        "einmal an diesen Ort\f",
+        "zurückkommen, wenn\f",
+        "Ihr alles Weitere erledigt habt..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "key": 14701,
+  "messages": [
+    {
+      "id": "msg_0155_00000",
+      "de_DE": [
+        "Ja, hallo!\n",
+        "Was macht die Kunst, baldiger Champ?\r",
+        "Lass mich mal deinen Trainerkoffer\n",
+        "sehen. Wie viele Orden hast du?\r",
+        "Eins, zwei, drei...\n",
+        "Wow! Du hast schon sieben!\r",
+        "Das heißt ja, wenn du diesen\n",
+        "Arenaleiter besiegst, kannst du die\f",
+        "Pokémon Liga aufmischen.\r",
+        "Dann ist es auch das letzte Mal,\n",
+        "dass ich dich beraten kann.\r",
+        "Dann hör mal gut zu, Kindchen!\n",
+        "Nur noch dieses eine letzte Mal!\r",
+        "Der Arenaleiter ist ein Meister\n",
+        "der Elektro-Pokémon!\r",
+        "Mehr gibt’s dazu nicht zu sagen.\n",
+        "Den Rest musst du selbst erledigen!"
+      ]
+    },
+    {
+      "id": "msg_0155_00001",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0}!\n",
+        "Hast du den Arenaleiter besiegt?\f",
+        "War ja wohl klar!\r",
+        "Aber weißt du was?\n",
+        "Ich bin immer noch nicht ganz zufrieden!\r",
+        "Willst du wissen, warum?\r",
+        "Nun ja, du und deine Pokémon haben das\n",
+        "Potenzial, noch viel mehr zu erreichen!\r",
+        "Doch, ich bin stolz auf dich!\n",
+        "Ganze acht Sinnoh Orden!\f",
+        "Spitzenleistung, Kindchen!"
+      ]
+    },
+    {
+      "id": "msg_0155_00002",
+      "de_DE": [
+        "Pokémon Arena Sonnewik\r",
+        "Leiter: Volkner"
+      ]
+    },
+    {
+      "id": "msg_0155_00003",
+      "de_DE": [
+        "Pokémon Arena Sonnewik\r",
+        "Leiter: Volkner\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0}"
+      ]
+    },
+    {
+      "id": "msg_0155_00004",
+      "de_DE": [
+        "Pokémon Arena Sonnewik\r",
+        "Leiter: Volkner\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0}\f",
+        "{STRVAR_1 3, 1}"
+      ]
+    }
+  ]
+}

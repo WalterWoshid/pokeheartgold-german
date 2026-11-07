@@ -1,0 +1,107 @@
+{
+  "key": 50122,
+  "messages": [
+    {
+      "id": "msg_0207_00000",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0207_00001",
+      "de_DE": "ID: {STRVAR_1 54, 0, 0}"
+    },
+    {
+      "id": "msg_0207_00002",
+      "de_DE": [
+        "Wenn die Spieler bereit sind...\n",
+        "A-Knopf: Bestätigen   B-Knopf: Abbruch"
+      ]
+    },
+    {
+      "id": "msg_0207_00003",
+      "de_DE": "Ist diese Gruppe in Ordnung?"
+    },
+    {
+      "id": "msg_0207_00004",
+      "de_DE": "Den Reihumtausch abbrechen?"
+    },
+    {
+      "id": "msg_0207_00005",
+      "de_DE": "Der Reihumtausch wird abgebrochen."
+    },
+    {
+      "id": "msg_0207_00006",
+      "de_DE": "Ein Mitglied ist ausgeschieden."
+    },
+    {
+      "id": "msg_0207_00007",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0207_00008",
+      "de_DE": [
+        "Bitte warten...\n",
+        "B-Knopf: Abbrechen"
+      ]
+    },
+    {
+      "id": "msg_0207_00009",
+      "de_DE": [
+        "Ein Mitglied ist ausgeschieden.\n",
+        "Der Reihumtausch wird abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0207_00010",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0207_00011",
+      "de_DE": "Der Reihumtausch wird abgebrochen."
+    },
+    {
+      "id": "msg_0207_00012",
+      "de_DE": [
+        "Vermische Statistiken aller Teilnehmer.\n",
+        "Bitte die Konsole nicht ausschalten!"
+      ]
+    },
+    {
+      "id": "msg_0207_00013",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0207_00014",
+      "de_DE": [
+        "Wenn der Leiter ausscheidet, wird\n",
+        "die Gruppe aufgelöst. Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0207_00015",
+      "de_DE": "{STRVAR_1 3, 0, 0} ist gegangen."
+    },
+    {
+      "id": "msg_0207_00016",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} (Leiter) ist gegangen.\n",
+        "Die Gruppe wird aufgelöst."
+      ]
+    },
+    {
+      "id": "msg_0207_00017",
+      "de_DE": "Suche Freunde zum Reihumtausch!"
+    },
+    {
+      "id": "msg_0207_00018",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0207_00019",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0207_00020",
+      "de_DE": "NEIN"
+    }
+  ]
+}

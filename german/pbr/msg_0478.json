@@ -1,0 +1,162 @@
+{
+  "key": 61075,
+  "messages": [
+    {
+      "id": "msg_0478_00000",
+      "de_DE": [
+        "Dein Streben nach Erfolg hat\n",
+        "dich hierher gebracht...\r",
+        "...Nun dann.\r",
+        "Deine Leidenschaft sollte belohnt\n",
+        "werden - mit unglaublichen Attacken.\r",
+        "Dies sind die ultimativen Attacken!\n",
+        "Soll ich sie deinen Pokémon beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00001",
+      "de_DE": [
+        "Die ultimativen Attacken!\n",
+        "Soll ich sie deinen Pokémon beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00002",
+      "de_DE": [
+        "Welchem Pokémon soll ich\n",
+        "eine Attacke beibringen?\r"
+      ]
+    },
+    {
+      "id": "msg_0478_00003",
+      "de_DE": [
+        "Hm... Soll mir auch recht sein.\r",
+        "Besuche mich wieder, solltest\n",
+        "du deine Meinung geändert haben."
+      ]
+    },
+    {
+      "id": "msg_0478_00004",
+      "de_DE": [
+        "Welchem Pokémon soll ich\n",
+        "eine Attacke beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00005",
+      "de_DE": [
+        "Dieses Pokémon kann diese\n",
+        "Attacke nicht lernen!\r",
+        "Lies doch mal das Poster! Hmpf!"
+      ]
+    },
+    {
+      "id": "msg_0478_00006",
+      "de_DE": [
+        "Soll ich etwa einem Ei\n",
+        "eine Attacke beibringen?!?\r",
+        "Das schaffe nicht mal ich! Hmpf!"
+      ]
+    },
+    {
+      "id": "msg_0478_00007",
+      "de_DE": [
+        "Das Band zwischen dir und deinem\n",
+        "Pokémon ist nicht stark genug! Hmpf!"
+      ]
+    },
+    {
+      "id": "msg_0478_00008",
+      "de_DE": [
+        "Dieses Pokémon kennt diese Attacke\n",
+        "bereits. Was gibt’s da noch zu lernen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00009",
+      "de_DE": [
+        "Ich soll deinem {STRVAR_1 0, 0}\n",
+        "Lohekanonade beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00010",
+      "de_DE": [
+        "Ich soll deinem {STRVAR_1 0, 0}\n",
+        "Aquahaubitze beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00011",
+      "de_DE": [
+        "Ich soll deinem {STRVAR_1 0, 0}\n",
+        "Fauna-Statue beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00012",
+      "de_DE": [
+        "{STRVAR_1 0, 0} hat\n",
+        "{STRVAR_1 6, 1} gelernt!"
+      ]
+    },
+    {
+      "id": "msg_0478_00013",
+      "de_DE": [
+        "{STRVAR_1 0, 0} versucht,\n",
+        "{STRVAR_1 6, 1} zu erlernen.\r",
+        "Aber {STRVAR_1 0, 0} kann nur maximal\n",
+        "vier Attacken erlernen.\r",
+        "Soll eine andere Attacke durch\n",
+        "{STRVAR_1 6, 1} ersetzt werden?"
+      ]
+    },
+    {
+      "id": "msg_0478_00014",
+      "de_DE": [
+        "Bist du einverstanden, dass das\n",
+        "Pokémon {STRVAR_1 6, 1} vergisst?"
+      ]
+    },
+    {
+      "id": "msg_0478_00015",
+      "de_DE": [
+        "1, 2... ... ... und Schwupp!\r",
+        "{STRVAR_1 0, 0} hat \n",
+        "{STRVAR_1 6, 1} vergessen.\r",
+        "Und...\n",
+        "{STRVAR_1 0, 0} lernt {STRVAR_1 6, 2}."
+      ]
+    },
+    {
+      "id": "msg_0478_00016",
+      "de_DE": [
+        "Lernen von {STRVAR_1 6, 1}\n",
+        "unterbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0478_00017",
+      "de_DE": [
+        "{STRVAR_1 0, 0} hat die Attacke\n",
+        "{STRVAR_1 6, 1} nicht gelernt."
+      ]
+    },
+    {
+      "id": "msg_0478_00018",
+      "de_DE": [
+        "Folgende hier aufgeführten Pokémon\n",
+        "können ultimative Attacken erlernen!\r",
+        "Die lodernden Feuer-Pokémon:\n",
+        "{CURSOR_X 7}GLURAK, TORNUPTO,\f",
+        "{CURSOR_X 7}LOHGOCK, PANFERNO.\r",
+        "Die ruhelosen Wasser-Pokémon:\n",
+        "{CURSOR_X 7}TURTOK, IMPERGATOR,\f",
+        "{CURSOR_X 7}SUMPEX, IMPOLEON.\r",
+        "Die ruhigen Gras-Pokémon:\n",
+        "{CURSOR_X 7}BISAFLOR, MEGANIE,\f",
+        "{CURSOR_X 7}GEWALDRO, CHELTERRAR."
+      ]
+    }
+  ]
+}

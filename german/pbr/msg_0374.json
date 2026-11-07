@@ -1,0 +1,73 @@
+{
+  "key": 55726,
+  "messages": [
+    {
+      "id": "msg_0374_00000",
+      "de_DE": "{STRVAR_1 1, 0} kam herein."
+    },
+    {
+      "id": "msg_0374_00001",
+      "de_DE": "Möchtest du aufhören zu zeichnen?"
+    },
+    {
+      "id": "msg_0374_00002",
+      "de_DE": "{STRVAR_1 1, 0} ist gegangen."
+    },
+    {
+      "id": "msg_0374_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0} (Leiter) ist gegangen.\n",
+        "Die Gruppe wird aufgelöst."
+      ]
+    },
+    {
+      "id": "msg_0374_00004",
+      "de_DE": [
+        "Falls der Leiter die Gruppe verlässt,\n",
+        "wird sie aufgelöst. Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0374_00005",
+      "de_DE": [
+        "Es gibt keine Mitglieder mehr.\n",
+        "Die Gruppe wird aufgelöst."
+      ]
+    },
+    {
+      "id": "msg_0374_00006",
+      "de_DE": "Die Zeichenpartie wurde beendet."
+    },
+    {
+      "id": "msg_0374_00007",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0374_00008",
+      "de_DE": "{STRVAR_1 1, 0}"
+    },
+    {
+      "id": "msg_0374_00009",
+      "de_DE": "Setze deine Unterschrift!"
+    },
+    {
+      "id": "msg_0374_00010",
+      "de_DE": "Ist es so okay?"
+    },
+    {
+      "id": "msg_0374_00011",
+      "de_DE": [
+        "Möchtest du deine Unterschrift\n",
+        "erneut schreiben?"
+      ]
+    },
+    {
+      "id": "msg_0374_00012",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0374_00013",
+      "de_DE": "Du trittst einer Zeichenpartie bei."
+    }
+  ]
+}

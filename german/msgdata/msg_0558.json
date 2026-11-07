@@ -1,0 +1,132 @@
+{
+  "key": 14820,
+  "messages": [
+    {
+      "id": "msg_0558_00000",
+      "de_DE": [
+        "Falk: Ich bin Falk, der Arenaleiter\n",
+        "von Viola City!\r",
+        "Viele Leute sagen, mit Elektro-Attacken\n",
+        "könne man Pokémon vom Typ Flug\f",
+        "ganz leicht die Flügel stutzen und\f",
+        "machen sich so über mich lustig...\r",
+        "Das kann ich so nicht stehen lassen!\r",
+        "Wenn du erst mal siehst, wie anmutig\n",
+        "meine Flug-Pokémon durch die Lüfte\f",
+        "gleiten, weißt du, was wahre Größe ist!\r"
+      ]
+    },
+    {
+      "id": "msg_0558_00001",
+      "de_DE": [
+        "Falk: Verflixt! Das waren die geliebten\n",
+        "Flug-Pokémon meines Vaters!\r",
+        "Aber ich bin kein schlechter Verlierer.\r",
+        "Hier, nimm diesen offiziellen Orden der\n",
+        "Pokémon Liga. Er bescheinigt dir, dass\f",
+        "du gegen mich gewonnen hast.\r",
+        "Hiermit verleihe ich dir den Flügelorden!\r"
+      ]
+    },
+    {
+      "id": "msg_0558_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "den Flügelorden!"
+      ]
+    },
+    {
+      "id": "msg_0558_00003",
+      "de_DE": [
+        "Falk: Wenn du im Besitz des Flügelordens\n",
+        "bist, gehorchen dir alle Pokémon mit\f",
+        "einem Level von bis zu 20.\r",
+        "Auch außerhalb des Kampfes kannst du\n",
+        "damit nun Zertrümmerer einsetzen!\r",
+        "Und hier hast du noch eine TM von mir.\r"
+      ]
+    },
+    {
+      "id": "msg_0558_00004",
+      "de_DE": [
+        "Falk: Benutzt ein Pokémon eine TM,\n",
+        "erlernt es umgehend eine neue Attacke!\r",
+        "Aber überlege dir gut, welchem Pokémon\n",
+        "diese Ehre zuteilwird, denn eine TM\f",
+        "lässt sich nur einmal einsetzen!\r",
+        "Die TM51 enthält übrigens eine Attacke\n",
+        "namens Ruheort. Mit ihr kann ein\f",
+        "Pokémon bis zur Hälfte seiner maximalen\f",
+        "KP wieder auffrischen.\r",
+        "Du wirst von nun an in den Arenen\n",
+        "vieler Städte zum Kampf antreten.\r",
+        "Setze die Attacke weise ein, und sie\n",
+        "wird dir zum Sieg verhelfen.\r",
+        "Als Nächstes... ja, als Nächstes nimmst\n",
+        "du dir am besten Azalea City vor!"
+      ]
+    },
+    {
+      "id": "msg_0558_00005",
+      "de_DE": [
+        "Falk: Du wirst von nun an in den Arenen\n",
+        "vieler Städte zum Kampf antreten.\r",
+        "Als Nächstes... ja, als Nächstes nimmst\n",
+        "du dir am besten Azalea City vor!\r",
+        "Ich werde noch härter trainieren, um\n",
+        "der größte Vogelfänger aller Zeiten\f",
+        "zu werden!"
+      ]
+    },
+    {
+      "id": "msg_0558_00006",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Bist du hier, um Falk, den Arenaleiter,\n",
+        "zum Kampf herauszufordern?\r",
+        "Dann bist du hier genaaau richtig!\r",
+        "...Na ja, oder zumindest bist du schon\n",
+        "mal auf dem richtigen Weg.\r",
+        "Wir haben hier eine Trainingsstätte\n",
+        "in dieser Stadt, den KNOFENSA-Turm.\r",
+        "Wenn dein Pokémon-Team dort kein Land\n",
+        "sieht, ist das ein gutes Zeichen, dass\f",
+        "du noch nicht reif für die Arena bist.\r",
+        "Hahaha!"
+      ]
+    },
+    {
+      "id": "msg_0558_00007",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Wer nur fest daran glaubt, für den muss\n",
+        "die Meisterschaft kein Traum mehr sein!\r",
+        "Ich will dir mal was erzählen. Hör zu!\r",
+        "Pokémon vom Typ Pflanze sind sehr\n",
+        "schwach gegen Flug-Pokémon.\f",
+        "Sei also vorsichtig!"
+      ]
+    },
+    {
+      "id": "msg_0558_00008",
+      "de_DE": [
+        "Netter Kampf! Mach immer so\n",
+        "weiter und aus dir wird schon\f",
+        "bald ein echter Champ!"
+      ]
+    },
+    {
+      "id": "msg_0558_00009",
+      "de_DE": "Pokémon-Arena von Viola City"
+    },
+    {
+      "id": "msg_0558_00010",
+      "de_DE": [
+        "Pokémon-Arena von Viola City\r",
+        "Leiter: Falk\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

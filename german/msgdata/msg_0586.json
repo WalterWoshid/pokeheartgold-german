@@ -1,0 +1,137 @@
+{
+  "key": 58479,
+  "messages": [
+    {
+      "id": "msg_0586_00000",
+      "de_DE": [
+        "Bill: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Ich hätte da eine Bitte an dich...\f",
+        "Nimm doch bitte dieses EVOLI.\r",
+        "Ich habe jemandem bei der Einrichtung\n",
+        "seiner Nintendo Wi-Fi Connection\f",
+        "geholfen, und plötzlich war es da.\r",
+        "Es braucht unbedingt jemanden, der\n",
+        "sich um es kümmert, aber ich verlasse\f",
+        "nur sehr ungerne das Haus.\r",
+        "Warum spielst du nicht etwas mit\n",
+        "ihm, {STRVAR_1 3, 0, 0}? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0586_00001",
+      "de_DE": [
+        "Bill: Sehr gut! Einfach wunderbar!\n",
+        "Das ist echt ganz toll von dir!\r",
+        "Also dann, kümmere dich bitte\n",
+        "gut darum!\r"
+      ]
+    },
+    {
+      "id": "msg_0586_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "EVOLI!"
+      ]
+    },
+    {
+      "id": "msg_0586_00003",
+      "de_DE": [
+        "Bill: Laut Professor Lind kann EVOLI\n",
+        "nach der Entwicklung sieben\f",
+        "verschiedene Gestalten annehmen!"
+      ]
+    },
+    {
+      "id": "msg_0586_00004",
+      "de_DE": [
+        "Moment! Du hast keinen Platz mehr\n",
+        "in deinem Team!"
+      ]
+    },
+    {
+      "id": "msg_0586_00005",
+      "de_DE": "Oh, verstehe..."
+    },
+    {
+      "id": "msg_0586_00006",
+      "de_DE": [
+        "Bill: Ich habe früher viel mit Tele-\n",
+        "portertechnologie herumexperimentiert.\r",
+        "Die Entwicklung der GTS und der\n",
+        "Nintendo Wi-Fi Connection wären\f",
+        "ohne meine Forschungsarbeit nicht\f",
+        "möglich gewesen."
+      ]
+    },
+    {
+      "id": "msg_0586_00007",
+      "de_DE": [
+        "Möchtest du EVOLI\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0586_00008",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0586_00009",
+      "de_DE": [
+        "Oh, du sammelst Pokémon? Mein Sohn\n",
+        "ist auch ein echter Experte darin!\r",
+        "Sein Name ist Bill, aber er ist gerade\n",
+        "nicht hier, weil ihn die Leute aus dem\f",
+        "Pokémon-Center in Teak City zu sich\f",
+        "gerufen haben."
+      ]
+    },
+    {
+      "id": "msg_0586_00010",
+      "de_DE": [
+        "Eine Mutter freut sich immer,\n",
+        "wenn sie ihren Sohn sehen kann."
+      ]
+    },
+    {
+      "id": "msg_0586_00011",
+      "de_DE": [
+        "Mein großer Bruder Bill hat das\n",
+        "PC-Pokémon-Lagerungssystem\f",
+        "erfunden!"
+      ]
+    },
+    {
+      "id": "msg_0586_00012",
+      "de_DE": [
+        "Bist du ein Trainer?\n",
+        "Dann habe ich eine sehr nützliche\f",
+        "Telefonnummer für dich! Wie wär’s? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0586_00013",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Bills Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0586_00014",
+      "de_DE": [
+        "Mein großer Bruder Bill hat das\n",
+        "PC-Pokémon-Lagerungssystem\f",
+        "erfunden.\r",
+        "Ich hatte eigentlich vor, dir seine\n",
+        "Telefonnummer zu verraten..."
+      ]
+    },
+    {
+      "id": "msg_0586_00015",
+      "de_DE": [
+        "Wenn du meinen großen Bruder anrufst,\n",
+        "erklärt er dir etwas über die Boxen, in\f",
+        "denen du deine Pokémon lagern kannst!"
+      ]
+    }
+  ]
+}

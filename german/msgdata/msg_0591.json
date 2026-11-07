@@ -1,0 +1,87 @@
+{
+  "key": 25606,
+  "messages": [
+    {
+      "id": "msg_0591_00000",
+      "de_DE": [
+        "Hallo, hallo!\n",
+        "Ich bin der Namenbewerter. Ich bin\f",
+        "so eine Art Namensorakel!\r",
+        "Soll ich die Spitznamen deiner\n",
+        "Pokémon bewerten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0591_00001",
+      "de_DE": [
+        "Mal sehen...\n",
+        "Von welchem Pokémon darf\f",
+        "ich den Spitznamen bewerten?"
+      ]
+    },
+    {
+      "id": "msg_0591_00002",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}, stimmt’s?\n",
+        "Ein passender Spitzname!\r",
+        "Aber wollen wir ihm nicht einen noch viel\n",
+        "passenderen geben?\r",
+        "Wie sieht’s aus? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0591_00003",
+      "de_DE": [
+        "Sehr schön! Dann wollen wir mal\n",
+        "überlegen, wie es ab jetzt heißen soll.\r"
+      ]
+    },
+    {
+      "id": "msg_0591_00004",
+      "de_DE": [
+        "Was hältst du davon: Von nun an soll\n",
+        "dieses Pokémon {STRVAR_1 1, 0, 0} heißen!\r",
+        "Ein viel besserer Name als zuvor, oder?\n",
+        "Du bist echt ein Glückspilz!"
+      ]
+    },
+    {
+      "id": "msg_0591_00005",
+      "de_DE": [
+        "In Ordnung... ich sehe schon, du\n",
+        "möchtest beim alten Namen bleiben.\f",
+        "Aber komm wieder, wenn du’s dir anders\f",
+        "überlegen solltest!"
+      ]
+    },
+    {
+      "id": "msg_0591_00006",
+      "de_DE": [
+        "Alles klar! Von nun an heißt dein\n",
+        "Pokémon {STRVAR_1 1, 0, 0}!\r",
+        "Hm? So hieß es vorher auch schon?\n",
+        "Ach was, das bildest du dir nur ein!\r",
+        "Der neue Name passt eben wie die Faust\n",
+        "auf’s Auge. Sieh’s doch mal positiv!"
+      ]
+    },
+    {
+      "id": "msg_0591_00007",
+      "de_DE": [
+        "Oho!\n",
+        "{STRVAR_1 1, 0, 0} also...\r",
+        "Das ist ein fantastischer Spitzname!\n",
+        "Da kann man echt nicht meckern...\r",
+        "Also dann, kümmere dich auch weiter\n",
+        "gut um {STRVAR_1 1, 0, 0}, ja?"
+      ]
+    },
+    {
+      "id": "msg_0591_00008",
+      "de_DE": [
+        "Hoppla...\n",
+        "Aber das ist doch ein Ei!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "key": 17435,
+  "messages": [
+    {
+      "id": "msg_0025_00000",
+      "de_DE": [
+        "Warum kostümierst du dein\n",
+        "Pokémon nicht?\r",
+        "Im ersten Stock haben wir\n",
+        "eine Garderobe.\r",
+        "Schmücke dein Pokémon\n",
+        "mit hübschen Accessoires!"
+      ]
+    },
+    {
+      "id": "msg_0025_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0025_00002",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0025_00003",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0025_00004",
+      "de_DE": [
+        "Willkommen bei der Pokémon-Lotterie.\r",
+        "Ziehst du eine Nummer, die mit der\n",
+        "ID-Nummer eines deiner Pokémon\r",
+        "übereinstimmt, bekommst du einen\n",
+        "wunderbaren Preis.\r",
+        "Möchtest du einen Lottoschein ziehen?"
+      ]
+    },
+    {
+      "id": "msg_0025_00005",
+      "de_DE": [
+        "Du hast heute bereits einen Lottoschein\n",
+        "gezogen. Bitte komm morgen wieder."
+      ]
+    },
+    {
+      "id": "msg_0025_00006",
+      "de_DE": [
+        "Ach so.\n",
+        "Bitte beehre uns bald wieder."
+      ]
+    },
+    {
+      "id": "msg_0025_00007",
+      "de_DE": [
+        "Bitte, ziehe einen Lottoschein.\r",
+        "... ... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00008",
+      "de_DE": [
+        "Der Lottoschein hat die Nummer {STRVAR_1 54, 0}.\r",
+        "Ich muss diese Nummer jetzt prüfen,\n",
+        "um zu sehen, ob sie mit der ID-Nummer\f",
+        "eines deiner Pokémon übereinstimmt.\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00009",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\r",
+        "Die ID-Nummer deines {STRVAR_1 1, 0} im\n",
+        "Team stimmt ganz oder teilweise mit der\f",
+        "des Lottoscheins überein!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00010",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\r",
+        "Die ID-Nummer deines {STRVAR_1 1, 0} in\n",
+        "der Box des PCs stimmt teilweise oder\f",
+        "ganz mit der des Lottoscheins überein!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00011",
+      "de_DE": [
+        "Tut mir leid.\n",
+        "Keine der Nummern stimmt überein."
+      ]
+    },
+    {
+      "id": "msg_0025_00012",
+      "de_DE": [
+        "Eine Zahl stimmt überein. Daher darf ich\n",
+        "dir den vierten Preis überreichen!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00013",
+      "de_DE": [
+        "Du hast eine Kulisse erhalten, mit der\n",
+        "du eine Garderobe ausstatten kannst."
+      ]
+    },
+    {
+      "id": "msg_0025_00014",
+      "de_DE": [
+        "Die letzten zwei Ziffern stimmen überein,\n",
+        "daher bekommst du den dritten Preis!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00015",
+      "de_DE": [
+        "Die letzten drei Ziffern stimmen überein,\n",
+        "daher bekommst du den zweiten Preis!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00016",
+      "de_DE": [
+        "Die letzten vier Ziffern stimmen überein.\n",
+        "Du bekommst den ersten Preis!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00017",
+      "de_DE": [
+        "Meine Güte! Alle fünf Ziffern stimmen\n",
+        "überein!\r",
+        "Du hast den Jackpot geknackt!!!\n",
+        "Das ist einfach unglaublich!!!\r",
+        "...Oh, entschuldige. Natürlich... Dein\n",
+        "Preis! Ich war so begeistert, hä hä...\r",
+        "Hier, bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00018",
+      "de_DE": [
+        "Oh! Du scheinst keinen Platz\n",
+        "dafür zu haben.\r",
+        "Wenn du wieder Platz in deinem\n",
+        "Beutel hast, lass es mich wissen."
+      ]
+    },
+    {
+      "id": "msg_0025_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0}?\n",
+        "Ja, ich habe dich schon erwartet.\r",
+        "Diesen Preis habe ich für dich\n",
+        "aufbewahrt. Hier, bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00020",
+      "de_DE": "Bitte komm bald wieder."
+    },
+    {
+      "id": "msg_0025_00021",
+      "de_DE": [
+        "Sie zeichnen auf, wie viele Kämpfe in\n",
+        "Folge du gewonnen hast.\r",
+        "Und wie viele Pokémon du fangen\n",
+        "konntest. Und vieles mehr.\r",
+        "Im zweiten Stock kannst du dir deine\n",
+        "Aufzeichnungen ansehen und vielleicht\f",
+        "auch die anderer Trainer."
+      ]
+    },
+    {
+      "id": "msg_0025_00022",
+      "de_DE": [
+        "Ich werde bald Werbespots\n",
+        "im Fernsehen zeigen lassen.\r",
+        "Damit locke ich noch mehr\n",
+        "Kunden in mein Kaufhaus."
+      ]
+    },
+    {
+      "id": "msg_0025_00023",
+      "de_DE": [
+        "Die Trainer hier lieben das Kämpfen.\r",
+        "Früher wurde hier Karaoke\n",
+        "veranstaltet, heute finden hier\f",
+        "ausschließlich Kämpfe statt!"
+      ]
+    },
+    {
+      "id": "msg_0025_00024",
+      "de_DE": [
+        "Mehr als nur Gesang!\n",
+        "Mehr als nur Tanz!\r",
+        "Ich liebe Pokémon!\n",
+        "Sollen wir kämpfen?"
+      ]
+    },
+    {
+      "id": "msg_0025_00025",
+      "de_DE": [
+        "Ich nehme dich in meinen Fanclub auf,\n",
+        "wenn du mich besiegen kannst!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00026",
+      "de_DE": [
+        "Oh... Das ist herzzerreißend...\n",
+        "Ich bin doch auch ein Superstar..."
+      ]
+    },
+    {
+      "id": "msg_0025_00027",
+      "de_DE": [
+        "Nun, das sind wir. Meine Pokémon und\n",
+        "ich! Ich hoffe, du unterstützt uns!\r",
+        "Unsere neueste Single heißt übrigens\n",
+        "“Heißer Pokémon Wub”!"
+      ]
+    },
+    {
+      "id": "msg_0025_00028",
+      "de_DE": [
+        "Ich arbeite gerade an einer Geschichte.\n",
+        "Würdest du gegen mich antreten?"
+      ]
+    },
+    {
+      "id": "msg_0025_00029",
+      "de_DE": [
+        "Ich würde gerne eine\n",
+        "Live-Reportage mit dir machen!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00030",
+      "de_DE": [
+        "Unterstützung der Presse abgelehnt...\n",
+        "Dabei bietest du faszinierenden Stoff!"
+      ]
+    },
+    {
+      "id": "msg_0025_00031",
+      "de_DE": [
+        "Das A und O eines Interviews ist es, die\n",
+        "Initiative zu ergreifen."
+      ]
+    },
+    {
+      "id": "msg_0025_00032",
+      "de_DE": [
+        "Ich habe einen charismatischen\n",
+        "Trainer entdeckt! Darf ich aus dir\f",
+        "eine Sensationsmeldung machen?"
+      ]
+    },
+    {
+      "id": "msg_0025_00033",
+      "de_DE": [
+        "Ich bin ein professioneller Kameramann\n",
+        "und suche mir immer die besten Motive!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00034",
+      "de_DE": [
+        "Das ist eine Niederlage...\r",
+        "Ich hatte gehofft, einen Trainer und\n",
+        "ein Pokémon gefunden zu haben, die\f",
+        "im Scheinwerferlicht glänzen würden."
+      ]
+    },
+    {
+      "id": "msg_0025_00035",
+      "de_DE": [
+        "Diese lebendige Ausstrahlung von dir\n",
+        "und deinen Pokémon...\r",
+        "Ihr seid für das Fernsehen geboren!"
+      ]
+    },
+    {
+      "id": "msg_0025_00036",
+      "de_DE": [
+        "Sind wir bereit für einen Heidenspaß?\n",
+        "Ich bin es! Ist es nicht lustig?"
+      ]
+    },
+    {
+      "id": "msg_0025_00037",
+      "de_DE": [
+        "So, wie fangen wir das am besten an?\n",
+        "Sollen wir mit etwas Fantastischem\f",
+        "anfangen?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00038",
+      "de_DE": [
+        "Äh, wie sage ich das am besten...?\n",
+        "Es macht mich sehr einsam..."
+      ]
+    },
+    {
+      "id": "msg_0025_00039",
+      "de_DE": [
+        "Die Maske eines Clowns ist ein Gesicht,\n",
+        "das weint, während es lacht.\r",
+        "Das bringt unser Wesen auf den Punkt."
+      ]
+    },
+    {
+      "id": "msg_0025_00040",
+      "de_DE": [
+        "Zwei Pokémon! Hättest du nur zwei\n",
+        "Pokémon, könnten wir super\f",
+        "Aufnahmen machen!"
+      ]
+    },
+    {
+      "id": "msg_0025_00041",
+      "de_DE": [
+        "Oh! Du bist bereit, gegen\n",
+        "uns anzutreten?"
+      ]
+    },
+    {
+      "id": "msg_0025_00042",
+      "de_DE": [
+        "Du bist live auf Sendung, benimm dich\n",
+        "trotzdem ganz natürlich. Okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00043",
+      "de_DE": [
+        "Nun, es ist wie es ist.\n",
+        "Da kann man wohl nichts machen."
+      ]
+    },
+    {
+      "id": "msg_0025_00044",
+      "de_DE": [
+        "Ich würde das Filmmaterial zu gerne\n",
+        "nehmen und weltweit ausstrahlen."
+      ]
+    },
+    {
+      "id": "msg_0025_00045",
+      "de_DE": [
+        "Oh, nein. Wir möchten dich eigentlich mit\n",
+        "zwei Pokémon live und in Aktion sehen!"
+      ]
+    },
+    {
+      "id": "msg_0025_00046",
+      "de_DE": [
+        "Kicher!\n",
+        "Wirst du gegen uns antreten?"
+      ]
+    },
+    {
+      "id": "msg_0025_00047",
+      "de_DE": [
+        "Wir werden den Trainer in dir\n",
+        "gründlich überprüfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00048",
+      "de_DE": [
+        "Oh, das ist zu schade! Ich hätte so\n",
+        "gerne mal deine Pokémon gesehen!"
+      ]
+    },
+    {
+      "id": "msg_0025_00049",
+      "de_DE": [
+        "Ich habe verloren und bin\n",
+        "doch absolut begeistert!\r",
+        "Wir haben ein tolles\n",
+        "Spektakel veranstaltet!"
+      ]
+    },
+    {
+      "id": "msg_0025_00050",
+      "de_DE": [
+        "Po-po-pokémon!\r",
+        "Ich möchte wie ein PIKACHU werden!\n",
+        "Wirst du gegen mich antreten?"
+      ]
+    },
+    {
+      "id": "msg_0025_00051",
+      "de_DE": "Pi-Pikachu!\r"
+    },
+    {
+      "id": "msg_0025_00052",
+      "de_DE": "Pikachu!"
+    },
+    {
+      "id": "msg_0025_00053",
+      "de_DE": [
+        "Ich muss noch tiefer in den Charakter\n",
+        "eines Pokémon eintauchen..."
+      ]
+    },
+    {
+      "id": "msg_0025_00054",
+      "de_DE": [
+        "Komm, wir zeigen uns unsere Pokémon!\n",
+        "Lass uns kämpfen, Kindchen."
+      ]
+    },
+    {
+      "id": "msg_0025_00055",
+      "de_DE": [
+        "Dein Kampfgeist schwingt... Wie die\n",
+        "Saiten einer Gitarre!\r"
+      ]
+    },
+    {
+      "id": "msg_0025_00056",
+      "de_DE": [
+        "Ach, wie langweilig. Du darfst\n",
+        "dein Temperament nicht zügeln!"
+      ]
+    },
+    {
+      "id": "msg_0025_00057",
+      "de_DE": [
+        "In der Rockmusik geht es auch um Geist.\n",
+        "Genau wie im Kampf auch!\f",
+        "Daher ist ein Kampf wie Musik!"
+      ]
+    }
+  ]
+}

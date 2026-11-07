@@ -1,0 +1,930 @@
+{
+  "key": 5346,
+  "messages": [
+    {
+      "id": "msg_0274_00000",
+      "de_DE": [
+        "Willkommen!\r",
+        "Hier kannst du Pokémon\n",
+        "aus deiner PC-Box auswählen,\f",
+        "sie in den Pokéwalker übertragen\r",
+        "und dann gemeinsam mit ihnen\n",
+        "einen Ausflug machen!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00001",
+      "de_DE": [
+        "Wähle ein Pokémon, das mit\n",
+        "dir wandern gehen soll."
+      ]
+    },
+    {
+      "id": "msg_0274_00002",
+      "de_DE": [
+        "Empfange ausgeführtes \n",
+        "Pokémon oder Geschenke."
+      ]
+    },
+    {
+      "id": "msg_0274_00003",
+      "de_DE": [
+        "Achtung!\r",
+        "Diese Funktion löscht alle auf dem\n",
+        "Pokéwalker gespeicherten Daten.\f",
+        "Bitte überprüfe die auf dem Pokéwalker\f",
+        "vorhandenen Informationen,\f",
+        "bevor du sie löschst!\r",
+        "Mit dem Pokéwalker ausgeführte Pokémon\n",
+        "kehren zwar zu dir zurück,\r",
+        "andere Daten werden\n",
+        "jedoch unwiderruflich gelöscht.\r",
+        "Möchtest du dennoch mit\n",
+        "dem Löschen fortfahren?"
+      ]
+    },
+    {
+      "id": "msg_0274_00004",
+      "de_DE": [
+        "Daten auf dem Pokéwalker\n",
+        "werden gelöscht."
+      ]
+    },
+    {
+      "id": "msg_0274_00005",
+      "de_DE": [
+        "Auf die DS-Karte richten\n",
+        "und “VERBINDEN” wählen."
+      ]
+    },
+    {
+      "id": "msg_0274_00006",
+      "de_DE": [
+        "Verbinde mit Pokéwalker...\n",
+        "Bitte einen Moment Geduld."
+      ]
+    },
+    {
+      "id": "msg_0274_00007",
+      "de_DE": [
+        "Bitte richte den Pokéwalker\n",
+        "auf die DS-Karte,\r",
+        "drücke den Knopf und\n",
+        "warte 5 Sekunden lang."
+      ]
+    },
+    {
+      "id": "msg_0274_00008",
+      "de_DE": [
+        "Nimm deine Pokémon mit auf\n",
+        "einen Pokéwalker-Ausflug."
+      ]
+    },
+    {
+      "id": "msg_0274_00009",
+      "de_DE": [
+        "Soll die Schrittzahl aus dem\n",
+        "Pokéwalker ausgelesen werden?"
+      ]
+    },
+    {
+      "id": "msg_0274_00010",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0274_00011",
+      "de_DE": [
+        "Wähle ein Pokémon aus\n",
+        "einer deiner PC-Boxen.\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00012",
+      "de_DE": "Bitte wähle eine Route.\r"
+    },
+    {
+      "id": "msg_0274_00013",
+      "de_DE": [
+        "Spielstand wird gespeichert...\n",
+        "Bitte schalte das System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0274_00014",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0274_00015",
+      "de_DE": [
+        "Um den Pokéwalker zu benutzen,\n",
+        "benötigst du mindestens 5 freie Plätze\f",
+        "in deiner PC-Box.\r",
+        "Bitte komm wieder, sobald du\n",
+        "ausreichend Platz geschaffen hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00016",
+      "de_DE": [
+        "Bereite Übertragung zwischen Nintendo\n",
+        "DS-System und Pokéwalker vor... {PAUSE 90}"
+      ]
+    },
+    {
+      "id": "msg_0274_00017",
+      "garbage": 24
+    },
+    {
+      "id": "msg_0274_00018",
+      "de_DE": [
+        "Achtung!\r",
+        "Mit dem Pokéwalker\n",
+        "ausgeführte Pokémon\f",
+        "kehren zwar zu dir zurück,\r",
+        "andere Daten werden\n",
+        "jedoch unwiderruflich gelöscht.\r",
+        "Möchtest du dennoch mit\n",
+        "dem Löschen fortfahren?"
+      ]
+    },
+    {
+      "id": "msg_0274_00019",
+      "de_DE": [
+        "Ausgeführte Pokémon\n",
+        "werden zurückgeholt..."
+      ]
+    },
+    {
+      "id": "msg_0274_00020",
+      "de_DE": [
+        "Erhaltene Pokémon wurden wieder\n",
+        "in die Wildnis entlassen... {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00021",
+      "de_DE": [
+        "Möchtest du auf der Route\n",
+        "{STRVAR_34 19, 0, 0} wandern?"
+      ]
+    },
+    {
+      "id": "msg_0274_00022",
+      "de_DE": [
+        "Willkommen!\r",
+        "Hier kannst du Pokémon\n",
+        "aus deiner PC-Box auswählen,\f",
+        "sie in den Pokéwalker übertragen\r",
+        "und dann gemeinsam mit ihnen\n",
+        "einen Ausflug machen!\r",
+        "Bitte komm wieder,\n",
+        "wenn mindestens ein Pokémon\f",
+        "in deiner PC-Box ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00023",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0274_00024",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} wurde in den\n",
+        "Pokéwalker übertragen! {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00025",
+      "de_DE": [
+        "Dein Pokéwalker ist nun\n",
+        "auf diese DS-Karte registriert.\f",
+        "Bitte hole deine ausgeführten Pokémon\f",
+        "wieder auf dieselbe Karte zurück.\r",
+        "Und jetzt viel Spaß auf\n",
+        "eurem Ausflug!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00026",
+      "de_DE": "Komm zurück, {STRVAR_1 1, 1, 0}!"
+    },
+    {
+      "id": "msg_0274_00027",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist\n",
+        "angekommen!{PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00028",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0274_00029",
+      "de_DE": "Geschenk erhalten! {PAUSE 120}"
+    },
+    {
+      "id": "msg_0274_00030",
+      "garbage": 24
+    },
+    {
+      "id": "msg_0274_00031",
+      "de_DE": "Speicher wurde formatiert. {PAUSE 120}"
+    },
+    {
+      "id": "msg_0274_00032",
+      "de_DE": [
+        "Deine Pokémon sind von\n",
+        "dem Ausflug zurück! {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00033",
+      "de_DE": [
+        "Die Verbindung mit dem\n",
+        "Pokéwalker wurde beendet. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00034",
+      "de_DE": [
+        "Dieser Pokéwalker wurde\n",
+        "bereits registriert. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00035",
+      "de_DE": [
+        "Die Verbindung\n",
+        "ist fehlgeschlagen. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00036",
+      "de_DE": [
+        "Dieser Pokéwalker wurde\n",
+        "noch nicht registriert. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00037",
+      "de_DE": [
+        "Dieser Pokéwalker enthält\n",
+        "bereits Pokémon. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00038",
+      "de_DE": [
+        "Dies ist nicht der Pokéwalker, der\n",
+        "auf dieser DS-Karte registriert wurde. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00039",
+      "de_DE": [
+        "Dies ist nicht der Pokéwalker, der\n",
+        "auf dieser DS-Karte registriert wurde. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00040",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0274_00041",
+      "de_DE": [
+        "Verbindung mit Pokéwalker\n",
+        "wurde beendet. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00042",
+      "de_DE": [
+        "Die Verbindung wurde unterbrochen.\n",
+        "Bitte versuche es noch einmal. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00043",
+      "de_DE": [
+        "Dieser Pokéwalker enthält\n",
+        "keine Pokémon. {PAUSE 120}"
+      ]
+    },
+    {
+      "id": "msg_0274_00044",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist aus\n",
+        "{STRVAR_34 19, 2, 0} angekommen!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00045",
+      "de_DE": [
+        "Es hat auf seinem Ausflug\n",
+        "{STRVAR_1 54, 3, 0} Watt gesammelt!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00046",
+      "de_DE": [
+        "Gehe bald mal wieder auf Erkundungs-\n",
+        "tour. Es gibt noch viel zu entdecken!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00047",
+      "de_DE": [
+        "Lege Pokémon in deinem Pokéwalker ab\n",
+        "und wandere mit ihnen durch die Welt!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00048",
+      "de_DE": [
+        "... ... ... ... ... ...\n",
+        "Huch?\r",
+        "Der Pokéwalker reagiert\n",
+        "auf deine angesammelten Watt.\r",
+        "Du hast eine neue\n",
+        "Route entdeckt!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00049",
+      "de_DE": [
+        "Alle mitgenommenen Pokémon wurden\n",
+        "in der Box deines PCs verstaut.\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00050",
+      "de_DE": [
+        "Du verstaust alle gefundenen\n",
+        "Items in deinem Beutel.\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00051",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} ist {STRVAR_1 56, 3, 0} Schritte\n",
+        "gelaufen!"
+      ]
+    },
+    {
+      "id": "msg_0274_00052",
+      "de_DE": [
+        "{STRVAR_1 1, 1, 0} hat beim Laufen\n",
+        "ein Level dazugewonnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00053",
+      "de_DE": [
+        "Glückwunsch!\r",
+        "Du bist 9 999 999 Schritte \n",
+        "mit dem Pokéwalker gelaufen!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00054",
+      "de_DE": [
+        "Du erhältst eine\n",
+        "Krambobeere als Belohnung!\r",
+        "Du verstaust sie in deinem Beutel.\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00055",
+      "de_DE": [
+        "Du kannst jetzt auch die Route\n",
+        "{STRVAR_34 19, 4, 0} entlangwandern!\r"
+      ]
+    },
+    {
+      "id": "msg_0274_00056",
+      "de_DE": "Rt. {STRVAR_34 19, 2, 0}:"
+    },
+    {
+      "id": "msg_0274_00057",
+      "de_DE": "{STRVAR_1 56, 5, 0} Schritte getan"
+    },
+    {
+      "id": "msg_0274_00058",
+      "de_DE": "und {STRVAR_1 54, 3, 0} W gesammelt."
+    },
+    {
+      "id": "msg_0274_00059",
+      "de_DE": "Bisher gelaufene Schritte:"
+    },
+    {
+      "id": "msg_0274_00060",
+      "de_DE": "{STRVAR_1 56, 6, 0}"
+    },
+    {
+      "id": "msg_0274_00061",
+      "de_DE": "Bisher gesammelte Watt:"
+    },
+    {
+      "id": "msg_0274_00062",
+      "de_DE": "{STRVAR_1 56, 7, 0} W"
+    },
+    {
+      "id": "msg_0274_00063",
+      "de_DE": "Ergebnisse deines Ausflugs:"
+    },
+    {
+      "id": "msg_0274_00064",
+      "de_DE": "Erhaltene Geschenke:"
+    },
+    {
+      "id": "msg_0274_00065",
+      "de_DE": "Pokéwalker Statistik:"
+    },
+    {
+      "id": "msg_0274_00066",
+      "de_DE": "Mitgenommene Pokémon:"
+    },
+    {
+      "id": "msg_0274_00067",
+      "de_DE": "{STRVAR_1 0, 8, 0}"
+    },
+    {
+      "id": "msg_0274_00068",
+      "de_DE": "{STRVAR_1 0, 9, 0}"
+    },
+    {
+      "id": "msg_0274_00069",
+      "de_DE": "{STRVAR_1 0, 10, 0}"
+    },
+    {
+      "id": "msg_0274_00070",
+      "de_DE": "{STRVAR_1 0, 11, 0}"
+    },
+    {
+      "id": "msg_0274_00071",
+      "de_DE": "Gefundene Items"
+    },
+    {
+      "id": "msg_0274_00072",
+      "de_DE": "{STRVAR_1 8, 9, 0}"
+    },
+    {
+      "id": "msg_0274_00073",
+      "de_DE": "Einen Ausflug machen"
+    },
+    {
+      "id": "msg_0274_00074",
+      "de_DE": "Geschenk annehmen"
+    },
+    {
+      "id": "msg_0274_00075",
+      "de_DE": "Pokémon zurückrufen"
+    },
+    {
+      "id": "msg_0274_00076",
+      "de_DE": "Pokéwalker-Daten löschen"
+    },
+    {
+      "id": "msg_0274_00077",
+      "de_DE": "Speichern und loswandern"
+    },
+    {
+      "id": "msg_0274_00078",
+      "de_DE": "Pokémon nach Hause schicken"
+    },
+    {
+      "id": "msg_0274_00079",
+      "de_DE": "{ALN_CENTER}Zurück"
+    },
+    {
+      "id": "msg_0274_00080",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0274_00081",
+      "de_DE": "S. {STRVAR_1 50, 10, 0}／{STRVAR_1 50, 11, 0}"
+    },
+    {
+      "id": "msg_0274_00082",
+      "de_DE": "Gesammelte Watt"
+    },
+    {
+      "id": "msg_0274_00083",
+      "de_DE": "{STRVAR_1 56, 7, 0} W"
+    },
+    {
+      "id": "msg_0274_00084",
+      "de_DE": "{STRVAR_1 56, 6, 0} S."
+    },
+    {
+      "id": "msg_0274_00085",
+      "de_DE": "Schrittzahl"
+    },
+    {
+      "id": "msg_0274_00086",
+      "de_DE": [
+        "Du benötigst noch {STRVAR_1 56, 12, 0} Watt, um die\n",
+        "nächste Wanderroute zu finden."
+      ]
+    },
+    {
+      "id": "msg_0274_00087",
+      "de_DE": [
+        "Du stehst kurz vor der Entdeckung\n",
+        "einer neuen Route."
+      ]
+    },
+    {
+      "id": "msg_0274_00088",
+      "de_DE": [
+        "Dir steht nun eine reichliche\n",
+        "Auswahl an Routen zur Verfügung."
+      ]
+    },
+    {
+      "id": "msg_0274_00089",
+      "de_DE": [
+        "{STRVAR_1 1, 13, 0} ist\n",
+        "schon unterwegs"
+      ]
+    },
+    {
+      "id": "msg_0274_00090",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0274_00091",
+      "de_DE": "Sattgrüne Wiese"
+    },
+    {
+      "id": "msg_0274_00092",
+      "de_DE": "Lauschiger Wald"
+    },
+    {
+      "id": "msg_0274_00093",
+      "de_DE": "Holpriger Pfad"
+    },
+    {
+      "id": "msg_0274_00094",
+      "de_DE": "Malerische Küste"
+    },
+    {
+      "id": "msg_0274_00095",
+      "de_DE": "Wohngebiet"
+    },
+    {
+      "id": "msg_0274_00096",
+      "de_DE": "Finstere Höhle"
+    },
+    {
+      "id": "msg_0274_00097",
+      "de_DE": "Tiefblauer See"
+    },
+    {
+      "id": "msg_0274_00098",
+      "de_DE": "Stadtrand"
+    },
+    {
+      "id": "msg_0274_00099",
+      "de_DE": "Ebene von Hoenn"
+    },
+    {
+      "id": "msg_0274_00100",
+      "de_DE": "Sonniger Strand"
+    },
+    {
+      "id": "msg_0274_00101",
+      "de_DE": "Vulkanpfad"
+    },
+    {
+      "id": "msg_0274_00102",
+      "de_DE": "Baumhaus"
+    },
+    {
+      "id": "msg_0274_00103",
+      "de_DE": "Gruselhöhle"
+    },
+    {
+      "id": "msg_0274_00104",
+      "de_DE": "Ebene von Sinnoh"
+    },
+    {
+      "id": "msg_0274_00105",
+      "de_DE": "Eisiger Bergpfad"
+    },
+    {
+      "id": "msg_0274_00106",
+      "de_DE": "Tiefer Wald"
+    },
+    {
+      "id": "msg_0274_00107",
+      "de_DE": "Silberner See"
+    },
+    {
+      "id": "msg_0274_00108",
+      "de_DE": "Stürmische Küste"
+    },
+    {
+      "id": "msg_0274_00109",
+      "de_DE": "Ferienpark"
+    },
+    {
+      "id": "msg_0274_00110",
+      "de_DE": "Stille Höhle"
+    },
+    {
+      "id": "msg_0274_00111",
+      "de_DE": "Ferne Ufer"
+    },
+    {
+      "id": "msg_0274_00112",
+      "de_DE": "Himmelsrand"
+    },
+    {
+      "id": "msg_0274_00113",
+      "de_DE": "Goldgelber Wald"
+    },
+    {
+      "id": "msg_0274_00114",
+      "de_DE": "Rallye"
+    },
+    {
+      "id": "msg_0274_00115",
+      "de_DE": "Spaziergang"
+    },
+    {
+      "id": "msg_0274_00116",
+      "de_DE": "Siegerstraße"
+    },
+    {
+      "id": "msg_0274_00117",
+      "de_DE": "Wiese der Treue"
+    },
+    {
+      "id": "msg_0274_00118",
+      "de_DE": "--------------"
+    },
+    {
+      "id": "msg_0274_00119",
+      "de_DE": [
+        "Eine sattgrüne Wiese, wie\n",
+        "gemacht für einen Ausflug. Hier\n",
+        "findest du allerlei Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00120",
+      "de_DE": [
+        "Ein großer, naturbelassener\n",
+        "Wald. Unter den hohen Wipfeln\n",
+        "hausen viele Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00121",
+      "de_DE": [
+        "Ein holpriger Bergpfad mit vielen\n",
+        "steilen Strecken. Von hoch oben\n",
+        "hat man eine tolle Aussicht."
+      ]
+    },
+    {
+      "id": "msg_0274_00122",
+      "de_DE": [
+        "Ihre Schönheit macht sie als\n",
+        "Ausflugsziel sehr beliebt. Hier\n",
+        "triffst du viele Wasser-Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00123",
+      "de_DE": [
+        "Du wirst erstaunt sein, wie viele\n",
+        "Pokémon sich in einem typischen\n",
+        "Wohngebiet aufstöbern lassen!"
+      ]
+    },
+    {
+      "id": "msg_0274_00124",
+      "de_DE": [
+        "Ein aufmerksamer Wanderer\n",
+        "entdeckt auch in dunklen Höhlen\n",
+        "Pokémon! Bist du mutig genug?"
+      ]
+    },
+    {
+      "id": "msg_0274_00125",
+      "de_DE": [
+        "Ein See mit tiefblauem Wasser.\n",
+        "Es heißt, auf seinem Grund leben\n",
+        "viele seltene Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00126",
+      "de_DE": [
+        "Wo die Menschen der Vorstadt\n",
+        "den Rücken kehrten, bietet sie\n",
+        "Pokémon ein neues Zuhause."
+      ]
+    },
+    {
+      "id": "msg_0274_00127",
+      "de_DE": [
+        "Diese Route führt dich bis in die\n",
+        "weit entfernte Hoenn-Region\n",
+        "voller exotischer Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0274_00128",
+      "de_DE": [
+        "Irgendwo in Hoenn liegt dieser\n",
+        "sonnige Strand. Auf ihm tummeln\n",
+        "sich viele unbekannte Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00129",
+      "de_DE": [
+        "Dieser Pfad führt an einem\n",
+        "aktiven Vulkan vorbei. Seine\n",
+        "Hitze zieht seltene Pokémon an."
+      ]
+    },
+    {
+      "id": "msg_0274_00130",
+      "de_DE": [
+        "Ein Teil des Waldes wurde im Ein-\n",
+        "klang mit der Natur gestaltet.\n",
+        "Hier leben besondere Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00131",
+      "de_DE": [
+        "Aus der Finsternis dieser Höhle\n",
+        "ertönt ein fernes Geräusch. Man\n",
+        "sagt, hier lebten viele Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00132",
+      "de_DE": [
+        "Hier kannst du die ferne Sinnoh-\n",
+        "Region erkunden und dort viele\n",
+        "seltene Pokémon fangen."
+      ]
+    },
+    {
+      "id": "msg_0274_00133",
+      "de_DE": [
+        "Eine Tour auf diesem steilen,\n",
+        "schneeverwehten Pfad testet\n",
+        "das Vertrauen deiner Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0274_00134",
+      "de_DE": [
+        "Ein Wald voller riesiger,\n",
+        "uralter Bäume. Er beherbergt\n",
+        "zahlreiche Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00135",
+      "de_DE": [
+        "Dieser See ist stets von dichtem\n",
+        "weißen Nebel umgeben, was ihm\n",
+        "eine mystische Aura verleiht."
+      ]
+    },
+    {
+      "id": "msg_0274_00136",
+      "de_DE": [
+        "Seltene Pokémon lieben diesen\n",
+        "von Wellenbrechern gebeutelten,\n",
+        "abgeschiedenen Küstenstreifen."
+      ]
+    },
+    {
+      "id": "msg_0274_00137",
+      "de_DE": [
+        "Ein Ferienziel nur für die oberen\n",
+        "Zehntausend, berühmt wegen der\n",
+        "vielen zuckersüßen Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00138",
+      "de_DE": [
+        "In dieser menschenleeren\n",
+        "Höhle entdeckt das geschulte\n",
+        "Auge viele seltene Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0274_00139",
+      "de_DE": [
+        "Weit über dem Meer liegt diese\n",
+        "winzige Insel, auf deren schönen\n",
+        "Stränden sich Pokémon tummeln."
+      ]
+    },
+    {
+      "id": "msg_0274_00140",
+      "de_DE": [
+        "Eine Wanderung auf dem nacht-\n",
+        "schwarzen Bergpfad ist wie eine\n",
+        "Reise in eine vergangene Zeit."
+      ]
+    },
+    {
+      "id": "msg_0274_00141",
+      "de_DE": [
+        "In diesem Wald lebt eine große\n",
+        "Menge PIKACHU miteinander.\n",
+        "Versuche mal, ob du alle findest."
+      ]
+    },
+    {
+      "id": "msg_0274_00142",
+      "de_DE": [
+        "Eine vielseitige Route, die zum\n",
+        "gemütlichen Schlendern mit\n",
+        "dem Pokéwalker einlädt."
+      ]
+    },
+    {
+      "id": "msg_0274_00143",
+      "de_DE": [
+        "Auf dieser Route gibt es viele\n",
+        "Pokémon. Mach dich auf und\n",
+        "schau, ob du sie alle findest!"
+      ]
+    },
+    {
+      "id": "msg_0274_00144",
+      "de_DE": [
+        "Jeder angehende Champ sollte\n",
+        "diese Straße einmal erkunden und\n",
+        "sich dort behauptet haben!"
+      ]
+    },
+    {
+      "id": "msg_0274_00145",
+      "de_DE": [
+        "Die Pokémon hier entwickeln sich\n",
+        "nur bei hohem Freundschaftwert.\n",
+        "Finde auch die nützlichen Items!"
+      ]
+    },
+    {
+      "id": "msg_0274_00146",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0274_00147",
+      "garbage": 44
+    },
+    {
+      "id": "msg_0274_00148",
+      "de_DE": "{ALN_CENTER}Ja"
+    },
+    {
+      "id": "msg_0274_00149",
+      "de_DE": "{ALN_CENTER}Nein"
+    },
+    {
+      "id": "msg_0274_00150",
+      "de_DE": "{ALN_CENTER}Schrittzahl belassen"
+    },
+    {
+      "id": "msg_0274_00151",
+      "de_DE": "{ALN_CENTER}Schrittzahl löschen"
+    },
+    {
+      "id": "msg_0274_00152",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0274_00153",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0274_00154",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0274_00155",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0274_00156",
+      "garbage": 14
+    }
+  ]
+}

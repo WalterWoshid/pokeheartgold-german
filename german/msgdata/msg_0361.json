@@ -1,0 +1,149 @@
+{
+  "key": 21575,
+  "messages": [
+    {
+      "id": "msg_0361_00000",
+      "de_DE": [
+        "Hier dürfen nur Trainer,\n",
+        "die sich als würdig erwiesen\f",
+        "haben, passieren!\r",
+        "Oh!\n",
+        "Das sind ja alle acht Orden von Johto!\f",
+        "Hier, bitte! Du darfst durch!"
+      ]
+    },
+    {
+      "id": "msg_0361_00001",
+      "de_DE": [
+        "Dieser Weg führt zum Silberberg.\n",
+        "Hier werden dir beängstigend\f",
+        "starke Pokémon begegnen.\r",
+        "Du solltest...\n",
+        "umkehren, solange du noch kannst."
+      ]
+    },
+    {
+      "id": "msg_0361_00002",
+      "de_DE": [
+        "Einen Augenblick!\r",
+        "Dieser Weg führt zum Silberberg.\n",
+        "Hier werden dir beängstigend\f",
+        "starke Pokémon begegnen.\r",
+        "Du solltest...\n",
+        "umkehren, solange du noch kannst.\r"
+      ]
+    },
+    {
+      "id": "msg_0361_00003",
+      "de_DE": [
+        "Dieser Weg führt zum Silberberg.\r",
+        "Hier werden dir beängstigend\n",
+        "starke Pokémon begegnen.\r",
+        "Du brauchst dir sicher keine Sorgen zu\n",
+        "machen, aber sei trotzdem auf der Hut!"
+      ]
+    },
+    {
+      "id": "msg_0361_00004",
+      "de_DE": [
+        "Was hast du vor?\n",
+        "Hier lang geht es nach Kanto...\f",
+        "Aber diesen Weg kannst du im\f",
+        "Augenblick nicht nehmen."
+      ]
+    },
+    {
+      "id": "msg_0361_00005",
+      "de_DE": [
+        "Einen Augenblick!\r",
+        "Hier lang geht es nach Kanto...\n",
+        "Aber diesen Weg kannst du im\f",
+        "Augenblick nicht nehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0361_00006",
+      "de_DE": [
+        "Westlich geht es zum Silberberg, und\n",
+        "östlich geht es nach Kanto.\r",
+        "Wenn du dich an den Top Vier versuchen\n",
+        "willst, musst du nördlich gehen!\r",
+        "Oh, aber entschuldige!\n",
+        "Jemand wie du, der den Champ besiegt\f",
+        "hat, weiß das natürlich schon!"
+      ]
+    },
+    {
+      "id": "msg_0361_00007",
+      "de_DE": [
+        "Janina: Ich bin gerade unterwegs, um\n",
+        "Vater sein Abendessen zu bringen.\r",
+        "Gehört man erst mal zu den Top Vier,\n",
+        "hat man Tag und Nacht jede Menge\f",
+        "um die Ohren!\r",
+        "Ach ja! Wollen wir Telefonnummern\n",
+        "austauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0361_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Janinas Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0361_00009",
+      "de_DE": [
+        "Janina: Wenn du mit mir kämpfen willst,\n",
+        "dann rufe am Montagabend bei mir an!"
+      ]
+    },
+    {
+      "id": "msg_0361_00010",
+      "de_DE": [
+        "Janina: Dass du so eine ängstliche Natur\n",
+        "bist, sieht man dir gar nicht an!"
+      ]
+    },
+    {
+      "id": "msg_0361_00011",
+      "de_DE": [
+        "Janina: Na, willst du jetzt doch\n",
+        "meine Telefonnummer wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0361_00012",
+      "de_DE": [
+        "Janina: Ich habe Vater sein Abendessen\n",
+        "gebracht und bin auf dem Heimweg.\f",
+        "Knipsen wir zusammen ein Foto? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0361_00013",
+      "de_DE": [
+        "Janina: Los, nimm eine coole\n",
+        "Pose ein, genau wie ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0361_00014",
+      "de_DE": "Janina: Ist ein schönes Bild geworden!"
+    },
+    {
+      "id": "msg_0361_00015",
+      "de_DE": "Janina: Oh, du willst nicht? Schade!"
+    },
+    {
+      "id": "msg_0361_00016",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

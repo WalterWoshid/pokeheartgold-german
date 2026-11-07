@@ -1,0 +1,100 @@
+{
+  "key": 62676,
+  "messages": [
+    {
+      "id": "msg_0713_00000",
+      "de_DE": "Bodo"
+    },
+    {
+      "id": "msg_0713_00001",
+      "de_DE": [
+        "Wollen wir noch mal kämpfen, wenn\n",
+        "unsere Pokémon besser trainiert sind?\r",
+        "Wenn ja, sollten wir wohl Telefon-\n",
+        "nummern tauschen. Was sagst du? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0713_00002",
+      "de_DE": [
+        "Cool!\n",
+        "Wir bleiben in Verbindung!"
+      ]
+    },
+    {
+      "id": "msg_0713_00003",
+      "de_DE": [
+        "Du denkst wohl, du hättest gegen\n",
+        "mich keine Schnitte, was?"
+      ]
+    },
+    {
+      "id": "msg_0713_00004",
+      "de_DE": [
+        "Wie? Oh, möchtest du meine Nummer\n",
+        "jetzt doch registrieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0713_00005",
+      "de_DE": [
+        "Ist das Einbildung, oder klingt deine\n",
+        "Stimme lauter als sonst? Kann es sein...\f",
+        "...dass du gerade nicht weit weg bist?"
+      ]
+    },
+    {
+      "id": "msg_0713_00006",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wird mir wirklich von\n",
+        "Tag zu Tag ähnlicher - und mit jedem Tag\f",
+        "habe ich es ein Stückchen lieber!\r",
+        "Aber nicht nur das! Es ist inzwischen\n",
+        "so stark, dass es ein {STRVAR_1 0, 11, 0}\f",
+        "spielend leicht in die Tasche steckt!\r",
+        "Vielleicht sollte ich auch die Leiterin\n",
+        "von Dukatia City herausfordern?\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0713_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wird mir wirklich von\n",
+        "Tag zu Tag ähnlicher - und mit jedem Tag\f",
+        "habe ich es ein Stückchen lieber!\r",
+        "Neulich, da habe ich sogar nur ganz\n",
+        "knapp gegen ein {STRVAR_1 0, 11, 0} verloren.\r",
+        "Der Level meines Pokémon ist wohl\n",
+        "noch nicht hoch genug.\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0713_00008",
+      "de_DE": [
+        "Du musst doch jetzt viel besser sein!\n",
+        "Warum zeigst du mir nicht deine Technik\f",
+        "in einem richtigen Kampf?\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0713_00009",
+      "de_DE": [
+        "Wo bleibst du denn?\n",
+        "Lass uns bald kämpfen!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0713_00010",
+      "de_DE": [
+        "Hallo!\r",
+        "Im 5. Stock des Einkaufszentrums von\n",
+        "Dukatia City kann man Lose ziehen!\f",
+        "Das ist irre spannend!"
+      ]
+    }
+  ]
+}

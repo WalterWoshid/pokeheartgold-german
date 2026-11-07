@@ -1,0 +1,113 @@
+{
+  "key": 15832,
+  "messages": [
+    {
+      "id": "msg_0672_00000",
+      "de_DE": "Nanette"
+    },
+    {
+      "id": "msg_0672_00001",
+      "de_DE": [
+        "Diese Niederlage war ein schwerer\n",
+        "Schlag für mich.\f",
+        "Ich muss mich noch mehr anstrengen...\r",
+        "Ich gebe dir meine Telefonnummer.\n",
+        "Ich bin Nanette, und du wirst noch\f",
+        "einmal gegen mich kämpfen! Klar? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0672_00002",
+      "de_DE": [
+        "Ruf mich an, wenn dir nach einer\n",
+        "neuen Herausforderung ist!"
+      ]
+    },
+    {
+      "id": "msg_0672_00003",
+      "de_DE": [
+        "Waaas? Nein, wie kaltschnäuzig!\n",
+        "Auch gut. Solltest du deine Meinung\f",
+        "ändern, suche nach Nanette."
+      ]
+    },
+    {
+      "id": "msg_0672_00004",
+      "de_DE": [
+        "Ich wusste, du würdest wieder-\n",
+        "kommen! Tauschen wir Nummern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0672_00005",
+      "de_DE": [
+        "Menno! Schon wieder verloren!\n",
+        "Wie oft soll ich denn noch verlieren?\r",
+        "Dennoch danke, dass du gekommen bist.\n",
+        "Das hier schenke ich dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0672_00006",
+      "de_DE": [
+        "Was hast du denn?\n",
+        "Rufst mich aus ein paar Metern\f",
+        "Entfernung an! Hast du Angst vor mir?\f",
+        "Komm doch her zu mir."
+      ]
+    },
+    {
+      "id": "msg_0672_00007",
+      "de_DE": [
+        "Meine {STRVAR_1 0, 10, 0} sind schon\n",
+        "viel stärker als beim letzten Mal!\r",
+        "Mach’s gu-hut!"
+      ]
+    },
+    {
+      "id": "msg_0672_00008",
+      "de_DE": [
+        "Du-huuu?\r",
+        "Ich habe eben gegen ein {STRVAR_1 0, 11, 0}\n",
+        "gekämpft und gewonnen!\r",
+        "Du siehst, meine Trainingsmethoden\n",
+        "haben es in sich!\r",
+        "Bis da-hann!"
+      ]
+    },
+    {
+      "id": "msg_0672_00009",
+      "de_DE": [
+        "Du-huuu?\r",
+        "Mir ist schon wieder ein {STRVAR_1 0, 11, 0}\n",
+        "entwischt...\f",
+        "Ich HASSE es, wenn das passiert!\r",
+        "Bis da-hann!"
+      ]
+    },
+    {
+      "id": "msg_0672_00010",
+      "de_DE": [
+        "Na? Was hältst du von einem Kampf\n",
+        "gegen die große Nanette?\f",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0672_00011",
+      "de_DE": [
+        "He, {STRVAR_1 3, 0, 0}, du Schlafmütze!\n",
+        "Komm her und stell dich Nanette!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0672_00012",
+      "de_DE": [
+        "Mein neues Pokémon-Team ist\n",
+        "äußerst vielversprechend!\r",
+        "Bis zu unserem nächsten Kampf!"
+      ]
+    }
+  ]
+}

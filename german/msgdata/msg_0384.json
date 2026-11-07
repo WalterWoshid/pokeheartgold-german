@@ -1,0 +1,296 @@
+{
+  "key": 19215,
+  "messages": [
+    {
+      "id": "msg_0384_00000",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0384_00001",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0384_00002",
+      "garbage": 48
+    },
+    {
+      "id": "msg_0384_00003",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0384_00004",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0384_00005",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0384_00006",
+      "garbage": 34
+    },
+    {
+      "id": "msg_0384_00007",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0384_00008",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0384_00009",
+      "garbage": 36
+    },
+    {
+      "id": "msg_0384_00010",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0384_00011",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0384_00012",
+      "garbage": 42
+    },
+    {
+      "id": "msg_0384_00013",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0384_00014",
+      "garbage": 43
+    },
+    {
+      "id": "msg_0384_00015",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0384_00016",
+      "garbage": 32
+    },
+    {
+      "id": "msg_0384_00017",
+      "garbage": 46
+    },
+    {
+      "id": "msg_0384_00018",
+      "de_DE": [
+        "Ich bin auf der Suche nach\n",
+        "verdächtigen Individuen."
+      ]
+    },
+    {
+      "id": "msg_0384_00019",
+      "de_DE": [
+        "Lola: Hey, Augenblick mal!\n",
+        "Wer bist du?!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00020",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0384_00021",
+      "de_DE": [
+        "Lola: Meine ältere Schwester wird\n",
+        "mich schon rächen!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00022",
+      "de_DE": [
+        "Lola: Meine ältere Schwester wird\n",
+        "mich schon rächen!"
+      ]
+    },
+    {
+      "id": "msg_0384_00023",
+      "de_DE": [
+        "Lola: Wie hast du diesen Ort gefunden?\n",
+        "Das hier ist unser Geheimversteck!"
+      ]
+    },
+    {
+      "id": "msg_0384_00024",
+      "de_DE": [
+        "Else: Hey, Augenblick mal!\n",
+        "Was willst du hier?!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00025",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0384_00026",
+      "de_DE": [
+        "Else: Du passt besser auf, was du tust!\n",
+        "Meine Schwester ist echt stark!"
+      ]
+    },
+    {
+      "id": "msg_0384_00027",
+      "de_DE": [
+        "Else: Lass uns bei der Gelegenheit\n",
+        "doch gleich Freunde werden!"
+      ]
+    },
+    {
+      "id": "msg_0384_00028",
+      "de_DE": [
+        "Edna: Du warst gemein zu\n",
+        "meinen kleinen Schwestern!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00029",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0384_00030",
+      "de_DE": [
+        "Edna: Du bist zu stark. Ich hatte\n",
+        "keine Chance.\r",
+        "Hier. Das hast du dir verdient.\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00031",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0384_00032",
+      "de_DE": [
+        "Edna: Tut mir leid, dass ich dich aus\n",
+        "heiterem Himmel angegriffen habe.\r",
+        "Ich dachte eigentlich, wir wären hier\n",
+        "unter uns, und bin deshalb ein\f",
+        "bisschen erschrocken."
+      ]
+    },
+    {
+      "id": "msg_0384_00033",
+      "de_DE": [
+        "Route 34\n",
+        "Südlich nach Azalea City"
+      ]
+    },
+    {
+      "id": "msg_0384_00034",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Der Radioturm von Dukatia City im Norden\n",
+        "veranstaltet gerade eine Sonderaktion!\r",
+        "Wer die Quiz-Fragen richtig beantworten\n",
+        "kann, bekommt dafür ein Radio-Modul!"
+      ]
+    },
+    {
+      "id": "msg_0384_00035",
+      "de_DE": [
+        "Pension\n",
+        "Wir ziehen deine Pokémon für dich auf!"
+      ]
+    },
+    {
+      "id": "msg_0384_00036",
+      "de_DE": "Lyra: Ooopaaa!\r"
+    },
+    {
+      "id": "msg_0384_00037",
+      "de_DE": [
+        "Lyra: Bist du mit der Arbeit fertig?\n",
+        "Das Pokémon, das du mir gegeben\f",
+        "hast, ist gesund und munter!\r",
+        "Du scheinst auch echt fit zu sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00038",
+      "de_DE": "Lyra: Oh, {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0384_00039",
+      "de_DE": [
+        "Ich will dir jemanden vorstellen!\n",
+        "Das hier ist {STRVAR_1 3, 0, 0}, ein Trainer!\r",
+        "Ich glaube, er hat großes Talent!\n",
+        "Aber du bist natürlich viel besser!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00040",
+      "de_DE": "Komm mit, {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0384_00041",
+      "de_DE": "Klarin: Ooopaaa!\r"
+    },
+    {
+      "id": "msg_0384_00042",
+      "de_DE": [
+        "Klarin: Vielen Dank für alles!\n",
+        "Das Pokémon, das du mir gegeben\f",
+        "hast, ist gesund und munter!\r",
+        "Du scheinst auch echt fit zu sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00043",
+      "de_DE": "Klarin: Oh, {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0384_00044",
+      "de_DE": [
+        "Ich will dir jemanden vorstellen!\n",
+        "Das ist {STRVAR_1 3, 0, 0}, eine Trainerin!\r",
+        "Ich glaube, sie hat großes Talent!\n",
+        "Aber du bist natürlich viel besser!\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00045",
+      "de_DE": "Komm mal eben mit, {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0384_00046",
+      "de_DE": [
+        "Oh, ich habe eine Idee! Soll ich\n",
+        "dir vielleicht die Telefonnummern\f",
+        "von meiner Frau und mir geben?\r",
+        "Auf die Weise kannst du dich immer mal\n",
+        "wieder danach erkundigen, was deine\f",
+        "Pokémon so machen.\f",
+        "Ich geb sie dir einfach mal.\r"
+      ]
+    },
+    {
+      "id": "msg_0384_00047",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat die Nummer des\n",
+        "Pensionsleiters im Pokécom\f",
+        "registriert!"
+      ]
+    },
+    {
+      "id": "msg_0384_00048",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat die Nummer der\n",
+        "Pensionsleiterin im Pokécom\f",
+        "registriert!"
+      ]
+    },
+    {
+      "id": "msg_0384_00049",
+      "de_DE": [
+        "Rufe uns ab und zu mal an, wenn du\n",
+        "Pokémon bei uns abgegeben hast!\r",
+        "Wir sind froh, dass uns unser Enkelkind\n",
+        "diesen Pokécom geschenkt hat.\f",
+        "Es ist ein sehr praktisches Gerät!\r"
+      ]
+    }
+  ]
+}

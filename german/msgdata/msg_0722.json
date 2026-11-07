@@ -1,0 +1,813 @@
+{
+  "key": 26692,
+  "messages": [
+    {
+      "id": "msg_0722_00000",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0722_00001",
+      "de_DE": [
+        "Hilft, wilde Pokémon\n",
+        "fernzuhalten."
+      ]
+    },
+    {
+      "id": "msg_0722_00002",
+      "de_DE": [
+        "Ruft im Kampf\n",
+        "Regen herbei."
+      ]
+    },
+    {
+      "id": "msg_0722_00003",
+      "de_DE": [
+        "Erhöht Initiative nach\n",
+        "und nach."
+      ]
+    },
+    {
+      "id": "msg_0722_00004",
+      "de_DE": "Wehrt Volltreffer ab."
+    },
+    {
+      "id": "msg_0722_00005",
+      "de_DE": [
+        "Schutz gegen\n",
+        "K.O.-Treffer-Angriffe."
+      ]
+    },
+    {
+      "id": "msg_0722_00006",
+      "de_DE": [
+        "Verhindert Selbstzer-\n",
+        "störung der Kämpfenden."
+      ]
+    },
+    {
+      "id": "msg_0722_00007",
+      "de_DE": "Verhindert Paralyse."
+    },
+    {
+      "id": "msg_0722_00008",
+      "de_DE": [
+        "Erhöht Fluchtwert im\n",
+        "Sandsturm."
+      ]
+    },
+    {
+      "id": "msg_0722_00009",
+      "de_DE": [
+        "Kann bei Berührung\n",
+        "paralysieren."
+      ]
+    },
+    {
+      "id": "msg_0722_00010",
+      "de_DE": [
+        "Wandelt Elektrizität in\n",
+        "KP um."
+      ]
+    },
+    {
+      "id": "msg_0722_00011",
+      "de_DE": "Wandelt Wasser in KP um."
+    },
+    {
+      "id": "msg_0722_00012",
+      "de_DE": "Verhindert Anziehung."
+    },
+    {
+      "id": "msg_0722_00013",
+      "de_DE": "Keine Wetter-Effekte."
+    },
+    {
+      "id": "msg_0722_00014",
+      "de_DE": "Steigert Genauigkeit."
+    },
+    {
+      "id": "msg_0722_00015",
+      "de_DE": "Verhindert Einschlafen."
+    },
+    {
+      "id": "msg_0722_00016",
+      "de_DE": [
+        "Typ des Anwenders wird zu\n",
+        "dem der gegnerischen Att."
+      ]
+    },
+    {
+      "id": "msg_0722_00017",
+      "de_DE": "Verhindert Vergiftungen."
+    },
+    {
+      "id": "msg_0722_00018",
+      "de_DE": [
+        "Verstärkt Feuer-A., wenn\n",
+        "v. Feuer-A. getroffen."
+      ]
+    },
+    {
+      "id": "msg_0722_00019",
+      "de_DE": [
+        "Blockiert Zusatz-Effekte\n",
+        "gegnerischer Angriffe."
+      ]
+    },
+    {
+      "id": "msg_0722_00020",
+      "de_DE": "Verhindert Verwirrung."
+    },
+    {
+      "id": "msg_0722_00021",
+      "de_DE": [
+        "Neg. gegn. Att., die PKMN\n",
+        "austauschen würden."
+      ]
+    },
+    {
+      "id": "msg_0722_00022",
+      "de_DE": [
+        "Senkt Angriff des\n",
+        "Gegners."
+      ]
+    },
+    {
+      "id": "msg_0722_00023",
+      "de_DE": "Hindert Gegner an Flucht."
+    },
+    {
+      "id": "msg_0722_00024",
+      "de_DE": "Verletzt bei Berührung."
+    },
+    {
+      "id": "msg_0722_00025",
+      "de_DE": [
+        "Nur sehr effektive Treffer\n",
+        "schaden."
+      ]
+    },
+    {
+      "id": "msg_0722_00026",
+      "de_DE": [
+        "Volle Immunität gegen\n",
+        "alle Boden-Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00027",
+      "de_DE": [
+        "Bei Kontakt evtl. Paraly.,\n",
+        "Vergiftg. oder Schlaf."
+      ]
+    },
+    {
+      "id": "msg_0722_00028",
+      "de_DE": [
+        "Gibt Verbrennung, Ver-\n",
+        "giftung u. Paraly. an Geg."
+      ]
+    },
+    {
+      "id": "msg_0722_00029",
+      "de_DE": [
+        "Verhindert Absenken\n",
+        "der Statuswerte evtl."
+      ]
+    },
+    {
+      "id": "msg_0722_00030",
+      "de_DE": [
+        "Heilt bei Austausch\n",
+        "Statusprobleme."
+      ]
+    },
+    {
+      "id": "msg_0722_00031",
+      "de_DE": [
+        "Zieht Elektro-Attacken\n",
+        "an."
+      ]
+    },
+    {
+      "id": "msg_0722_00032",
+      "de_DE": [
+        "Erhöht Chance für\n",
+        "Zusatz-Effekte."
+      ]
+    },
+    {
+      "id": "msg_0722_00033",
+      "de_DE": [
+        "Steigert Initiative bei\n",
+        "Regen."
+      ]
+    },
+    {
+      "id": "msg_0722_00034",
+      "de_DE": [
+        "Steigert Initiative bei\n",
+        "Sonnenschein."
+      ]
+    },
+    {
+      "id": "msg_0722_00035",
+      "de_DE": [
+        "Mehr Pokémon-\n",
+        "Begegnungen."
+      ]
+    },
+    {
+      "id": "msg_0722_00036",
+      "de_DE": [
+        "Das Pokémon kopiert \n",
+        "Fähigkeit des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0722_00037",
+      "de_DE": [
+        "Steigert den Angriffs-\n",
+        "Wert eines Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0722_00038",
+      "de_DE": [
+        "Vergiftet den Gegner\n",
+        "eventuell bei Berührung."
+      ]
+    },
+    {
+      "id": "msg_0722_00039",
+      "de_DE": [
+        "Verhindert\n",
+        "Zurückschrecken."
+      ]
+    },
+    {
+      "id": "msg_0722_00040",
+      "de_DE": "Verhindert Einfrieren."
+    },
+    {
+      "id": "msg_0722_00041",
+      "de_DE": [
+        "Verhindert\n",
+        "Verbrennungen."
+      ]
+    },
+    {
+      "id": "msg_0722_00042",
+      "de_DE": [
+        "Verhindert Flucht von\n",
+        "Stahl-Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0722_00043",
+      "de_DE": [
+        "Immun gegen Lärm-\n",
+        "Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00044",
+      "de_DE": [
+        "Langsame Wiederherstellg.\n",
+        "von KP bei Regen."
+      ]
+    },
+    {
+      "id": "msg_0722_00045",
+      "de_DE": "Erzeugt einen Sandsturm."
+    },
+    {
+      "id": "msg_0722_00046",
+      "de_DE": [
+        "Steigert den Verbrauch\n",
+        "der AP des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0722_00047",
+      "de_DE": [
+        "Schutz vor Hitze\n",
+        "und Kälte."
+      ]
+    },
+    {
+      "id": "msg_0722_00048",
+      "de_DE": "Schnelles Aufwachen."
+    },
+    {
+      "id": "msg_0722_00049",
+      "de_DE": [
+        "Kann bei Kontakt zu\n",
+        "Verbrennung führen."
+      ]
+    },
+    {
+      "id": "msg_0722_00050",
+      "de_DE": [
+        "Erleichtert das\n",
+        "Entkommen."
+      ]
+    },
+    {
+      "id": "msg_0722_00051",
+      "de_DE": [
+        "Verhindert Verlust der\n",
+        "Genauigkeit."
+      ]
+    },
+    {
+      "id": "msg_0722_00052",
+      "de_DE": "Verhindert Angriff-Reduz."
+    },
+    {
+      "id": "msg_0722_00053",
+      "de_DE": "Kann Items aufnehmen."
+    },
+    {
+      "id": "msg_0722_00054",
+      "de_DE": [
+        "Greift nur in jedem\n",
+        "2. Zug an."
+      ]
+    },
+    {
+      "id": "msg_0722_00055",
+      "de_DE": [
+        "Erhöht Angriffs-Wert,\n",
+        "senkt Genauigkeit."
+      ]
+    },
+    {
+      "id": "msg_0722_00056",
+      "de_DE": [
+        "Kann bei Kontakt\n",
+        "betörend wirken."
+      ]
+    },
+    {
+      "id": "msg_0722_00057",
+      "de_DE": [
+        "Steigert Spezial-Angriff,\n",
+        "wenn ein PKMN Minus hat."
+      ]
+    },
+    {
+      "id": "msg_0722_00058",
+      "de_DE": [
+        "Steigert Spezial-Angriff,\n",
+        "wenn ein PKMN Plus hat."
+      ]
+    },
+    {
+      "id": "msg_0722_00059",
+      "de_DE": [
+        "FORMEO verändert seine\n",
+        "Form abhängig vom Wetter."
+      ]
+    },
+    {
+      "id": "msg_0722_00060",
+      "de_DE": [
+        "Verhindert Item-\n",
+        "Diebstahl."
+      ]
+    },
+    {
+      "id": "msg_0722_00061",
+      "de_DE": [
+        "PKMN heilt eventuell\n",
+        "seine Statusprobleme."
+      ]
+    },
+    {
+      "id": "msg_0722_00062",
+      "de_DE": [
+        "Steigert Angriff bei\n",
+        "Statusproblemen."
+      ]
+    },
+    {
+      "id": "msg_0722_00063",
+      "de_DE": [
+        "Steigert Verteidigung bei\n",
+        "Statusproblemen."
+      ]
+    },
+    {
+      "id": "msg_0722_00064",
+      "de_DE": [
+        "Schadet Gegnern, die\n",
+        "Saug-Attacken einsetzen."
+      ]
+    },
+    {
+      "id": "msg_0722_00065",
+      "de_DE": [
+        "Stärkt Pflanzen-\n",
+        "Attacken in Not."
+      ]
+    },
+    {
+      "id": "msg_0722_00066",
+      "de_DE": [
+        "Stärkt Feuer-Attacken\n",
+        "in Not."
+      ]
+    },
+    {
+      "id": "msg_0722_00067",
+      "de_DE": [
+        "Stärkt Wasser-Attacken\n",
+        "in Not."
+      ]
+    },
+    {
+      "id": "msg_0722_00068",
+      "de_DE": [
+        "Stärkt Käfer-Attacken\n",
+        "in Not."
+      ]
+    },
+    {
+      "id": "msg_0722_00069",
+      "de_DE": [
+        "Verhindert Schaden, der\n",
+        "durch Rückstoß entsteht."
+      ]
+    },
+    {
+      "id": "msg_0722_00070",
+      "de_DE": "Erzeugt Sonne im Kampf."
+    },
+    {
+      "id": "msg_0722_00071",
+      "de_DE": [
+        "Verhindert Flucht\n",
+        "des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0722_00072",
+      "de_DE": "Verhindert Einschlafen."
+    },
+    {
+      "id": "msg_0722_00073",
+      "de_DE": [
+        "Verhindert das Absenken\n",
+        "der Statuswerte."
+      ]
+    },
+    {
+      "id": "msg_0722_00074",
+      "de_DE": [
+        "Steigert Kraft physischer\n",
+        "Angriffe."
+      ]
+    },
+    {
+      "id": "msg_0722_00075",
+      "de_DE": "Wehrt Volltreffer ab."
+    },
+    {
+      "id": "msg_0722_00076",
+      "de_DE": [
+        "Eliminiert die Wirkung\n",
+        "des Wetters."
+      ]
+    },
+    {
+      "id": "msg_0722_00077",
+      "de_DE": [
+        "Erhöht Fluchtwert, wenn\n",
+        "das Pokémon verwirrt ist."
+      ]
+    },
+    {
+      "id": "msg_0722_00078",
+      "de_DE": [
+        "Erhöht Initiative nach\n",
+        "einer Elektro-Attacke."
+      ]
+    },
+    {
+      "id": "msg_0722_00079",
+      "de_DE": [
+        "Erhöht Angriff, wenn Gegn.\n",
+        "dasselbe Geschlecht hat."
+      ]
+    },
+    {
+      "id": "msg_0722_00080",
+      "de_DE": [
+        "Erhöht Initiative, sobald\n",
+        "Pokémon zurückschreckt."
+      ]
+    },
+    {
+      "id": "msg_0722_00081",
+      "de_DE": [
+        "Erhöht Fluchtwert\n",
+        "während Hagelschauer."
+      ]
+    },
+    {
+      "id": "msg_0722_00082",
+      "de_DE": [
+        "Ermutigt zum frühzeitigen\n",
+        "Verwenden einer Beere."
+      ]
+    },
+    {
+      "id": "msg_0722_00083",
+      "de_DE": [
+        "Maximiert Angriff n. Ein-\n",
+        "stecken e. Volltreffers."
+      ]
+    },
+    {
+      "id": "msg_0722_00084",
+      "de_DE": [
+        "Erhöht Init., wenn 1 Item\n",
+        "verwendet/verloren wird."
+      ]
+    },
+    {
+      "id": "msg_0722_00085",
+      "de_DE": [
+        "Senkt die Kraft von\n",
+        "Feuer-Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00086",
+      "de_DE": [
+        "Das Pokémon ist anfällig\n",
+        "für Statusveränderungen."
+      ]
+    },
+    {
+      "id": "msg_0722_00087",
+      "de_DE": [
+        "Heißes Wetter reduziert\n",
+        "KP. Wasser steigert KP."
+      ]
+    },
+    {
+      "id": "msg_0722_00088",
+      "de_DE": [
+        "Passt Kraft entsprechend\n",
+        "der gegn. Statuswerte an."
+      ]
+    },
+    {
+      "id": "msg_0722_00089",
+      "de_DE": [
+        "Steigert die Effektivität\n",
+        "von Box-Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00090",
+      "de_DE": [
+        "Steigert KP, wenn das\n",
+        "Pokémon vergiftet ist."
+      ]
+    },
+    {
+      "id": "msg_0722_00091",
+      "de_DE": [
+        "Steigert Attacken\n",
+        "desselben Typs."
+      ]
+    },
+    {
+      "id": "msg_0722_00092",
+      "de_DE": [
+        "Erhöht die Häufigkeit von\n",
+        "Mehrfach-Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00093",
+      "de_DE": [
+        "Heilt Statusprobleme\n",
+        "bei Regen."
+      ]
+    },
+    {
+      "id": "msg_0722_00094",
+      "de_DE": [
+        "Steigert Spezial-Angriff\n",
+        "bei Sonne, senkt aber KP."
+      ]
+    },
+    {
+      "id": "msg_0722_00095",
+      "de_DE": [
+        "Erhöht Initiative bei\n",
+        "Statusproblemen."
+      ]
+    },
+    {
+      "id": "msg_0722_00096",
+      "de_DE": [
+        "Alle Attacken des Pokémon\n",
+        "werden zu Normal-Att."
+      ]
+    },
+    {
+      "id": "msg_0722_00097",
+      "de_DE": [
+        "Steigert Attacken nach\n",
+        "Volltreffern."
+      ]
+    },
+    {
+      "id": "msg_0722_00098",
+      "de_DE": [
+        "Das PKMN nimmt nur durch\n",
+        "direkte Attacken Schaden."
+      ]
+    },
+    {
+      "id": "msg_0722_00099",
+      "de_DE": [
+        "Angriffe des Pokémon und\n",
+        "des Gegners treffen."
+      ]
+    },
+    {
+      "id": "msg_0722_00100",
+      "de_DE": [
+        "Das Pokémon bewegt sich \n",
+        "nach weniger agilen Gegn."
+      ]
+    },
+    {
+      "id": "msg_0722_00101",
+      "de_DE": [
+        "Steigert Effektivität von\n",
+        "schwächeren Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00102",
+      "de_DE": [
+        "Verhindert Status-\n",
+        "probleme bei Sonne."
+      ]
+    },
+    {
+      "id": "msg_0722_00103",
+      "de_DE": [
+        "Das Pokémon kann keine\n",
+        "getrag. Items verwenden."
+      ]
+    },
+    {
+      "id": "msg_0722_00104",
+      "de_DE": [
+        "Att. können unabhängig d.\n",
+        "Fähigkeit verw. werden."
+      ]
+    },
+    {
+      "id": "msg_0722_00105",
+      "de_DE": [
+        "Erhöht die Chance auf\n",
+        "einen Volltreffer."
+      ]
+    },
+    {
+      "id": "msg_0722_00106",
+      "de_DE": [
+        "Schadet dem Gegn., der\n",
+        "finale Attacke landet."
+      ]
+    },
+    {
+      "id": "msg_0722_00107",
+      "de_DE": [
+        "Ahnt gefährliche Attacken\n",
+        "des Gegners voraus."
+      ]
+    },
+    {
+      "id": "msg_0722_00108",
+      "de_DE": [
+        "Gibt Auskunft über die\n",
+        "stärkste gegn. Attacke."
+      ]
+    },
+    {
+      "id": "msg_0722_00109",
+      "de_DE": [
+        "Ignoriert Wechsel der\n",
+        "Statuswerte des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0722_00110",
+      "de_DE": [
+        "Steigert nicht sehr\n",
+        "effektive Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00111",
+      "de_DE": [
+        "Senkt die Stärke sehr\n",
+        "effektiver Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00112",
+      "de_DE": [
+        "Halbiert zeitweilig Angriff\n",
+        "und Initiative."
+      ]
+    },
+    {
+      "id": "msg_0722_00113",
+      "de_DE": [
+        "Ermöglicht, mit Attacken\n",
+        "Geist-Gegner zu treffen."
+      ]
+    },
+    {
+      "id": "msg_0722_00114",
+      "de_DE": [
+        "Zieht offens. Wasser-Att.\n",
+        "an, die auf 1 PKMN zielen."
+      ]
+    },
+    {
+      "id": "msg_0722_00115",
+      "de_DE": [
+        "Das Pokémon regeneriert\n",
+        "während Hagelsturm KP."
+      ]
+    },
+    {
+      "id": "msg_0722_00116",
+      "de_DE": [
+        "Senkt die Stärke sehr\n",
+        "effektiver Attacken."
+      ]
+    },
+    {
+      "id": "msg_0722_00117",
+      "de_DE": [
+        "Pokémon beschwört einen\n",
+        "Hagelsturm herauf."
+      ]
+    },
+    {
+      "id": "msg_0722_00118",
+      "de_DE": [
+        "Pokémon kann Honig\n",
+        "sammeln."
+      ]
+    },
+    {
+      "id": "msg_0722_00119",
+      "de_DE": [
+        "Gibt Auskunft über\n",
+        "gegnerische Items."
+      ]
+    },
+    {
+      "id": "msg_0722_00120",
+      "de_DE": [
+        "Steigert Attacken mit\n",
+        "Rückstoß-Schaden."
+      ]
+    },
+    {
+      "id": "msg_0722_00121",
+      "de_DE": [
+        "Passt seinen Typ der\n",
+        "getragenen Tafel an."
+      ]
+    },
+    {
+      "id": "msg_0722_00122",
+      "de_DE": [
+        "Steigert Effektivität von\n",
+        "Team-Pokémon bei Sonne."
+      ]
+    },
+    {
+      "id": "msg_0722_00123",
+      "de_DE": [
+        "Senkt die KP eines\n",
+        "schlafenden Gegners."
+      ]
+    }
+  ]
+}

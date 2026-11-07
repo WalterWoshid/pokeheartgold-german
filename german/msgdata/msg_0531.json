@@ -1,0 +1,99 @@
+{
+  "key": 22820,
+  "messages": [
+    {
+      "id": "msg_0531_00000",
+      "de_DE": [
+        "Sabrina: Ich wusste, dass du kommst!\r",
+        "Ich hatte schon vor drei Jahren eine\n",
+        "Vision, die mir deine Ankunft ankündigte.\f",
+        "Du hast es auf meinen Orden abgesehen!\r",
+        "Kämpfe bereiten mir nur wenig Freude...\r",
+        "Aber als Leiterin ist es meine Pflicht,\n",
+        "all denen einen Orden zu überreichen,\f",
+        "die sich als würdig erweisen.\r",
+        "Wenn das also dein Wunsch ist, werde\n",
+        "ich dir meine Psycho-Kräfte zeigen!\r"
+      ]
+    },
+    {
+      "id": "msg_0531_00001",
+      "de_DE": [
+        "Sabrina: Diese Stärke... in meiner\n",
+        "Vision warst du viel schwächlicher!\r",
+        "Scheinbar kann nicht einmal ich die\n",
+        "Zukunft vollständig vorhersehen...\r",
+        "Aber gut. Hier, das ist der Sumpforden.\n",
+        "Du hast ihn dir verdient.\r"
+      ]
+    },
+    {
+      "id": "msg_0531_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Sumpforden!"
+      ]
+    },
+    {
+      "id": "msg_0531_00003",
+      "de_DE": [
+        "Sabrina: Dass du so stark sein würdest,\n",
+        "konnte ich nicht vorhersehen...\r",
+        "Das bedeutet, dass deine Stärke meine\n",
+        "übernatürlichen Kräfte weit übertrifft.\r",
+        "Hier, bei dir ist diese TM besser\n",
+        "aufgehoben.\r"
+      ]
+    },
+    {
+      "id": "msg_0531_00004",
+      "de_DE": [
+        "Sabrina: In ihr ist die Attacke\n",
+        "Wertewechsel enthalten.\f",
+        "Sie tauscht die Fähigkeiten deines\f",
+        "Pokémon mit denen deines Gegners!\r",
+        "Du hast eine strahlende Zukunft!\n",
+        "Irgendwann wird man dich mal\f",
+        "als Champ aller Champs feiern!"
+      ]
+    },
+    {
+      "id": "msg_0531_00005",
+      "de_DE": [
+        "Sabrina: Das bedeutet dann wohl, dass\n",
+        "deine Zuneigung zu deinen Pokémon\f",
+        "meine Psycho-Kräfte übertrifft...\r",
+        "Die Kraft deiner Zuneigung zählt für\n",
+        "mich eindeutig auch als Psycho-Kraft..."
+      ]
+    },
+    {
+      "id": "msg_0531_00006",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "Einem Trainer deines Kalibers brauche\n",
+        "ich sicher nicht erklären, wie man mit\f",
+        "Psycho-Pokémon umgeht, nicht wahr?\r",
+        "Ich erwarte Großes von dir!\n",
+        "Viel Glück!"
+      ]
+    },
+    {
+      "id": "msg_0531_00007",
+      "de_DE": "Das war ein fantastischer Kampf!"
+    },
+    {
+      "id": "msg_0531_00008",
+      "de_DE": "Pokémon-Arena von Saffronia City"
+    },
+    {
+      "id": "msg_0531_00009",
+      "de_DE": [
+        "Pokémon-Arena von Saffronia City\r",
+        "Leiterin: Sabrina\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

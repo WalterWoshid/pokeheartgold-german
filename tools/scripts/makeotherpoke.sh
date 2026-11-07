@@ -62,11 +62,11 @@ done
 mkdir -p "$OUTDIR"
 
 for i in "${!FILES_NCGR[@]}" ; do
-    $NITROGFX "${FILES_NCGR[$i]}" $OUTDIR/"${INDEX_NCGR[$i]}".NCGR -scanfronttoback -handleempty
+    "$NITROGFX" "${FILES_NCGR[$i]}" "$OUTDIR/${INDEX_NCGR[$i]}.NCGR" -scanfronttoback -handleempty
 done
 
 for i in "${!FILES_NCLR[@]}" ; do
-    $NITROGFX "${FILES_NCLR[$i]}" $OUTDIR/"${INDEX_NCLR[$i]}".NCLR -bitdepth 8 -nopad -comp 10
+    "$NITROGFX" "${FILES_NCLR[$i]}" "$OUTDIR/${INDEX_NCLR[$i]}.NCLR" -bitdepth 8 -nopad -comp 10
 done
 
-$NARC_EXE --create --file $OUTDIR/../otherpoke.narc --index-namespace $OUTDIR
+"$NARC_EXE" --create --file "$OUTDIR/../otherpoke.narc" --index-namespace "$OUTDIR"

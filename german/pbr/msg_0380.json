@@ -1,0 +1,49 @@
+{
+  "key": 26381,
+  "messages": [
+    {
+      "id": "msg_0380_00000",
+      "de_DE": [
+        "Es wird die Wörter vergessen, die\n",
+        "es im Moment kennt. Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0380_00001",
+      "de_DE": [
+        "Drücke den A- oder B-Knopf, dann\n",
+        "sprich in das Mikrophon.\r"
+      ]
+    },
+    {
+      "id": "msg_0380_00002",
+      "de_DE": "{STRVAR_1 1, 0} hat neue Wörter gelernt!\r"
+    },
+    {
+      "id": "msg_0380_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0} hat keine neuen Wörter\n",
+        "gelernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0380_00004",
+      "de_DE": "Möchtest du es nochmal versuchen?"
+    },
+    {
+      "id": "msg_0380_00005",
+      "de_DE": [
+        "Es scheint abgelenkt zu sein und\n",
+        "sich nicht konzentrieren zu können..."
+      ]
+    },
+    {
+      "id": "msg_0380_00006",
+      "de_DE": "Ja"
+    },
+    {
+      "id": "msg_0380_00007",
+      "de_DE": "Nein"
+    }
+  ]
+}

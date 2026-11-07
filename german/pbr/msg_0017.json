@@ -1,0 +1,125 @@
+{
+  "key": 12299,
+  "messages": [
+    {
+      "id": "msg_0017_00000",
+      "de_DE": "Kampfraum - Ergebnisse"
+    },
+    {
+      "id": "msg_0017_00001",
+      "de_DE": "Multikampf - Ergebnisse"
+    },
+    {
+      "id": "msg_0017_00002",
+      "de_DE": "Wi-Fi Kampf - Ergebnisse"
+    },
+    {
+      "id": "msg_0017_00003",
+      "de_DE": [
+        "{COLOR 1}Rekord{COLOR 3} {COLOR 2}\n",
+        "{COLOR 1}Einzel{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0017_00004",
+      "de_DE": [
+        "{COLOR 1}Rekord{COLOR 0}\n",
+        "{COLOR 1}Multi{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0017_00005",
+      "de_DE": [
+        "{COLOR 1}Aktueller{COLOR 0}\n",
+        "{COLOR 1}Rang{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0017_00006",
+      "de_DE": [
+        "{COLOR 1}Rekord{COLOR 0}\n",
+        "{COLOR 1}Doppel{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0017_00007",
+      "de_DE": [
+        "{COLOR 1}Rekord{COLOR 0}\n",
+        "{COLOR 1}Link{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0017_00008",
+      "de_DE": [
+        "{COLOR 1}Rekord\n",
+        "Wi-Fi{COLOR 0}"
+      ]
+    },
+    {
+      "id": "msg_0017_00009",
+      "de_DE": "{COLOR 1}VORHER{COLOR 0}"
+    },
+    {
+      "id": "msg_0017_00010",
+      "de_DE": "{COLOR 1}AKTUELL{COLOR 0}"
+    },
+    {
+      "id": "msg_0017_00011",
+      "de_DE": "{COLOR 1}REKORD{COLOR 0}"
+    },
+    {
+      "id": "msg_0017_00012",
+      "de_DE": "{COLOR 1}RANG{COLOR 0}"
+    },
+    {
+      "id": "msg_0017_00013",
+      "de_DE": "Siegserie: {COLOR 2}{STRVAR_1 53, 0}{COLOR 0} "
+    },
+    {
+      "id": "msg_0017_00014",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0017_00015",
+      "de_DE": "Klasse {STRVAR_1 51, 0}, Duellraum {STRVAR_1 52, 1}"
+    },
+    {
+      "id": "msg_0017_00016",
+      "de_DE": "TOP TRAINER"
+    },
+    {
+      "id": "msg_0017_00017",
+      "de_DE": "{STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0017_00018",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0017_00019",
+      "de_DE": [
+        "{STRVAR_1 36, 0}\n",
+        "{STRVAR_1 37, 1}"
+      ]
+    },
+    {
+      "id": "msg_0017_00020",
+      "de_DE": "{STRVAR_1 36, 0}"
+    },
+    {
+      "id": "msg_0017_00021",
+      "de_DE": [
+        "Heimatort\n",
+        "nicht registriert"
+      ]
+    },
+    {
+      "id": "msg_0017_00022",
+      "de_DE": "DIAMANT"
+    },
+    {
+      "id": "msg_0017_00023",
+      "de_DE": "PERL"
+    }
+  ]
+}

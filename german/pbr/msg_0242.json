@@ -1,0 +1,36 @@
+{
+  "key": 50106,
+  "messages": [
+    {
+      "id": "msg_0242_00000",
+      "de_DE": [
+        "Das Pokémon, dem du gerade begegnet\n",
+        "bist, ist das Lunar-Pokémon...\r",
+        "Ich hörte in Geschichten, dass es\n",
+        "von einem Ort zum anderen fliegt.\r",
+        "Oh! Dieses Funkeln...\n",
+        "Das ist also die Lunarfeder...\r",
+        "Danke... Das wird meinen Sohn\n",
+        "aus seinem Alptraum erwecken...\r"
+      ]
+    },
+    {
+      "id": "msg_0242_00001",
+      "de_DE": "Möchtest du zurück nach Fleetburg?"
+    },
+    {
+      "id": "msg_0242_00002",
+      "de_DE": [
+        "Aye, aye!\n",
+        "Anker lichten!\r"
+      ]
+    },
+    {
+      "id": "msg_0242_00003",
+      "de_DE": [
+        "Wie du willst. Sag mir einfach Bescheid,\n",
+        "falls du wieder nach Fleetburg willst."
+      ]
+    }
+  ]
+}

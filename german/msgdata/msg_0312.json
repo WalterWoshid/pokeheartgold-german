@@ -1,0 +1,608 @@
+{
+  "key": 22722,
+  "messages": [
+    {
+      "id": "msg_0312_00000",
+      "de_DE": [
+        "Hallo und willkommen bei der\n",
+        "Pokéathlon-Teilnehmerregistrierung!\r",
+        "Möchtest du deine Pokémon\n",
+        "für einen Wettkampf anmelden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00001",
+      "de_DE": [
+        "Willkommen. Bei uns kannst du deine\n",
+        "Pokémon für den Profi-Cup anmelden.\r",
+        "Dabei treten nur Elite-Poké-Athleten\n",
+        "gegeneinander an!\f",
+        "Nimmst du die Herausforderung an? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00002",
+      "de_DE": [
+        "Kann ich sonst noch etwas\n",
+        "für dich tun? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00003",
+      "de_DE": [
+        "Für welches unserer Turniere\n",
+        "darf ich dich eintragen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00004",
+      "de_DE": [
+        "Das {STRVAR_4 1, 3, 0} also?\n",
+        "Ist das so richtig? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00005",
+      "de_DE": "Dann bitte hier entlang.\r"
+    },
+    {
+      "id": "msg_0312_00006",
+      "de_DE": [
+        "In ein paar Minuten geht es los.\n",
+        "Deine Mannschaftsfarbe ist Rot.\r",
+        "Also dann, Hals- und Beinbruch!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00007",
+      "garbage": 32
+    },
+    {
+      "id": "msg_0312_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schlüpft in einen\n",
+        "Trainingsanzug!"
+      ]
+    },
+    {
+      "id": "msg_0312_00009",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0312_00010",
+      "de_DE": "Schau mal wieder vorbei."
+    },
+    {
+      "id": "msg_0312_00011",
+      "de_DE": [
+        "Was darf ich dir näher erklären?\n",
+        "{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00012",
+      "de_DE": [
+        "Der Pokéathlon ist eine feierliche\n",
+        "Veranstaltung, bei der Trainer\f",
+        "sich gemeinsam mit drei ihrer Pokémon\f",
+        "im sportlichen Wettkampf messen.\r",
+        "Ein Pokéathlon-Turnier besteht aus\n",
+        "unterschiedlichen Wettkämpfen, die\f",
+        "auf die individuellen Eigenschaften\f",
+        "der Pokémon abgestimmt sind.\r",
+        "Es wäre uns eine Freude, auch dich und\n",
+        "dein Team dabei begrüßen zu dürfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00013",
+      "de_DE": [
+        "Der Profi-Cup ist ein besonderes\n",
+        "Turnier, bei dem ausgewählte\r",
+        "Poké-Athleten aus allen Regionen\n",
+        "aufeinander treffen.\r",
+        "Außerdem bringt ein Gewinn beim\n",
+        "Profi-Cup dir extra viele Punkte ein.\r",
+        "Versuche mal dein Glück und messe dich\n",
+        "mit den besten Pokémon des Kontinents!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00014",
+      "de_DE": [
+        "Das Tempo-Turnier besteht aus drei\n",
+        "ausgewählten Disziplinen, bei denen\f",
+        "vor allem die Geschwindigkeit\f",
+        "deiner Pokémon zählt!\r",
+        "Beim Hürdenlauf geht es darum,\n",
+        "geschwind ins Ziel zu hüpfen!\r",
+        "Beim Flaggenschnappen gilt es, fix Wimpel\n",
+        "einzusammeln und Punkte zu kassieren.\r",
+        "Und beim Staffellauf kommt alles\n",
+        "auf reibungsloses Teamwork an!\r",
+        "Der Gewinner des Turniers erhält\n",
+        "die Tempo-Medaille.\r",
+        "Wähle einfach drei Pokémon aus,\n",
+        "die besonders flott unterwegs sind\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00015",
+      "de_DE": [
+        "Das Kraft-Turnier besteht aus drei\n",
+        "ausgewählten Disziplinen, bei denen es\f",
+        "vor allem auf die Körperkraft\f",
+        "deiner Pokémon ankommt!\r",
+        "Beim Ziegelbrechen musst du\n",
+        "möglichst viele Ziegel zertrümmern.\r",
+        "Beim Drängelkreis bleibt nur der stehen,\n",
+        "der sich im Pulk behaupten kann!\r",
+        "Und beim Torschießen beförderst du\n",
+        "mit Karacho den Ball ins Tor!\r",
+        "Der Gewinner des Turniers erhält\n",
+        "die Kraft-Medaille.\r",
+        "Wähle einfach drei Pokémon aus,\n",
+        "die vor Kraft strotzen\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00016",
+      "de_DE": [
+        "Das Ausdauer-Turnier besteht aus drei\n",
+        "ausgewählten Disziplinen, bei denen es\f",
+        "vor allem auf das Durchhaltevermögen\f",
+        "deiner Pokémon ankommt!\r",
+        "Beim Ringrangeln bleibt nur der\n",
+        "mit dem größten Stehvermögen im Ring!\r",
+        "Im Staffellauf entscheidet die Kondition\n",
+        "der Läufer über Sieg und Niederlage!\r",
+        "Und beim Ziegelbrechen heißt es,\n",
+        "draufhauen bis die Luft heraus ist!\r",
+        "Der Gewinner des Turniers erhält\n",
+        "die Ausdauer-Medaille.\r",
+        "Wähle einfach drei Pokémon aus,\n",
+        "die nicht schnell schlapp machen\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00017",
+      "de_DE": [
+        "Das Sprung-Turnier besteht aus drei\n",
+        "ausgewählten Disziplinen, bei denen es\f",
+        "vor allem auf die Sprungkraft\f",
+        "deiner Pokémon ankommt!\r",
+        "Beim Lampionspringen gewinnt, wer am\n",
+        "höchsten in die Luft geschleudert wird!\r",
+        "Beim Diskusfangen springst du und\n",
+        "schnappst dir die fliegenden Scheiben!\r",
+        "Und beim Hürdenlauf kommen nur\n",
+        "Hüpfgewandte schnell ins Ziel!\r",
+        "Der Gewinner des Turniers erhält\n",
+        "die Sprung-Medaille.\r",
+        "Wähle einfach drei Pokémon aus, deren\n",
+        "Sprungkraft besonders ausgeprägt ist\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00018",
+      "de_DE": [
+        "Das Technik-Turnier besteht aus drei\n",
+        "ausgewählten Disziplinen, bei denen es\f",
+        "vor allem auf die Geschicklichkeit\f",
+        "deiner Pokémon ankommt!\r",
+        "Bei der Schneeschlacht gewinnt der,\n",
+        "der am treffsichersten werfen kann!\r",
+        "Beim Torschießen ist Geschmeidigkeit\n",
+        "unabdingbar für einen sauberen Schuss!\r",
+        "Und beim Flaggenschnappen musst du\n",
+        "fix sein, um den Gegner zu überrumpeln!\r",
+        "Der Gewinner des Turniers erhält\n",
+        "die Technik-Medaille.\r",
+        "Wähle einfach drei Pokémon aus, die\n",
+        "technisch besonders versiert sind\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00019",
+      "de_DE": [
+        "Danke für deine Teilnahme!\r",
+        "Ich verwandele deine Punktzahl\n",
+        "nun in Athletenpunkte.\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00020",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{STRVAR_1 53, 2, 0} Athletenpunkte!"
+      ]
+    },
+    {
+      "id": "msg_0312_00021",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0312_00022",
+      "de_DE": [
+        "Und als Bonus dafür, dass\n",
+        "du das Turnier gewonnen hast,\f",
+        "gibt es noch einmal {STRVAR_1 52, 2, 0} Punkte extra!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00023",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Durch das heutige Ergebnis\f",
+        "ist es Poké-Athlet {STRVAR_1 3, 0, 0} nun\f",
+        "erlaubt, das “Zimmer des Vertrauens”\f",
+        "im Pokéathlon-Museum zu betreten.\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00024",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Durch das heutige Ergebnis\f",
+        "ist es Poké-Athlet {STRVAR_1 3, 0, 0} nun\f",
+        "erlaubt, das “Zimmer der Talente”\f",
+        "im Pokéathlon-Museum zu betreten.\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00025",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Durch das heutige Ergebnis\f",
+        "ist es Poké-Athlet {STRVAR_1 3, 0, 0} nun\f",
+        "erlaubt, das “Zimmer der Freundschaft”\f",
+        "im Pokéathlon-Museum zu betreten.\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00026",
+      "de_DE": [
+        "Hallo! Hier kannst du dich für\n",
+        "den Link-Pokéathlon registrieren.\r",
+        "Hierbei können deine Pokémon und\n",
+        "die Pokémon deiner Freunde gemeinsam\f",
+        "ein Turnier bestreiten.\r",
+        "Möchtest du an einem\n",
+        "Link-Wettbewerb teilnehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00027",
+      "de_DE": [
+        "Bitte legt fest, wer in der Gruppe\n",
+        "der “LEITER WERDEN” soll.\r",
+        "Die anderen Spieler wählen\n",
+        "“MITSPIELER” aus. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00028",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "wird gestartet. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0312_00029",
+      "de_DE": [
+        "Verbindungsfehler.\r",
+        "Bitte beginne die Registrierung\n",
+        "erneut."
+      ]
+    },
+    {
+      "id": "msg_0312_00030",
+      "de_DE": [
+        "Teilnahme am {STRVAR_4 1, 3, 0}.\n",
+        "Deine Mannschaftsfarbe ist Rot."
+      ]
+    },
+    {
+      "id": "msg_0312_00031",
+      "de_DE": [
+        "Teilnahme am {STRVAR_4 1, 3, 0}.\n",
+        "Deine Mannschaftsfarbe ist Blau."
+      ]
+    },
+    {
+      "id": "msg_0312_00032",
+      "de_DE": [
+        "Teilnahme am {STRVAR_4 1, 3, 0}.\n",
+        "Deine Mannschaftsfarbe ist Grün."
+      ]
+    },
+    {
+      "id": "msg_0312_00033",
+      "de_DE": [
+        "Teilnahme am {STRVAR_4 1, 3, 0}.\n",
+        "Deine Mannschaftsfarbe ist Gelb."
+      ]
+    },
+    {
+      "id": "msg_0312_00034",
+      "de_DE": [
+        "Als Bonus für den zweiten\n",
+        "Platz erhältst du\f",
+        "außerdem {STRVAR_1 52, 2, 0} Athletenpunkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00035",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} schlüpft in einen\n",
+        "Trainingsanzug!"
+      ]
+    },
+    {
+      "id": "msg_0312_00036",
+      "de_DE": "Dann bitte hier entlang!"
+    },
+    {
+      "id": "msg_0312_00037",
+      "de_DE": [
+        "Hoppla!\n",
+        "Sieht aus, als hättest du nicht\f",
+        "genug Pokémon in deinem Team.\r",
+        "Um am Pokéathlon teilzunehmen,\n",
+        "brauchst du mindestens\f",
+        "drei Pokémon.\r",
+        "Je mehr Pokémon du schon\n",
+        "gefangen hast, desto mehr Spaß\f",
+        "macht auch der Wettkampf.\r",
+        "Am besten, du fängst so viele\n",
+        "wie nur irgend möglich!"
+      ]
+    },
+    {
+      "id": "msg_0312_00038",
+      "de_DE": [
+        "Hallo! Hier kannst du dich für\n",
+        "den Link-Pokéathlon registrieren.\r",
+        "Hoppla!\n",
+        "Sehe ich da ein neues Gesicht?\r",
+        "In dem Fall solltest du wohl erst einmal\n",
+        "den Schalter für die Registrierung\f",
+        "zu den Einzelkämpfen aufsuchen.\r",
+        "Er steht gleich rechts von hier.\n",
+        "Der Schalter in der Mitte.\r",
+        "Dort erzählen sie dir viel Wissenswertes\n",
+        "über den Pokéathlon! Schau mal vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0312_00039",
+      "de_DE": [
+        "Der Link-Pokéathlon ist eine feierliche\n",
+        "Veranstaltung, bei der sich Trainer\f",
+        "gemeinsam mit drei ihrer Pokémon\f",
+        "in vier sportlichen Disziplinen messen.\r",
+        "Das Besondere daran ist, dass du auch\n",
+        "Freunde zum Wettkampf einladen kannst.\r",
+        "Ein Pokéathlon-Turnier besteht aus\n",
+        "unterschiedlichen Wettkämpfen, die\f",
+        "auf die individuellen Eigenschaften\f",
+        "der Pokémon abgestimmt sind.\r",
+        "Es wäre uns eine Freude,\n",
+        "auch dich und deine Freunde\f",
+        "dabei begrüßen zu dürfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00040",
+      "de_DE": [
+        "Das Tempo&Sprung-Turnier besteht aus\n",
+        "vier ausgewählten Disziplinen,\f",
+        "bei denen es auf Geschwindigkeit\f",
+        "und Sprungkraft ankommt!\r",
+        "Beim Hürdenlauf geht es darum,\n",
+        "geschwind ins Ziel zu hüpfen!\r",
+        "Beim Lampionspringen gewinnt, wer am\n",
+        "höchsten in die Luft geschleudert wird!\r",
+        "Beim Diskusfangen springst du und\n",
+        "schnappst dir die fliegenden Scheiben!\r",
+        "Beim Staffellauf ist Geschwindigkeit\n",
+        "der entscheidende Faktor!\r",
+        "Der Gewinner des Turniers erhält eine\n",
+        "Tempo- und eine Sprung-Medaille!\r",
+        "Wähle drei Pokémon aus, die sowohl\n",
+        "ausgeprägte Sprungkraft haben\f",
+        "als auch flott unterwegs sind,\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00041",
+      "de_DE": [
+        "Das Sprung&Technik-Turnier besteht aus\n",
+        "vier ausgewählten Disziplinen,\f",
+        "bei denen es auf Sprungkraft\f",
+        "und Geschicklichkeit ankommt!\r",
+        "Beim Lampionspringen helfen dir gelenke\n",
+        "Sprünge, die Lampions zu berühren!\r",
+        "Beim Diskusfangen springst du und\n",
+        "schnappst dir die fliegenden Scheiben!\r",
+        "Beim Flaggenschnappen gilt es, fix Wimpel\n",
+        "einzusammeln und Punkte zu kassieren.\r",
+        "Bei der Schneeschlacht bringen genaue\n",
+        "Würfe auf den Gegner dich nach vorn!\r",
+        "Der Gewinner des Turniers erhält eine\n",
+        "Sprung- und eine Technik-Medaille!\r",
+        "Wähle drei Pokémon aus, die sowohl\n",
+        "ausgeprägte Sprungkraft haben\f",
+        "als auch technisch versiert sind,\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00042",
+      "de_DE": [
+        "Das Technik&Kraft-Turnier besteht aus\n",
+        "vier ausgewählten Disziplinen,\f",
+        "bei denen es auf Geschicklichkeit\f",
+        "und Körperkraft ankommt!\r",
+        "Beim Torschießen ist Geschmeidigkeit\n",
+        "unabdingbar für einen sauberen Schuss!\r",
+        "Bei der Schneeschlacht bringen genaue\n",
+        "Würfe auf den Gegner dich nach vorn!\r",
+        "Beim Flaggenschnappen gilt es, fix Wimpel\n",
+        "einzusammeln und Punkte zu kassieren.\r",
+        "Beim Ziegelbrechen zertrümmerst du so\n",
+        "lange Ziegel, bis dir die Puste ausgeht!\r",
+        "Der Gewinner des Turniers erhält eine\n",
+        "Technik- und eine Kraft-Medaille!\r",
+        "Wähle drei Pokémon aus, die sowohl\n",
+        "technisch versiert sind\f",
+        "als auch vor Kraft strotzen,\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00043",
+      "de_DE": [
+        "Das Kraft&Ausdauer-Turnier besteht\n",
+        "aus vier ausgewählten Disziplinen,\f",
+        "bei denen es auf Körperkraft\f",
+        "und Durchhaltevermögen ankommt!\r",
+        "Beim Ziegelbrechen zertrümmerst du so\n",
+        "lange Ziegel, bis dir die Puste ausgeht!\r",
+        "Beim Drängelkreis bleibst du im Feld, \n",
+        "indem du deine Gegner wegschubst!\r",
+        "Beim Torschießen schießt du so oft aufs\n",
+        "Tor, wie es deine Kraft erlaubt!\r",
+        "Beim Ringrangeln bleibt nur der im\n",
+        "Ring, der alle Rivalen hinunterstößt!\r",
+        "Der Gewinner des Turniers erhält eine\n",
+        "Kraft- und eine Ausdauer-Medaille!\r",
+        "Wähle drei Pokémon aus, die sowohl\n",
+        "vor Kraft strotzen als auch\f",
+        "nicht so schnell schlapp machen,\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00044",
+      "de_DE": [
+        "Das Ausdauer&Tempo-Turnier besteht\n",
+        "aus vier ausgewählten Disziplinen,\f",
+        "bei denen es auf Durchhaltevermögen\f",
+        "und Geschwindigkeit ankommt!\r",
+        "Beim Staffellauf sind Ausdauer und\n",
+        "Tempo dein bester Freund!\r",
+        "Beim Ringrangeln bleibt nur der im\n",
+        "Ring, der alle Rivalen hinunterstößt!\r",
+        "Für den 1. Platz beim Hürdenlauf\n",
+        "brauchst du Tempo und langen Atem.\r",
+        "Beim Drängelkreis bleibst du im Feld, \n",
+        "indem du deine Gegner wegschubst!\r",
+        "Der Gewinner des Turniers erhält eine\n",
+        "Ausdauer- und eine Tempo-Medaille!\r",
+        "Wähle drei Pokémon aus, die zum\n",
+        "einen nicht schnell schlapp machen\f",
+        "als auch flott unterwegs sind,\f",
+        "und versuche es einmal!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00045",
+      "de_DE": [
+        "Das Meister-Turnier besteht jedes Mal\n",
+        "aus unterschiedlichen Disziplinen,\f",
+        "und ist daher besonders knifflig!\r",
+        "Dafür braucht es schon ein Allround-\n",
+        "Team, das alles packen kann,\f",
+        "was sich ihm in den Weg stellt!\r",
+        "Beim Meister-Turnier gibt es\n",
+        "keine Medaillen zu gewinnen.\r",
+        "Dafür erhält man die doppelte\n",
+        "Zahl an Athletenpunkten!\r",
+        "Bringe ein paar Freunde mit, denn das\n",
+        "solltest du unbedingt einmal versuchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00046",
+      "de_DE": [
+        "Team {STRVAR_1 3, 0, 0} erhält {STRVAR_1 52, 1, 0} Punkte!\n",
+        "Das ergibt {STRVAR_1 53, 2, 0} Athletenpunkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00047",
+      "de_DE": [
+        "Team {STRVAR_1 3, 0, 0} erhält {STRVAR_1 52, 1, 0} Punkte!\n",
+        "Beim Meister-Turnier zählen sie doppelt!\f",
+        "Das macht also insgesamt {STRVAR_1 53, 2, 0} Punkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0312_00048",
+      "garbage": 205
+    },
+    {
+      "id": "msg_0312_00049",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0312_00050",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0312_00051",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0312_00052",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0312_00053",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0312_00054",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0312_00055",
+      "garbage": 154
+    },
+    {
+      "id": "msg_0312_00056",
+      "garbage": 186
+    },
+    {
+      "id": "msg_0312_00057",
+      "garbage": 90
+    },
+    {
+      "id": "msg_0312_00058",
+      "garbage": 43
+    },
+    {
+      "id": "msg_0312_00059",
+      "garbage": 49
+    },
+    {
+      "id": "msg_0312_00060",
+      "garbage": 47
+    },
+    {
+      "id": "msg_0312_00061",
+      "garbage": 152
+    },
+    {
+      "id": "msg_0312_00062",
+      "garbage": 18
+    }
+  ]
+}

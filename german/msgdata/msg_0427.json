@@ -1,0 +1,76 @@
+{
+  "key": 5612,
+  "messages": [
+    {
+      "id": "msg_0427_00000",
+      "de_DE": [
+        "Ding-Dong!\r",
+        "Die Zeit ist abgelaufen!\n",
+        "Dein Safari-Spiel ist vorbei.\r"
+      ]
+    },
+    {
+      "id": "msg_0427_00001",
+      "de_DE": [
+        "Ding-Dong!\r",
+        "Du hast keine Safaribälle mehr.\n",
+        "Dein Safari-Spiel ist vorbei.\r"
+      ]
+    },
+    {
+      "id": "msg_0427_00002",
+      "de_DE": [
+        "Ding-Dong!\r",
+        "Du hast keinen Platz mehr für Pokémon!\n",
+        "Dein Safari-Spiel ist vorbei!\r"
+      ]
+    },
+    {
+      "id": "msg_0427_00003",
+      "de_DE": [
+        "Möchtest du dein Safari-Spiel\n",
+        "jetzt abbrechen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0427_00004",
+      "de_DE": [
+        "Möchtest du einen\n",
+        "Block platzieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0427_00005",
+      "de_DE": "{STRVAR_1 8, 0, 0} wurde platziert!"
+    },
+    {
+      "id": "msg_0427_00006",
+      "de_DE": [
+        "Soll {STRVAR_1 8, 0, 0} wieder\n",
+        "entfernt werden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0427_00007",
+      "de_DE": "{STRVAR_1 8, 0, 0} wurde entfernt."
+    },
+    {
+      "id": "msg_0427_00008",
+      "de_DE": [
+        "In diesem Terrain kannst du\n",
+        "keine Blöcke mehr platzieren!"
+      ]
+    },
+    {
+      "id": "msg_0427_00009",
+      "de_DE": [
+        "Du hast keine Blöcke, die du\n",
+        "hier platzieren kannst."
+      ]
+    },
+    {
+      "id": "msg_0427_00010",
+      "de_DE": "Hier ist nicht genug Platz!"
+    }
+  ]
+}

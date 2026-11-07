@@ -1,0 +1,160 @@
+{
+  "key": 32231,
+  "messages": [
+    {
+      "id": "msg_0682_00000",
+      "de_DE": "Jaime"
+    },
+    {
+      "id": "msg_0682_00001",
+      "de_DE": [
+        "He, mit dir zu kämpfen macht\n",
+        "richtig Laune! Du musst mir\f",
+        "unbedingt deine Nummer geben!\r",
+        "Ich meine natürlich... bitte. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0682_00002",
+      "de_DE": [
+        "He, danke!\n",
+        "Den Kampf wiederholen wir bald!\r",
+        "Ich melde mich, sobald ich bereit bin."
+      ]
+    },
+    {
+      "id": "msg_0682_00003",
+      "de_DE": [
+        "Uff!\r",
+        "Was willst du mir damit sagen? Dass\n",
+        "ich zu mickrig bin, als dass du dich\f",
+        "mit mir abgibst?"
+      ]
+    },
+    {
+      "id": "msg_0682_00004",
+      "de_DE": [
+        "Du musst mir unbedingt\n",
+        "deine Nummer geben!\r",
+        "Ich meine natürlich... bitte. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0682_00005",
+      "de_DE": [
+        "Wie auch immer!\n",
+        "Das hier ist jedenfalls der Leuchtstein.\r",
+        "Ja, ich bestehe darauf! Los jetzt,\n",
+        "zier dich nicht so!\r"
+      ]
+    },
+    {
+      "id": "msg_0682_00006",
+      "de_DE": [
+        "He... du klingst, als ob du...\n",
+        "Moment mal! Du bist doch...\f",
+        "am selben Ort wie ich?\r",
+        "Also, wenn das so ist,\n",
+        "können wir ja auch direkt reden!"
+      ]
+    },
+    {
+      "id": "msg_0682_00007",
+      "de_DE": [
+        "Ich bin immer noch nicht mehr\n",
+        "als ein Fliegengewicht...\r",
+        "Aber mein Kumpel, das {STRVAR_1 0, 10, 0},\n",
+        "hat ordentlich Muskeln angesetzt!\r",
+        "Neulich hat es binnen zwei Sekunden\n",
+        "ein {STRVAR_1 0, 11, 0} K.O. gekämpft!\r",
+        "...Na gut, zwei Sekunden sind vielleicht\n",
+        "etwas übertrieben.\r",
+        "In Wahrheit waren es 5:37 Minuten."
+      ]
+    },
+    {
+      "id": "msg_0682_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} hat sich\n",
+        "gründlich gemausert!\r",
+        "Trotzdem, das {STRVAR_1 0, 11, 0} neulich\n",
+        "ist ihm in letzter Sekunde entwischt...\r",
+        "Ach? Du meinst, das sei\n",
+        "nicht seine Schuld?\r",
+        "Sondern meine?\r",
+        "Tja, wo du recht hast..."
+      ]
+    },
+    {
+      "id": "msg_0682_00009",
+      "de_DE": [
+        "Als ich kürzlich gedankenverloren\n",
+        "meiner Wege ging, kam plötzlich\r",
+        "ein {STRVAR_1 0, 11, 0} aus dem Gebüsch\n",
+        "geschossen!\r",
+        "Es hat mich so erschreckt, dass ich\n",
+        "die Flucht ergriff!\r",
+        "Im Nachhinein tut es mir leid.\n",
+        "Ich hatte schon lange ein {STRVAR_1 0, 11, 0}\f",
+        "gesucht, weil ich einem Freund\f",
+        "versprochen hatte, mit ihm zu tauschen."
+      ]
+    },
+    {
+      "id": "msg_0682_00010",
+      "de_DE": [
+        "Wo bist du gerade? Ich bin wie immer\n",
+        "hier: {STRVAR_1 4, 3, 0}!\r",
+        "Hast du Lust auf einen Kampf?\f",
+        "Gut! Ich warte so lange!"
+      ]
+    },
+    {
+      "id": "msg_0682_00011",
+      "de_DE": [
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\n",
+        "Lass mich nicht zu lange warten."
+      ]
+    },
+    {
+      "id": "msg_0682_00012",
+      "de_DE": [
+        "Ha-haaa-hatschi!!!\r",
+        "Ha-ha-hatschi!\r",
+        "Puh! Das passiert immer, wenn meine\n",
+        "Vogel-Pokémon heftig mit den\f",
+        "Flügeln schlagen.\f",
+        "Dann fliegen mir Federn und Staub\f",
+        "um die Ohren, es juckt mir in der Nase\f",
+        "und ich mu... mu... \f",
+        "...muss niesen!\r",
+        "HATSCHI!!!"
+      ]
+    },
+    {
+      "id": "msg_0682_00013",
+      "de_DE": [
+        "Kürzlich kam mein Pokémon\n",
+        "angeflogen und trug etwas im Schnabel.\r",
+        "Ich sah nach, was es war - potz Blitz!\n",
+        "Es war ein Leuchtstein!\f",
+        "Das haut dich von den Socken, oder?\r",
+        "...wenn ich nur wüsste, wozu der\n",
+        "überhaupt gut sein soll.\r",
+        "Du siehst, ich habe keinen blassen\n",
+        "Schimmer davon. Nimm du ihn lieber.\f",
+        "An mir wäre er bloß verschwendet!\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}. Komm\n",
+        "vorbei und hole ihn dir ab."
+      ]
+    },
+    {
+      "id": "msg_0682_00014",
+      "de_DE": [
+        "Willst du deinen Leuchtstein nicht?\n",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\f",
+        "Komm und hole ihn dir!"
+      ]
+    }
+  ]
+}

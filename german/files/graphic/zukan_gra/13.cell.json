@@ -1,0 +1,8494 @@
+{
+	"labelEnabled":	true,
+	"dontPadKbec":	false,
+	"extended":	true,
+	"vramTransferEnabled":	false,
+	"ucatEnabled":	false,
+	"cellCount":	63,
+	"mappingType":	1,
+	"cells":	[{
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	0,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	9
+			},
+			"maxX":	23,
+			"maxY":	23,
+			"minX":	-24,
+			"minY":	-24,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	1,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	9,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	13,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	17,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	11
+			},
+			"maxX":	39,
+			"maxY":	15,
+			"minX":	-40,
+			"minY":	-16,
+			"oamCount":	10,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	24,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	19,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	24,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	19,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	21,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	21,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	21,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	21,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	21,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	21,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-40,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	19,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-40,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	19,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	9
+			},
+			"maxX":	31,
+			"maxY":	15,
+			"minX":	-32,
+			"minY":	-16,
+			"oamCount":	8,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	22,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	22,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	0,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	24,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	0,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	24,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	24,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	24,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-32,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	22,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-32,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	22,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	8
+			},
+			"maxX":	22,
+			"maxY":	22,
+			"minX":	-23,
+			"minY":	-23,
+			"oamCount":	8,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	15,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	25,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	7,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	7,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-23,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	7,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	15,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-23,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-23,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	25,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	7,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-23,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-23,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-23,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	16
+			},
+			"maxX":	3,
+			"maxY":	63,
+			"minX":	-4,
+			"minY":	-64,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	29,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-64,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	29,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	29,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	29,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	11,
+			"maxY":	11,
+			"minX":	-12,
+			"minY":	-12,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	31,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	33,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	34,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	35,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	11,
+			"maxY":	11,
+			"minX":	-12,
+			"minY":	-12,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	36,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	38,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	39,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	40,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	11,
+			"maxY":	11,
+			"minX":	-12,
+			"minY":	-12,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	41,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	43,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	44,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	45,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	true,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	11,
+			"maxY":	11,
+			"minX":	-12,
+			"minY":	-12,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	31,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	33,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	34,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	35,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	true,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	11,
+			"maxY":	11,
+			"minX":	-12,
+			"minY":	-12,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	36,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	38,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	39,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	40,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	true,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	11,
+			"maxY":	11,
+			"minX":	-12,
+			"minY":	-12,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	41,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	43,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	44,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	45,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	11,
+			"maxY":	11,
+			"minX":	-12,
+			"minY":	-12,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	49,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	50,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	5
+			},
+			"maxX":	11,
+			"maxY":	15,
+			"minX":	-12,
+			"minY":	-16,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	6
+			},
+			"maxX":	11,
+			"maxY":	19,
+			"minX":	-12,
+			"minY":	-20,
+			"oamCount":	6,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	54,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	55,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	7
+			},
+			"maxX":	11,
+			"maxY":	23,
+			"minX":	-12,
+			"minY":	-24,
+			"oamCount":	7,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	8
+			},
+			"maxX":	11,
+			"maxY":	27,
+			"minX":	-12,
+			"minY":	-28,
+			"oamCount":	8,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	55,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	59,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	9
+			},
+			"maxX":	11,
+			"maxY":	31,
+			"minX":	-12,
+			"minY":	-32,
+			"oamCount":	8,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	10
+			},
+			"maxX":	11,
+			"maxY":	35,
+			"minX":	-12,
+			"minY":	-36,
+			"oamCount":	10,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	60,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	59,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-36,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-36,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	11
+			},
+			"maxX":	11,
+			"maxY":	39,
+			"minX":	-12,
+			"minY":	-40,
+			"oamCount":	10,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-40,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-40,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	12
+			},
+			"maxX":	11,
+			"maxY":	43,
+			"minX":	-12,
+			"minY":	-44,
+			"oamCount":	12,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	60,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	59,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-44,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-44,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	13
+			},
+			"maxX":	11,
+			"maxY":	47,
+			"minX":	-12,
+			"minY":	-48,
+			"oamCount":	12,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-48,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-48,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	14
+			},
+			"maxX":	11,
+			"maxY":	51,
+			"minX":	-12,
+			"minY":	-52,
+			"oamCount":	14,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-36,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	60,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-36,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	59,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	36,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	36,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-52,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-52,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	15
+			},
+			"maxX":	11,
+			"maxY":	55,
+			"minX":	-12,
+			"minY":	-56,
+			"oamCount":	14,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-40,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	40,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	53,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-56,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	48,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	56,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-40,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	57,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	40,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	51,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-56,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	46,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	3
+			},
+			"maxX":	7,
+			"maxY":	7,
+			"minX":	-8,
+			"minY":	-8,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	61,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	3
+			},
+			"maxX":	7,
+			"maxY":	7,
+			"minX":	-8,
+			"minY":	-8,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	61,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	13
+			},
+			"maxX":	15,
+			"maxY":	47,
+			"minX":	-16,
+			"minY":	-48,
+			"oamCount":	3,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-48,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	63,
+						"Priority":	0,
+						"Palette":	3
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	71,
+						"Priority":	0,
+						"Palette":	3
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	79,
+						"Priority":	0,
+						"Palette":	3
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	6
+			},
+			"maxX":	15,
+			"maxY":	15,
+			"minX":	-16,
+			"minY":	-16,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	87,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	12
+			},
+			"maxX":	43,
+			"maxY":	15,
+			"minX":	-44,
+			"minY":	-16,
+			"oamCount":	12,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-28,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-28,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-44,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-44,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	18
+			},
+			"maxX":	69,
+			"maxY":	15,
+			"minX":	-68,
+			"minY":	-16,
+			"oamCount":	18,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	44,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	44,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	54,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	54,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-52,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-52,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-68,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-68,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	24
+			},
+			"maxX":	91,
+			"maxY":	15,
+			"minX":	-92,
+			"minY":	-16,
+			"oamCount":	24,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	68,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	68,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	76,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	76,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	52,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	52,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	36,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	36,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-28,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-28,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-44,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-76,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-60,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-44,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-76,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-60,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-92,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-92,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	10
+			},
+			"maxX":	35,
+			"maxY":	15,
+			"minX":	-36,
+			"minY":	-16,
+			"oamCount":	10,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	14
+			},
+			"maxX":	51,
+			"maxY":	15,
+			"minX":	-52,
+			"minY":	-16,
+			"oamCount":	14,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	36,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	36,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-52,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-52,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	6
+			},
+			"maxX":	14,
+			"maxY":	14,
+			"minX":	-15,
+			"minY":	-15,
+			"oamCount":	4,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-1,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-1,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-15,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-1,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-1,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-15,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-15,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-15,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	8
+			},
+			"maxX":	23,
+			"maxY":	19,
+			"minX":	-24,
+			"minY":	-20,
+			"oamCount":	8,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	96,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	96,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	6
+			},
+			"maxX":	15,
+			"maxY":	15,
+			"minX":	-16,
+			"minY":	-16,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	97,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	9
+			},
+			"maxX":	27,
+			"maxY":	23,
+			"minX":	-28,
+			"minY":	-24,
+			"oamCount":	5,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	105,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-19,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	107,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-28,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	109,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	117,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-24,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	121,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	8
+			},
+			"maxX":	27,
+			"maxY":	15,
+			"minX":	-28,
+			"minY":	-32,
+			"oamCount":	6,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	123,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-11,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-13,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	125,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-11,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	3,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	126,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-28,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	109,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	4,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	117,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	20,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	121,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	18
+			},
+			"maxX":	63,
+			"maxY":	31,
+			"minX":	-64,
+			"minY":	-32,
+			"oamCount":	2,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	0,
+						"RotationScaling":	8,
+						"Size":	3
+					},
+					"Attr2":	{
+						"CharName":	127,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-32,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-64,
+						"RotationScaling":	0,
+						"Size":	3
+					},
+					"Attr2":	{
+						"CharName":	127,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	5
+			},
+			"maxX":	15,
+			"maxY":	7,
+			"minX":	-16,
+			"minY":	-8,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	159,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	7
+			},
+			"maxX":	23,
+			"maxY":	15,
+			"minX":	-24,
+			"minY":	-16,
+			"oamCount":	3,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	163,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	163,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	164,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	5
+			},
+			"maxX":	15,
+			"maxY":	7,
+			"minX":	-16,
+			"minY":	-8,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	2
+					},
+					"Attr2":	{
+						"CharName":	172,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	176,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	177,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	178,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	179,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	180,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	181,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	182,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	183,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	184,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	2
+			},
+			"maxX":	3,
+			"maxY":	3,
+			"minX":	-4,
+			"minY":	-4,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	185,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	7,
+			"maxY":	11,
+			"minX":	-8,
+			"minY":	-12,
+			"oamCount":	2,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	186,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	188,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	7,
+			"maxY":	11,
+			"minX":	-8,
+			"minY":	-12,
+			"oamCount":	2,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	189,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	191,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	7,
+			"maxY":	11,
+			"minX":	-8,
+			"minY":	-12,
+			"oamCount":	2,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	186,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	188,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	4
+			},
+			"maxX":	7,
+			"maxY":	11,
+			"minX":	-8,
+			"minY":	-12,
+			"oamCount":	2,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	189,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	191,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	17
+			},
+			"maxX":	63,
+			"maxY":	15,
+			"minX":	-64,
+			"minY":	-16,
+			"oamCount":	16,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	32,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	32,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	0,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-32,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-48,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	48,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	48,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	0,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-32,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-48,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-64,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-64,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	23
+			},
+			"maxX":	87,
+			"maxY":	15,
+			"minX":	-88,
+			"minY":	-16,
+			"oamCount":	22,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	24,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	24,
+						"RotationScaling":	24,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	40,
+						"RotationScaling":	24,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	56,
+						"RotationScaling":	24,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	24,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	40,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	56,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	72,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	72,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-24,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-40,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-56,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-72,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-40,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-56,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-72,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	0,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-88,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-88,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	10
+			},
+			"maxX":	31,
+			"maxY":	19,
+			"minX":	-32,
+			"minY":	-20,
+			"oamCount":	14,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	0,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	0,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-16,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	24,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	192,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	16,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-32,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-32,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	192,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-32,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	12
+			},
+			"maxX":	3,
+			"maxY":	47,
+			"minX":	-4,
+			"minY":	-48,
+			"oamCount":	3,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-48,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	29,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	29,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-16,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	29,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	3
+			},
+			"maxX":	7,
+			"maxY":	7,
+			"minX":	-8,
+			"minY":	-8,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	105,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	false,
+				"vFlip":	false,
+				"hvFlip":	false,
+				"boundingRect":	true,
+				"boundingSphereRadius":	3
+			},
+			"maxX":	7,
+			"maxY":	7,
+			"minX":	-8,
+			"minY":	-8,
+			"oamCount":	1,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	-8,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-8,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	123,
+						"Priority":	0,
+						"Palette":	1
+					}
+				}]
+		}, {
+			"cellAttrs":	{
+				"hFlip":	true,
+				"vFlip":	true,
+				"hvFlip":	true,
+				"boundingRect":	true,
+				"boundingSphereRadius":	19
+			},
+			"maxX":	67,
+			"maxY":	35,
+			"minX":	-68,
+			"minY":	-28,
+			"oamCount":	22,
+			"OAM":	[{
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	44,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-52,
+						"RotationScaling":	16,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	44,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	95,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	28,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	12,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-4,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-20,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-36,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	1
+					},
+					"Attr1":	{
+						"XCoordinate":	-52,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	28,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	52,
+						"RotationScaling":	24,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	60,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	25,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	60,
+						"RotationScaling":	8,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	25,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	52,
+						"RotationScaling":	8,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	20,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-68,
+						"RotationScaling":	16,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	4,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-68,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	25,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-12,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	2
+					},
+					"Attr1":	{
+						"XCoordinate":	-68,
+						"RotationScaling":	0,
+						"Size":	0
+					},
+					"Attr2":	{
+						"CharName":	25,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}, {
+					"Attr0":	{
+						"YCoordinate":	-28,
+						"Rotation":	false,
+						"SizeDisable":	false,
+						"Mode":	0,
+						"Mosaic":	false,
+						"Colours":	16,
+						"Shape":	0
+					},
+					"Attr1":	{
+						"XCoordinate":	-68,
+						"RotationScaling":	0,
+						"Size":	1
+					},
+					"Attr2":	{
+						"CharName":	26,
+						"Priority":	0,
+						"Palette":	0
+					}
+				}]
+		}],
+	"labels":	["ball", "cur_list", "cur_btn03", "cur_btn02", "rail", "up", "up_tuch", "up_off", "dwn", "dwn_tuch", "dwn_off", "bar14", "bar13", "bar12", "bar11", "bar10", "bar9", "bar8", "ba7", "bar6", "bar5", "bar4", "bar3", "bar_top", "yazirusi_l", "yazirusi_r", "time", "cur_time", "memoicon", "max", "min", "omosa01", "omosa02", "omosa03", "cur_knsk_4x4", "cur_knsk_9x2", "cur_knsk_15x2", "cur_knsk_21x2", "cur_knsk_7x2", "cur_knsk_11x2", "cur_knsk_2x2", "bar_omosa_max", "bar_omosa_min", "no0", "no1", "no2", "no3", "no4", "no5", "no6", "no7", "no8", "no9", "omosa_r", "omosa_r_tuch", "omosar_off", "omosa_l", "omosa_l_tuch", "omosa_l_off", "cur_knsk_14X2", "cur_knsk_20X2", "cur_knsk_3X4", "cur_knsk_6X3", "rail_s", "yazirusi_u", "yazirusi_d", "cur_sugata"],
+	"labelCount":	67
+}

@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_SPEAROW",
+  "hpIv": 15,
+  "atkIv": 20,
+  "defIv": 15,
+  "speedIv": 20,
+  "spAtkIv": 20,
+  "spDefIv": 20,
+  "ability": 51,
+  "otId": 1001,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 27486,
+  "heldItem": "ITEM_GRASS_MAIL",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_SPEAROW",
+  "unk_50": 0
+}

@@ -1,0 +1,108 @@
+{
+  "key": 26096,
+  "messages": [
+    {
+      "id": "msg_0661_00000",
+      "de_DE": "Großvater"
+    },
+    {
+      "id": "msg_0661_00001",
+      "de_DE": [
+        "Hallo?\n",
+        "Ja, was möchtest du?\r",
+        "Die Jugend von heute zieht ja das\n",
+        "Telefon dem persönlichen Gespräch vor.\r",
+        "Mir aber ist es lieber, wenn ich meinen\n",
+        "Gesprächspartner sehen kann!"
+      ]
+    },
+    {
+      "id": "msg_0661_00002",
+      "de_DE": [
+        "Hallo?\n",
+        "Ah! Du bist es!\r"
+      ]
+    },
+    {
+      "id": "msg_0661_00003",
+      "de_DE": [
+        "Die Pokémon, die du uns anvertraut\n",
+        "hast, haben jetzt ein Ei!\r",
+        "Du willst bestimmt wissen, was für eins,\n",
+        "oder? Komm es dir schnell abholen!"
+      ]
+    },
+    {
+      "id": "msg_0661_00004",
+      "de_DE": [
+        "Wir haben momentan kein Pokémon von dir\n",
+        "in Pflege...\r"
+      ]
+    },
+    {
+      "id": "msg_0661_00005",
+      "de_DE": "Deinem {STRVAR_1 0, 10, 0} geht es sehr gut.\r"
+    },
+    {
+      "id": "msg_0661_00006",
+      "de_DE": [
+        "{STRVAR_1 0, 10, 0} und {STRVAR_1 0, 11, 0}\n",
+        "geht es prächtig.\r"
+      ]
+    },
+    {
+      "id": "msg_0661_00007",
+      "de_DE": [
+        "Die beiden scheinen sich sehr zu\n",
+        "mögen.\r"
+      ]
+    },
+    {
+      "id": "msg_0661_00008",
+      "de_DE": [
+        "Die beiden scheinen sich zu\n",
+        "vertragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0661_00009",
+      "de_DE": "Die beiden mögen sich nicht sehr.\r"
+    },
+    {
+      "id": "msg_0661_00010",
+      "de_DE": [
+        "Die beiden spielen lieber mit\n",
+        "anderen Pokémon als miteinander.\r"
+      ]
+    },
+    {
+      "id": "msg_0661_00011",
+      "de_DE": "Komm uns wieder einmal besuchen!"
+    },
+    {
+      "id": "msg_0661_00012",
+      "de_DE": [
+        "Hallo, ich bin es, der Großvater aus der\n",
+        "Pension.\r",
+        "Wir haben deine Pokémon aufgezogen\n",
+        "und wurden überrascht!\r",
+        "Deine Pokémon haben nun ein Ei!\r",
+        "Wir wissen nicht, wie das passiert\n",
+        "ist, aber nun ist es da.\r",
+        "Du willst bestimmt wissen, was für eins,\n",
+        "oder? Komm es dir schnell abholen!"
+      ]
+    },
+    {
+      "id": "msg_0661_00013",
+      "de_DE": [
+        "Hallo, ich bin es, der Großvater aus der\n",
+        "Pension.\r",
+        "Die Pokémon, die du uns anvertraut\n",
+        "hast, haben jetzt ein Ei.\r",
+        "Du willst bestimmt wissen, was für eins,\n",
+        "oder? Komm es dir schnell abholen!"
+      ]
+    }
+  ]
+}

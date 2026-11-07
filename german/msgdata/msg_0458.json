@@ -1,0 +1,109 @@
+{
+  "key": 37915,
+  "messages": [
+    {
+      "id": "msg_0458_00000",
+      "de_DE": [
+        "Willkommen in unserer Übungshalle!\r",
+        "Hier kannst du einmal pro Tag gegen\n",
+        "andere Trainer und ihre Lieblings-\f",
+        "Pokémon antreten.\r",
+        "Willst du es mal versuchen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0458_00001",
+      "garbage": 35
+    },
+    {
+      "id": "msg_0458_00002",
+      "de_DE": [
+        "So, fertig!\n",
+        "Du darfst eintreten!\r"
+      ]
+    },
+    {
+      "id": "msg_0458_00003",
+      "de_DE": [
+        "Ich verstehe...\n",
+        "Aber komm doch mal wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0458_00004",
+      "de_DE": "Willst du aufhören? {YESNO 0}"
+    },
+    {
+      "id": "msg_0458_00005",
+      "de_DE": "Danke fürs Mitmachen!\r"
+    },
+    {
+      "id": "msg_0458_00006",
+      "de_DE": [
+        "In Ordnung!\n",
+        "Ich wünsche dir viel Erfolg!\r"
+      ]
+    },
+    {
+      "id": "msg_0458_00007",
+      "de_DE": "Oh, hallo! Hier entlang bitte!\r"
+    },
+    {
+      "id": "msg_0458_00008",
+      "de_DE": [
+        "Willkommen in der Übungshalle, dem\n",
+        "Treffpunkt für Trainer von überallher!\r",
+        "Hier wirst du Freunden begegnen, die\n",
+        "du per Pokéwalker getroffen hast!\r",
+        "Pro Tag hast du einmal die Möglichkeit,\n",
+        "gegen andere Trainer anzutreten.\r",
+        "Wenn du dabei als Sieger hervorgehst,\n",
+        "kannst du Gewinnpunkte abstauben!\f",
+        "Lege dich also kräftig ins Zeug!\r"
+      ]
+    },
+    {
+      "id": "msg_0458_00009",
+      "de_DE": [
+        "Oh! Dürfte ich eben einen kurzen Blick\n",
+        "auf deine Kampfkamera werfen?\r",
+        "Ich drücke auch nur kurz hier drauf\n",
+        "und lege dieses Dings um.\f",
+        "Tadah! Das war’s auch schon!\r",
+        "Ich habe deine Kampfkamera so\n",
+        "modifiziert, dass sie dir jetzt auch\f",
+        "deine Gewinnpunkte anzeigt!\r"
+      ]
+    },
+    {
+      "id": "msg_0458_00010",
+      "de_DE": [
+        "Die Kampfkamera von {STRVAR_1 3, 0, 0}\n",
+        "wurde aufgerüstet!"
+      ]
+    },
+    {
+      "id": "msg_0458_00011",
+      "de_DE": [
+        "Gewinnpunkte können in der Kampfzone\n",
+        "von Johto gegen großartige Preise\f",
+        "eingetauscht werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0458_00012",
+      "de_DE": [
+        "Gut, verlieren wir keine Zeit!\n",
+        "Nimmst du an den Übungen teil? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0458_00013",
+      "de_DE": "Möchtest du kämpfen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0458_00014",
+      "de_DE": "Dann bis morgen!"
+    }
+  ]
+}

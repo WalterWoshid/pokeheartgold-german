@@ -1,0 +1,131 @@
+{
+  "key": 31522,
+  "messages": [
+    {
+      "id": "msg_0677_00000",
+      "de_DE": "Dea"
+    },
+    {
+      "id": "msg_0677_00001",
+      "de_DE": [
+        "Du kämpfst sehr gut! Würdest du\n",
+        "mir noch einmal die Ehre erweisen?\r",
+        "Wenn ich einen starken Trainer treffe,\n",
+        "möchte ich so oft wie möglich gegen ihn\f",
+        "antreten. Auf diese Weise verbessere\f",
+        "ich meine eigenen Fähigkeiten!\r",
+        "Also, wenn du einverstanden bist...\n",
+        "Würdest du mir deine Nummer geben?\f",
+        "Es wäre mir eine Freude! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0677_00002",
+      "de_DE": [
+        "Lass uns bald wieder\n",
+        "gegeneinander antreten!"
+      ]
+    },
+    {
+      "id": "msg_0677_00003",
+      "de_DE": [
+        "Das ist schade... gib mir Bescheid,\n",
+        "falls du deine Meinung änderst."
+      ]
+    },
+    {
+      "id": "msg_0677_00004",
+      "de_DE": [
+        "Indem ich starke Trainer wie dich\n",
+        "herausfordere, verbessere ich meine\f",
+        "eigenen Fähigkeiten!\r",
+        "Also, wenn du einverstanden bist...\n",
+        "Würdest du mir deine Nummer geben?\f",
+        "Es wäre mir eine Ehre! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0677_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0677_00006",
+      "de_DE": [
+        "Warte mal... du bist doch gar\n",
+        "nicht weit weg!\r",
+        "Möchtest du nicht zu mir kommen\n",
+        "und persönlich mit mir reden?"
+      ]
+    },
+    {
+      "id": "msg_0677_00007",
+      "de_DE": [
+        "Erinnerst du dich noch an\n",
+        "mein {STRVAR_1 0, 10, 0}?\r",
+        "Du solltest mal sehen, wie schnell\n",
+        "es laufen kann!\r",
+        "Es gibt nichts Schöneres, als auf seinem\n",
+        "Rücken zu reiten, wenn es losprescht!\r",
+        "Also dann, bye-bye!"
+      ]
+    },
+    {
+      "id": "msg_0677_00008",
+      "de_DE": [
+        "Bist du schon einmal einem\n",
+        "{STRVAR_1 0, 11, 0} begegnet?\r",
+        "Ich stand neulich einem gegenüber...\n",
+        "Es war schneller, als ich dachte, und\f",
+        "hat mich auf dem falschen Fuß erwischt.\f",
+        "Gewonnen habe ich natürlich trotzdem!\r",
+        "Also dann, bye-bye!"
+      ]
+    },
+    {
+      "id": "msg_0677_00009",
+      "de_DE": [
+        "Vorhin habe ich ein {STRVAR_1 0, 11, 0}\n",
+        "aufgespürt und wollte es fangen...\f",
+        "Aber ich hatte keine Pokébälle mehr!\r",
+        "Wenn du deinen Item-Bestand nicht\n",
+        "im Auge behältst, ergeht es dir ähnlich.\f",
+        "Also, lerne aus meinem Fehler.\r",
+        "Bye-bye!"
+      ]
+    },
+    {
+      "id": "msg_0677_00010",
+      "de_DE": [
+        "Was hältst du von einem Kampf?\n",
+        "Diesmal gewinne ich!\r",
+        "Du findest mich hier: {STRVAR_1 4, 3, 0}.\n",
+        "Komm vorbei und sprich mich an."
+      ]
+    },
+    {
+      "id": "msg_0677_00011",
+      "de_DE": [
+        "Sag mal?\n",
+        "Wo bleibst du denn, {STRVAR_1 3, 0, 0}?\f",
+        "Hast du unseren Kampf vergessen?\r",
+        "{STRVAR_1 4, 3, 0}! Ich warte!"
+      ]
+    },
+    {
+      "id": "msg_0677_00012",
+      "de_DE": [
+        "Sag mal?\n",
+        "Wo bleibst du denn, {STRVAR_1 3, 0, 0}?\f",
+        "Hast du unseren Kampf vergessen?\r",
+        "{STRVAR_1 4, 3, 0}! Ich warte!"
+      ]
+    },
+    {
+      "id": "msg_0677_00013",
+      "de_DE": [
+        "Lass uns wieder\n",
+        "mal kämpfen!"
+      ]
+    }
+  ]
+}

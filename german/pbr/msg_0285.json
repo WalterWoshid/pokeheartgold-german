@@ -1,0 +1,56 @@
+{
+  "key": 9318,
+  "messages": [
+    {
+      "id": "msg_0285_00000",
+      "de_DE": [
+        "Vielen Dank für deine Teilnahme!\r",
+        "Warte bitte, bis das Spiel gespeichert\n",
+        "wurde. Schalte das System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0285_00001",
+      "de_DE": "Hoffentlich bis bald!"
+    },
+    {
+      "id": "msg_0285_00002",
+      "de_DE": [
+        "Wir heilen deine Pokémon und machen\n",
+        "sie wieder fit!"
+      ]
+    },
+    {
+      "id": "msg_0285_00003",
+      "de_DE": [
+        "Das {STRVAR_1 50, 0}. gegnerische Team ist bereit.\n",
+        "Bist du so weit?"
+      ]
+    },
+    {
+      "id": "msg_0285_00004",
+      "de_DE": [
+        "Möchtest du speichern und\n",
+        "das Spiel beenden?"
+      ]
+    },
+    {
+      "id": "msg_0285_00005",
+      "de_DE": [
+        "Möchtest du deine Herausforderung\n",
+        "im Kampfraum abbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0285_00006",
+      "de_DE": [
+        "Du ziehst dich also von der Heraus-\n",
+        "forderung in diesem Kampfraum zurück."
+      ]
+    },
+    {
+      "id": "msg_0285_00007",
+      "de_DE": "Warte auf Antwort des Freundes..."
+    }
+  ]
+}

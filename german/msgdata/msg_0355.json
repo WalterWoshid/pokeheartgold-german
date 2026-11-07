@@ -1,0 +1,51 @@
+{
+  "key": 5159,
+  "messages": [
+    {
+      "id": "msg_0355_00000",
+      "de_DE": [
+        "Wenn du immer weiter den\n",
+        "Radweg hinabbraust,\f",
+        "kommst du nach Fuchsania City."
+      ]
+    },
+    {
+      "id": "msg_0355_00001",
+      "de_DE": [
+        "Hallo, hallo! Möchtest du einen\n",
+        "hippen Spruch hören? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0355_00002",
+      "de_DE": [
+        "Nun gut...\r",
+        "Der hippe Spruch lautet...\r",
+        "{STRVAR_1 28, 0, 0}!\r",
+        "Das ist total in, das zu sagen!"
+      ]
+    },
+    {
+      "id": "msg_0355_00003",
+      "de_DE": [
+        "Oh, jetzt komm schon. Mit so einer\n",
+        "Einstellung wirst du immer der Zeit\f",
+        "hinterherhinken!"
+      ]
+    },
+    {
+      "id": "msg_0355_00004",
+      "de_DE": [
+        "Ich hoffe, du setzt hippe\n",
+        "Sprüche auch hip ein."
+      ]
+    },
+    {
+      "id": "msg_0355_00005",
+      "de_DE": [
+        "Hallo, hallo! Gibst du manchmal\n",
+        "einen hippen Spruch von dir?"
+      ]
+    }
+  ]
+}

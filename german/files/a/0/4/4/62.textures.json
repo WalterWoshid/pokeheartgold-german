@@ -1,0 +1,28 @@
+{
+  "textures": [
+    {
+      "name": "f_dep01_00",
+      "source": "files/a/0/4/4/62.f_dep01_00.png"
+    },
+    {
+      "name": "f_dep02_00",
+      "source": "files/a/0/4/4/62.f_dep02_00.png"
+    },
+    {
+      "name": "f_dep03_01",
+      "source": "files/a/0/4/4/62.f_dep03_01.png"
+    },
+    {
+      "name": "f_dep04_00",
+      "source": "files/a/0/4/4/62.f_dep04_00.png"
+    },
+    {
+      "name": "f_dep05_00",
+      "source": "files/a/0/4/4/62.f_dep05_00.png"
+    },
+    {
+      "name": "f_dep06_00",
+      "source": "files/a/0/4/4/62.f_dep06_00.png"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "key": 7280,
+  "messages": [
+    {
+      "id": "msg_0720_00000",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0720_00001",
+      "de_DE": "Duftnote"
+    },
+    {
+      "id": "msg_0720_00002",
+      "de_DE": "Niesel"
+    },
+    {
+      "id": "msg_0720_00003",
+      "de_DE": "Temposchub"
+    },
+    {
+      "id": "msg_0720_00004",
+      "de_DE": "Kampfpanzer"
+    },
+    {
+      "id": "msg_0720_00005",
+      "de_DE": "Robustheit"
+    },
+    {
+      "id": "msg_0720_00006",
+      "de_DE": "Feuchtigkeit"
+    },
+    {
+      "id": "msg_0720_00007",
+      "de_DE": "Flexibilität"
+    },
+    {
+      "id": "msg_0720_00008",
+      "de_DE": "Sandschleier"
+    },
+    {
+      "id": "msg_0720_00009",
+      "de_DE": "Statik"
+    },
+    {
+      "id": "msg_0720_00010",
+      "de_DE": "Voltabsorber"
+    },
+    {
+      "id": "msg_0720_00011",
+      "de_DE": "H2O-Absorber"
+    },
+    {
+      "id": "msg_0720_00012",
+      "de_DE": "Dösigkeit"
+    },
+    {
+      "id": "msg_0720_00013",
+      "de_DE": "Wolke Sieben"
+    },
+    {
+      "id": "msg_0720_00014",
+      "de_DE": "Facettenauge"
+    },
+    {
+      "id": "msg_0720_00015",
+      "de_DE": "Insomnia"
+    },
+    {
+      "id": "msg_0720_00016",
+      "de_DE": "Farbwechsel"
+    },
+    {
+      "id": "msg_0720_00017",
+      "de_DE": "Immunität"
+    },
+    {
+      "id": "msg_0720_00018",
+      "de_DE": "Feuerfänger"
+    },
+    {
+      "id": "msg_0720_00019",
+      "de_DE": "Puderabwehr"
+    },
+    {
+      "id": "msg_0720_00020",
+      "de_DE": "Tempomacher"
+    },
+    {
+      "id": "msg_0720_00021",
+      "de_DE": "Saugnapf"
+    },
+    {
+      "id": "msg_0720_00022",
+      "de_DE": "Bedroher"
+    },
+    {
+      "id": "msg_0720_00023",
+      "de_DE": "Wegsperre"
+    },
+    {
+      "id": "msg_0720_00024",
+      "de_DE": "Rauhaut"
+    },
+    {
+      "id": "msg_0720_00025",
+      "de_DE": "Wunderwache"
+    },
+    {
+      "id": "msg_0720_00026",
+      "de_DE": "Schwebe"
+    },
+    {
+      "id": "msg_0720_00027",
+      "de_DE": "Sporenwirt"
+    },
+    {
+      "id": "msg_0720_00028",
+      "de_DE": "Synchro"
+    },
+    {
+      "id": "msg_0720_00029",
+      "de_DE": "Neutraltorso"
+    },
+    {
+      "id": "msg_0720_00030",
+      "de_DE": "Innere Kraft"
+    },
+    {
+      "id": "msg_0720_00031",
+      "de_DE": "Blitzfänger"
+    },
+    {
+      "id": "msg_0720_00032",
+      "de_DE": "Edelmut"
+    },
+    {
+      "id": "msg_0720_00033",
+      "de_DE": "Wassertempo"
+    },
+    {
+      "id": "msg_0720_00034",
+      "de_DE": "Chlorophyll"
+    },
+    {
+      "id": "msg_0720_00035",
+      "de_DE": "Erleuchtung"
+    },
+    {
+      "id": "msg_0720_00036",
+      "de_DE": "Fährte"
+    },
+    {
+      "id": "msg_0720_00037",
+      "de_DE": "Kraftkoloss"
+    },
+    {
+      "id": "msg_0720_00038",
+      "de_DE": "Giftdorn"
+    },
+    {
+      "id": "msg_0720_00039",
+      "de_DE": "Konzentrator"
+    },
+    {
+      "id": "msg_0720_00040",
+      "de_DE": "Magmapanzer"
+    },
+    {
+      "id": "msg_0720_00041",
+      "de_DE": "Aquahülle"
+    },
+    {
+      "id": "msg_0720_00042",
+      "de_DE": "Magnetfalle"
+    },
+    {
+      "id": "msg_0720_00043",
+      "de_DE": "Lärmschutz"
+    },
+    {
+      "id": "msg_0720_00044",
+      "de_DE": "Regengenuss"
+    },
+    {
+      "id": "msg_0720_00045",
+      "de_DE": "Sandsturm"
+    },
+    {
+      "id": "msg_0720_00046",
+      "de_DE": "Erzwinger"
+    },
+    {
+      "id": "msg_0720_00047",
+      "de_DE": "Speckschicht"
+    },
+    {
+      "id": "msg_0720_00048",
+      "de_DE": "Frühwecker"
+    },
+    {
+      "id": "msg_0720_00049",
+      "de_DE": "Flammkörper"
+    },
+    {
+      "id": "msg_0720_00050",
+      "de_DE": "Angsthase"
+    },
+    {
+      "id": "msg_0720_00051",
+      "de_DE": "Adlerauge"
+    },
+    {
+      "id": "msg_0720_00052",
+      "de_DE": "Scherenmacht"
+    },
+    {
+      "id": "msg_0720_00053",
+      "de_DE": "Mitnahme"
+    },
+    {
+      "id": "msg_0720_00054",
+      "de_DE": "Schnarchnase"
+    },
+    {
+      "id": "msg_0720_00055",
+      "de_DE": "Übereifer"
+    },
+    {
+      "id": "msg_0720_00056",
+      "de_DE": "Charmebolzen"
+    },
+    {
+      "id": "msg_0720_00057",
+      "de_DE": "Plus"
+    },
+    {
+      "id": "msg_0720_00058",
+      "de_DE": "Minus"
+    },
+    {
+      "id": "msg_0720_00059",
+      "de_DE": "Prognose"
+    },
+    {
+      "id": "msg_0720_00060",
+      "de_DE": "Wertehalter"
+    },
+    {
+      "id": "msg_0720_00061",
+      "de_DE": "Expidermis"
+    },
+    {
+      "id": "msg_0720_00062",
+      "de_DE": "Adrenalin"
+    },
+    {
+      "id": "msg_0720_00063",
+      "de_DE": "Notschutz"
+    },
+    {
+      "id": "msg_0720_00064",
+      "de_DE": "Kloakensoße"
+    },
+    {
+      "id": "msg_0720_00065",
+      "de_DE": "Notdünger"
+    },
+    {
+      "id": "msg_0720_00066",
+      "de_DE": "Großbrand"
+    },
+    {
+      "id": "msg_0720_00067",
+      "de_DE": "Sturzbach"
+    },
+    {
+      "id": "msg_0720_00068",
+      "de_DE": "Hexaplaga"
+    },
+    {
+      "id": "msg_0720_00069",
+      "de_DE": "Steinhaupt"
+    },
+    {
+      "id": "msg_0720_00070",
+      "de_DE": "Dürre"
+    },
+    {
+      "id": "msg_0720_00071",
+      "de_DE": "Auswegslos"
+    },
+    {
+      "id": "msg_0720_00072",
+      "de_DE": "Munterkeit"
+    },
+    {
+      "id": "msg_0720_00073",
+      "de_DE": "Pulverrauch"
+    },
+    {
+      "id": "msg_0720_00074",
+      "de_DE": "Mentalkraft"
+    },
+    {
+      "id": "msg_0720_00075",
+      "de_DE": "Panzerhaut"
+    },
+    {
+      "id": "msg_0720_00076",
+      "de_DE": "Klimaschutz"
+    },
+    {
+      "id": "msg_0720_00077",
+      "de_DE": "Fußangel"
+    },
+    {
+      "id": "msg_0720_00078",
+      "de_DE": "Starthilfe"
+    },
+    {
+      "id": "msg_0720_00079",
+      "de_DE": "Rivalität"
+    },
+    {
+      "id": "msg_0720_00080",
+      "de_DE": "Felsenfest"
+    },
+    {
+      "id": "msg_0720_00081",
+      "de_DE": "Schneemantel"
+    },
+    {
+      "id": "msg_0720_00082",
+      "de_DE": "Völlerei"
+    },
+    {
+      "id": "msg_0720_00083",
+      "de_DE": "Kurzschluss"
+    },
+    {
+      "id": "msg_0720_00084",
+      "de_DE": "Entlastung"
+    },
+    {
+      "id": "msg_0720_00085",
+      "de_DE": "Hitzeschutz"
+    },
+    {
+      "id": "msg_0720_00086",
+      "de_DE": "Wankelmut"
+    },
+    {
+      "id": "msg_0720_00087",
+      "de_DE": "Trockenheit"
+    },
+    {
+      "id": "msg_0720_00088",
+      "de_DE": "Download"
+    },
+    {
+      "id": "msg_0720_00089",
+      "de_DE": "Eisenfaust"
+    },
+    {
+      "id": "msg_0720_00090",
+      "de_DE": "Aufheber"
+    },
+    {
+      "id": "msg_0720_00091",
+      "de_DE": "Anpassung"
+    },
+    {
+      "id": "msg_0720_00092",
+      "de_DE": "Wertelink"
+    },
+    {
+      "id": "msg_0720_00093",
+      "de_DE": "Hydration"
+    },
+    {
+      "id": "msg_0720_00094",
+      "de_DE": "Solarkraft"
+    },
+    {
+      "id": "msg_0720_00095",
+      "de_DE": "Rasanz"
+    },
+    {
+      "id": "msg_0720_00096",
+      "de_DE": "Regulierung"
+    },
+    {
+      "id": "msg_0720_00097",
+      "de_DE": "Superschütze"
+    },
+    {
+      "id": "msg_0720_00098",
+      "de_DE": "Magieschild"
+    },
+    {
+      "id": "msg_0720_00099",
+      "de_DE": "Schildlos"
+    },
+    {
+      "id": "msg_0720_00100",
+      "de_DE": "Zeitspiel"
+    },
+    {
+      "id": "msg_0720_00101",
+      "de_DE": "Techniker"
+    },
+    {
+      "id": "msg_0720_00102",
+      "de_DE": "Floraschild"
+    },
+    {
+      "id": "msg_0720_00103",
+      "de_DE": "Tollpatsch"
+    },
+    {
+      "id": "msg_0720_00104",
+      "de_DE": "Überbrückung"
+    },
+    {
+      "id": "msg_0720_00105",
+      "de_DE": "Glückspilz"
+    },
+    {
+      "id": "msg_0720_00106",
+      "de_DE": "Finalschlag"
+    },
+    {
+      "id": "msg_0720_00107",
+      "de_DE": "Vorahnung"
+    },
+    {
+      "id": "msg_0720_00108",
+      "de_DE": "Vorwarnung"
+    },
+    {
+      "id": "msg_0720_00109",
+      "de_DE": "Unkenntnis"
+    },
+    {
+      "id": "msg_0720_00110",
+      "de_DE": "Aufwertung"
+    },
+    {
+      "id": "msg_0720_00111",
+      "de_DE": "Filter"
+    },
+    {
+      "id": "msg_0720_00112",
+      "de_DE": "Saumselig"
+    },
+    {
+      "id": "msg_0720_00113",
+      "de_DE": "Rauflust"
+    },
+    {
+      "id": "msg_0720_00114",
+      "de_DE": "Sturmsog"
+    },
+    {
+      "id": "msg_0720_00115",
+      "de_DE": "Eishaut"
+    },
+    {
+      "id": "msg_0720_00116",
+      "de_DE": "Felskern"
+    },
+    {
+      "id": "msg_0720_00117",
+      "de_DE": "Hagelalarm"
+    },
+    {
+      "id": "msg_0720_00118",
+      "de_DE": "Honigmaul"
+    },
+    {
+      "id": "msg_0720_00119",
+      "de_DE": "Schnüffler"
+    },
+    {
+      "id": "msg_0720_00120",
+      "de_DE": "Achtlos"
+    },
+    {
+      "id": "msg_0720_00121",
+      "de_DE": "Variabilität"
+    },
+    {
+      "id": "msg_0720_00122",
+      "de_DE": "Pflanzengabe"
+    },
+    {
+      "id": "msg_0720_00123",
+      "de_DE": "Alptraum"
+    }
+  ]
+}

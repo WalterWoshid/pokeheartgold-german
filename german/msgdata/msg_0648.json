@@ -1,0 +1,137 @@
+{
+  "key": 45836,
+  "messages": [
+    {
+      "id": "msg_0648_00000",
+      "de_DE": "Falk"
+    },
+    {
+      "id": "msg_0648_00001",
+      "de_DE": [
+        "Häh? Ich verstehe dich kaum!\n",
+        "Das muss an der Verbindung liegen!\r",
+        "Ruf bitte einmal von woanders an!"
+      ]
+    },
+    {
+      "id": "msg_0648_00002",
+      "de_DE": [
+        "Hallo?\n",
+        "Ach, du bist es!\f",
+        "Ja, mir geht’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0648_00003",
+      "de_DE": [
+        "Es gibt noch viele Arenaleiter, gegen\n",
+        "die du kämpfen musst!\f",
+        "Enttäusche mich nicht!"
+      ]
+    },
+    {
+      "id": "msg_0648_00004",
+      "de_DE": [
+        "Hm, mal überlegen... am Samstagmorgen\n",
+        "hätte ich Zeit...\f",
+        "Ruf mich dann doch einfach an!"
+      ]
+    },
+    {
+      "id": "msg_0648_00005",
+      "de_DE": [
+        "Das nenne ich perfektes Timing!\n",
+        "Und? Willst du noch mal gegen mich\f",
+        "antreten? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0648_00006",
+      "de_DE": [
+        "Super!\n",
+        "Dann nichts wie los!\r",
+        "Ich warte auf dich im Dojo von Saffronia\n",
+        "City! Bis dann!"
+      ]
+    },
+    {
+      "id": "msg_0648_00007",
+      "de_DE": [
+        "Schade...\n",
+        "Aber du hast sicher auch viel zu tun..."
+      ]
+    },
+    {
+      "id": "msg_0648_00008",
+      "de_DE": [
+        "Hm, Moment mal...\n",
+        "Du hast vor mir aber schon anderen ein\f",
+        "Rematch versprochen, nicht wahr?\n"
+      ]
+    },
+    {
+      "id": "msg_0648_00009",
+      "de_DE": [
+        "Ich warte also auf dich im Dojo von\n",
+        "Saffronia City!\f",
+        "Du hast es mir versprochen!"
+      ]
+    },
+    {
+      "id": "msg_0648_00010",
+      "de_DE": [
+        "Ich bin’s, Falk!\n",
+        "Na? Wie geht’s, wie steht’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0648_00011",
+      "de_DE": [
+        "Gilt dein Versprechen noch, mit mir\n",
+        "im Dojo von Saffronia City zu kämpfen?\f",
+        "Du hast mir dein Wort gegeben!"
+      ]
+    },
+    {
+      "id": "msg_0648_00012",
+      "de_DE": [
+        "Als ich noch ein Kind war, sagte mein\n",
+        "Vater zu mir: “Falk, mein Junge, schau\f",
+        "mal... die Vogel-Pokémon können doch\f",
+        "fliegen, oder? Aber weshalb? Nein, nicht\f",
+        "dank ihrer Flügel! Einzig ihr starker\f",
+        "Wille erlaubt es ihnen, durch die Luft zu\f",
+        "gleiten!”\r",
+        "Ganz mein Vater!\n",
+        "Ich verstehe es zwar immer noch nicht,\f",
+        "aber es ist schon beeindruckend, oder?"
+      ]
+    },
+    {
+      "id": "msg_0648_00013",
+      "de_DE": [
+        "Meine Arena liegt ziemlich hoch oben!\n",
+        "Es ist gar nicht so leicht, sich seinen\f",
+        "Weg hierherauf zu bahnen!\r",
+        "Und erst der Frühjahrsputz!\n",
+        "Aber glücklicherweise helfen mir ja die\f",
+        "Vogel-Pokémon dabei!"
+      ]
+    },
+    {
+      "id": "msg_0648_00014",
+      "de_DE": [
+        "Unterhältst du dich manchmal mit Janina\n",
+        "aus Fuchsania City?\r",
+        "Sie spricht die ganze Zeit von ihrem\n",
+        "Vater! Mein Vater hier, mein Vater da...\f",
+        "Versteh mich nicht falsch! Ich halte es\f",
+        "für wichtig, seinen Vater zu achten,\f",
+        "aber etwas mehr Selbstvertrauen würde\f",
+        "ihr nicht schaden! Was meinst du?\r",
+        "Hast du eigentlich genug\n",
+        "Selbstvertrauen?"
+      ]
+    }
+  ]
+}

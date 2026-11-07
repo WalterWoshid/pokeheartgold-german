@@ -1,3 +1,5 @@
+#include "config.h"
+	.extern _ull_div
 	.include "macros.inc"
 	.include "overlay_40.inc"
 	.include "global.inc"
@@ -3635,7 +3637,7 @@ _0222D410:
 	add r5, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x14]
@@ -3692,7 +3694,7 @@ _0222D494:
 	add r5, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x18]
@@ -5326,7 +5328,7 @@ _0222E0D6:
 	add r6, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x2c]
@@ -6713,7 +6715,7 @@ _0222ED28:
 	str r0, [sp, #0x44]
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x44]
 	add r0, r5, #0
@@ -6755,7 +6757,7 @@ _0222ED6E:
 	bl CopyU16ArrayToString
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x44]
 	add r0, r5, #0
@@ -6793,7 +6795,7 @@ _0222EDA8:
 	bl String16_FormatInteger
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x48]
@@ -6830,7 +6832,7 @@ _0222EDA8:
 	beq _0222EE7A
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x34]
 	add r0, r5, #0
@@ -7305,7 +7307,7 @@ _0222F1D8:
 	str r0, [sp, #0x4c]
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x4c]
 	add r0, r5, #0
@@ -7347,7 +7349,7 @@ _0222F21E:
 	bl CopyU16ArrayToString
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x4c]
 	add r0, r5, #0
@@ -7385,7 +7387,7 @@ _0222F258:
 	bl String16_FormatInteger
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x50]
@@ -7422,7 +7424,7 @@ _0222F258:
 	beq _0222F32A
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x48]
 	add r0, r5, #0
@@ -9090,6 +9092,9 @@ _0222FF70:
 	.balign 4, 0
 	thumb_func_end ov40_0222FF64
 
+#ifdef GERMAN
+#include "german_ov40_0222FF74.inc"
+#else
 	thumb_func_start ov40_0222FF74
 ov40_0222FF74: ; 0x0222FF74
 	push {r4, r5, r6, r7, lr}
@@ -9230,7 +9235,7 @@ _02230062:
 	add r6, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x44]
@@ -9331,7 +9336,7 @@ _02230062:
 	bl String16_FormatInteger
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x50]
@@ -9547,6 +9552,7 @@ _022302BA:
 	nop
 _02230394: .word 0x000F0D00
 	thumb_func_end ov40_0222FF74
+#endif
 
 	thumb_func_start ov40_02230398
 ov40_02230398: ; 0x02230398
@@ -20444,7 +20450,7 @@ _02235B66:
 	add r5, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	mov r1, #0
 	ldr r0, [sp, #0x18]
@@ -20580,7 +20586,7 @@ _02235C96:
 	add r5, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	mov r1, #0
 	ldr r0, [sp, #0x18]
@@ -23075,7 +23081,7 @@ ov40_0223707C: ; 0x0223707C
 	bl ov40_02230DCC
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	mov r1, #0
 	ldr r0, [sp, #0x14]
@@ -27631,7 +27637,7 @@ _02239668:
 	str r0, [sp, #0x1c]
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x1c]
@@ -27699,7 +27705,7 @@ _0223971C:
 _02239726:
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x1c]
@@ -27709,7 +27715,7 @@ _02239726:
 _0223973A:
 	mov r1, #1
 	str r1, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x18]
 	add r0, r6, #0
@@ -29379,7 +29385,7 @@ ov40_0223A510: ; 0x0223A510
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x18]
@@ -29426,7 +29432,7 @@ _0223A58A:
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x1c]
@@ -31002,7 +31008,7 @@ _0223B2BC:
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	add r0, r7, #0
@@ -33448,7 +33454,7 @@ ov40_0223C710: ; 0x0223C710
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x18]
@@ -42050,7 +42056,7 @@ _02240D70:
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	add r0, r7, #0
@@ -42166,7 +42172,7 @@ ov40_02240E28: ; 0x02240E28
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x18]
@@ -42252,7 +42258,7 @@ ov40_02240F24: ; 0x02240F24
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x18]
@@ -42299,7 +42305,7 @@ _02240F9C:
 	add r4, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x1c]
@@ -45977,6 +45983,9 @@ ov40_02242E48: ; 0x02242E48
 	.balign 4, 0
 	thumb_func_end ov40_02242E48
 
+#ifdef GERMAN
+#include "german_ov40_02242E4C.inc"
+#else
 	thumb_func_start ov40_02242E4C
 ov40_02242E4C: ; 0x02242E4C
 	push {r3, r4, r5, r6, r7, lr}
@@ -46125,6 +46134,7 @@ _02242FA0: .word 0x00000127
 _02242FA4: .word 0x000008A4
 _02242FA8: .word 0x000F0D00
 	thumb_func_end ov40_02242E4C
+#endif
 
 	thumb_func_start ov40_02242FAC
 ov40_02242FAC: ; 0x02242FAC
@@ -48710,7 +48720,7 @@ ov40_022442F0: ; 0x022442F0
 	add r7, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	mov r1, #0
 	str r0, [sp, #4]
 	ldr r2, [sp, #0x14]
@@ -49921,8 +49931,16 @@ ov40_02244ECC: ; 0x02244ECC
 
 ov40_02244EE8: ; 0x02244EE8
 	.byte 0x04, 0x00, 0x04, 0x00, 0x18, 0x00, 0x02, 0x00
+#ifdef GERMAN
+	.byte 0x04, 0x00, 0x06, 0x00, 0x18, 0x00, 0x04, 0x00, 0x04, 0x00, 0x0D, 0x00, 0x05, 0x00, 0x02, 0x00
+#else
 	.byte 0x04, 0x00, 0x06, 0x00, 0x18, 0x00, 0x04, 0x00, 0x04, 0x00, 0x0B, 0x00, 0x05, 0x00, 0x02, 0x00
+#endif
+#ifdef GERMAN
+	.byte 0x04, 0x00, 0x0B, 0x00, 0x05, 0x00, 0x02, 0x00, 0x04, 0x00, 0x15, 0x00, 0x18, 0x00, 0x02, 0x00
+#else
 	.byte 0x04, 0x00, 0x0D, 0x00, 0x05, 0x00, 0x02, 0x00, 0x04, 0x00, 0x15, 0x00, 0x18, 0x00, 0x02, 0x00
+#endif
 
 ov40_02244F10: ; 0x02244F10
 	.byte 0x14, 0x00, 0x00, 0x00, 0x14, 0x00, 0x00, 0x00, 0x14, 0x00, 0x00, 0x00, 0x14, 0x00, 0x00, 0x00
@@ -50530,9 +50548,14 @@ _02245CC0:
 	.byte 0x80, 0x00, 0x2A, 0x00, 0xBD, 0x00, 0x57, 0x00, 0xAC, 0x00, 0x86, 0x00, 0x53, 0x00, 0x86, 0x00
 	.byte 0x42, 0x00, 0x57, 0x00
 
+#ifdef GERMAN
+ov40_02245CD4:
+	.short 0, 0x36, 0x65, 0x99, 0xE2, 0x11D, 0x168, 0x1C7, 0x1E2, 0x1ED
+#else
 ov40_02245CD4: ; 0x02245CD4
 	.byte 0x00, 0x00, 0x57, 0x00, 0x88, 0x00, 0xBF, 0x00, 0xEB, 0x00, 0x2F, 0x01
 	.byte 0x68, 0x01, 0xC9, 0x01, 0xE7, 0x01, 0xED, 0x01
+#endif
 
 ov40_02245CE8: ; 0x02245CE8
 	.byte 0x4A, 0x00, 0x00, 0x00, 0x4D, 0x00, 0x00, 0x00
@@ -50559,9 +50582,14 @@ ov40_02245CE8: ; 0x02245CE8
 	.byte 0xFF, 0xFF, 0x00, 0x00, 0xFF, 0xFF, 0x00, 0x00, 0xFF, 0xFF, 0x00, 0x00, 0xFF, 0xFF, 0x00, 0x00
 	.byte 0xFF, 0xFF, 0x00, 0x00
 
+#ifdef GERMAN
+ov40_02245E44:
+	.short 0, 0x36, 0x65, 0x99, 0xE2, 0x11D, 0x168, 0x1C7, 0x1E2, 0x1ED
+#else
 ov40_02245E44: ; 0x02245E44
 	.byte 0x00, 0x00, 0x57, 0x00, 0x88, 0x00, 0xBF, 0x00, 0xEB, 0x00, 0x2F, 0x01
 	.byte 0x68, 0x01, 0xC9, 0x01, 0xE7, 0x01, 0xED, 0x01
+#endif
 
 ov40_02245E58: ; 0x02245E58
 	.byte 0xCD, 0xCC, 0x4C, 0x3F, 0x9A, 0x99, 0x19, 0x3F

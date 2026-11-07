@@ -1,0 +1,2029 @@
+{
+  "key": 10949,
+  "messages": [
+    {
+      "id": "msg_0309_00000",
+      "de_DE": [
+        "Willkommen beim Pokéathlon!\n",
+        "Und Hallo zum {STRVAR_4 1, 0, 0}!\r",
+        "Wer wird der strahlende Sieger sein?\n",
+        "Die heutigen Poké-Athleten sind:\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00001",
+      "de_DE": [
+        "In Team {STRVAR_1 3, 0, 0}: {STRVAR_1 1, 1, 0},\n",
+        "{STRVAR_1 1, 2, 0}, {STRVAR_1 1, 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00002",
+      "de_DE": [
+        "Dann mal nichts wie los!\n",
+        "Gebt Gummi! Auf die Plätze, fertiiig...\r",
+        "{ALN_CENTER}{SIZE 200}Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00003",
+      "de_DE": [
+        "Ein großes Lob an all unsere Athleten!\r",
+        "Welches Team ist der Sieger?\n",
+        "Ich verlese nun die Ergebnisse!\r",
+        "Doch als Erstes...\n",
+        "eine Belohnung für Mut zum Risiko!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00004",
+      "de_DE": "Der Draufgängerbonus!\r"
+    },
+    {
+      "id": "msg_0309_00005",
+      "de_DE": [
+        "Es gehen {STRVAR_1 52, 1, 0} Punkte an\n",
+        "Team {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00006",
+      "de_DE": "Als Nächstes der Einzelpreis...\r"
+    },
+    {
+      "id": "msg_0309_00007",
+      "de_DE": [
+        "Extrapunkte für einen fehlerfreien\n",
+        "Durchlauf gehen aaan...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00008",
+      "de_DE": "{STRVAR_1 0, 1, 0} aus Team {STRVAR_1 3, 0, 0}!"
+    },
+    {
+      "id": "msg_0309_00009",
+      "de_DE": "...niemand!\r"
+    },
+    {
+      "id": "msg_0309_00010",
+      "de_DE": "Das war’s auch schon!\r"
+    },
+    {
+      "id": "msg_0309_00011",
+      "de_DE": [
+        "Was fehlt noch? Ach ja!\n",
+        "Unser heutiger Punktekönig!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00012",
+      "de_DE": "{STRVAR_1 0, 1, 0} aus Team {STRVAR_1 3, 0, 0}!"
+    },
+    {
+      "id": "msg_0309_00013",
+      "de_DE": "Das war’s!\r"
+    },
+    {
+      "id": "msg_0309_00014",
+      "de_DE": [
+        "Nun die Punkte\n",
+        "für besondere Leistungen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00015",
+      "de_DE": [
+        "Die meisten Sprünge gehen\n",
+        "auf das Konto von... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00016",
+      "de_DE": [
+        "Die meisten Angriffe gehen\n",
+        "auf das Konto von... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00017",
+      "de_DE": [
+        "Die meisten Schnitzer gehen\n",
+        "auf das Konto von... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00018",
+      "de_DE": [
+        "Die meisten Sprints gehen\n",
+        "auf das Konto von... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00019",
+      "de_DE": [
+        "Und das Schlusslicht bildete\n",
+        "diesmal... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00020",
+      "de_DE": "{STRVAR_1 0, 1, 0} aus Team {STRVAR_1 3, 0, 0}!"
+    },
+    {
+      "id": "msg_0309_00021",
+      "de_DE": "So viel dazu!\r"
+    },
+    {
+      "id": "msg_0309_00022",
+      "de_DE": [
+        "Und zu guter Letzt... addieren wir die\n",
+        "Punkte aus den einzelnen Wettkämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00023",
+      "de_DE": "{STRVAR_1 50, 0, 0}. Wettkampf!"
+    },
+    {
+      "id": "msg_0309_00024",
+      "de_DE": [
+        "Na gibt’s denn so was? Ein Gleichstand?\n",
+        "In dem Fall entscheidet das Los!\r",
+        "Hm... mja... hmmm...\n",
+        "... ... ... ... ... ...\r",
+        "... ... ... ... ... ...\n",
+        "Wir haben einen Gewinner!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00025",
+      "de_DE": [
+        "Der Sieger mit unglaublichen\n",
+        "{STRVAR_1 52, 0, 0} Punkten iiist...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00026",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Team {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0309_00027",
+      "de_DE": [
+        "Team {STRVAR_1 3, 0, 0} darf sich auf\n",
+        "eine {STRVAR_4 3, 1, 0} freuen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00028",
+      "de_DE": [
+        "Team {STRVAR_1 3, 0, 0} erhält\n",
+        "eine {STRVAR_4 3, 1, 0}\f",
+        "und eine {STRVAR_4 3, 2, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00029",
+      "de_DE": [
+        "Team {STRVAR_1 3, 0, 0} hat\n",
+        "beim {STRVAR_4 1, 1, 0}\f",
+        "seinen persönlichen Rekord gebrochen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00030",
+      "de_DE": [
+        "Da hat sich aber jemand mächtig ins Zeug\n",
+        "gelegt beim {STRVAR_4 1, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00031",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Das war ganz großartiger Sport!\r",
+        "Macht weiter so, und vielleicht gehört\n",
+        "ihr bald zu den Top-Poké-Athleten!\r",
+        "Wie heißt es so schön?\n",
+        "Pokéathlooon...\r",
+        "{ALN_CENTER}{SIZE 200}Forever!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00032",
+      "de_DE": [
+        "Mit {STRVAR_1 55, 1, 0} Wettkämpfen ein\n",
+        "aufgehender Stern am Pokéathlonhimmel!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00033",
+      "de_DE": [
+        "Mit schon {STRVAR_1 55, 1, 0} Wettkämpfen ein\n",
+        "heller Komet am Pokéathlonhimmel!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00034",
+      "de_DE": [
+        "Mit {STRVAR_1 55, 1, 0} Wettkämpfen eine\n",
+        "Supernova im Pokéathlonkosmos!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00035",
+      "de_DE": [
+        "Mit sagenhaften {STRVAR_1 55, 1, 0} Wettkämpfen\n",
+        "der Große Knall des Pokéversums!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00036",
+      "de_DE": [
+        "Mit noch ungestilltem Hunger auf den\n",
+        "Sieg! Die neue Hoffnung des Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00037",
+      "de_DE": [
+        "Mit {STRVAR_1 55, 1, 0} Siegen auf dem\n",
+        "besten Weg zum Ruhm!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00038",
+      "de_DE": [
+        "Mit {STRVAR_1 55, 1, 0} Siegen auf der Autobahn\n",
+        "Richtung goldene Pokéathlon-Zukunft!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00039",
+      "de_DE": [
+        "Mit {STRVAR_1 55, 1, 0} Siegen eine\n",
+        "lebende Pokéathlon-Legende!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00040",
+      "de_DE": [
+        "Wer sich wie sie keine Fehler leistet,\n",
+        "ist immer ganz vorne dabei!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00041",
+      "de_DE": [
+        "Mit nur {STRVAR_1 55, 1, 0} letzten Plätzen\n",
+        "weiterhin wacker am Ball!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00042",
+      "de_DE": [
+        "Schon {STRVAR_1 55, 1, 0} letzte Plätze!\n",
+        "Doch sie lassen sich nicht unterkriegen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00043",
+      "de_DE": [
+        "Mit {STRVAR_1 55, 1, 0} letzten Plätzen immer\n",
+        "die Ersten von hinten!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00044",
+      "de_DE": [
+        "Der erste “erste Platz”\n",
+        "ist erst aller guten Dinge Anfang!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00045",
+      "de_DE": [
+        "Schon {STRVAR_1 55, 1, 0}-mal ganz oben auf dem\n",
+        "Treppchen! Weiter so!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00046",
+      "de_DE": [
+        "Schon {STRVAR_1 55, 1, 0}-mal Erster in einer\n",
+        "Disziplin! Können sie das heute toppen?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00047",
+      "de_DE": [
+        "Sage und schreibe {STRVAR_1 55, 1, 0}-mal Erster!\n",
+        "Holen sie sich auch heute Gold?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00048",
+      "de_DE": [
+        "Niederlagen können sie nicht schrecken!\n",
+        "Denn sie erlauben sich keine Schlappe!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00049",
+      "de_DE": [
+        "{STRVAR_1 55, 1, 0}-mal Letzter im Turnier! Aber\n",
+        "Hauptsache ist, man rappelt sich auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00050",
+      "de_DE": [
+        "Für andere sind es {STRVAR_1 55, 1, 0} Niederlagen,\n",
+        "doch dieses Team trägt sie wie Orden!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00051",
+      "de_DE": [
+        "Ihr Motto nach {STRVAR_1 55, 1, 0} Niederlagen:\n",
+        "Die Letzten werden die Ersten sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00052",
+      "de_DE": [
+        "Ist es Kompetenz, die sie gewinnen\n",
+        "lässt? Oder pures Glück?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00053",
+      "de_DE": [
+        "Schon ganze {STRVAR_1 55, 1, 0} Bonuspunkte!\n",
+        "Denn auch Glück ist eine Tugend!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00054",
+      "de_DE": [
+        "Schon insgesamt {STRVAR_1 55, 1, 0} Bonuspunkte...\n",
+        "Auch das ist eine Leistung!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00055",
+      "de_DE": [
+        "Mit erstaunlichen {STRVAR_1 55, 1, 0} Bonuspunkten\n",
+        "die größten Glückspilze des Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00056",
+      "de_DE": [
+        "Gib alles für dein Team und\n",
+        "gemeinsam bewegt ihr Berge!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00057",
+      "de_DE": [
+        "Ihr Teamgeist schreibt noch\n",
+        "einmal Sportgeschichte!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00058",
+      "de_DE": [
+        "Was für ein Team! Was für ein\n",
+        "Teamgeist! Was für ein Siegeswille!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00059",
+      "de_DE": "Im Sport ein Team und ein Geist!\r"
+    },
+    {
+      "id": "msg_0309_00060",
+      "de_DE": [
+        "Mit so wenig Schnitzern, dass man meint,\n",
+        "es ginge nicht mit rechten Dingen zu!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00061",
+      "de_DE": [
+        "Hält sich mit nur {STRVAR_1 55, 1, 0} Schnitzern\n",
+        "wacker im Rennen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00062",
+      "de_DE": [
+        "Mit schon {STRVAR_1 55, 1, 0} Schnitzern das\n",
+        "hellste Schlusslicht des Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00063",
+      "de_DE": [
+        "Mit {STRVAR_1 55, 1, 0} Schnitzern Profis darin,\n",
+        "aus den eigenen Fehlern zu lernen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00064",
+      "de_DE": [
+        "Wer hoch hinaus will, dem ist selbst\n",
+        "der Himmel nicht zu weit!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00065",
+      "de_DE": [
+        "Gerade erst vom Boden abgehoben und\n",
+        "unterwegs zu ihrem ersten Höhenflug!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00066",
+      "de_DE": [
+        "Ein Team, das schon große Sprünge\n",
+        "getan hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00067",
+      "de_DE": [
+        "Wer so hoch springt, greift als\n",
+        "Nächstes nach den Sternen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00068",
+      "de_DE": [
+        "Ein Team, das auszog, um seinen\n",
+        "ersten Punkt zu gewinnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00069",
+      "de_DE": [
+        "Wer die Punkte nicht ehrt, ist\n",
+        "des Sieges nicht wert!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00070",
+      "de_DE": [
+        "Sie arbeiten sich Punkt für Punkt\n",
+        "nach vorne!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00071",
+      "de_DE": [
+        "Ein Applaus für die Punktekönige!\n",
+        "Vor ihnen ist kein Punkt sicher!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00072",
+      "de_DE": [
+        "Kommt ihnen nicht zu nah, oder ihr\n",
+        "bekommt ihren ersten Angriff zu spüren!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00073",
+      "de_DE": [
+        "Sie sind klein, gemein und bissig! \n",
+        "Mit {STRVAR_1 55, 1, 0} Attacken...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00074",
+      "de_DE": [
+        "Mit roher Kraft zum Sieg!\n",
+        "Schon {STRVAR_1 55, 1, 0} Attacken für...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00075",
+      "de_DE": [
+        "Niemand kann sie stoppen, niemand kann\n",
+        "sie toppen! Mit {STRVAR_1 55, 1, 0} Attacken...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00076",
+      "de_DE": [
+        "Es ist noch kein Meister vom Himmel\n",
+        "gefallen, doch umso mehr auf die Nase!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00077",
+      "de_DE": [
+        "Es geht doch nichts über einen Fall aus\n",
+        "großer Höhe! Sie wissen, was ich meine!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00078",
+      "de_DE": [
+        "Mit der Nase immer dicht am Boden!\n",
+        "Wahrlich, ein Team für alle Fälle!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00079",
+      "de_DE": [
+        "Dieses Team macht keine halben Sachen!\n",
+        "Stets am Rande des Abgrunds stehend...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00080",
+      "de_DE": [
+        "Achtet auf ihren Sprint! Denn bald\n",
+        "ziehen sie an euch vorbei!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00081",
+      "de_DE": [
+        "Ein Team, das den Pokéathlon\n",
+        "in Windeseile erobert hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00082",
+      "de_DE": [
+        "Wenn sie laufen, sprühen Funken!\n",
+        "Schnell, schneller, am schnellsten!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00083",
+      "de_DE": [
+        "So schnell wie ein geölter Blitz\n",
+        "und sicherlich unerreicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00084",
+      "de_DE": [
+        "Rohe Kraft ist nicht alles! Die\n",
+        "Strategie ist der Schlüssel zum Sieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00085",
+      "de_DE": [
+        "Setze deine Kräfte weise ein und\n",
+        "du kontrollierst das Schlachtfeld!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00086",
+      "de_DE": [
+        "Nimm dich vor ihnen in Acht! Oder sie\n",
+        "drehen blitzschnell den Spieß herum!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00087",
+      "de_DE": [
+        "Keiner wechselt so fix und effektiv!\n",
+        "Die großen Pokéathlon-Strategen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00088",
+      "de_DE": [
+        "Denk daran, du bist nicht allein,\n",
+        "und die Konkurrenz schläft nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00089",
+      "de_DE": [
+        "Vom Ehrgeiz gepackt - darin\n",
+        "zeigt sich das wahre Sportlerherz!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00090",
+      "de_DE": [
+        "Im Wettstreit gestählt - ihre Kraft\n",
+        "kommt aus der Kraft ihrer Rivalen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00091",
+      "de_DE": [
+        "Zahlreiche Rivalen in zahllosen Kämpfen!\n",
+        "Nur ihre Freundschaft ist unbezahlbar!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00092",
+      "de_DE": [
+        "Ihre Gegner waren hart,\n",
+        "aber sie sind härter!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00093",
+      "de_DE": [
+        "Es gibt immer jemanden, der besser ist.\n",
+        "Doch sie haben’s ihnen gezeigt!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00094",
+      "de_DE": [
+        "Verlieren? Das wäre ja noch schöner!\n",
+        "Sie haben es allen gezeigt!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00095",
+      "de_DE": [
+        "Sie sind ständig auf der Suche nach\n",
+        "dem Stärksten - um ihn zu besiegen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00096",
+      "de_DE": [
+        "Die Zahl ihrer Niederlagen beweist ihre\n",
+        "Stärke! Sie unterliegen nur den Besten!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00097",
+      "de_DE": [
+        "Es gibt immer jemanden, der besser ist.\n",
+        "Und niemand weiß das besser als sie!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00098",
+      "de_DE": [
+        "Sie liegen ständig im Wettstreit...\n",
+        "Häufig sogar mit sich selbst!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00099",
+      "de_DE": [
+        "Gewinnen? Verlieren? Das ist ihnen egal!\n",
+        "Sie kämpfen nur gegen die Besten!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00100",
+      "de_DE": [
+        "Noch neu beim Hürdenlauf, aber mit\n",
+        "viel Kraft und Elan dabei!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00101",
+      "de_DE": [
+        "“Zeige mir eine Hürde, und ich zeige\n",
+        "dir, wie man springt!” Das Motto von...\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00102",
+      "de_DE": [
+        "Für sie ist kein Hindernis zu schwer!\n",
+        "Keine Hürde zu hoch!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00103",
+      "de_DE": [
+        "Sie nehmen jede Hürde,\n",
+        "als wäre sie gar nicht da!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00104",
+      "de_DE": [
+        "Die geborenen Flaggenträger!\n",
+        "Die neuen Herrscher des Strands!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00105",
+      "de_DE": [
+        "Kein Wimpel ist vor ihnen sicher!\n",
+        "Die Helden des Flaggenschnappens!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00106",
+      "de_DE": [
+        "Der Strand ist ihr Revier! Sie ziehen\n",
+        "frei und ungehindert ihre Bahnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00107",
+      "de_DE": [
+        "Keine Flagge, die sie nicht schnappen!\n",
+        "Kein Sieg, den sie nicht erringen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00108",
+      "de_DE": [
+        "Drücken! Drücken! DRÜCKEN!\n",
+        "Macht Platz für die Neuen im Kreis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00109",
+      "de_DE": [
+        "Sie haben noch jeden weggeschoben!\n",
+        "Sie behaupten sich in jedem Kreis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00110",
+      "de_DE": [
+        "Sie drängeln nicht wie alle anderen!\n",
+        "Sie drängeln für ihr Leben gerne!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00111",
+      "de_DE": [
+        "Fühlt ihr, wie die Luft schwerer wird?\n",
+        "Schon ihr Blick plättet ganze Reihen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00112",
+      "de_DE": [
+        "Zack, zack, zack! Ihre Handkanten\n",
+        "warten nur auf einen Ziegel!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00113",
+      "de_DE": [
+        "Sie kriegen alles klein!\n",
+        "Die großen Brecher des Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00114",
+      "de_DE": [
+        "Sie brechen auch durch\n",
+        "die dickste Wand!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00115",
+      "de_DE": [
+        "Aus ihren zerbröselten Ziegeln\n",
+        "entstanden schon ganze Gebirge!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00116",
+      "de_DE": [
+        "Der Diskus kam geflogen, sie griffen\n",
+        "danach... der Rest ist Geschichte!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00117",
+      "de_DE": [
+        "Jeder Griff nach dem Diskus\n",
+        "ist ein Griff nach den Sternen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00118",
+      "de_DE": [
+        "Jeder Diskus, den sie fangen, bringt\n",
+        "sie näher an ihren großen Traum!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00119",
+      "de_DE": [
+        "Sie schnappen sich jeden Diskus!\n",
+        "Sie schnappen sie sich alle!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00120",
+      "de_DE": [
+        "Geschwind wie der Wind!\n",
+        "Leicht wie eine Wolke!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00121",
+      "de_DE": [
+        "Sie springen hoch, hoch in den Himmel!\n",
+        "Sie kennen keine Schwerkraft!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00122",
+      "de_DE": [
+        "Sie lesen den Wind wie ein Buch! Die\n",
+        "großen Himmelsstürmer des Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00123",
+      "de_DE": [
+        "Himmel und Erde - für\n",
+        "sie sind beide eins!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00124",
+      "de_DE": [
+        "Sie kann niemand mehr aufhalten!\n",
+        "Denn sie wurden geboren, um zu laufen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00125",
+      "de_DE": [
+        "Sie kennen keine Müdigkeit -\n",
+        "dieses Team steht niemals still!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00126",
+      "de_DE": [
+        "Sie laufen, laufen und laufen! Sie sind\n",
+        "das Perpetuum mobile des Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00127",
+      "de_DE": [
+        "Ihr Motor ist ihre Freundschaft!\n",
+        "Ihr Kraftstoff ist der Sieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00128",
+      "de_DE": [
+        "Sie sind nicht nur eine, sie haben Wucht!\n",
+        "Dieses Team bringt Bewegung in den Ring!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00129",
+      "de_DE": [
+        "Sie ruhen nicht, bis auch der letzte\n",
+        "Gegner aus dem Ring verschwunden ist!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00130",
+      "de_DE": [
+        "Dieser Ring ist ihr Revier!\n",
+        "Betreten nur auf eigene Gefahr!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00131",
+      "de_DE": [
+        "Dieses Team kennt sich selbst! Denn nur\n",
+        "der Ring zeigt dir, wer du wirklich bist!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00132",
+      "de_DE": [
+        "Niemandes Bälle fliegen so schön!\n",
+        "Sie müssen nur noch treffen lernen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00133",
+      "de_DE": [
+        "Jeder Wurf ein Treffer!\n",
+        "... In die Visagen ihrer Gegner!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00134",
+      "de_DE": [
+        "Ihre Bälle mähen alles nieder! Man\n",
+        "nennt sie auch “Den weißen Tornado”!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00135",
+      "de_DE": [
+        "Ihre Bälle kommen von überall her!\n",
+        "Die lebende Lawine des Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00136",
+      "de_DE": [
+        "Ihre Bälle sind unaufhaltbar!\n",
+        "Ein Tor ist nur eine Frage der Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00137",
+      "de_DE": [
+        "Mit ihrer grandiosen Teamarbeit\n",
+        "erstürmen sie jedes Tor!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00138",
+      "de_DE": [
+        "Ihre Beinarbeit ist legendär!\n",
+        "Gemeinsam schießen sie sich zum Sieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00139",
+      "de_DE": [
+        "Ihr Leben dreht sich nicht nur\n",
+        "um den Ball! Sie SIND der Ball!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00140",
+      "de_DE": [
+        "Das freigiebigste Team von allen, denn\n",
+        "es verschenkt sogar Punkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00141",
+      "de_DE": [
+        "Geht etwas schief, dann lächele wie sie!\n",
+        "Sieg ist nicht alles beim Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00142",
+      "de_DE": [
+        "Sie treffen jedes Tor -\n",
+        "auch wenn’s das eigene ist!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00143",
+      "de_DE": [
+        "Ihr Team ist unzertrennlich - und jedes\n",
+        "Eigentor ein Beweis ihrer Freundschaft!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00144",
+      "de_DE": [
+        "Sie tun alles, um aufzufallen! Sieg ist\n",
+        "eben nicht alles beim Pokéathlon!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00145",
+      "de_DE": [
+        "Da sind sie wieder! Unser Lieblingsteam!\n",
+        "Autogramme gibt’s erst hinterher!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00146",
+      "de_DE": [
+        "Ihr wollt sie siegen sehen?\n",
+        "Das sollt ihr haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00147",
+      "de_DE": [
+        "Die Quelle ihres Siegeswillens\n",
+        "ist die Freude ihrer Fans!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00148",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0309_00149",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0309_00150",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0309_00151",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0309_00152",
+      "de_DE": "{STRVAR_1 50, 0, 0}/6 Runden"
+    },
+    {
+      "id": "msg_0309_00153",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0309_00154",
+      "de_DE": "Dann {STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0309_00155",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0309_00156",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0},{STRVAR_1 51, 1, 0} Sekunden"
+    },
+    {
+      "id": "msg_0309_00157",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00158",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00159",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00160",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00161",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00162",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 51, 0, 0},{STRVAR_1 50, 1, 0} Runden"
+    },
+    {
+      "id": "msg_0309_00163",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00164",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00165",
+      "de_DE": "{ALN_CENTER}Macht zusammen {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00166",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Hürdenlauf"
+    },
+    {
+      "id": "msg_0309_00167",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Flaggenschnappen"
+    },
+    {
+      "id": "msg_0309_00168",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Drängelkreis"
+    },
+    {
+      "id": "msg_0309_00169",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Ziegelbrechen"
+    },
+    {
+      "id": "msg_0309_00170",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Diskusfangen"
+    },
+    {
+      "id": "msg_0309_00171",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Lampionspringen"
+    },
+    {
+      "id": "msg_0309_00172",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Staffellauf"
+    },
+    {
+      "id": "msg_0309_00173",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Ringrangeln"
+    },
+    {
+      "id": "msg_0309_00174",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Schneeschlacht"
+    },
+    {
+      "id": "msg_0309_00175",
+      "de_DE": "{ALN_CENTER}{SIZE 200}Torschießen"
+    },
+    {
+      "id": "msg_0309_00176",
+      "de_DE": "{ALN_CENTER}Spitzenrekord"
+    },
+    {
+      "id": "msg_0309_00177",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0},{STRVAR_1 51, 1, 0} Sekunden"
+    },
+    {
+      "id": "msg_0309_00178",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00179",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Punkte"
+    },
+    {
+      "id": "msg_0309_00180",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00181",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Punkte"
+    },
+    {
+      "id": "msg_0309_00182",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Punkte"
+    },
+    {
+      "id": "msg_0309_00183",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 51, 0, 0},{STRVAR_1 50, 1, 0} Runden"
+    },
+    {
+      "id": "msg_0309_00184",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Punkte"
+    },
+    {
+      "id": "msg_0309_00185",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00186",
+      "de_DE": "{ALN_CENTER}Insgesamt {STRVAR_1 52, 0, 0} Punkte"
+    },
+    {
+      "id": "msg_0309_00187",
+      "de_DE": "{ALN_CENTER}Live aus der Laufhalle"
+    },
+    {
+      "id": "msg_0309_00188",
+      "de_DE": "{ALN_CENTER}Live aus der Strandhalle"
+    },
+    {
+      "id": "msg_0309_00189",
+      "de_DE": "{ALN_CENTER}Live aus der Zoffhalle"
+    },
+    {
+      "id": "msg_0309_00190",
+      "de_DE": "{ALN_CENTER}Live aus der Zoffhalle"
+    },
+    {
+      "id": "msg_0309_00191",
+      "de_DE": "{ALN_CENTER}Live aus der Strandhalle"
+    },
+    {
+      "id": "msg_0309_00192",
+      "de_DE": "{ALN_CENTER}Live aus der Sprunghalle"
+    },
+    {
+      "id": "msg_0309_00193",
+      "de_DE": "{ALN_CENTER}Live aus der Geländehalle"
+    },
+    {
+      "id": "msg_0309_00194",
+      "de_DE": "{ALN_CENTER}Live aus der Zoffhalle"
+    },
+    {
+      "id": "msg_0309_00195",
+      "de_DE": "{ALN_CENTER}Live aus der Schneehalle"
+    },
+    {
+      "id": "msg_0309_00196",
+      "de_DE": "{ALN_CENTER}Live aus der Feldhalle"
+    },
+    {
+      "id": "msg_0309_00197",
+      "de_DE": "{ALN_CENTER}Wettkampfregeln"
+    },
+    {
+      "id": "msg_0309_00198",
+      "de_DE": "Nimm alle Hürden und lauf ins Ziel!"
+    },
+    {
+      "id": "msg_0309_00199",
+      "de_DE": "Schnappe dir fix die Flaggen!"
+    },
+    {
+      "id": "msg_0309_00200",
+      "de_DE": "Bleibe innerhalb der Kreise!"
+    },
+    {
+      "id": "msg_0309_00201",
+      "de_DE": "Zerbrich so viele Ziegel wie möglich!"
+    },
+    {
+      "id": "msg_0309_00202",
+      "de_DE": "Springe und fange die Scheiben!"
+    },
+    {
+      "id": "msg_0309_00203",
+      "de_DE": "Springe und schalte die Lampen an!"
+    },
+    {
+      "id": "msg_0309_00204",
+      "de_DE": "Wechsele aus, wenn du müde wirst!"
+    },
+    {
+      "id": "msg_0309_00205",
+      "de_DE": "Stoße deine Gegner aus dem Ring!"
+    },
+    {
+      "id": "msg_0309_00206",
+      "de_DE": "Lass die Schneebälle sausen!"
+    },
+    {
+      "id": "msg_0309_00207",
+      "de_DE": "Schieße ins Tor deiner Gegner!"
+    },
+    {
+      "id": "msg_0309_00208",
+      "de_DE": "{ALN_CENTER}Steuerung"
+    },
+    {
+      "id": "msg_0309_00209",
+      "de_DE": [
+        "Bringe deine drei Pokémon\n",
+        "durch den Hürdenparcours.\n",
+        "Berühre eines, um zu springen."
+      ]
+    },
+    {
+      "id": "msg_0309_00210",
+      "de_DE": [
+        "Der Hürdenlauf ist ein Wettlauf mit der\n",
+        "Zeit. Es gewinnt, wer die Hürden mit\n",
+        "gezielten Sprüngen überwindet und als\n",
+        "Schnellster das Ziel erreicht. Die Punkte\n",
+        "richten sich nach der Gesamtzeit aller\n",
+        "drei Athleten.\n",
+        "\n",
+        "Tempo: bestimmt die Laufgeschwindigkeit\n",
+        "Sprung: bestimmt, wie weit man springt"
+      ]
+    },
+    {
+      "id": "msg_0309_00211",
+      "de_DE": [
+        "Berühre ein Pokémon, um zu springen.\n",
+        "Überwinde alle Hürden!\n",
+        "Du steuerst drei Pokémon gleichzeitig.\n",
+        "Erreiche als Erster das Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0309_00212",
+      "de_DE": [
+        "Treibe deine Pokémon mit dem\n",
+        "Touchpen an. Ramme Gegner,\n",
+        "um ihre Flaggen zu stehlen!"
+      ]
+    },
+    {
+      "id": "msg_0309_00213",
+      "de_DE": [
+        "Beim Flaggenschnappen dreht sich alles\n",
+        "darum, möglichst viele Wimpel zu sammeln.\n",
+        "Deine Pokémon können jeweils bis zu\n",
+        "9 Flaggen tragen. Rempeln sie einen\n",
+        "Gegner von hinten an, klauen sie\n",
+        "dessen Flaggen.\n",
+        "\n",
+        "Tempo: bestimmt die Laufgeschwindigkeit\n",
+        "Technik: fördert die Beweglichkeit"
+      ]
+    },
+    {
+      "id": "msg_0309_00214",
+      "de_DE": [
+        "Treibe deine Pokémon mit schnellen\n",
+        "Bewegungen des Touchpens an!\n",
+        "Je öfter du sie anschiebst, desto\n",
+        "schneller laufen sie!\n",
+        "\n",
+        "Sei schneller als die anderen und\n",
+        "hole jede Menge Flaggen ins Ziel!"
+      ]
+    },
+    {
+      "id": "msg_0309_00215",
+      "de_DE": [
+        "Steuere 3 Pokémon auf einmal,\n",
+        "indem du sie mit dem Touchpen\n",
+        "über das Spielfeld führst!"
+      ]
+    },
+    {
+      "id": "msg_0309_00216",
+      "de_DE": [
+        "Beim Drängelkreis behauptet sich,\n",
+        "wer die anderen aus dem Kreis befördert.\n",
+        "Ist der Countdown bei eins angekommen,\n",
+        "erhalten alle Pokémon, die innerhalb\n",
+        "eines Kreises stehen, Punkte.\n",
+        "\n",
+        "Kraft: verstärkt die Wucht der Schübe\n",
+        "Ausdauer: fördert die Kondition"
+      ]
+    },
+    {
+      "id": "msg_0309_00217",
+      "de_DE": [
+        "Steuere deine Pokémon, indem du ihre\n",
+        "Bewegungen mit dem Touchpen nach-\n",
+        "zeichnest.\n",
+        "Versuche, alle drei Pokémon\n",
+        "innerhalb der Kreise zu halten -\n",
+        "das ergibt die meisten Punkte!"
+      ]
+    },
+    {
+      "id": "msg_0309_00218",
+      "de_DE": [
+        "Tippe die Ziegel an, um sie\n",
+        "entzweizuschlagen. Wechsele,\n",
+        "wenn Athleten müde werden."
+      ]
+    },
+    {
+      "id": "msg_0309_00219",
+      "de_DE": [
+        "Beim Ziegelbrechen zerschmettern deine\n",
+        "Athleten mit aller Kraft die vor ihnen\n",
+        "gestapelten Steinplatten. Vergiss nicht,\n",
+        "Pokémon auszuwechseln, wenn sie müde\n",
+        "werden. Jeder zerbrochene Ziegel gibt\n",
+        "Punkte.\n",
+        "\n",
+        "Kraft: beeinflusst die Zerstörungskraft\n",
+        "Ausdauer: fördert die Kondition"
+      ]
+    },
+    {
+      "id": "msg_0309_00220",
+      "de_DE": [
+        "Tippe die Ziegel an, um sie zu zerbrechen.\n",
+        "Bearbeite die Blöcke mit schnellen\n",
+        "Handkantenschlägen, um möglichst viele\n",
+        "hintereinander zu schaffen.\n",
+        "\n",
+        "Wird dein Pokémon müde, berühre\n",
+        "den Wechsel-Knopf & hole ein\n",
+        "neues Teammitglied ins Spiel!"
+      ]
+    },
+    {
+      "id": "msg_0309_00221",
+      "de_DE": [
+        "1) Führe deine Pokémon mit dem\n",
+        "Touchpen über das Feld.\n",
+        "2) Antippen: Springen"
+      ]
+    },
+    {
+      "id": "msg_0309_00222",
+      "de_DE": [
+        "Beim Diskusfangen steuerst du 3 Pokémon\n",
+        "gleichzeitig. Es gilt, im richtigen Moment\n",
+        "zu springen und die aus dem Meer\n",
+        "hervorspringenden Scheiben abzufangen.\n",
+        "Je weiter hinten du stehst, desto mehr\n",
+        "Punkte erhältst du.\n",
+        "\n",
+        "Sprung: bestimmt, wie hoch du springst\n",
+        "Kraft: verstärkt die Wucht deiner Hiebe"
+      ]
+    },
+    {
+      "id": "msg_0309_00223",
+      "de_DE": [
+        "1) Weise deine Pokémon durch Führen des\n",
+        "Touchpen an, wohin sie laufen sollen.\n",
+        "Schiebe deine Gegner aus dem Weg, um die\n",
+        "Scheiben zu erreichen.\n",
+        "2) Tippe deine Pokémon leicht\n",
+        "an, um zu springen! Fange\n",
+        "so viele Scheiben wie möglich."
+      ]
+    },
+    {
+      "id": "msg_0309_00224",
+      "de_DE": [
+        "Katapultiere deine 3 Pokémon\n",
+        "nach oben, indem du sie nach\n",
+        "unten ziehst und loslässt!"
+      ]
+    },
+    {
+      "id": "msg_0309_00225",
+      "de_DE": [
+        "Beim Lampionspringen steuerst du 3\n",
+        "Pokémon gleichzeitig. Deine Aufgabe ist\n",
+        "es, durch hohe Sprünge die Lampions zu\n",
+        "berühren. Je mehr Lampions du mit einem\n",
+        "Mal berührst, desto mehr Punkte gibt es.\n",
+        "\n",
+        "Sprung: bestimmt, wie hoch du springst\n",
+        "Technik: macht es einfacher, seitwärts\n",
+        "zu springen"
+      ]
+    },
+    {
+      "id": "msg_0309_00226",
+      "de_DE": [
+        "Katapultiere deine Pokémon nach oben,\n",
+        "indem du sie schnell nach unten ziehst\n",
+        "und loslässt!\n",
+        "Ziehe das Sprungfeld zur Seite und\n",
+        "gib ihnen einen Seitwärtsdrall!"
+      ]
+    },
+    {
+      "id": "msg_0309_00227",
+      "de_DE": [
+        "Lasse deine Pokémon mit dem\n",
+        "Touchpen sprinten. Ist eines\n",
+        "müde, so wechsele es aus!"
+      ]
+    },
+    {
+      "id": "msg_0309_00228",
+      "de_DE": [
+        "Beim Staffellauf versuchen die Läufer\n",
+        "abwechselnd, eine möglichst lange\n",
+        "Strecke zurückzulegen. Denke daran,\n",
+        "deine Pokémon auszuwechseln, bevor sie\n",
+        "erschöpft sind. Je mehr Runden du\n",
+        "zurücklegst, desto mehr Punkte gibt es.\n",
+        "\n",
+        "Ausdauer: fördert die Kondition\n",
+        "Tempo: bestimmt die Laufgeschwindigkeit"
+      ]
+    },
+    {
+      "id": "msg_0309_00229",
+      "de_DE": [
+        "Sprinte los, indem du deinen Touchpen\n",
+        "schnell nach rechts ziehst!\n",
+        "\n",
+        "Je schneller deine Züge, desto\n",
+        "schneller sprinten die Pokémon!\n",
+        "\n",
+        "Wird dein PKMN müde, berühre\n",
+        "den Wechsel-Knopf & hole ein\n",
+        "neues Teammitglied ins Spiel!"
+      ]
+    },
+    {
+      "id": "msg_0309_00230",
+      "de_DE": [
+        "1) Führe die ₧₦ übers Feld\n",
+        "2) Schnelles Ziehen: Angriff!\n",
+        "3) Antippen: Springen"
+      ]
+    },
+    {
+      "id": "msg_0309_00231",
+      "de_DE": [
+        "Beim Ringrangeln schieben und drücken\n",
+        "deine Pokémon um die Wette - wer einen\n",
+        "Gegner aus dem Ring stößt, erhält\n",
+        "Punkte. Berühre den Wechsel-Knopf in\n",
+        "deiner Team-Ecke, um dein Pokémon\n",
+        "auszuwechseln\n",
+        "\n",
+        "Ausdauer: beeinflusst die Standfestigkeit\n",
+        "Kraft: bestimmt die Wucht der Stöße"
+      ]
+    },
+    {
+      "id": "msg_0309_00232",
+      "de_DE": [
+        "1)Ziehe deine Pokémon mit dem Touchpen\n",
+        "über das Feld.\n",
+        "2)Gib deinen Gegnern einen Schubs\n",
+        "und stoße sie aus dem Ring!\n",
+        "3)Durch Antippen springst du.\n",
+        "Begrabe Gegner unter dir!"
+      ]
+    },
+    {
+      "id": "msg_0309_00233",
+      "de_DE": [
+        "1) Wirf Schneebälle, indem du\n",
+        "den Touchpen nach oben ziehst\n",
+        "2) Tippen vergrößert die Bälle"
+      ]
+    },
+    {
+      "id": "msg_0309_00234",
+      "de_DE": [
+        "Bei der Schneeschlacht steuerst du\n",
+        "3 Pokémon auf einmal. Es geht darum,\n",
+        "den Gegner mit möglichst vielen\n",
+        "Schneebällen zu bewerfen. Es ist egal,\n",
+        "welches Pokémon du anvisierst.\n",
+        "Jeder Treffer bringt Punkte!\n",
+        "\n",
+        "Technik: verbessert die Zielgenauigkeit\n",
+        "Kraft: verleiht den Bällen Wucht"
+      ]
+    },
+    {
+      "id": "msg_0309_00235",
+      "de_DE": [
+        "1)Ziehe dein Pokémon in Richtung Gegner,\n",
+        "um einen Schneeball zu werfen.\n",
+        "2)Hält ein PKMN einen Schneeball,\n",
+        "vergrößere ihn durch Antippen.\n",
+        "3)Sehr große Bälle lassen den\n",
+        "Gegner ohnmächtig werden!"
+      ]
+    },
+    {
+      "id": "msg_0309_00236",
+      "de_DE": [
+        "1) Ziehe deine Pokémon in die\n",
+        "gewünschte Richtung.\n",
+        "2) Sprinte mit schnellen Zügen"
+      ]
+    },
+    {
+      "id": "msg_0309_00237",
+      "de_DE": [
+        "Beim Torschießen geht es darum, den Ball\n",
+        "in eines der gegnerischen Tore zu\n",
+        "befördern. Jedes bringt gleich viele\n",
+        "Punkte ein. Aber Vorsicht: Geht der\n",
+        "Ball in dein Tor, gibt es Minuspunkte!\n",
+        "\n",
+        "Technik: beeinflusst die Schussweite\n",
+        "Kraft: bestimmt die Wucht des Balls"
+      ]
+    },
+    {
+      "id": "msg_0309_00238",
+      "de_DE": [
+        "1) Steuere alle 3 Pokémon gleichzeitig,\n",
+        "indem du sie mit dem Touchpen in die\n",
+        "gewünschte Richtung ziehst.\n",
+        "\n",
+        "2) Nimm Anlauf durch schnelles\n",
+        "Ziehen mit dem Touchpen und\n",
+        "schieß den Ball ins Tor!"
+      ]
+    },
+    {
+      "id": "msg_0309_00239",
+      "de_DE": "{ALN_CENTER}Wettkampf Nummer {STRVAR_1 50, 0, 0}"
+    },
+    {
+      "id": "msg_0309_00240",
+      "de_DE": "{ALN_CENTER}Mehr"
+    },
+    {
+      "id": "msg_0309_00241",
+      "de_DE": "{ALN_CENTER}Regeln"
+    },
+    {
+      "id": "msg_0309_00242",
+      "de_DE": "{ALN_CENTER}Strg."
+    },
+    {
+      "id": "msg_0309_00243",
+      "de_DE": "{ALN_CENTER}Zur."
+    },
+    {
+      "id": "msg_0309_00244",
+      "de_DE": "{ALN_CENTER}Zu den Regeln"
+    },
+    {
+      "id": "msg_0309_00245",
+      "de_DE": "{ALN_CENTER}Steuerung"
+    },
+    {
+      "id": "msg_0309_00246",
+      "de_DE": [
+        "Nun gut! Wie lauten die Ergebnisse\n",
+        "aus dem ersten Wettkampf?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00247",
+      "de_DE": [
+        "Oho, spannend, spannend!\n",
+        "Nun der zweite Wettkampf!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00248",
+      "de_DE": [
+        "Und zu guter Letzt:\n",
+        "Die Punkte aus dem dritten Wettkampf!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00249",
+      "de_DE": [
+        "Nun gut! Wie lauten die Ergebnisse\n",
+        "aus dem ersten Wettkampf?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00250",
+      "de_DE": [
+        "Oho, spannend, spannend!\n",
+        "Nun der zweite Wettkampf!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00251",
+      "de_DE": [
+        "Doch das war noch nicht alles!\n",
+        "Wie lief es im dritten Wettkampf?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00252",
+      "de_DE": [
+        "Und zu guter Letzt:\n",
+        "Die Punkte aus dem vierten Wettkampf!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00253",
+      "de_DE": [
+        "{SIZE 200}Team {STRVAR_1 3, 0, 0}!{SIZE 100}\r",
+        "Herzlichen Glückwunsch zum 1. Platz!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00254",
+      "de_DE": [
+        "Puh...\n",
+        "Dieser Kampf war knochenhart!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00255",
+      "de_DE": [
+        "Aus dem Ergebnis der einzelnen\n",
+        "Wettkämpfe ergibt sich eure Punktzahl!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00256",
+      "de_DE": [
+        "Strengt euch an und versucht, auch im\n",
+        "nächsten Wettkampf gut abzuschneiden!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00257",
+      "de_DE": [
+        "Doch das Turnier ist noch nicht vorbei!\n",
+        "Also bleibt am Ball!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00258",
+      "de_DE": [
+        "Bin schon gespannt, was für ein Rennen\n",
+        "sie sich im nächsten Wettkampf liefern!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00259",
+      "de_DE": [
+        "Da wird sich wohl noch warm gelaufen!\n",
+        "Beim nächsten Kampf erwarte ich mehr!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00260",
+      "de_DE": [
+        "So viel zum ersten Wettkampf!\n",
+        "Jetzt geht’s erst richtig los!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00261",
+      "de_DE": [
+        "Kommen wir zum letzten Wettkampf!\n",
+        "Denkt daran: Noch ist alles offen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00262",
+      "de_DE": [
+        "Als Nächstes die letzte Runde.\n",
+        "Gebt noch einmal alles!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00263",
+      "de_DE": [
+        "Und nun die letzte Runde!\n",
+        "Wer trägt heute den Sieg davon?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00264",
+      "de_DE": [
+        "Legt los, als gäbe es kein Morgen! Denn\n",
+        "diese Runde bringt die Entscheidung! \r"
+      ]
+    },
+    {
+      "id": "msg_0309_00265",
+      "de_DE": [
+        "Die Menge tobt, und das Turnier\n",
+        "geht in die letzte Runde!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00266",
+      "de_DE": [
+        "Gut, dann wollen wir mal!\n",
+        "Ich verlese nun das Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00267",
+      "de_DE": [
+        "Wie ist das wohl ausgegangen? Spannend,\n",
+        "spannend. Aber nun die Ergebnisse!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00268",
+      "de_DE": [
+        "Ich darf sagen, ihr wart alle großartig!\n",
+        "Kommen wir zum Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00269",
+      "de_DE": [
+        "Na, welches Team ist die Nummer eins?\n",
+        "Kommen wir zum Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00270",
+      "de_DE": [
+        "Welches Team trägt nun den Sieg davon?\n",
+        "Kommen wir schnell zum Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00271",
+      "de_DE": [
+        "Weiter so! Mal sehen, wer sein Ergebnis\n",
+        "beim nächsten Wettkampf toppen kann!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00272",
+      "de_DE": [
+        "Doch das Turnier ist noch nicht vorbei!\n",
+        "Also bleib am Ball!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00273",
+      "de_DE": [
+        "Bin schon gespannt, was für ein Rennen\n",
+        "sie sich im nächsten Wettkampf liefern!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00274",
+      "de_DE": [
+        "Da wird sich wohl noch warm gelaufen!\n",
+        "Beim nächsten Kampf erwarte ich mehr!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00275",
+      "de_DE": [
+        "So viel zum ersten Wettkampf!\n",
+        "Jetzt geht’s erst richtig los!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00276",
+      "de_DE": [
+        "Das war erst die zweite Runde!\n",
+        "Welches Drama erwartet uns noch?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00277",
+      "de_DE": [
+        "Haben alle noch Reserven?\n",
+        "Es geht weiter mit der 3. Runde!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00278",
+      "de_DE": [
+        "Der Wettkampf ist gerade erst\n",
+        "entbrannt! Weiter geht’s mit Runde 3!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00279",
+      "de_DE": [
+        "Auch ein Schlusslicht kann sich noch\n",
+        "mausern! Alles ist möglich in Runde 3!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00280",
+      "de_DE": [
+        "Die Stimmung in der Halle kocht!\n",
+        "Kommen wir schnell zu Runde 3!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00281",
+      "de_DE": [
+        "Kommen wir zum letzten Wettkampf!\n",
+        "Denkt daran: Noch ist alles offen!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00282",
+      "de_DE": [
+        "Als Nächstes die letzte Runde.\n",
+        "Gebt noch einmal alles!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00283",
+      "de_DE": [
+        "Und nun die letzte Runde!\n",
+        "Wer trägt heute den Sieg davon?\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00284",
+      "de_DE": [
+        "Legt los, als gäbe es kein Morgen! Denn\n",
+        "diese Runde bringt die Entscheidung! \r"
+      ]
+    },
+    {
+      "id": "msg_0309_00285",
+      "de_DE": [
+        "Die Menge tobt, und das Turnier\n",
+        "geht in die letzte Runde!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00286",
+      "de_DE": [
+        "Gut, dann wollen wir mal!\n",
+        "Ich verlese nun das Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00287",
+      "de_DE": [
+        "Wie ist das wohl ausgegangen? Spannend,\n",
+        "spannend. Aber nun die Ergebnisse!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00288",
+      "de_DE": [
+        "Ich darf sagen, ihr wart alle großartig!\n",
+        "Kommen wir zum Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00289",
+      "de_DE": [
+        "Na, welches Team ist die Nummer eins?\n",
+        "Kommen wir zum Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00290",
+      "de_DE": [
+        "Aber welches ist nun das Siegerteam?\n",
+        "Kommen wir zum Endergebnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0309_00291",
+      "de_DE": "Gesamtzeit: {STRVAR_1 52, 0, 0},{STRVAR_1 51, 1, 0} Sek."
+    },
+    {
+      "id": "msg_0309_00292",
+      "de_DE": "Gesamtstückzahl: {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00293",
+      "de_DE": "Gesamtpunktzahl: {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00294",
+      "de_DE": "Gesamtstückzahl: {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00295",
+      "de_DE": "Gesamtpunktzahl: {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00296",
+      "de_DE": "Gesamtpunktzahl: {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00297",
+      "de_DE": "Gesamtdistanz: {STRVAR_1 51, 0, 0},{STRVAR_1 50, 1, 0} Runden"
+    },
+    {
+      "id": "msg_0309_00298",
+      "de_DE": "Gesamtpunktzahl: {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00299",
+      "de_DE": "Gesamttreffer: {STRVAR_1 52, 0, 0} Stück"
+    },
+    {
+      "id": "msg_0309_00300",
+      "de_DE": "Gesamtpunktzahl: {STRVAR_1 52, 0, 0} Punkt(e)"
+    },
+    {
+      "id": "msg_0309_00301",
+      "de_DE": "St."
+    },
+    {
+      "id": "msg_0309_00302",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0309_00303",
+      "de_DE": "{ALN_CENTER}Ergebnisse"
+    },
+    {
+      "id": "msg_0309_00304",
+      "de_DE": "Punkte"
+    },
+    {
+      "id": "msg_0309_00305",
+      "de_DE": "Runden"
+    },
+    {
+      "id": "msg_0309_00306",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0309_00307",
+      "de_DE": "{ALN_CENTER}+1"
+    },
+    {
+      "id": "msg_0309_00308",
+      "de_DE": "{ALN_CENTER}+2"
+    },
+    {
+      "id": "msg_0309_00309",
+      "de_DE": "{ALN_CENTER}-1"
+    },
+    {
+      "id": "msg_0309_00310",
+      "de_DE": [
+        "Warte auf Auswahl\n",
+        "aller Teilnehmer..."
+      ]
+    },
+    {
+      "id": "msg_0309_00311",
+      "de_DE": "{ALN_CENTER}Endspurt!"
+    }
+  ]
+}

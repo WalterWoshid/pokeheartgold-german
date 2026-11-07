@@ -1,0 +1,312 @@
+{
+  "key": 59348,
+  "messages": [
+    {
+      "id": "msg_0664_00000",
+      "de_DE": "Mutter"
+    },
+    {
+      "id": "msg_0664_00001",
+      "de_DE": [
+        "Hallo? {STRVAR_1 3, 0, 0}?\r",
+        "Ich hätte dich fast nicht erkannt!\n",
+        "Und dass, wo ich deine Stimme doch so\f",
+        "gut kenne! Aber am Telefon klingst du\f",
+        "völlig anders! Ein seltsames Gefühl!"
+      ]
+    },
+    {
+      "id": "msg_0664_00002",
+      "de_DE": [
+        "Hallo? {STRVAR_1 3, 0, 0}?\r",
+        "Ich hätte dich fast nicht erkannt!\n",
+        "Und dass, wo ich deine Stimme doch so\f",
+        "gut kenne! Aber am Telefon klingst du\f",
+        "völlig anders! Ein seltsames Gefühl!"
+      ]
+    },
+    {
+      "id": "msg_0664_00003",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Hm, da scheinst du aber viel um die\n",
+        "Ohren zu haben, nicht wahr?\r",
+        "Aber das wird schon schiefgehen!\n",
+        "Schließlich bist du ja eine\f",
+        "Kämpfernatur! Bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0664_00004",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah! Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Hattest du nicht einen Anruf von\f",
+        "Professor Lind?\f",
+        "Ich glaube, er wartet bereits auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0664_00005",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah! Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Ist Professor Lind mit dir zufrieden?\r",
+        "Aber da brauche ich mir gar keine\n",
+        "Sorgen machen, immerhin bist du ja eine\f",
+        "Kämpfernatur!"
+      ]
+    },
+    {
+      "id": "msg_0664_00006",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah! Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Komm doch bitte nach Hause, wenn du\f",
+        "deinen Auftrag erledigt hast!"
+      ]
+    },
+    {
+      "id": "msg_0664_00007",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es!\n",
+        "Verstehst du dich gut mit den Pokémon?\r",
+        "Wenn du sie anständig behandelst, dann\n",
+        "werden sie sehr zutraulich.\f",
+        "Sei also bitte nett zu ihnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00008",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Oh, du bist in Rosalia City?\n",
+        "Das ist ja ganz in der Nähe!\f",
+        "Dann lass dich doch einmal wieder zu\f",
+        "Hause blicken!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00009",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Oh, du bist in Viola City?\n",
+        "Wenn mich nicht alles täuscht, steht\f",
+        "dort doch der KNOFENSA-Turm, oder?\f",
+        "Bist du schon einmal dort gewesen?\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00010",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Oh, du bist in Azalea City?\n",
+        "Wenn mich nicht alles täuscht, steht\f",
+        "dort doch der FLEGMON-Brunnen, oder?\f",
+        "Bist du schon einmal dort gewesen?\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00011",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Oh, du bist in Anemonia City?\n",
+        "Wenn mich nicht alles täuscht, ist dort\f",
+        "doch gerade erst die Safari-Zone\f",
+        "fertiggestellt worden, oder?\f",
+        "Ob sie wohl schon eröffnet worden ist?\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00012",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Oh, du bist in Dukatia City?\n",
+        "Wenn mich nicht alles täuscht, steht\f",
+        "dort doch der Radioturm, nicht wahr?\f",
+        "Bist du schon einmal dort gewesen?\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00013",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Oh, du bist in Oliviana City?\n",
+        "Wenn mich nicht alles täuscht, steht\f",
+        "dort doch ein großer Leuchtturm,\f",
+        "nicht wahr?\f",
+        "Bist du schon einmal dort gewesen?\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00014",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Oh, du bist in Teak City?\n",
+        "Wenn mich nicht alles täuscht, steht\f",
+        "dort doch der Glockenturm, nicht wahr?\f",
+        "Bist du schon einmal dort gewesen?\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00015",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "{STRVAR_1 4, 2, 0}? Dort bist du also!\n",
+        "Viel Glück bei deiner Suche nach\f",
+        "Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00016",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Ist bei dir alles in Ordnung?\r",
+        "{STRVAR_1 4, 2, 0}? Dort bist du also!\n",
+        "Aber egal, wo du auch bist, du wirst das\f",
+        "schon packen! Das weiß ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00017",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Dir scheint es aber gut zu gehen!\f",
+        "Da bin ich ja beruhigt!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00018",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es!\n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Hm, da scheinst du aber viel um die\n",
+        "Ohren zu haben, nicht wahr?\r",
+        "Aber das wird schon schiefgehen!\n",
+        "Schließlich bist du ja eine\f",
+        "Kämpfernatur!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00019",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es!\n",
+        "Ist bei dir alles in Ordnung?\r",
+        "Was? Du bist in Kanto!?!\n",
+        "Das ist ja unglaublich, {STRVAR_1 3, 0, 0}!!!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00020",
+      "de_DE": [
+        "Hallo?\r",
+        "Ah, {STRVAR_1 3, 0, 0}, du bist es! \n",
+        "Du nimmst am Pokéathlon teil?\r",
+        "Dann gib dein Bestes!\n",
+        "Ich drücke dir die Daumen!\r"
+      ]
+    },
+    {
+      "id": "msg_0664_00021",
+      "de_DE": [
+        "Du hast das Item, das ich dir gekauft\n",
+        "habe, noch nicht abgeholt, nicht wahr?\r",
+        "Der Lieferant wartet auf dich damit im\n",
+        "Pokémon-Supermarkt!"
+      ]
+    },
+    {
+      "id": "msg_0664_00022",
+      "de_DE": [
+        "Hallo? {STRVAR_1 3, 0, 0}?\r",
+        "Ich habe von Professor Lind gehört,\n",
+        "dass du auf eine lange Reise gehen\f",
+        "wirst.\r",
+        "Ich hätte es schon zuerst gerne von\n",
+        "dir selbst erfahren...\r",
+        "Was ist mit Geld? Soll ich für dich\n",
+        "sparen?"
+      ]
+    },
+    {
+      "id": "msg_0664_00023",
+      "de_DE": [
+        "Nebenbei, du hast {STRVAR_1 55, 10, 0} $ gespart.\n",
+        "Willst du weitersparen?"
+      ]
+    },
+    {
+      "id": "msg_0664_00024",
+      "de_DE": [
+        "Nebenbei, du hast {STRVAR_1 55, 10, 0} $ gespart.\n",
+        "Willst du wieder mit dem Sparen\f",
+        "anfangen?"
+      ]
+    },
+    {
+      "id": "msg_0664_00025",
+      "de_DE": [
+        "Okay, ich werde dein Geld für dich\n",
+        "sparen.\r",
+        "Weiter so! Ich drücke dir die Daumen!"
+      ]
+    },
+    {
+      "id": "msg_0664_00026",
+      "de_DE": [
+        "Okay, dann spare ich kein Geld für\n",
+        "dich.\r",
+        "Weiter so! Ich drücke dir die Daumen!"
+      ]
+    },
+    {
+      "id": "msg_0664_00027",
+      "de_DE": "Es ist wichtig, Geld zu sparen."
+    },
+    {
+      "id": "msg_0664_00028",
+      "de_DE": [
+        "Oh, {STRVAR_1 3, 0, 0}, du sparst ja gar\n",
+        "nicht. Möchtest du nicht versuchen\f",
+        "zu sparen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0664_00029",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Wie geht es dir?\r",
+        "Ich habe heute beim Einkaufen ein\n",
+        "nützliches Item gefunden und es dir von\f",
+        "deinem Geld gekauft! Tut mir leid!\r",
+        "Hole es dir bitte beim Lieferanten im\n",
+        "nächstgelegenen Kaufhaus oder\f",
+        "Pokémon-Supermarkt ab.\f",
+        "Du wirst es sicher brauchen können!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "key": 18590,
+  "messages": [
+    {
+      "id": "msg_0568_00000",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0568_00001",
+      "de_DE": "{COLOR 255}PC{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00002",
+      "de_DE": "{COLOR 255}PC{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00003",
+      "de_DE": "{COLOR 255}PC{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00004",
+      "de_DE": "{COLOR 255}PC{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00005",
+      "de_DE": "{COLOR 255}PC{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00006",
+      "de_DE": "{COLOR 255}Großer Fels{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00007",
+      "de_DE": "{COLOR 255}Gelbes Kissen{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00008",
+      "de_DE": "{COLOR 255}Blaues Kissen{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00009",
+      "de_DE": "{COLOR 255}Holzstuhl{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00010",
+      "de_DE": "{COLOR 255}Großer Tisch{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00011",
+      "de_DE": "{COLOR 255}Einfacher Tisch{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00012",
+      "de_DE": "{COLOR 255}Kleiner Tisch{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00013",
+      "de_DE": "{COLOR 255}Langer Tisch{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00014",
+      "de_DE": "{COLOR 255}Breiter Tisch{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00015",
+      "de_DE": "{COLOR 255}Poké-Tisch{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00016",
+      "de_DE": "{COLOR 255}Gr. Bücherregal{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00017",
+      "de_DE": "{COLOR 255}Kl. Bücherregal{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00018",
+      "de_DE": "{COLOR 255}Laborregal{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00019",
+      "de_DE": "{COLOR 255}Werkzeugregal{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00020",
+      "de_DE": "{COLOR 255}Ladenregal{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00021",
+      "de_DE": "{COLOR 255}Vitrine{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00022",
+      "de_DE": "{COLOR 255}Schrank{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00023",
+      "de_DE": "{COLOR 255}Holzkommode{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00024",
+      "de_DE": "{COLOR 255}Rosa Kommode{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00025",
+      "de_DE": "{COLOR 255}Fernseher{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00026",
+      "de_DE": "{COLOR 255}Kühlschrank{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00027",
+      "de_DE": "{COLOR 255}Spülbecken{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00028",
+      "de_DE": "{COLOR 255}Leichtes Bett{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00029",
+      "de_DE": "{COLOR 255}Abfalleimer{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00030",
+      "de_DE": "{COLOR 255}Pappkarton{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00031",
+      "de_DE": "{COLOR 255}Kiste{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00032",
+      "de_DE": "{COLOR 255}Behälter{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00033",
+      "de_DE": "{COLOR 255}Ölfass{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00034",
+      "de_DE": "{COLOR 255}Ölvorrat{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00035",
+      "de_DE": "{COLOR 255}Eisenträger{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00036",
+      "de_DE": "{COLOR 255}Topfpflanze{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00037",
+      "de_DE": "{COLOR 255}Poké-Blume{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00038",
+      "de_DE": "{COLOR 255}Vitalisator{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00039",
+      "de_DE": "{COLOR 255}Labormaschine{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00040",
+      "de_DE": "{COLOR 255}Testmaschine{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00041",
+      "de_DE": "{COLOR 255}Spielkonsole{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00042",
+      "de_DE": "{COLOR 255}Getränkeautomat{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00043",
+      "de_DE": "{COLOR 255}Rotes Fahrrad{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00044",
+      "de_DE": "{COLOR 255}Grünes Fahrrad{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00045",
+      "de_DE": "Fernglas"
+    },
+    {
+      "id": "msg_0568_00046",
+      "de_DE": "{COLOR 255}Globus{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00047",
+      "de_DE": "{COLOR 255}Arena-Statue{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00048",
+      "de_DE": "{COLOR 255}Rotes Zelt{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00049",
+      "de_DE": "{COLOR 255}Blaues Zelt{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00050",
+      "de_DE": "{COLOR 255}Helles Zelt{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00051",
+      "de_DE": "{COLOR 255}Irrblock 1{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00052",
+      "de_DE": "{COLOR 255}Irrblock 2{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00053",
+      "de_DE": "{COLOR 255}Irrblock 3{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00054",
+      "de_DE": "{COLOR 255}Irrblock 4{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00055",
+      "de_DE": "{COLOR 255}Irrblock 5{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00056",
+      "de_DE": "{COLOR 255}Lochwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00057",
+      "de_DE": "{COLOR 255}Grubenwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00058",
+      "de_DE": "{COLOR 255}Dunstwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00059",
+      "de_DE": "{COLOR 255}Rauchwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00060",
+      "de_DE": "{COLOR 255}Felswerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00061",
+      "de_DE": "{COLOR 255}Gesteinswerkz.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00062",
+      "de_DE": "{COLOR 255}Schaumwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00063",
+      "de_DE": "{COLOR 255}Blasenwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00064",
+      "de_DE": "{COLOR 255}Botschaft 1{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00065",
+      "de_DE": "{COLOR 255}Botschaft 2{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00066",
+      "de_DE": "{COLOR 255}Botschaft 3{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00067",
+      "de_DE": "{COLOR 255}Botschaft 4{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00068",
+      "de_DE": "{COLOR 255}Blätterwerkz.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00069",
+      "de_DE": "{COLOR 255}Blumenwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00070",
+      "de_DE": "{COLOR 255}Aschewerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00071",
+      "de_DE": "{COLOR 255}Feuerwerkzeug{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00072",
+      "de_DE": "{COLOR 255}Anmut-Cup{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00073",
+      "de_DE": "{COLOR 255}Coolness-Cup{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00074",
+      "de_DE": "{COLOR 255}Schönheit-Cup{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00075",
+      "de_DE": "{COLOR 255}Stärke-Cup{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00076",
+      "de_DE": "{COLOR 255}Klugheit-Cup{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00077",
+      "de_DE": "{COLOR 255}Blauer Kristall{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00078",
+      "de_DE": "{COLOR 255}Rosa Kristall{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00079",
+      "de_DE": "{COLOR 255}Roter Kristall{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00080",
+      "de_DE": "{COLOR 255}Gelber Kristall{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00081",
+      "de_DE": "{COLOR 255}Hübsches Juwel{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00082",
+      "de_DE": "{COLOR 255}Leuchten. Juwel{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00083",
+      "de_DE": "{COLOR 255}Mystisch. Juwel{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00084",
+      "de_DE": "{COLOR 255}Funkeln. Juwel{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00085",
+      "de_DE": "{COLOR 255}Bronzetrophäe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00086",
+      "de_DE": "{COLOR 255}Silbertrophäe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00087",
+      "de_DE": "{COLOR 255}Goldtrophäe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00088",
+      "de_DE": "{COLOR 255}Supertrophäe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00089",
+      "de_DE": "{COLOR 255}Ballornament{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00090",
+      "de_DE": "{COLOR 255}Rundes Ornament{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00091",
+      "de_DE": "{COLOR 255}Klares Ornament{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00092",
+      "de_DE": "{COLOR 255}GLUMANDA-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00093",
+      "de_DE": "{COLOR 255}BISASAM-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00094",
+      "de_DE": "{COLOR 255}SCHIGGY-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00095",
+      "de_DE": "{COLOR 255}FEURIGEL-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00096",
+      "de_DE": "{COLOR 255}ENDIVIE-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00097",
+      "de_DE": "{COLOR 255}KARNIMANI-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00098",
+      "de_DE": "{COLOR 255}FLEMMLI-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00099",
+      "de_DE": "{COLOR 255}GECKARBOR-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00100",
+      "de_DE": "{COLOR 255}HYDROPI-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00101",
+      "de_DE": "{COLOR 255}PANFLAM-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00102",
+      "de_DE": "{COLOR 255}CHELAST-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00103",
+      "de_DE": "{COLOR 255}PLINFA-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00104",
+      "de_DE": "{COLOR 255}PIKACHU-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00105",
+      "de_DE": "{COLOR 255}PLUSLE-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00106",
+      "de_DE": "{COLOR 255}MINUN-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00107",
+      "de_DE": "{COLOR 255}PIEPI-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00108",
+      "de_DE": "{COLOR 255}PUMMELUFF-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00109",
+      "de_DE": "{COLOR 255}WOINGENAU-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00110",
+      "de_DE": "{COLOR 255}MAUZI-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00111",
+      "de_DE": "{COLOR 255}ENECO-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00112",
+      "de_DE": "{COLOR 255}CHARMIAN-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00113",
+      "de_DE": "{COLOR 255}HASPIROR-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00114",
+      "de_DE": "{COLOR 255}SNIBUNNA-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00115",
+      "de_DE": "{COLOR 255}MAMPFAXO-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00116",
+      "de_DE": "{COLOR 255}MOBAI-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00117",
+      "de_DE": "{COLOR 255}PANTIMIMI-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00118",
+      "de_DE": "{COLOR 255}LUCARIO-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00119",
+      "de_DE": "{COLOR 255}MANTIRPS-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00120",
+      "de_DE": "{COLOR 255}BAMELIN-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00121",
+      "de_DE": "{COLOR 255}PLAUDAGEI-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00122",
+      "de_DE": "{COLOR 255}MANAPHY-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00123",
+      "de_DE": "{COLOR 255}RELAXO-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00124",
+      "de_DE": "{COLOR 255}WAILORD-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00125",
+      "de_DE": "{COLOR 255}MAGNEZONE-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00126",
+      "de_DE": "{COLOR 255}DRIFTLON-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00127",
+      "de_DE": "{COLOR 255}WONNEIRA-Puppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00128",
+      "de_DE": "{COLOR 255}PACHIRISU-Pup.{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00129",
+      "de_DE": " - "
+    },
+    {
+      "id": "msg_0568_00130",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0568_00131",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0568_00132",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0568_00133",
+      "de_DE": "{COLOR 255}Breites Sofa{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00134",
+      "de_DE": "{COLOR 255}Bonsai{COLOR 0}"
+    },
+    {
+      "id": "msg_0568_00135",
+      "de_DE": "Zarte Blumen"
+    },
+    {
+      "id": "msg_0568_00136",
+      "de_DE": "Schöne Blumen"
+    },
+    {
+      "id": "msg_0568_00137",
+      "de_DE": "Hübsche Blumen"
+    },
+    {
+      "id": "msg_0568_00138",
+      "de_DE": "Üppige Blumen"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "key": 53978,
+  "messages": [
+    {
+      "id": "msg_0800_00000",
+      "de_DE": [
+        "Keine Verbindung zur Nintendo\n",
+        "Wi-Fi Connection möglich.\n",
+        "\n",
+        "Besuche support.nintendo.com\n",
+        "oder lies die Software-Anleitung,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00001",
+      "de_DE": [
+        "Entweder ist die Nintendo Wi-Fi\n",
+        "Connection ausgelastet oder\n",
+        "der Service steht momentan\n",
+        "nicht zur Verfügung. Versuche es\n",
+        "später noch einmal. Besuche\n",
+        "support.nintendo.com, um weitere\n",
+        "Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00002",
+      "de_DE": [
+        "Diese Nintendo Wi-Fi Connection ID\n",
+        "war längere Zeit inaktiv und wurde\n",
+        "daher gelöscht.\n",
+        "\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00003",
+      "de_DE": [
+        "Der Nintendo Wi-Fi Connection\n",
+        "Service für diesen Titel wurde\n",
+        "eingestellt.\n",
+        "Besuche support.nintendo.com, um\n",
+        "eine Liste der Titel einzusehen,\n",
+        "die Nintendo Wi-Fi Connection\n",
+        "unterstützen. \n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00004",
+      "de_DE": [
+        "Der Access Point ist ausgelastet.\n",
+        "Derzeit ist keine Verbindung\n",
+        "möglich. Bitte versuche es später\n",
+        "noch einmal.\n",
+        "Besuche support.nintendo.com, um\n",
+        "weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00005",
+      "de_DE": [
+        "Kein Access Point in Reichweite.\n",
+        "Versuche es bitte näher an einem\n",
+        "Access Point noch einmal.\n",
+        "\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00006",
+      "de_DE": [
+        "Kein kompatibler Access Point in\n",
+        "Reichweite. Überprüfe bitte deine\n",
+        "Verbindungseinstellungen und\n",
+        "versuche es noch einmal.\n",
+        "\n",
+        "Besuche support.nintendo.com, um\n",
+        "weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00007",
+      "de_DE": [
+        "Keine Verbindung zum Nintendo\n",
+        "Wi-Fi USB Connector möglich.\n",
+        "Bestätige die Verbindungs-\n",
+        "einstellungen im Setup der\n",
+        "Nintendo Wi-Fi Connection.\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00008",
+      "de_DE": [
+        "Keine Verbindung zur Nintendo\n",
+        "Wi-Fi Connection möglich.\n",
+        "Bestätige die Verbindungs-\n",
+        "einstellungen und die\n",
+        "Einstellungen zum Access Point.\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00009",
+      "de_DE": [
+        "Es erfolgt keine Rückmeldung.\n",
+        "Entweder wurde die Verbindung\n",
+        "getrennt oder du wurdest von der\n",
+        "Freundesliste des Spielers\n",
+        "entfernt.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00010",
+      "de_DE": [
+        "Fehler bei der Datenübertragung.\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00011",
+      "de_DE": [
+        "Fehler bei der Datenübertragung.\n",
+        "\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00012",
+      "de_DE": [
+        "Download fehlgeschlagen.\n",
+        "\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    },
+    {
+      "id": "msg_0800_00013",
+      "de_DE": [
+        "Fehler bei der Datenübertragung.\n",
+        "Die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wurde unterbrochen.\n",
+        "Versuche es noch einmal.\n",
+        "\n",
+        "Besuche support.nintendo.com,\n",
+        "um weitere Hilfe zu erhalten."
+      ]
+    },
+    {
+      "id": "msg_0800_00014",
+      "de_DE": "Verbindungsfehler..."
+    },
+    {
+      "id": "msg_0800_00015",
+      "garbage": 72
+    },
+    {
+      "id": "msg_0800_00016",
+      "de_DE": [
+        "Deine Nintendo Wi-Fi Connection-\n",
+        "User-Daten wurden eventuell\n",
+        "gelöscht. Überprüfe bitte deine\n",
+        "Verbindungseinstellungen mit der\n",
+        "Nintendo Wi-Fi Connection-\n",
+        "Konfiguration."
+      ]
+    },
+    {
+      "id": "msg_0800_00017",
+      "de_DE": [
+        "Eine Verbindung zur Nintendo Wi-Fi\n",
+        "Connection herstellen?"
+      ]
+    },
+    {
+      "id": "msg_0800_00018",
+      "de_DE": [
+        "Die Nintendo Wi-Fi Connection sieht\n",
+        "dein System und die DS-Karte\n",
+        "als Einheit an. Sollen die\n",
+        "Nintendo Wi-Fi Connection-User-\n",
+        "Daten dieses Systems auf der DS-\n",
+        "Karte gespeichert werden und soll\n",
+        "eine Verbindung zur Nintendo\n",
+        "WFC hergestellt werden?"
+      ]
+    },
+    {
+      "id": "msg_0800_00019",
+      "de_DE": [
+        "Die Nintendo Wi-Fi Connection-\n",
+        "User-Daten für dieses System\n",
+        "wurden auf der DS-Karte\n",
+        "gespeichert.\n",
+        "Verwende von jetzt an bitte\n",
+        "ausschließlich dieses System, um\n",
+        "eine Verbindung zur Nintendo\n",
+        "Wi-Fi Connection herzustellen."
+      ]
+    },
+    {
+      "id": "msg_0800_00020",
+      "de_DE": [
+        "Keine Verbindung zur Nintendo\n",
+        "Wi-Fi Connection möglich. Nintendo\n",
+        "Wi-Fi Connection-User-Daten des\n",
+        "Systems und der DS-Karte stimmen\n",
+        "nicht überein."
+      ]
+    },
+    {
+      "id": "msg_0800_00021",
+      "de_DE": [
+        "Sollen die Nintendo Wi-Fi\n",
+        "Connection-User-Daten, die auf\n",
+        "dieser DS-Karte gespeichert sind,\n",
+        "aktualisiert werden? Durch Aktua-\n",
+        "lisierung der Nintendo WFC-User-\n",
+        "Daten gehen vorherige, zur Nutzung\n",
+        "der Nintendo WFC verwendete\n",
+        "Einstellungen verloren."
+      ]
+    },
+    {
+      "id": "msg_0800_00022",
+      "de_DE": [
+        "Warnung:\n",
+        "Alle Freundescodes im Adressbuch\n",
+        "werden dabei gelöscht.\n",
+        "\n",
+        "Möchtest du dennoch\n",
+        "aktualisieren?"
+      ]
+    },
+    {
+      "id": "msg_0800_00023",
+      "de_DE": [
+        "Verbinde mit Nintendo Wi-Fi Connection.\n",
+        "Bitte warten!"
+      ]
+    },
+    {
+      "id": "msg_0800_00024",
+      "de_DE": [
+        "Du kannst keine Verbindung zur\n",
+        "Nintendo Wi-Fi Connection\n",
+        "herstellen, wenn du diesen\n",
+        "Namen verwendest.\n",
+        "Bitte ändere deinen User-Namen\n",
+        "und versuche es noch einmal."
+      ]
+    },
+    {
+      "id": "msg_0800_00025",
+      "de_DE": [
+        "Soll die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wirklich beendet werden?"
+      ]
+    },
+    {
+      "id": "msg_0800_00026",
+      "de_DE": [
+        "Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wird abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0800_00027",
+      "de_DE": [
+        "Die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wurde unterbrochen."
+      ]
+    },
+    {
+      "id": "msg_0800_00028",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0800_00029",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0800_00030",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0800_00031",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0800_00032",
+      "de_DE": [
+        "Fehler bei der Datenübertragung\n",
+        "auf dem Wi-Fi Plaza.\n",
+        "Fehler-Code: {STRVAR_1 54, 0, 0}"
+      ]
+    }
+  ]
+}

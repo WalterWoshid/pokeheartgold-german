@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_103.inc"
 	.include "global.inc"
@@ -3950,7 +3951,7 @@ ov103_021EE784: ; 0x021EE784
 	add r3, r0, #0
 	mov r0, #1
 	str r0, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	mov r0, #0x8b
 	ldr r1, [r6, #0xc]

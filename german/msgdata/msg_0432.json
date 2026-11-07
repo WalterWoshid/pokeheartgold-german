@@ -1,0 +1,60 @@
+{
+  "key": 20832,
+  "messages": [
+    {
+      "id": "msg_0432_00000",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0432_00001",
+      "de_DE": "{STRVAR_1 8, 0, 0}"
+    },
+    {
+      "id": "msg_0432_00002",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0432_00003",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0432_00004",
+      "de_DE": "NÄCHSTE KARTE"
+    },
+    {
+      "id": "msg_0432_00005",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0432_00006",
+      "de_DE": [
+        "Diese Karte nicht\n",
+        "weiter freirubbeln?"
+      ]
+    },
+    {
+      "id": "msg_0432_00007",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0432_00008",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0432_00009",
+      "de_DE": "Karte Nr. {STRVAR_1 50, 0, 0}, los!"
+    },
+    {
+      "id": "msg_0432_00010",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0432_00011",
+      "de_DE": "Schade!"
+    },
+    {
+      "id": "msg_0432_00012",
+      "de_DE": "Bitte wähle Karte Nr. {STRVAR_1 50, 0, 0}.{YESNO 0}"
+    }
+  ]
+}

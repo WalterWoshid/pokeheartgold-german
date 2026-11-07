@@ -1,0 +1,92 @@
+{
+  "key": 5163,
+  "messages": [
+    {
+      "id": "msg_0093_00000",
+      "de_DE": [
+        "Du benötigst ein Fahrrad, wenn du\n",
+        "auf den Radweg möchtest!"
+      ]
+    },
+    {
+      "id": "msg_0093_00001",
+      "de_DE": [
+        "Du benötigst ein Fahrrad, wenn du\n",
+        "auf den Radweg möchtest!\r"
+      ]
+    },
+    {
+      "id": "msg_0093_00002",
+      "de_DE": [
+        "Wechsle die Gänge und lass dir\n",
+        "den Wind um die Nase wehen."
+      ]
+    },
+    {
+      "id": "msg_0093_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0}! Lange nicht gesehen!\r",
+        "Oh? Du siehst so erstaunt aus.\n",
+        "Du fragst dich, wer ich bin?\r",
+        "Ich bin der Assistent von Prof. Eibe\n",
+        "und der Vater von {STRVAR_1 3, 1}.\r",
+        "Auf Wunsch des Professors bin ich\n",
+        "hierher gekommen, um dir bei deinem\f",
+        "Abenteuer zu helfen.\r",
+        "{STRVAR_1 3, 0}, wenn ich fragen darf...\n",
+        "Wie viele Pokémon hast du getroffen?\r"
+      ]
+    },
+    {
+      "id": "msg_0093_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0}! Lange nicht gesehen!\r",
+        "Oh? Du siehst so erstaunt aus.\n",
+        "Du fragst dich, wer ich bin?\r",
+        "Ich bin der Assistent von Prof. Eibe\n",
+        "und der Vater von {STRVAR_1 3, 1}.\r",
+        "Auf Wunsch des Professors bin ich\n",
+        "hierher gekommen, um dir bei deinem\f",
+        "Abenteuer zu helfen.\r",
+        "{STRVAR_1 3, 0}, wenn ich fragen darf...\n",
+        "Wie viele Pokémon hast du getroffen?\r"
+      ]
+    },
+    {
+      "id": "msg_0093_00005",
+      "de_DE": [
+        "Ach du liebe Zeit!\n",
+        "Du hast {STRVAR_1 52, 1} Pokémon getroffen!\r",
+        "Wunderbar! Bravo!\n",
+        "Professor Eibe wird erfreut sein!\r",
+        "Hier ist etwas für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0093_00006",
+      "de_DE": [
+        "Ein Pokémon, das einen EP-Teiler hält,\n",
+        "erhält E.-Punkte aus Kämpfen.\r",
+        "Und zwar selbst dann, wenn es gar\n",
+        "nicht am Kampf teilnahm.\r",
+        "Ein EP-Teiler ist sehr hilfreich, um\n",
+        "schwache Pokémon aufzuziehen.\r",
+        "Und ein Tipp: Pokémon, die du in einem\n",
+        "Tausch erhältst, könnten ungehorsam\f",
+        "sein, wenn ihr Level zu hoch ist.\r",
+        "Aber keine Sorge. Sammle genügend\n",
+        "Orden, und sie werden gehorchen."
+      ]
+    },
+    {
+      "id": "msg_0093_00007",
+      "de_DE": [
+        "Du hast erst {STRVAR_1 52, 1} Pokémon getroffen?\r",
+        "Hmmm...\n",
+        "Du musst mindestens 35 finden.\r",
+        "Ansonsten wird es schwierig, den\n",
+        "Sinnoh-Pokédex zu vervollständigen."
+      ]
+    }
+  ]
+}

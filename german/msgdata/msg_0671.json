@@ -1,0 +1,167 @@
+{
+  "key": 54329,
+  "messages": [
+    {
+      "id": "msg_0671_00000",
+      "de_DE": "Elmar"
+    },
+    {
+      "id": "msg_0671_00001",
+      "de_DE": [
+        "Tschilp! Tschilp!\r",
+        "Sieht mein PORENTA etwas\n",
+        "Glänzendes, schnappt es es sich\f",
+        "und kommt damit angelaufen.\r",
+        "Magst du auch glänzende Dinge?\r",
+        "Das nächste Mal, wenn es mir etwas\n",
+        "bringt, kannst du es haben.\r",
+        "Gib mir mal deine Nummer.\n",
+        "Ich lasse es dich wissen, \f",
+        "wenn es so weit ist. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0671_00002",
+      "de_DE": [
+        "Wart’s ab! Ich rufe an, sobald\n",
+        "ich was Schönes für dich habe."
+      ]
+    },
+    {
+      "id": "msg_0671_00003",
+      "de_DE": [
+        "Bist du sicher?\n",
+        "Na gut. Du kannst auch später\f",
+        "wiederkommen. Sprich mich einfach an."
+      ]
+    },
+    {
+      "id": "msg_0671_00004",
+      "de_DE": [
+        "Tschilp! Tschilp!\r",
+        "Magst du glänzende Dinge?\n",
+        "Wenn mein PORENTA mir etwas\f",
+        "Glänzendes bringt, kannst du es haben.\r",
+        "Gibst du mir deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0671_00005",
+      "de_DE": [
+        "Tschilp! Tschilp!\r",
+        "Wie?\r",
+        "...Oh! Ja, richtig!\n",
+        "Und ich dachte schon, mein Pfeifen\f",
+        "hätte dich angelockt.\r",
+        "Du bist hier, um dir das Sternenstück\n",
+        "abzuholen?\r",
+        "Hier, bitte! Tschilp!\r"
+      ]
+    },
+    {
+      "id": "msg_0671_00006",
+      "de_DE": [
+        "Tschilp! Tschilp!\r",
+        "...He? Bist du nicht gerade\n",
+        "in der Nähe?\r",
+        "Dann komm doch\n",
+        "noch ein Stückchen näher!"
+      ]
+    },
+    {
+      "id": "msg_0671_00007",
+      "de_DE": [
+        "Ach ja.\n",
+        "Die Lauchstange, die mein {STRVAR_1 0, 10, 0}\f",
+        "hält, verströmt einen so leckeren Duft!\r",
+        "Jedes Mal, wenn ich daran schnuppere,\n",
+        "knurrt mein Magen vor Hunger.\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0671_00008",
+      "de_DE": [
+        "Mein PORENTA hat neulich\n",
+        "ein {STRVAR_1 0, 11, 0} besiegt.\r",
+        "Du hättest sehen sollen, wie geschickt\n",
+        "es mit seiner Stange umgeht!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0671_00009",
+      "de_DE": [
+        "Neulich lief mir ein {STRVAR_1 0, 11, 0}\n",
+        "über den Weg.\r",
+        "Es war wendiger als ich dachte.\n",
+        "Ich dachte schon, ich hätte es,\f",
+        "aber dann war es schneller weg,\f",
+        "als ich “A” sagen konnte.\f",
+        "Ein bisschen schade, meinst du nicht?\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0671_00010",
+      "de_DE": [
+        "Wollen wir noch einmal gegeneinander\n",
+        "kämpfen? Mein PORENTA ist\f",
+        "schon ganz zappelig vor Vorfreude.\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\n",
+        "Sprich mich an, wenn du da bist."
+      ]
+    },
+    {
+      "id": "msg_0671_00011",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Wann kommst du vorbei?\r",
+        "Die Warterei macht PORENTA ganz kirre.\n",
+        "Wenn du nicht bald kommst, haut es\f",
+        "mir noch seine Stange über den Schädel.\r",
+        "{STRVAR_1 4, 3, 0}!\n",
+        "Spute dich ein wenig, mir zuliebe!"
+      ]
+    },
+    {
+      "id": "msg_0671_00012",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}!\n",
+        "Wann kommst du vorbei?\r",
+        "Die Warterei macht PORENTA ganz kirre.\n",
+        "Wenn du nicht bald kommst, haut es\f",
+        "mir noch seine Stange über den Schädel.\r",
+        "Also, ich warte hier: {STRVAR_1 4, 3, 0}!\n",
+        "Spute dich ein wenig, mir zuliebe!"
+      ]
+    },
+    {
+      "id": "msg_0671_00013",
+      "de_DE": [
+        "Ich habe das versprochene Item\n",
+        "noch nicht.\r",
+        "Ich melde mich, sobald es so weit ist.\n",
+        "Kannst du noch etwas warten?"
+      ]
+    },
+    {
+      "id": "msg_0671_00014",
+      "de_DE": [
+        "Mein PORENTA hat wieder\n",
+        "etwas Glänzendes angeschleppt.\r",
+        "Du kannst es haben, wie versprochen.\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\n",
+        "Komm vorbei, wenn du in der Gegend bist."
+      ]
+    },
+    {
+      "id": "msg_0671_00015",
+      "de_DE": [
+        "Was ist los? Willst du dein Item nicht?\n",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\f",
+        "Melde dich, wenn du in der Gegend bist."
+      ]
+    }
+  ]
+}

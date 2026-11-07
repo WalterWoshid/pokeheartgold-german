@@ -1,0 +1,123 @@
+{
+  "key": 64293,
+  "messages": [
+    {
+      "id": "msg_0697_00000",
+      "de_DE": "Alain"
+    },
+    {
+      "id": "msg_0697_00001",
+      "de_DE": [
+        "So einen wunderbaren Kampf möchte\n",
+        "ich mein Leben lang nicht vergessen!\f",
+        "Ich weiß was! Würdest du mit mir\f",
+        "Telefonnummern austauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0697_00002",
+      "de_DE": [
+        "Jetzt ist alles in Ordnung. Damit werde\n",
+        "ich dich sicher nicht vergessen!"
+      ]
+    },
+    {
+      "id": "msg_0697_00003",
+      "de_DE": [
+        "Ach so...\n",
+        "Jetzt bin ich geknickt..."
+      ]
+    },
+    {
+      "id": "msg_0697_00004",
+      "de_DE": [
+        "Oooh! Wie schön! Du möchtest also\n",
+        "mit mir Telefonnummern tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0697_00005",
+      "de_DE": [
+        "He? Bist du etwa gerade in der Nähe?\n",
+        "Wenn du reden möchtest, können\f",
+        "wir das doch direkt tun."
+      ]
+    },
+    {
+      "id": "msg_0697_00006",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} gibt alles für mich!\r",
+        "...Das ist alles, was ich sagen wollte."
+      ]
+    },
+    {
+      "id": "msg_0697_00007",
+      "de_DE": [
+        "Hör mal! Gestern habe\n",
+        "ich ein {STRVAR_1 0, 11, 0} alle gemacht!\r",
+        "...Das ist alles, was ich sagen wollte."
+      ]
+    },
+    {
+      "id": "msg_0697_00008",
+      "de_DE": [
+        "Neiiin! Mir ist gerade\n",
+        "ein {STRVAR_1 0, 11, 0} entwischt!\r",
+        "...Das ist alles, was ich sagen wollte."
+      ]
+    },
+    {
+      "id": "msg_0697_00009",
+      "de_DE": [
+        "Erinnerst du dich noch?\r",
+        "An den leidenschaftlichen Moment,\n",
+        "als wir uns im Kampf gegenüberstanden?\r",
+        "Ein Mal noch möchte ich dich\n",
+        "herausfordern, und noch ein Mal\f",
+        "die Hitze des Wettkampfs spüren!\r",
+        "{STRVAR_1 4, 3, 0}! Ich erwarte dich!"
+      ]
+    },
+    {
+      "id": "msg_0697_00010",
+      "de_DE": [
+        "Erinnerst du dich noch?\n",
+        "An deine Verabredung mit mir?\r",
+        "{STRVAR_1 4, 3, 0}! Ich warte schon.\n",
+        "Lass mich nicht zu lange schmoren."
+      ]
+    },
+    {
+      "id": "msg_0697_00011",
+      "de_DE": [
+        "Aaah! Ich höre, du suchst jemanden,\n",
+        "der dich in die arkanen Geheimnisse\f",
+        "der Angelkunst einweiht!\r",
+        "Nun gut!\n",
+        "Ich will mal nicht so sein!\r",
+        "Zuallererst...\n",
+        "wendest du dich dem Wasser zu,\f",
+        "atmest tiiief ein,\f",
+        "nimmst die Angelrute ruhig in die Hand,\f",
+        "fixierst dein Ziel, und dann \f",
+        "- SURRR! - wirfst du die Angel aus!\r",
+        "Aber Vorsicht! Wenn du jetzt loslässt,\n",
+        "fliegt die ganze Geschichte davon,\f",
+        "also halte die Rute ordentlich fest!\r",
+        "Wenn Angelhaken und Schnur eintauchen,\n",
+        "heißt es regungslos sitzen und warten!\r",
+        "Nun ja, wenn es dich zum Beispiel juckt,\n",
+        "darfst du dich schon ein wenig bewegen.\r",
+        "Wenn dann etwas an dem Köder zupft,\n",
+        "holst du - ZACK! - die Angel ein!\r",
+        "Verstanden? Zupfen und ziehen!\n",
+        "Nicht erst ziehen und dann zupfen!\f",
+        "Und wehe, du lupfst, tupfst oder rupfst\f",
+        "stattdessen! Ganz zu schweigen von...\f",
+        "...He? Stimmt was nicht mit dem Telefon?\f",
+        "...Hörst... ... du... ...mich?\f",
+        "Hallo? ... ...Haaallo!"
+      ]
+    }
+  ]
+}

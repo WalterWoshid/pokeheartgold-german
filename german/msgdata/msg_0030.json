@@ -1,0 +1,94 @@
+{
+  "key": 7854,
+  "messages": [
+    {
+      "id": "msg_0030_00000",
+      "de_DE": [
+        "Na, wen haben wir denn da? Guten Tag!\n",
+        "Ich bin der Kamerakauz Wikbert!\r",
+        "Du bist jung und fotogen! Wie wär’s\n",
+        "mit einem Erinnerungsfoto? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0030_00001",
+      "de_DE": [
+        "So haben wir’s gern! Dann mach\n",
+        "dich mal bereit fürs Vögelchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0030_00002",
+      "de_DE": [
+        "Oh, ausgezeichnet! Ausgezeichnet!\n",
+        "Das Bild ist sehr gut geworden!\r",
+        "Du kannst dir den Schnappschuss\n",
+        "an jedem Computer ansehen."
+      ]
+    },
+    {
+      "id": "msg_0030_00003",
+      "de_DE": [
+        "Oha! Einen Augenblick!\r",
+        "Mein sechster Sinn sagt mir,\n",
+        "dass dein Fotoalbum\f",
+        "überzuquellen scheint!\r",
+        "Wir sprechen uns noch mal, wenn\n",
+        "du am Computer etwas Platz darin\f",
+        "geschaffen hast!"
+      ]
+    },
+    {
+      "id": "msg_0030_00004",
+      "de_DE": [
+        "Aber, aber!\n",
+        "Du hast ja gar kein Fotoalbum!\r",
+        "Um meine Schnappschüsse zu verwalten,\n",
+        "brauchst du ein Fotoalbum!\r",
+        "Mein Bruder betreibt in Dukatia City\n",
+        "ein Studio für Erinnerungsfotos.\f",
+        "Hole dir dort erst mal ein Album!"
+      ]
+    },
+    {
+      "id": "msg_0030_00005",
+      "de_DE": [
+        "Aber nicht doch!\n",
+        "Warum denn so schüchtern?"
+      ]
+    },
+    {
+      "id": "msg_0030_00006",
+      "de_DE": [
+        "Das ist eine Kamera mit Selbstauslöser.\r",
+        "Willst du ein Foto schießen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0030_00007",
+      "de_DE": "Die Aufnahme kann nun beginnen!\r"
+    },
+    {
+      "id": "msg_0030_00008",
+      "de_DE": "Das Foto wurde korrekt aufgenommen."
+    },
+    {
+      "id": "msg_0030_00009",
+      "de_DE": [
+        "Du hast zu viele Fotos in\n",
+        "deinem Fotoalbum.\r",
+        "Komme wieder, wenn du am PC\n",
+        "etwas Platz darin geschaffen hast."
+      ]
+    },
+    {
+      "id": "msg_0030_00010",
+      "de_DE": [
+        "Es wurde kein Fotoalbum gefunden.\r",
+        "Bitte komme wieder, wenn du dir in\n",
+        "der Dukatia-Passage in Dukatia\f",
+        "City eins besorgt hast."
+      ]
+    }
+  ]
+}

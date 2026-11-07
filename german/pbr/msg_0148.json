@@ -1,0 +1,52 @@
+{
+  "key": 42018,
+  "messages": [
+    {
+      "id": "msg_0148_00000",
+      "de_DE": "He du. Achte auf die Münze.\r"
+    },
+    {
+      "id": "msg_0148_00001",
+      "de_DE": "Dreh, dreh, dreh, dreh, dreh, dreh...\r"
+    },
+    {
+      "id": "msg_0148_00002",
+      "de_DE": [
+        "In welcher Hand ist die Münze?\n",
+        "Links oder rechts?"
+      ]
+    },
+    {
+      "id": "msg_0148_00003",
+      "de_DE": [
+        "Pah!\n",
+        "Wie armselig!"
+      ]
+    },
+    {
+      "id": "msg_0148_00004",
+      "de_DE": [
+        "Bravo!\n",
+        "Du hast gewonnen!\r",
+        "Und als Belohnung gibt es dafür...\n",
+        "Einen Münzkorb!\r"
+      ]
+    },
+    {
+      "id": "msg_0148_00005",
+      "de_DE": [
+        "Ich bin nur ein trauriger Clown.\n",
+        "Außen lache ich, innen weine ich."
+      ]
+    },
+    {
+      "id": "msg_0148_00006",
+      "de_DE": [
+        "Es gibt viele Zauberkünstler. Du weißt\n",
+        "schon, Trickser und Illusionisten.\r",
+        "Aber es kann doch sein, dass etwa fünf\n",
+        "Prozent davon wirklich zaubern können."
+      ]
+    }
+  ]
+}

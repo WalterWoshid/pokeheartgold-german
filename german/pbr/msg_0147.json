@@ -1,0 +1,68 @@
+{
+  "key": 9259,
+  "messages": [
+    {
+      "id": "msg_0147_00000",
+      "de_DE": [
+        "Willkommen.\r",
+        "Hier kannst du deine Münzen gegen\n",
+        "Preise eintauschen.\r"
+      ]
+    },
+    {
+      "id": "msg_0147_00001",
+      "de_DE": "Welchen Preis hättest du gerne?"
+    },
+    {
+      "id": "msg_0147_00002",
+      "de_DE": [
+        "Du möchtest also\n",
+        "{STRVAR_1 8, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0147_00003",
+      "de_DE": [
+        "Du möchtest also\n",
+        "{STRVAR_1 8, 0}: {STRVAR_1 6, 1}?"
+      ]
+    },
+    {
+      "id": "msg_0147_00004",
+      "de_DE": "Bitte schön!"
+    },
+    {
+      "id": "msg_0147_00005",
+      "de_DE": "Du hast nicht genügend Münzen.\r"
+    },
+    {
+      "id": "msg_0147_00006",
+      "de_DE": [
+        "Für {STRVAR_1 8, 0} hast du keinen\n",
+        "Platz mehr.\r"
+      ]
+    },
+    {
+      "id": "msg_0147_00007",
+      "de_DE": [
+        "Oh, das ist schade. \n",
+        "Du willst wohl noch ein paar Münzen\f",
+        "sparen, bevor du wiederkommst?\n"
+      ]
+    },
+    {
+      "id": "msg_0147_00008",
+      "de_DE": [
+        "Ich liebe Worte wie “Pokalendspiel” und\n",
+        "“Meisterschaftsfinale”."
+      ]
+    },
+    {
+      "id": "msg_0147_00009",
+      "de_DE": [
+        "Es gibt hier so tolle Preise, aber die\n",
+        "ganzen Münzen zusammenzusparen..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "key": 42007,
+  "messages": [
+    {
+      "id": "msg_0451_00000",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Danke, dass du den weiten Weg bis hier\f",
+        "nach Kanto auf dich genommen hast!\r",
+        "Na? \n",
+        "Was hältst du von den Trainern hier?\f",
+        "Ziemlich stark, was?\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00001",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Danke, dass du den weiten Weg bis hier\f",
+        "nach Kanto auf dich genommen hast!\r",
+        "Na? \n",
+        "Was hältst du von den Trainern hier?\f",
+        "Ziemlich stark, was?\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00002",
+      "garbage": 32
+    },
+    {
+      "id": "msg_0451_00003",
+      "de_DE": [
+        "Schau ruhig mal wieder vorbei,\n",
+        "wenn du in der Gegend bist!"
+      ]
+    },
+    {
+      "id": "msg_0451_00004",
+      "de_DE": [
+        "Mann, bei dir kommt man echt nicht\n",
+        "mehr aus dem Staunen heraus!\r",
+        "Das übertrifft all meine Erwartungen!\n",
+        "Jetzt hast du doch tatsächlich sogar\f",
+        "den nationalen Pokédex vervollständigt!\r",
+        "In meinem ganzen Leben als Forscher\n",
+        "werde ich das Zusammentreffen mit dir\f",
+        "sicher besonders gut in Erinnerung\f",
+        "behalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00005",
+      "de_DE": [
+        "Mann, bei dir kommt man echt nicht\n",
+        "mehr aus dem Staunen heraus!\r",
+        "Das übertrifft all meine Erwartungen!\n",
+        "Jetzt hast du doch tatsächlich sogar\f",
+        "den nationalen Pokédex vervollständigt!\r",
+        "In meinem ganzen Leben als Forscher\n",
+        "werde ich das Zusammentreffen mit dir\f",
+        "sicher besonders gut in Erinnerung\f",
+        "behalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00006",
+      "de_DE": [
+        "Nanu? Diese Orden...\r",
+        "Ist das denn die Möglichkeit?!\r",
+        "Soll das heißen, du hast dir alle Orden\n",
+        "der Arenaleiter von Kanto erkämpft?!\f",
+        "Als ob es nicht schon genug wäre,\f",
+        "dass du der Champ von Johto bist!\f",
+        "Ja... ich lag mit meinem ersten Eindruck\f",
+        "von dir wirklich goldrichtig!\r",
+        "In Ordnung, {STRVAR_1 3, 0, 0}!\n",
+        "Ich werde dafür sorgen, dass man\f",
+        "dir Zutritt zum Silberberg gewährt!\r",
+        "Der Silberberg ist ein großes Massiv,\n",
+        "wo es allerhand wilde Pokémon gibt.\r",
+        "Gewöhnliche Trainer dürfen da nicht hin,\n",
+        "weil es zu gefährlich ist, aber bei dir\f",
+        "sehe ich da kein Problem, {STRVAR_1 3, 0, 0}!\r",
+        "Schau mal beim Eingangsportal der\n",
+        "Pokémon Liga vorbei!\f",
+        "Von dort aus solltest du jetzt zum\f",
+        "Silberberg gelangen!"
+      ]
+    },
+    {
+      "id": "msg_0451_00007",
+      "de_DE": [
+        "Nanu? Diese Orden...\r",
+        "Ist das denn die Möglichkeit?!\r",
+        "Soll das heißen, du hast dir alle Orden\n",
+        "der Arenaleiter von Kanto erkämpft?!\f",
+        "Als ob es nicht schon genug wäre,\f",
+        "dass du der Champ von Johto bist!\f",
+        "Ja... ich lag mit meinem ersten Eindruck\f",
+        "von dir wirklich goldrichtig!\r",
+        "In Ordnung, {STRVAR_1 3, 0, 0}!\n",
+        "Ich werde dafür sorgen, dass man\f",
+        "dir Zutritt zum Silberberg gewährt!\r",
+        "Der Silberberg ist ein großes Massiv,\n",
+        "wo es allerhand wilde Pokémon gibt.\r",
+        "Gewöhnliche Trainer dürfen da nicht hin,\n",
+        "weil es zu gefährlich ist, aber bei dir\f",
+        "sehe ich da kein Problem, {STRVAR_1 3, 0, 0}!\r",
+        "Schau mal beim Eingangsportal der\n",
+        "Pokémon Liga vorbei!\f",
+        "Von dort aus solltest du jetzt zum\f",
+        "Silberberg gelangen!"
+      ]
+    },
+    {
+      "id": "msg_0451_00008",
+      "de_DE": [
+        "Eich: Hm?\n",
+        "Offensichtlich hast du hier in Kanto\f",
+        "noch keinen Orden erhalten.\r",
+        "Die Arenaleiter in Kanto brauchen sich\n",
+        "nicht vor denen aus Johto verstecken!\f",
+        "Sie sind alle ernstzunehmende Gegner!\r",
+        "Aber das hält dich natürlich nicht davon\n",
+        "ab, sie herauszufordern, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00009",
+      "de_DE": [
+        "Eich: Ah, wie ich sehe, erkämpfst du dir\n",
+        "nach und nach auch die Orden der\f",
+        "Arenaleiter von Kanto!\r",
+        "Es ist sicher kein leichtes Unterfangen,\n",
+        "aber du sammelst dabei bestimmt viele\f",
+        "wertvolle Erfahrungen.\r",
+        "Besuche mich wieder, wenn du dir hier\n",
+        "auch alle Orden erkämpft hast!\f",
+        "Ein Geschenk wird auf dich warten!\r",
+        "Halte die Ohren steif, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00010",
+      "de_DE": [
+        "Eich: Ah, wie ich sehe, erkämpfst du dir\n",
+        "nach und nach auch die Orden der\f",
+        "Arenaleiter von Kanto!\r",
+        "Es ist sicher kein leichtes Unterfangen,\n",
+        "aber du sammelst dabei bestimmt viele\f",
+        "wertvolle Erfahrungen.\r",
+        "Besuche mich wieder, wenn du dir hier\n",
+        "auch alle Orden erkämpft hast!\f",
+        "Ein Geschenk wird auf dich warten!\r",
+        "Halte die Ohren steif, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00011",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Was gibt’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00012",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Was gibt’s?\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00013",
+      "de_DE": [
+        "Eich: Die Pokémon aus der\n",
+        "Sage von Hoenn?\r",
+        "Du meinst KYOGRE und GROUDON?!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00014",
+      "de_DE": [
+        "Eich: Dieses alte Gemäuer, das die Leute\n",
+        "den Felsenherzturm nennen, muss\f",
+        "irgendwie mit der Sage von Hoenn\f",
+        "in Verbindung stehen.\r",
+        "Wenn das stimmt, glaube ich nicht, dass\n",
+        "es dort nur ein Pokémon geben soll.\r",
+        "Man sagt, dass KYOGRE und GROUDON\n",
+        "zusammen See und Land erschufen.\f",
+        "Sie sind ein unzertrennliches Paar!\r",
+        "Und wo man zwei Pokémon findet, ist\n",
+        "das dritte sicher nicht sehr weit...\f",
+        "Die Wahrscheinlichkeit ist sehr hoch!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00015",
+      "de_DE": [
+        "Eich: Wenn du die Rote Kugel mit in \n",
+        "den Felsenherzturm nimmst, wirst du\f",
+        "wahrscheinlich GROUDON begegnen.\r",
+        "Aber Mr. Pokémon deutete an, dass es\n",
+        "wohl nur vor einem Trainer erscheint,\f",
+        "dessen Seele ein silberner Glanz ziert.\r",
+        "Ja, {STRVAR_1 3, 0, 0}... völlig auf dich\n",
+        "selbst gestellt wird das nicht leicht...\r",
+        "Aber solltest du es bewerkstelligen,\n",
+        "das Paar zu vervollständigen,\f",
+        "indem du GROUDON findest,\f",
+        "dann komm vorbei und zeige es mir!\r",
+        "Wenn dir das gelingt, erzähle ich dir\n",
+        "auch den Rest der Sage von Hoenn!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00016",
+      "de_DE": [
+        "Eich: Wenn du die Rote Kugel mit in\n",
+        "den Felsenherzturm nimmst, wirst du\f",
+        "wahrscheinlich GROUDON begegnen.\r",
+        "Aber Mr. Pokémon deutete an, dass es\n",
+        "wohl nur vor einem Trainer erscheint,\f",
+        "dessen Seele ein silberner Glanz ziert.\r",
+        "Ja, {STRVAR_1 3, 0, 0}... völlig auf dich\n",
+        "selbst gestellt wird das nicht leicht...\r",
+        "Aber solltest du es bewerkstelligen,\n",
+        "das Paar zu vervollständigen,\f",
+        "indem du GROUDON findest,\f",
+        "dann komm vorbei und zeige es mir!\r",
+        "Wenn dir das gelingt, erzähle ich dir\n",
+        "auch den Rest der Sage von Hoenn!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00017",
+      "de_DE": [
+        "Eich: Wenn du die Blaue Kugel mit in\n",
+        "den Felsenherzturm nimmst, wirst du\f",
+        "wahrscheinlich KYOGRE begegnen.\r",
+        "Aber Mr. Pokémon deutete an, dass es\n",
+        "wohl nur vor einem Trainer erscheint,\f",
+        "dessen Herz ein goldener Glanz ziert.\r",
+        "Ja, {STRVAR_1 3, 0, 0}... völlig auf dich\n",
+        "selbst gestellt wird das nicht leicht...\r",
+        "Aber solltest du es bewerkstelligen,\n",
+        "das Paar zu vervollständigen,\f",
+        "indem du KYOGRE findest,\f",
+        "dann komm vorbei und zeige es mir!\r",
+        "Wenn dir das gelingt, erzähle ich dir\n",
+        "auch den Rest der Sage von Hoenn!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00018",
+      "de_DE": [
+        "Eich: Wenn du die Blaue Kugel mit in\n",
+        "den Felsenherzturm nimmst, wirst du\f",
+        "wahrscheinlich KYOGRE begegnen.\r",
+        "Aber Mr. Pokémon deutete an, dass es\n",
+        "wohl nur vor einem Trainer erscheint,\f",
+        "dessen Herz ein goldener Glanz ziert.\r",
+        "Ja, {STRVAR_1 3, 0, 0}... völlig auf dich\n",
+        "selbst gestellt wird das nicht leicht...\r",
+        "Aber solltest du es bewerkstelligen,\n",
+        "das Paar zu vervollständigen,\f",
+        "indem du KYOGRE findest,\f",
+        "dann komm vorbei und zeige es mir!\r",
+        "Wenn dir das gelingt, erzähle ich dir\n",
+        "auch den Rest der Sage von Hoenn!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00019",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Du hast es also endlich geschafft, \f",
+        "KYOGRE und GROUDON zu vereinen!\r",
+        "Ausgezeichnet!\r",
+        "Hier, das soll ab jetzt dir gehören.\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00020",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Du hast es also endlich geschafft, \f",
+        "KYOGRE und GROUDON zu vereinen!\r",
+        "Ausgezeichnet!\r",
+        "Hier, das soll ab jetzt dir gehören.\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00021",
+      "de_DE": [
+        "Eich: Erkennst du die Ähnlichkeit mit der\n",
+        "Kugel, die dir Mr. Pokémon gegeben hat?\r",
+        "Daher auch der Name: die Grüne Kugel!\n",
+        "Sie ist eine Gabe von RAYQUAZA.\r",
+        "Der Sage zufolge lagen GROUDON und\n",
+        "KYOGRE einst miteinander im Zwist und\f",
+        "schufen dabei das Land und das Meer.\r",
+        "Es kam zu Vulkanausbrüchen und viele\n",
+        "weitere Naturkatastrophen ähnlichen\f",
+        "Ausmaßes folgten auf dem Fuße.\r",
+        "RAYQUAZA, der Herrscher der Lüfte,\n",
+        "setzte dem Treiben schließlich ein Ende.\r",
+        "Wenn der Felsenherzturm tatsächlich\n",
+        "so eng mit GROUDON und KYOGRE in\f",
+        "Verbindung steht, wird sich ganz sicher\f",
+        "irgendetwas zutragen, wenn du die\f",
+        "Grüne Kugel dorthin bringst.\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00022",
+      "de_DE": [
+        "Eich: Nimm die Grüne Kugel und mache\n",
+        "dich auf den Weg zum Felsenherzturm!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00023",
+      "de_DE": [
+        "Eich: Fantastisch! Du hast es also\n",
+        "geschafft, RAYQUAZA zu fangen!\r",
+        "Es muss die Macht der Grünen Kugel\n",
+        "gewesen sein, die es angelockt hat.\r",
+        "Auf manche Pokémon üben gewisse Kugeln\n",
+        "und Steine starke Anziehungskraft aus.\r",
+        "Niemand weiß, woran genau das liegt...\n",
+        "Aber wahrscheinlich erinnern sie die\f",
+        "Pokémon an eine lange vergangene Zeit,\f",
+        "als es diesen Planeten noch nicht lange\f",
+        "gab und die Pokémon gerade erst\f",
+        "das Licht der Welt erblickt hatten.\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00024",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}! Pokémon zu\n",
+        "erforschen ist eine Lebensaufgabe.\f",
+        "Aber eine mit Spaßgarantie!\r",
+        "Aber Moment mal...\r",
+        "Unglaublich! Das sind doch...\r",
+        "Was sagst du da? Sie stammen beide\n",
+        "aus dem Felsenherzturm?\r",
+        "Diese zwei Pokémon sind eindeutig\n",
+        "KYOGRE und GROUDON, die berühmten\f",
+        "Pokémon aus der Sage von Hoenn!\r",
+        "Pokémon dieses Kalibers zu fangen, ist\n",
+        "eine wahre Meisterleistung! Ein Wunder!\f",
+        "Anders kann ich es nicht ausdrücken.\r",
+        "Na gut!\n",
+        "Hier, das ist für dich, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00025",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}! Pokémon zu\n",
+        "erforschen ist eine Lebensaufgabe.\f",
+        "Aber eine mit Spaßgarantie!\r",
+        "Aber Moment mal...\r",
+        "Unglaublich! Das sind doch...\r",
+        "Was sagst du da? Sie stammen beide\n",
+        "aus dem Felsenherzturm?\r",
+        "Diese zwei Pokémon sind eindeutig\n",
+        "KYOGRE und GROUDON, die berühmten\f",
+        "Pokémon aus der Sage von Hoenn!\r",
+        "Pokémon dieses Kalibers zu fangen, ist\n",
+        "eine wahre Meisterleistung! Ein Wunder!\f",
+        "Anders kann ich es nicht ausdrücken.\r",
+        "Na gut!\n",
+        "Hier, das ist für dich, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00026",
+      "de_DE": "Eich: Hier, nimm nur!\r"
+    },
+    {
+      "id": "msg_0451_00027",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0451_00028",
+      "de_DE": [
+        "Eich: Hast du nicht auch Lust,\n",
+        "ein Erinnerungsfoto mit mir\f",
+        "aufzunehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0451_00029",
+      "de_DE": [
+        "Eich: Also gut! Dann wollen wir mal!\n",
+        "Bist du bereit?\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00030",
+      "de_DE": [
+        "Eich: Ausgezeichnet! Das sind\n",
+        "wirklich schöne Erinnerungen!"
+      ]
+    },
+    {
+      "id": "msg_0451_00031",
+      "de_DE": [
+        "Eich: Wirklich nicht? Du brauchst dir\n",
+        "echt nichts Großes dabei zu denken..."
+      ]
+    },
+    {
+      "id": "msg_0451_00032",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    },
+    {
+      "id": "msg_0451_00033",
+      "de_DE": [
+        "Professor Eichs Pokémon-Talk kann man\n",
+        "sowohl in Kanto als auch in Johto hören!\r",
+        "Professor Eich ist echt eine Wucht!"
+      ]
+    },
+    {
+      "id": "msg_0451_00034",
+      "de_DE": [
+        "Dank deiner Arbeit am Pokédex\n",
+        "machen die Forschungen des Professors\f",
+        "große Fortschritte, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0451_00035",
+      "de_DE": [
+        "Du bist {STRVAR_1 3, 0, 0}, nicht wahr?\r",
+        "...Hör mal, das hast du nicht von mir,\n",
+        "aber Professor Eichs Pokémon-Talk\f",
+        "wird nicht live ausgestrahlt!"
+      ]
+    },
+    {
+      "id": "msg_0451_00036",
+      "de_DE": [
+        "Viele der Bücher wurden so intensiv\n",
+        "gelesen, dass ihr Schutzumschlag\f",
+        "völlig zerfleddert ist."
+      ]
+    },
+    {
+      "id": "msg_0451_00037",
+      "de_DE": [
+        "Da liegt eine neue E-Mail im Postfach!\r",
+        "... ... ...\r",
+        "Guten Tag, Professor Eich! Wie kommen\n",
+        "Sie mit Ihren Forschungen voran?\r",
+        "Was mich selbst betrifft... nun ja,\n",
+        "man kämpft sich eben so durch!\r",
+        "{STRVAR_1 3, 0, 0} scheint sich übrigens auch\n",
+        "in Kanto tüchtig ins Zeug zu legen!\r",
+        "Die Geschichten von seinen Taten\n",
+        "dringen bis zu uns nach Johto durch!\f",
+        "Das freut mich sehr.\r",
+        "Viele Grüße von Prof. Lind aus Neuborkia"
+      ]
+    },
+    {
+      "id": "msg_0451_00038",
+      "de_DE": [
+        "Da liegt eine neue E-Mail im Postfach!\r",
+        "... ... ...\r",
+        "Guten Tag, Professor Eich! Wie kommen\n",
+        "Sie mit Ihren Forschungen voran?\r",
+        "Was mich selbst betrifft... nun ja,\n",
+        "man kämpft sich eben so durch!\r",
+        "{STRVAR_1 3, 0, 0} scheint sich übrigens auch\n",
+        "in Kanto tüchtig ins Zeug zu legen!\r",
+        "Die Geschichten von ihren Taten\n",
+        "dringen bis zu uns nach Johto durch!\f",
+        "Das freut mich sehr.\r",
+        "Viele Grüße von Prof. Lind aus Neuborkia"
+      ]
+    },
+    {
+      "id": "msg_0451_00039",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Schön, dich zu sehen!\f",
+        "Ich habe viel von deinen Taten gehört!\r",
+        "Dein Pokédex scheint inzwischen auch\n",
+        "einige Einträge mehr bekommen zu haben!\r",
+        "Dafür bekommst du ein Geschenk von mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00040",
+      "de_DE": [
+        "Eich: Oh, {STRVAR_1 3, 0, 0}!\n",
+        "Schön, dich zu sehen!\f",
+        "Ich habe viel von deinen Taten gehört!\r",
+        "Dein Pokédex scheint inzwischen auch\n",
+        "einige Einträge mehr bekommen zu haben!\r",
+        "Dafür bekommst du ein Geschenk von mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00041",
+      "de_DE": [
+        "Eich: Hahaha...\r",
+        "Du weißt sicher schon bestens\n",
+        "darüber Bescheid, was das hier\f",
+        "hinter mir ist, habe ich nicht recht?\r",
+        "Ganz genau! Das sind Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00042",
+      "de_DE": [
+        "Eich: Genauer gesagt sind es Pokémon,\n",
+        "die man auch in Kanto eher selten sieht.\r",
+        "Eins von ihnen darfst du haben!\n",
+        "...Los, such dir eins aus!"
+      ]
+    },
+    {
+      "id": "msg_0451_00043",
+      "de_DE": [
+        "Oh! Du möchtest also das\n",
+        "Feuer-Pokémon GLUMANDA? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0451_00044",
+      "de_DE": [
+        "So so, du möchtest also das\n",
+        "Wasser-Pokémon SCHIGGY? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0451_00045",
+      "de_DE": [
+        "Aha! Du möchtest also das\n",
+        "Pflanzen-Pokémon BISASAM? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0451_00046",
+      "de_DE": "Dieses Pokémon ist in Topform!\r"
+    },
+    {
+      "id": "msg_0451_00047",
+      "de_DE": [
+        "Nur keine Hektik! Triff deine Wahl\n",
+        "lieber mit Bedacht!"
+      ]
+    },
+    {
+      "id": "msg_0451_00048",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0451_00049",
+      "de_DE": [
+        "Möchtest du {STRVAR_1 0, 1, 0}\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0451_00050",
+      "de_DE": [
+        "Bist du mit {STRVAR_1 1, 1, 0} als\n",
+        "Spitznamen zufrieden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0451_00051",
+      "de_DE": [
+        "Hoppla! In deinem Team scheint\n",
+        "kein Platz mehr zu sein.\r",
+        "Komm wieder, wenn du Platz hast!"
+      ]
+    },
+    {
+      "id": "msg_0451_00052",
+      "de_DE": [
+        "Eich: Ach ja! Mit diesem Pokémon kannst\n",
+        "du es auch mit den wilden Pokémon\f",
+        "aufnehmen, die auf dem Weg in die\f",
+        "benachbarte Stadt auf dich lauern!\r",
+        "...Aber das weißt du natürlich alles\n",
+        "längst schon selbst!\f",
+        "Hohoho!"
+      ]
+    },
+    {
+      "id": "msg_0451_00053",
+      "de_DE": [
+        "Eich: Ich wüsste nicht, was ich dir\n",
+        "sonst noch mit auf den Weg geben soll.\r",
+        "Ich hoffe, du genießt die Reise mit\n",
+        "den Neuzugängen in deinem\f",
+        "Pokémon-Team in vollen Zügen!"
+      ]
+    },
+    {
+      "id": "msg_0451_00054",
+      "de_DE": [
+        "Dieses Pokémon gehört dem\n",
+        "Professor. Diesmal wird {STRVAR_1 3, 1, 0}\f",
+        "bestimmt keins davon stibitzen..."
+      ]
+    },
+    {
+      "id": "msg_0451_00055",
+      "de_DE": [
+        "Eich: Oh, da bist du ja!\n",
+        "Ich habe ein Geschenk für dich!\f",
+        "Hier, nimm!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00056",
+      "de_DE": [
+        "Eich: Darin ist Kraxler enthalten!\r",
+        "Wenn du diese Attacke einem Pokémon\n",
+        "beibringst, kannst du damit all jene\f",
+        "Felswände erklimmen, in die Trittmulden\f",
+        "eingekerbt wurden.\r",
+        "Damit wirst du bestimmt die eine oder\n",
+        "andere unerwartete Entdeckung machen!\r"
+      ]
+    },
+    {
+      "id": "msg_0451_00057",
+      "de_DE": [
+        "Mithilfe von Kraxler kannst du all jene\n",
+        "Felswände erklimmen, in die Trittmulden\f",
+        "eingekerbt wurden.\r",
+        "Damit wirst du bestimmt die eine oder\n",
+        "andere unerwartete Entdeckung machen!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "key": 37436,
+  "messages": [
+    {
+      "id": "msg_0318_00000",
+      "de_DE": [
+        "Willkommen bei Geonet, dem\n",
+        "Hightech-Globus!\r"
+      ]
+    },
+    {
+      "id": "msg_0318_00001",
+      "de_DE": "Was möchtest du tun?"
+    },
+    {
+      "id": "msg_0318_00002",
+      "de_DE": [
+        "Hier kannst du eintragen, wo du lebst.\r",
+        "Diese Information wird Freunden, aber\n",
+        "auch Fremden, über die Drahtlose\r",
+        "DS-Datenübertragung oder über die\n",
+        "Nintendo WFC mitgeteilt.\r",
+        "Möchtest du das Gebiet, in dem du\n",
+        "lebst, auf dem Globus eintragen?\n"
+      ]
+    },
+    {
+      "id": "msg_0318_00003",
+      "de_DE": "Bitte wähle das Gebiet, in dem du lebst."
+    },
+    {
+      "id": "msg_0318_00004",
+      "de_DE": "Bitte wähle die Region, in der du lebst."
+    },
+    {
+      "id": "msg_0318_00005",
+      "de_DE": [
+        "Sobald du dich eingetragen hast, kannst\n",
+        "du die Angaben nicht mehr ändern.\r",
+        "Soll dieser Ort als der eingetragen\n",
+        "werden, an dem du lebst?"
+      ]
+    },
+    {
+      "id": "msg_0318_00006",
+      "de_DE": "{STRVAR_1 36, 0}"
+    },
+    {
+      "id": "msg_0318_00007",
+      "de_DE": "{STRVAR_1 37, 0}"
+    },
+    {
+      "id": "msg_0318_00008",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0318_00009",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0318_00010",
+      "de_DE": "GLOBUS ANSEHEN"
+    },
+    {
+      "id": "msg_0318_00011",
+      "de_DE": "EINTRAGEN"
+    },
+    {
+      "id": "msg_0318_00012",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0318_00013",
+      "de_DE": [
+        "Du hast folgenden Ort eingetragen:\n",
+        "{STRVAR_1 36, 0}\n",
+        "{STRVAR_1 37, 1}"
+      ]
+    },
+    {
+      "id": "msg_0318_00014",
+      "de_DE": [
+        "Platziere den Cursor. Drücke den\n",
+        "X-Knopf, um registr. Orte anzuzeigen. "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "key": 39291,
+  "messages": [
+    {
+      "id": "msg_0101_00000",
+      "de_DE": [
+        "Frage: 12 plus 28 gibt?\n",
+        "Antwort: ←30 ↑40 →50"
+      ]
+    },
+    {
+      "id": "msg_0101_00001",
+      "de_DE": [
+        "Korrekt!\n",
+        "Gratuliere!"
+      ]
+    },
+    {
+      "id": "msg_0101_00002",
+      "de_DE": "Bitte beantworte die Frage!"
+    }
+  ]
+}

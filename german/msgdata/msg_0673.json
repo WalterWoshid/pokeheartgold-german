@@ -1,0 +1,111 @@
+{
+  "key": 29614,
+  "messages": [
+    {
+      "id": "msg_0673_00000",
+      "de_DE": "Paavo"
+    },
+    {
+      "id": "msg_0673_00001",
+      "de_DE": [
+        "Der Kampf ist noch nicht vorbei!\n",
+        "Beim nächsten Mal versohle ich\f",
+        "dir nämlich den Hosenboden!\r",
+        "Gib mir deine Telefonnummer,\n",
+        "dann kämpfen wir wieder! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0673_00002",
+      "de_DE": [
+        "In Ordnung, registriert!\n",
+        "Wir sehen uns wieder!"
+      ]
+    },
+    {
+      "id": "msg_0673_00003",
+      "de_DE": "Och menno..."
+    },
+    {
+      "id": "msg_0673_00004",
+      "de_DE": [
+        "Siehst du? Du willst meine Nummer\n",
+        "also doch! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0673_00005",
+      "de_DE": [
+        "He?\n",
+        "Höre ich da ein Windrad im Hintergrund?\r",
+        "Stehst du gerade etwa direkt neben mir?\r",
+        "Was reden wir dann noch am Telefon?"
+      ]
+    },
+    {
+      "id": "msg_0673_00006",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} legt sich\n",
+        "tierisch ins Zeug!\r",
+        "Wenn ich in der Schule einen neuen Trick\n",
+        "lerne, kann ich ihn sofort anwenden!\r",
+        "Hast du auch ein Pokémon, das so\n",
+        "folgsam wie meines ist?"
+      ]
+    },
+    {
+      "id": "msg_0673_00007",
+      "de_DE": [
+        "Gestern habe ich einem {STRVAR_1 0, 11, 0}\n",
+        "so richtig gezeigt, wo es langgeht!\r",
+        "Man muss nur beherzigen, was\n",
+        "die Lehrerin sagt, dann klappt es auch.\r",
+        "Auf welcher Pokémonschule warst du?\n",
+        "Du... warst doch auf der Schule, oder?\f",
+        "Ohne geht es doch gar nicht!"
+      ]
+    },
+    {
+      "id": "msg_0673_00008",
+      "de_DE": [
+        "Neulich ist mir ein {STRVAR_1 0, 11, 0}\n",
+        "entwischt... seufz.\f",
+        "Ich weine ihm immer noch nach.\r",
+        "Darum notiere ich mir die Namen aller\n",
+        "Pokémon, die mir entwischt sind, in\f",
+        "meinem Heft. So bleiben mir meine\f",
+        "bitteren Tränen stets in Erinnerung!\r",
+        "Du solltest dir das Heft mal ansehen.\n",
+        "Es ist schon voller Namen!"
+      ]
+    },
+    {
+      "id": "msg_0673_00009",
+      "de_DE": [
+        "So langsam könnten wir mal wieder\n",
+        "kämpfen. Ich warte hier:\f",
+        "{STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0673_00010",
+      "de_DE": [
+        "Haaallooo! Wir wollten doch\n",
+        "kämpfen! {STRVAR_1 4, 3, 0}!\f",
+        "Mach dich auf die Socken!"
+      ]
+    },
+    {
+      "id": "msg_0673_00011",
+      "de_DE": [
+        "Was? Wieso man hier nur\n",
+        "Schulkinder sieht?\r",
+        "Stimmt. Jetzt, wo du es sagst.\r",
+        "Aber hier sind alle in Eile,\n",
+        "weil niemand sich verspäten will.\f",
+        "Darum haben sie nie Zeit\f",
+        "für Pokémon-Kämpfe."
+      ]
+    }
+  ]
+}

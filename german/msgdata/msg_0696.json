@@ -1,0 +1,118 @@
+{
+  "key": 29183,
+  "messages": [
+    {
+      "id": "msg_0696_00000",
+      "de_DE": "Arno"
+    },
+    {
+      "id": "msg_0696_00001",
+      "de_DE": [
+        "Du bist ganz schön stark.\r",
+        "Aber ich will mich nicht einfach\n",
+        "so verdrücken...\r",
+        "Ich weiß! Gibst du mir deine Nummer?\n",
+        "Wir werden uns wiedersehen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0696_00002",
+      "de_DE": [
+        "Vergiss nicht, mich aufzusuchen,\n",
+        "wenn ich dich herausfordere!"
+      ]
+    },
+    {
+      "id": "msg_0696_00003",
+      "de_DE": [
+        "Es ist nie schlecht, einen Freund zu\n",
+        "haben, der mit Vogel-Pokémon kämpft.\r",
+        "Möchtest du es dir nicht überlegen?"
+      ]
+    },
+    {
+      "id": "msg_0696_00004",
+      "de_DE": [
+        "Ich will, sooft es geht, gegen starke\n",
+        "Trainer antreten!\r",
+        "Gibst du mir deine Telefonnummer?\n",
+        "Dann können wir öfter kämpfen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0696_00005",
+      "de_DE": [
+        "Du bist wirklich sehr stark!\r",
+        "Danke, dass du so oft mit mir gekämpft\n",
+        "hast. Ich habe viel von dir gelernt.\r",
+        "Nimm dies als Zeichen meiner\n",
+        "Wertschätzung!\r"
+      ]
+    },
+    {
+      "id": "msg_0696_00006",
+      "de_DE": [
+        "Du bist doch in der Nähe?\r",
+        "Reden wir Auge in Auge."
+      ]
+    },
+    {
+      "id": "msg_0696_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wurde wieder\n",
+        "stärker. Wir sind praktisch abgehoben!\r",
+        "Ein {STRVAR_1 0, 11, 0} ist kein Gegner mehr\n",
+        "für uns!\r",
+        "...Huh? Für dich auch nicht?\n",
+        "Hahaha! Das ist doch toll.\r",
+        "Bis dann einmal!"
+      ]
+    },
+    {
+      "id": "msg_0696_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wurde wieder\n",
+        "stärker. Wir sind praktisch abgehoben!\r",
+        "Aber stell dir vor, ein wildes\n",
+        "{STRVAR_1 0, 11, 0} entkam uns nur knapp.\f",
+        "Am liebsten wäre ich ihm nachgeflogen...\r",
+        "Bis dann einmal!"
+      ]
+    },
+    {
+      "id": "msg_0696_00009",
+      "de_DE": [
+        "Ich bin hier: {STRVAR_1 4, 3, 0}!\n",
+        "Du weißt schon, wo wir uns zum ersten\f",
+        "Mal sahen?\r",
+        "Willst du nicht kämpfen?\n",
+        "Ich warte hier eine Weile."
+      ]
+    },
+    {
+      "id": "msg_0696_00010",
+      "de_DE": [
+        "He, {STRVAR_1 3, 0, 0}!\n",
+        "Beeilung!\r",
+        "{STRVAR_1 4, 3, 0}!\n",
+        "Fliege zu mir!"
+      ]
+    },
+    {
+      "id": "msg_0696_00011",
+      "de_DE": [
+        "He, {STRVAR_1 3, 0, 0}!\n",
+        "Beeilung!\r",
+        "{STRVAR_1 4, 3, 0}!\n",
+        "Fliege zu mir!"
+      ]
+    },
+    {
+      "id": "msg_0696_00012",
+      "de_DE": [
+        "Ich freue mich auf unseren\n",
+        "nächsten Kampf!"
+      ]
+    }
+  ]
+}

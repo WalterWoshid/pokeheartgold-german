@@ -1,0 +1,119 @@
+{
+  "key": 46494,
+  "messages": [
+    {
+      "id": "msg_0681_00000",
+      "de_DE": "Götz"
+    },
+    {
+      "id": "msg_0681_00001",
+      "de_DE": "Kriege ich deine Telefonnummer? {YESNO 0}"
+    },
+    {
+      "id": "msg_0681_00002",
+      "de_DE": [
+        "Ich rufe dich an, wenn\n",
+        "ich mal kämpfen will!"
+      ]
+    },
+    {
+      "id": "msg_0681_00003",
+      "de_DE": [
+        "Nicht? Wenn ich was finde, teile ich\n",
+        "es auch mit dir! Komm, sag schon ja!"
+      ]
+    },
+    {
+      "id": "msg_0681_00004",
+      "de_DE": "Du gibst mir deine Nummer? {YESNO 0}"
+    },
+    {
+      "id": "msg_0681_00005",
+      "de_DE": [
+        "Oh, du bist wirklich gekommen!\r",
+        "Hier, diese Beere hat mein Pokémon\n",
+        "gefunden. Du kannst sie haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0681_00006",
+      "de_DE": [
+        "Du bist lustig!\n",
+        "Rufst du immer Leute an, die\f",
+        "direkt neben dir stehen?"
+      ]
+    },
+    {
+      "id": "msg_0681_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} trainiert\n",
+        "Tag und Nacht!\r",
+        "Selbst ein {STRVAR_1 0, 11, 0}\n",
+        "kann es nicht umhauen."
+      ]
+    },
+    {
+      "id": "msg_0681_00008",
+      "de_DE": [
+        "Hör doch mal!\n",
+        "Vor einer Weile ist mir ein\f",
+        "{STRVAR_1 0, 11, 0} entwischt.\r",
+        "Ich habe mich so geärgert! Ich war\n",
+        "schon so lange hinter einem her."
+      ]
+    },
+    {
+      "id": "msg_0681_00009",
+      "de_DE": [
+        "Schon mal ein {STRVAR_1 0, 11, 0} gefangen?\n",
+        "Es gibt sie häufig in dieser Gegend!"
+      ]
+    },
+    {
+      "id": "msg_0681_00010",
+      "de_DE": [
+        "Wollen du und dein Team gegen meine\n",
+        "neu trainierten Pokémon antreten?\r",
+        "Wir warten hier: {STRVAR_1 4, 3, 0}.\n",
+        "Sprich mich an, wenn du in der Nähe bist."
+      ]
+    },
+    {
+      "id": "msg_0681_00011",
+      "de_DE": [
+        "Wo bist du gerade? Und\n",
+        "{STRVAR_1 4, 3, 0}? Liegt das\f",
+        "auf dem Weg? Du hast doch\f",
+        "unseren Kampf nicht vergessen?"
+      ]
+    },
+    {
+      "id": "msg_0681_00012",
+      "de_DE": [
+        "Als ich auf der Suche nach Pokémon\n",
+        "durch die Wälder streifte, habe ich\f",
+        "mir den Finger an einem Blatt geritzt.\r",
+        "Es hat sogar ein wenig geblutet.\n",
+        "Aber das macht mir GAR nichts aus!"
+      ]
+    },
+    {
+      "id": "msg_0681_00013",
+      "de_DE": [
+        "Mein Pokémon hat eine Beere gefunden.\n",
+        "Die mögen deine sicher auch.\r",
+        "Komm doch hierher: {STRVAR_1 4, 3, 0}.\n",
+        "Dann gebe ich sie dir!"
+      ]
+    },
+    {
+      "id": "msg_0681_00014",
+      "de_DE": [
+        "He da, ich will dir noch immer\n",
+        "meine Beere schenken!\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\n",
+        "Wo bist du?"
+      ]
+    }
+  ]
+}

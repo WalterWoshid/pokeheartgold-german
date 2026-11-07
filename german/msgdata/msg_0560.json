@@ -1,0 +1,302 @@
+{
+  "key": 5206,
+  "messages": [
+    {
+      "id": "msg_0560_00000",
+      "de_DE": [
+        "Earl lautet meine Namö!\n",
+        "Pokémon sind wunderbar, oui!\r",
+        "Isch werde dir vielö Lektion erteilön\n",
+        "für zu werdön eine besserö Trainör.\r",
+        "Was möchtest du wissön? Soll isch\n",
+        "dir erzählön, wie man wird stark? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00001",
+      "de_DE": [
+        "Gut! So lass misch dir erklärön!\r",
+        "Im Kampf wird das erste Pokémon\n",
+        "auf die Liste beginnön. Mit anderö\f",
+        "Worte also das Pokémon, das du\f",
+        "führst spazierön, oui?\r",
+        "Ast du keine andere Wahl, ändere\n",
+        "die Aufstellung in die Liste, um zu\f",
+        "werden einö Gewinnère!\r",
+        "Möschtest du ören noch mehr? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00002",
+      "de_DE": [
+        "Du möschtest also wissen, wie man\n",
+        "trainiert Pokémon auf die Art und\f",
+        "Weisö, die ist rischtisch? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00003",
+      "de_DE": [
+        "Très bien! So lass misch erklärön!\r",
+        "Selbst wenn eine Pokémon nur kurz an\n",
+        "die Kampf teilnimmt, bekommt es \f",
+        "zum Schluss ein paar von die EP ab!\r",
+        "Führe eine schwache Pokémon mit\n",
+        "dir spazierön und tausche sie dann\f",
+        "am Anfang von die Kampf mit einö\f",
+        "andere aus!\r",
+        "So können auch schwache Pokémon\n",
+        "werden sehr stark! Mehr vön mir? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00004",
+      "de_DE": [
+        "Soll isch dir nun beibringen die\n",
+        "korrekte Art und Weise zu kämpfön\f",
+        "mit deine Pokémon? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00005",
+      "de_DE": [
+        "Très bien! So lass misch erklärön!\r",
+        "Alle Typen von Pokémon aben die\n",
+        "Teile Vor und Nach!\r",
+        "In eine Kampf zwischen Pokémon von\n",
+        "die unterschiedlische Typ, kann sogar\f",
+        "verlierön die Pokémon mit dem öheren\f",
+        "Level, zut alors!\r",
+        "Clevere Trainör setzön desalb in die\n",
+        "Kampf immer ein Pokémon ein, das\f",
+        "kann ausnützön die Schwachstellen\f",
+        "des Gegners!"
+      ]
+    },
+    {
+      "id": "msg_0560_00006",
+      "de_DE": [
+        "Oh! Du bist eine schlaue Schülère!\r",
+        "Isch kann dir nun nischts mehr\n",
+        "beibringön.\f",
+        "Sei lieb zu deine Pokémon, örst du?"
+      ]
+    },
+    {
+      "id": "msg_0560_00007",
+      "de_DE": [
+        "Ich schreibe immer mit, was der Lehrer\n",
+        "sagt, damit ich es später lernen kann.\r",
+        "Besser, ich schreibe auch alles von\n",
+        "der Tafel ab..."
+      ]
+    },
+    {
+      "id": "msg_0560_00008",
+      "de_DE": [
+        "Ich habe mein bestes Pokémon mit dem\n",
+        "Typen neben mir getauscht!"
+      ]
+    },
+    {
+      "id": "msg_0560_00009",
+      "de_DE": [
+        "Nanu? Ich habe ein Pokémon geschickt\n",
+        "bekommen, das ein Item bei sich trägt!"
+      ]
+    },
+    {
+      "id": "msg_0560_00010",
+      "de_DE": [
+        "...Es gibt Beeren, mit deren Hilfe sich\n",
+        "Pokémon heilen können. Du musst sie\f",
+        "ihnen nur geben.\r",
+        "Es gibt außerdem noch viele andere\n",
+        "Items, die man Pokémon geben kann!\r",
+        "Es ist nicht leicht, bei so vielen Notizen\n",
+        "nicht den Überblick zu verlieren..."
+      ]
+    },
+    {
+      "id": "msg_0560_00011",
+      "de_DE": [
+        "Der Lehrer sagte, Pokémon verfügen\n",
+        "auch über Spezialfähigkeiten!\r",
+        "Offenbar entscheidet die Art des\n",
+        "Pokémon darüber, welche genau.\r",
+        "Es soll viele Spezialfähigkeiten geben,\n",
+        "die im Kampf sehr hilfreich sind!"
+      ]
+    },
+    {
+      "id": "msg_0560_00012",
+      "de_DE": [
+        "Auf der Tafel stehen Erläuterungen\n",
+        "zu den Statusveränderungen, die sich\f",
+        "Pokémon im Kampf einfangen können.\r"
+      ]
+    },
+    {
+      "id": "msg_0560_00013",
+      "de_DE": [
+        "Über welches Thema willst du\n",
+        "etwas lesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00014",
+      "de_DE": [
+        "Wird ein Pokémon vergiftet, verliert\n",
+        "es konstant weiter KP.\r",
+        "Da das Gift auch nach dem Kampf noch\n",
+        "in seinem Körper bleibt und ihm weiter\f",
+        "Schaden zufügt, setzt du besser\f",
+        "schleunigst das Item Gegengift ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0560_00015",
+      "de_DE": [
+        "Paralyse verringert die Initiative eines\n",
+        "Pokémon und hindert es gelegentlich\f",
+        "daran, anzugreifen.\r",
+        "Da Paralyse auch nach dem Kampf weiter\n",
+        "andauert, solltest du sie mit einem\f",
+        "Para-Heiler aufheben.\r"
+      ]
+    },
+    {
+      "id": "msg_0560_00016",
+      "de_DE": [
+        "Schläft ein Pokémon ein, kann es sich\n",
+        "nur noch mit den Attacken Schlafrede\f",
+        "und Schnarcher verteidigen.\r",
+        "Da es auch nach einem Kampf noch im\n",
+        "Land der Träume bleibt, weckst du es\f",
+        "spätestens dann besser mit Aufwecker.\r"
+      ]
+    },
+    {
+      "id": "msg_0560_00017",
+      "de_DE": [
+        "Verbrennungen lassen die KP eines\n",
+        "Pokémon stetig sinken und reduzieren\f",
+        "seinen Angriffs-Wert.\r",
+        "Da die Verbrennungen auch nach dem\n",
+        "Kampf bestehen bleiben, solltest du\f",
+        "einen Feuerheiler verwenden.\r"
+      ]
+    },
+    {
+      "id": "msg_0560_00018",
+      "de_DE": [
+        "Ist dein Pokémon eingefroren, ist es\n",
+        "zu keiner weiteren Handlung fähig.\r",
+        "Da dieser Zustand auch nach dem\n",
+        "Kampf anhält, solltest du Eisheiler\f",
+        "verwenden, um dem Pokémon zu helfen.\r"
+      ]
+    },
+    {
+      "id": "msg_0560_00019",
+      "de_DE": [
+        "Das ist das Notizheft dieses Kindes...\r",
+        "Pokémon fängt man mit Pokébällen.\n",
+        "Man kann bis zu sechs von ihnen\f",
+        "gleichzeitig in einem Team aufstellen.\r",
+        "Weiterlesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00020",
+      "de_DE": [
+        "Bevor man einen Pokéball wirft, sollte\n",
+        "das Ziel geschwächt werden.\f",
+        "Ein vergiftetes oder verbranntes\f",
+        "Pokémon lässt sich leichter fangen!\r",
+        "Weiterlesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00021",
+      "de_DE": [
+        "Es gibt außerdem auch Attacken, die ein\n",
+        "Pokémon verwirren können.\r",
+        "Verwirrte Pokémon fügen sich ab und zu\n",
+        "versehentlich selbst Schaden zu.\r",
+        "Ihr Zustand verbessert sich nach einem\n",
+        "Kampf allerdings wieder...\r",
+        "Weiterlesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0560_00022",
+      "de_DE": [
+        "Leute, die Pokémon fangen und in\n",
+        "Kämpfen einsetzen, nennt man\f",
+        "im Allgemeinen Pokémon-Trainer.\r",
+        "Das Ziel eines jeden Trainers ist es,\n",
+        "alle Arenen zu besuchen und gegen\f",
+        "immer stärkere andere Trainer zu\f",
+        "gewinnen.\r",
+        "Weiterlesen... kannst du nicht mehr,\n",
+        "denn die nächste Seite ist leer!\r"
+      ]
+    },
+    {
+      "id": "msg_0560_00023",
+      "de_DE": [
+        "Junge: Hehehe... mehr habe ich nicht\n",
+        "mitgeschrieben..."
+      ]
+    },
+    {
+      "id": "msg_0560_00024",
+      "de_DE": "Gift"
+    },
+    {
+      "id": "msg_0560_00025",
+      "de_DE": "Paralyse"
+    },
+    {
+      "id": "msg_0560_00026",
+      "de_DE": "Schlaf"
+    },
+    {
+      "id": "msg_0560_00027",
+      "de_DE": "Brand"
+    },
+    {
+      "id": "msg_0560_00028",
+      "de_DE": "Gefroren"
+    },
+    {
+      "id": "msg_0560_00029",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0560_00030",
+      "garbage": 38
+    },
+    {
+      "id": "msg_0560_00031",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0560_00032",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0560_00033",
+      "garbage": 65
+    },
+    {
+      "id": "msg_0560_00034",
+      "garbage": 48
+    },
+    {
+      "id": "msg_0560_00035",
+      "garbage": 102
+    }
+  ]
+}

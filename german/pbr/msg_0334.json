@@ -1,0 +1,170 @@
+{
+  "key": 38468,
+  "messages": [
+    {
+      "id": "msg_0334_00000",
+      "de_DE": [
+        "Der Baum sieht aus, als ob er\n",
+        "zerschnitten werden könnte.\r",
+        "Möchtest du Zerschneider einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00001",
+      "de_DE": [
+        "{STRVAR_1 0, 0} setzt\n",
+        "Zerschneider ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0334_00002",
+      "de_DE": [
+        "Der Baum sieht aus, als ob er\n",
+        "zerschnitten werden könnte!"
+      ]
+    },
+    {
+      "id": "msg_0334_00003",
+      "de_DE": [
+        "Dieser Fels scheint zerbrechlich.\n",
+        "Möchtest du Zertrümmerer einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00004",
+      "de_DE": [
+        "Ein großer Felsen. Ein Pokémon\n",
+        "könnte ihn vielleicht zertrümmern."
+      ]
+    },
+    {
+      "id": "msg_0334_00005",
+      "de_DE": "{STRVAR_1 0, 0} setzt Zertrümmerer ein.\r"
+    },
+    {
+      "id": "msg_0334_00006",
+      "de_DE": [
+        "Ein Pokémon kann diesen Felsen\n",
+        "vielleicht bewegen.\r",
+        "Möchtest du Stärke einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0334_00008",
+      "de_DE": [
+        "Ein Pokémon kann diesen Felsen\n",
+        "vielleicht bewegen."
+      ]
+    },
+    {
+      "id": "msg_0334_00009",
+      "de_DE": [
+        "Stärke ermöglicht es,\n",
+        "Felsen zu bewegen."
+      ]
+    },
+    {
+      "id": "msg_0334_00010",
+      "de_DE": "{STRVAR_1 0, 0} setzt Stärke ein.\r"
+    },
+    {
+      "id": "msg_0334_00011",
+      "de_DE": [
+        "Stärke von {STRVAR_1 0, 0} ermöglicht es,\n",
+        "Felsen zu bewegen."
+      ]
+    },
+    {
+      "id": "msg_0334_00012",
+      "de_DE": [
+        "Das Wasser ist tiefblau.\n",
+        "Möchtest du Surfer einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00013",
+      "de_DE": "{STRVAR_1 0, 0} setzt Surfer ein.\r"
+    },
+    {
+      "id": "msg_0334_00014",
+      "de_DE": [
+        "Surfer kann nicht eingesetzt werden,\n",
+        "wenn dich jemand begleitet."
+      ]
+    },
+    {
+      "id": "msg_0334_00015",
+      "de_DE": [
+        "Ein dicker Nebel umhüllt die Gegend...\n",
+        "Möchtest du Auflockern einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00016",
+      "de_DE": "{STRVAR_1 0, 0} setzt Auflockern ein!\r"
+    },
+    {
+      "id": "msg_0334_00017",
+      "de_DE": [
+        "Ein dicker Nebel umhüllt die Gegend...\r",
+        "Kann ein Pokémon ihn mit einer\n",
+        "Attacke auflockern?"
+      ]
+    },
+    {
+      "id": "msg_0334_00018",
+      "de_DE": [
+        "Die Wand ist sehr felsig...\n",
+        "Möchtest du Kraxler einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00019",
+      "de_DE": "{STRVAR_1 0, 0} setzt Kraxler ein!\r"
+    },
+    {
+      "id": "msg_0334_00020",
+      "de_DE": [
+        "Die Wand ist sehr steinig...\n",
+        "Kann ein Pokémon sie bezwingen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00021",
+      "de_DE": [
+        "Kraxler kann nicht eingesetzt werden,\n",
+        "wenn dich jemand begleitet."
+      ]
+    },
+    {
+      "id": "msg_0334_00022",
+      "de_DE": [
+        "Ein riesiger Wasserfall.\n",
+        "Möchtest du Kaskade einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0334_00023",
+      "de_DE": "{STRVAR_1 0, 0} setzt Kaskade ein.\r"
+    },
+    {
+      "id": "msg_0334_00024",
+      "de_DE": [
+        "Das Wasser fällt steil wie eine\n",
+        "Wand, brüllend in die Tiefe."
+      ]
+    },
+    {
+      "id": "msg_0334_00025",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0334_00026",
+      "de_DE": "{STRVAR_1 0, 0} setzt Blitz ein.\r"
+    }
+  ]
+}

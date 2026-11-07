@@ -1,0 +1,200 @@
+{
+  "key": 10527,
+  "messages": [
+    {
+      "id": "msg_0350_00000",
+      "de_DE": "Das ist weicher Lehmboden.\r"
+    },
+    {
+      "id": "msg_0350_00001",
+      "de_DE": "Hier wurde {STRVAR_1 8, 0} verteilt.\r"
+    },
+    {
+      "id": "msg_0350_00002",
+      "de_DE": "DÜNGEN"
+    },
+    {
+      "id": "msg_0350_00003",
+      "de_DE": "BEERE PFLANZEN"
+    },
+    {
+      "id": "msg_0350_00004",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0350_00005",
+      "de_DE": "Etwas Dünger aufbringen?"
+    },
+    {
+      "id": "msg_0350_00006",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0350_00007",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0350_00008",
+      "de_DE": "Möchtest du eine Beere pflanzen?"
+    },
+    {
+      "id": "msg_0350_00009",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0350_00010",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0350_00011",
+      "de_DE": [
+        "{STRVAR_1 8, 0} wurde auf dem\n",
+        "Lehmboden verteilt.\r"
+      ]
+    },
+    {
+      "id": "msg_0350_00012",
+      "de_DE": [
+        "{STRVAR_1 8, 0} wurde in den weichen,\n",
+        "fruchtbaren Boden gepflanzt."
+      ]
+    },
+    {
+      "id": "msg_0350_00013",
+      "de_DE": [
+        "{STRVAR_1 8, 0} wurde\n",
+        "hier gepflanzt.\r"
+      ]
+    },
+    {
+      "id": "msg_0350_00014",
+      "de_DE": "{STRVAR_1 8, 0} blüht auf.\r"
+    },
+    {
+      "id": "msg_0350_00015",
+      "de_DE": "Die {STRVAR_1 8, 0} wächst.\r"
+    },
+    {
+      "id": "msg_0350_00016",
+      "de_DE": [
+        "Diese {STRVAR_1 8, 0} steht in\n",
+        "voller Blüte!\r"
+      ]
+    },
+    {
+      "id": "msg_0350_00017",
+      "de_DE": "Möchtest du die Pflanze gießen?"
+    },
+    {
+      "id": "msg_0350_00018",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0350_00019",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0350_00020",
+      "de_DE": "Die Pflanze scheint sich zu freuen."
+    },
+    {
+      "id": "msg_0350_00021",
+      "de_DE": [
+        "{STRVAR_1 51, 1} {STRVAR_1 8, 0}!\n",
+        "Pflücken?"
+      ]
+    },
+    {
+      "id": "msg_0350_00022",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0350_00023",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0350_00024",
+      "de_DE": [
+        "{STRVAR_1 3, 0} pflückt keine\n",
+        "{STRVAR_1 8, 1}."
+      ]
+    },
+    {
+      "id": "msg_0350_00025",
+      "de_DE": [
+        "Du hast {STRVAR_1 51, 1} {STRVAR_1 8, 0}\n",
+        "gepflückt.\r"
+      ]
+    },
+    {
+      "id": "msg_0350_00026",
+      "de_DE": [
+        "Dein Beutel ist voll. Du kannst\n",
+        "die {STRVAR_1 8, 0} nicht pflücken."
+      ]
+    },
+    {
+      "id": "msg_0350_00027",
+      "de_DE": [
+        "{STRVAR_1 3, 0} steckt d. {STRVAR_1 8, 1}\n",
+        "in die {STRVAR_1 18, 3}-Tasche.\r",
+        "Der Boden wird wieder weich."
+      ]
+    },
+    {
+      "id": "msg_0350_00028",
+      "de_DE": "Das ist weicher Lehmboden."
+    },
+    {
+      "id": "msg_0350_00029",
+      "de_DE": "Hier wurde {STRVAR_1 8, 0} verteilt."
+    },
+    {
+      "id": "msg_0350_00030",
+      "de_DE": [
+        "{STRVAR_1 8, 0} wurde auf dem\n",
+        "Lehmboden verteilt."
+      ]
+    },
+    {
+      "id": "msg_0350_00031",
+      "de_DE": [
+        "{STRVAR_1 8, 0} wurde\n",
+        "hier gepflanzt."
+      ]
+    },
+    {
+      "id": "msg_0350_00032",
+      "de_DE": "{STRVAR_1 8, 0} blüht auf."
+    },
+    {
+      "id": "msg_0350_00033",
+      "de_DE": "Die {STRVAR_1 8, 0} wächst."
+    },
+    {
+      "id": "msg_0350_00034",
+      "de_DE": [
+        "Diese {STRVAR_1 8, 0} steht in\n",
+        "voller Blüte!"
+      ]
+    },
+    {
+      "id": "msg_0350_00035",
+      "de_DE": [
+        "Das ist eine {STRVAR_1 8, 0}!\n",
+        "Möchtest du sie pflücken?"
+      ]
+    },
+    {
+      "id": "msg_0350_00036",
+      "de_DE": [
+        "{STRVAR_1 3, 0} pflückt die\n",
+        "{STRVAR_1 8, 1} nicht."
+      ]
+    },
+    {
+      "id": "msg_0350_00037",
+      "de_DE": "Du hast die {STRVAR_1 8, 0} gepflückt.\r"
+    }
+  ]
+}

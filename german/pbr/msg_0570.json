@@ -1,0 +1,245 @@
+{
+  "key": 31392,
+  "messages": [
+    {
+      "id": "msg_0570_00000",
+      "de_DE": "{COLOR 255}Prismensphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00001",
+      "de_DE": "{COLOR 255}Prismensphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00002",
+      "de_DE": "{COLOR 4}Weißsphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00003",
+      "de_DE": "{COLOR 1}Purpursphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00004",
+      "de_DE": "{COLOR 2}Indigosphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00005",
+      "de_DE": "{COLOR 3}Jadesphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00006",
+      "de_DE": "{COLOR 255}Prismensphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00007",
+      "de_DE": "{COLOR 4}Weißsphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00008",
+      "de_DE": "{COLOR 1}Purpursphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00009",
+      "de_DE": "{COLOR 2}Indigosphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00010",
+      "de_DE": "{COLOR 3}Jadesphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00011",
+      "de_DE": "{COLOR 255}Ovaler Stein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00012",
+      "de_DE": "{COLOR 255}Spiritkern{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00013",
+      "de_DE": "{COLOR 255}Sonnenstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00014",
+      "de_DE": "{COLOR 255}Sternstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00015",
+      "de_DE": "{COLOR 255}Mondstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00016",
+      "de_DE": "{COLOR 255}Granitstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00017",
+      "de_DE": "{COLOR 255}Donnerstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00018",
+      "de_DE": "{COLOR 255}Ewigstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00019",
+      "de_DE": "{COLOR 255}Feuerstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00020",
+      "de_DE": "{COLOR 255}Wasserstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00021",
+      "de_DE": "{COLOR 255}Blattstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00022",
+      "de_DE": "{COLOR 255}Nugget{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00023",
+      "de_DE": "{COLOR 255}Helixfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00024",
+      "de_DE": "{COLOR 255}Domfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00025",
+      "de_DE": "{COLOR 255}Klauenfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00026",
+      "de_DE": "{COLOR 255}Wurzelfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00027",
+      "de_DE": "{COLOR 255}Altbernstein{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00028",
+      "de_DE": "{COLOR 255}Steinknochen{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00029",
+      "de_DE": "{COLOR 255}Beleber{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00030",
+      "de_DE": "{COLOR 255}Top-Beleber{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00031",
+      "de_DE": "{COLOR 255}Purpurstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00032",
+      "de_DE": "{COLOR 255}Indigostück{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00033",
+      "de_DE": "{COLOR 255}Gelbstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00034",
+      "de_DE": "{COLOR 255}Grünstück{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00035",
+      "de_DE": "{COLOR 255}Herzschuppe{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00036",
+      "de_DE": "{COLOR 255}Panzerfossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00037",
+      "de_DE": "{COLOR 255}Kopffossil{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00038",
+      "de_DE": "{COLOR 255}Lichtlehm{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00039",
+      "de_DE": "{COLOR 255}Eisenkugel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00040",
+      "de_DE": "{COLOR 255}Eisbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00041",
+      "de_DE": "{COLOR 255}Glattbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00042",
+      "de_DE": "{COLOR 255}Heißbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00043",
+      "de_DE": "{COLOR 255}Nassbrocken{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00044",
+      "de_DE": "{COLOR 255}Feuertafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00045",
+      "de_DE": "{COLOR 255}Wassertafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00046",
+      "de_DE": "{COLOR 255}Blitztafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00047",
+      "de_DE": "{COLOR 255}Wiesentafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00048",
+      "de_DE": "{COLOR 255}Frosttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00049",
+      "de_DE": "{COLOR 255}Fausttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00050",
+      "de_DE": "{COLOR 255}Gifttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00051",
+      "de_DE": "{COLOR 255}Erdtafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00052",
+      "de_DE": "{COLOR 255}Wolkentafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00053",
+      "de_DE": "{COLOR 255}Hirntafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00054",
+      "de_DE": "{COLOR 255}Käfertafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00055",
+      "de_DE": "{COLOR 255}Steintafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00056",
+      "de_DE": "{COLOR 255}Spuktafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00057",
+      "de_DE": "{COLOR 255}Dracotafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00058",
+      "de_DE": "{COLOR 255}Furchttafel{COLOR 0}"
+    },
+    {
+      "id": "msg_0570_00059",
+      "de_DE": "{COLOR 255}Eisentafel{COLOR 0}"
+    }
+  ]
+}

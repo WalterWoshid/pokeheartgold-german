@@ -1,0 +1,45 @@
+{
+  "key": 15060,
+  "messages": [
+    {
+      "id": "msg_0004_00000",
+      "de_DE": "SPIELER: {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0004_00001",
+      "de_DE": [
+        "Diese Urkunde bescheinigt\n",
+        "dir, dass du es geschafft hast,\n",
+        "alle Pokémon in Johto\n",
+        "zu treffen."
+      ]
+    },
+    {
+      "id": "msg_0004_00002",
+      "de_DE": [
+        "Dieses Dokument bescheinigt\n",
+        "die erfolgreiche Vervoll-\n",
+        "ständigung des Nationalen\n",
+        "Pokédex."
+      ]
+    },
+    {
+      "id": "msg_0004_00003",
+      "de_DE": "GAME FREAK"
+    },
+    {
+      "id": "msg_0004_00004",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 3, 0, 0} und {STRVAR_1 1, 1, 0}"
+    },
+    {
+      "id": "msg_0004_00005",
+      "de_DE": [
+        "{ALN_CENTER}Durch Streifzüge und zahllose\n",
+        "{ALN_CENTER}Kämpfe wurdet ihr eng zusammen-\n",
+        "{ALN_CENTER}geschweißt. Diese Urkunde\n",
+        "{ALN_CENTER}bescheinigt euch immerwährende,\n",
+        "{ALN_CENTER}unverwüstliche Freundschaft."
+      ]
+    }
+  ]
+}

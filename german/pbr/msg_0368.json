@@ -1,0 +1,619 @@
+{
+  "key": 33015,
+  "messages": [
+    {
+      "id": "msg_0368_00000",
+      "de_DE": [
+        "Reporter: Hallo! Zeit für den\n",
+        "“Gruppenscout”.\r",
+        "In der heutigen Folge wollen wir uns\n",
+        "einmal mit {STRVAR_1 3, 0} beschäftigen.\r",
+        "Dieser Trainer ist Teil der Gruppe\n",
+        "{STRVAR_1 61, 1}.\r",
+        "Oh, dort drüben! Das muss {STRVAR_1 3, 0}\n",
+        "sein.\r",
+        "Ganz augenscheinlich genießt der\n",
+        "Trainer es, Teil der Gruppe zu sein.\r",
+        "Als ob {STRVAR_1 3, 0} ein zweites Zuhause\n",
+        "gefunden hätte!\r",
+        "Wenn ich diese Gruppe rein subjektiv\n",
+        "beschreiben sollte, würde ich sagen,\r",
+        "dass es sich um Fans von\n",
+        "{STRVAR_1 15, 2}-Pokémon handelt.\r",
+        "Seid auch beim nächsten Mal wieder\n",
+        "dabei!"
+      ]
+    },
+    {
+      "id": "msg_0368_00001",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "{STRVAR_1 4, 0} wird mit Sonne und\n",
+        "einem wolkenlosen Himmel verwöhnt!\r",
+        "Ich werde die Gelegenheit nutzen, um\n",
+        "endlich meine Wäsche zu waschen!\r",
+        "Bei diesem Wetter kann sie dann\n",
+        "problemlos in der Sonne trocknen!\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00002",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Kein Wölkchen am Himmel über\n",
+        "{STRVAR_1 4, 0}!\r",
+        "Der perfekte Tag, um mit dem Fahrrad\n",
+        "eine kleine Tour zu unternehmen.\r",
+        "Selbst wenn ihr in den Bach fallt, wird\n",
+        "euch die Sonne schnell wieder trocknen!\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00003",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Blauer Himmel über {STRVAR_1 4, 0}!\n",
+        "Die Wolken sind im Urlaub!\r",
+        "Es wäre eine Schande, sich an einem Tag\n",
+        "wie diesem drinnen zu verbarrikadieren.\r",
+        "Wieso nicht ein entspannendes\n",
+        "Sonnenbad nehmen?\r",
+        "Wieso nicht einen Spaziergang mit einem\n",
+        "Liedchen auf den Lippen machen?\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00004",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Nicht eine Wolke über\n",
+        "{STRVAR_1 4, 0} zu erkennen!\r",
+        "Der ideale Tag, um sich\n",
+        "fotografieren zu lassen.\r",
+        "Jeder sieht an einem\n",
+        "Sonnentag besser aus!\r",
+        "Und das war das Wetter mit Helena!\n"
+      ]
+    },
+    {
+      "id": "msg_0368_00005",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "{STRVAR_1 4, 0} liegt unter dunklen\n",
+        "Wolken.\r",
+        "Aber lasst euch nicht deprimieren!\r",
+        "Die Sonne wird schon wieder zum\n",
+        "Vorschein kommen!\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00006",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Über {STRVAR_1 4, 0} zieht eine\n",
+        "Regenfront und es gießt in Strömen.\r",
+        "An einem Tag wie diesem sollte man es\n",
+        "sich lieber zu Hause gemütlich machen.\r",
+        "Gute Musik in den CD-Player und mit\n",
+        "einem leckeren Tee ab auf die Couch.\r",
+        "So lässt sich auch ein eher\n",
+        "unfreundlicher Tag genießen.\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00007",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Der Niederschlag über\n",
+        "{STRVAR_1 4, 0} lässt nicht nach!\r",
+        "Vielleicht sollten wir dem Regen trotzen\n",
+        "und raus ins Leben gehen!\r",
+        "Lasst den Schirm zu Hause und tanzt\n",
+        "durch die Straßen!\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00008",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Es ist kalt und Schnee fällt\n",
+        "über {STRVAR_1 4, 0}!\r",
+        "Ich würde euch ja gerne mit meinem\n",
+        "Charme verzaubern...\r",
+        "Aber dazu ist es einfach zu kalt!\r",
+        "Ich werde jetzt nach Hause gehen und\n",
+        "mich an mein PIEPI kuscheln.\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00009",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Ein Schneesturm fegt ungebremst über\n",
+        "{STRVAR_1 4, 0}!\r",
+        "Einige von euch trotzen dem Wetter\n",
+        "vielleicht in der Hoffnung, seltene\f",
+        "Pokémon zu finden.\r",
+        "Sollte dem so sein, zieht euch bitte\n",
+        "warm an und schlaft nicht ein!\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00010",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "W-wie i-ihr s-s-sehen k-könnt...\r",
+        "Hat {STRVAR_1 4, 0} weiterhin mit\n",
+        "einem Schneesturm zu kämpfen!\r",
+        "Von meinen Haaren hängen kleine\n",
+        "Eiszapfen herab!\r",
+        "Zum Glück habe ich erst neulich\n",
+        "Geld in einen warmen Mantel gesteckt!\r",
+        "Aber selbst bei diesen brutalen\n",
+        "Bedingungen sind noch Trainer\f",
+        "unterwegs!\r",
+        "Es ist zwar unverantwortlich, aber ich\n",
+        "habe auch Respekt vor diesen Trainern.\r",
+        "...Darf ich jetzt bitte wieder zurück\n",
+        "ins Warme?\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00011",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wett...\r",
+        "Aaaaah!\n",
+        "Donner!\r",
+        "{STRVAR_1 4, 0} liegt unter einem\n",
+        "Gewittersturm!\r",
+        "Es ist...\n",
+        "Aaaaaaah!\r",
+        "Lass uns das hier beenden! Die Kamera\n",
+        "könnte zu einem Blitzableiter werden!\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00012",
+      "de_DE": [
+        "Helena: Hier ist wieder Helena mit dem\n",
+        "Wetter!\r",
+        "Heute können die Einwohner von\n",
+        "{STRVAR_1 4, 0} ein seltenes\f",
+        "Schauspiel bewundern.\r",
+        "Diamantstaub regnet vom Himmel\n",
+        "auf uns herab!\r",
+        "Diese glitzernden Eiskristalle sind\n",
+        "einfach wunderschön!\r",
+        "Paare sollten diese Gelegenheit für\n",
+        "einen romantischen Spaziergang nutzen.\r",
+        "Jedes Mädchen ist an einem Tag wie\n",
+        "diesem eine Prinzessin!\r",
+        "Und wer seiner Liebsten gerne einen\n",
+        "Antrag machen möchte...\f",
+        "Das ist DIE Chance!\r",
+        "Und das war das Wetter mit Helena!"
+      ]
+    },
+    {
+      "id": "msg_0368_00013",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00015",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00016",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00017",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00018",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00019",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00020",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00021",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00022",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00023",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00024",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00025",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00026",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00027",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00028",
+      "de_DE": [
+        "Nachrichtensprecher: Wir unterbrechen\n",
+        "unser Programm für eine Eilmeldung.\r",
+        "Wir bekommen gerade Berichte rein, nach\n",
+        "denen Horden von {STRVAR_1 0, 1} in der\r",
+        "Nähe von {STRVAR_1 4, 0} gesehen\n",
+        "wurden.\r",
+        "Sollte jemand den Drang verspüren, sich\n",
+        "von {STRVAR_1 0, 1} umzingeln zu lassen...\r",
+        "Oder ein Team voller {STRVAR_1 0, 1}\n",
+        "aufbauen zu wollen...\r",
+        "Oder mit diesen Pokémon im Kreis\n",
+        "zu tanzen...\r",
+        "Wenn du ein solcher Trainer bist, der\n",
+        "{STRVAR_1 0, 1} mag...\r",
+        "Dann ist {STRVAR_1 4, 0} der\n",
+        "richtige Ort für dich!\r",
+        "Und damit beenden wir diese Eilmeldung."
+      ]
+    },
+    {
+      "id": "msg_0368_00029",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00030",
+      "de_DE": [
+        "Ass-Trainer: Hallo, wie geht es euch,\n",
+        "Pokémon-Fans?\r",
+        "Schön, dass ihr wieder bei der\n",
+        "“Attacken-Show” dabei seid!\r",
+        "Sagt mal, Fans, ihr habt doch alle schon\n",
+        "einmal Attacken des Typs {STRVAR_1 15, 0}\f",
+        "verwendet, oder?\r",
+        "Sie sind sehr effektiv gegen\n",
+        "{STRVAR_1 15, 1}-Pokémon!\r",
+        "Der Effekt kommt dem gleich, was Leute\n",
+        "empfinden, wenn sie mich erblicken!\r",
+        "Und damit sind wir auch schon wieder\n",
+        "am Ende! Vergesst nicht, mir Fanpost\f",
+        "zu schicken!\r",
+        "Gebt sie eurem Vogel-Pokémon und\n",
+        "dann ab mit ihm in die Lüfte!\r",
+        "Vielleicht treffen wir uns ja mal\n",
+        "irgendwo da draußen! Möglich ist alles!\r",
+        "Bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00031",
+      "de_DE": [
+        "Ass-Trainer: Hallo, wie geht es euch,\n",
+        "Pokémon-Fans?\r",
+        "Schön, dass ihr wieder bei der\n",
+        "“Attacken-Show” dabei seid!\r",
+        "Sagt mal, Fans, ihr habt doch alle schon\n",
+        "einmal Attacken des Typs {STRVAR_1 15, 0}\f",
+        "verwendet, oder?\r",
+        "Ihre Effektivität gegenüber {STRVAR_1 15, 1}-\n",
+        "Pokémon ist ganz okay!\r",
+        "Der Effekt ist so durchschnittlich wie\n",
+        "andere Trainer im Vergleich zu mir!\r",
+        "Und damit sind wir auch schon wieder\n",
+        "am Ende! Vergesst nicht, mir Fanpost\f",
+        "zu schicken!\r",
+        "Gebt sie eurem Vogel-Pokémon und\n",
+        "dann ab mit ihm in die Lüfte!\r",
+        "Vielleicht treffen wir uns ja mal\n",
+        "irgendwo da draußen! Möglich ist alles!\r",
+        "Bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00032",
+      "de_DE": [
+        "Ass-Trainer: Hallo, wie geht es euch,\n",
+        "Pokémon-Fans?\r",
+        "Schön, dass ihr wieder bei der\n",
+        "“Attacken-Show” dabei seid!\r",
+        "Sagt mal, Fans, ihr habt doch alle schon\n",
+        "einmal Attacken des Typs {STRVAR_1 15, 0}\f",
+        "verwendet, oder?\r",
+        "Sie sind nicht gerade sehr effektiv\n",
+        "gegen {STRVAR_1 15, 1}-Pokémon!\r",
+        "Der Effekt ist genauso schwach wie all\n",
+        "die Trainer, die versuchen, meine\f",
+        "Größe zu erreichen!\r",
+        "Und damit sind wir auch schon wieder\n",
+        "am Ende! Vergesst nicht, mir Fanpost\f",
+        "zu schicken!\r",
+        "Gebt sie eurem Vogel-Pokémon und\n",
+        "dann ab mit ihm in die Lüfte!\r",
+        "Vielleicht treffen wir uns ja mal\n",
+        "irgendwo da draußen! Möglich ist alles!\r",
+        "Bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00033",
+      "de_DE": [
+        "Ass-Trainer: Hallo, wie geht es euch,\n",
+        "Pokémon-Fans?\r",
+        "Schön, dass ihr wieder bei der\n",
+        "“Attacken-Show” dabei seid!\r",
+        "Sagt mal, Fans, ihr habt doch alle schon\n",
+        "einmal Attacken des Typs {STRVAR_1 15, 0}\f",
+        "verwendet, oder?\r",
+        "Sie sind absolut nicht effektiv gegen\n",
+        "{STRVAR_1 15, 1}-Pokémon!\r",
+        "Der Effekt ist genauso jämmerlich, wie\n",
+        "all diese Trainer, die mir vor lauter\f",
+        "Neid schaden wollen!\r",
+        "Und damit sind wir auch schon wieder\n",
+        "am Ende! Vergesst nicht, mir Fanpost\f",
+        "zu schicken!\r",
+        "Gebt sie eurem Vogel-Pokémon und\n",
+        "dann ab mit ihm in die Lüfte!\r",
+        "Vielleicht treffen wir uns ja mal\n",
+        "irgendwo da draußen! Möglich ist alles!\r",
+        "Bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00034",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00035",
+      "de_DE": [
+        "Beerenprof.: Sagt mal, wie sehen \n",
+        "eure Beeren aus? Wie geht es ihnen?\r",
+        "Und wie geht es euch, Beerenfans?\n",
+        "Alles okay?\r",
+        "Aber genug davon. Lasst uns mit\n",
+        "dem “Beeren-Magazin” beginnen!\r",
+        "Ich brach nach {STRVAR_1 4, 0} auf,\n",
+        "in der Hoffnung, dort Beeren anhand\f",
+        "ihres Geruchs zu finden!\r",
+        "Und ich fand sie!\r",
+        "Die Reise war nicht umsonst!\r",
+        "Mein Herz raste!\n",
+        "Ich war wie im Fieberwahn!\r",
+        "Aber wisst ihr was? Ich habe sie dort\n",
+        "gelassen. Als Geschenke für euch!\r",
+        "Seht nach euren Beeren und behandelt\n",
+        "sie gut! Vielen Dank und bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00036",
+      "de_DE": [
+        "Beerenprof.: Sagt mal, was machen\n",
+        "eigentlich eure Beeren?\r",
+        "Und was macht ihr so, Beerenfans?\n",
+        "Alles okay bei euch?\r",
+        "Aber genug davon. Lasst uns mit\n",
+        "dem “Beeren-Magazin” beginnen!\r",
+        "Ich brach nach {STRVAR_1 4, 0} auf,\n",
+        "in der Hoffnung, dort Beeren anhand\f",
+        "ihres Geruchs zu finden!\r",
+        "Aber dann das!\n",
+        "Keine Beeren weit und breit...\r",
+        "Aber die Hoffnung stirbt zuletzt!\n",
+        "Die Blumen standen in voller Blüte!\r",
+        "Das Aroma kitzelte mir die\n",
+        "Geruchsnerven in der Nase!\r",
+        "Und auch in meinem Herzen blühte es!\r",
+        "So wurde ich ermutigt! Die Beeren\n",
+        "werden kommen! Ja, sie werden kommen!\r",
+        "Seht nach euren Beeren und behandelt\n",
+        "sie gut! Vielen Dank und bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00037",
+      "de_DE": [
+        "Beerenprof.: Sagt mal, wie geht es\n",
+        "eigentlich euren Beeren?\r",
+        "Und wie geht es euch, Beerenfans?\n",
+        "Alles okay?\r",
+        "Aber genug davon. Lasst uns mit\n",
+        "dem “Beeren-Magazin” beginnen!\r",
+        "Ich brach nach {STRVAR_1 4, 0} auf,\n",
+        "in der Hoffnung, dort Beeren anhand\f",
+        "ihres Geruchs zu finden!\r",
+        "Aber dann das!\n",
+        "Keine Beeren weit und breit...\r",
+        "Aber noch ist nichts verloren!\r",
+        "Die Pflanzen wachsen und gedeihen und\n",
+        "mit ihnen auch meine Hoffnung!\r",
+        "Ich freue mich schon darauf, ihre\n",
+        "Blumen in voller Blüte zu sehen!\r",
+        "Seht nach euren Beeren und behandelt\n",
+        "sie gut! Vielen Dank und bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00038",
+      "de_DE": [
+        "Beerenprof.: Sagt mal, wie geht es\n",
+        "eigentlich euren Beeren?\r",
+        "Und wie geht es euch, Beerenfans?\n",
+        "Alles okay?\r",
+        "Aber genug davon. Lasst uns mit\n",
+        "dem “Beeren-Magazin” beginnen!\r",
+        "Ich brach nach {STRVAR_1 4, 0} auf,\n",
+        "in der Hoffnung, dort Beeren anhand\f",
+        "ihres Geruchs zu finden!\r",
+        "Aber dann das!\n",
+        "Keine Beeren weit und breit...\r",
+        "Aber noch ist nichts verloren!\r",
+        "Die Triebe der Pflanzen schießen in die\n",
+        "Höhe! Ein Fest des Lebens!\r",
+        "All ihr Zuschauer! Zertrampelt\n",
+        "sie nicht unter euren Füßen!\r",
+        "Seht nach euren Beeren und behandelt\n",
+        "sie gut! Vielen Dank und bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00039",
+      "de_DE": [
+        "Beerenprof.: Sagt mal, wie geht es\n",
+        "eigentlich euren Beeren?\r",
+        "Und wie geht es euch, Beerenfans?\n",
+        "Alles okay?\r",
+        "Aber genug davon. Lasst uns mit\n",
+        "dem “Beeren-Magazin” beginnen!\r",
+        "Ich brach nach {STRVAR_1 4, 0} auf,\n",
+        "in der Hoffnung, dort Beeren anhand\f",
+        "ihres Geruchs zu finden!\r",
+        "Aber dann das!\n",
+        "Keine Beeren weit und breit...\r",
+        "Meine Zeit verschwendet!\n",
+        "Die Reise umsonst!\r",
+        "Meine Vorfreude verkümmert und\n",
+        "verblüht...\r",
+        "Aber da draußen ist jemand glücklich!\n",
+        "Denn er oder sie hat sie gefunden!\r",
+        "Pflanzt eure Beeren noch heute!\n",
+        "Vielen Dank und bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0368_00040",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00041",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00042",
+      "de_DE": [
+        "Forscher: Willkommen bei “Pokémon in\n",
+        "freier Wildbahn”!\r",
+        "Heute werden wir ein wildes Pokémon in\n",
+        "seinem natürlichen Umfeld beobachten.\r",
+        "Und da ist auch schon eins! Ein wildes\n",
+        "{STRVAR_1 0, 0}! Da hatten wir Glück...\r",
+        "Es trägt etwas bei sich! Sehen wir uns\n",
+        "das einmal näher an!\r",
+        "Na, du! Darf ich mal...\r",
+        "Autsch! Es hat mich am Finger\n",
+        "gekratzt!\r",
+        "Allerdings wissen wir jetzt, dass wilde\n",
+        "{STRVAR_1 0, 0} das Item {STRVAR_1 8, 1}\f",
+        "bei sich tragen können.\r",
+        "Vielen Dank, {STRVAR_1 0, 0}. Hier hast du\n",
+        "dein Item {STRVAR_1 8, 1} zurück...\r",
+        "Aua! Auauaua! Ich wurde schon\n",
+        "wieder gekratzt!\r",
+        "Wie üblich habe ich es geschafft, ein\n",
+        "Pokémon in Rage zu versetzen!\r",
+        "Zeit, mich zu verabschieden!"
+      ]
+    },
+    {
+      "id": "msg_0368_00043",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00044",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00045",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00046",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00047",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00048",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00049",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00050",
+      "de_DE": [
+        "Reporter: Ich berichte direkt vom\n",
+        "ersten Stock des Fernsehsenders\f",
+        "Jubelstadt TV.\r",
+        "Ich möchte mir hier ein vor kurzem\n",
+        "hinzugefügtes Foto mit dem Titel\r",
+        "“{STRVAR_1 28, 1}” ansehen. Es\n",
+        "gehört {STRVAR_1 3, 0}.\r",
+        "Ob es wohl dieses hier ist?\n",
+        "Wollen mal sehen...\r",
+        "Der Titel “{STRVAR_1 28, 1}” passt\n",
+        "zu diesem Foto...\r",
+        "Vielleicht hätte man aber auch einen\n",
+        "noch besseren Namen finden können.\r",
+        "Wenn man einmal davon absieht, ist es\n",
+        "in jedem Fall sehenswert. Ein Besuch\f",
+        "lohnt sich!"
+      ]
+    },
+    {
+      "id": "msg_0368_00051",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00052",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0368_00053",
+      "garbage": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "key": 17434,
+  "messages": [
+    {
+      "id": "msg_0499_00000",
+      "de_DE": [
+        "Manchmal fällt ein Gratisgetränk aus\n",
+        "dem Automaten.\r",
+        "Ich bin auch schon froh, wenn ich\n",
+        "etwas für 200 $ geschenkt bekomme.\r",
+        "Was ich sagen will, ist, dass es nicht\n",
+        "der Wert des Preises ist, auf den es\f",
+        "ankommt, sondern das schöne Gefühl,\f",
+        "wenn man etwas geschenkt bekommt!"
+      ]
+    },
+    {
+      "id": "msg_0499_00001",
+      "de_DE": [
+        "Ach Mann, hier gibt’s ja\n",
+        "gar keine Videospiele!\f",
+        "Ich will Videospiele zocken!"
+      ]
+    },
+    {
+      "id": "msg_0499_00002",
+      "de_DE": [
+        "Zeit für eine Pause und einen Snack!\n",
+        "5S: Dachgeschoss"
+      ]
+    },
+    {
+      "id": "msg_0499_00003",
+      "de_DE": [
+        "Das ist ein Getränkeautomat.\n",
+        "Was möchtest du trinken? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0499_00004",
+      "de_DE": [
+        "Schepper, klong!\r",
+        "{STRVAR_1 8, 0, 0} fällt heraus.\r"
+      ]
+    },
+    {
+      "id": "msg_0499_00005",
+      "de_DE": [
+        "Schepper, klong!\r",
+        "Du hast gewonnen! Eine weitere\n",
+        "Dose {STRVAR_1 8, 0, 0} fällt heraus.\r"
+      ]
+    },
+    {
+      "id": "msg_0499_00006",
+      "de_DE": "Du hast nicht genug Geld dafür!"
+    },
+    {
+      "id": "msg_0499_00007",
+      "de_DE": "...Nein, du hast doch keinen Durst."
+    }
+  ]
+}

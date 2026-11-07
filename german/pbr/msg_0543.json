@@ -1,0 +1,198 @@
+{
+  "key": 17414,
+  "messages": [
+    {
+      "id": "msg_0543_00000",
+      "de_DE": [
+        "...Räusper...\n",
+        "Entschuldige bitte.\r",
+        "Dies ist ein exklusives Resort, das nur\n",
+        "Ausgewählten zugängig ist.\r",
+        "Nennen wir es einen besonderen Ort\n",
+        "für besonders besondere Besondere.\r",
+        "Wenn du eintreten möchtest, sammle\n",
+        "am besten so viele Bänder wie möglich.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00001",
+      "de_DE": [
+        "...Räusper...\n",
+        "Entschuldige bitte.\r",
+        "Dies ist ein exklusives Resort, das nur\n",
+        "Ausgewählten zugängig ist.\r",
+        "Nennen wir es einen besonderen Ort\n",
+        "für besonders besondere Besondere.\r",
+        "Wenn du eintreten möchtest, sammle\n",
+        "am besten so viele Bänder wie möglich.\r",
+        "...Moment! Du meine Güte!\n",
+        "Wie viele Bänder du besitzt!\r",
+        "Ich bitte meine Unhöflichkeit\n",
+        "vielmals zu entschuldigen.\r",
+        "Das war in der Tat sehr\n",
+        "unangebracht von mir!\r",
+        "Wenn wir dich einladen dürften, es\n",
+        "wäre uns eine außerordentliche Ehre...\r",
+        "Oh, nein, nein! Wir machen dich im Nu\n",
+        "zum voll akkreditierten Mitglied!\r",
+        "Ohne gefragt zu werden, wurde\n",
+        "{STRVAR_1 3, 0} Mitglied!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00002",
+      "de_DE": [
+        "Willkommen! Wir haben uns schon\n",
+        "auf dich gefreut, {STRVAR_1 3, 0}.\r",
+        "Ich hoffe, du genießt unsere luxuriöse\n",
+        "Atmosphäre und unseren einmaligen\f",
+        "Service, den du so nur hier findest."
+      ]
+    },
+    {
+      "id": "msg_0543_00003",
+      "de_DE": [
+        "Willkommen.\r",
+        "Kann ich dich vielleicht für erstklassige\n",
+        "Bänder gewinnen? Frisch importiert!\r",
+        "Diese Bänder sind nur\n",
+        "bei uns erhältlich.\r",
+        "{STRVAR_1 3, 0}, möchtest du\n",
+        "vielleicht eins für ein Pokémon?\r",
+        "Derzeit kann ich dir das\n",
+        "Hinreißende Band anbieten.\r",
+        "Für schlappe 10 000 $ kannst du\n",
+        "ein Hinreißendes Band dein Eigen nennen."
+      ]
+    },
+    {
+      "id": "msg_0543_00004",
+      "de_DE": [
+        "Willkommen.\r",
+        "Kann ich dich vielleicht für erstklassige\n",
+        "Bänder gewinnen? Frisch importiert!\r",
+        "Diese Bänder sind nur\n",
+        "bei uns erhältlich.\r",
+        "{STRVAR_1 3, 0}, möchtest du\n",
+        "vielleicht eins für ein Pokémon?\r",
+        "Derzeit kann ich dir das\n",
+        "Königliche Band anbieten.\r",
+        "Für schlappe 100 000 $ kannst du\n",
+        "ein Königliches Band dein Eigen nennen."
+      ]
+    },
+    {
+      "id": "msg_0543_00005",
+      "de_DE": [
+        "Willkommen.\r",
+        "Kann ich dich vielleicht für erstklassige\n",
+        "Bänder gewinnen? Frisch importiert!\r",
+        "Diese Bänder sind nur\n",
+        "bei uns erhältlich.\r",
+        "{STRVAR_1 3, 0}, möchtest du\n",
+        "vielleicht eins für ein Pokémon?\r",
+        "Derzeit kann ich dir das\n",
+        "Hinreißende Königliche Band anbieten.\r",
+        "Für schlappe 999 999 $ gehört das\n",
+        "Hinreißende Königliche Band dir."
+      ]
+    },
+    {
+      "id": "msg_0543_00006",
+      "de_DE": [
+        "Willkommen...\r",
+        "Uiii! Das ist ja ein\n",
+        "Hinreißendes Königliches Band!\r",
+        "{STRVAR_1 3, 0}, dein {STRVAR_1 0, 2} sieht\n",
+        "wahrlich hinreißend und königlich aus!"
+      ]
+    },
+    {
+      "id": "msg_0543_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0} kauft ein\n",
+        "Hinreißendes Band.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0} steckt {STRVAR_1 0, 2}\n",
+        "ein Hinreißendes Band an."
+      ]
+    },
+    {
+      "id": "msg_0543_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0} kauft ein\n",
+        "Königliches Band.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00010",
+      "de_DE": [
+        "{STRVAR_1 3, 0} steckt {STRVAR_1 0, 2}\n",
+        "ein Königliches Band an."
+      ]
+    },
+    {
+      "id": "msg_0543_00011",
+      "de_DE": [
+        "{STRVAR_1 3, 0} kauft ein\n",
+        "Hinreißendes Königliches Band.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00012",
+      "de_DE": [
+        "{STRVAR_1 3, 0} steckt {STRVAR_1 0, 2}\n",
+        "ein Hinreißendes Königliches Band an."
+      ]
+    },
+    {
+      "id": "msg_0543_00013",
+      "de_DE": [
+        "Oh, ich bitte dich, {STRVAR_1 3, 0}.\r",
+        "Kein Geld? Solche Scherze macht\n",
+        "man doch in unseren Kreisen nicht!"
+      ]
+    },
+    {
+      "id": "msg_0543_00014",
+      "de_DE": [
+        "Ich verstehe.\n",
+        "Besuche uns bald wieder."
+      ]
+    },
+    {
+      "id": "msg_0543_00015",
+      "de_DE": [
+        "Allein ein Aufenthalt hier hebt schon\n",
+        "deinen Gesellschaftsstatus, weißt du?"
+      ]
+    },
+    {
+      "id": "msg_0543_00016",
+      "de_DE": [
+        "Ich wünschte, Männer würden mehr\n",
+        "auf ihre Kleidung achten..."
+      ]
+    },
+    {
+      "id": "msg_0543_00017",
+      "de_DE": [
+        "Eine Frau, die es wert ist, neben\n",
+        "einem Pokémon zu schreiten...\r",
+        "Das hoffe ich zu sein."
+      ]
+    },
+    {
+      "id": "msg_0543_00018",
+      "de_DE": "ENECO: Mi! Mi!"
+    },
+    {
+      "id": "msg_0543_00019",
+      "de_DE": "ENTON: Gyaugyau!"
+    }
+  ]
+}

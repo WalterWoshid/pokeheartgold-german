@@ -1,0 +1,127 @@
+{
+  "key": 47325,
+  "messages": [
+    {
+      "id": "msg_0579_00000",
+      "de_DE": [
+        "Du hältst gerade eine Fahne!\n",
+        "Das geht jetzt nicht!\r",
+        "Oder möchtest du die Fahne, die\n",
+        "du gerade hältst, wegwerfen?"
+      ]
+    },
+    {
+      "id": "msg_0579_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0579_00002",
+      "de_DE": "Fahne weggelegt."
+    },
+    {
+      "id": "msg_0579_00003",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0579_00004",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0579_00005",
+      "de_DE": [
+        "Vor dir ist etwas vergraben.\n",
+        "Aber du hältst gerade eine Fahne!"
+      ]
+    },
+    {
+      "id": "msg_0579_00006",
+      "de_DE": [
+        "Du hast jetzt keine Zeit\n",
+        "für ein Schwätzchen!"
+      ]
+    },
+    {
+      "id": "msg_0579_00007",
+      "de_DE": [
+        "Die eroberte Fahne wurde\n",
+        "auf dem PC eingetragen!"
+      ]
+    },
+    {
+      "id": "msg_0579_00008",
+      "de_DE": [
+        "Du hast die Fahne aus der\n",
+        "Basis von {STRVAR_1 1, 0} erobert!"
+      ]
+    },
+    {
+      "id": "msg_0579_00009",
+      "de_DE": "Du hältst bereits eine Fahne!"
+    },
+    {
+      "id": "msg_0579_00010",
+      "de_DE": "{STRVAR_1 1, 0} hat deine Fahne erobert!"
+    },
+    {
+      "id": "msg_0579_00011",
+      "de_DE": [
+        "{STRVAR_1 1, 0} hat die Fahne\n",
+        "zurückerobert!"
+      ]
+    },
+    {
+      "id": "msg_0579_00012",
+      "de_DE": "Fahne von {STRVAR_1 1, 0} erobert!"
+    },
+    {
+      "id": "msg_0579_00013",
+      "de_DE": "Fahne zurückerobert!"
+    },
+    {
+      "id": "msg_0579_00014",
+      "de_DE": [
+        "...\r",
+        "Eine Fahne wurde eingetragen.\n",
+        "Deine Fahne wurde zur Bronze-Fahne!\r",
+        "Damit kannst du bis zu einem Dutzend\n",
+        "Dekoartikel ausstellen.\r",
+        "Außerdem kannst du jetzt einen Großen\n",
+        "Felsen wegräumen."
+      ]
+    },
+    {
+      "id": "msg_0579_00015",
+      "de_DE": [
+        "...\r",
+        "Drei Fahnen wurden eingetragen.\n",
+        "Deine Fahne wurde zur Silber-Fahne!\r",
+        "Damit kannst du bis zu 15\n",
+        "Dekoartikel ausstellen.\r",
+        "Außerdem kannst du jetzt fünf Große\n",
+        "Felsen aus dem Weg räumen."
+      ]
+    },
+    {
+      "id": "msg_0579_00016",
+      "de_DE": [
+        "...\r",
+        "Zehn Fahnen wurden eingetragen.\n",
+        "Deine Fahne wurde zur Gold-Fahne!\r",
+        "Damit kannst du zehn Große Felsen\n",
+        "wegräumen.\r",
+        "Außerdem kannst du das Radar\n",
+        "deines PCs verwenden."
+      ]
+    },
+    {
+      "id": "msg_0579_00017",
+      "de_DE": [
+        "...\r",
+        "Fünfzig Fahnen wurden eingetragen.\n",
+        "Deine Fahne wurde zur Platin-Fahne!\r",
+        "Nun kannst du beliebig viele Große\n",
+        "Felsen wegräumen."
+      ]
+    }
+  ]
+}

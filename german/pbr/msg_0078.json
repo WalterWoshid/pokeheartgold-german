@@ -1,0 +1,272 @@
+{
+  "key": 18311,
+  "messages": [
+    {
+      "id": "msg_0078_00000",
+      "de_DE": [
+        "Oh, ist das ein Pokédex?\n",
+        "Du hilfst bestimmt Prof. Eibe.\r",
+        "Wie heißt du denn?\r",
+        "...\r",
+        "Schön. Hallo, {STRVAR_1 3, 0}.\n",
+        "Den Namen werde ich mir merken!\r",
+        "Mein Name ist Cynthia.\n",
+        "Ich bin auch ein Trainer, genau wie du.\r",
+        "Und ich studiere die Mythologie der\n",
+        "Pokémon - aus reiner Neugier.\r"
+      ]
+    },
+    {
+      "id": "msg_0078_00001",
+      "de_DE": [
+        "Hier in Ewigenau steht die Statue eines\n",
+        "altertümlichen Pokémon.\r",
+        "Die Legende besagt, dass es ein extrem\n",
+        "mächtiges Pokémon gewesen sei.\r",
+        "Wer weiß? Vielleicht begegnest du auf\n",
+        "deinen Reisen ja einem ähnlichen\f",
+        "Pokémon...\r",
+        "Nimm das hier mit.\n",
+        "Es wird dir sicher nützlich sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0078_00002",
+      "de_DE": [
+        "Cynthia: Die VM Zerschneider kann auf\n",
+        "der Reise verwendet werden.\r",
+        "So kommst du zu Gebieten, die du vorher\n",
+        "nicht erreichen konntest.\r",
+        "Das ist wichtig, um deinen Pokédex\n",
+        "auffüllen zu können, weißt du?\r",
+        "Viel Glück auf deiner Reise, Trainer!\r"
+      ]
+    },
+    {
+      "id": "msg_0078_00003",
+      "de_DE": [
+        "Hey! Kindchen! Weg da von der\n",
+        "Pokémon-Statue!\r",
+        "Team Galaktik führt hier eine\n",
+        "offizielle Untersuchung durch!"
+      ]
+    },
+    {
+      "id": "msg_0078_00004",
+      "de_DE": [
+        "Hey, du da! Ja, du Trainer, du!\r",
+        "Ähm...\n",
+        "Schon gut. Du siehst zäh aus.\r",
+        "Ich werde dir deine... Du kannst\n",
+        "deine Pokémon behalten. "
+      ]
+    },
+    {
+      "id": "msg_0078_00005",
+      "de_DE": [
+        "Hast du unser Gebäude schon gesehen?\r",
+        "Wir, Team Galaktik, sind so stink-\n",
+        "reich, dass wir zehn Stück davon bauen\f",
+        "könnten!"
+      ]
+    },
+    {
+      "id": "msg_0078_00006",
+      "de_DE": [
+        "Seit Team Galaktik dieses Gebäude\n",
+        "gebaut hat, ist die Atmosphäre hier\f",
+        "ganz gruselig und angespannt geworden.\r",
+        "Was machen die hier überhaupt..."
+      ]
+    },
+    {
+      "id": "msg_0078_00007",
+      "de_DE": [
+        "Jetzt, wo Team Galaktik weg ist...\n",
+        "Was wird aus ihrem Gebäude?"
+      ]
+    },
+    {
+      "id": "msg_0078_00008",
+      "de_DE": [
+        "Mein Freund sagt, Team Galaktik\n",
+        "hätte ihm sein Lieblingspokémon\f",
+        "gestohlen.\r",
+        "Ich glaube, er lügt. Die Mitglieder vom\n",
+        "Team Galaktik sehen so cool aus.\f",
+        "Die würden so etwas nie tun."
+      ]
+    },
+    {
+      "id": "msg_0078_00009",
+      "de_DE": [
+        "Nutzt du Fahrradständer?\r",
+        "Es ist cool, wenn du erst abspringst\n",
+        "und dich dann dagegenlehnst!"
+      ]
+    },
+    {
+      "id": "msg_0078_00010",
+      "de_DE": [
+        "Wenn du Ewigenau besuchst, musst du dir\n",
+        "ein Fahrrad besorgen und den Radweg\f",
+        "entlangfahren."
+      ]
+    },
+    {
+      "id": "msg_0078_00011",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0078_00012",
+      "de_DE": [
+        "Man sagt, das sei eine uralte Stadt.\r",
+        "Aber man sieht es ihr nicht an.\n",
+        "Schau nur. All diese hohen Gebäude."
+      ]
+    },
+    {
+      "id": "msg_0078_00013",
+      "de_DE": [
+        "Ewigenau ist auch nicht mehr,\n",
+        "was es früher mal war..."
+      ]
+    },
+    {
+      "id": "msg_0078_00014",
+      "de_DE": [
+        "Angeblich ist das ein Pokémon, das hier\n",
+        "vor langer, langer Zeit gelebt hat."
+      ]
+    },
+    {
+      "id": "msg_0078_00015",
+      "de_DE": [
+        "Oh, hast du etwa keinen Forschersack\n",
+        "dabei?\r",
+        "Dann solltest du mal mit dem Mann\n",
+        "im Haus neben dem Pokémon-Center\f",
+        "sprechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0078_00016",
+      "de_DE": [
+        "Oh, hast du etwa keinen Forschersack\n",
+        "dabei?\r",
+        "Dann solltest du mal mit dem Mann\n",
+        "im Haus neben dem Pokémon-Center\f",
+        "sprechen."
+      ]
+    },
+    {
+      "id": "msg_0078_00017",
+      "de_DE": [
+        "Mit dem Forschersack ist es aufregend,\n",
+        "den Untergrund zu erforschen."
+      ]
+    },
+    {
+      "id": "msg_0078_00018",
+      "de_DE": [
+        "Oh, wow!\n",
+        "Du hast ja ein Fahrrad!\r",
+        "Du kannst damit auf dem Radweg direkt\n",
+        "nach Herzhofen fahren.\r",
+        "Das ist schnell und macht großen Spaß.\n",
+        "Probier es mal aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0078_00019",
+      "de_DE": [
+        "Oh, wow!\n",
+        "Du hast ja ein Fahrrad!\r",
+        "Du kannst damit auf dem Radweg direkt\n",
+        "nach Herzhofen fahren.\r",
+        "Das ist schnell und macht großen Spaß.\n",
+        "Probier es mal aus!"
+      ]
+    },
+    {
+      "id": "msg_0078_00020",
+      "de_DE": [
+        "Es ist so schön, während der Fahrt den\n",
+        "Wind im Gesicht zu spüren, nicht wahr?"
+      ]
+    },
+    {
+      "id": "msg_0078_00021",
+      "de_DE": [
+        "Ewigenau\n",
+        "Lebendige Vergangenheit"
+      ]
+    },
+    {
+      "id": "msg_0078_00022",
+      "de_DE": [
+        "Pokémon Arena Ewigenau\n",
+        "Leiterin: Silvana\f",
+        "Meisterin der Pflanzen-Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0078_00023",
+      "de_DE": [
+        "Radl Rainers Radladen\n",
+        "Schnell und zuverlässig!"
+      ]
+    },
+    {
+      "id": "msg_0078_00024",
+      "de_DE": [
+        "Team Galaktik-Gebäude Ewigenau\n",
+        "Wir wollen deine Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0078_00025",
+      "de_DE": [
+        "Haus des Untergrund-Mannes\n",
+        "Tiefgründige Abenteuer!"
+      ]
+    },
+    {
+      "id": "msg_0078_00026",
+      "de_DE": [
+        "Wohnanlage Ewigenau\n",
+        "Namensbewertung möglich"
+      ]
+    },
+    {
+      "id": "msg_0078_00027",
+      "de_DE": [
+        "Auf der Pokémon-Statue ist eine\n",
+        "Inschrift...\r",
+        "...Schöpfung von DIA...\n",
+        "...Meister der Zeit...\r",
+        "Im Lachen steckt Weinen...\n",
+        "Und umgekehrt...\r",
+        "Die gleiche Zeit fließt...\n",
+        "...Der Segen von DIA...\r",
+        "Der Text ist kaum lesbar und ist an\n",
+        "manchen Stellen ganz verschwunden..."
+      ]
+    },
+    {
+      "id": "msg_0078_00028",
+      "de_DE": [
+        "Auf der Pokémon-Statue ist eine\n",
+        "Inschrift...\r",
+        "...Geburt von PAL...\n",
+        "...Schöpfer der Paralleldimensionen...\r",
+        "Lebendig und doch nicht...\n",
+        "...Risse im Raum...\r",
+        "Um im gleichen Universum zu...\n",
+        "...Der Segen von PAL...\r",
+        "Der Text ist kaum lesbar und ist an\n",
+        "manchen Stellen ganz verschwunden..."
+      ]
+    }
+  ]
+}

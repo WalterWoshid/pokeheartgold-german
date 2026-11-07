@@ -1,0 +1,122 @@
+{
+  "key": 4187,
+  "messages": [
+    {
+      "id": "msg_0675_00000",
+      "de_DE": "Julian"
+    },
+    {
+      "id": "msg_0675_00001",
+      "de_DE": [
+        "Gibst du mir deine Telefonnummer?\r",
+        "So können wir uns zu noch mehr\n",
+        "Kämpfen verabreden. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0675_00002",
+      "de_DE": [
+        "Prima! Ich rufe an, sobald mir\n",
+        "wieder nach einem Kampf ist."
+      ]
+    },
+    {
+      "id": "msg_0675_00003",
+      "de_DE": [
+        "Ist ja gut... aber noch mal\n",
+        "steckst du mich nicht in die Tasche!"
+      ]
+    },
+    {
+      "id": "msg_0675_00004",
+      "de_DE": [
+        "Komm schon, gib mir deine Nummer!\r",
+        "Ich will nicht ewig gegen dich ver-\n",
+        "loren haben! Gib mir ein Rematch! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0675_00005",
+      "de_DE": [
+        "Schon wieder verloren...\n",
+        "Du bist stark, so viel steht fest!\r",
+        "Schon komisch. Obwohl ich verloren\n",
+        "habe, habe ich plötzlich gute Laune!\r",
+        "Ich weiß! Das schenke ich dir!\n",
+        "Damit wirst du noch besser werden!\f",
+        "Und dann nimmst du mich ins Schlepptau!\r"
+      ]
+    },
+    {
+      "id": "msg_0675_00006",
+      "de_DE": [
+        "He, so weit weg bist du doch nicht.\n",
+        "Gib dir einen Ruck und komm rüber."
+      ]
+    },
+    {
+      "id": "msg_0675_00007",
+      "de_DE": [
+        "Erinnerst du dich noch an mein\n",
+        "cooles {STRVAR_1 0, 10, 0}?\f",
+        "Mein {STRVAR_1 0, 10, 0} ist nicht irgendein\f",
+        "dahergelaufenes {STRVAR_1 0, 10, 0}!\f",
+        "Mein {STRVAR_1 0, 10, 0} ist was Besonderes!\f",
+        "Quasi DAS {STRVAR_1 0, 10, 0} schlechthin!\r",
+        "Verstehst du, was ich sagen will?"
+      ]
+    },
+    {
+      "id": "msg_0675_00008",
+      "de_DE": [
+        "Neulich habe ich ein {STRVAR_1 0, 11, 0}\n",
+        "geplättet. Es saß einfach nur da und\f",
+        "ließ es über sich ergehen!\r",
+        "Na, was soll es auch groß tun?\n",
+        "Wir sind eben zu stark für diese Welt!\r",
+        "Bis später dann!"
+      ]
+    },
+    {
+      "id": "msg_0675_00009",
+      "de_DE": [
+        "Neulich habe ich ein {STRVAR_1 0, 11, 0}\n",
+        "gesehen! Ich wollte es fangen...\f",
+        "aber der Versuch ging nach hinten los.\r",
+        "Na ja, kein Grund, sich aufzuregen.\n",
+        "Pokémon FANGEN ist eben nicht\f",
+        "meine Stärke."
+      ]
+    },
+    {
+      "id": "msg_0675_00010",
+      "de_DE": [
+        "Lass uns mal wieder kämpfen!\n",
+        "Diesmal wirst du es nicht leicht haben!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\n",
+        "Sprich mich an, wenn du da bist.\r",
+        "Bis ba-hald!"
+      ]
+    },
+    {
+      "id": "msg_0675_00011",
+      "de_DE": [
+        "He, {STRVAR_1 3, 0, 0}, du Trödeltasche!\r",
+        "Lass uns endlich anfangen!\n",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0675_00012",
+      "de_DE": [
+        "Ich lege mir gerade eine Strategie\n",
+        "zurecht, indem ich die Attacken meines\f",
+        "{STRVAR_1 0, 10, 0} noch einmal genau unter\f",
+        "die Lupe nehme!\r",
+        "Lass uns noch einmal kämpfen,\n",
+        "sobald ich fertig bin!\r",
+        "Bis später dann!"
+      ]
+    }
+  ]
+}

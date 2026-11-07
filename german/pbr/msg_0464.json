@@ -1,0 +1,666 @@
+{
+  "key": 32395,
+  "messages": [
+    {
+      "id": "msg_0464_00000",
+      "de_DE": [
+        "Eich: Ah, {STRVAR_1 3, 0}! Das ist\n",
+        "er! Das ist der Park der Freunde!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00001",
+      "de_DE": [
+        "Eich: Ah, {STRVAR_1 3, 0}! Das ist\n",
+        "er! Das ist der Park der Freunde!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00002",
+      "de_DE": [
+        "Pokémon aus dem ganzen Land können\n",
+        "hierher gebracht werden.\r",
+        "Also Pokémon aus Kanto und Hoenn.\r",
+        "Hier kannst du außerdem in einen\n",
+        "Wettstreit gehen, um zu sehen, wie\r",
+        "schnell du diese Pokémon fangen\n",
+        "kannst!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00003",
+      "de_DE": [
+        "Schön, dass du uns besuchst.\r",
+        "Ich schenke dir diesen Trainer-Zähler\n",
+        "für deinen Pokétch.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00004",
+      "de_DE": [
+        "Eich: Ich werde noch eine Weile in\n",
+        "Ewigenau bleiben.\r",
+        "Ich sollte die Zeit gut nutzen, und\n",
+        "die Pokémon der Region Sinnoh\f",
+        "studieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00005",
+      "de_DE": [
+        "Der Park der Freunde ist eine\n",
+        "wahre Freude!\r",
+        "Trainer und Pokémon sind hier\n",
+        "voller Eifer.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00006",
+      "de_DE": "Würdest du mir ein Pokémon zeigen?\r"
+    },
+    {
+      "id": "msg_0464_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00008",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00009",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00010",
+      "de_DE": [
+        "Lass mich mal sehen...\r",
+        "Ein Pokémon, das nichts anderes tut\n",
+        "als Essen und Schlafen.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00011",
+      "de_DE": [
+        "Oh, ein RELAXO?\n",
+        "Das sieht wirklich aus, als ob\f",
+        "es viel essen kann!\r",
+        "Ich habe ein Zubehör für den Pokétch,\n",
+        "darauf ist ein RELAXO abgebildet.\r",
+        "Du hast mir ein echtes RELAXO gezeigt,\n",
+        "daher schenke ich dir das Zubehör!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00012",
+      "de_DE": [
+        "Jetzt wo du die {STRVAR_1 24, 0} \n",
+        "hast, möchtest du da nicht sofort\f",
+        "was kochen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00013",
+      "de_DE": [
+        "Mal sehen...\r",
+        "Ein Pokémon, das seine Farbe\n",
+        "wechselt, wenn etwas passiert.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00014",
+      "de_DE": [
+        "Oh, ein KECLEON!\n",
+        "Wie farbenprächtig!\r",
+        "Ich habe ein Zubehör für den Pokétch,\n",
+        "mit einem KECLEON-Design.\r",
+        "Du hast mir ein echtes KECLEON gezeigt, \n",
+        "daher schenke ich dir das Zubehör!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00015",
+      "de_DE": [
+        "Eine Änderung der Farbe kann\n",
+        "auch deine Stimmung ändern."
+      ]
+    },
+    {
+      "id": "msg_0464_00016",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00017",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00018",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00019",
+      "de_DE": [
+        "Wie hieß das Pokémon noch gleich...?\n",
+        "Ah, der Name liegt mir auf der Zunge!"
+      ]
+    },
+    {
+      "id": "msg_0464_00020",
+      "de_DE": [
+        "Der Park der Freunde ist\n",
+        "eine wahre Freude!\r",
+        "Trainer und Pokémon sind\n",
+        "hier voller Eifer.\r",
+        "Nimmst du auch an der\n",
+        "Herausforderung teil?"
+      ]
+    },
+    {
+      "id": "msg_0464_00021",
+      "de_DE": [
+        "Willkommen im Park der Freunde!\r",
+        "Hier zeigen hervorragende Trainer\n",
+        "ihre Künste beim Fangen von Pokémon.\f",
+        "Vor den Augen ihrer Freunde.\r",
+        "...Oh?\r",
+        "Bist du vielleicht...\n",
+        "Ja, du bist {STRVAR_1 3, 0}!\r",
+        "Wir haben schon von dir gehört!\n",
+        "Man sagt, du seist ein absoluter\f",
+        "Könner unter den Trainern!\r",
+        "Es wäre uns eine große Ehre, wenn\n",
+        "du an der Fangshow teilnehmen würdest!"
+      ]
+    },
+    {
+      "id": "msg_0464_00022",
+      "de_DE": [
+        "Willkommen im Park der Freunde!\r",
+        "Hier zeigen hervorragende Trainer\n",
+        "ihre Künste beim Fangen von Pokémon.\f",
+        "Vor den Augen ihrer Freunde.\r",
+        "...Oh?\r",
+        "Bist du vielleicht...\n",
+        "Ja, du bist {STRVAR_1 3, 0}!\r",
+        "Wir haben schon von dir gehört!\n",
+        "Man sagt, du seist eine absolute\f",
+        "Könnerin unter den Trainern!\r",
+        "Es wäre uns eine große Ehre, wenn\n",
+        "du an der Fangshow teilnehmen würdest!"
+      ]
+    },
+    {
+      "id": "msg_0464_00023",
+      "de_DE": [
+        "Ja! Du wirst teilnehmen!\n",
+        "Oh, heute ist ein Freudentag für mich!\r",
+        "Lass uns keine Zeit verschwenden!\n",
+        "Ich erkläre dir, wie das hier im Park\f",
+        "der Freunde funktioniert.\r",
+        "Ich habe eine Anleitung für\n",
+        "Situationen wie diese geschrieben.\r",
+        "Was möchtest du wissen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00024",
+      "de_DE": [
+        "Im Park der Freunde wirst du daran\n",
+        "gemessen, wie schnell du es schaffst,\f",
+        "6 Pokémon zu fangen.\r",
+        "Du bekommst dazu 6 spezielle\n",
+        "Pokébälle.\r",
+        "Die teilnehmenden Trainer müssen\n",
+        "die 6 Pokémon, die sie fangen wollen,\f",
+        "selber mitbringen.\r",
+        "Kannst du keine 6 Pokémon zur\n",
+        "Verfügung stellen, kannst du leider\f",
+        "nicht teilnehmen an der Fangshow.\r",
+        "...Möchtest du noch etwas wissen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00025",
+      "de_DE": [
+        "Zu Beginn der Show bekommst\n",
+        "du von uns 6 Pokébälle.\r",
+        "Mit denen fängst du die 6 Pokémon,\n",
+        "die du zur Verfügung gestellt hast.\r",
+        "...Möchtest du noch etwas wissen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00026",
+      "de_DE": [
+        "Um an der Fangshow teilzunehmen, musst\n",
+        "du Pokémon aus Kanto oder Hoenn holen.\r",
+        "Stecke dazu ein Game Boy Advance-Modul\n",
+        "mit einer der Editionen Rubin, Saphir,\r",
+        "Smaragd, Feuerrot oder Blattgrün\n",
+        "in den Modul-Schacht deines Nintendo\f",
+        "DS-Systems.\r",
+        "Wenn du dein Nintendo DS-System\n",
+        "einschaltest, können gefangene\r",
+        "Pokémon von dem Spielmodul zur\n",
+        "Nintendo DS-Karte wandern.\r",
+        "...Möchtest du noch etwas wissen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00027",
+      "de_DE": [
+        "Pokémon, die du in Sinnoh gefangen hast,\n",
+        "kannst du ebenfalls einsetzen, um an\f",
+        "der Fangshow teilzunehmen.\r",
+        "Bitte frage den Kollegen neben mir,\n",
+        "er kümmert sich um das Deponieren\f",
+        "von Pokémon.\r",
+        "...Möchtest du noch etwas wissen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00028",
+      "de_DE": [
+        "Möchtest du an der\n",
+        "Fangshow teilnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00029",
+      "de_DE": [
+        "Oh, das ist zu schade.\r",
+        "Nun, melde dich einfach, wenn\n",
+        "du es dir anders überlegt hast."
+      ]
+    },
+    {
+      "id": "msg_0464_00030",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0}!\r",
+        "Bist du hier, um an der\n",
+        "Fangshow teilzunehmen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00031",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0}!\r",
+        "Bist du hier, um an der\n",
+        "Fangshow teilzunehmen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00032",
+      "de_DE": [
+        "In Ordnung, hier sind deine Pokébälle!\r",
+        "{STRVAR_1 3, 0} erhält\n",
+        "6 Freundesbälle.\r",
+        "Der momentane Rekordhalter ist\n",
+        "{STRVAR_1 3, 1} mit {STRVAR_1 53, 2} Punkten.\r",
+        "Dann mal los, {STRVAR_1 3, 0}.\r",
+        "Verzaubere uns mit einer meisterhaften\n",
+        "Leistung im Fangen von Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00033",
+      "de_DE": [
+        "In Ordnung, hier sind deine Pokébälle!\r",
+        "{STRVAR_1 3, 0} erhält\n",
+        "6 Freundesbälle.\r",
+        "Der momentane Rekordhalter ist\n",
+        "{STRVAR_1 3, 1} mit {STRVAR_1 53, 2} Punkten.\r",
+        "Dann mal los, {STRVAR_1 3, 0}.\r",
+        "Verzaubere uns mit einer meisterhaften\n",
+        "Leistung im Fangen von Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00034",
+      "de_DE": [
+        "Oh, warte mal. Du hast gar nicht\n",
+        "genug Pokémon, um an der\f",
+        "Fangshow teilzunehmen.\r",
+        "Du musst erst 6 Pokémon deponieren,\n",
+        "bevor du teilnehmen kannst.\r",
+        "Du solltest dir ein paar Pokémon\n",
+        "aus Kanto oder Hoenn holen!"
+      ]
+    },
+    {
+      "id": "msg_0464_00035",
+      "de_DE": [
+        "Nun, dann lass mich dir kurz erklären,\n",
+        "wie das hier im Park der Freunde\f",
+        "abläuft.\r",
+        "Ich werde dir aus der Anleitung\n",
+        "des Parks vorlesen, die ich selber\f",
+        "geschrieben habe."
+      ]
+    },
+    {
+      "id": "msg_0464_00036",
+      "de_DE": [
+        "Es tut mir leid, dass du\n",
+        "aufgegeben hast.\r",
+        "Ich nehme die Freundesbälle,\n",
+        "die du noch übrig hast.\r",
+        "Nächstes Mal musst du versuchen,\n",
+        "alle 6 Pokémon zu fangen."
+      ]
+    },
+    {
+      "id": "msg_0464_00037",
+      "de_DE": [
+        "Oh, deine Boxen im PC sind voll. Du hast\n",
+        "gar keinen Platz für weitere 6 Pokémon.\r",
+        "Du kannst sie nicht nehmen, selbst\n",
+        "wenn du sie fangen solltest.\r",
+        "Schaffe Platz in deinen Boxen und\n",
+        "dann komm bitte wieder."
+      ]
+    },
+    {
+      "id": "msg_0464_00038",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Du hast alle 6 Pokémon gefangen!\r",
+        "Das Publikum hat deine Fangshow\n",
+        "sichtlich genossen.\r",
+        "Sehen wir uns jetzt mal die\n",
+        "Ergebnisse deiner Show an!\r",
+        "...\n",
+        "...\r",
+        "Fangpunkte: {STRVAR_1 53, 0}!\r",
+        "Zeitpunkte: {STRVAR_1 53, 1}!\r",
+        "Typpunkte: {STRVAR_1 53, 2}!\r",
+        "Das macht zusammen...\r",
+        "...\n",
+        "...\r",
+        "{STRVAR_1 53, 3} Punkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00039",
+      "de_DE": [
+        "Wow! Was für ein herausragendes\n",
+        "Ergebnis! Hut ab!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00040",
+      "de_DE": [
+        "Gut! Das ist ein gutes Ergebnis!\n",
+        "Meinen Beifall!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00041",
+      "de_DE": [
+        "Möchtest du alle Pokémon, die du ge-\n",
+        "fangen hast, in deine PC-Boxen senden?"
+      ]
+    },
+    {
+      "id": "msg_0464_00042",
+      "de_DE": [
+        "Fertig!\r",
+        "Deine Pokémon wurden in die Boxen\n",
+        "gesendet. Speichere bitte das Spiel.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00043",
+      "de_DE": [
+        "Oh, es wird dir bestimmt Spaß machen,\n",
+        "ein noch besseres Ergebnis zu\r",
+        "erreichen, indem du die gleichen\n",
+        "6 Pokémon noch einmal fängst.\r",
+        "Wenn du eine neue Fangshow\n",
+        "veranstalten willst, komm einfach\f",
+        "wieder vorbei."
+      ]
+    },
+    {
+      "id": "msg_0464_00044",
+      "de_DE": [
+        "Wenn du eine andere Show veranstalten\n",
+        "willst, komm einfach wieder vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0464_00045",
+      "de_DE": [
+        "Nun ist es Zeit, dir deinen Preis\n",
+        "zu geben. Und hier ist er schon!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00046",
+      "de_DE": [
+        "Möchtest du eine andere Fangshow mit\n",
+        "den gleichen Pokémon veranstalten?"
+      ]
+    },
+    {
+      "id": "msg_0464_00047",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00048",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00049",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00050",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00051",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00052",
+      "de_DE": [
+        "{STRVAR_1 3, 0}, ich bin mit meinem Papi\n",
+        "hier, um deine Fangshow zu sehen.\r",
+        "Ich hoffe, es geht bald los..."
+      ]
+    },
+    {
+      "id": "msg_0464_00053",
+      "de_DE": [
+        "Yay! {STRVAR_1 3, 0}!\n",
+        "Deine Fangshow war einfach fantastisch!\r",
+        "Ich hoffe, eines Tages auch so ein\n",
+        "toller Trainer zu werden wie du!"
+      ]
+    },
+    {
+      "id": "msg_0464_00054",
+      "de_DE": [
+        "Oh, {STRVAR_1 3, 0}!\n",
+        "Ich hoffe, nächstes Mal\f",
+        "klappt es besser für dich."
+      ]
+    },
+    {
+      "id": "msg_0464_00055",
+      "de_DE": [
+        "{STRVAR_1 3, 0}, meine Tochter ist ein\n",
+        "großer Fan von dir.\r",
+        "Es vergeht kein Tag, an dem sie nicht\n",
+        "darum bettelt, hierher zu kommen."
+      ]
+    },
+    {
+      "id": "msg_0464_00056",
+      "de_DE": [
+        "Die Menschen kommen nicht nur\n",
+        "hierher, um die Fangshow zu sehen.\r",
+        "Denn man sieht hier auch seltene\n",
+        "und exotische Pokémon.\r",
+        "Das macht mich immer ganz\n",
+        "kribbelig vor Aufregung!"
+      ]
+    },
+    {
+      "id": "msg_0464_00057",
+      "de_DE": [
+        "Der aktuelle Rekordhalter ist\n",
+        "{STRVAR_1 3, 1} mit {STRVAR_1 53, 2} Punkten.\f",
+        "Kannst du das übertreffen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00058",
+      "de_DE": [
+        "Oh! Du hast die 2 000 Punkte\n",
+        "übertroffen! Dann schenke ich dir dies!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00059",
+      "de_DE": [
+        "Arbeite hart daran, ein besseres\n",
+        "Ergebnis zu bekommen!"
+      ]
+    },
+    {
+      "id": "msg_0464_00060",
+      "de_DE": [
+        "Oh! Du hast die 2 500 Punkte\n",
+        "übertroffen! Dann schenke ich dir dies!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00061",
+      "de_DE": [
+        "Oh! Du hast die 3 000 Punkte\n",
+        "übertroffen! Dann schenke ich dir dies!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00062",
+      "de_DE": [
+        "Oh! Du hast die 3 500 Punkte\n",
+        "übertroffen! Dann schenke ich dir dies!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00063",
+      "de_DE": [
+        "Du hast einen unglaublichen\n",
+        "Rekord aufgestellt!\r",
+        "Da gibt es einfach nichts hinzuzufügen!"
+      ]
+    },
+    {
+      "id": "msg_0464_00064",
+      "de_DE": [
+        "Dein Beutel ist voll.\n",
+        "Komm später wieder."
+      ]
+    },
+    {
+      "id": "msg_0464_00065",
+      "de_DE": [
+        "Ich habe gehört, wie sich Trainer\n",
+        "darüber beschwerten, dass seltene\r",
+        "Pokémon erst nach längerer Zeit\n",
+        "auftauchen.\r",
+        "Ist es dann einfacher, mit normalen\n",
+        "Pokémon anzufangen?"
+      ]
+    },
+    {
+      "id": "msg_0464_00066",
+      "de_DE": [
+        "Die Fangshow...\r",
+        "Das ist ein Kräftemessen um Wille\n",
+        "und Verstand zwischen Trainern\f",
+        "und Pokémon!\r",
+        "Ich freue mich besonders darauf,\n",
+        "Pokémon aus Kanto oder Hoenn\f",
+        "zu sehen.\r",
+        "Aber es macht mich auch ein\n",
+        "bisschen traurig, sie so fern\f",
+        "ihrer Heimat zu sehen."
+      ]
+    },
+    {
+      "id": "msg_0464_00067",
+      "de_DE": [
+        "Ich bewundere dein Talent...\r",
+        "Daher werde ich dich krönen\n",
+        "mit dieser... Krone.\r",
+        "Aber bevor du jetzt größenwahnsinnig\n",
+        "wirst... das ist ein Accessoire für deine\f",
+        "Pokémon. Hahaha!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00068",
+      "de_DE": [
+        "Ich bewundere dein Talent...\r",
+        "Daher werde ich dich krönen\n",
+        "mit diesem... Diadem.\r",
+        "Aber bevor du jetzt größenwahnsinnig\n",
+        "wirst... das ist ein Accessoire für deine\f",
+        "Pokémon. Hahaha!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00069",
+      "de_DE": [
+        "Ich bewundere dein Talent...\r",
+        "Ich wünschte, du würdest diesen\n",
+        "“Am Meeresgrund”-Hintergrund\f",
+        "als Anerkennung annehmen.\r",
+        "Du kannst ihn verwenden, wenn du deine\n",
+        "Pokémon mit Accessoires ausstattest.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00070",
+      "de_DE": [
+        "Ich bewundere dein Talent...\r",
+        "Ich wünschte, du würdest diesen\n",
+        "“Untergrund”-Hintergrund\f",
+        "als Anerkennung annehmen.\r",
+        "Das kannst du verwenden, wenn du deine\n",
+        "Pokémon mit Accessoires ausstattest.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00071",
+      "de_DE": [
+        "Ich bewundere dein Talent...\r",
+        "Ich wünschte, du würdest diesen\n",
+        "“Himmel”-Hintergrund\f",
+        "als Anerkennung annehmen.\r",
+        "Das kannst du verwenden, wenn du deine\n",
+        "Pokémon mit Accessoires ausstattest.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00072",
+      "de_DE": [
+        "Es gibt nicht nur die Fangshows,\n",
+        "sondern auch Pokémon Wettbewerbe!\r",
+        "Ist das nicht einfach traumhaft?!?\n",
+        "Sinnoh lässt mein Herz höher schlagen!"
+      ]
+    },
+    {
+      "id": "msg_0464_00073",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0464_00074",
+      "garbage": 0
+    }
+  ]
+}

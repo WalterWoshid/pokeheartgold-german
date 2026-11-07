@@ -1,3 +1,5 @@
+#include "config.h"
+	.extern _ull_div
 	.include "macros.inc"
 	.include "overlay_102.inc"
 	.include "global.inc"
@@ -9189,7 +9191,11 @@ ov102_021EBC34: ; 0x021EBC34
 	ldr r0, [r4, #0xc]
 	add r1, #0x10
 	mov r2, #2
+#ifdef GERMAN
+	mov r3, #3
+#else
 	mov r3, #4
+#endif
 	bl AddWindowParameterized
 	mov r3, #0
 	str r3, [sp]
@@ -9810,6 +9816,9 @@ ov102_021EC11C: ; 0x021EC11C
 	.balign 4, 0
 	thumb_func_end ov102_021EC11C
 
+#ifdef GERMAN
+#include "german_ov102_021EC13C.inc"
+#else
 	thumb_func_start ov102_021EC13C
 ov102_021EC13C: ; 0x021EC13C
 	push {r3, r4, r5, r6, r7, lr}
@@ -9911,6 +9920,7 @@ _021EC178:
 	nop
 _021EC208: .word 0x00010200
 	thumb_func_end ov102_021EC13C
+#endif
 
 	thumb_func_start ov102_021EC20C
 ov102_021EC20C: ; 0x021EC20C

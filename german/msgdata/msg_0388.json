@@ -1,0 +1,164 @@
+{
+  "key": 42086,
+  "messages": [
+    {
+      "id": "msg_0388_00000",
+      "de_DE": [
+        "Entschuldige bitte!\r",
+        "Hör mal, ich habe neulich Post\n",
+        "von einem Freund bekommen.\r",
+        "Ich habe ihm auch schon eine\n",
+        "Antwort geschrieben, aber ich\f",
+        "komme hier leider nicht mehr raus.\f",
+        "Würdest du meinen Brief vielleicht für\f",
+        "mich zustellen?\r",
+        "Er hält sich gerade auf Route 31\n",
+        "auf! Tust du mir den Gefallen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0388_00001",
+      "de_DE": [
+        "Oh, klar... du hast bestimmt selbst\n",
+        "viel um die Ohren..."
+      ]
+    },
+    {
+      "id": "msg_0388_00002",
+      "de_DE": "Hoppla! Dein Team ist bereits voll!"
+    },
+    {
+      "id": "msg_0388_00003",
+      "de_DE": "Klasse! Vielen Dank!\r"
+    },
+    {
+      "id": "msg_0388_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält ein\n",
+        "HABITAK, das einen\f",
+        "Brief trägt!"
+      ]
+    },
+    {
+      "id": "msg_0388_00005",
+      "de_DE": [
+        "Mein Freund hält sich auf Route 31 auf!\r",
+        "Er ist ganz wild darauf, Briefe zu lesen.\n",
+        "Du erkennst ihn sofort!"
+      ]
+    },
+    {
+      "id": "msg_0388_00006",
+      "de_DE": [
+        "Mein Freund hält sich auf Route 31 auf!\r",
+        "...Ach ja! Ich habe gehört, dass ein\n",
+        "merkwürdiger Baum den Weg dorthin\f",
+        "versperren soll. Glaubst du, man kommt\f",
+        "inzwischen wieder durch?"
+      ]
+    },
+    {
+      "id": "msg_0388_00007",
+      "de_DE": [
+        "Danke, dass du meinem Bekannten\n",
+        "den Brief vorbeigebracht hast!\r",
+        "...Was? Unsere Höhlenexpedition?\n",
+        "Oh, ja, das stimmt... es tut mir leid...\f",
+        "Wenn ich ehrlich bin, kann ich hier\f",
+        "doch raus, wenn ich nur will.\r",
+        "Aber ich möchte mich gerne für deine\n",
+        "Hilfsbereitschaft erkenntlich zeigen.\f",
+        "Hier, das ist ein Geschenk von mir.\r"
+      ]
+    },
+    {
+      "id": "msg_0388_00008",
+      "de_DE": [
+        "Na, hat mein Freund gerade geschlafen?\n",
+        "Er ist nämlich eine echte Schnarchnase!"
+      ]
+    },
+    {
+      "id": "msg_0388_00009",
+      "de_DE": [
+        "Waaas?! Du hast meinen Brief verloren?\n",
+        "Verstehe... das ist ärgerlich, aber\f",
+        "es lässt sich auch nicht ändern."
+      ]
+    },
+    {
+      "id": "msg_0388_00010",
+      "de_DE": "Hier ist alles im grünen Bereich!"
+    },
+    {
+      "id": "msg_0388_00011",
+      "de_DE": [
+        "Angeblich versperrt ein merkwürdiger\n",
+        "Baum den Weg, der anfängt, sich zu\f",
+        "winden, wenn man ihn anspricht.\r",
+        "Es heißt außerdem, dass er rasend\f",
+        "wurde, als ihn jemand mit Wasser aus\f",
+        "seiner Schiggykanne begossen hat."
+      ]
+    },
+    {
+      "id": "msg_0388_00012",
+      "de_DE": [
+        "Ich mag das Pokémon-Schlaflied,\n",
+        "das im Radio gespielt wird."
+      ]
+    },
+    {
+      "id": "msg_0388_00013",
+      "de_DE": [
+        "Es ist echt traumhaft, dass man seinen\n",
+        "Pokécom so leicht mit Radiofunktionen\f",
+        "aufrüsten kann.\r",
+        "Was? Du kannst auf deinem Pokécom\n",
+        "immer noch nicht Radio hören?\f",
+        "Das lässt sich ganz leicht ändern!\r",
+        "Du weißt bestimmt, dass am Schalter\n",
+        "im Erdgeschoss des Radioturms gerade\f",
+        "ein Quiz veranstaltet wird, nicht wahr?\r",
+        "Wenn du dort alle Fragen richtig\n",
+        "beantworten kannst, erhältst du\f",
+        "als Preis ein Radio-Modul!\r",
+        "Du solltest dir unbedingt auch eins\n",
+        "holen, solange das Angebot noch gilt!"
+      ]
+    },
+    {
+      "id": "msg_0388_00014",
+      "de_DE": [
+        "Man sieht’s mir vielleicht nicht an, aber\n",
+        "ich bin trotz meines Alters eine echte\f",
+        "Expertin, was technisches Zeug angeht!\r",
+        "Soll ich dir vielleicht erklären,\n",
+        "wie dein Radio funktioniert? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0388_00015",
+      "de_DE": [
+        "Gut, du nimmst also deinen Pokécom zur\n",
+        "Hand und drückst auf den Radioknopf.\r",
+        "Wenn das geschehen ist, erscheint der\n",
+        "Bildschirm mit der Sendersuche.\r",
+        "In der Mitte des Schirms wird dir nun\n",
+        "die Kanalempfangskarte angezeigt.\f",
+        "Bewegst du den blinkenden Kreis darauf\f",
+        "herum, kannst du viele verschiedene\f",
+        "Sender empfangen.\r",
+        "Wenn dir das zu stressig sein sollte,\n",
+        "kannst du auch einfach einen der vier\f",
+        "Knöpfe am Rand der Empfangskarte\f",
+        "drücken, um den Sender, den du hören\f",
+        "willst, direkt einzustellen."
+      ]
+    },
+    {
+      "id": "msg_0388_00016",
+      "de_DE": "War das jetzt etwas zu aufdringlich?"
+    }
+  ]
+}

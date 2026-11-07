@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_RHYHORN",
+  "hpIv": 22,
+  "atkIv": 31,
+  "defIv": 13,
+  "speedIv": 0,
+  "spAtkIv": 22,
+  "spDefIv": 9,
+  "ability": 31,
+  "otId": 6845,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 1218332,
+  "heldItem": "ITEM_PASSHO_BERRY",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_BONSLY",
+  "unk_50": 0
+}

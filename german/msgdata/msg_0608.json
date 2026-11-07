@@ -1,0 +1,44 @@
+{
+  "key": 21590,
+  "messages": [
+    {
+      "id": "msg_0608_00000",
+      "de_DE": [
+        "Du, hör mal... ich bin auf der Suche\n",
+        "nach einem Pokémon.\r",
+        "Wenn du ein KRABBY dabeihast,\n",
+        "tauschst du es dann gegen mein\f",
+        "VOLTOBAL? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0608_00001",
+      "de_DE": [
+        "Großartig! Danke!\n",
+        "Endlich habe ich ein KRABBY!"
+      ]
+    },
+    {
+      "id": "msg_0608_00002",
+      "de_DE": [
+        "Du hast also kein KRABBY?\n",
+        "Das ist schade... aber na ja."
+      ]
+    },
+    {
+      "id": "msg_0608_00003",
+      "de_DE": [
+        "Dann hast du also auch keines?\n",
+        "Das ist wirklich schade..."
+      ]
+    },
+    {
+      "id": "msg_0608_00004",
+      "de_DE": [
+        "Oh, hallo!\r",
+        "Das KRABBY, das du mir im Tausch gegen\n",
+        "das VOLTOBAL gegeben hast, ist topfit!"
+      ]
+    }
+  ]
+}

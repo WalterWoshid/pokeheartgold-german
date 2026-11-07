@@ -1,0 +1,46 @@
+{
+  "key": 54403,
+  "messages": [
+    {
+      "id": "msg_0132_00000",
+      "de_DE": [
+        "Kai: Ich bin hier, um nach Käfer-\n",
+        "Pokémon aus Kanto zu suchen!\r",
+        "Ich will als Trainer für Käfer-Pokémon\n",
+        "nämlich noch viel besser werden!\r",
+        "Oh, übrigens!\n",
+        "Wie wär’s, wenn wir beide\f",
+        "Telefonnummern austauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0132_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Kais Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0132_00002",
+      "de_DE": [
+        "Kai: Wenn du willst, können wir am\n",
+        "Mittwoch gegen Mittag wieder kämpfen!\f",
+        "Ruf mich einfach an, wenn du Lust hast!"
+      ]
+    },
+    {
+      "id": "msg_0132_00003",
+      "de_DE": [
+        "Kai: Oh, in Ordnung...\n",
+        "Das muss ich wohl akzeptieren..."
+      ]
+    },
+    {
+      "id": "msg_0132_00004",
+      "de_DE": [
+        "Kai: Verrätst du mir deine\n",
+        "Telefonnummer? {YESNO 0}"
+      ]
+    }
+  ]
+}

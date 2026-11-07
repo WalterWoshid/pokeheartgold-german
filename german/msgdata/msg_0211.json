@@ -1,0 +1,225 @@
+{
+  "key": 38468,
+  "messages": [
+    {
+      "id": "msg_0211_00000",
+      "de_DE": [
+        "Der Baum sieht aus, als ob er\n",
+        "zerschnitten werden könnte.\r",
+        "Möchtest du Zerschneider\n",
+        "einsetzen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00001",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} setzt\n",
+        "Zerschneider ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0211_00002",
+      "de_DE": [
+        "Der Baum sieht aus, als ob er\n",
+        "zerschnitten werden könnte!"
+      ]
+    },
+    {
+      "id": "msg_0211_00003",
+      "de_DE": [
+        "Dieser Fels wirkt zerbrechlich.\n",
+        "Setzt du Zertrümmerer ein?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00004",
+      "de_DE": [
+        "Ein großer Felsen. Ein Pokémon\n",
+        "könnte ihn vielleicht zertrümmern."
+      ]
+    },
+    {
+      "id": "msg_0211_00005",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Zertrümmerer ein.\r"
+    },
+    {
+      "id": "msg_0211_00006",
+      "de_DE": [
+        "Du hast ein Item zwischen den\n",
+        "Trümmern entdeckt: {STRVAR_1 8, 1, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0211_00007",
+      "de_DE": [
+        "Ein Pokémon kann diesen Felsen\n",
+        "vielleicht bewegen.\r",
+        "Möchtest du Stärke einsetzen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00008",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} setzt Stärke ein!\r",
+        "{STRVAR_1 0, 0, 0} ist nun stark genug,\n",
+        "um Felsen zu bewegen!"
+      ]
+    },
+    {
+      "id": "msg_0211_00009",
+      "de_DE": [
+        "Ein Pokémon kann diesen Felsen\n",
+        "vielleicht bewegen."
+      ]
+    },
+    {
+      "id": "msg_0211_00010",
+      "de_DE": [
+        "Stärke ermöglicht es,\n",
+        "Felsen zu bewegen."
+      ]
+    },
+    {
+      "id": "msg_0211_00011",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Stärke ein.\r"
+    },
+    {
+      "id": "msg_0211_00012",
+      "de_DE": [
+        "Stärke von {STRVAR_1 0, 0, 0} ermöglicht es,\n",
+        "Felsen zu bewegen."
+      ]
+    },
+    {
+      "id": "msg_0211_00013",
+      "de_DE": "Der Felsen ist hinuntergefallen!"
+    },
+    {
+      "id": "msg_0211_00014",
+      "de_DE": [
+        "Das Wasser ist tiefblau.\n",
+        "Möchtest du Surfer einsetzen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00015",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Surfer ein.\r"
+    },
+    {
+      "id": "msg_0211_00016",
+      "de_DE": [
+        "Surfer kann nicht eingesetzt werden,\n",
+        "wenn dich jemand begleitet."
+      ]
+    },
+    {
+      "id": "msg_0211_00017",
+      "de_DE": [
+        "Ein dicker Nebel umhüllt die Gegend.\n",
+        "Auflockern einsetzen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00018",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Auflockern ein!\r"
+    },
+    {
+      "id": "msg_0211_00019",
+      "de_DE": [
+        "Ein dicker Nebel umhüllt die Gegend...\r",
+        "Kann ein Pokémon ihn mit einer\n",
+        "Attacke auflockern?"
+      ]
+    },
+    {
+      "id": "msg_0211_00020",
+      "de_DE": [
+        "Die Wand ist sehr felsig...\n",
+        "Möchtest du Kraxler einsetzen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00021",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Kraxler ein!\r"
+    },
+    {
+      "id": "msg_0211_00022",
+      "de_DE": [
+        "Die Wand ist sehr steinig...\n",
+        "Kann ein Pokémon sie bezwingen?"
+      ]
+    },
+    {
+      "id": "msg_0211_00023",
+      "de_DE": [
+        "Kraxler kann nicht eingesetzt werden,\n",
+        "wenn dich jemand begleitet."
+      ]
+    },
+    {
+      "id": "msg_0211_00024",
+      "de_DE": [
+        "Ein riesiger Wasserfall.\n",
+        "Möchtest du Kaskade einsetzen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00025",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Kaskade ein.\r"
+    },
+    {
+      "id": "msg_0211_00026",
+      "de_DE": [
+        "Das Wasser fällt steil wie eine\n",
+        "Wand, brüllend in die Tiefe."
+      ]
+    },
+    {
+      "id": "msg_0211_00027",
+      "de_DE": [
+        "Du hast zuletzt bei {STRVAR_1 4, 0, 0}\n",
+        "pausiert. Dorthin teleportieren?"
+      ]
+    },
+    {
+      "id": "msg_0211_00028",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Blitz ein.\r"
+    },
+    {
+      "id": "msg_0211_00029",
+      "de_DE": [
+        "Ein gigantischer Strudel.\n",
+        "Möchtest du Whirlpool einsetzen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00030",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Whirlpool ein.\r"
+    },
+    {
+      "id": "msg_0211_00031",
+      "de_DE": [
+        "Das Wasser wirbelt und dreht sich\n",
+        "mit lautem Getöse!"
+      ]
+    },
+    {
+      "id": "msg_0211_00032",
+      "de_DE": [
+        "Ein mannshoher Baum.\n",
+        "Möchtest du Kopfnuss einsetzen?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0211_00033",
+      "de_DE": "{STRVAR_1 0, 0, 0} setzt Kopfnuss ein.\r"
+    },
+    {
+      "id": "msg_0211_00034",
+      "de_DE": [
+        "Dieser mannshohe Baum sieht so aus, als\n",
+        "könnte er eine Kopfnuss vertragen!"
+      ]
+    }
+  ]
+}

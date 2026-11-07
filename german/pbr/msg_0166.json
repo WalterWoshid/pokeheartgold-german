@@ -1,0 +1,83 @@
+{
+  "key": 21570,
+  "messages": [
+    {
+      "id": "msg_0166_00000",
+      "de_DE": [
+        "Dieses glitzernd grelle Ding, das\n",
+        "du da hast, ist echt cool!\r",
+        "Das ist bestimmt ein Pokétch!\n",
+        "Sind sie nicht einfach wunderbar?\r",
+        "Ich arbeite für die\n",
+        "Pokétch Gesellschaft.\r",
+        "Dort entwickele ich Original-Zubehör\n",
+        "für den Pokétch.\r",
+        "Hey, du bist doch ein Trainer, oder?\n",
+        "Tust du mir einen Gefallen?\r",
+        "Du hast doch Pokémon verschiedener\n",
+        "Wesensarten, kann ich sie sehen?"
+      ]
+    },
+    {
+      "id": "msg_0166_00001",
+      "de_DE": [
+        "Hm... Welches würde ich\n",
+        "jetzt gerne sehen...\r",
+        "Ich würde gerne einen Blick auf\n",
+        "ein ernstes Pokémon werfen."
+      ]
+    },
+    {
+      "id": "msg_0166_00002",
+      "de_DE": [
+        "Hm... Welches würde ich\n",
+        "jetzt gerne sehen...\r",
+        "Ich würde gerne einen Blick auf\n",
+        "ein naives Pokémon werfen."
+      ]
+    },
+    {
+      "id": "msg_0166_00003",
+      "de_DE": [
+        "Hm... Welches würde ich\n",
+        "jetzt gerne sehen...\r",
+        "Ich würde gerne einen Blick auf\n",
+        "ein kauziges Pokémon werfen."
+      ]
+    },
+    {
+      "id": "msg_0166_00004",
+      "de_DE": [
+        "Ja! Dein {STRVAR_1 0, 0} hat\n",
+        "wirklich eine ernste Wesensart!\r",
+        "Danke! Nimm bitte diesen Kalender\n",
+        "für deinen Pokétch."
+      ]
+    },
+    {
+      "id": "msg_0166_00005",
+      "de_DE": [
+        "Ja! Dein {STRVAR_1 0, 0} hat\n",
+        "wirklich eine naive Wesensart!\r",
+        "Danke! Nimm bitte dieses Zeichenbrett-\n",
+        "Zubehör für deinen Pokétch."
+      ]
+    },
+    {
+      "id": "msg_0166_00006",
+      "de_DE": [
+        "Ja! Dein {STRVAR_1 0, 0} hat\n",
+        "wirklich eine kauzige Wesensart!\r",
+        "Danke! Nimm bitte dieses Roulette-\n",
+        "Zubehör für deinen Pokétch."
+      ]
+    },
+    {
+      "id": "msg_0166_00007",
+      "de_DE": [
+        "Eines Tages wird es mehr Pokétch-\n",
+        "Zubehör als Pokémon-Arten geben."
+      ]
+    }
+  ]
+}

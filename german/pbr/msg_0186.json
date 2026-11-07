@@ -1,0 +1,227 @@
+{
+  "key": 50210,
+  "messages": [
+    {
+      "id": "msg_0186_00000",
+      "de_DE": [
+        "Willkommen im Duellpark!\r",
+        "Du bist zum ersten Mal hier?\n",
+        "Hier entlang, bitte.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00001",
+      "de_DE": [
+        "Da es dein erster Besuch ist, musst du\n",
+        "dir eine Punktekarte ausstellen lassen.\r",
+        "Die Punktekarte wird nur im\n",
+        "Duellpark gebraucht.\r",
+        "Hier, bitte.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00002",
+      "de_DE": [
+        "An der Rezeption gleich hier neben mir\n",
+        "erfährst du mehr über die Punktekarte.\r",
+        "Von mir kannst du Informationen über\n",
+        "Einrichtungen des Duellparks bekommen.\r",
+        "An der Rezeption mir gegenüber werden\n",
+        "dir die Regeln des Duellparks erklärt.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00003",
+      "de_DE": [
+        "Willkommen im Duellpark!\r",
+        "Von mir bekommst du Informationen\n",
+        "über die Einrichtungen des Parks.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00004",
+      "de_DE": "Was möchtest du wissen?"
+    },
+    {
+      "id": "msg_0186_00005",
+      "de_DE": [
+        "Im Duellpark finden sich Trainer\n",
+        "ein, um Kämpfe auszutragen.\r",
+        "Der Park verfügt über zwei\n",
+        "Einrichtungen, die Tauschecke\f",
+        "und den Duellturm.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00006",
+      "de_DE": [
+        "Die Tauschecke ist das Gebäude,\n",
+        "das wie ein Schloss aussieht.\r",
+        "Da kannst du mit GP (Gewinnpunkten),\n",
+        "die du gewonnen hast, Items kaufen.\r",
+        "Dort gibt es wunderbare Dinge. Du\n",
+        "solltest die Tauschecke aufsuchen,\f",
+        "sobald du ein paar Punkte hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00007",
+      "de_DE": [
+        "Der Duellturm ist das Gebäude im\n",
+        "hinteren Teil des Duellparks.\r",
+        "Der Turm bietet vier verschiedene\n",
+        "Arten von Kampfräumen.\r",
+        "In Einzelkampf-Räumen werden Kämpfe\n",
+        "einer gegen einen ausgetragen.\r",
+        "In Doppelkampf-Räumen werden Kämpfe\n",
+        "zwei gegen zwei ausgetragen.\r",
+        "In Multikampf-Räumen werden Teamkämpfe\n",
+        "mit Partnern ausgetragen.\r",
+        "In Wi-Fi Kampf-Räumen schließlich werden\n",
+        "Kämpfe gegen Trainer aus der ganzen\f",
+        "Welt ausgetragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00008",
+      "de_DE": [
+        "Willkommen im Duellpark!\r",
+        "Ich erkläre dir die Punktekarte und wie\n",
+        "die GP (Gewinnpunkte) funktionieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00009",
+      "de_DE": "Was soll ich dir erklären?"
+    },
+    {
+      "id": "msg_0186_00010",
+      "de_DE": [
+        "Jeder Trainer, der den Duellpark\n",
+        "aufsucht, erhält eine Punktekarte.\r",
+        "Damit wird bestätigt, dass\n",
+        "er ein Herausforderer ist.\r",
+        "Auf der Punktekarte werden GP\n",
+        "(Gewinnpunkte) gespeichert.\r",
+        "Diese erhält man bei\n",
+        "Kämpfen im Duellturm.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00011",
+      "de_DE": [
+        "GP, kurz für Gewinnpunkte, werden\n",
+        "ausschließlich im Duellpark verwendet.\r",
+        "GP verdienst du, indem du bestimmte\n",
+        "Leistungsziele bei Kämpfen im\f",
+        "Duellturm erreichst.\r",
+        "Mit den GP kannst du dann tolle\n",
+        "Preise in der Tauschecke erstehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00012",
+      "de_DE": [
+        "Willkommen im Duellpark!\r",
+        "Ich kann dich über die Kampfregeln\n",
+        "des Duellturms aufklären.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00013",
+      "de_DE": "Welche Regel soll ich dir erklären?"
+    },
+    {
+      "id": "msg_0186_00014",
+      "de_DE": [
+        "Die Level-Grenze des Duellturms\n",
+        "liegt bei Level 50.\r",
+        "Pokémon bis Lv. 50 dürfen unter\n",
+        "bestimmten Bedingungen teilnehmen.\r",
+        "Pokémon über Lv. 50 dürfen\n",
+        "ebenfalls teilnehmen.\r",
+        "Für die Dauer des Aufenthalts im\n",
+        "Duellturm werden sie allerdings\f",
+        "auf Lv. 50 heruntergesetzt.\r",
+        "Der alte Level wird wiederhergestellt,\n",
+        "wenn sie den Duellturm verlassen.\r",
+        "Beachte bitte, deine Gegner setzen\n",
+        "keine Pokémon unter Lv. 50 ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00015",
+      "de_DE": [
+        "Praktisch dürfen fast alle Pokémon\n",
+        "den Duellturm betreten. Ausgenommen\f",
+        "Eier und bestimmte exotische Pokémon.\r",
+        "Beachte bitte, dass die Zahl der\n",
+        "Pokémon von der jeweiligen\f",
+        "Herausforderung abhängt.\r",
+        "Außerdem ist von jeder Art nur ein\n",
+        "Pokémon im Duellturm gestattet.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00016",
+      "de_DE": [
+        "Deine Pokémon dürfen im Duellturm\n",
+        "nicht dasselbe Item tragen.\r",
+        "Vergewissere dich, dass die Pokémon,\n",
+        "die in den Duellturm geschickt werden,\f",
+        "alle unterschiedliche Items tragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0186_00017",
+      "de_DE": "Viel Glück!"
+    },
+    {
+      "id": "msg_0186_00018",
+      "de_DE": "Willkommen im Duellpark!"
+    },
+    {
+      "id": "msg_0186_00019",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0186_00020",
+      "de_DE": "DUELLPARK"
+    },
+    {
+      "id": "msg_0186_00021",
+      "de_DE": "GP TAUSCHECKE"
+    },
+    {
+      "id": "msg_0186_00022",
+      "de_DE": "DUELLTURM"
+    },
+    {
+      "id": "msg_0186_00023",
+      "de_DE": "PUNKTEKARTE"
+    },
+    {
+      "id": "msg_0186_00024",
+      "de_DE": "GP"
+    },
+    {
+      "id": "msg_0186_00025",
+      "de_DE": "LEVEL-GRENZE"
+    },
+    {
+      "id": "msg_0186_00026",
+      "de_DE": "PKMN-TYP & -ANZAHL"
+    },
+    {
+      "id": "msg_0186_00027",
+      "de_DE": "GETRAGENE ITEMS"
+    },
+    {
+      "id": "msg_0186_00028",
+      "de_DE": [
+        "Da vorne liegt der Duellturm.\n",
+        "Was für Trainer dort wohl kämpfen?"
+      ]
+    }
+  ]
+}

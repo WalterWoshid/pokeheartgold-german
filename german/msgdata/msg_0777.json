@@ -1,0 +1,811 @@
+{
+  "key": 30512,
+  "messages": [
+    {
+      "id": "msg_0777_00000",
+      "de_DE": [
+        "Willkommen auf dem Wi-Fi Plaza!\r",
+        "Jedem Gast wird ein Spielzeug geliehen.\n",
+        "Hier ist deins!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00001",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_3 2, 1, 0}!"
+    },
+    {
+      "id": "msg_0777_00002",
+      "de_DE": [
+        "Ich hoffe, du genießt deinen\n",
+        "Aufenthalt bis zum Ende.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00003",
+      "de_DE": [
+        "Dein Aufenthalt auf dem Wi-Fi Plaza\n",
+        "ist fast vorbei.\r",
+        "Danke für deinen Besuch.\n",
+        "Besuche uns bitte bald wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00004",
+      "de_DE": [
+        "Übrigens, für welchen Typ hast\n",
+        "du dich heute entschieden?\r",
+        "Wenn du möchtest, kannst du\n",
+        "dich auf zwei Typen festlegen.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00005",
+      "de_DE": "Wie lautet dein erster Typ für heute?"
+    },
+    {
+      "id": "msg_0777_00006",
+      "de_DE": "{STRVAR_1 15, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00007",
+      "de_DE": "Keine Auswahl"
+    },
+    {
+      "id": "msg_0777_00008",
+      "de_DE": "Deine Wahl lautet also {STRVAR_1 15, 0, 0}-Typ?"
+    },
+    {
+      "id": "msg_0777_00009",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0777_00010",
+      "de_DE": "Wie lautet dein zweiter Typ für heute?"
+    },
+    {
+      "id": "msg_0777_00011",
+      "de_DE": [
+        "Verstehe! Du hast dich also für die\n",
+        "Typen {STRVAR_1 15, 0, 0} und {STRVAR_1 15, 1, 0} entschieden.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00012",
+      "de_DE": [
+        "Verstehe! Du hast dich also für\n",
+        "den Typ {STRVAR_1 15, 0, 0} entschieden.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00013",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0777_00014",
+      "garbage": 65
+    },
+    {
+      "id": "msg_0777_00015",
+      "de_DE": [
+        "Willkommen auf dem Wi-Fi Plaza!\r",
+        "Dies ist der allgemeine Infoschalter.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00016",
+      "de_DE": "Worüber möchtest du mehr erfahren?\r"
+    },
+    {
+      "id": "msg_0777_00017",
+      "garbage": 86
+    },
+    {
+      "id": "msg_0777_00018",
+      "de_DE": [
+        "Es gibt einen riesigen Globus in der\n",
+        "Nähe des Eingangs zum Wi-Fi Plaza.\r",
+        "Der Globus enthält die Gast-Profile und\n",
+        "zeigt die Aufenthaltsorte und die Orts-\f",
+        "zeiten der Besucher des Wi-Fi Plazas an.\r",
+        "Um die Besucher zu sehen, drücke den\n",
+        "X-Knopf und betrachte die Konsole.\f",
+        "Manchmal schweben auch Ballons vorbei.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00019",
+      "de_DE": [
+        "Bei den Plaza-Nachrichten handelt es\n",
+        "sich um eine elektronische Anzeige,\r",
+        "die die Geschehnisse auf dem\n",
+        "Wi-Fi Plaza zeigt.\r",
+        "Bist du dir nicht sicher, was zu tun ist,\n",
+        "überprüfe die Plaza-Nachrichten.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00020",
+      "de_DE": [
+        "Der Fußabdruck-Stempel ist ein Bedien-\n",
+        "feld, an dem du mit den Fußabdrücken\f",
+        "deiner Team-Pokémon spielen kannst.\r",
+        "Es gibt ein schwarzes und ein weißes\n",
+        "Bedienfeld. Such dir ein beliebiges aus.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00021",
+      "garbage": 74
+    },
+    {
+      "id": "msg_0777_00022",
+      "de_DE": [
+        "Wir hoffen, du genießt deine Zeit im Wi-Fi\n",
+        "Plaza, bevor dein Zeitlimit abläuft.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00023",
+      "de_DE": [
+        "Mit Spielzeug kannst du nur\n",
+        "auf dem Wi-Fi Plaza spielen.\r",
+        "Abgesehen davon kannst du Spielzeug\n",
+        "auch mit deinen Freunden teilen.\r",
+        "Spielzeug kann durch das Spielen von\n",
+        "Plaza-Spielen aufgerüstet werden.\r",
+        "Wir hoffen, dass du dich auf deine eigene\n",
+        "Art damit vergnügen wirst!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00024",
+      "de_DE": [
+        "{STRVAR_3 0, 0, 0} ist eines der\n",
+        "Plaza-Spiele.\r",
+        "Bis zu vier Spieler können teilnehmen.\r",
+        "Die Regeln sind einfach: Schnipse Beeren\n",
+        "ins Maul eines rotierenden SCHLUKWECH.\r",
+        "Der Spieler mit der höchsten Punktzahl\n",
+        "erhält eine Spielzeug-Verbesserung.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00025",
+      "de_DE": [
+        "{STRVAR_3 0, 0, 0} ist eines der\n",
+        "Plaza-Spiele.\r",
+        "Bis zu vier Spieler können teilnehmen.\r",
+        "Die Regeln sind einfach: Rolle einen\n",
+        "Ball, damit PANTIMIMI nicht abstürzt.\r",
+        "Der Spieler, der PANTIMIMI am längsten\n",
+        "auf dem Ball hält, erhält eine\f",
+        "Spielzeug-Verbesserung.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00026",
+      "de_DE": [
+        "{STRVAR_3 0, 0, 0} ist eines der\n",
+        "Plaza-Spiele.\r",
+        "Bis zu vier Spieler können teilnehmen.\r",
+        "Die Regeln sind einfach: Blast Ballons\n",
+        "auf, bis sie platzen.\r",
+        "Bringt mindestens zehn zum Platzen, und\n",
+        "alle Teilnehmer erhalten eine\f",
+        "Spielzeug-Verbesserung.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00027",
+      "de_DE": [
+        "Fällt deine Restzeit auf weniger als die\n",
+        "Hälfte, gehen die Scheinwerfer auf dem\f",
+        "Wi-Fi Plaza an.\r",
+        "Wir hoffen, dir gefällt die andersartige\n",
+        "Atmosphäre, die dadurch entsteht.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00028",
+      "de_DE": [
+        "Wenn dein Zeitlimit fast aufgebraucht\n",
+        "ist, erlischt die Beleuchtung.\r",
+        "Danach ist überall auf dem Wi-Fi Plaza\n",
+        "Feuerwerk zu sehen.\r",
+        "Wir hoffen, du genießt das Feuerwerk,\n",
+        "wenn sich dein Besuch dem Ende zuneigt.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00029",
+      "de_DE": [
+        "Ist dein Zeitlimit abgelaufen, tauchen\n",
+        "Parade-Flöße aus dem rechten hinteren\f",
+        "Teil des Wi-Fi Plazas auf.\r",
+        "Diese sehen wie Pokémon aus.\r",
+        "Du kannst ein Floß besteigen und zum\n",
+        "Pokémon-Center zurückkehren oder\f",
+        "Freunde losschicken.\r",
+        "Bedenke bitte, dass du nach Betreten\n",
+        "eines Floßes nur von Bord kannst,\f",
+        "wenn es den Wi-Fi Plaza verlässt.\r",
+        "Die Verbindung zur Nintendo WFC wird\n",
+        "dann getrennt.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00030",
+      "de_DE": [
+        "Du kannst an einer Plaza-Umfrage teil-\n",
+        "nehmen, indem du die Maschine neben dem\f",
+        "allgemeinen Infoschalter verwendest.\r",
+        "Um genauere Informationen zu erhalten,\n",
+        "wende dich bitte an den Bediensteten\f",
+        "neben dem Monitor.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00031",
+      "de_DE": "SPIELZEUG"
+    },
+    {
+      "id": "msg_0777_00032",
+      "de_DE": "PLAZA-SPIELE"
+    },
+    {
+      "id": "msg_0777_00033",
+      "de_DE": "GAST-PROFILE"
+    },
+    {
+      "id": "msg_0777_00034",
+      "de_DE": "PLAZA-NACHRICHTEN"
+    },
+    {
+      "id": "msg_0777_00035",
+      "de_DE": "FUSSABDRUCK-STEMP."
+    },
+    {
+      "id": "msg_0777_00036",
+      "de_DE": "ZEITEREIGNISSE"
+    },
+    {
+      "id": "msg_0777_00037",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0777_00038",
+      "de_DE": "{STRVAR_3 0, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00039",
+      "de_DE": "{STRVAR_3 1, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00040",
+      "de_DE": "PLAZA-UMFRAGE"
+    },
+    {
+      "id": "msg_0777_00041",
+      "de_DE": [
+        "Bewege den Ball, um PANTIMIMI darauf im\n",
+        "Gleichgewicht zu halten."
+      ]
+    },
+    {
+      "id": "msg_0777_00042",
+      "de_DE": [
+        "Schnipse Beeren in das Maul eines\n",
+        "rotierenden SCHLUKWECH."
+      ]
+    },
+    {
+      "id": "msg_0777_00043",
+      "de_DE": [
+        "Drücke die WOINGENAU-Pumpe und bringe\n",
+        "mit Mitspielern Ballons zum Platzen."
+      ]
+    },
+    {
+      "id": "msg_0777_00044",
+      "de_DE": "ID. Nr."
+    },
+    {
+      "id": "msg_0777_00045",
+      "de_DE": "NAME"
+    },
+    {
+      "id": "msg_0777_00046",
+      "de_DE": "ORT"
+    },
+    {
+      "id": "msg_0777_00047",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0777_00048",
+      "de_DE": "AKTIVITÄTSINDEX"
+    },
+    {
+      "id": "msg_0777_00049",
+      "de_DE": "{STRVAR_1 55, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00050",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00051",
+      "de_DE": [
+        "{STRVAR_1 36, 0, 0}\n",
+        "{STRVAR_1 37, 1, 0}"
+      ]
+    },
+    {
+      "id": "msg_0777_00052",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0777_00053",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0777_00054",
+      "de_DE": "{STRVAR_3 0, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00055",
+      "de_DE": "????"
+    },
+    {
+      "id": "msg_0777_00056",
+      "de_DE": "MOTTO VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00057",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0777_00058",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0777_00059",
+      "de_DE": "{STRVAR_1 28, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00060",
+      "de_DE": "{STRVAR_1 28, 1, 0}"
+    },
+    {
+      "id": "msg_0777_00061",
+      "de_DE": "{STRVAR_1 28, 2, 0}"
+    },
+    {
+      "id": "msg_0777_00062",
+      "de_DE": "{STRVAR_1 28, 3, 0}"
+    },
+    {
+      "id": "msg_0777_00063",
+      "de_DE": "X-Knopf: Profil anzeigen."
+    },
+    {
+      "id": "msg_0777_00064",
+      "de_DE": "GoldSil"
+    },
+    {
+      "id": "msg_0777_00065",
+      "de_DE": [
+        "Du wirst den Wi-Fi Plaza verlassen und\n",
+        "zum Pokémon-Center zurückkehren.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00066",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0777_00067",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0777_00068",
+      "de_DE": [
+        "SPIELER: {STRVAR_1 50, 0, 0}\n",
+        "FREI: {CURSOR_X 51}{STRVAR_1 50, 1, 0}"
+      ]
+    },
+    {
+      "id": "msg_0777_00069",
+      "de_DE": "SPIEL IM GANGE..."
+    },
+    {
+      "id": "msg_0777_00070",
+      "de_DE": [
+        "Die Zeit ist abgelaufen.\n",
+        "Wi-Fi Plaza wird nun geschlossen."
+      ]
+    },
+    {
+      "id": "msg_0777_00071",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0777_00072",
+      "de_DE": [
+        "Es herrscht ein hoher Andrang bei\n",
+        "{STRVAR_3 0, 0, 0}.\r",
+        "Es tut uns sehr leid, aber warte bitte\n",
+        "eine Weile, bevor du zurückkehrst.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00073",
+      "de_DE": [
+        "Hi, willkommen auf dem Wi-Fi Plaza!\r",
+        "Möchtest du meine Empfehlung hören?\n",
+        "{STRVAR_3 0, 0, 0}!\r",
+        "Schneidest du bei einem Plaza-Spiel gut\n",
+        "ab, wird dein Spielzeug verbessert.\r",
+        "Noch nie ein Plaza-Spiel gespielt?\n",
+        "Dann stell dich der Herausforderung!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00074",
+      "de_DE": [
+        "Hi, willkommen auf dem Wi-Fi Plaza!\r",
+        "Möchtest du meine Empfehlung hören?\n",
+        "Fußabdruck-Stempel!\r",
+        "Warte ab, was einige Sekunden nach dem\n",
+        "Setzen eines Stempels passiert!\r",
+        "Falls du es noch nie versucht hast,\n",
+        "nur Mut, es gibt zwei getrennte\f",
+        "Bedienfelder!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00075",
+      "de_DE": [
+        "Hi, willkommen auf dem Wi-Fi Plaza!\r",
+        "Möchtest du meine Empfehlung hören?\n",
+        "Unterhalte dich mit Freunden!\r",
+        "Das mag ein wenig einschüchternd\n",
+        "sein, aber nur keine Angst!\r",
+        "Du kannst dich nicht nur unterhalten,\n",
+        "sondern auch Spielzeug teilen.\r",
+        "Nur nicht schüchtern sein!\n",
+        "Es macht einen Heidenspaß!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00076",
+      "de_DE": [
+        "Ich hoffe, du hast viel Spaß, bis der\n",
+        "Wi-Fi Plaza geschlossen wird!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00077",
+      "de_DE": [
+        "Hi, willkommen auf dem Wi-Fi Plaza!\r",
+        "Möchtest du meine Empfehlung hören?\n",
+        "{STRVAR_3 0, 0, 0}!\r",
+        "Lerne etwas über Ereignisse auf dem\n",
+        "Wi-Fi Plaza und auch über deine Freunde.\r",
+        "Das ist wirklich sehr vorteilhaft!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00078",
+      "de_DE": [
+        "Die Pokémon-Parade hat begonnen!\r",
+        "Auf den Flößen gibt es nur eine\n",
+        "begrenzte Anzahl an Plätzen!\r",
+        "Wenn du auf einem Floß fahren möchtest,\n",
+        "dann schnell an Bord mit dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00079",
+      "de_DE": [
+        "Hi, willkommen auf dem Wi-Fi Plaza!\r",
+        "Möchtest du meine Empfehlung hören?\n",
+        "Eine Plaza-Umfrage!\r",
+        "Dabei kannst du die Besucher des\n",
+        "Wi-Fi Plazas genauer kennenlernen.\r",
+        "Du kannst an einer Umfrage teilnehmen,\n",
+        "bis die Scheinwerfer angehen.\r",
+        "Stelle sicher, dass deine Meinung in der\n",
+        "Trainergemeinschaft Gehör findet!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00080",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0777_00081",
+      "de_DE": [
+        "Hallo, ich leite die Plaza-Umfragen.\r",
+        "Hier kannst du an einer Plaza-Umfrage\n",
+        "teilnehmen.\r",
+        "Deine Stimme kannst du an dem Monitor\n",
+        "neben mir abgeben.\r",
+        "Oder möchtest du mehr erfahren?\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00082",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0777_00083",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0777_00084",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0777_00085",
+      "de_DE": [
+        "Nimm an einer Umfrage teil und lerne et-\n",
+        "was über die Besucher des Wi-Fi Plazas.\r",
+        "Die Teilnahme ist möglich, bis\n",
+        "die Scheinwerfer angehen.\r",
+        "Es gibt zwei Arten von\n",
+        "Umfrageergebnissen.\r",
+        "Zuerst siehst du die aktuellen\n",
+        "Ergebnisse von nur diesem\f",
+        "Wi-Fi Plaza.\r",
+        "Danach siehst du die Ergebnisse der\n",
+        "letzten Woche aller Wi-Fi Plazas.\r",
+        "Bitte nimm am Monitor neben mir an\n",
+        "einer Plaza-Umfrage teil.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00086",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0777_00087",
+      "de_DE": [
+        "Danke, dass du an unserer\n",
+        "Plaza-Umfrage teilgenommen hast.\r",
+        "Die Ergebnisse sind verfügbar, wenn die\n",
+        "Scheinwerfer auf dem Plaza angehen.\r",
+        "Danach sind die Ergebnisse bis zum Ende\n",
+        "der Pokémon-Parade einsehbar.\r",
+        "Komm auf jeden Fall zurück und sieh\n",
+        "dir die Ergebnisse an!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00088",
+      "de_DE": [
+        "Die Ergebnisse gibt es auf dem Monitor\n",
+        "neben mir. Sie sind ziemlich interessant.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00089",
+      "garbage": 49
+    },
+    {
+      "id": "msg_0777_00090",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0777_00091",
+      "de_DE": [
+        "Es ist keine Stimmabgabe mehr möglich.\n",
+        "Die Plaza-Umfrage ist nun geschlossen.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00092",
+      "de_DE": "Plaza-Umfrage!\r"
+    },
+    {
+      "id": "msg_0777_00093",
+      "de_DE": "Sonder-Plaza-Umfrage!\r"
+    },
+    {
+      "id": "msg_0777_00094",
+      "de_DE": "An einer Plaza-Umfrage teilnehmen?"
+    },
+    {
+      "id": "msg_0777_00095",
+      "de_DE": [
+        "An einer Sonder-Plaza-Umfrage\n",
+        "teilnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0777_00096",
+      "de_DE": [
+        "Sende deine Antwort auf\n",
+        "die Plaza-Umfrage..."
+      ]
+    },
+    {
+      "id": "msg_0777_00097",
+      "de_DE": [
+        "Deine Antwort auf die\n",
+        "Plaza-Umfrage wurde übertragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00098",
+      "de_DE": [
+        "Die Ergebnisse sind verfügbar, wenn die\n",
+        "Scheinwerfer auf dem Plaza angehen.\r",
+        "Danach sind die Ergebnisse bis zum Ende\n",
+        "der Pokémon-Parade einsehbar.\r",
+        "Komm auf jeden Fall wieder und sieh\n",
+        "dir die Ergebnisse an!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00099",
+      "de_DE": [
+        "Danke für die Teilnahme an unserer\n",
+        "Sonder-Plaza-Umfrage.\r",
+        "Die Ergebnisse sind verfügbar, wenn die\n",
+        "Scheinwerfer auf dem Plaza angehen.\r",
+        "Sie sind bis zum Ende der Pokémon-\n",
+        "Parade einsehbar. Komm auf jeden Fall\f",
+        "wieder und sieh dir die Ergebnisse an!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00100",
+      "garbage": 78
+    },
+    {
+      "id": "msg_0777_00101",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0777_00102",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0777_00103",
+      "de_DE": "Das Thema dieser Plaza-Umfrage war...\r"
+    },
+    {
+      "id": "msg_0777_00104",
+      "de_DE": [
+        "Schauen wir uns an, wie unsere\n",
+        "Besucher geantwortet haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00105",
+      "de_DE": [
+        "Das Thema dieser Sonder-Plaza-Umfrage\n",
+        "war...\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00106",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0777_00107",
+      "de_DE": [
+        "Hier sind die Ergebnisse der\n",
+        "aktuellen Plaza-Umfrage.\r",
+        "Diese Ergebnisse stammen nur\n",
+        "von diesem Wi-Fi Plaza.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00108",
+      "de_DE": [
+        "Hier sind die Ergebnisse der\n",
+        "aktuellen Sonder-Plaza-Umfrage.\r",
+        "Diese Ergebnisse stammen nur\n",
+        "von diesem Wi-Fi Plaza.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00109",
+      "de_DE": "AKTUELLE ERGEBNISSE"
+    },
+    {
+      "id": "msg_0777_00110",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0777_00111",
+      "de_DE": [
+        "Möchtest du die Ergebnisse der Plaza-\n",
+        "Umfrage der letzten Woche einsehen?"
+      ]
+    },
+    {
+      "id": "msg_0777_00112",
+      "de_DE": [
+        "Letzte Woche gab es keine\n",
+        "Plaza-Umfrage.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00113",
+      "de_DE": [
+        "Das Thema der Plaza-Umfrage der\n",
+        "letzten Woche war...\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00114",
+      "de_DE": [
+        "Schauen wir uns an, wie unsere\n",
+        "Besucher geantwortet haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00115",
+      "de_DE": [
+        "Das Thema der Sonder-Plaza-Umfrage\n",
+        "der letzten Woche war...\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00116",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0777_00117",
+      "de_DE": [
+        "Hier sind die Ergebnisse der Plaza-\n",
+        "Umfrage der letzten Woche.\r",
+        "Sie reflektieren die Summe der\n",
+        "Ergebnisse aller Wi-Fi Plazas.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00118",
+      "de_DE": [
+        "Hier sind die Ergebnisse der Sonder-\n",
+        "Plaza-Umfrage der letzten Woche.\r",
+        "Sie reflektieren die Summe der\n",
+        "Ergebnisse aller Wi-Fi Plazas.\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00119",
+      "de_DE": "ERGEBN. D. LETZTEN WOCHE"
+    },
+    {
+      "id": "msg_0777_00120",
+      "de_DE": [
+        "Wir freuen uns auf eine rege Teilnahme\n",
+        "bei unserer nächsten Plaza-Umfrage!\r"
+      ]
+    },
+    {
+      "id": "msg_0777_00121",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0777_00122",
+      "de_DE": "Die Plaza-Umfrage ist nun geschlossen.\r"
+    },
+    {
+      "id": "msg_0777_00123",
+      "garbage": 39
+    },
+    {
+      "id": "msg_0777_00124",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} erhielt {STRVAR_3 2, 1, 0}."
+    },
+    {
+      "id": "msg_0777_00125",
+      "garbage": 13
+    }
+  ]
+}

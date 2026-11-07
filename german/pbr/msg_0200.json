@@ -1,0 +1,67 @@
+{
+  "key": 28344,
+  "messages": [
+    {
+      "id": "msg_0200_00000",
+      "garbage": 37
+    },
+    {
+      "id": "msg_0200_00001",
+      "de_DE": [
+        "Verbindungsfehler.\n",
+        "\n",
+        "Wenn du im Konnex-Klub warst, wirst du\n",
+        "dorthin zurückgebracht.\n",
+        "Ansonsten wirst du zu deinem letzten\n",
+        "Speicherpunkt zurückgesetzt.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0200_00002",
+      "de_DE": [
+        "Verbindungsfehler. ({STRVAR_1 54, 0})\n",
+        "Bitte schalte das DS-System aus,\n",
+        "starte es neu und versuche es noch\n",
+        "einmal.\n",
+        "\n",
+        "Wenn diese Fehlermeldung weiterhin\n",
+        "erscheint, wende dich bitte an die\n",
+        "Nintendo Konsumentenberatung."
+      ]
+    },
+    {
+      "id": "msg_0200_00003",
+      "de_DE": [
+        "Verbindungsfehler.\n",
+        "\n",
+        "Das Spiel kehrt zum Titelbildschirm\n",
+        "zurück.\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0200_00004",
+      "de_DE": [
+        "Die GTS ist momentan überfüllt.\n",
+        "Bitte versuche es zu einem anderen\n",
+        "Zeitpunkt erneut.\n",
+        "\n",
+        "Bitte drücke den A-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0200_00005",
+      "de_DE": [
+        "Verbindungsfehler.\n",
+        "Bitte schalte das DS-System aus,\n",
+        "starte es neu und versuche es noch\n",
+        "einmal.\n",
+        "\n",
+        "Wenn diese Fehlermeldung weiterhin\n",
+        "erscheint, wende dich bitte an die\n",
+        "Nintendo Konsumentenberatung."
+      ]
+    }
+  ]
+}

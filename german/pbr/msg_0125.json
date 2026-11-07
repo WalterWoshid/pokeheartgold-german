@@ -1,0 +1,125 @@
+{
+  "key": 63855,
+  "messages": [
+    {
+      "id": "msg_0125_00000",
+      "de_DE": [
+        "Willkommen!\n",
+        "Ich werde nicht oft herausgefordert!\r",
+        "Bald wirst du meine Stärke\n",
+        "kennenlernen. Die Stärke des\f",
+        "Arenaleiters von Weideburg!\r",
+        "Ganz genau!\n",
+        "Ich bin Wellenbrecher Marinus!\r",
+        "Meine Pokémon wurden in\n",
+        "stürmischen Gewässern trainiert.\r",
+        "Sie nehmen all deine Attacken hin\n",
+        "und ziehen dich dann hinunter!\r",
+        "Und der Sieg gehört dann uns!\n",
+        "Los, bringen wir es hinter uns!\r"
+      ]
+    },
+    {
+      "id": "msg_0125_00001",
+      "de_DE": [
+        "Die Strömung muss mich nach\n",
+        "unten gezogen haben...\r",
+        "Aber der Kampf mit dir hat mir\n",
+        "sehr viel Spaß gemacht!\r",
+        "Hier, das hast du dir verdient!\r"
+      ]
+    },
+    {
+      "id": "msg_0125_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält den\n",
+        "Fennorden von Marinus!"
+      ]
+    },
+    {
+      "id": "msg_0125_00003",
+      "de_DE": [
+        "Dank des Fennordens kannst du\n",
+        "nun auch die Versteckte Maschine\r",
+        "Auflockern außerhalb eines Kampfes\n",
+        "einsetzen.\r",
+        "Das ist eine besondere Belohnung,\n",
+        "die ich dir gebe, da dein Team\f",
+        "außergewöhnlich ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0125_00004",
+      "de_DE": [
+        "{STRVAR_1 8, 0} enthält die Attacke\n",
+        "{STRVAR_1 6, 1}.\r",
+        "Sie fügt doppelten Schaden zu,\n",
+        "wenn der Gegner nur noch die\f",
+        "Hälfte seiner KP besitzt.\r",
+        "Damit kannst du Kämpfe effektiv\n",
+        "beenden!"
+      ]
+    },
+    {
+      "id": "msg_0125_00005",
+      "de_DE": [
+        "Es gibt genauso viele Arten zu kämpfen\n",
+        "und zu siegen, wie es Trainer gibt.\r",
+        "Möchtest du wissen, wie ich kämpfe?\n",
+        "Ich kämpfe so, dass ich am Ende sagen\r",
+        "kann: “Es hat Spaß gemacht!” Egal,\n",
+        "ob ich gewonnen oder verloren habe!"
+      ]
+    },
+    {
+      "id": "msg_0125_00006",
+      "de_DE": [
+        "Marinus, der Arenaleiter... äh, ich\n",
+        "meine Wellenbrecher Marinus, ist\f",
+        "der Meister der Wasser-Pokémon.\r",
+        "Ich sage ja, dass du verdammt viel\n",
+        "Mut besitzt, wenn du versuchst,\r",
+        "seine Pokémon mit Feuer- oder\n",
+        "Boden-Pokémon zu besiegen!\r",
+        "Aber letztendlich ist das natürlich\n",
+        "deine Entscheidung.\r",
+        "Ich wünsche dir einen guten Kampf!"
+      ]
+    },
+    {
+      "id": "msg_0125_00007",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0}!\n",
+        "Du hast den Arenaleiter besiegt!\r",
+        "Sag, wie war es?!?\r",
+        "Hast du den Kampf gegen Marinus...\n",
+        "äh, Wellenbrecher Marinus genossen?\r",
+        "Sicher, zu gewinnen ist schon wichtig,\n",
+        "aber man sollte auch sehen, dass\f",
+        "man Spaß am Kampf hat!\r",
+        "Ich glaube, Marinus... ich meine, \n",
+        "Wellenbrecher Marinus hat dir\f",
+        "gezeigt, was ich mit Spaß meine."
+      ]
+    },
+    {
+      "id": "msg_0125_00008",
+      "de_DE": [
+        "Pokémon Arena Weideburg\n",
+        "Leiter: Wellenbrecher Marinus\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 0}"
+      ]
+    },
+    {
+      "id": "msg_0125_00009",
+      "de_DE": [
+        "Pokémon Arena Weideburg\n",
+        "Leiter: Wellenbrecher Marinus\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 0}\f",
+        "{STRVAR_1 3, 1}"
+      ]
+    }
+  ]
+}

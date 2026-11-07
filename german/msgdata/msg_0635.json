@@ -1,0 +1,433 @@
+{
+  "key": 46175,
+  "messages": [
+    {
+      "id": "msg_0635_00000",
+      "de_DE": [
+        "Äh...\n",
+        "Wer warst du gleich noch mal?\r",
+        "... ... ...\n",
+        "... ... ...\r",
+        "Und wer bin überhaupt ich? Ach ja!\n",
+        "Ich bin der Attacken-Verlerner!\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00001",
+      "de_DE": [
+        "Soll ich eins deiner Pokémon eine\n",
+        "Attacke vergessen lassen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00002",
+      "de_DE": [
+        "Welches Pokémon soll eine Attacke\n",
+        "vergessen?\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00003",
+      "de_DE": [
+        "Komm wieder, wenn es Attacken\n",
+        "gibt, die vergessen werden sollen."
+      ]
+    },
+    {
+      "id": "msg_0635_00004",
+      "de_DE": [
+        "Dieses Pokémon kennt nur eine Attacke,\n",
+        "daher kann es keine vergessen...\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00005",
+      "de_DE": [
+        "Was?\n",
+        "Ein Ei kennt doch keine Attacken!\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00006",
+      "de_DE": "Welche Attacke soll vergessen werden?\r"
+    },
+    {
+      "id": "msg_0635_00007",
+      "de_DE": [
+        "Hm! {STRVAR_1 6, 0, 0}?\n",
+        "Diese Attacke vergessen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00008",
+      "de_DE": [
+        "Das klappte doch perfekt!\r",
+        "Dein Pokémon hat {STRVAR_1 6, 0, 0}\n",
+        "komplett vergessen."
+      ]
+    },
+    {
+      "id": "msg_0635_00009",
+      "de_DE": [
+        "Mein Name? Du kannst mich den\n",
+        "Attackenmaniac nennen!\r",
+        "Ich kenne alle Attacken, die ein\n",
+        "Pokémon lernen kann.\r",
+        "Deshalb kann ich deinen Pokémon\n",
+        "selbst Attacken beibringen, die sie\f",
+        "schon einmal vergessen haben, hehe!\r",
+        "Aber alles hat seinen Preis!\r",
+        "Für jede Attacke, die ich einem deiner\n",
+        "Pokémon beibringe, verlange ich als\f",
+        "Gegenleistung, dass du mir eine\f",
+        "Herzschuppe mitbringst!"
+      ]
+    },
+    {
+      "id": "msg_0635_00010",
+      "de_DE": [
+        "Oh! Das ist es! Das ist ehrlich und\n",
+        "wahrhaftig eine Herzschuppe!\f",
+        "Lass mich raten...\r",
+        "Ich soll einem Pokémon eine\n",
+        "alte Attacke beibringen?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00011",
+      "de_DE": [
+        "Komm mit einer Herzschuppe wieder, wenn\n",
+        "ich einem deiner Pokémon mit einer alten\f",
+        "Attacke auf die Sprünge helfen soll!"
+      ]
+    },
+    {
+      "id": "msg_0635_00012",
+      "de_DE": [
+        "Welches Pokémon soll sich an\n",
+        "eine alte Attacke erinnern?\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00013",
+      "de_DE": [
+        "An welche Attacke soll es sich\n",
+        "wieder erinnern?\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00014",
+      "de_DE": [
+        "Tut mir leid...\r",
+        "Anscheinend gibt es keine Attacke, an\n",
+        "die ich das Pokémon wieder erinnern\f",
+        "könnte."
+      ]
+    },
+    {
+      "id": "msg_0635_00015",
+      "de_DE": [
+        "Hm?\r",
+        "Ein Ei hat normalerweise noch keine\n",
+        "Attacken vergessen.\r",
+        "Es ist schließlich noch ein Ei."
+      ]
+    },
+    {
+      "id": "msg_0635_00016",
+      "garbage": 24
+    },
+    {
+      "id": "msg_0635_00017",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0635_00018",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0635_00019",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0635_00020",
+      "garbage": 91
+    },
+    {
+      "id": "msg_0635_00021",
+      "garbage": 34
+    },
+    {
+      "id": "msg_0635_00022",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0635_00023",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0635_00024",
+      "garbage": 79
+    },
+    {
+      "id": "msg_0635_00025",
+      "de_DE": [
+        "{STRVAR_1 3, 3, 0} gibt im Austausch dafür\n",
+        "eine Herzschuppe ab."
+      ]
+    },
+    {
+      "id": "msg_0635_00026",
+      "de_DE": [
+        "Hihihi... ich bin Oma Ma!\r",
+        "Kind, ich kann spüren, dass du\n",
+        "das Zeug zum Drachen-Profi hättest!\r",
+        "Ich sag dir was...\n",
+        "Soll ich einem deiner Pokémon eine\f",
+        "Attacke aus meinem Repertoire\f",
+        "beibringen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00027",
+      "de_DE": [
+        "Oh, du bist es...\r",
+        "Soll ich einem deiner Pokémon die\n",
+        "mächtige Attacke vom Typ Drachen\f",
+        "aus meinem Repertoire beibringen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00028",
+      "de_DE": [
+        "Na gut, in Ordnung. Komm wieder, wenn\n",
+        "du es dir anders überlegt hast!"
+      ]
+    },
+    {
+      "id": "msg_0635_00029",
+      "de_DE": [
+        "Schön... ich mag deine Einstellung!\r",
+        "Aber in deinem aktuellen Team gibt\n",
+        "es leider kein Pokémon, das diese\f",
+        "Attacke erlernen könnte!"
+      ]
+    },
+    {
+      "id": "msg_0635_00030",
+      "de_DE": [
+        "Welchem Pokémon soll ich die\n",
+        "Attacke beibringen?\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00031",
+      "de_DE": [
+        "Oh, Verzeihung...\r",
+        "Du hast zwar ein Pokémon, das diese\n",
+        "Attacke erlernen könnte, aber ich\f",
+        "befürchte, es hat sich noch nicht so\f",
+        "richtig mit dir anfreunden können...\r",
+        "Deshalb kann ich ihm meine Attacke\n",
+        "auch noch nicht beibringen."
+      ]
+    },
+    {
+      "id": "msg_0635_00032",
+      "de_DE": [
+        "Oh, Verzeihung...\r",
+        "Dieses Pokémon kann meine Attacke\n",
+        "leider nicht erlernen."
+      ]
+    },
+    {
+      "id": "msg_0635_00033",
+      "de_DE": [
+        "Hm, sei mir nicht böse, aber...\r",
+        "Es wäre vergebene Mühe zu versuchen,\n",
+        "einem Ei diese Attacke beizubringen."
+      ]
+    },
+    {
+      "id": "msg_0635_00034",
+      "de_DE": [
+        "Oh, warte mal eben! Dieses Pokémon\n",
+        "hat {STRVAR_1 6, 0, 0} schon gelernt!"
+      ]
+    },
+    {
+      "id": "msg_0635_00035",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0635_00036",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0635_00037",
+      "garbage": 88
+    },
+    {
+      "id": "msg_0635_00038",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0635_00039",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0635_00040",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0635_00041",
+      "garbage": 76
+    },
+    {
+      "id": "msg_0635_00042",
+      "de_DE": [
+        "Die Attacke Draco Meteor verfügt\n",
+        "über ein wahrlich erdrückendes\f",
+        "Maß an Macht!\r",
+        "Wenn dein Pokémon sie einsetzt, sinkt\n",
+        "dabei aber leider auch die Kraft seiner\f",
+        "Spezialangriffe."
+      ]
+    },
+    {
+      "id": "msg_0635_00043",
+      "de_DE": [
+        "Führt dich dein Verlangen, stärker\n",
+        "zu werden, her zu mir?\r",
+        "...Nun gut.\r",
+        "Dein Enthusiasmus soll belohnt werden.\r",
+        "Ich werde einem deiner Pokémon eine\n",
+        "ultimativ mächtige Attacke beibringen!\r",
+        "Bist du damit einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00044",
+      "de_DE": [
+        "Die ultimative Attacke wartet auf dich!\n",
+        "Soll ich sie einem deiner Pokémon\f",
+        "beibringen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00045",
+      "de_DE": [
+        "Welchem deiner Pokémon soll ich\n",
+        "die Attacke beibringen?\r"
+      ]
+    },
+    {
+      "id": "msg_0635_00046",
+      "de_DE": [
+        "Hmpf, na gut, wie du willst...\n",
+        "Aber komm ruhig zurück, wenn du es\f",
+        "dir anders überlegen solltest!"
+      ]
+    },
+    {
+      "id": "msg_0635_00047",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0635_00048",
+      "de_DE": [
+        "Diesem Pokémon kann ich die Attacke\n",
+        "nicht beibringen, in Ordnung?\f",
+        "Lies gefälligst die Aufzeichnungen dort!\f",
+        "Hrmpf!!"
+      ]
+    },
+    {
+      "id": "msg_0635_00049",
+      "de_DE": [
+        "Nicht einmal ich kann einem Ei eine\n",
+        "Attacke beibringen, okay? Hrmpf!!"
+      ]
+    },
+    {
+      "id": "msg_0635_00050",
+      "de_DE": [
+        "Du bist mit diesem Pokémon noch nicht\n",
+        "gut genug befreundet! Hrmpf!!"
+      ]
+    },
+    {
+      "id": "msg_0635_00051",
+      "de_DE": [
+        "Dieses Pokémon hat die Attacke\n",
+        "schon gelernt, okay? Hrmpf!!"
+      ]
+    },
+    {
+      "id": "msg_0635_00052",
+      "de_DE": [
+        "Dann bringe ich {STRVAR_1 0, 0, 0} jetzt\n",
+        "Lohekanonade bei, okay? Hrmpf! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00053",
+      "de_DE": [
+        "Dann bringe ich {STRVAR_1 0, 0, 0} jetzt\n",
+        "Aquahaubitze bei, okay? Hrmpf!! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00054",
+      "de_DE": [
+        "Dann bringe ich {STRVAR_1 0, 0, 0} jetzt\n",
+        "Fauna-Statue bei, okay? Hrmpf! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0635_00055",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0635_00056",
+      "garbage": 88
+    },
+    {
+      "id": "msg_0635_00057",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0635_00058",
+      "garbage": 76
+    },
+    {
+      "id": "msg_0635_00059",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0635_00060",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0635_00061",
+      "de_DE": [
+        "Bringe einem der hier verzeichneten\n",
+        "Pokémon die ultimative Attacke bei!\f",
+        "Kategorie “Loderndes Feuer”:\r",
+        "GLURAK, TORNUPTO, LOHGOCK, PANFERNO.\n",
+        "Kategorie “Plätscherndes Wasser”:\r",
+        "TURTOK, IMPERGATOR, SUMPEX, IMPOLEON.\n",
+        "Kategorie “Grüne Pflanzen”:\r",
+        "BISAFLOR, MEGANIE, GEWALDRO,\n",
+        "CHELTERRAR."
+      ]
+    },
+    {
+      "id": "msg_0635_00062",
+      "de_DE": [
+        "Dann bringe ich die Attacke nun also\n",
+        "{STRVAR_1 0, 0, 0} bei...\r"
+      ]
+    }
+  ]
+}

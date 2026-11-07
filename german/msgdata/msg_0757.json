@@ -1,0 +1,124 @@
+{
+  "key": 49372,
+  "messages": [
+    {
+      "id": "msg_0757_00000",
+      "de_DE": "{COLOR 1}PLAZA-NACHRICHTEN{COLOR 0}"
+    },
+    {
+      "id": "msg_0757_00001",
+      "de_DE": "ZEIT"
+    },
+    {
+      "id": "msg_0757_00002",
+      "de_DE": [
+        "PERS.\n",
+        "ANW."
+      ]
+    },
+    {
+      "id": "msg_0757_00003",
+      "de_DE": "AKTUELLE SCHLAGZEILEN"
+    },
+    {
+      "id": "msg_0757_00004",
+      "garbage": 74
+    },
+    {
+      "id": "msg_0757_00005",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} sucht nach Mitspielern... Plätze verfügbar: {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00006",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} und {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} spielen gerade..."
+    },
+    {
+      "id": "msg_0757_00007",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} und {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} unterhalten sich gerade..."
+    },
+    {
+      "id": "msg_0757_00008",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} teilte {COLOR 1}{STRVAR_3 2, 2, 0}{COLOR 0} mit {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00009",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} ist beigetreten... Plätze verfügbar: {COLOR 1}{STRVAR_1 50, 2, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00010",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0} und {COLOR 5}{STRVAR_1 3, 3, 0}{COLOR 0} prüfen {COLOR 1}{STRVAR_3 0, 4, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00011",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} und {COLOR 4}{STRVAR_1 3, 2, 0}{COLOR 0} prüfen {COLOR 1}{STRVAR_3 0, 3, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00012",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} und {COLOR 3}{STRVAR_1 3, 1, 0}{COLOR 0} prüfen {COLOR 1}{STRVAR_3 0, 2, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00013",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} prüft {COLOR 1}{STRVAR_3 0, 1, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00014",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} prüft {COLOR 1}{STRVAR_3 0, 1, 0}{COLOR 0}..."
+    },
+    {
+      "id": "msg_0757_00015",
+      "de_DE": "Bald ist es so weit. {COLOR 1}{STRVAR_3 1, 0, 0}{COLOR 0} auf dem Wi-Fi Plaza steht kurz bevor..."
+    },
+    {
+      "id": "msg_0757_00016",
+      "de_DE": "Bald ist es so weit. {COLOR 1}{STRVAR_3 1, 0, 0}{COLOR 0} auf dem Wi-Fi Plaza steht kurz bevor..."
+    },
+    {
+      "id": "msg_0757_00017",
+      "de_DE": "Der Wi-Fi Plaza wird bald geschlossen. Wir freuen uns auf deinen nächsten Besuch."
+    },
+    {
+      "id": "msg_0757_00018",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} und {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} spielen gerade..."
+    },
+    {
+      "id": "msg_0757_00019",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} und {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} spielen gerade..."
+    },
+    {
+      "id": "msg_0757_00020",
+      "de_DE": "Bald ist es so weit. {COLOR 1}{STRVAR_3 1, 0, 0}{COLOR 0} auf dem Wi-Fi Plaza steht kurz bevor..."
+    },
+    {
+      "id": "msg_0757_00021",
+      "de_DE": "{COLOR 1}Ein ganz besonderer Gast{COLOR 0} ist anscheinend eingetroffen..."
+    },
+    {
+      "id": "msg_0757_00022",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} hat gewonnen..."
+    },
+    {
+      "id": "msg_0757_00023",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} und {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} haben zehn oder mehr Ballons zum Platzen gebracht..."
+    },
+    {
+      "id": "msg_0757_00024",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} und {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} haben gewonnen..."
+    },
+    {
+      "id": "msg_0757_00025",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} und {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} haben gewonnen..."
+    },
+    {
+      "id": "msg_0757_00026",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0}, {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} und {COLOR 5}{STRVAR_1 3, 4, 0}{COLOR 0} haben gewonnen..."
+    },
+    {
+      "id": "msg_0757_00027",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} und {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} haben zehn oder mehr Ballons zum Platzen gebracht..."
+    },
+    {
+      "id": "msg_0757_00028",
+      "de_DE": "{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0}, {COLOR 3}{STRVAR_1 3, 2, 0}{COLOR 0} und {COLOR 4}{STRVAR_1 3, 3, 0}{COLOR 0} haben zehn oder mehr Ballons zum Platzen gebracht..."
+    }
+  ]
+}

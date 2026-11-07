@@ -1,0 +1,220 @@
+{
+  "key": 42019,
+  "messages": [
+    {
+      "id": "msg_0236_00000",
+      "de_DE": [
+        "Auf dem Platz der Treue kannst du mit\n",
+        "einem anmutigen Pokémon spazieren\f",
+        "gehen.\r",
+        "Erlaubt sind: PIKACHU, PIEPI, ENTON,\n",
+        "PACHIRISU, WONNEIRA, HASPIROR und\f",
+        "DRIFTLON.\r",
+        "Bitte komme mit einem von ihnen wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0236_00001",
+      "de_DE": [
+        "Auf dem Platz der Treue kannst du mit\n",
+        "einem anmutigen Pokémon spazieren\f",
+        "gehen.\r",
+        "Erlaubt sind: PIKACHU, PIEPI, ENTON,\n",
+        "PACHIRISU, WONNEIRA, HASPIROR,\r",
+        "DRIFTLON, PUMMELUFF, FLEMMLI, ENECO\n",
+        "und KNILZ.\r",
+        "Bitte komme mit einem von ihnen wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0236_00002",
+      "de_DE": [
+        "Auf dem Platz der Treue kannst du mit\n",
+        "einem anmutigen Pokémon spazieren\f",
+        "gehen.\r",
+        "Nun? Möchtest du mit deinem\n",
+        "{STRVAR_1 1, 0} spazieren gehen?"
+      ]
+    },
+    {
+      "id": "msg_0236_00003",
+      "de_DE": [
+        "Genießt die Zeit zu zweit.\n",
+        "Viel Vergnügen!\r"
+      ]
+    },
+    {
+      "id": "msg_0236_00004",
+      "de_DE": [
+        "Aha. Möchtest du dann lieber mit\n",
+        "{STRVAR_1 1, 0} spazieren gehen?"
+      ]
+    },
+    {
+      "id": "msg_0236_00005",
+      "de_DE": [
+        "Verstehe. Komm wieder, wenn du deine\n",
+        "Meinung geändert hast. Okay?\r"
+      ]
+    },
+    {
+      "id": "msg_0236_00006",
+      "de_DE": [
+        "Und, war es schön? Bestimmt!\n",
+        "Dann bis zum nächsten Mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0236_00007",
+      "de_DE": [
+        "Dein {STRVAR_1 1, 0} freut sich, bei dir\n",
+        "sein zu können.\r",
+        "Es ist aber auch putzig!"
+      ]
+    },
+    {
+      "id": "msg_0236_00008",
+      "de_DE": [
+        "Der Besitzer des Platzes der Treue?\r",
+        "Der muss irgendwo hier sein.\r",
+        "Trainer mit ihren Pokémon zu sehen\n",
+        "macht ihn sehr glücklich."
+      ]
+    },
+    {
+      "id": "msg_0236_00009",
+      "de_DE": [
+        "Mitunter gibt es nützliche Items auf dem\n",
+        "Boden. Aber sie sind sehr klein.\r",
+        "Dein Pokémon kann sie jedoch finden.\n",
+        "Sprich öfter mal mit ihm. Es lohnt sich."
+      ]
+    },
+    {
+      "id": "msg_0236_00010",
+      "de_DE": [
+        "Genießt du den Spaziergang?\r",
+        "Du solltest versuchen, mit deinem\n",
+        "Pokémon zu sprechen.\r",
+        "Das macht es glücklich."
+      ]
+    },
+    {
+      "id": "msg_0236_00011",
+      "de_DE": [
+        "Es ist so schön, all die anmutigen\n",
+        "Pokémon und ihre freundlichen Trainer\f",
+        "zu sehen."
+      ]
+    },
+    {
+      "id": "msg_0236_00012",
+      "de_DE": [
+        "Du kannst auf dem Platz der Treue\n",
+        "bleiben, so lange du willst."
+      ]
+    },
+    {
+      "id": "msg_0236_00013",
+      "de_DE": "{STRVAR_1 1, 0} begleitet dich gerne."
+    },
+    {
+      "id": "msg_0236_00014",
+      "de_DE": "{STRVAR_1 1, 0} sieht sehr glücklich aus."
+    },
+    {
+      "id": "msg_0236_00015",
+      "de_DE": "{STRVAR_1 1, 0} fühlt sich wohl."
+    },
+    {
+      "id": "msg_0236_00016",
+      "de_DE": "{STRVAR_1 1, 0} schaut dich zärtlich an."
+    },
+    {
+      "id": "msg_0236_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 0} scharrt aus irgendeinem\n",
+        "Grund am Boden..."
+      ]
+    },
+    {
+      "id": "msg_0236_00018",
+      "de_DE": "{STRVAR_1 1, 0} wäre fast gestolpert!"
+    },
+    {
+      "id": "msg_0236_00019",
+      "de_DE": "{STRVAR_1 1, 0} hüpft fröhlich umher."
+    },
+    {
+      "id": "msg_0236_00020",
+      "de_DE": [
+        "{STRVAR_1 1, 0} ist so gut gelaunt, dass\n",
+        "es kaum stillhalten kann."
+      ]
+    },
+    {
+      "id": "msg_0236_00021",
+      "de_DE": "{STRVAR_1 1, 0} genießt den Spaziergang."
+    },
+    {
+      "id": "msg_0236_00022",
+      "de_DE": [
+        "Oh?\n",
+        "{STRVAR_1 1, 0} hält etwas!\r"
+      ]
+    },
+    {
+      "id": "msg_0236_00023",
+      "de_DE": [
+        "Das sind Ruinen aus längst vergangener\n",
+        "Zeit."
+      ]
+    },
+    {
+      "id": "msg_0236_00024",
+      "de_DE": "DRIFTLON: Floon!"
+    },
+    {
+      "id": "msg_0236_00025",
+      "de_DE": [
+        "Ich komme mit meinem WONNEIRA jeden Tag\n",
+        "hierher!\r",
+        "Hier kann es laufen und spielen, ohne\n",
+        "dass ich mir Sorgen machen muss."
+      ]
+    },
+    {
+      "id": "msg_0236_00026",
+      "de_DE": "WONNEIRA scheint müde zu sein."
+    },
+    {
+      "id": "msg_0236_00027",
+      "de_DE": [
+        "Oh, ich kann es kaum glauben!\n",
+        "Ich bin so glücklich mit meinem PIKACHU!\r",
+        "Wohin ich auch gehe, mein PIKACHU folgt\n",
+        "mir ohne Zögern!\r",
+        "Hahaha! Ja, wir zwei beiden...\n",
+        "Juhuu!"
+      ]
+    },
+    {
+      "id": "msg_0236_00028",
+      "de_DE": "PIKACHU: Pikka pika!"
+    },
+    {
+      "id": "msg_0236_00029",
+      "de_DE": [
+        "Sprich mit deinem Pokémon.\n",
+        "Manchmal findet es sogar Items."
+      ]
+    },
+    {
+      "id": "msg_0236_00030",
+      "de_DE": [
+        "PIEPI hat etwas Glänzendes in seinen\n",
+        "Händen..."
+      ]
+    }
+  ]
+}

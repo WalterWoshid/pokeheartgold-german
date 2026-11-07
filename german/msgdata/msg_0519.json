@@ -1,0 +1,180 @@
+{
+  "key": 18187,
+  "messages": [
+    {
+      "id": "msg_0519_00000",
+      "de_DE": [
+        "Wer bist du denn?\r",
+        "Mein Name ist Blau.\n",
+        "Es gab mal eine Zeit, als ich ganz Kanto\f",
+        "bezwungen hatte und der Champ war.\r",
+        "...Aber um ehrlich zu sein, hat mir dann\n",
+        "dieser dumme Rot dazwischengefunkt.\f",
+        "Der Spaß war nur von kurzer Dauer...\r",
+        "Und nun schau dir an, wo ich bin...\r"
+      ]
+    },
+    {
+      "id": "msg_0519_00001",
+      "de_DE": [
+        "Blau: Ein mickriger Vulkanausbruch war\n",
+        "bereits genug, um die gesamte Stadt\f",
+        "zu pulverisieren.\r",
+        "Die Natur musste nicht viel mehr tun,\n",
+        "als kurz den Erdboden zu erschüttern,\f",
+        "und schon waren wir alle heimatlos, egal\f",
+        "wie gut unsere Pokémon trainiert waren.\r",
+        "... ... ...\n",
+        "...Aber ich kann es nicht leugnen...\f",
+        "In meinen Adern fließt Trainerblut!\f",
+        "Wenn ich einen starken Gegner treffe,\f",
+        "dann will ich auch gegen ihn kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0519_00002",
+      "de_DE": [
+        "Hör mal... wenn du es ernst meinst und\n",
+        "du echt gegen mich kämpfen willst, dann\f",
+        "komm in die Arena von Vertania City!\r"
+      ]
+    },
+    {
+      "id": "msg_0519_00003",
+      "de_DE": [
+        "Ich gehe schon mal vor und warte\n",
+        "dort auf dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0519_00004",
+      "de_DE": [
+        "Hör mal... Wenn du es ernst meinst und\n",
+        "du echt gegen mich kämpfen willst, dann\f",
+        "zeige doch mal, wie viele Orden du dir\f",
+        "in den Arenen von Kanto erkämpft hast!\r",
+        "... ... ...\n",
+        "In Ordnung, {STRVAR_1 50, 0, 0} Stück hast du also...\r",
+        "Das reicht mir noch nicht, um dich gegen\n",
+        "mich kämpfen zu lassen."
+      ]
+    },
+    {
+      "id": "msg_0519_00005",
+      "de_DE": [
+        "Blau: Du sollst gegen Rot gekämpft\n",
+        "und tatsächlich gewonnen haben!\r",
+        "Toll! Was sagst du, wollen wir nicht\n",
+        "zusammen ein Foto schießen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0519_00006",
+      "de_DE": "Blau: Alles klar, es kann losgehen!\r"
+    },
+    {
+      "id": "msg_0519_00007",
+      "de_DE": [
+        "Blau: Vielen Dank! Das Foto ist\n",
+        "ziemlich gut geworden!"
+      ]
+    },
+    {
+      "id": "msg_0519_00008",
+      "de_DE": "Blau: Verstehe..."
+    },
+    {
+      "id": "msg_0519_00009",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    },
+    {
+      "id": "msg_0519_00010",
+      "de_DE": [
+        "Pyro: Irgendwann kommt der Tag, an\n",
+        "dem hier auf der Zinnoberinsel wieder\f",
+        "meine ganz eigene Arena stehen wird!\r",
+        "Komm, lass uns Telefonnummern\n",
+        "austauschen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0519_00011",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Pyros Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0519_00012",
+      "de_DE": [
+        "Pyro: Okay, lass mal überlegen.\n",
+        "Wie wäre es mit Dienstagmittag\f",
+        "für unseren nächsten Kampf?"
+      ]
+    },
+    {
+      "id": "msg_0519_00013",
+      "de_DE": "Pyro: Hm... das ist schade!"
+    },
+    {
+      "id": "msg_0519_00014",
+      "de_DE": [
+        "Pyro: Wollen wir Telefonnummern\n",
+        "austauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0519_00015",
+      "de_DE": [
+        "Pyro: Oh, du bist es! Was sagst du,\n",
+        "hättest du nicht Lust, mit mir ein\f",
+        "Erinnerungsfoto aufzunehmen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0519_00016",
+      "de_DE": [
+        "Pyro: In Ordnung, dann stelle dich doch\n",
+        "mal hierüber zu mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0519_00017",
+      "de_DE": "Pyro: Oooh! Das Foto ist echt toll!"
+    },
+    {
+      "id": "msg_0519_00018",
+      "de_DE": "Pyro: Heeey, was soll das denn?!"
+    },
+    {
+      "id": "msg_0519_00019",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    },
+    {
+      "id": "msg_0519_00020",
+      "de_DE": [
+        "...Da hängt eine Nachricht!\r",
+        "Die Arena der Zinnoberinsel ist auf\n",
+        "die Seeschauminseln umgezogen!\f",
+        "- Pyro"
+      ]
+    },
+    {
+      "id": "msg_0519_00021",
+      "de_DE": [
+        "Die Zinnoberinselsiedlung\n",
+        "Die Stadt, die einmal war"
+      ]
+    }
+  ]
+}

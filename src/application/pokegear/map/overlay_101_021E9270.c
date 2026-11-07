@@ -1102,7 +1102,7 @@ void PokegearMap_PrintLandmarkNameAndFlavorText(PokegearMapAppData *mapApp, int 
         AddTextPrinterParameterizedWithColor(&mapApp->windows[7], FONT_SYSTEM, mapApp->chooseDestinationString, 8, 0, TEXT_SPEED_INSTANT, MAKE_TEXT_COLOR(3, 2, 0), NULL);
     } else {
         PokegearMap_GetLandmarkNameFromMapID(mapID, mapApp->heapID, mapApp->mapNameString);
-        BufferString(mapApp->msgFormat, 0, mapApp->mapNameString, 0, 0, 2);
+        BufferString(mapApp->msgFormat, 0, mapApp->mapNameString, 0, 0, GAME_LANGUAGE);
         StringExpandPlaceholders(mapApp->msgFormat, mapApp->flavorTextString, mapApp->flyToLocationString);
         AddTextPrinterParameterizedWithColor(&mapApp->windows[7], FONT_SYSTEM, mapApp->flavorTextString, 8, 0, TEXT_SPEED_INSTANT, MAKE_TEXT_COLOR(3, 2, 0), NULL);
     }

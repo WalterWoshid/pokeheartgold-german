@@ -1,0 +1,171 @@
+{
+  "key": 9287,
+  "messages": [
+    {
+      "id": "msg_0364_00000",
+      "de_DE": [
+        "Hm?\n",
+        "Bist du hier, um meinen Enkel zu sehen?\r",
+        "Sein Name ist Bill, und er macht in Johto\n",
+        "beruflich... irgendwas mit Computern.\r",
+        "Deshalb hüte ich hier das Haus für ihn.\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00001",
+      "de_DE": [
+        "Ach ja, mein Enkel erwähnte, dass es\n",
+        "irgendwo ein kugelrundes Pokémon mit\f",
+        "dunklem Körper geben soll,\f",
+        "dem Blätter auf dem Kopf wachsen.\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00002",
+      "de_DE": [
+        "Bill zufolge soll es da dieses Pokémon\n",
+        "geben, das seinem Trainer gegenüber\f",
+        "sehr loyal ist und im wahrsten Sinne des\f",
+        "Wortes ein echter Brüller sein soll.\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00003",
+      "de_DE": [
+        "Ich habe gehört, es soll da ein Pokémon\n",
+        "mit großen, runden Kulleraugen geben.\r",
+        "Ein Pokémon, das mit seiner säuselnden\n",
+        "Stimme Schlaflieder anstimmen kann...\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00004",
+      "de_DE": [
+        "Du kennst doch auch dieses Pokémon,\n",
+        "das gerade der letzte Schrei ist, oder?\r",
+        "Du weißt schon, dieses eine mit dem\n",
+        "gelben Rumpf und den knallroten Wangen.\r",
+        "Ich würde nur zu gerne mal eins von\n",
+        "denen sehen, bevor es sich entwickelt.\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00005",
+      "de_DE": [
+        "Ich habe gehört, dass es in Johto ein\n",
+        "rundes, blaues Pokémon geben soll...\r",
+        "Angeblich setzt es das Ende seines\n",
+        "Schweifs wie einen Schwimmreifen ein!\r",
+        "Als weitere Besonderheit soll es nur am\n",
+        "Bauch, und nirgendwo sonst, weiß sein.\r",
+        "Ach ja, das würde ich gerne mal sehen!\n",
+        "Wenigstens einmal im Leben!\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00006",
+      "de_DE": [
+        "Mein Enkel Bill hat mir von einem\n",
+        "Pokémon mit einer laaangen\f",
+        "Schleckerzunge erzählt!\r",
+        "Er sagte außerdem, dass es am\n",
+        "Fuß ein kreisförmiges Zeichen hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00007",
+      "de_DE": [
+        "Ach ja, mein Enkel erwähnte, dass es\n",
+        "irgendwo ein kugelrundes Pokémon mit\f",
+        "dunklem Körper geben soll,\f",
+        "dem Blätter auf dem Kopf wachsen.\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00008",
+      "de_DE": [
+        "Kennst du ein Wasser-Pokémon, das\n",
+        "eine rote Kugel am Körper trägt?\f",
+        "Es sieht aus wie ein Stern!\r",
+        "Angeblich zeigt es sich nur nachts.\n",
+        "Das würde ich zu gerne mal sehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00009",
+      "de_DE": [
+        "Es soll da dieses wirklich zierliche\n",
+        "Pokémon mit sechs Schweifen geben...\r",
+        "Das würde ich auch gerne zumindest\n",
+        "einmal ein bisschen knuddeln!\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00010",
+      "de_DE": [
+        "Du kennst doch auch dieses Pokémon,\n",
+        "das gerade der letzte Schrei ist, oder?\r",
+        "Du weißt schon, dieses eine mit dem\n",
+        "gelben Rumpf und den knallroten Wangen.\r",
+        "Ich würde nur zu gerne mal eins von\n",
+        "denen sehen, bevor es sich entwickelt.\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00011",
+      "de_DE": [
+        "Hast du so ein Pokémon? Wenn ja,\n",
+        "dann würde ich es gerne sehen... {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0364_00012",
+      "de_DE": [
+        "Oh, du willst mir echt eins zeigen?\n",
+        "Wie lieb von dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00013",
+      "de_DE": "Ach so, schade..."
+    },
+    {
+      "id": "msg_0364_00014",
+      "de_DE": [
+        "Hm...\r",
+        "Ich glaube, das ist nicht das Pokémon,\n",
+        "von dem ich gehört habe..."
+      ]
+    },
+    {
+      "id": "msg_0364_00015",
+      "de_DE": [
+        "Oh, das ist doch ein {STRVAR_1 0, 0, 0}!\n",
+        "Was für ein tolles Pokémon!\r",
+        "Danke, dass ich das erleben durfte!\n",
+        "Hier hast du ein kleines Dankeschön!\r"
+      ]
+    },
+    {
+      "id": "msg_0364_00016",
+      "de_DE": "Besuche mich bitte mal wieder!"
+    },
+    {
+      "id": "msg_0364_00017",
+      "de_DE": [
+        "Danke, dass du mir so viele niedliche\n",
+        "Pokémon gezeigt hast!\f",
+        "Ich habe mich wirklich gut amüsiert.\r",
+        "Das verleiht mir richtig Lebensenergie!"
+      ]
+    },
+    {
+      "id": "msg_0364_00018",
+      "de_DE": [
+        "Die verstaubte Maschinerie ist\n",
+        "von einer Stoffplane bedeckt...\f",
+        "Sie scheint nicht in Gebrauch zu sein."
+      ]
+    }
+  ]
+}

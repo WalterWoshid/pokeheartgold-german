@@ -1,0 +1,427 @@
+{
+  "key": 10786,
+  "messages": [
+    {
+      "id": "msg_0370_00000",
+      "de_DE": "Willkommen beim Geheimgeschehen!"
+    },
+    {
+      "id": "msg_0370_00001",
+      "de_DE": [
+        "Wähle bitte aus, auf welche Weise du\n",
+        "dein Geschenk erhalten möchtest."
+      ]
+    },
+    {
+      "id": "msg_0370_00002",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung wird\n",
+        "gestartet."
+      ]
+    },
+    {
+      "id": "msg_0370_00003",
+      "de_DE": [
+        "Suche nach Geschenk.\n",
+        "Einen Moment bitte..."
+      ]
+    },
+    {
+      "id": "msg_0370_00004",
+      "de_DE": "Geschenk empfangen?"
+    },
+    {
+      "id": "msg_0370_00005",
+      "de_DE": "Nach einem anderen Geschenk suchen?"
+    },
+    {
+      "id": "msg_0370_00006",
+      "de_DE": [
+        "Deine Anfrage wurde gesendet.\n",
+        "Einen Moment bitte..."
+      ]
+    },
+    {
+      "id": "msg_0370_00007",
+      "de_DE": [
+        "Geschenk wird empfangen.\n",
+        "Bitte schalte das DS-System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0370_00008",
+      "de_DE": [
+        "Das Geschenk wurde empfangen!\r",
+        "Bitte hole das Geschenk in einem\n",
+        "Pokémon-Supermarkt ab."
+      ]
+    },
+    {
+      "id": "msg_0370_00009",
+      "de_DE": [
+        "Dieses Geschenk wird von einer anderen\n",
+        "Person mit dir geteilt.\r",
+        "Du kannst das Geschenk annehmen, aber\n",
+        "du kannst es nicht an deine Freunde\f",
+        "weitergeben.\r",
+        "Möchtest du das Geschenk annehmen?"
+      ]
+    },
+    {
+      "id": "msg_0370_00010",
+      "garbage": 36
+    },
+    {
+      "id": "msg_0370_00011",
+      "de_DE": [
+        "Pokémon Ranger\n",
+        "MANAPHY-Ei-Transfer"
+      ]
+    },
+    {
+      "id": "msg_0370_00012",
+      "de_DE": "GESCHENK EMPFANGEN"
+    },
+    {
+      "id": "msg_0370_00013",
+      "de_DE": "KARTE ÜBERPRÜFEN"
+    },
+    {
+      "id": "msg_0370_00014",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0370_00015",
+      "de_DE": "VON FREUND ERHALTEN"
+    },
+    {
+      "id": "msg_0370_00016",
+      "de_DE": "VON NINTENDO WFC ERH."
+    },
+    {
+      "id": "msg_0370_00017",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0370_00018",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0370_00019",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0370_00020",
+      "de_DE": "DRAHTLOS ERHALTEN"
+    },
+    {
+      "id": "msg_0370_00021",
+      "de_DE": [
+        "Unser Lieferant hat eine ganze Menge\n",
+        "Geschenke für dich!\r",
+        "Bitte suche ihn in einem PKMN-Markt\n",
+        "auf und hole deine Geschenke ab."
+      ]
+    },
+    {
+      "id": "msg_0370_00022",
+      "de_DE": [
+        "Du hast dieses Geschenk bereits\n",
+        "erhalten."
+      ]
+    },
+    {
+      "id": "msg_0370_00023",
+      "de_DE": "Es wurden keine Geschenke gefunden."
+    },
+    {
+      "id": "msg_0370_00024",
+      "de_DE": "Deine Anfrage wurde abgelehnt."
+    },
+    {
+      "id": "msg_0370_00025",
+      "de_DE": [
+        "Du hast keinen Platz mehr für\n",
+        "weitere Wunderkarten.\r",
+        "Du kannst kein weiteres Geschenk\n",
+        "annehmen."
+      ]
+    },
+    {
+      "id": "msg_0370_00026",
+      "de_DE": [
+        "Beim Empfang des Geschenks trat ein\n",
+        "Problem auf.\r",
+        "Drücke den A-Knopf, um zum\n",
+        "Titelbildschirm zurückzukehren."
+      ]
+    },
+    {
+      "id": "msg_0370_00027",
+      "de_DE": [
+        "Geschenk wurde gefunden, kann aber mit\n",
+        "dieser Version nicht empfangen werden.\r",
+        "Drücke den A-Knopf, um zum Menü\n",
+        "zurückzukehren."
+      ]
+    },
+    {
+      "id": "msg_0370_00028",
+      "de_DE": [
+        "Verbindung mit teilender Person\n",
+        "wurde unterbrochen..."
+      ]
+    },
+    {
+      "id": "msg_0370_00029",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0370_00030",
+      "de_DE": "Drücke den A-Knopf."
+    },
+    {
+      "id": "msg_0370_00031",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0370_00032",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0370_00033",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0370_00034",
+      "de_DE": [
+        "Berühre bitte den Spielbildschirm\n",
+        "von Pokémon Ranger."
+      ]
+    },
+    {
+      "id": "msg_0370_00035",
+      "garbage": 39
+    },
+    {
+      "id": "msg_0370_00036",
+      "de_DE": "Wunderkarte"
+    },
+    {
+      "id": "msg_0370_00037",
+      "de_DE": [
+        "Bitte hole dein Geschenk bei unserem\n",
+        "Lieferanten in einem PKMN-Supermarkt ab."
+      ]
+    },
+    {
+      "id": "msg_0370_00038",
+      "de_DE": [
+        "Du hast dieses Geschenk schon\n",
+        "einmal empfangen."
+      ]
+    },
+    {
+      "id": "msg_0370_00039",
+      "de_DE": [
+        "Dieser Karte wurde kein Geschenk\n",
+        "beigefügt."
+      ]
+    },
+    {
+      "id": "msg_0370_00040",
+      "de_DE": "Datum empfangen"
+    },
+    {
+      "id": "msg_0370_00041",
+      "de_DE": [
+        "Dieses Geschenk kann bis zu {STRVAR_1 52, 0}-mal\n",
+        "weitergegeben werden."
+      ]
+    },
+    {
+      "id": "msg_0370_00042",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0370_00043",
+      "de_DE": "TEILEN"
+    },
+    {
+      "id": "msg_0370_00044",
+      "de_DE": "MÜLL"
+    },
+    {
+      "id": "msg_0370_00045",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0370_00046",
+      "de_DE": [
+        "Möchtest du dieses Geschenk mit\n",
+        "anderen teilen?"
+      ]
+    },
+    {
+      "id": "msg_0370_00047",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0370_00048",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0370_00049",
+      "de_DE": "{STRVAR_1 51, 2}. {STRVAR_1 74, 1} {STRVAR_1 53, 0}"
+    },
+    {
+      "id": "msg_0370_00050",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0370_00051",
+      "de_DE": [
+        "Du kannst das Geschenk sooft mit\n",
+        "Freunden teilen, wie du willst."
+      ]
+    },
+    {
+      "id": "msg_0370_00052",
+      "de_DE": "Freund-Weitergabe-Registrierung"
+    },
+    {
+      "id": "msg_0370_00053",
+      "de_DE": "{STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0370_00054",
+      "de_DE": "ID-Nr.{STRVAR_1 54, 0}"
+    },
+    {
+      "id": "msg_0370_00055",
+      "de_DE": [
+        "Aktuelle\n",
+        "Einträge"
+      ]
+    },
+    {
+      "id": "msg_0370_00056",
+      "de_DE": "{COLOR 1}{STRVAR_1 50, 0}{COLOR 0}/4"
+    },
+    {
+      "id": "msg_0370_00057",
+      "de_DE": "SENDEN"
+    },
+    {
+      "id": "msg_0370_00058",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0370_00059",
+      "de_DE": [
+        "Vorgang für Geschenkweitergabe läuft.\n",
+        "Bitte schalte das DS-System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0370_00060",
+      "de_DE": [
+        "Die Geschenkweitergabe war\n",
+        "erfolgreich."
+      ]
+    },
+    {
+      "id": "msg_0370_00061",
+      "de_DE": "Karte wegwerfen?"
+    },
+    {
+      "id": "msg_0370_00062",
+      "garbage": 69
+    },
+    {
+      "id": "msg_0370_00063",
+      "de_DE": [
+        "Löschvorgang...\n",
+        "Bitte schalte das DS-System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0370_00064",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0370_00065",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0370_00066",
+      "de_DE": "{COLOR 3}{STRVAR_1 3, 0}{COLOR 2} {COLOR 0}ID-Nr. {STRVAR_1 54, 1}"
+    },
+    {
+      "id": "msg_0370_00067",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0370_00068",
+      "de_DE": "Registrierungs-Nr."
+    },
+    {
+      "id": "msg_0370_00069",
+      "de_DE": "{STRVAR_1 53, 0}-{STRVAR_1 53, 1}"
+    },
+    {
+      "id": "msg_0370_00070",
+      "de_DE": [
+        "Erhalte Anfrage eines\n",
+        "Pokémon Rangers."
+      ]
+    },
+    {
+      "id": "msg_0370_00071",
+      "de_DE": [
+        "Warte auf Transfer des\n",
+        "Pokémon Rangers."
+      ]
+    },
+    {
+      "id": "msg_0370_00072",
+      "de_DE": [
+        "Empfange des MANAPHY-Ei...\n",
+        "Bitte schalte das DS-System nicht aus."
+      ]
+    },
+    {
+      "id": "msg_0370_00073",
+      "de_DE": [
+        "Der Transfer wurde abgeschlossen.\n",
+        "Zum Titelbildschirm: A-Knopf drücken."
+      ]
+    },
+    {
+      "id": "msg_0370_00074",
+      "de_DE": [
+        "Die Verbindung zu diesem Pokémon\n",
+        "Ranger wurde unterbrochen..."
+      ]
+    },
+    {
+      "id": "msg_0370_00075",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0370_00076",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0370_00077",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "wird gestartet."
+      ]
+    },
+    {
+      "id": "msg_0370_00078",
+      "de_DE": "Mit Nintendo Wi-Fi Connection verbinden?"
+    }
+  ]
+}

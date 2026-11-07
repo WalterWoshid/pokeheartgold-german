@@ -1,0 +1,1391 @@
+{
+  "key": 12355,
+  "messages": [
+    {
+      "id": "msg_0567_00000",
+      "de_DE": "Schließen"
+    },
+    {
+      "id": "msg_0567_00001",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00002",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00003",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00004",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00005",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00006",
+      "de_DE": "Großer Fels"
+    },
+    {
+      "id": "msg_0567_00007",
+      "de_DE": "Gelbes Kissen"
+    },
+    {
+      "id": "msg_0567_00008",
+      "de_DE": "Blaues Kissen"
+    },
+    {
+      "id": "msg_0567_00009",
+      "de_DE": "Holzstuhl"
+    },
+    {
+      "id": "msg_0567_00010",
+      "de_DE": "Großer Tisch"
+    },
+    {
+      "id": "msg_0567_00011",
+      "de_DE": "Einfacher Tisch"
+    },
+    {
+      "id": "msg_0567_00012",
+      "de_DE": "Kleiner Tisch"
+    },
+    {
+      "id": "msg_0567_00013",
+      "de_DE": "Langer Tisch"
+    },
+    {
+      "id": "msg_0567_00014",
+      "de_DE": "Breiter Tisch"
+    },
+    {
+      "id": "msg_0567_00015",
+      "de_DE": "Poké-Tisch"
+    },
+    {
+      "id": "msg_0567_00016",
+      "de_DE": "Gr. Bücherregal"
+    },
+    {
+      "id": "msg_0567_00017",
+      "de_DE": "Kl. Bücherregal"
+    },
+    {
+      "id": "msg_0567_00018",
+      "de_DE": "Laborregal"
+    },
+    {
+      "id": "msg_0567_00019",
+      "de_DE": "Werkzeugregal"
+    },
+    {
+      "id": "msg_0567_00020",
+      "de_DE": "Ladenregal"
+    },
+    {
+      "id": "msg_0567_00021",
+      "de_DE": "Vitrine"
+    },
+    {
+      "id": "msg_0567_00022",
+      "de_DE": "Schrank"
+    },
+    {
+      "id": "msg_0567_00023",
+      "de_DE": "Holzkommode"
+    },
+    {
+      "id": "msg_0567_00024",
+      "de_DE": "Rosa Kommode"
+    },
+    {
+      "id": "msg_0567_00025",
+      "de_DE": "Fernseher"
+    },
+    {
+      "id": "msg_0567_00026",
+      "de_DE": "Kühlschrank"
+    },
+    {
+      "id": "msg_0567_00027",
+      "de_DE": "Spülbecken"
+    },
+    {
+      "id": "msg_0567_00028",
+      "de_DE": "Leichtes Bett"
+    },
+    {
+      "id": "msg_0567_00029",
+      "de_DE": "Abfalleimer"
+    },
+    {
+      "id": "msg_0567_00030",
+      "de_DE": "Pappkarton"
+    },
+    {
+      "id": "msg_0567_00031",
+      "de_DE": "Kiste"
+    },
+    {
+      "id": "msg_0567_00032",
+      "de_DE": "Behälter"
+    },
+    {
+      "id": "msg_0567_00033",
+      "de_DE": "Ölfass"
+    },
+    {
+      "id": "msg_0567_00034",
+      "de_DE": "Ölvorrat"
+    },
+    {
+      "id": "msg_0567_00035",
+      "de_DE": "Eisenträger"
+    },
+    {
+      "id": "msg_0567_00036",
+      "de_DE": "Topfpflanze"
+    },
+    {
+      "id": "msg_0567_00037",
+      "de_DE": "Poké-Blume"
+    },
+    {
+      "id": "msg_0567_00038",
+      "de_DE": "Vitalisator"
+    },
+    {
+      "id": "msg_0567_00039",
+      "de_DE": "Labormaschine"
+    },
+    {
+      "id": "msg_0567_00040",
+      "de_DE": "Testmaschine"
+    },
+    {
+      "id": "msg_0567_00041",
+      "de_DE": "Spielkonsole"
+    },
+    {
+      "id": "msg_0567_00042",
+      "de_DE": "Getränke"
+    },
+    {
+      "id": "msg_0567_00043",
+      "de_DE": "Rotes Fahrrad"
+    },
+    {
+      "id": "msg_0567_00044",
+      "de_DE": "Grünes Fahrrad"
+    },
+    {
+      "id": "msg_0567_00045",
+      "de_DE": "Fernglas"
+    },
+    {
+      "id": "msg_0567_00046",
+      "de_DE": "Globus"
+    },
+    {
+      "id": "msg_0567_00047",
+      "de_DE": "Arena-Statue"
+    },
+    {
+      "id": "msg_0567_00048",
+      "de_DE": "Rotes Zelt"
+    },
+    {
+      "id": "msg_0567_00049",
+      "de_DE": "Blaues Zelt"
+    },
+    {
+      "id": "msg_0567_00050",
+      "de_DE": "Helles Zelt"
+    },
+    {
+      "id": "msg_0567_00051",
+      "de_DE": "Irrblock 1"
+    },
+    {
+      "id": "msg_0567_00052",
+      "de_DE": "Irrblock 2"
+    },
+    {
+      "id": "msg_0567_00053",
+      "de_DE": "Irrblock 3"
+    },
+    {
+      "id": "msg_0567_00054",
+      "de_DE": "Irrblock 4"
+    },
+    {
+      "id": "msg_0567_00055",
+      "de_DE": "Irrblock 5"
+    },
+    {
+      "id": "msg_0567_00056",
+      "de_DE": "Lochwerkzeug"
+    },
+    {
+      "id": "msg_0567_00057",
+      "de_DE": "Grubenwerkzeug"
+    },
+    {
+      "id": "msg_0567_00058",
+      "de_DE": "Dunstwerkzeug"
+    },
+    {
+      "id": "msg_0567_00059",
+      "de_DE": "Rauchwerkzeug"
+    },
+    {
+      "id": "msg_0567_00060",
+      "de_DE": "Felswerkzeug"
+    },
+    {
+      "id": "msg_0567_00061",
+      "de_DE": "Gesteinswerkz."
+    },
+    {
+      "id": "msg_0567_00062",
+      "de_DE": "Schaumwerkzeug"
+    },
+    {
+      "id": "msg_0567_00063",
+      "de_DE": "Blasenwerkzeug"
+    },
+    {
+      "id": "msg_0567_00064",
+      "de_DE": "Botschaft 1"
+    },
+    {
+      "id": "msg_0567_00065",
+      "de_DE": "Botschaft 2"
+    },
+    {
+      "id": "msg_0567_00066",
+      "de_DE": "Botschaft 3"
+    },
+    {
+      "id": "msg_0567_00067",
+      "de_DE": "Botschaft 4"
+    },
+    {
+      "id": "msg_0567_00068",
+      "de_DE": "Blätterwerkz."
+    },
+    {
+      "id": "msg_0567_00069",
+      "de_DE": "Blumenwerkzeug"
+    },
+    {
+      "id": "msg_0567_00070",
+      "de_DE": "Aschewerkzeug"
+    },
+    {
+      "id": "msg_0567_00071",
+      "de_DE": "Feuerwerkzeug"
+    },
+    {
+      "id": "msg_0567_00072",
+      "de_DE": "Anmut-Cup"
+    },
+    {
+      "id": "msg_0567_00073",
+      "de_DE": "Coolness-Cup"
+    },
+    {
+      "id": "msg_0567_00074",
+      "de_DE": "Schönheit-Cup"
+    },
+    {
+      "id": "msg_0567_00075",
+      "de_DE": "Stärke-Cup"
+    },
+    {
+      "id": "msg_0567_00076",
+      "de_DE": "Klugheit-Cup"
+    },
+    {
+      "id": "msg_0567_00077",
+      "de_DE": "Blauer Kristall"
+    },
+    {
+      "id": "msg_0567_00078",
+      "de_DE": "Rosa Kristall"
+    },
+    {
+      "id": "msg_0567_00079",
+      "de_DE": "Roter Kristall"
+    },
+    {
+      "id": "msg_0567_00080",
+      "de_DE": "Gelber Kristall"
+    },
+    {
+      "id": "msg_0567_00081",
+      "de_DE": "Hübsches Juwel"
+    },
+    {
+      "id": "msg_0567_00082",
+      "de_DE": "Leuchten. Juwel"
+    },
+    {
+      "id": "msg_0567_00083",
+      "de_DE": "Mystisch. Juwel"
+    },
+    {
+      "id": "msg_0567_00084",
+      "de_DE": "Funkeln. Juwel"
+    },
+    {
+      "id": "msg_0567_00085",
+      "de_DE": "Bronzetrophäe"
+    },
+    {
+      "id": "msg_0567_00086",
+      "de_DE": "Silbertrophäe"
+    },
+    {
+      "id": "msg_0567_00087",
+      "de_DE": "Goldtrophäe"
+    },
+    {
+      "id": "msg_0567_00088",
+      "de_DE": "Supertrophäe"
+    },
+    {
+      "id": "msg_0567_00089",
+      "de_DE": "Ballornament"
+    },
+    {
+      "id": "msg_0567_00090",
+      "de_DE": "Rundes Ornament"
+    },
+    {
+      "id": "msg_0567_00091",
+      "de_DE": "Klares Ornament"
+    },
+    {
+      "id": "msg_0567_00092",
+      "de_DE": "GLUMANDA-Puppe"
+    },
+    {
+      "id": "msg_0567_00093",
+      "de_DE": "BISASAM-Puppe"
+    },
+    {
+      "id": "msg_0567_00094",
+      "de_DE": "SCHIGGY-Puppe"
+    },
+    {
+      "id": "msg_0567_00095",
+      "de_DE": "FEURIGEL-Puppe"
+    },
+    {
+      "id": "msg_0567_00096",
+      "de_DE": "ENDIVIE-Puppe"
+    },
+    {
+      "id": "msg_0567_00097",
+      "de_DE": "KARNIMANI-Pup."
+    },
+    {
+      "id": "msg_0567_00098",
+      "de_DE": "FLEMMLI-Puppe"
+    },
+    {
+      "id": "msg_0567_00099",
+      "de_DE": "GECKARBOR-Pup."
+    },
+    {
+      "id": "msg_0567_00100",
+      "de_DE": "HYDROPI-Puppe"
+    },
+    {
+      "id": "msg_0567_00101",
+      "de_DE": "PANFLAM-Puppe"
+    },
+    {
+      "id": "msg_0567_00102",
+      "de_DE": "CHELAST-Puppe"
+    },
+    {
+      "id": "msg_0567_00103",
+      "de_DE": "PLINFA-Puppe"
+    },
+    {
+      "id": "msg_0567_00104",
+      "de_DE": "PIKACHU-Puppe"
+    },
+    {
+      "id": "msg_0567_00105",
+      "de_DE": "PLUSLE-Puppe"
+    },
+    {
+      "id": "msg_0567_00106",
+      "de_DE": "MINUN-Puppe"
+    },
+    {
+      "id": "msg_0567_00107",
+      "de_DE": "PIEPI-Puppe"
+    },
+    {
+      "id": "msg_0567_00108",
+      "de_DE": "PUMMELUFF-Pup."
+    },
+    {
+      "id": "msg_0567_00109",
+      "de_DE": "WOINGENAU-Pup."
+    },
+    {
+      "id": "msg_0567_00110",
+      "de_DE": "MAUZI-Puppe"
+    },
+    {
+      "id": "msg_0567_00111",
+      "de_DE": "ENECO-Puppe"
+    },
+    {
+      "id": "msg_0567_00112",
+      "de_DE": "CHARMIAN-Puppe"
+    },
+    {
+      "id": "msg_0567_00113",
+      "de_DE": "HASPIROR-Puppe"
+    },
+    {
+      "id": "msg_0567_00114",
+      "de_DE": "SNIBUNNA-Puppe"
+    },
+    {
+      "id": "msg_0567_00115",
+      "de_DE": "MAMPFAXO-Puppe"
+    },
+    {
+      "id": "msg_0567_00116",
+      "de_DE": "MOBAI-Puppe"
+    },
+    {
+      "id": "msg_0567_00117",
+      "de_DE": "PANTIMIMI-Pup."
+    },
+    {
+      "id": "msg_0567_00118",
+      "de_DE": "LUCARIO-Puppe"
+    },
+    {
+      "id": "msg_0567_00119",
+      "de_DE": "MANTIRPS-Puppe"
+    },
+    {
+      "id": "msg_0567_00120",
+      "de_DE": "BAMELIN-Puppe"
+    },
+    {
+      "id": "msg_0567_00121",
+      "de_DE": "PLAUDAGEI-Pup."
+    },
+    {
+      "id": "msg_0567_00122",
+      "de_DE": "MANAPHY-Puppe"
+    },
+    {
+      "id": "msg_0567_00123",
+      "de_DE": "RELAXO-Puppe"
+    },
+    {
+      "id": "msg_0567_00124",
+      "de_DE": "WAILORD-Puppe"
+    },
+    {
+      "id": "msg_0567_00125",
+      "de_DE": "MAGNEZONE-Pup."
+    },
+    {
+      "id": "msg_0567_00126",
+      "de_DE": "DRIFTLON-Puppe"
+    },
+    {
+      "id": "msg_0567_00127",
+      "de_DE": "WONNEIRA-Puppe"
+    },
+    {
+      "id": "msg_0567_00128",
+      "de_DE": "PACHIRISU-Pup."
+    },
+    {
+      "id": "msg_0567_00129",
+      "de_DE": " - "
+    },
+    {
+      "id": "msg_0567_00130",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0567_00131",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0567_00132",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0567_00133",
+      "de_DE": "Breites Sofa"
+    },
+    {
+      "id": "msg_0567_00134",
+      "de_DE": "Bonsai"
+    },
+    {
+      "id": "msg_0567_00135",
+      "de_DE": "Zarte Blumen"
+    },
+    {
+      "id": "msg_0567_00136",
+      "de_DE": "Schöne Blumen"
+    },
+    {
+      "id": "msg_0567_00137",
+      "de_DE": "Hübsche Blumen"
+    },
+    {
+      "id": "msg_0567_00138",
+      "de_DE": "Üppige Blumen"
+    },
+    {
+      "id": "msg_0567_00139",
+      "de_DE": "Schließt die Tasche."
+    },
+    {
+      "id": "msg_0567_00140",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00141",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00142",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00143",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00144",
+      "de_DE": "PC"
+    },
+    {
+      "id": "msg_0567_00145",
+      "de_DE": [
+        "Ein gelbes Kissen, das innerhalb deiner\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00146",
+      "de_DE": [
+        "Ein blaues Kissen, das innerhalb deiner\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00147",
+      "de_DE": [
+        "Ein Holzstuhl, der innerhalb deiner\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00148",
+      "de_DE": [
+        "Ein großer Tisch, der innerhalb deiner\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00149",
+      "de_DE": [
+        "Ein einfacher Tisch, der innerhalb der\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00150",
+      "de_DE": [
+        "Ein kleiner Tisch, der innerhalb deiner\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00151",
+      "de_DE": [
+        "Ein langer Tisch, der innerhalb deiner\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00152",
+      "de_DE": [
+        "Ein breiter Tisch, der innerhalb deiner\n",
+        "Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00153",
+      "de_DE": [
+        "Ein Tisch mit Glasoberfläche, wie man\n",
+        "ihn aus Pokémon-Centern kennt."
+      ]
+    },
+    {
+      "id": "msg_0567_00154",
+      "de_DE": [
+        "Ein großes Bücherregal, das innerhalb\n",
+        "der Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00155",
+      "de_DE": [
+        "Ein kleines Bücherregal, das innerhalb\n",
+        "der Geheimbasis platziert werden kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00156",
+      "de_DE": [
+        "Ein Wandregal, das sich perfekt zur\n",
+        "Aufbewahrung von Dokumenten eignet."
+      ]
+    },
+    {
+      "id": "msg_0567_00157",
+      "de_DE": [
+        "Ein Regal mit Werkzeugen. So eines\n",
+        "kann man auch im Radladen finden."
+      ]
+    },
+    {
+      "id": "msg_0567_00158",
+      "de_DE": [
+        "Ein Regal voller Waren, wie man es in\n",
+        "jedem Pokémon-Supermarkt findet."
+      ]
+    },
+    {
+      "id": "msg_0567_00159",
+      "de_DE": [
+        "Ein Regal mit verschiedensten Waren, wie\n",
+        "man es in Pokémon-Supermärkten findet."
+      ]
+    },
+    {
+      "id": "msg_0567_00160",
+      "de_DE": [
+        "Ein extravaganter Schrank. Man kann in\n",
+        "ihm Küchenutensilien aufbewahren."
+      ]
+    },
+    {
+      "id": "msg_0567_00161",
+      "de_DE": [
+        "Eine Holzkommode, die eine würdevolle\n",
+        "Atmosphäre ausstrahlt."
+      ]
+    },
+    {
+      "id": "msg_0567_00162",
+      "de_DE": [
+        "Eine modische Kommode in einem\n",
+        "schönen Rosaton."
+      ]
+    },
+    {
+      "id": "msg_0567_00163",
+      "de_DE": [
+        "Ein großer Spielzeug-Fernseher.\n",
+        "Qualitativ sehr hochwertig!"
+      ]
+    },
+    {
+      "id": "msg_0567_00164",
+      "de_DE": [
+        "Ein großer, weißer Spielzeug-\n",
+        "Kühlschrank. Sehr hochwertig!"
+      ]
+    },
+    {
+      "id": "msg_0567_00165",
+      "de_DE": [
+        "Ein Spielzeug-Spülbecken.\n",
+        "Qualitativ sehr hochwertig!"
+      ]
+    },
+    {
+      "id": "msg_0567_00166",
+      "de_DE": [
+        "Ein flauschiges Bett, in dem man\n",
+        "angenehme Träume haben kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00167",
+      "de_DE": "Ein grüner, runder Abfalleimer."
+    },
+    {
+      "id": "msg_0567_00168",
+      "de_DE": [
+        "Ein kleiner Pappkarton. Gut geeignet,\n",
+        "um Dinge darin aufzubewahren."
+      ]
+    },
+    {
+      "id": "msg_0567_00169",
+      "de_DE": [
+        "Eine große Holzkiste, in der sich\n",
+        "allerlei Dinge befinden."
+      ]
+    },
+    {
+      "id": "msg_0567_00170",
+      "de_DE": [
+        "Ein großer Behälter, der mit einer\n",
+        "Vielzahl von Dingen gefüllt ist."
+      ]
+    },
+    {
+      "id": "msg_0567_00171",
+      "de_DE": [
+        "Ein rotes Ölfass, das man auch\n",
+        "in Fabriken findet."
+      ]
+    },
+    {
+      "id": "msg_0567_00172",
+      "de_DE": [
+        "Mehrere Ölfässer, die man so auch\n",
+        "in Fabriken findet."
+      ]
+    },
+    {
+      "id": "msg_0567_00173",
+      "de_DE": [
+        "Ein roter Eisenträger, wie man ihn\n",
+        "auf Baustellen findet."
+      ]
+    },
+    {
+      "id": "msg_0567_00174",
+      "de_DE": [
+        "Eine Topfpflanze, die ihre Umgebung mit\n",
+        "einer Spur wilder Natur bereichert."
+      ]
+    },
+    {
+      "id": "msg_0567_00175",
+      "de_DE": [
+        "Eine kleine Blume, wie man sie aus\n",
+        "jedem Pokémon-Center kennt."
+      ]
+    },
+    {
+      "id": "msg_0567_00176",
+      "de_DE": [
+        "Eine Maschine, mit deren Hilfe man\n",
+        "Pokémon heilen kann."
+      ]
+    },
+    {
+      "id": "msg_0567_00177",
+      "de_DE": [
+        "Diese hell erleuchtete Maschine wird\n",
+        "in der Pokémon-Forschung eingesetzt."
+      ]
+    },
+    {
+      "id": "msg_0567_00178",
+      "de_DE": [
+        "Mit dieser Maschine können\n",
+        "Experimente durchgeführt werden."
+      ]
+    },
+    {
+      "id": "msg_0567_00179",
+      "de_DE": [
+        "Eine brandneue Spielkonsole. Die\n",
+        "gleiche, die auch zu Hause steht."
+      ]
+    },
+    {
+      "id": "msg_0567_00180",
+      "de_DE": [
+        "Spielzeug-Nachbau eines Getränke-\n",
+        "automaten. Funktioniert nicht wirklich."
+      ]
+    },
+    {
+      "id": "msg_0567_00181",
+      "de_DE": [
+        "Nachbau eines roten Fahrrads. Gleicht\n",
+        "den Fahrrädern im Fahrradladen."
+      ]
+    },
+    {
+      "id": "msg_0567_00182",
+      "de_DE": [
+        "Nachbau eines grünen Fahrrads. Gleicht\n",
+        "den Fahrrädern im Fahrradladen."
+      ]
+    },
+    {
+      "id": "msg_0567_00183",
+      "de_DE": [
+        "Nachbau eines qualitativ\n",
+        "hochwertigen Fernglases."
+      ]
+    },
+    {
+      "id": "msg_0567_00184",
+      "de_DE": [
+        "Ein Zeugnis dafür, dass du Freunde\n",
+        "überall auf der Welt hast."
+      ]
+    },
+    {
+      "id": "msg_0567_00185",
+      "de_DE": [
+        "Steinstatue eines Pokémon, wie man\n",
+        "sie auch in Pokémon-Arenen findet."
+      ]
+    },
+    {
+      "id": "msg_0567_00186",
+      "de_DE": [
+        "Ein großes, rotes Zelt. Darin kann man\n",
+        "sich verstecken."
+      ]
+    },
+    {
+      "id": "msg_0567_00187",
+      "de_DE": [
+        "Ein großes, blaues Zelt. Darin kann man\n",
+        "sich verstecken."
+      ]
+    },
+    {
+      "id": "msg_0567_00188",
+      "de_DE": [
+        "Ein großes, transparentes Zelt. Du\n",
+        "kannst es betreten."
+      ]
+    },
+    {
+      "id": "msg_0567_00189",
+      "de_DE": [
+        "Teil zur Konstruktion eines Irrgartens.\n",
+        "An der oberen Seite blockiert"
+      ]
+    },
+    {
+      "id": "msg_0567_00190",
+      "de_DE": [
+        "Teil zur Konstruktion eines Irrgartens.\n",
+        "Auf der rechten Seite blockiert."
+      ]
+    },
+    {
+      "id": "msg_0567_00191",
+      "de_DE": [
+        "Teil zur Konstruktion eines Irrgartens.\n",
+        "An der unteren Seite blockiert."
+      ]
+    },
+    {
+      "id": "msg_0567_00192",
+      "de_DE": [
+        "Teil zur Konstruktion eines Irrgartens.\n",
+        "Auf der linken Seite blockiert."
+      ]
+    },
+    {
+      "id": "msg_0567_00193",
+      "de_DE": [
+        "Teil zur Konstruktion eines Irrgartens.\n",
+        "An keiner Stelle blockiert."
+      ]
+    },
+    {
+      "id": "msg_0567_00194",
+      "de_DE": [
+        "Lässt eine Fallgrube entstehen. Ziel\n",
+        "wird nach Fall bewegungsunfähig."
+      ]
+    },
+    {
+      "id": "msg_0567_00195",
+      "de_DE": [
+        "Lässt große Fallgrube entstehen. Ziel\n",
+        "wird nach Fall bewegungsunfähig."
+      ]
+    },
+    {
+      "id": "msg_0567_00196",
+      "de_DE": [
+        "Werkzeug zum Erzeugen von Dunst.\n",
+        "Er kann weggerieben werden."
+      ]
+    },
+    {
+      "id": "msg_0567_00197",
+      "de_DE": [
+        "Werkzeug zum Erzeugen von Rauch.\n",
+        "Der Rauch kann weggerieben werden."
+      ]
+    },
+    {
+      "id": "msg_0567_00198",
+      "de_DE": [
+        "Werkzeug zur Erzeugung von Felsen.\n",
+        "Felsen können zertrümmert werden."
+      ]
+    },
+    {
+      "id": "msg_0567_00199",
+      "de_DE": [
+        "Werkzeug zum Erzeugen großer Felsen.\n",
+        "Felsen können zertrümmert werden."
+      ]
+    },
+    {
+      "id": "msg_0567_00200",
+      "de_DE": [
+        "Lässt Blasen entstehen. Man kann die\n",
+        "Blasen auch wieder platzen lassen."
+      ]
+    },
+    {
+      "id": "msg_0567_00201",
+      "de_DE": [
+        "Lässt eine Menge Blasen entstehen.\n",
+        "Man kann sie wieder platzen lassen."
+      ]
+    },
+    {
+      "id": "msg_0567_00202",
+      "de_DE": [
+        "Tritt auf dieses Werkzeug, um alle\n",
+        "Personen in der Nähe zu grüßen."
+      ]
+    },
+    {
+      "id": "msg_0567_00203",
+      "de_DE": [
+        "Tritt auf dieses Werkzeug, um allen\n",
+        "in der Nähe Lebewohl zu sagen."
+      ]
+    },
+    {
+      "id": "msg_0567_00204",
+      "de_DE": [
+        "Mit diesem Werkzeug teilst du allen mit,\n",
+        "dass du zum Konnex-Klub gehst."
+      ]
+    },
+    {
+      "id": "msg_0567_00205",
+      "de_DE": [
+        "Mit diesem Werkzeug bittest du alle\n",
+        "um dich herum, sich zu versammeln."
+      ]
+    },
+    {
+      "id": "msg_0567_00206",
+      "de_DE": [
+        "Erzeugt bewegungsunfähig machende\n",
+        "Blätter. Blase sie zur Befreiung hinweg."
+      ]
+    },
+    {
+      "id": "msg_0567_00207",
+      "de_DE": [
+        "Erzeugt eine ganze Menge Blumen.\n",
+        "Blase sie hinweg, um dich zu befreien."
+      ]
+    },
+    {
+      "id": "msg_0567_00208",
+      "de_DE": [
+        "Erzeugt bewegungsunfähig machende\n",
+        "Asche. Blase sie zur Befreiung hinweg."
+      ]
+    },
+    {
+      "id": "msg_0567_00209",
+      "de_DE": [
+        "Erzeugt lodernde Flammen. Blase sie\n",
+        "hinweg, um dich zu befreien."
+      ]
+    },
+    {
+      "id": "msg_0567_00210",
+      "de_DE": [
+        "Ein Siegerpokal, der nur einem wirklich\n",
+        "anmutigen Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00211",
+      "de_DE": [
+        "Ein Siegerpokal, der nur einem wirklich\n",
+        "coolen Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00212",
+      "de_DE": [
+        "Ein Siegerpokal, der nur einem wirklich\n",
+        "schönen Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00213",
+      "de_DE": [
+        "Ein Siegerpokal, der nur einem wirklich\n",
+        "starken Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00214",
+      "de_DE": [
+        "Ein Siegerpokal, der nur einem wirklich\n",
+        "klugen Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00215",
+      "de_DE": [
+        "Ein seltener, blauer Kristall, der nur\n",
+        "hilfsbereiten Personen verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00216",
+      "de_DE": [
+        "Ein seltener, rosa Kristall, der nur\n",
+        "gütigen Personen verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00217",
+      "de_DE": [
+        "Ein seltener, roter Kristall, der nur\n",
+        "arbeitsamen Personen verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00218",
+      "de_DE": [
+        "Ein seltener, gelber Kristall, der nur\n",
+        "beständigen Personen verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00219",
+      "de_DE": [
+        "Ein hübsches Juwel, das sehr schön\n",
+        "geschnitten wurde."
+      ]
+    },
+    {
+      "id": "msg_0567_00220",
+      "de_DE": [
+        "Dieses leuchtende Juwel wurde wie\n",
+        "ein Spiegel poliert."
+      ]
+    },
+    {
+      "id": "msg_0567_00221",
+      "de_DE": [
+        "Ein Juwel, das ein mystisches Licht\n",
+        "ausstrahlt. Sehr schwer zu erhalten."
+      ]
+    },
+    {
+      "id": "msg_0567_00222",
+      "de_DE": [
+        "Ein sehr wertvolles Juwel, dessen\n",
+        "Funkeln fast schon blendet."
+      ]
+    },
+    {
+      "id": "msg_0567_00223",
+      "de_DE": [
+        "Eine Bronzetrophäe, die nur starken\n",
+        "Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00224",
+      "de_DE": [
+        "Eine Silbertrophäe, die nur sehr\n",
+        "starken Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00225",
+      "de_DE": [
+        "Eine Goldtrophäe, die nur den stärksten\n",
+        "unter den Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00226",
+      "de_DE": [
+        "Eine eindrucksvolle Trophäe, die nur\n",
+        "unermüdlichen Pokémon verliehen wird."
+      ]
+    },
+    {
+      "id": "msg_0567_00227",
+      "de_DE": [
+        "Ein Erinnerungsgegenstand, der nach\n",
+        "einem Pokéball modelliert wurde."
+      ]
+    },
+    {
+      "id": "msg_0567_00228",
+      "de_DE": [
+        "Ein rundes, sehr wertvolles Objekt,\n",
+        "das in sieben Farben leuchtet."
+      ]
+    },
+    {
+      "id": "msg_0567_00229",
+      "de_DE": [
+        "Ein kristallklares, sehr\n",
+        "wertvolles Objekt."
+      ]
+    },
+    {
+      "id": "msg_0567_00230",
+      "de_DE": "Eine süße GLUMANDA-Puppe."
+    },
+    {
+      "id": "msg_0567_00231",
+      "de_DE": "Eine süße BISASAM-Puppe."
+    },
+    {
+      "id": "msg_0567_00232",
+      "de_DE": "Eine süße SCHIGGY-Puppe."
+    },
+    {
+      "id": "msg_0567_00233",
+      "de_DE": "Eine süße FEURIGEL-Puppe."
+    },
+    {
+      "id": "msg_0567_00234",
+      "de_DE": "Eine süße ENDIVIE-Puppe."
+    },
+    {
+      "id": "msg_0567_00235",
+      "de_DE": "Eine süße KARNIMANI-Puppe."
+    },
+    {
+      "id": "msg_0567_00236",
+      "de_DE": "Eine süße FLEMMLI-Puppe."
+    },
+    {
+      "id": "msg_0567_00237",
+      "de_DE": "Eine süße GECKARBOR-Puppe."
+    },
+    {
+      "id": "msg_0567_00238",
+      "de_DE": "Eine süße HYDROPI-Puppe."
+    },
+    {
+      "id": "msg_0567_00239",
+      "de_DE": "Eine süße PANFLAM-Puppe."
+    },
+    {
+      "id": "msg_0567_00240",
+      "de_DE": "Eine süße CHELAST-Puppe."
+    },
+    {
+      "id": "msg_0567_00241",
+      "de_DE": "Eine süße PLINFA-Puppe."
+    },
+    {
+      "id": "msg_0567_00242",
+      "de_DE": "Eine süße PIKACHU-Puppe."
+    },
+    {
+      "id": "msg_0567_00243",
+      "de_DE": "Eine süße PLUSLE-Puppe."
+    },
+    {
+      "id": "msg_0567_00244",
+      "de_DE": "Eine süße MINUN-Puppe."
+    },
+    {
+      "id": "msg_0567_00245",
+      "de_DE": "Eine süße PIEPI-Puppe."
+    },
+    {
+      "id": "msg_0567_00246",
+      "de_DE": "Eine süße PUMMELUFF-Puppe."
+    },
+    {
+      "id": "msg_0567_00247",
+      "de_DE": "Eine süße WOINGENAU-Puppe."
+    },
+    {
+      "id": "msg_0567_00248",
+      "de_DE": "Eine süße MAUZI-Puppe."
+    },
+    {
+      "id": "msg_0567_00249",
+      "de_DE": "Eine süße ENECO-Puppe."
+    },
+    {
+      "id": "msg_0567_00250",
+      "de_DE": "Eine süße CHARMIAN-Puppe."
+    },
+    {
+      "id": "msg_0567_00251",
+      "de_DE": "Eine süße HASPIROR-Puppe."
+    },
+    {
+      "id": "msg_0567_00252",
+      "de_DE": "Eine süße SNIBUNNA-Puppe."
+    },
+    {
+      "id": "msg_0567_00253",
+      "de_DE": "Eine süße MAMPFAXO-Puppe."
+    },
+    {
+      "id": "msg_0567_00254",
+      "de_DE": "Eine süße MOBAI-Puppe."
+    },
+    {
+      "id": "msg_0567_00255",
+      "de_DE": "Eine süße PANTIMIMI-Puppe."
+    },
+    {
+      "id": "msg_0567_00256",
+      "de_DE": "Eine seltene LUCARIO-Puppe."
+    },
+    {
+      "id": "msg_0567_00257",
+      "de_DE": "Eine süße MANTIRPS-Puppe."
+    },
+    {
+      "id": "msg_0567_00258",
+      "de_DE": "Eine süße BAMELIN-Puppe."
+    },
+    {
+      "id": "msg_0567_00259",
+      "de_DE": "Eine süße PLAUDAGEI-Puppe."
+    },
+    {
+      "id": "msg_0567_00260",
+      "de_DE": "Eine seltene MANAPHY-Puppe."
+    },
+    {
+      "id": "msg_0567_00261",
+      "de_DE": "Eine große RELAXO-Puppe."
+    },
+    {
+      "id": "msg_0567_00262",
+      "de_DE": "Eine große WAILORD-Puppe."
+    },
+    {
+      "id": "msg_0567_00263",
+      "de_DE": "Eine große MAGNEZONE-Puppe."
+    },
+    {
+      "id": "msg_0567_00264",
+      "de_DE": "Eine süße DRIFTLON-Puppe."
+    },
+    {
+      "id": "msg_0567_00265",
+      "de_DE": "Eine süße WONNEIRA-Puppe."
+    },
+    {
+      "id": "msg_0567_00266",
+      "de_DE": "Eine süße PACHIRISU-Puppe."
+    },
+    {
+      "id": "msg_0567_00267",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0567_00268",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0567_00269",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0567_00270",
+      "de_DE": " -"
+    },
+    {
+      "id": "msg_0567_00271",
+      "de_DE": [
+        "Ein breites, blaues Sofa. Es bietet\n",
+        "Platz für zwei Personen."
+      ]
+    },
+    {
+      "id": "msg_0567_00272",
+      "de_DE": [
+        "Ein Miniaturbaum, der von einem\n",
+        "Meister seines Fachs gestaltet wurde."
+      ]
+    },
+    {
+      "id": "msg_0567_00273",
+      "de_DE": [
+        "Eine Vase mit\n",
+        "zarten Blumen."
+      ]
+    },
+    {
+      "id": "msg_0567_00274",
+      "de_DE": [
+        "Ein Vase mit\n",
+        "wunderschönen Blumen."
+      ]
+    },
+    {
+      "id": "msg_0567_00275",
+      "de_DE": [
+        "Ein Vase mit\n",
+        "hübschen Blumen."
+      ]
+    },
+    {
+      "id": "msg_0567_00276",
+      "de_DE": [
+        "Eine Vase mit einer großartigen\n",
+        "Auswahl üppiger Blumen."
+      ]
+    },
+    {
+      "id": "msg_0567_00277",
+      "de_DE": "Zurück"
+    },
+    {
+      "id": "msg_0567_00278",
+      "de_DE": "Dekoration beenden."
+    }
+  ]
+}

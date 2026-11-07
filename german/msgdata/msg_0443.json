@@ -1,0 +1,41 @@
+{
+  "key": 12412,
+  "messages": [
+    {
+      "id": "msg_0443_00000",
+      "de_DE": "KP"
+    },
+    {
+      "id": "msg_0443_00001",
+      "de_DE": "Angriff"
+    },
+    {
+      "id": "msg_0443_00002",
+      "de_DE": "Verteidigung"
+    },
+    {
+      "id": "msg_0443_00003",
+      "de_DE": "Initiative"
+    },
+    {
+      "id": "msg_0443_00004",
+      "de_DE": "Sp. Ang."
+    },
+    {
+      "id": "msg_0443_00005",
+      "de_DE": "Sp. Ver."
+    },
+    {
+      "id": "msg_0443_00006",
+      "de_DE": "Genauigkeit"
+    },
+    {
+      "id": "msg_0443_00007",
+      "de_DE": "Fluchtwert"
+    },
+    {
+      "id": "msg_0443_00008",
+      "de_DE": "Max. KP"
+    }
+  ]
+}

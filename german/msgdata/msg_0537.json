@@ -1,0 +1,254 @@
+{
+  "key": 42007,
+  "messages": [
+    {
+      "id": "msg_0537_00000",
+      "de_DE": [
+        "Willkommen im Bürogebäude\n",
+        "der Silph Co.!"
+      ]
+    },
+    {
+      "id": "msg_0537_00001",
+      "de_DE": [
+        "Warte mal eben! Dieser Aufzug ist\n",
+        "leider gerade nicht in Betrieb!\r",
+        "Es scheint so, als gäbe es irgendwelche\n",
+        "Probleme mit der Stromversorgung,\f",
+        "und deshalb fährt er auch nicht richtig.\r",
+        "Aber da du extra hierher gekommen\n",
+        "bist, um dir unsere Büros anzusehen,\f",
+        "gebe ich dir dieses hübsche Souvenir.\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00002",
+      "de_DE": [
+        "Das ist das neueste Produkt\n",
+        "der Silph Co.! Das gibt es noch\f",
+        "nirgendwo zu kaufen!"
+      ]
+    },
+    {
+      "id": "msg_0537_00003",
+      "de_DE": [
+        "Der Aufzug ist außer Betrieb.\r",
+        "Warnung! Hochspannung!\n",
+        "Bitte bleibe auf sicherer Distanz!"
+      ]
+    },
+    {
+      "id": "msg_0537_00004",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0537_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0537_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0537_00007",
+      "de_DE": [
+        "Troy: So sieht man sich wieder!\n",
+        "Warst du eigentlich schon mal\f",
+        "in der Hoenn-Region?\r",
+        "Das Meerwasser dort ist ganz klar\n",
+        "und die Landschaft ist wunderschön.\f",
+        "Das sollte man mal gesehen haben!\r",
+        "Oh, übrigens!\n",
+        "Wollen wir nicht Pokémon tauschen?\r",
+        "Ich suche nach einem FORSTELLKA!\n",
+        "Wenn du eins hast, würdest du es\f",
+        "gegen mein TANHEL tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0537_00008",
+      "de_DE": [
+        "Troy: Nimmst du mein TANHEL im\n",
+        "Tausch für ein FORSTELLKA? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0537_00009",
+      "de_DE": "Troy: Klasse! Wir haben also einen Deal!\r"
+    },
+    {
+      "id": "msg_0537_00010",
+      "de_DE": "Troy: Oh, na gut. Schade..."
+    },
+    {
+      "id": "msg_0537_00011",
+      "de_DE": [
+        "Troy: ...Hältst du dieses Pokémon etwa\n",
+        "wirklich für ein FORSTELLKA?"
+      ]
+    },
+    {
+      "id": "msg_0537_00012",
+      "de_DE": [
+        "Troy: In Hoenn haben wir keine\n",
+        "FORSTELLKA, weißt du...\r",
+        "Das ist gerade das erste Mal, dass\n",
+        "ich eins vor mir sehe! Vielen Dank!\r",
+        "Oha, ist es wirklich schon so spät?\n",
+        "Ich muss dann leider weiter!\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00013",
+      "de_DE": [
+        "Troy: Du und dieses Pokémon, ihr\n",
+        "versteht euch sehr gut, nicht wahr?\r",
+        "Könnte es vielleicht sein, dass du ein\n",
+        "Faible für Stahl-Pokémon hast?\f",
+        "Aha, dachte ich’s mir doch!\r",
+        "Ja, ich kann dich nur zu gut verstehen.\n",
+        "Diese robuste Verarbeitung...\f",
+        "Und wie sich die Sonne auf ihrer\f",
+        "kühlen Oberfläche widerspiegelt!\f",
+        "Damit können nur Stahl-Pokémon dienen!\r",
+        "Und dann erst dieser ablehnende Blick\n",
+        "in den Augen meines TANHEL,\f",
+        "wenn ich es in den Arm nehme...\f",
+        "Da spürt man sofort die Einsamkeit und\f",
+        "den Stolz, der den Pokémon innewohnt.\r",
+        "Aber langer Rede kurzer Sinn:\n",
+        "Mein METAGROSS ist einfach superstark.\f",
+        "Und extrem cool dazu!\r",
+        "... ... ...\r",
+        "Oha, ist es wirklich schon so spät?\n",
+        "Hat Spaß gemacht, mit dir zu reden!\f",
+        "Ich muss dann leider weiter!\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00014",
+      "de_DE": [
+        "Ja, hallo?\n",
+        "Oh, äh, nein...\f",
+        "Nein, die Verbindung ist bloß...\r",
+        "Der Rest hängt von meinem Vater ab...\r",
+        "Ja, in Ordnung...\n",
+        "Ja, ich komme jetzt zurück. Bis gleich!\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00015",
+      "de_DE": [
+        "Troy: Oh, du bist doch bestimmt ein...\n",
+        "Ja, diesen Blick kenne ich nur zu gut.\r",
+        "Das Funkeln in den Augen eines Trainers\n",
+        "werde ich nie in meinem Leben vergessen.\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00016",
+      "de_DE": [
+        "Troy: Oh, ist das nicht ein Pokédex?\n",
+        "Verstehe, dann bist du also auch\f",
+        "auf der Suche nach Pokémon!\r",
+        "Hm, in Ordnung... dann erlaube mir, dir\n",
+        "ein wenig unter die Arme zu greifen!\r",
+        "Stelle dir jetzt bitte mal einen wirklich\n",
+        "hübschen Stein vor. Welche Farbe\f",
+        "hat er in deinem Kopf? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0537_00017",
+      "de_DE": "Grün"
+    },
+    {
+      "id": "msg_0537_00018",
+      "de_DE": "Rot"
+    },
+    {
+      "id": "msg_0537_00019",
+      "de_DE": "Blau"
+    },
+    {
+      "id": "msg_0537_00020",
+      "de_DE": [
+        "Troy: Hehe! Eine gute Wahl!\n",
+        "In Ordnung, dann bekommst du\f",
+        "jetzt dieses {STRVAR_1 0, 1, 0} von mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00021",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{STRVAR_1 0, 1, 0} von Troy!"
+      ]
+    },
+    {
+      "id": "msg_0537_00022",
+      "de_DE": [
+        "Troy: Trainiere es mit viel Liebe!\n",
+        "Du könntest mir keine größere Freude\f",
+        "machen, als es deinen Fähigkeiten\f",
+        "entsprechend zu trainieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00023",
+      "de_DE": [
+        "Troy: Schön, schön... dafür gäbe\n",
+        "es von mir dieses Pokémon...\r",
+        "Aber leider wird da nichts draus!\n",
+        "Dein Team ist nämlich schon voll!\r",
+        "Schaffe bitte etwas Platz am PC!\n",
+        "Ich warte hier auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0537_00024",
+      "de_DE": [
+        "Troy: Dann stelle ich dir jetzt\n",
+        "noch mal dieselbe Frage...\f",
+        "Welche Farbe hat der Stein? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0537_00025",
+      "de_DE": [
+        "Möchtest du {STRVAR_1 0, 1, 0}\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0537_00026",
+      "de_DE": [
+        "Troy: Ein toller Spitzname, für den\n",
+        "du dich da entschieden hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0537_00027",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0537_00028",
+      "de_DE": [
+        "Troy: Du scheinst eine überaus\n",
+        "vorsichtige Natur zu haben.\r",
+        "Du achtest wohl sehr darauf,\n",
+        "deinen Mitmenschen nicht\f",
+        "in die Quere zu kommen...\f",
+        "Dir kann man echt nicht böse sein."
+      ]
+    },
+    {
+      "id": "msg_0537_00029",
+      "garbage": 37
+    },
+    {
+      "id": "msg_0537_00030",
+      "garbage": 145
+    }
+  ]
+}

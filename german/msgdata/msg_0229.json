@@ -1,0 +1,48 @@
+{
+  "key": 18260,
+  "messages": [
+    {
+      "id": "msg_0229_00000",
+      "de_DE": [
+        "Der Spielstand ist beschädigt. Der\n",
+        "vorherige Spielstand wird geladen."
+      ]
+    },
+    {
+      "id": "msg_0229_00001",
+      "de_DE": [
+        "Der Spielstand wurde gelöscht,\n",
+        "da die Daten beschädigt waren."
+      ]
+    },
+    {
+      "id": "msg_0229_00002",
+      "de_DE": [
+        "Das zuletzt angelegte Kampfvideo ist\n",
+        "beschädigt.\r",
+        "Das davor angelegte Kampfvideo wird\n",
+        "stattdessen geladen."
+      ]
+    },
+    {
+      "id": "msg_0229_00003",
+      "de_DE": "Ein Kampfvideo wurde offenbar gelöscht."
+    },
+    {
+      "id": "msg_0229_00004",
+      "de_DE": [
+        "Die zuletzt angelegte Kampfsaal-\n",
+        "Aufzeichnung ist beschädigt.\r",
+        "Die davor angelegte Aufzeichnung\n",
+        "wird stattdessen geladen."
+      ]
+    },
+    {
+      "id": "msg_0229_00005",
+      "de_DE": [
+        "Die Kampfsaal-Aufzeichnung wurde\n",
+        "gelöscht."
+      ]
+    }
+  ]
+}

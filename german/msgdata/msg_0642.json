@@ -1,0 +1,35 @@
+{
+  "key": 41228,
+  "messages": [
+    {
+      "id": "msg_0642_00000",
+      "de_DE": "Radladen"
+    },
+    {
+      "id": "msg_0642_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}?\r",
+        "Du bist mir vielleicht einer!"
+      ]
+    },
+    {
+      "id": "msg_0642_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}?\r",
+        "Du bist mir vielleicht eine!"
+      ]
+    },
+    {
+      "id": "msg_0642_00003",
+      "de_DE": [
+        "Hallo, ich bin’s, vom Fahrradladen!\n",
+        "Unsere Fahrradverkäufe brechen alle\f",
+        "Rekorde!\r",
+        "Das verdanken wir nur dir, weil du mit\n",
+        "unserem Fahrrad herumgefahren bist.\r",
+        "Als Dankeschön darfst du das Fahrrad\n",
+        "behalten. Herzlichen Dank!"
+      ]
+    }
+  ]
+}

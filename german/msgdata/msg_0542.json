@@ -1,0 +1,256 @@
+{
+  "key": 20271,
+  "messages": [
+    {
+      "id": "msg_0542_00000",
+      "de_DE": "Wow, dein Pokécom ist beeindruckend!"
+    },
+    {
+      "id": "msg_0542_00001",
+      "de_DE": "Oh! {STRVAR_1 3, 0, 0}!"
+    },
+    {
+      "id": "msg_0542_00002",
+      "de_DE": "Oh! {STRVAR_1 3, 0, 0}!"
+    },
+    {
+      "id": "msg_0542_00003",
+      "de_DE": "Was machst du hier ganz alleine?\r"
+    },
+    {
+      "id": "msg_0542_00004",
+      "de_DE": [
+        "Du weißt doch, wie gefährlich es ist,\n",
+        "ohne Pokémon das Haus zu verlassen!\r",
+        "Der Weg bis in die Nachbarstadt ist\n",
+        "schließlich von hohem Gras umgeben,\f",
+        "wo dir lauter wilde Pokémon auflauern!"
+      ]
+    },
+    {
+      "id": "msg_0542_00005",
+      "de_DE": [
+        "Oh! Dein Pokémon ist bezaubernd!\n",
+        "Ich wünschte, ich hätte auch so eins."
+      ]
+    },
+    {
+      "id": "msg_0542_00006",
+      "de_DE": [
+        "Oh, heißt das etwa, du verlässt\n",
+        "uns schon wieder, {STRVAR_1 3, 0, 0}?\r",
+        "Gib auf jeden Fall deiner Mutter\n",
+        "Bescheid, bevor du aufbrichst!"
+      ]
+    },
+    {
+      "id": "msg_0542_00007",
+      "de_DE": [
+        "Oh, heißt das etwa, du verlässt\n",
+        "uns schon wieder, {STRVAR_1 3, 0, 0}?\r",
+        "Gib auf jeden Fall deiner Mutter\n",
+        "Bescheid, bevor du aufbrichst!"
+      ]
+    },
+    {
+      "id": "msg_0542_00008",
+      "de_DE": [
+        "Mit dem Pokécom kannst du jederzeit\n",
+        "deine Mutter anrufen und ihr erzählen,\f",
+        "wie es dir so geht!"
+      ]
+    },
+    {
+      "id": "msg_0542_00009",
+      "de_DE": "Oh, du hast aber einen schönen Beutel!"
+    },
+    {
+      "id": "msg_0542_00010",
+      "de_DE": "Stopp, warte mal eben!\r"
+    },
+    {
+      "id": "msg_0542_00011",
+      "de_DE": [
+        "Wo ist denn dein Pokécom?\r",
+        "Du hast ihn doch nicht etwa\n",
+        "zu Hause liegen lassen, oder?\r",
+        "Frage mal deine Mutter danach!"
+      ]
+    },
+    {
+      "id": "msg_0542_00012",
+      "de_DE": [
+        "Tag, {STRVAR_1 3, 0, 0}!\r",
+        "Es heißt, Professor Lind habe\n",
+        "neue Pokémon gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0542_00013",
+      "de_DE": [
+        "... ... ...\r",
+        "Das ist also das berühmte\n",
+        "Lind-Pokémon-Labor...\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00014",
+      "de_DE": "...Hey! Starre mich nicht so an!\r"
+    },
+    {
+      "id": "msg_0542_00015",
+      "de_DE": [
+        "Lyra: {STRVAR_1 3, 0, 0}!\r",
+        "Das Pokémon, das du bekommen hast,\n",
+        "ist ein {STRVAR_1 0, 1, 0}, stimmt’s?\r",
+        "Ach ja, das ist echt ein tolles Pokémon!\r",
+        "Wenn du es so spazieren führst,\n",
+        "wird es immer zutraulicher werden.\r",
+        "Vergiss nicht, dich manchmal\n",
+        "umzudrehen und mit ihm zu reden!\r",
+        "Oh, und warum stellst du es nicht\n",
+        "auch mal deiner Mutter vor?\r",
+        "Also dann, man sieht sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00016",
+      "de_DE": [
+        "Klarin: {STRVAR_1 3, 0, 0}!\r",
+        "Das Pokémon, das du bekommen hast,\n",
+        "ist ein {STRVAR_1 0, 1, 0}, stimmt’s?\r",
+        "Ach ja, das ist echt ein tolles Pokémon!\r",
+        "Wenn du es so spazieren führst,\n",
+        "wird es immer zutraulicher werden.\r",
+        "Vergiss nicht, dich manchmal\n",
+        "umzudrehen und mit ihm zu reden!\r",
+        "Oh, und warum stellst du es nicht\n",
+        "auch mal deiner Mutter vor?\r",
+        "Also dann, man sieht sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00017",
+      "de_DE": "Lind: Heeey, warte mal eben!\r"
+    },
+    {
+      "id": "msg_0542_00018",
+      "de_DE": [
+        "Mann, beinahe hätte ich’s vergessen!\n",
+        "Ich wollte dir noch meine Telefonnummer\f",
+        "mit auf den Weg geben!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Prof. Linds Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0542_00020",
+      "de_DE": [
+        "Lind: Gut! Wenn es irgendetwas\n",
+        "geben sollte, rufe ich dich an!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00021",
+      "de_DE": "{STRVAR_1 1, 0, 0}! Wo willst du hin?\r"
+    },
+    {
+      "id": "msg_0542_00022",
+      "de_DE": [
+        "Professor Lind möchte dir etwas geben\n",
+        "und wartet schon die ganze Zeit in\f",
+        "seinem Labor auf dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00023",
+      "de_DE": [
+        "Hast du mir nicht richtig zugehört?\r",
+        "Ich sagte, Professor Lind wartet\n",
+        "in seinem Labor auf dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00024",
+      "de_DE": "Muss ich erst böse werden?\r"
+    },
+    {
+      "id": "msg_0542_00025",
+      "de_DE": [
+        "Lyra: Was die Kimono-Girls wohl von\n",
+        "dir wollen?"
+      ]
+    },
+    {
+      "id": "msg_0542_00026",
+      "de_DE": [
+        "Klarin: Was die Kimono-Girls wohl von\n",
+        "dir wollen?"
+      ]
+    },
+    {
+      "id": "msg_0542_00027",
+      "de_DE": "Lyra: Nanu? {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0542_00028",
+      "de_DE": "Klarin: Nanu? {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0542_00029",
+      "de_DE": [
+        "Ich glaube, du musst in eine\n",
+        "andere Richtung, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00030",
+      "de_DE": [
+        "Ich glaube, du musst in eine\n",
+        "andere Richtung, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0542_00031",
+      "de_DE": [
+        "Lyra: Sag mal, hat dein Pokémon in\n",
+        "letzter Zeit etwas zugenommen?"
+      ]
+    },
+    {
+      "id": "msg_0542_00032",
+      "de_DE": [
+        "Klarin: Hm, dein Pokémon ist in letzter\n",
+        "Zeit ein bisschen dick geworden!"
+      ]
+    },
+    {
+      "id": "msg_0542_00033",
+      "de_DE": "MARILL: Marill!\r"
+    },
+    {
+      "id": "msg_0542_00034",
+      "de_DE": [
+        "Neuborkia\n",
+        "Die Stadt der ersten Schritte"
+      ]
+    },
+    {
+      "id": "msg_0542_00035",
+      "de_DE": "Haus von {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0542_00036",
+      "de_DE": "Lind-Pokémon-Labor"
+    },
+    {
+      "id": "msg_0542_00037",
+      "de_DE": "Professor Linds Haus"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "key": 8,
+  "messages": [
+    {
+      "id": "msg_0029_00000",
+      "de_DE": "{STRVAR_1 0, 0, 0} wurde gefangen!"
+    },
+    {
+      "id": "msg_0029_00001",
+      "de_DE": [
+        "Soll {STRVAR_1 0, 1, 0} durch\n",
+        "{STRVAR_1 0, 0, 0} ersetzt werden?"
+      ]
+    },
+    {
+      "id": "msg_0029_00002",
+      "de_DE": [
+        "{STRVAR_1 0, 1, 0} ist wieder frei.\n",
+        "{STRVAR_1 0, 0, 0} wurde gefangen!"
+      ]
+    },
+    {
+      "id": "msg_0029_00003",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} ist wieder frei.\n",
+        "{STRVAR_1 0, 1, 0} wurde behalten!"
+      ]
+    },
+    {
+      "id": "msg_0029_00004",
+      "de_DE": "{STRVAR_1 0, 0, 0}"
+    },
+    {
+      "id": "msg_0029_00005",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0029_00006",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0029_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0029_00008",
+      "garbage": 5
+    }
+  ]
+}

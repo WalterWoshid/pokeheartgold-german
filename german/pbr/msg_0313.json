@@ -1,0 +1,29 @@
+{
+  "key": 27514,
+  "messages": [
+    {
+      "id": "msg_0313_00000",
+      "de_DE": "RUHMESHALLE Nr. {STRVAR_1 53, 0}, {STRVAR_1 51, 3}. {STRVAR_1 74, 2} {STRVAR_1 53, 1}"
+    },
+    {
+      "id": "msg_0313_00001",
+      "de_DE": "Lv.{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0313_00002",
+      "de_DE": "OT: "
+    },
+    {
+      "id": "msg_0313_00003",
+      "de_DE": "{COLOR 2}♂{COLOR 0}"
+    },
+    {
+      "id": "msg_0313_00004",
+      "de_DE": "{COLOR 1}♀{COLOR 0}"
+    },
+    {
+      "id": "msg_0313_00005",
+      "de_DE": "/"
+    }
+  ]
+}

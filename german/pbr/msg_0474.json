@@ -1,0 +1,82 @@
+{
+  "key": 38532,
+  "messages": [
+    {
+      "id": "msg_0474_00000",
+      "de_DE": [
+        "Avenaro: Hey, wenn das\n",
+        "nicht {STRVAR_1 3, 0} ist!\r",
+        "Sag bloß, du gehst auch\n",
+        "zum Kahlberg?\r",
+        "Du siehst schwächlich aus...\n",
+        "Kommst du auch wirklich zurecht?\r",
+        "Hm, wieso frage ich das eigentlich?\n",
+        "Interessiert mich doch gar nicht.\r",
+        "Egal, wenn wir uns auf dem Kahlberg\n",
+        "begegnen, sehen wir mal, wer als\f",
+        "Erster den Magmastein erreicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0474_00001",
+      "de_DE": [
+        "Marinus: Wenn das nicht {STRVAR_1 3, 0}\n",
+        "ist! Lang ist’s her!\r",
+        "Du bist schon so gut geworden,\n",
+        "dass du hier trainierst...\r",
+        "Jeder wird besser und besser...\r",
+        "Dabei wird das Band zwischen Trainern\n",
+        "und ihren Pokémon immer fester...\r"
+      ]
+    },
+    {
+      "id": "msg_0474_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 1}: ...Für jemanden, der von\n",
+        "Übersee kommt, hat der kleine Kämpfer\f",
+        "aber keinen Akzent oder Ähnliches.\r"
+      ]
+    },
+    {
+      "id": "msg_0474_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0}, vor uns liegt ein\n",
+        "Vulkan. Heißt Kahlberg.\r",
+        "Dieser Möchtegern Avenaro ist\n",
+        "auch auf dem Weg dorthin.\r",
+        "Ich finde den Schatz des Vulkans,\n",
+        "bevor er ihn sich krallt.\r",
+        "Wenn ich das schaffe, ist eine 21er\n",
+        "Siegesserie im Duellturm kein Problem!\r"
+      ]
+    },
+    {
+      "id": "msg_0474_00004",
+      "de_DE": [
+        "Marinus: ...Bist du noch bei Sinnen?!?\n",
+        "Du gehst zum Kahlberg?!?\r",
+        "Die wilden Pokémon dort sind ziemlich\n",
+        "schwer zu besiegen...\r",
+        "Wenn deine Pokémon nicht vorbereitet\n",
+        "sind, erleben sie eine Überraschung...\r",
+        "Andererseits ist so eine\n",
+        "Herausforderung schon verlockend...\r",
+        "So oder so, du musst dich für diese\n",
+        "Reise ordentlich vorbereiten!\r",
+        "Ich muss mich auf ein weiteres\n",
+        "Turnier vorbereiten. Mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0474_00005",
+      "de_DE": [
+        "Kahlberg\n",
+        "Route 227"
+      ]
+    },
+    {
+      "id": "msg_0474_00006",
+      "garbage": 0
+    }
+  ]
+}

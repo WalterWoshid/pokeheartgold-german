@@ -1,0 +1,4310 @@
+{
+  "key": 27800,
+  "messages": [
+    {
+      "id": "msg_0749_00000",
+      "de_DE": "-"
+    },
+    {
+      "id": "msg_0749_00001",
+      "de_DE": [
+        "Ein Hieb mit den\n",
+        "Vorderbeinen oder\n",
+        "dem Schweif."
+      ]
+    },
+    {
+      "id": "msg_0749_00002",
+      "de_DE": [
+        "Gute Möglichkeit,\n",
+        "einen Volltreffer\n",
+        "zu landen."
+      ]
+    },
+    {
+      "id": "msg_0749_00003",
+      "de_DE": [
+        "Trifft den Gegner\n",
+        "2 - 5-mal\n",
+        "hintereinander."
+      ]
+    },
+    {
+      "id": "msg_0749_00004",
+      "de_DE": [
+        "Trifft den Gegner\n",
+        "2 - 5-mal\n",
+        "hintereinander."
+      ]
+    },
+    {
+      "id": "msg_0749_00005",
+      "de_DE": [
+        "Ein unglaublich\n",
+        "kräftiger Hieb."
+      ]
+    },
+    {
+      "id": "msg_0749_00006",
+      "de_DE": [
+        "Der Gegner wird\n",
+        "mit Münzen beworfen.\n",
+        "Das Geld wird\n",
+        "erstattet."
+      ]
+    },
+    {
+      "id": "msg_0749_00007",
+      "de_DE": [
+        "Schlag, der dem\n",
+        "Gegner eventuell\n",
+        "Verbrennungen\n",
+        "zufügt."
+      ]
+    },
+    {
+      "id": "msg_0749_00008",
+      "de_DE": [
+        "Ein Schlag, der\n",
+        "den Gegner\n",
+        "eventuell einfriert."
+      ]
+    },
+    {
+      "id": "msg_0749_00009",
+      "de_DE": [
+        "Schlag, der den\n",
+        "Gegner eventuell\n",
+        "paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00010",
+      "de_DE": [
+        "Der Gegner wird\n",
+        "mit scharfen\n",
+        "Klauen zerkratzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00011",
+      "de_DE": [
+        "Umklammert den\n",
+        "Gegner mit großen,\n",
+        "kräftigen Zangen."
+      ]
+    },
+    {
+      "id": "msg_0749_00012",
+      "de_DE": [
+        "Kräftige Scheren-\n",
+        "Attacke. Führt bei\n",
+        "Gegner sofort\n",
+        "zum K.O."
+      ]
+    },
+    {
+      "id": "msg_0749_00013",
+      "de_DE": [
+        "Eine Attacke, die\n",
+        "auf zwei Runden\n",
+        "basiert. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00014",
+      "de_DE": [
+        "Ein wilder Kampftanz,\n",
+        "der den Angriffs-Wert\n",
+        "drastisch erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00015",
+      "de_DE": [
+        "Ein Basisangriff mit\n",
+        "Schere oder Klaue.\n",
+        "Damit können kleine\n",
+        "Bäume gefällt werden."
+      ]
+    },
+    {
+      "id": "msg_0749_00016",
+      "de_DE": [
+        "Trifft den Gegner\n",
+        "mit einem Windstoß\n",
+        "durch Flügelschlag."
+      ]
+    },
+    {
+      "id": "msg_0749_00017",
+      "de_DE": [
+        "Trifft den Gegner\n",
+        "mit weit gespreizten\n",
+        "Flügeln."
+      ]
+    },
+    {
+      "id": "msg_0749_00018",
+      "de_DE": [
+        "Weht Gegner weg und\n",
+        "ersetzt ihn durch ein\n",
+        "anderes Pokémon. In\n",
+        "der Wildnis beendet d.\n",
+        "Attacke den Kampf."
+      ]
+    },
+    {
+      "id": "msg_0749_00019",
+      "de_DE": [
+        "Steigt in der 1. Runde\n",
+        "empor und trifft den\n",
+        "Gegner in Runde 2.\n",
+        "Ermöglicht Flug in\n",
+        "jede bekannte Stadt."
+      ]
+    },
+    {
+      "id": "msg_0749_00020",
+      "de_DE": [
+        "Umklammert und\n",
+        "quetscht den Gegner\n",
+        "über 2 - 5 Runden."
+      ]
+    },
+    {
+      "id": "msg_0749_00021",
+      "de_DE": [
+        "Schlag mit einem\n",
+        "langen Schweif,\n",
+        "einer Ranke oder\n",
+        "Ähnlichem."
+      ]
+    },
+    {
+      "id": "msg_0749_00022",
+      "de_DE": [
+        "Peitschenähnlicher\n",
+        "Schlag mit Ranken."
+      ]
+    },
+    {
+      "id": "msg_0749_00023",
+      "de_DE": [
+        "Stampfen mit dem\n",
+        "Fuß. Gegner\n",
+        "schreckt eventuell\n",
+        "zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00024",
+      "de_DE": [
+        "Der Anwender tritt\n",
+        "in einer Runde\n",
+        "zweimal schnell zu."
+      ]
+    },
+    {
+      "id": "msg_0749_00025",
+      "de_DE": [
+        "Der Gegner wird\n",
+        "mit einem extrem\n",
+        "heftigen Tritt\n",
+        "angegriffen."
+      ]
+    },
+    {
+      "id": "msg_0749_00026",
+      "de_DE": [
+        "Der Angreifer hüpft\n",
+        "hoch und tritt zu.\n",
+        "Bei Misserfolg\n",
+        "Selbstschädigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00027",
+      "de_DE": [
+        "Heftiger Tritt\n",
+        "aus einer schnellen\n",
+        "Drehbewegung. Lässt\n",
+        "den Gegner eventuell\n",
+        "zurückschrecken."
+      ]
+    },
+    {
+      "id": "msg_0749_00028",
+      "de_DE": [
+        "Senkt Genauigkeit\n",
+        "des Gegners, indem\n",
+        "ihm Sand ins Gesicht\n",
+        "geworfen wird."
+      ]
+    },
+    {
+      "id": "msg_0749_00029",
+      "de_DE": [
+        "Rammt den Gegner und\n",
+        "lässt ihn eventuell\n",
+        "zurückschrecken.\n",
+        "Schüttelt Bäume und\n",
+        "scheucht Pokémon auf."
+      ]
+    },
+    {
+      "id": "msg_0749_00030",
+      "de_DE": [
+        "Spießt den Gegner\n",
+        "mit spitzem\n",
+        "Horn auf."
+      ]
+    },
+    {
+      "id": "msg_0749_00031",
+      "de_DE": [
+        "Spießt den Gegner\n",
+        "2 - 5-mal mit\n",
+        "spitzem Horn oder\n",
+        "Schnabel auf."
+      ]
+    },
+    {
+      "id": "msg_0749_00032",
+      "de_DE": [
+        "K.O.-Attacke, die\n",
+        "ein Horn als\n",
+        "Bohrer einsetzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00033",
+      "de_DE": [
+        "Trifft den Gegner\n",
+        "mit vollem\n",
+        "Körpereinsatz."
+      ]
+    },
+    {
+      "id": "msg_0749_00034",
+      "de_DE": [
+        "Trifft den Gegner mit\n",
+        "vollem Körpereinsatz.\n",
+        "Bewirkt eventuell\n",
+        "Paralyse."
+      ]
+    },
+    {
+      "id": "msg_0749_00035",
+      "de_DE": [
+        "Umwickelt Gegner\n",
+        "über 2 - 5 Runden\n",
+        "mit Ranken oder\n",
+        "Ähnlichem und fügt\n",
+        "ihm Schaden zu."
+      ]
+    },
+    {
+      "id": "msg_0749_00036",
+      "de_DE": [
+        "Rücksichtslose\n",
+        "Attacke, bei der\n",
+        "sich der Angreifer\n",
+        "selbst verletzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00037",
+      "de_DE": [
+        "Attacke über zwei bis\n",
+        "drei Runden, die den\n",
+        "Angreifer verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00038",
+      "de_DE": [
+        "Lebensgefährlicher\n",
+        "Angriff, bei dem\n",
+        "sich der Angreifer\n",
+        "selbst verletzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00039",
+      "de_DE": [
+        "Hieb mit dem\n",
+        "Schweif, senkt\n",
+        "die Verteidigung des\n",
+        "Gegners."
+      ]
+    },
+    {
+      "id": "msg_0749_00040",
+      "de_DE": [
+        "Angriff mit\n",
+        "Giftstacheln. Der\n",
+        "Gegner wird eventuell\n",
+        "vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0749_00041",
+      "de_DE": [
+        "Stacheln an den\n",
+        "Vorderbeinen treffen\n",
+        "den Gegner zweimal.\n",
+        "Gegner wird eventuell\n",
+        "vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0749_00042",
+      "de_DE": [
+        "Spitze Nadeln\n",
+        "treffen den\n",
+        "Gegner 2 - 5-mal."
+      ]
+    },
+    {
+      "id": "msg_0749_00043",
+      "de_DE": [
+        "Gegnerischer\n",
+        "Verteidigungs-Wert\n",
+        "wird durch Angst\n",
+        "einflößenden Blick\n",
+        "gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00044",
+      "de_DE": [
+        "Beißt zu und lässt\n",
+        "den Gegner eventuell\n",
+        "zurückschrecken."
+      ]
+    },
+    {
+      "id": "msg_0749_00045",
+      "de_DE": [
+        "Der Anwender nimmt\n",
+        "den Gegner für sich\n",
+        "ein und senkt dessen\n",
+        "Angriffs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0749_00046",
+      "de_DE": [
+        "Verjagt den Gegner\n",
+        "und ersetzt ihn durch\n",
+        "anderes Pokémon.\n",
+        "Beendet den Kampf in\n",
+        "der Wildnis."
+      ]
+    },
+    {
+      "id": "msg_0749_00047",
+      "de_DE": [
+        "Ein Lied, das den\n",
+        "Gegner in tiefen\n",
+        "Schlaf versetzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00048",
+      "de_DE": [
+        "Ausstoß bizarrer\n",
+        "Schallwellen.\n",
+        "Der Gegner wird\n",
+        "verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00049",
+      "de_DE": [
+        "Schockwelle, die\n",
+        "stets 20 KP Schaden\n",
+        "anrichtet, wird\n",
+        "ausgestoßen."
+      ]
+    },
+    {
+      "id": "msg_0749_00050",
+      "de_DE": [
+        "Die zuletzt einge-\n",
+        "setzte gegn. Attacke\n",
+        "wird für mehrere\n",
+        "Runden blockiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00051",
+      "de_DE": [
+        "Versprüht ätzende\n",
+        "Flüssigkeit, die\n",
+        "eventuell die Spez.-\n",
+        "Verteidigung des\n",
+        "Gegners senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00052",
+      "de_DE": [
+        "Schwache\n",
+        "Feuer-Attacke,\n",
+        "die eventuell\n",
+        "den Gegner\n",
+        "verbrennt."
+      ]
+    },
+    {
+      "id": "msg_0749_00053",
+      "de_DE": [
+        "Starke\n",
+        "Feuer-Attacke,\n",
+        "die eventuell\n",
+        "den Gegner\n",
+        "verbrennt."
+      ]
+    },
+    {
+      "id": "msg_0749_00054",
+      "de_DE": [
+        "Anwender schützt\n",
+        "das Team mit einem\n",
+        "Nebel. Verhindert\n",
+        "Statussenkungen\n",
+        "für fünf Runden."
+      ]
+    },
+    {
+      "id": "msg_0749_00055",
+      "de_DE": [
+        "Der Gegner wird mit\n",
+        "Wasser aus dem\n",
+        "Mund bespritzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00056",
+      "de_DE": [
+        "Spritzt eine Menge\n",
+        "Wasser mit\n",
+        "Hochdruck auf\n",
+        "den Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00057",
+      "de_DE": [
+        "Eine Welle bricht\n",
+        "über alle PKMN außer\n",
+        "dem Anwender herein.\n",
+        "Macht das Surfen\n",
+        "möglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00058",
+      "de_DE": [
+        "Der Gegner wird von\n",
+        "einem Eisstrahl\n",
+        "getroffen und\n",
+        "friert eventuell ein."
+      ]
+    },
+    {
+      "id": "msg_0749_00059",
+      "de_DE": [
+        "Ein Schneesturm\n",
+        "wütet, der den\n",
+        "Gegner einfrieren\n",
+        "kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00060",
+      "de_DE": [
+        "Feuert einen Strahl\n",
+        "ab, der den\n",
+        "Gegner verwirren\n",
+        "kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00061",
+      "de_DE": [
+        "Versprüht Blasen, die\n",
+        "eventuell den\n",
+        "Initiative-Wert des\n",
+        "Gegners senken."
+      ]
+    },
+    {
+      "id": "msg_0749_00062",
+      "de_DE": [
+        "Regenbogenfarbener\n",
+        "Strahl, der eventuell\n",
+        "den Angriffs-Wert des\n",
+        "Gegners senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00063",
+      "de_DE": [
+        "Starke Attacke, die\n",
+        "den Angreifer\n",
+        "zwingt, eine Runde\n",
+        "auszusetzen."
+      ]
+    },
+    {
+      "id": "msg_0749_00064",
+      "de_DE": [
+        "Greift Gegner mit\n",
+        "dem Schnabel\n",
+        "oder Horn an."
+      ]
+    },
+    {
+      "id": "msg_0749_00065",
+      "de_DE": [
+        "Korkenzieherangriff,\n",
+        "bei dem der\n",
+        "Schnabel als\n",
+        "Bohrer dient."
+      ]
+    },
+    {
+      "id": "msg_0749_00066",
+      "de_DE": [
+        "Harte Körperattacke,\n",
+        "bei der sich der\n",
+        "Angreifer selbst\n",
+        "verletzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00067",
+      "de_DE": [
+        "Tritt, der Gegner\n",
+        "umwirft und massigen\n",
+        "Gegnern schweren\n",
+        "Schaden zufügt."
+      ]
+    },
+    {
+      "id": "msg_0749_00068",
+      "de_DE": [
+        "Kontert physischen\n",
+        "Treffer mit\n",
+        "doppelter Kraft,\n",
+        "fügt doppelten\n",
+        "Schaden zu."
+      ]
+    },
+    {
+      "id": "msg_0749_00069",
+      "de_DE": [
+        "Gegner wird mit der\n",
+        "Kraft der Gravitation\n",
+        "umgeworfen. Richtet\n",
+        "Schaden gemäß Level\n",
+        "des Angreifers an."
+      ]
+    },
+    {
+      "id": "msg_0749_00070",
+      "de_DE": [
+        "Gegner wird extrem\n",
+        "stark getroffen. \n",
+        "Verschieben von\n",
+        "Felsen möglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00071",
+      "de_DE": [
+        "Attacke, die die\n",
+        "Hälfte des\n",
+        "Schadens\n",
+        "absorbiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00072",
+      "de_DE": [
+        "Starke Attacke, die\n",
+        "die Hälfte des\n",
+        "Schadens\n",
+        "absorbiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00073",
+      "de_DE": [
+        "Gegner wird bepflanzt\n",
+        "und verliert jede\n",
+        "Runde KP, die wiederum\n",
+        "den Anwender heilen."
+      ]
+    },
+    {
+      "id": "msg_0749_00074",
+      "de_DE": [
+        "Der Körper wächst\n",
+        "und der\n",
+        "Spezial-Angriff\n",
+        "wird erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00075",
+      "de_DE": [
+        "Trifft Gegner mit\n",
+        "Blättern. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00076",
+      "de_DE": [
+        "Absorbiert Licht in\n",
+        "der 1. Runde.\n",
+        "In Runde 2\n",
+        "erfolgt der Angriff."
+      ]
+    },
+    {
+      "id": "msg_0749_00077",
+      "de_DE": [
+        "Verstreut giftigen\n",
+        "Puder, der den\n",
+        "Gegner vergiften\n",
+        "kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00078",
+      "de_DE": [
+        "Verstreut Puder,\n",
+        "der den\n",
+        "Gegner eventuell\n",
+        "paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00079",
+      "de_DE": [
+        "Verstreut Puder,\n",
+        "der den Gegner\n",
+        "eventuell in Schlaf\n",
+        "versetzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00080",
+      "de_DE": [
+        "Angriff mit Blüten-\n",
+        "blättern für 2 - 3\n",
+        "Runden. Angreifer\n",
+        "wird verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00081",
+      "de_DE": [
+        "Umwickelt Gegner\n",
+        "mit Faden aus\n",
+        "dem Mund und\n",
+        "senkt Init.-Wert."
+      ]
+    },
+    {
+      "id": "msg_0749_00082",
+      "de_DE": [
+        "Stößt Schockwelle\n",
+        "aus, die stets\n",
+        "40 KP Schaden\n",
+        "anrichtet."
+      ]
+    },
+    {
+      "id": "msg_0749_00083",
+      "de_DE": [
+        "Der Gegner wird\n",
+        "für 2 - 5 Runden in\n",
+        "einem Feuerkreis\n",
+        "gefangen."
+      ]
+    },
+    {
+      "id": "msg_0749_00084",
+      "de_DE": [
+        "Eine Elektro-\n",
+        "Attacke, die den\n",
+        "Gegner eventuell\n",
+        "paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00085",
+      "de_DE": [
+        "Eine starke\n",
+        "Elektro-Attacke,\n",
+        "die den Gegner\n",
+        "evtl. paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00086",
+      "de_DE": [
+        "Ein schwacher\n",
+        "Stromstoß, der\n",
+        "den Gegner\n",
+        "paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00087",
+      "de_DE": [
+        "Eine verheerende\n",
+        "Elektro-Attacke,\n",
+        "die den Gegner\n",
+        "evtl. paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00088",
+      "de_DE": [
+        "Der Gegner wird\n",
+        "mit einem Stein\n",
+        "beworfen."
+      ]
+    },
+    {
+      "id": "msg_0749_00089",
+      "de_DE": [
+        "Ein mächtiges Beben,\n",
+        "das, abgesehen von\n",
+        "fliegenden Pokémon,\n",
+        "alle kämpfenden PKMN\n",
+        "(außer Anw.) trifft."
+      ]
+    },
+    {
+      "id": "msg_0749_00090",
+      "de_DE": [
+        "Der Gegner wird in\n",
+        "eine Erdspalte ge-\n",
+        "worfen. Ist die Att.\n",
+        "erfolgreich, führt sie\n",
+        "zu einem K.O."
+      ]
+    },
+    {
+      "id": "msg_0749_00091",
+      "de_DE": [
+        "In Runde 1 eingraben\n",
+        "und in Runde 2\n",
+        "angreifen. Flucht aus\n",
+        "Höhlen möglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00092",
+      "de_DE": [
+        "Vergiftet den Gegner\n",
+        "mit einem potenten\n",
+        "Toxin. Vergiftung wird\n",
+        "von Runde zu Runde\n",
+        "stärker."
+      ]
+    },
+    {
+      "id": "msg_0749_00093",
+      "de_DE": [
+        "Der Gegner wird von\n",
+        "schwacher telekine-\n",
+        "tischer Energie ge-\n",
+        "troffen und eventuell\n",
+        "verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00094",
+      "de_DE": [
+        "Starke Psycho-\n",
+        "Attacke, die evtl.\n",
+        "Spezial-Verteidigung\n",
+        "des Gegners senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00095",
+      "de_DE": [
+        "Hypno-Attacke,\n",
+        "die den Gegner\n",
+        "in Schlaf versetzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00096",
+      "de_DE": [
+        "Friedliche Meditation,\n",
+        "um den Angriffs-Wert\n",
+        "zu steigern."
+      ]
+    },
+    {
+      "id": "msg_0749_00097",
+      "de_DE": [
+        "Entspannt den\n",
+        "Körper, um den\n",
+        "Initiative-Wert\n",
+        "stark zu steigern."
+      ]
+    },
+    {
+      "id": "msg_0749_00098",
+      "de_DE": [
+        "Sehr schneller\n",
+        "Angriff mit\n",
+        "Erstschlaggarantie."
+      ]
+    },
+    {
+      "id": "msg_0749_00099",
+      "de_DE": [
+        "Erhöht Angriff des\n",
+        "Anwenders bei jedem\n",
+        "gegnerischen Treffer."
+      ]
+    },
+    {
+      "id": "msg_0749_00100",
+      "de_DE": [
+        "Fliehe sofort vor\n",
+        "wilden PKMN.\n",
+        "Warp zum letzten\n",
+        "PKMN-Center."
+      ]
+    },
+    {
+      "id": "msg_0749_00101",
+      "de_DE": [
+        "Gegner sieht eine\n",
+        "Illusion. Richtet\n",
+        "Schaden gemäß\n",
+        "Level des\n",
+        "Anwenders an."
+      ]
+    },
+    {
+      "id": "msg_0749_00102",
+      "de_DE": [
+        "Kopiert die zuvor\n",
+        "ausgeführte Attacke\n",
+        "des Gegners. Kann bis\n",
+        "zum Ende des Kampfes\n",
+        "verwendet werden."
+      ]
+    },
+    {
+      "id": "msg_0749_00103",
+      "de_DE": [
+        "Stößt einen Schrei\n",
+        "aus, um gegnerische\n",
+        "Verteidigung stark\n",
+        "zu senken."
+      ]
+    },
+    {
+      "id": "msg_0749_00104",
+      "de_DE": [
+        "Erzeugt Ebenbilder,\n",
+        "um Fluchtwert\n",
+        "zu erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00105",
+      "de_DE": [
+        "Eine Selbstheilung.\n",
+        "KP des Anwenders\n",
+        "werden mit 50 % d.\n",
+        "max. KP aufgefüllt."
+      ]
+    },
+    {
+      "id": "msg_0749_00106",
+      "de_DE": [
+        "Stärkt die\n",
+        "Muskulatur und\n",
+        "erhöht den\n",
+        "Verteidigungs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0749_00107",
+      "de_DE": [
+        "Anwender\n",
+        "schrumpft, um\n",
+        "Fluchtwert zu\n",
+        "erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00108",
+      "de_DE": [
+        "Senkt Genauigkeit\n",
+        "des Gegners mit\n",
+        "Rauch, Tinte oder\n",
+        "Ähnlichem."
+      ]
+    },
+    {
+      "id": "msg_0749_00109",
+      "de_DE": [
+        "Ein fieser Strahl,\n",
+        "der den Gegner\n",
+        "verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00110",
+      "de_DE": [
+        "Rückzug in den\n",
+        "harten Panzer.\n",
+        "Erhöht den\n",
+        "Verteidigungs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0749_00111",
+      "de_DE": [
+        "Verbirgt Schwächen\n",
+        "durch Einrollen und\n",
+        "hebt gleichzeitig den\n",
+        "Verteidigungs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0749_00112",
+      "de_DE": [
+        "Erzeugt Barriere,\n",
+        "die den \n",
+        "Verteidigungs-Wert\n",
+        "stark erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00113",
+      "de_DE": [
+        "Erzeugt Lichtwand\n",
+        "und senkt Schaden\n",
+        "durch Spezial-Angriffe\n",
+        "für fünf Runden."
+      ]
+    },
+    {
+      "id": "msg_0749_00114",
+      "de_DE": [
+        "Erzeugt einen Nebel.\n",
+        "Alle Veränderungen\n",
+        "der Statuswerte der\n",
+        "Kampfteilnehmer\n",
+        "werden annulliert."
+      ]
+    },
+    {
+      "id": "msg_0749_00115",
+      "de_DE": [
+        "Lichtwand, die fünf\n",
+        "Runden den Schaden\n",
+        "von physischen gegn.\n",
+        "Treffern reduziert."
+      ]
+    },
+    {
+      "id": "msg_0749_00116",
+      "de_DE": [
+        "Anwender atmet ein\n",
+        "und bündelt Kraft.\n",
+        "Die Volltrefferquote\n",
+        "steigt dadurch."
+      ]
+    },
+    {
+      "id": "msg_0749_00117",
+      "de_DE": [
+        "Erträgt zwei Runden\n",
+        "Angriffe und schlägt\n",
+        "dann mit doppelter\n",
+        "Effektivität zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00118",
+      "de_DE": [
+        "Bewegt Finger, um\n",
+        "Gehirn zu stimulieren.\n",
+        "Wählt zufällig Attacke\n",
+        "aus."
+      ]
+    },
+    {
+      "id": "msg_0749_00119",
+      "de_DE": [
+        "Erwidert gegnerischen\n",
+        "Angriff mit derselben\n",
+        "Attacke."
+      ]
+    },
+    {
+      "id": "msg_0749_00120",
+      "de_DE": [
+        "Anwender sprengt\n",
+        "sich, richtet\n",
+        "Riesenschaden an und\n",
+        "wird dabei besiegt."
+      ]
+    },
+    {
+      "id": "msg_0749_00121",
+      "de_DE": [
+        "Ein großes Ei\n",
+        "wird auf den\n",
+        "Gegner abgefeuert,\n",
+        "um ihm zu schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00122",
+      "de_DE": [
+        "Leck-Attacke mit\n",
+        "langer Zunge. Der\n",
+        "Gegner wird eventuell\n",
+        "paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00123",
+      "de_DE": [
+        "Angriff mit Gas.\n",
+        "Der Gegner kann\n",
+        "eventuell vergiftet\n",
+        "werden."
+      ]
+    },
+    {
+      "id": "msg_0749_00124",
+      "de_DE": [
+        "Wirft Schlamm auf\n",
+        "Gegner, der eventuell\n",
+        "vergiftet wird."
+      ]
+    },
+    {
+      "id": "msg_0749_00125",
+      "de_DE": [
+        "Schlägt Gegner\n",
+        "mit einer Keule\n",
+        "und verschreckt\n",
+        "ihn eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00126",
+      "de_DE": [
+        "Feuersbrunst, die\n",
+        "alles versengt.\n",
+        "Verbrennt den\n",
+        "Gegner eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00127",
+      "de_DE": [
+        "Eine mächtige\n",
+        "Attacke. Wasserfälle\n",
+        "können damit\n",
+        "erklommen werden."
+      ]
+    },
+    {
+      "id": "msg_0749_00128",
+      "de_DE": [
+        "Fängt und quetscht\n",
+        "den Gegner für\n",
+        "2 - 5 Runden durch\n",
+        "die harte Schale\n",
+        "des Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00129",
+      "de_DE": [
+        "Verschießt\n",
+        "sternförmige\n",
+        "Strahlen, die stets\n",
+        "treffen, auf alle\n",
+        "Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00130",
+      "de_DE": [
+        "In Runde 1 wird\n",
+        "die Verteidigung\n",
+        "erhöht und in Runde 2\n",
+        "angegriffen."
+      ]
+    },
+    {
+      "id": "msg_0749_00131",
+      "de_DE": [
+        "Verschießt spitze\n",
+        "Stacheln auf den\n",
+        "Gegner, die\n",
+        "2 - 5-mal treffen."
+      ]
+    },
+    {
+      "id": "msg_0749_00132",
+      "de_DE": [
+        "Angriff mit langen\n",
+        "Tentakeln o. Ranken.\n",
+        "Senkt eventuell\n",
+        "Initiative-Wert."
+      ]
+    },
+    {
+      "id": "msg_0749_00133",
+      "de_DE": [
+        "Gedächtnisverlust,\n",
+        "der die Spezial-\n",
+        "Verteidigung deutlich\n",
+        "erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00134",
+      "de_DE": [
+        "Lenkt Gegner durch\n",
+        "Verbiegen eines\n",
+        "Löffels ab. Senkt\n",
+        "eventuell die gegn.\n",
+        "Genauigkeit."
+      ]
+    },
+    {
+      "id": "msg_0749_00135",
+      "de_DE": [
+        "KP des Anwenders\n",
+        "werden mit 50 % d.\n",
+        "max. KP aufgefüllt.\n",
+        "Heilung des Teams\n",
+        "außerhalb v. Kämpfen."
+      ]
+    },
+    {
+      "id": "msg_0749_00136",
+      "de_DE": [
+        "Sprungtritt mit\n",
+        "Knie. Bei Misserfolg\n",
+        "verletzt sich der\n",
+        "Anwender selbst."
+      ]
+    },
+    {
+      "id": "msg_0749_00137",
+      "de_DE": [
+        "Schüchtert Gegner\n",
+        "mit einem fiesen Blick\n",
+        "ein, so dass er\n",
+        "paralysiert ist."
+      ]
+    },
+    {
+      "id": "msg_0749_00138",
+      "de_DE": [
+        "Schaden an\n",
+        "schlafendem Gegner\n",
+        "wird halb Anwender\n",
+        "gutgeschrieben."
+      ]
+    },
+    {
+      "id": "msg_0749_00139",
+      "de_DE": [
+        "Hüllt Gegner in Gas\n",
+        "ein, das ihn vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0749_00140",
+      "de_DE": [
+        "Wirft 2 - 5-mal runde\n",
+        "Gegenstände auf den\n",
+        "Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00141",
+      "de_DE": [
+        "Die Hälfte des\n",
+        "zugefügten Schadens\n",
+        "wird dem Anwender\n",
+        "gutgeschrieben."
+      ]
+    },
+    {
+      "id": "msg_0749_00142",
+      "de_DE": [
+        "Anwender zwingt\n",
+        "dem Gegner einen\n",
+        "Kuss auf, der Schlaf\n",
+        "verursacht."
+      ]
+    },
+    {
+      "id": "msg_0749_00143",
+      "de_DE": [
+        "Angriff über zwei\n",
+        "Runden mit hoher\n",
+        "Volltrefferquote.\n",
+        "Gegner schreckt\n",
+        "eventuell zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00144",
+      "de_DE": [
+        "Anwender verwandelt\n",
+        "sich in ein Abbild des\n",
+        "Gegners und kann so\n",
+        "auf die gleichen\n",
+        "Attacken zugreifen."
+      ]
+    },
+    {
+      "id": "msg_0749_00145",
+      "de_DE": [
+        "Angriff mit Blasen.\n",
+        "Initiative-Wert des\n",
+        "Gegners wird\n",
+        "eventuell gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00146",
+      "de_DE": [
+        "Rhythmische Schläge,\n",
+        "die den Gegner\n",
+        "verwirren können."
+      ]
+    },
+    {
+      "id": "msg_0749_00147",
+      "de_DE": [
+        "Erzeugt eine Wolke\n",
+        "aus einschläfernden\n",
+        "Sporen."
+      ]
+    },
+    {
+      "id": "msg_0749_00148",
+      "de_DE": [
+        "Erzeugt helles Licht,\n",
+        "das die gegnerische\n",
+        "Genauigkeit senkt\n",
+        "und Höhlen\n",
+        "ausleuchten kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00149",
+      "de_DE": [
+        "Heiße Energiewelle mit\n",
+        "unterschiedlicher\n",
+        "Intensität wird\n",
+        "erzeugt."
+      ]
+    },
+    {
+      "id": "msg_0749_00150",
+      "de_DE": [
+        "Nur ein Platscher,\n",
+        "der überhaupt\n",
+        "nichts bewirkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00151",
+      "de_DE": [
+        "Verflüssigt\n",
+        "Körperzellen des\n",
+        "Anwenders. Erhöht\n",
+        "den Verteidigungs-\n",
+        "Wert stark."
+      ]
+    },
+    {
+      "id": "msg_0749_00152",
+      "de_DE": [
+        "Schlägt mit Schere\n",
+        "zu. Die Volltreffer-\n",
+        "quote ist hoch."
+      ]
+    },
+    {
+      "id": "msg_0749_00153",
+      "de_DE": [
+        "Anwender explodiert,\n",
+        "richtet bei allen\n",
+        "Pokémon großen\n",
+        "Schaden an und\n",
+        "wird besiegt."
+      ]
+    },
+    {
+      "id": "msg_0749_00154",
+      "de_DE": [
+        "Beharkt Gegner\n",
+        "2 - 5-mal mit\n",
+        "scharfen Klauen\n",
+        "oder Sicheln."
+      ]
+    },
+    {
+      "id": "msg_0749_00155",
+      "de_DE": [
+        "Ein Bumerang aus\n",
+        "Knochen, der\n",
+        "zweimal trifft."
+      ]
+    },
+    {
+      "id": "msg_0749_00156",
+      "de_DE": [
+        "Anwender schläft\n",
+        "zwei Runden, um\n",
+        "KP und Status voll\n",
+        "zu erneuern."
+      ]
+    },
+    {
+      "id": "msg_0749_00157",
+      "de_DE": [
+        "Schleudert riesige\n",
+        "Felsen. Gegner\n",
+        "schreckt eventuell\n",
+        "zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00158",
+      "de_DE": [
+        "Angriff mit scharfen\n",
+        "Reißzähnen. Gegner\n",
+        "schreckt eventuell\n",
+        "zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00159",
+      "de_DE": [
+        "Anwender senkt die\n",
+        "Polygonzahl, um\n",
+        "Kanten zu erzeugen,\n",
+        "die den Angriffs-Wert\n",
+        "erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00160",
+      "de_DE": [
+        "Wandelt den Typ des\n",
+        "Anwenders in den Typ\n",
+        "einer Attacke des\n",
+        "Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00161",
+      "de_DE": [
+        "Feuert Strahlen ab.\n",
+        "Verursacht eventuell\n",
+        "Paralyse,\n",
+        "Verbrennung\n",
+        "oder Einfrieren."
+      ]
+    },
+    {
+      "id": "msg_0749_00162",
+      "de_DE": [
+        "Greift mit scharfen\n",
+        "Reißzähnen an.\n",
+        "Gegnerische KP\n",
+        "werden halbiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00163",
+      "de_DE": [
+        "Hieb mit Klauen oder\n",
+        "Ähnlichem. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00164",
+      "de_DE": [
+        "Lockvogel, der eine\n",
+        "gewisse Anzahl der\n",
+        "max. KP des\n",
+        "Anwenders besitzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00165",
+      "de_DE": [
+        "Einsatz nur bei\n",
+        "verbrauchten AP.\n",
+        "Anwender verletzt\n",
+        "sich selbst."
+      ]
+    },
+    {
+      "id": "msg_0749_00166",
+      "de_DE": [
+        "Kopiert stets\n",
+        "die letzte\n",
+        "gegn. Attacke."
+      ]
+    },
+    {
+      "id": "msg_0749_00167",
+      "de_DE": [
+        "Tritt Gegner 1- bis\n",
+        "3-mal nacheinander.\n",
+        "Die Härte der Tritte\n",
+        "nimmt von Treffer zu\n",
+        "Treffer zu."
+      ]
+    },
+    {
+      "id": "msg_0749_00168",
+      "de_DE": [
+        "Gegnerisches Item\n",
+        "kann gestohlen\n",
+        "werden, wenn\n",
+        "Anwender kein\n",
+        "Item hält."
+      ]
+    },
+    {
+      "id": "msg_0749_00169",
+      "de_DE": [
+        "Wickelt Gegner\n",
+        "ein. Flucht oder\n",
+        "Tausch unmöglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00170",
+      "de_DE": [
+        "Ahnt gegnerische\n",
+        "Aktion voraus, um zu\n",
+        "gewährleisten, dass\n",
+        "die nächste Attacke\n",
+        "trifft."
+      ]
+    },
+    {
+      "id": "msg_0749_00171",
+      "de_DE": [
+        "Dem schlafenden\n",
+        "Gegner wird durch\n",
+        "einen Alptraum in\n",
+        "jeder Runde Schaden\n",
+        "zugefügt."
+      ]
+    },
+    {
+      "id": "msg_0749_00172",
+      "de_DE": [
+        "Feuer-Attacke, die\n",
+        "den Gegner eventuell\n",
+        "verbrennt."
+      ]
+    },
+    {
+      "id": "msg_0749_00173",
+      "de_DE": [
+        "Attacke nur\n",
+        "im Schlaf möglich.\n",
+        "Gegner schreckt\n",
+        "eventuell zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00174",
+      "de_DE": [
+        "Eine Attacke, die\n",
+        "bei Geist-Pokémon\n",
+        "anders funktioniert."
+      ]
+    },
+    {
+      "id": "msg_0749_00175",
+      "de_DE": [
+        "Attacke richtet\n",
+        "mehr Schaden\n",
+        "an, wenn eigene\n",
+        "KP niedrig sind."
+      ]
+    },
+    {
+      "id": "msg_0749_00176",
+      "de_DE": [
+        "Anwender ändert\n",
+        "Typ und wird gegen\n",
+        "letzten Angriffstyp\n",
+        "resistent."
+      ]
+    },
+    {
+      "id": "msg_0749_00177",
+      "de_DE": [
+        "Erzeugt Luftstrudel\n",
+        "gegen Gegner. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00178",
+      "de_DE": [
+        "Wattebäusche\n",
+        "heften sich an den\n",
+        "Gegner. \n",
+        "Der Initiative-Wert\n",
+        "sinkt stark."
+      ]
+    },
+    {
+      "id": "msg_0749_00179",
+      "de_DE": [
+        "Richtet mehr\n",
+        "Schaden an,\n",
+        "wenn eigene KP\n",
+        "niedrig sind."
+      ]
+    },
+    {
+      "id": "msg_0749_00180",
+      "de_DE": [
+        "AP der letzten\n",
+        "gegnerischen\n",
+        "Attacke werden\n",
+        "um 4 gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00181",
+      "de_DE": [
+        "Angriff mit Schnee.\n",
+        "Gegner wird eventuell\n",
+        "eingefroren."
+      ]
+    },
+    {
+      "id": "msg_0749_00182",
+      "de_DE": [
+        "Anwender weicht\n",
+        "jeder Attacke aus.\n",
+        "Scheitert eventuell\n",
+        "bei Wiederholung."
+      ]
+    },
+    {
+      "id": "msg_0749_00183",
+      "de_DE": [
+        "Extrem schneller\n",
+        "Hieb, der stets\n",
+        "zuerst trifft."
+      ]
+    },
+    {
+      "id": "msg_0749_00184",
+      "de_DE": [
+        "Erschreckt Gegner\n",
+        "mit einer Grimasse.\n",
+        "Der Initiative-Wert\n",
+        "sinkt deutlich."
+      ]
+    },
+    {
+      "id": "msg_0749_00185",
+      "de_DE": [
+        "Zieht Gegner heran\n",
+        "und entwaffnet ihn.\n",
+        "Ein Treffer ist\n",
+        "gewiss."
+      ]
+    },
+    {
+      "id": "msg_0749_00186",
+      "de_DE": [
+        "Anwender küsst\n",
+        "Gegner, der ob\n",
+        "dieser Niedlichkeit\n",
+        "verwirrt wird."
+      ]
+    },
+    {
+      "id": "msg_0749_00187",
+      "de_DE": [
+        "Maximiert den\n",
+        "Angriffs-Wert,\n",
+        "opfert jedoch die\n",
+        "Hälfte seiner KP."
+      ]
+    },
+    {
+      "id": "msg_0749_00188",
+      "de_DE": [
+        "Gegner wird mit \n",
+        "dreckigem Schlamm\n",
+        "beworfen und\n",
+        "dabei eventuell\n",
+        "vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0749_00189",
+      "de_DE": [
+        "Schadet Gegner\n",
+        "durch Matsch.\n",
+        "Die Genauigkeit\n",
+        "sinkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00190",
+      "de_DE": [
+        "Schießt Tinte, um\n",
+        "Schaden anzurichten\n",
+        "und die Genauigkeit\n",
+        "zu senken."
+      ]
+    },
+    {
+      "id": "msg_0749_00191",
+      "de_DE": [
+        "Der Anwender verteilt\n",
+        "Stacheln, die ein geg.\n",
+        "PKMN verletzen,\n",
+        "sobald es in den\n",
+        "Kampf gerufen wird."
+      ]
+    },
+    {
+      "id": "msg_0749_00192",
+      "de_DE": [
+        "Kanonenähnlicher\n",
+        "Elektro-Schuss, der\n",
+        "schadet und\n",
+        "paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00193",
+      "de_DE": [
+        "Geist-Pokémon können\n",
+        "mit jeder Att. ange-\n",
+        "griffen werden.\n",
+        "Ign. Anstieg von\n",
+        "gegn. Fluchtwert."
+      ]
+    },
+    {
+      "id": "msg_0749_00194",
+      "de_DE": [
+        "Wird der Anwender\n",
+        "besiegt, gilt das\n",
+        "auch für den\n",
+        "Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00195",
+      "de_DE": [
+        "Wer diese Musik\n",
+        "hört, wird nach drei\n",
+        "Runden besiegt.\n",
+        "Rettung durch\n",
+        "Tausch."
+      ]
+    },
+    {
+      "id": "msg_0749_00196",
+      "de_DE": [
+        "Eis-Attacke, die\n",
+        "den Initiative-Wert\n",
+        "des Gegners senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00197",
+      "de_DE": [
+        "Anwender weicht\n",
+        "jeder Attacke aus.\n",
+        "Scheitert eventuell\n",
+        "bei Wiederholung."
+      ]
+    },
+    {
+      "id": "msg_0749_00198",
+      "de_DE": [
+        "Greift Gegner 2 -\n",
+        "5-mal in Folge mit\n",
+        "einem Knochen an."
+      ]
+    },
+    {
+      "id": "msg_0749_00199",
+      "de_DE": [
+        "Visiert Gegner an\n",
+        "und trifft in der\n",
+        "nächsten Runde\n",
+        "garantiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00200",
+      "de_DE": [
+        "Anwender wiederholt\n",
+        "Angriff zwei bis drei\n",
+        "Runden lang. Anschlie-\n",
+        "ßend ist er verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00201",
+      "de_DE": [
+        "Sandsturm für fünf\n",
+        "Runden. Kein Effekt\n",
+        "bei Gestein, Boden\n",
+        "und Stahl."
+      ]
+    },
+    {
+      "id": "msg_0749_00202",
+      "de_DE": [
+        "Entzieht dem Gegner\n",
+        "Nährstoffe. Die Hälfte\n",
+        "des Schadens wird\n",
+        "den KP des Anwenders\n",
+        "zugerechnet."
+      ]
+    },
+    {
+      "id": "msg_0749_00203",
+      "de_DE": [
+        "1 KP bleibt nach\n",
+        "gegn. Attacken stets\n",
+        "übrig. Misserfolg bei\n",
+        "Wiederholung möglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00204",
+      "de_DE": [
+        "Betört den Gegner\n",
+        "und reduziert\n",
+        "seinen Angriff\n",
+        "deutlich."
+      ]
+    },
+    {
+      "id": "msg_0749_00205",
+      "de_DE": [
+        "Attacke, die fünf\n",
+        "Runden dauert.\n",
+        "Die Härte nimmt\n",
+        "von Mal zu Mal zu."
+      ]
+    },
+    {
+      "id": "msg_0749_00206",
+      "de_DE": [
+        "Ein Angriff, der\n",
+        "dem Gegner\n",
+        "zumindest 1 KP\n",
+        "lässt."
+      ]
+    },
+    {
+      "id": "msg_0749_00207",
+      "de_DE": [
+        "Verwirrt den Gegner\n",
+        "und erhöht den\n",
+        "gegnerischen\n",
+        "Angriffs-Wert\n",
+        "deutlich."
+      ]
+    },
+    {
+      "id": "msg_0749_00208",
+      "de_DE": [
+        "KP des Anwenders\n",
+        "werden mit 50 % d.\n",
+        "max. KP aufgefüllt.\n",
+        "Heilung vom Team\n",
+        "außerhalb v. Kämpfen."
+      ]
+    },
+    {
+      "id": "msg_0749_00209",
+      "de_DE": [
+        "Elektro-Hieb, der\n",
+        "den Gegner\n",
+        "paralysieren kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00210",
+      "de_DE": [
+        "Eine Attacke mit\n",
+        "Scheren oder Klauen,\n",
+        "deren Härte bei jedem\n",
+        "Treffer zunimmt."
+      ]
+    },
+    {
+      "id": "msg_0749_00211",
+      "de_DE": [
+        "Trifft den Gegner\n",
+        "mit Stahlflügeln.\n",
+        "Vert.-Wert des\n",
+        "Anwenders steigt\n",
+        "eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00212",
+      "de_DE": [
+        "Böser Blick, der\n",
+        "die Flucht des\n",
+        "Gegners vereitelt."
+      ]
+    },
+    {
+      "id": "msg_0749_00213",
+      "de_DE": [
+        "Angriff auf Anwender \n",
+        "v. anderen Geschlecht\n",
+        "wird unwahrscheinlich."
+      ]
+    },
+    {
+      "id": "msg_0749_00214",
+      "de_DE": [
+        "Setzt per Zufall\n",
+        "eine ihm bekannte\n",
+        "Attacke im Schlaf ein."
+      ]
+    },
+    {
+      "id": "msg_0749_00215",
+      "de_DE": [
+        "Läutet beruhigend\n",
+        "und heilt alle\n",
+        "Statusprobleme im\n",
+        "Team."
+      ]
+    },
+    {
+      "id": "msg_0749_00216",
+      "de_DE": [
+        "Angriff, dessen Kraft\n",
+        "bei Freundschaft zum\n",
+        "Trainer größer wird."
+      ]
+    },
+    {
+      "id": "msg_0749_00217",
+      "de_DE": [
+        "Eine Bombe als\n",
+        "Geschenk. Es\n",
+        "kann auch KP\n",
+        "wiederherstellen."
+      ]
+    },
+    {
+      "id": "msg_0749_00218",
+      "de_DE": [
+        "Die Attacke wird\n",
+        "stärker, je mehr der\n",
+        "Anwender seinen\n",
+        "Trainer hasst."
+      ]
+    },
+    {
+      "id": "msg_0749_00219",
+      "de_DE": [
+        "Team des Anwenders\n",
+        "ist fünf Runden vor\n",
+        "Statusproblemen\n",
+        "geschützt."
+      ]
+    },
+    {
+      "id": "msg_0749_00220",
+      "de_DE": [
+        "Addiert KP von\n",
+        "Anwender und\n",
+        "Ziel. Teilt sie\n",
+        "gerecht auf."
+      ]
+    },
+    {
+      "id": "msg_0749_00221",
+      "de_DE": [
+        "Mystische Feuer-\n",
+        "Attacke, die den\n",
+        "Gegner eventuell\n",
+        "verbrennt."
+      ]
+    },
+    {
+      "id": "msg_0749_00222",
+      "de_DE": [
+        "Erdbebenartiger\n",
+        "Angriff von zufälliger\n",
+        "Stärke gegen alle\n",
+        "stehenden PKMN\n",
+        "(außer Anwender)."
+      ]
+    },
+    {
+      "id": "msg_0749_00223",
+      "de_DE": [
+        "Kräftiger Schlag,\n",
+        "der den Gegner\n",
+        "bei Erfolg verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00224",
+      "de_DE": [
+        "Brutaler Rammangriff\n",
+        "mit spitzem,\n",
+        "beeindruckendem\n",
+        "Horn."
+      ]
+    },
+    {
+      "id": "msg_0749_00225",
+      "de_DE": [
+        "Fegt den Gegner\n",
+        "mit zerstörerisch\n",
+        "heißem Atem weg.\n",
+        "Paralysiert Gegner\n",
+        "eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00226",
+      "de_DE": [
+        "Tauscht PKMN aus.\n",
+        "Alle Statuswert-\n",
+        "veränderungen\n",
+        "bleiben bestehen."
+      ]
+    },
+    {
+      "id": "msg_0749_00227",
+      "de_DE": [
+        "Gegner wiederholt\n",
+        "letzte Attacke drei\n",
+        "bis sieben Runden\n",
+        "lang."
+      ]
+    },
+    {
+      "id": "msg_0749_00228",
+      "de_DE": [
+        "Richtet großen\n",
+        "Schaden bei\n",
+        "Austausch des\n",
+        "Gegners an."
+      ]
+    },
+    {
+      "id": "msg_0749_00229",
+      "de_DE": [
+        "Trifft den Gegner mit\n",
+        "einer Dreh-Attacke,\n",
+        "die u. a. Klammergriff,\n",
+        "Wickel, Egelsamen\n",
+        "u. Stachler eliminiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00230",
+      "de_DE": [
+        "Lockt Gegner an und\n",
+        "senkt deren Flucht-\n",
+        "wert. Lockt im Gras\n",
+        "auch wilde PKMN an."
+      ]
+    },
+    {
+      "id": "msg_0749_00231",
+      "de_DE": [
+        "Attacke mit hartem\n",
+        "Eisenschweif.\n",
+        "Senkt eventuell den\n",
+        "Verteidigungs-Wert\n",
+        "des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0749_00232",
+      "de_DE": [
+        "Klauen-Attacke, die\n",
+        "eventuell den\n",
+        "Angriffs-Wert des\n",
+        "Anwenders erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00233",
+      "de_DE": [
+        "Anwender greift als\n",
+        "Zweiter an, hat dafür\n",
+        "aber eine Treffer-\n",
+        "garantie beim eigenen\n",
+        "Angriff."
+      ]
+    },
+    {
+      "id": "msg_0749_00234",
+      "de_DE": [
+        "Füllt KP des\n",
+        "Anwenders auf.\n",
+        "Die Menge hängt\n",
+        "vom Wetter ab."
+      ]
+    },
+    {
+      "id": "msg_0749_00235",
+      "de_DE": [
+        "Füllt KP des\n",
+        "Anwenders auf.\n",
+        "Die Menge hängt\n",
+        "vom Wetter ab."
+      ]
+    },
+    {
+      "id": "msg_0749_00236",
+      "de_DE": [
+        "Füllt KP des\n",
+        "Anwenders auf.\n",
+        "Die Menge hängt\n",
+        "vom Wetter ab."
+      ]
+    },
+    {
+      "id": "msg_0749_00237",
+      "de_DE": [
+        "Die Wirkung und\n",
+        "Typ der Attacke hängt\n",
+        "vom Anwender ab."
+      ]
+    },
+    {
+      "id": "msg_0749_00238",
+      "de_DE": [
+        "Doppelter Hieb mit den\n",
+        "Vorderarmen. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00239",
+      "de_DE": [
+        "Trifft Gegner mit\n",
+        "heftigem Wirbelsturm.\n",
+        "Gegner schreckt\n",
+        "eventuell zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00240",
+      "de_DE": [
+        "Anwender erzeugt\n",
+        "starken Regen. Die\n",
+        "Stärke von Wasser-\n",
+        "Attacken erhöht sich\n",
+        "fünf Runden lang."
+      ]
+    },
+    {
+      "id": "msg_0749_00241",
+      "de_DE": [
+        "Anwender intensiviert\n",
+        "Kraft der Sonne. Die\n",
+        "Stärke von Feuer-\n",
+        "Attacken erhöht sich\n",
+        "fünf Runden lang."
+      ]
+    },
+    {
+      "id": "msg_0749_00242",
+      "de_DE": [
+        "Beißt mit scharfen\n",
+        "Reißzähnen zu und\n",
+        "senkt eventuell die\n",
+        "Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00243",
+      "de_DE": [
+        "Kontert den\n",
+        "Spezial-Angriff\n",
+        "des Gegners mit\n",
+        "zweifacher Kraft."
+      ]
+    },
+    {
+      "id": "msg_0749_00244",
+      "de_DE": [
+        "Selbsthypnose des\n",
+        "Anw. zur Kopie der\n",
+        "Statusveränderungen\n",
+        "des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0749_00245",
+      "de_DE": [
+        "Extrem schnelle\n",
+        "und kraftvolle\n",
+        "Attacke, die stets\n",
+        "zuerst trifft."
+      ]
+    },
+    {
+      "id": "msg_0749_00246",
+      "de_DE": [
+        "Angriff mit antiker\n",
+        "Kraft, der alle\n",
+        "Statuswerte\n",
+        "erhöhen kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00247",
+      "de_DE": [
+        "Bewirft Gegner mit\n",
+        "gruseligem Ball und\n",
+        "senkt eventuell die\n",
+        "Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00248",
+      "de_DE": [
+        "Zwei Runden, nachdem\n",
+        "Seher eingesetzt\n",
+        "wurde, erfolgt der\n",
+        "Angriff."
+      ]
+    },
+    {
+      "id": "msg_0749_00249",
+      "de_DE": [
+        "Angriff, der eventuell\n",
+        "die Verteidigung des\n",
+        "Gegners senkt. Kann\n",
+        "auch Steine zer-\n",
+        "trümmern."
+      ]
+    },
+    {
+      "id": "msg_0749_00250",
+      "de_DE": [
+        "Hält Gegner zwei bis\n",
+        "fünf Runden in einem\n",
+        "Strudel gefangen.\n",
+        "Ermöglicht das Über-\n",
+        "queren von Strudeln."
+      ]
+    },
+    {
+      "id": "msg_0749_00251",
+      "de_DE": [
+        "Das Team nimmt aktiv\n",
+        "am Kampf teil.\n",
+        "Je mehr Pokémon,\n",
+        "desto stärker."
+      ]
+    },
+    {
+      "id": "msg_0749_00252",
+      "de_DE": [
+        "Attacke trifft\n",
+        "zuerst. Gegner\n",
+        "schreckt zurück.\n",
+        "Gelingt nur in\n",
+        "der 1. Runde."
+      ]
+    },
+    {
+      "id": "msg_0749_00253",
+      "de_DE": [
+        "Erzeugt für zwei\n",
+        "bis fünf Runden\n",
+        "einen Aufruhr.\n",
+        "Verhindert Schlaf."
+      ]
+    },
+    {
+      "id": "msg_0749_00254",
+      "de_DE": [
+        "Lädt Kraft für später\n",
+        "auf. Erhöht Verteidig.\n",
+        "und Spezial-Verteidig.\n",
+        "Kann bis zu dreimal\n",
+        "eingesetzt werden."
+      ]
+    },
+    {
+      "id": "msg_0749_00255",
+      "de_DE": [
+        "Entlädt die Kraft, die\n",
+        "während des Einsatzes\n",
+        "von Horter gesammelt\n",
+        "wurde."
+      ]
+    },
+    {
+      "id": "msg_0749_00256",
+      "de_DE": [
+        "Absorbiert die\n",
+        "gehortete Kraft,\n",
+        "um KP aufzufüllen."
+      ]
+    },
+    {
+      "id": "msg_0749_00257",
+      "de_DE": [
+        "Gegner wird von\n",
+        "Sturm aus heißer\n",
+        "Luft getroffen und\n",
+        "verbrennt sich\n",
+        "eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00258",
+      "de_DE": [
+        "Hagelsturm für fünf\n",
+        "Runden. Schadet\n",
+        "allen, außer\n",
+        "Eis-Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0749_00259",
+      "de_DE": [
+        "Erzürnt Gegner, um\n",
+        "wiederholten Einsatz\n",
+        "derselben Attacke\n",
+        "zu verhindern."
+      ]
+    },
+    {
+      "id": "msg_0749_00260",
+      "de_DE": [
+        "Schmeichelt Gegner,\n",
+        "um ihn zu verwirren.\n",
+        "Erhöht dessen\n",
+        "Spezial-Angriff."
+      ]
+    },
+    {
+      "id": "msg_0749_00261",
+      "de_DE": [
+        "Angriff mit blau-\n",
+        "weißer Flamme,\n",
+        "die den Gegner\n",
+        "verbrennt."
+      ]
+    },
+    {
+      "id": "msg_0749_00262",
+      "de_DE": [
+        "Der Anwender ist\n",
+        "besiegt und senkt\n",
+        "den gegnerischen\n",
+        "Angriffs-Wert und\n",
+        "Spezial-Angriff stark."
+      ]
+    },
+    {
+      "id": "msg_0749_00263",
+      "de_DE": [
+        "Erhöht Angriff nach\n",
+        "Verbrennung,\n",
+        "Paralyse oder\n",
+        "Vergiftung."
+      ]
+    },
+    {
+      "id": "msg_0749_00264",
+      "de_DE": [
+        "Anwender konzen-\n",
+        "triert sich, bevor er\n",
+        "angreift. Wird er\n",
+        "vorher getroffen, ist\n",
+        "die Att. erfolglos."
+      ]
+    },
+    {
+      "id": "msg_0749_00265",
+      "de_DE": [
+        "Doppelt wirksam\n",
+        "gegen paralysierte\n",
+        "Gegner, heilt sie\n",
+        "aber davon auch."
+      ]
+    },
+    {
+      "id": "msg_0749_00266",
+      "de_DE": [
+        "Zieht Aufmerksam-\n",
+        "keit auf sich.\n",
+        "Gegner greift nur\n",
+        "Anwender an."
+      ]
+    },
+    {
+      "id": "msg_0749_00267",
+      "de_DE": [
+        "Der Typ des Angriffs\n",
+        "hängt vom Ort ab.\n",
+        "Die Kraft der Natur\n",
+        "wird genutzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00268",
+      "de_DE": [
+        "Lädt Energie für\n",
+        "die kommende\n",
+        "Elektro-Attacke\n",
+        "auf. Erhöht die\n",
+        "Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00269",
+      "de_DE": [
+        "Legt den Gegner\n",
+        "rein. Er kann zwei\n",
+        "bis vier Runden\n",
+        "nur noch angreifen."
+      ]
+    },
+    {
+      "id": "msg_0749_00270",
+      "de_DE": [
+        "Steigert die Kraft\n",
+        "der Angriffe des\n",
+        "Freundes in einem\n",
+        "Doppelkampf."
+      ]
+    },
+    {
+      "id": "msg_0749_00271",
+      "de_DE": [
+        "Erwischt Gegner auf\n",
+        "dem falschen Fuß.\n",
+        "Gehaltene Items\n",
+        "werden mit Anwender\n",
+        "getauscht."
+      ]
+    },
+    {
+      "id": "msg_0749_00272",
+      "de_DE": [
+        "Parodiert Gegner\n",
+        "und kopiert seine\n",
+        "Fähigkeit."
+      ]
+    },
+    {
+      "id": "msg_0749_00273",
+      "de_DE": [
+        "Ein Wunsch, der KP\n",
+        "auffüllt. KP d. Anwen-\n",
+        "ders werden mit 50 % \n",
+        "d. max. KP in der nä.\n",
+        "Runde aufgefüllt."
+      ]
+    },
+    {
+      "id": "msg_0749_00274",
+      "de_DE": [
+        "Greift zufällig mit\n",
+        "einer Attacke eines\n",
+        "Teampartners an."
+      ]
+    },
+    {
+      "id": "msg_0749_00275",
+      "de_DE": [
+        "Verwurzelung füllt\n",
+        "jede Runde KP auf.\n",
+        "Austausch ist\n",
+        "unmöglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00276",
+      "de_DE": [
+        "Starker Angriff, der\n",
+        "sowohl Angriff als\n",
+        "auch Verteidigung des\n",
+        "Anwenders senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00277",
+      "de_DE": [
+        "Egelsamen und\n",
+        "jede Attacke mit\n",
+        "statusverändernden\n",
+        "Effekten prallen ab."
+      ]
+    },
+    {
+      "id": "msg_0749_00278",
+      "de_DE": [
+        "Recycling eines getra-\n",
+        "genen Items, das\n",
+        "zuvor im Kampf\n",
+        "verwendet wurde."
+      ]
+    },
+    {
+      "id": "msg_0749_00279",
+      "de_DE": [
+        "Schaden verdoppelt\n",
+        "sich, wenn Anwender\n",
+        "in der Runde bereits\n",
+        "Schaden von diesem\n",
+        "Gegner genommen hat."
+      ]
+    },
+    {
+      "id": "msg_0749_00280",
+      "de_DE": [
+        "Durchbricht Barrieren\n",
+        "wie Lichtschild und\n",
+        "Reflektor."
+      ]
+    },
+    {
+      "id": "msg_0749_00281",
+      "de_DE": [
+        "Angreifer gähnt und\n",
+        "Gegner schläft in der\n",
+        "nächsten Runde ein."
+      ]
+    },
+    {
+      "id": "msg_0749_00282",
+      "de_DE": [
+        "Schlägt Gegner\n",
+        "Item weg. Vereitelt\n",
+        "so den Gebrauch\n",
+        "während d. Kampfes."
+      ]
+    },
+    {
+      "id": "msg_0749_00283",
+      "de_DE": [
+        "Trifft nur, wenn KP\n",
+        "des Anw. geringer\n",
+        "als KP des Gegn. sind.\n",
+        "Senkt gegn. KP auf\n",
+        "Niveau d. KP des Anw."
+      ]
+    },
+    {
+      "id": "msg_0749_00284",
+      "de_DE": [
+        "Explosiver Angriff.\n",
+        "Je höher die KP\n",
+        "des Anwenders sind,\n",
+        "desto mehr Schaden\n",
+        "wird angerichtet."
+      ]
+    },
+    {
+      "id": "msg_0749_00285",
+      "de_DE": [
+        "Anwender tauscht\n",
+        "Fähigkeit mit\n",
+        "gegnerischem\n",
+        "Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0749_00286",
+      "de_DE": [
+        "Hindert Gegner am\n",
+        "Einsatz von\n",
+        "Attacken, die der\n",
+        "Anwender kennt."
+      ]
+    },
+    {
+      "id": "msg_0749_00287",
+      "de_DE": [
+        "Selbstheilung bei\n",
+        "Vergiftung, \n",
+        "Paralyse und\n",
+        "Verbrennung."
+      ]
+    },
+    {
+      "id": "msg_0749_00288",
+      "de_DE": [
+        "Wird der Anwender\n",
+        "besiegt, werden\n",
+        "AP der Finalattacke\n",
+        "gelöscht."
+      ]
+    },
+    {
+      "id": "msg_0749_00289",
+      "de_DE": [
+        "Raubt den Effekt der\n",
+        "gegn. heilenden oder\n",
+        "Werte verändernden\n",
+        "Attacke."
+      ]
+    },
+    {
+      "id": "msg_0749_00290",
+      "de_DE": [
+        "Angriff, der abhängig\n",
+        "vom Ort noch einen\n",
+        "Zusatzeffekt hat."
+      ]
+    },
+    {
+      "id": "msg_0749_00291",
+      "de_DE": [
+        "Der Anwender\n",
+        "taucht in der 1.\n",
+        "Runde unter und\n",
+        "trifft in Runde 2."
+      ]
+    },
+    {
+      "id": "msg_0749_00292",
+      "de_DE": [
+        "Schläge mit\n",
+        "geradem Arm, die\n",
+        "den Gegner 2 - 5-\n",
+        "mal treffen."
+      ]
+    },
+    {
+      "id": "msg_0749_00293",
+      "de_DE": [
+        "Der Typ des Anwenders\n",
+        "passt sich der\n",
+        "Umgebung an, sei es\n",
+        "im Wasser, im Gras\n",
+        "oder in einer Höhle."
+      ]
+    },
+    {
+      "id": "msg_0749_00294",
+      "de_DE": [
+        "Ein blinkendes\n",
+        "Licht, das den\n",
+        "Spezial-Angriff\n",
+        "deutlich erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00295",
+      "de_DE": [
+        "Angriff mit grellem\n",
+        "Licht, der die\n",
+        "Spezial-Verteidigung\n",
+        "des Gegners\n",
+        "eventuell senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00296",
+      "de_DE": [
+        "Angriff mit einer\n",
+        "Kugel aus Wasser, die\n",
+        "Nebel enthält. Senkt\n",
+        "evtl. den Spezial-\n",
+        "Angriff des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0749_00297",
+      "de_DE": [
+        "Hüllt Gegner in\n",
+        "Daunen und\n",
+        "senkt den Angriffs-\n",
+        "Wert deutlich."
+      ]
+    },
+    {
+      "id": "msg_0749_00298",
+      "de_DE": [
+        "Ein Wackeltanz,\n",
+        "der Pokémon im \n",
+        "Kampf verwirrt, mit\n",
+        "Ausnahme des\n",
+        "Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00299",
+      "de_DE": [
+        "Starker Tritt mit\n",
+        "hoher Volltreffer-\n",
+        "quote. Verursacht\n",
+        "eventuell\n",
+        "Verbrennung."
+      ]
+    },
+    {
+      "id": "msg_0749_00300",
+      "de_DE": [
+        "Schwächt Elektro-\n",
+        "Attacken, solange\n",
+        "der Anwender am\n",
+        "Kampf teilnimmt."
+      ]
+    },
+    {
+      "id": "msg_0749_00301",
+      "de_DE": [
+        "Roll-Angriff für fünf\n",
+        "Runden. Bei Erfolg\n",
+        "nimmt die Stärke zu."
+      ]
+    },
+    {
+      "id": "msg_0749_00302",
+      "de_DE": [
+        "Angriff mit dornigen\n",
+        "Armen. Gegner\n",
+        "schreckt eventuell\n",
+        "zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00303",
+      "de_DE": [
+        "Durch Müßiggang\n",
+        "werden KP des\n",
+        "Anwenders mit 50 %\n",
+        "d. max. KP aufgefüllt."
+      ]
+    },
+    {
+      "id": "msg_0749_00304",
+      "de_DE": [
+        "Laute Attacke mit\n",
+        "Schallwellen."
+      ]
+    },
+    {
+      "id": "msg_0749_00305",
+      "de_DE": [
+        "Angriff mit\n",
+        "Giftreißzähnen.\n",
+        "Gegner wird eventuell\n",
+        "schwer vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0749_00306",
+      "de_DE": [
+        "Angriff mit scharfen\n",
+        "Klauen. Senkt\n",
+        "eventuell den\n",
+        "Verteidigungs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0749_00307",
+      "de_DE": [
+        "Gegner wird von\n",
+        "starker Explosion\n",
+        "getroffen. Angreifer\n",
+        "setzt eine Runde aus."
+      ]
+    },
+    {
+      "id": "msg_0749_00308",
+      "de_DE": [
+        "Gegner wird von\n",
+        "Wasserkanone\n",
+        "getroffen. Angreifer\n",
+        "setzt eine Runde aus."
+      ]
+    },
+    {
+      "id": "msg_0749_00309",
+      "de_DE": [
+        "Angriff mit einem\n",
+        "harten, schnellen\n",
+        "Schlag. Erhöht\n",
+        "eventuell Angr.-Wert\n",
+        "des Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00310",
+      "de_DE": [
+        "Anwender greift mit\n",
+        "einem Schrei an. Ein\n",
+        "Angriff, der den Gegn.\n",
+        "eventuell zurück-\n",
+        "schrecken lässt."
+      ]
+    },
+    {
+      "id": "msg_0749_00311",
+      "de_DE": [
+        "Typ und Stärke\n",
+        "der Attacke sind\n",
+        "vom Wetter abhängig."
+      ]
+    },
+    {
+      "id": "msg_0749_00312",
+      "de_DE": [
+        "Heilt alle\n",
+        "Statusprobleme\n",
+        "des Teams mit\n",
+        "beruhigendem Duft."
+      ]
+    },
+    {
+      "id": "msg_0749_00313",
+      "de_DE": [
+        "Täuscht Weinen vor,\n",
+        "um die gegnerische\n",
+        "Spezial-Verteidigung\n",
+        "deutlich zu senken."
+      ]
+    },
+    {
+      "id": "msg_0749_00314",
+      "de_DE": [
+        "Greift mit\n",
+        "rasierklingenartigem\n",
+        "Wind an. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00315",
+      "de_DE": [
+        "Angriff mit voller\n",
+        "Kraft, der den Spez.-\n",
+        "Angriff d. Anwenders \n",
+        "durch den Rückstoß\n",
+        "deutlich senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00316",
+      "de_DE": [
+        "Geist-Pokémon können\n",
+        "mit jeder Att. ange-\n",
+        "griffen werden. Anw.\n",
+        "kann Gegner treffen,\n",
+        "die ausweichen."
+      ]
+    },
+    {
+      "id": "msg_0749_00317",
+      "de_DE": [
+        "Angriff mit Felsen.\n",
+        "Bei Erfolg wird\n",
+        "der Initiative-Wert\n",
+        "des Gegners gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00318",
+      "de_DE": [
+        "Angriff mit\n",
+        "Silberstaub.\n",
+        "Evtl. werden alle\n",
+        "Statuswerte des\n",
+        "Anwenders erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00319",
+      "de_DE": [
+        "Stößt einen spitzen\n",
+        "Schrei aus, der die\n",
+        "Spezial-Verteidigung\n",
+        "des Gegners deutlich\n",
+        "senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00320",
+      "de_DE": [
+        "Versetzt Gegner mit\n",
+        "schöner Melodie in\n",
+        "Tiefschlaf."
+      ]
+    },
+    {
+      "id": "msg_0749_00321",
+      "de_DE": [
+        "Bringt Gegner zum\n",
+        "Lachen und dadurch\n",
+        "sinkt dessen Angriff\n",
+        "und Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00322",
+      "de_DE": [
+        "Erhöht Verteidigung\n",
+        "und Spezial-Verteidig.\n",
+        "durch eine mystische\n",
+        "Kraft."
+      ]
+    },
+    {
+      "id": "msg_0749_00323",
+      "de_DE": [
+        "Wasser-Attacke, die\n",
+        "wirkungsvoller ist,\n",
+        "wenn KP des\n",
+        "Anwenders hoch sind."
+      ]
+    },
+    {
+      "id": "msg_0749_00324",
+      "de_DE": [
+        "Strahlenattacke,\n",
+        "die den Gegner\n",
+        "eventuell verwirrt."
+      ]
+    },
+    {
+      "id": "msg_0749_00325",
+      "de_DE": [
+        "Angriff mit der Faust\n",
+        "aus dem\n",
+        "Schattenreich.\n",
+        "Ausweichen unmöglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00326",
+      "de_DE": [
+        "Besonderer Angriff\n",
+        "mit einer unsichtbaren\n",
+        "Kraft, die den Gegner\n",
+        "eventuell zurück-\n",
+        "schrecken lässt."
+      ]
+    },
+    {
+      "id": "msg_0749_00327",
+      "de_DE": [
+        "Kinnhaken, der den\n",
+        "Gegner gen\n",
+        "Himmel schickt."
+      ]
+    },
+    {
+      "id": "msg_0749_00328",
+      "de_DE": [
+        "Gegner leidet für\n",
+        "zwei bis fünf\n",
+        "Runden in\n",
+        "Sandhose."
+      ]
+    },
+    {
+      "id": "msg_0749_00329",
+      "de_DE": [
+        "Angriff mit Kälte,\n",
+        "die den Gegner\n",
+        "bei Erfolg besiegt."
+      ]
+    },
+    {
+      "id": "msg_0749_00330",
+      "de_DE": [
+        "Greift mit Matsch\n",
+        "an und senkt\n",
+        "eventuell die\n",
+        "Genauigkeit des\n",
+        "Gegners."
+      ]
+    },
+    {
+      "id": "msg_0749_00331",
+      "de_DE": [
+        "Der Anwender\n",
+        "wirft 2- bis 5-mal\n",
+        "in rascher Folge\n",
+        "Samen auf den Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00332",
+      "de_DE": [
+        "Eine extrem\n",
+        "schnelle und\n",
+        "unausweichbare\n",
+        "Attacke."
+      ]
+    },
+    {
+      "id": "msg_0749_00333",
+      "de_DE": [
+        "Feuert zwei bis\n",
+        "fünf Eiszapfen auf\n",
+        "den Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00334",
+      "de_DE": [
+        "Anwender stärkt\n",
+        "den Körper, um den\n",
+        "Verteidigungs-Wert\n",
+        "deutlich zu erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00335",
+      "de_DE": [
+        "Anwender versperrt\n",
+        "den Fluchtweg des\n",
+        "Gegners mit aus-\n",
+        "gestreckten Armen."
+      ]
+    },
+    {
+      "id": "msg_0749_00336",
+      "de_DE": [
+        "Anwender jault, um\n",
+        "in sich zu gehen\n",
+        "und seinen Angriffs-\n",
+        "Wert zu erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00337",
+      "de_DE": [
+        "Der Gegner wird mit\n",
+        "riesigen, scharfen\n",
+        "Klauen stark\n",
+        "verletzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00338",
+      "de_DE": [
+        "Angriff mit dickem\n",
+        "Ast. Der Angreifer\n",
+        "muss eine Runde\n",
+        "aussetzen."
+      ]
+    },
+    {
+      "id": "msg_0749_00339",
+      "de_DE": [
+        "Pumpt den Körper\n",
+        "auf, um den Angriff\n",
+        "und die Verteidigung \n",
+        "zu erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00340",
+      "de_DE": [
+        "Angreifer bespringt\n",
+        "den Gegner in Runde\n",
+        "2. Der Gegner wird\n",
+        "evtl. paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00341",
+      "de_DE": [
+        "Angriff mit Lehm, der\n",
+        "den Initiative-Wert\n",
+        "des Gegners senkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00342",
+      "de_DE": [
+        "Angriff mit hoher\n",
+        "Volltrefferquote.\n",
+        "Diese Schweifattacke\n",
+        "vergiftet den Gegner\n",
+        "eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00343",
+      "de_DE": [
+        "Bittet charmant um\n",
+        "das gehaltene Item\n",
+        "des Gegners und\n",
+        "stiehlt es dann."
+      ]
+    },
+    {
+      "id": "msg_0749_00344",
+      "de_DE": [
+        "Angriff mit Elektro-\n",
+        "Tackle. Der Anwender\n",
+        "verletzt sich dabei."
+      ]
+    },
+    {
+      "id": "msg_0749_00345",
+      "de_DE": [
+        "Magischer Blatt-\n",
+        "angriff, dem nicht\n",
+        "auszuweichen ist."
+      ]
+    },
+    {
+      "id": "msg_0749_00346",
+      "de_DE": [
+        "Schwächt Feuer-\n",
+        "Attacken, solange\n",
+        "der Anwender am\n",
+        "Kampf teilnimmt."
+      ]
+    },
+    {
+      "id": "msg_0749_00347",
+      "de_DE": [
+        "Erhöht Spez.-Angriff\n",
+        "und Spez.-\n",
+        "Verteidigung durch\n",
+        "Konzentration."
+      ]
+    },
+    {
+      "id": "msg_0749_00348",
+      "de_DE": [
+        "Hieb mit\n",
+        "scharfkantigem\n",
+        "Blatt. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00349",
+      "de_DE": [
+        "Ein mystischer\n",
+        "Tanz, der den\n",
+        "Angriffs- und\n",
+        "Initiative-Wert\n",
+        "erhöht."
+      ]
+    },
+    {
+      "id": "msg_0749_00350",
+      "de_DE": [
+        "Wirft 2 - 5-mal in\n",
+        "Folge Felsblöcke\n",
+        "auf den Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00351",
+      "de_DE": [
+        "Angriff mit schnellem\n",
+        "Elektro-Schlag.\n",
+        "Ausweichen nicht\n",
+        "möglich."
+      ]
+    },
+    {
+      "id": "msg_0749_00352",
+      "de_DE": [
+        "Angriff mit\n",
+        "Wasserwelle, die\n",
+        "den Gegner eventuell\n",
+        "verwirren kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00353",
+      "de_DE": [
+        "Angriff mit\n",
+        "Sonnenenergie erfolgt\n",
+        "zwei Runden nach\n",
+        "Attackeneinsatz."
+      ]
+    },
+    {
+      "id": "msg_0749_00354",
+      "de_DE": [
+        "Angriff mit voller\n",
+        "Kraft. Der Rückstoß\n",
+        "der Attacke senkt\n",
+        "den Spezial-Angriff\n",
+        "des Anwenders stark."
+      ]
+    },
+    {
+      "id": "msg_0749_00355",
+      "de_DE": [
+        "Anwender landet und\n",
+        "ruht sich aus. KP des\n",
+        "Anwenders werden mit\n",
+        "50 % d. max. KP\n",
+        "aufgefüllt."
+      ]
+    },
+    {
+      "id": "msg_0749_00356",
+      "de_DE": [
+        "Die Gravitation wird\n",
+        "für fünf Runden er-\n",
+        "höht. Macht Fliegen\n",
+        "unmöglich und\n",
+        "negiert Schweben."
+      ]
+    },
+    {
+      "id": "msg_0749_00357",
+      "de_DE": [
+        "Unlicht-PKMN können\n",
+        "mit jeder Att. ange-\n",
+        "griffen werden. Anw.\n",
+        "kann Geg. treffen,\n",
+        "die ausweichen."
+      ]
+    },
+    {
+      "id": "msg_0749_00358",
+      "de_DE": [
+        "Richtet großen\n",
+        "Schaden bei einem\n",
+        "schlafenden Gegner\n",
+        "an, weckt ihn aber\n",
+        "auch auf."
+      ]
+    },
+    {
+      "id": "msg_0749_00359",
+      "de_DE": [
+        "Anwender trifft mit\n",
+        "einem starken Hieb.\n",
+        "Senkt Initiative des\n",
+        "Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00360",
+      "de_DE": [
+        "Anwender führt\n",
+        "Angriff mit hoher\n",
+        "Geschwindigkeit aus.\n",
+        "Je langsamer d. Anw.,\n",
+        "desto mehr Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00361",
+      "de_DE": [
+        "Anwender geht K.O.\n",
+        "Das an seine Stelle\n",
+        "tretende Pokémon\n",
+        "hat volle KP. Status-\n",
+        "probl. werden geheilt."
+      ]
+    },
+    {
+      "id": "msg_0749_00362",
+      "de_DE": [
+        "Hat der Gegner die\n",
+        "Hälfte oder weniger\n",
+        "seiner max. KP, trifft\n",
+        "diese Attacke mit\n",
+        "doppelter Kraft."
+      ]
+    },
+    {
+      "id": "msg_0749_00363",
+      "de_DE": [
+        "Anwender zieht aus\n",
+        "seiner derzeitigen\n",
+        "Beere Kraft. Sie\n",
+        "bestimmt Typ und\n",
+        "Stärke der Attacke."
+      ]
+    },
+    {
+      "id": "msg_0749_00364",
+      "de_DE": [
+        "Gegner, die Schutz-\n",
+        "schild und Scanner\n",
+        "verwenden, werden\n",
+        "getroffen. Entfernt\n",
+        "Effekte dieser Att."
+      ]
+    },
+    {
+      "id": "msg_0749_00365",
+      "de_DE": [
+        "Anwender pickt den\n",
+        "Gegner, pflückt\n",
+        "Beere, falls Gegner\n",
+        "eine Beere hält, und\n",
+        "erhält ihren Effekt."
+      ]
+    },
+    {
+      "id": "msg_0749_00366",
+      "de_DE": [
+        "Anwender erzeugt\n",
+        "einen Wirbelwind, der\n",
+        "Initiative aller PKMN\n",
+        "im Team für drei\n",
+        "Runden steigert."
+      ]
+    },
+    {
+      "id": "msg_0749_00367",
+      "de_DE": [
+        "Anwender erhöht\n",
+        "Druck auf Stress-\n",
+        "punkte und steigert\n",
+        "einen seiner\n",
+        "Statuswerte enorm."
+      ]
+    },
+    {
+      "id": "msg_0749_00368",
+      "de_DE": [
+        "Attacke mit großer\n",
+        "Kraft gegen den\n",
+        "Gegner, der dem\n",
+        "Anwender zuletzt\n",
+        "Schaden verursachte."
+      ]
+    },
+    {
+      "id": "msg_0749_00369",
+      "de_DE": [
+        "Nach der Attacke\n",
+        "eilt der Anwender\n",
+        "zurück und tauscht\n",
+        "Platz mit einem\n",
+        "anderen Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0749_00370",
+      "de_DE": [
+        "Nahkampf-Attacke\n",
+        "ohne Rücksicht auf\n",
+        "Verluste. Senkt\n",
+        "Verteidig. u. Spezial-\n",
+        "Vert. des Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00371",
+      "de_DE": [
+        "Kann Anwender diese\n",
+        "Attacke nach einer\n",
+        "Attacke eines gegn.\n",
+        "PKMN ausführen, wird\n",
+        "die Kraft verdoppelt."
+      ]
+    },
+    {
+      "id": "msg_0749_00372",
+      "de_DE": [
+        "Hat Gegner während\n",
+        "der Runde bereits\n",
+        "Schaden genommen,\n",
+        "wird Kraft der\n",
+        "Attacke verdoppelt."
+      ]
+    },
+    {
+      "id": "msg_0749_00373",
+      "de_DE": [
+        "Verhindert, dass der\n",
+        "Gegner oder Trainer\n",
+        "des Gegners Items\n",
+        "verwenden kann."
+      ]
+    },
+    {
+      "id": "msg_0749_00374",
+      "de_DE": [
+        "Anwender schleudert\n",
+        "sein Item auf den\n",
+        "Gegner. Kraft und\n",
+        "Effekt der Attacke\n",
+        "hängen vom Item ab."
+      ]
+    },
+    {
+      "id": "msg_0749_00375",
+      "de_DE": [
+        "Anwender nutzt seine\n",
+        "Suggestivkräfte, um\n",
+        "eigene Statusprobleme\n",
+        "zum Gegner zu\n",
+        "transferieren."
+      ]
+    },
+    {
+      "id": "msg_0749_00376",
+      "de_DE": [
+        "Je weniger AP diese\n",
+        "Attacke hat, desto\n",
+        "mehr Angriffskraft\n",
+        "besitzt sie."
+      ]
+    },
+    {
+      "id": "msg_0749_00377",
+      "de_DE": [
+        "Anwender verhindert\n",
+        "für fünf Runden, dass\n",
+        "Gegner Attacken\n",
+        "verwendet, die seine\n",
+        "KP regenerieren."
+      ]
+    },
+    {
+      "id": "msg_0749_00378",
+      "de_DE": [
+        "Anwender presst\n",
+        "seinen Gegner aus.\n",
+        "Je höher die KP des\n",
+        "Gegners, desto\n",
+        "kraftvoller d. Att."
+      ]
+    },
+    {
+      "id": "msg_0749_00379",
+      "de_DE": [
+        "Anwender wendet\n",
+        "Psycho-Kräfte an,\n",
+        "um eigenen Angriffs-\n",
+        "mit Verteidigungs-\n",
+        "Wert auszutauschen."
+      ]
+    },
+    {
+      "id": "msg_0749_00380",
+      "de_DE": [
+        "Anwender greift den\n",
+        "Gegner mit eigenen\n",
+        "Magensäften an. Ent-\n",
+        "fernt Effekte gegn.\n",
+        "Fähigkeit."
+      ]
+    },
+    {
+      "id": "msg_0749_00381",
+      "de_DE": [
+        "Anwender singt eine\n",
+        "Beschwörungsformel\n",
+        "und verhindert, Opfer\n",
+        "eines Volltreffers zu\n",
+        "werden."
+      ]
+    },
+    {
+      "id": "msg_0749_00382",
+      "de_DE": [
+        "Anwender versucht,\n",
+        "Gegner zu übertölpeln\n",
+        "und dessen Attacke\n",
+        "mit größerer Kraft\n",
+        "auszuführen."
+      ]
+    },
+    {
+      "id": "msg_0749_00383",
+      "de_DE": [
+        "Anwender imitiert ge-\n",
+        "rade verwendete Att.\n",
+        "Dies schlägt fehl,\n",
+        "falls zuvor keine Att.\n",
+        "verwendet wurde."
+      ]
+    },
+    {
+      "id": "msg_0749_00384",
+      "de_DE": [
+        "Psychische Kräfte\n",
+        "tauschen Änderungen\n",
+        "an Angriff u. Spezial-\n",
+        "Angriff mit denen\n",
+        "des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0749_00385",
+      "de_DE": [
+        "Psychische Kräfte\n",
+        "tauschen Änderungen\n",
+        "an Verteidigung und\n",
+        "Spez.-Vert. mit denen\n",
+        "des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0749_00386",
+      "de_DE": [
+        "Je stärker der\n",
+        "Gegner durch Status-\n",
+        "werteveränderungen\n",
+        "ist, desto stärker\n",
+        "wirkt diese Attacke."
+      ]
+    },
+    {
+      "id": "msg_0749_00387",
+      "de_DE": [
+        "Diese Attacke kann\n",
+        "nur ausgeführt\n",
+        "werden, nachdem alle\n",
+        "verfügbaren Attacken\n",
+        "ausgeführt wurden."
+      ]
+    },
+    {
+      "id": "msg_0749_00388",
+      "de_DE": [
+        "Gegner wird\n",
+        "bepflanzt. Wandelt\n",
+        "Fähigkeit in\n",
+        "Insomnia um. Ver-\n",
+        "hindert so Schlaf."
+      ]
+    },
+    {
+      "id": "msg_0749_00389",
+      "de_DE": [
+        "Ermöglicht den Erst-\n",
+        "schlag. Gelingt aber\n",
+        "nur, wenn der \n",
+        "Gegner gerade eine\n",
+        "Attacke vorbereitet."
+      ]
+    },
+    {
+      "id": "msg_0749_00390",
+      "de_DE": [
+        "Anwender legt eine\n",
+        "Falle mit Giftdornen\n",
+        "aus. Gegner, die in\n",
+        "Kampf eingreifen,\n",
+        "werden vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0749_00391",
+      "de_DE": [
+        "Anwender wendet\n",
+        "Psycho-Kräfte an,\n",
+        "um eigene und gegn.\n",
+        "Statuswertverände-\n",
+        "rungen zu tauschen."
+      ]
+    },
+    {
+      "id": "msg_0749_00392",
+      "de_DE": [
+        "Anwender umgibt sich\n",
+        "mit einem Schleier\n",
+        "von Wasser. Dabei\n",
+        "regeneriert er\n",
+        "einige KP pro Runde."
+      ]
+    },
+    {
+      "id": "msg_0749_00393",
+      "de_DE": [
+        "Anwender schwebt\n",
+        "für fünf Runden\n",
+        "durch elektrisch\n",
+        "erzeugten\n",
+        "Magnetismus."
+      ]
+    },
+    {
+      "id": "msg_0749_00394",
+      "de_DE": [
+        "Anwender hüllt sich\n",
+        "in Flammen und\n",
+        "stürmt auf Gegner.\n",
+        "Der Anwender nimmt\n",
+        "dabei auch Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00395",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "Schockwelle\n",
+        "angegriffen, die\n",
+        "ihn eventuell\n",
+        "paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00396",
+      "de_DE": [
+        "Tief aus dem Inneren\n",
+        "des Anwenders löst\n",
+        "sich ein kraftvoller\n",
+        "Stoß Auraenergie.\n",
+        "Trifft in jedem Fall."
+      ]
+    },
+    {
+      "id": "msg_0749_00397",
+      "de_DE": [
+        "Anwender reduziert\n",
+        "so gut wie möglich\n",
+        "den Luftwiderstand.\n",
+        "Steigert Initiative\n",
+        "enorm."
+      ]
+    },
+    {
+      "id": "msg_0749_00398",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "vergiftetem Arm oder\n",
+        "Tentakel verletzt.\n",
+        "Er wird dabei\n",
+        "eventuell vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0749_00399",
+      "de_DE": [
+        "Anwender greift mit\n",
+        "fürchterlicher Aura\n",
+        "schlechter Gedanken\n",
+        "an. Gegner schreckt\n",
+        "eventuell zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00400",
+      "de_DE": [
+        "Anwender greift bei\n",
+        "der ersten Gelegen-\n",
+        "heit mit scharfen\n",
+        "Klauen an. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00401",
+      "de_DE": [
+        "Anwender attackiert\n",
+        "mit Schweif, als ob\n",
+        "dieser eine brutale\n",
+        "Welle in einem\n",
+        "tosenden Sturm sei."
+      ]
+    },
+    {
+      "id": "msg_0749_00402",
+      "de_DE": [
+        "Anwender lässt eine\n",
+        "Menge Samen mit\n",
+        "harter Schale von\n",
+        "oben auf den\n",
+        "Gegner fallen."
+      ]
+    },
+    {
+      "id": "msg_0749_00403",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "einer Luftklinge\n",
+        "angegriffen. Gegner\n",
+        "schreckt eventuell\n",
+        "zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00404",
+      "de_DE": [
+        "Der Anwender\n",
+        "führt eine Attacke\n",
+        "aus, die einer\n",
+        "Scherenbewegung\n",
+        "ähnelt."
+      ]
+    },
+    {
+      "id": "msg_0749_00405",
+      "de_DE": [
+        "Anwender schlägt mit\n",
+        "Flügeln und erzeugt\n",
+        "eine Schockwelle.\n",
+        "Senkt eventuell gegn.\n",
+        "Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00406",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "einer Schockwelle\n",
+        "angegriffen, die aus\n",
+        "dem offenen Maul\n",
+        "des Anwenders kommt."
+      ]
+    },
+    {
+      "id": "msg_0749_00407",
+      "de_DE": [
+        "Anwender führt einen\n",
+        "gefährlichen Angriff\n",
+        "aus. Gegner schreckt\n",
+        "eventuell zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00408",
+      "de_DE": [
+        "Anwender attackiert\n",
+        "mit einem Lichtstrahl,\n",
+        "welcher funkelt, als\n",
+        "sei er aus Juwelen."
+      ]
+    },
+    {
+      "id": "msg_0749_00409",
+      "de_DE": [
+        "Entzieht dem Gegner\n",
+        "Energie. Die Hälfte\n",
+        "des Schadens wird\n",
+        "den KP des Anw.\n",
+        "zugerechnet."
+      ]
+    },
+    {
+      "id": "msg_0749_00410",
+      "de_DE": [
+        "Ein Faustwirbel\n",
+        "sendet eine Vakuum-\n",
+        "welle auf den Gegner.\n",
+        "Erstschlaggarantie."
+      ]
+    },
+    {
+      "id": "msg_0749_00411",
+      "de_DE": [
+        "Anw. erhöht seinen\n",
+        "mentalen Fokus und\n",
+        "greift dann an. Senkt\n",
+        "eventuell gegnerische\n",
+        "Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00412",
+      "de_DE": [
+        "Anwender zieht Kraft\n",
+        "aus der Natur und\n",
+        "feuert sie auf Gegn.\n",
+        "Senkt eventuell gegn.\n",
+        "Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00413",
+      "de_DE": [
+        "Anwender greift aus\n",
+        "niedriger Höhe an.\n",
+        "Er erleidet bei dieser\n",
+        "Attacke auch\n",
+        "Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00414",
+      "de_DE": [
+        "Der Boden unter\n",
+        "dem Gegner erzittert\n",
+        "durch die Kraft der\n",
+        "Erde. Senkt eventuell\n",
+        "Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00415",
+      "de_DE": [
+        "Item wird in\n",
+        "Windeseile mit dem\n",
+        "Gegner getauscht."
+      ]
+    },
+    {
+      "id": "msg_0749_00416",
+      "de_DE": [
+        "Anwender rennt mit\n",
+        "seiner ganzen Kraft\n",
+        "gegen den Gegner\n",
+        "an und muss dann\n",
+        "eine Runde ruhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00417",
+      "de_DE": [
+        "Anwender stimuliert\n",
+        "sein Gehirn und hat\n",
+        "finstere Gedanken.\n",
+        "Steigert Spez.-\n",
+        "Angriff enorm."
+      ]
+    },
+    {
+      "id": "msg_0749_00418",
+      "de_DE": [
+        "Gegner wird von\n",
+        "einem ultraschnellen\n",
+        "Hieb getroffen.\n",
+        "Erstschlaggarantie."
+      ]
+    },
+    {
+      "id": "msg_0749_00419",
+      "de_DE": [
+        "Wurde der Anwender\n",
+        "vom Gegner in dieser\n",
+        "Runde getroffen, er-\n",
+        "zeugt diese Attacke\n",
+        "doppelten Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00420",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "Eisklumpen beworfen.\n",
+        "Diese Attacke hat\n",
+        "Erstschlaggarantie."
+      ]
+    },
+    {
+      "id": "msg_0749_00421",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "scharfen Klauen aus\n",
+        "der Schattenwelt\n",
+        "attackiert. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00422",
+      "de_DE": [
+        "Anwender beißt mit\n",
+        "elektrifizierten Reiß-\n",
+        "zähnen zu. Gegner\n",
+        "schreckt evtl. zurück\n",
+        "oder wird paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0749_00423",
+      "de_DE": [
+        "Anwender beißt mit\n",
+        "eiskalten Reißzähnen\n",
+        "zu. Gegner schreckt\n",
+        "eventuell zurück oder\n",
+        "friert fest."
+      ]
+    },
+    {
+      "id": "msg_0749_00424",
+      "de_DE": [
+        "Anwender beißt mit\n",
+        "flammenden Reiß-\n",
+        "zähnen zu. Gegner\n",
+        "schreckt evtl. zurück\n",
+        "oder verbrennt sich."
+      ]
+    },
+    {
+      "id": "msg_0749_00425",
+      "de_DE": [
+        "Anwender erweitert\n",
+        "Schatten und greift\n",
+        "den Gegner von\n",
+        "hinten an. Erst-\n",
+        "schlaggarantie."
+      ]
+    },
+    {
+      "id": "msg_0749_00426",
+      "de_DE": [
+        "Anwender greift mit\n",
+        "einem festen\n",
+        "Schlammklumpen an.\n",
+        "Senkt eventuell gegn.\n",
+        "Genauigkeit."
+      ]
+    },
+    {
+      "id": "msg_0749_00427",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "Klingen attackiert,\n",
+        "die aus Psycho-\n",
+        "Energie stammen. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00428",
+      "de_DE": [
+        "Anwender konzen-\n",
+        "triert seinen Willen\n",
+        "und rammt den Gegn.\n",
+        "Dieser schreckt\n",
+        "eventuell zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00429",
+      "de_DE": [
+        "Anwender feuert\n",
+        "Energiestrahl aus\n",
+        "seinem Körper ab.\n",
+        "Senkt eventuell\n",
+        "Genauigkeit d. Gegn."
+      ]
+    },
+    {
+      "id": "msg_0749_00430",
+      "de_DE": [
+        "Anwender sammelt\n",
+        "Lichtenergie, feuert\n",
+        "sie auf einmal ab.\n",
+        "Senkt eventuell gegn.\n",
+        "Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0749_00431",
+      "de_DE": [
+        "Eine stürmische\n",
+        "Attacke, die d. Gegn.\n",
+        "eventuell verwirrt.\n",
+        "So lassen sich auch\n",
+        "Felswände erklimmen."
+      ]
+    },
+    {
+      "id": "msg_0749_00432",
+      "de_DE": [
+        "Fluchtwert des\n",
+        "Gegners wird durch\n",
+        "Hindernisse gesenkt.\n",
+        "Hebt zudem Stachler\n",
+        "und Lichtschild auf."
+      ]
+    },
+    {
+      "id": "msg_0749_00433",
+      "de_DE": [
+        "Anwender erzeugt\n",
+        "einen bizarren Raum,\n",
+        "in dem langsame\n",
+        "Pokémon fünf Runden\n",
+        "lang zuerst agieren."
+      ]
+    },
+    {
+      "id": "msg_0749_00434",
+      "de_DE": [
+        "Kometen werden\n",
+        "heraufbeschworen.\n",
+        "Der Rückstoß redu-\n",
+        "ziert Spez.-Ang. des\n",
+        "Anwenders enorm."
+      ]
+    },
+    {
+      "id": "msg_0749_00435",
+      "de_DE": [
+        "Anwender greift mit\n",
+        "Elektrizität jedes im\n",
+        "Kampf befindliche\n",
+        "Pokémon an.\n",
+        "Paralysiert evtl."
+      ]
+    },
+    {
+      "id": "msg_0749_00436",
+      "de_DE": [
+        "Ein Flammeninferno,\n",
+        "das über im Kampf be-\n",
+        "findliche PKMN (außer\n",
+        "Anw.) hinwegfegt.\n",
+        "Verbrennt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00437",
+      "de_DE": [
+        "Anw. erzeugt einen\n",
+        "Sturm von scharfen\n",
+        "Blättern. Rückstoß\n",
+        "senkt Spez.-Angriff\n",
+        "des Anwenders stark."
+      ]
+    },
+    {
+      "id": "msg_0749_00438",
+      "de_DE": [
+        "Anwender wirbelt\n",
+        "seine Ranken oder\n",
+        "Tentakel peitschen-\n",
+        "artig gegen den\n",
+        "Gegner."
+      ]
+    },
+    {
+      "id": "msg_0749_00439",
+      "de_DE": [
+        "Anwender wirft einen\n",
+        "riesigen Felsen auf\n",
+        "den Gegner. In der\n",
+        "nächsten Runde muss\n",
+        "der Anw. ausruhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00440",
+      "de_DE": [
+        "Ein scharfer Hieb,\n",
+        "der den Gegner\n",
+        "eventuell vergiftet.\n",
+        "Hat eine hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00441",
+      "de_DE": [
+        "Anwender schießt mit\n",
+        "Müll auf den Gegner.\n",
+        "Vergiftet den Gegner\n",
+        "eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00442",
+      "de_DE": [
+        "Gegner wird durch\n",
+        "stahlharten Kopf des\n",
+        "Anwenders getroffen\n",
+        "und schreckt\n",
+        "eventuell zurück."
+      ]
+    },
+    {
+      "id": "msg_0749_00443",
+      "de_DE": [
+        "Ziel wird durch eine\n",
+        "Haftbombe getroffen.\n",
+        "Diese Attacke trifft\n",
+        "immer."
+      ]
+    },
+    {
+      "id": "msg_0749_00444",
+      "de_DE": [
+        "Anwender sticht den\n",
+        "Gegner mit scharfen\n",
+        "Steinen. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00445",
+      "de_DE": [
+        "Charme-Attacke, die\n",
+        "Spezial-Angriff stark\n",
+        "senkt, falls Gegner\n",
+        "dem anderen\n",
+        "Geschlecht angehört."
+      ]
+    },
+    {
+      "id": "msg_0749_00446",
+      "de_DE": [
+        "Falle mit schwebenden\n",
+        "Steinen. In Kampf\n",
+        "eingreifende Gegner\n",
+        "nehmen Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00447",
+      "de_DE": [
+        "Gegner wird durch\n",
+        "Gras ins Straucheln\n",
+        "gebracht. Je\n",
+        "schwerer der Gegn.,\n",
+        "desto mehr Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00448",
+      "de_DE": [
+        "Attacke mit\n",
+        "Schallwellen.\n",
+        "Verwirrt den\n",
+        "Gegner eventuell."
+      ]
+    },
+    {
+      "id": "msg_0749_00449",
+      "de_DE": [
+        "Anwender feuert\n",
+        "unzählige Licht-\n",
+        "strahlen ab. Deren\n",
+        "Typ hängt von der\n",
+        "gehaltenen Tafel ab."
+      ]
+    },
+    {
+      "id": "msg_0749_00450",
+      "de_DE": [
+        "Anwender beißt den\n",
+        "Gegner. Hält dieser\n",
+        "eine Beere, isst der\n",
+        "Anwender sie und\n",
+        "erhält deren Effekt."
+      ]
+    },
+    {
+      "id": "msg_0749_00451",
+      "de_DE": [
+        "Gegner wird von einem\n",
+        "Elektrostrahl ge-\n",
+        "troffen. Steigert\n",
+        "eventuell Spez.-Angr.\n",
+        "des Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00452",
+      "de_DE": [
+        "Anwender attackiert\n",
+        "mit seinem robusten\n",
+        "Körper. Er erleidet\n",
+        "dabei auch selbst\n",
+        "Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00453",
+      "de_DE": [
+        "Anwender greift mit\n",
+        "hoher Geschwindig-\n",
+        "keit an, die ihn fast\n",
+        "unsichtbar macht.\n",
+        "Erstschlaggarantie."
+      ]
+    },
+    {
+      "id": "msg_0749_00454",
+      "de_DE": [
+        "Anwender ruft seine\n",
+        "Untergebenen zum\n",
+        "Angriff. Hat eine\n",
+        "hohe Volltreffer-\n",
+        "quote."
+      ]
+    },
+    {
+      "id": "msg_0749_00455",
+      "de_DE": [
+        "Untergebene bilden\n",
+        "ein lebendes Schild\n",
+        "um den Anwender.\n",
+        "Steigert Verteidigung\n",
+        "und Spezial-Verteidig."
+      ]
+    },
+    {
+      "id": "msg_0749_00456",
+      "de_DE": [
+        "Untergebene heilen\n",
+        "den Anwender. KP des\n",
+        "Anwenders werden\n",
+        "mit 50 % der max. KP\n",
+        "aufgefüllt."
+      ]
+    },
+    {
+      "id": "msg_0749_00457",
+      "de_DE": [
+        "Gegner wird mit\n",
+        "einem schweren\n",
+        "Kopfstoß getroffen.\n",
+        "Anwender nimmt\n",
+        "dabei auch Schaden."
+      ]
+    },
+    {
+      "id": "msg_0749_00458",
+      "de_DE": [
+        "Anwender trifft den\n",
+        "Gegner mit dem\n",
+        "Schweif oder\n",
+        "Ähnlichem. Ziel wird\n",
+        "doppelt getroffen."
+      ]
+    },
+    {
+      "id": "msg_0749_00459",
+      "de_DE": [
+        "Anwender attackiert\n",
+        "mit einer Kraft, die\n",
+        "selbst die Zeit ver-\n",
+        "zerrt. In der nächst.\n",
+        "Runde muss er ruhen."
+      ]
+    },
+    {
+      "id": "msg_0749_00460",
+      "de_DE": [
+        "Schwere,\n",
+        "raumgreifende\n",
+        "Attacke. Hohe\n",
+        "Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0749_00461",
+      "de_DE": [
+        "Anwender geht K.O.\n",
+        "Das an seine Stelle\n",
+        "tretende PKMN hat\n",
+        "volle KP/AP. Status-\n",
+        "probl. werden geheilt."
+      ]
+    },
+    {
+      "id": "msg_0749_00462",
+      "de_DE": [
+        "Gegner wird mit gros-\n",
+        "ser Kraft getroffen.\n",
+        "Je höher die KP des\n",
+        "Gegners, desto\n",
+        "stärker die Attacke."
+      ]
+    },
+    {
+      "id": "msg_0749_00463",
+      "de_DE": [
+        "Gegner wird in\n",
+        "einen Feuersog\n",
+        "gezogen, der zwei\n",
+        "bis fünf Runden\n",
+        "aktiv ist."
+      ]
+    },
+    {
+      "id": "msg_0749_00464",
+      "de_DE": [
+        "Der Gegner wird in\n",
+        "eine Welt der\n",
+        "Dunkelheit gezogen\n",
+        "und in Schlaf\n",
+        "versetzt."
+      ]
+    },
+    {
+      "id": "msg_0749_00465",
+      "de_DE": [
+        "Anwender erzeugt eine\n",
+        "Schockwelle. Spezial-\n",
+        "Verteidigung des\n",
+        "Gegners wird\n",
+        "eventuell gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0749_00466",
+      "de_DE": [
+        "Den Gegner treffen\n",
+        "abscheuliche Winde.\n",
+        "Steigert eventuell\n",
+        "alle Statuswerte des\n",
+        "Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0749_00467",
+      "de_DE": [
+        "Anw. verschwindet\n",
+        "und attackiert in\n",
+        "Runde 2. Trifft auch,\n",
+        "wenn sich der Gegn.\n",
+        "selbst schützt."
+      ]
+    }
+  ]
+}

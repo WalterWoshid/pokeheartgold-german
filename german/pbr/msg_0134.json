@@ -1,0 +1,119 @@
+{
+  "key": 46138,
+  "messages": [
+    {
+      "id": "msg_0134_00000",
+      "de_DE": [
+        "Hallo du!\r",
+        "Ich möchte mir dein Pokémon ansehen.\n",
+        "Vielleicht ist es ja einen Schal wert...\r"
+      ]
+    },
+    {
+      "id": "msg_0134_00001",
+      "de_DE": [
+        "Hmhm...\n",
+        "Verstehe...\r"
+      ]
+    },
+    {
+      "id": "msg_0134_00002",
+      "de_DE": [
+        "Nun, das ist nicht das, was ich\n",
+        "eigentlich zu sehen hoffte.\r",
+        "Ich möchte dich nicht anlügen, daher\n",
+        "sage ich es dir offen ins Gesicht.\r",
+        "Dieses Pokémon ist weder gut noch\n",
+        "schlecht. Es ist einfach so lala.\r",
+        "Wenn du seine Ausstrahlung verbessern\n",
+        "willst, dann gib ihm ein paar Knurspe!"
+      ]
+    },
+    {
+      "id": "msg_0134_00003",
+      "de_DE": [
+        "Dein Pokémon macht sich wirklich gut.\n",
+        "Da ziehe ich doch glatt meinen Hut!\r",
+        "Ich würde dir gerne einen Schal geben,\n",
+        "aber dein Beutel ist leider voll."
+      ]
+    },
+    {
+      "id": "msg_0134_00004",
+      "de_DE": [
+        "Dein {STRVAR_1 0, 0} sieht gut aus!\r",
+        "Ich muss sagen, es sieht sogar\n",
+        "beeindruckend aus!\r",
+        "Ich sag dir was: Hier, ein\n",
+        "{STRVAR_1 8, 1} für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0134_00005",
+      "de_DE": [
+        "Der Rote Schal steht für Leidenschaft!\r",
+        "Gib ihn einem Pokémon zum Halten\n",
+        "und nimm dann mit dem Pokémon\f",
+        "an einem Coolness-Wettbewerb teil!"
+      ]
+    },
+    {
+      "id": "msg_0134_00006",
+      "de_DE": [
+        "Der Blaue Schal repräsentiert\n",
+        "die Weite des Meeres!\r",
+        "Gib ihn einem Pokémon zum Halten\n",
+        "und nimm dann mit dem Pokémon\f",
+        "an einem Schönheitswettbewerb teil!"
+      ]
+    },
+    {
+      "id": "msg_0134_00007",
+      "de_DE": [
+        "Der Rosa Schal repräsentiert Charme!\r",
+        "Gib ihn einem Pokémon zum Halten\n",
+        "und nimm dann mit dem Pokémon\f",
+        "an einem Anmut-Wettbewerb teil!"
+      ]
+    },
+    {
+      "id": "msg_0134_00008",
+      "de_DE": [
+        "Der Grüne Schal steht für die\n",
+        "Frühlingsbrise!\r",
+        "Gib ihn einem Pokémon zum Halten\n",
+        "und nimm dann mit dem Pokémon\f",
+        "an einem Klugheits-Wettbewerb teil!"
+      ]
+    },
+    {
+      "id": "msg_0134_00009",
+      "de_DE": [
+        "Der Gelbe Schal repräsentiert Stärke!\r",
+        "Gib ihn einem Pokémon zum Halten\n",
+        "und nimm dann mit dem Pokémon\f",
+        "an einem Stärke-Wettbewerb teil!"
+      ]
+    },
+    {
+      "id": "msg_0134_00010",
+      "de_DE": [
+        "Ich habe keine Schals mehr, die ich dir\n",
+        "geben kann. Und auch keine Worte mehr."
+      ]
+    },
+    {
+      "id": "msg_0134_00011",
+      "de_DE": [
+        "Die Freundin meines Bruders ist die\n",
+        "Wellness-Frau aus Schleiede.\r",
+        "Pokémon halten Briefe für sie in der\n",
+        "Hand, so bleiben sie in Kontakt."
+      ]
+    },
+    {
+      "id": "msg_0134_00012",
+      "de_DE": "PACHIRISU: Suuu pasuu!"
+    }
+  ]
+}

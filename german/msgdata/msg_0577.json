@@ -1,0 +1,58 @@
+{
+  "key": 29798,
+  "messages": [
+    {
+      "id": "msg_0577_00000",
+      "de_DE": [
+        "Hm? Medizin willst du von mir?\r",
+        "Dein PKMN-Team wirkt jetzt nicht gerade\n",
+        "schwerverletzt oder krank auf mich...\f",
+        "Wo drückt denn der Schuh?\r",
+        "... ... ...\r",
+        "Ach so, dann geht es hier also um das\n",
+        "Pokémon vom Leuchtturm! Na klar!\r",
+        "Diese Medizin sollte genau das sein,\n",
+        "was du brauchst. Hier, nimm!"
+      ]
+    },
+    {
+      "id": "msg_0577_00001",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0577_00002",
+      "de_DE": [
+        "Mein Geheimtrank ist extrem stark.\n",
+        "Ich gebe ihn nur heraus, wenn auch\f",
+        "wirklich Not am Mann ist."
+      ]
+    },
+    {
+      "id": "msg_0577_00003",
+      "de_DE": [
+        "Hm? Brauchst du irgendwas von mir?\n",
+        "Möchtest du Medizin kaufen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0577_00004",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0577_00005",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0577_00006",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0577_00007",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0577_00008",
+      "garbage": 16
+    }
+  ]
+}

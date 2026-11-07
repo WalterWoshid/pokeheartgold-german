@@ -1,0 +1,451 @@
+{
+  "key": 33871,
+  "messages": [
+    {
+      "id": "msg_0066_00000",
+      "de_DE": [
+        "Ich liiiebe mein Radio!\r",
+        "Dieses Gerät gibt mir einfach alles:\n",
+        "von aufheiternder Musik über\f",
+        "Hinweise zu meinen Pokémon\f",
+        "und aufregenden Nachrichten\f",
+        "bis hin zu mitreißenden Geschichten!\r",
+        "Würde es jetzt noch Bilder zu all dem\n",
+        "anzeigen, wäre ich vollends glücklich!\r",
+        "... ... ... ... ...\n",
+        "Doch dann... wäre es ja ein Fernseher!"
+      ]
+    },
+    {
+      "id": "msg_0066_00001",
+      "de_DE": [
+        "Wenn man wilden Pokémon\n",
+        "ein spezielles Schlaflied\f",
+        "vorspielt, werden sie müde.\r",
+        "Wenn man auf seinem Radio also\n",
+        "laut Schlaflieder laufen lässt,\f",
+        "trifft man selbst im hohen Gras\f",
+        "kaum noch auf Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0066_00002",
+      "de_DE": [
+        "Was versprechen sie sich bloß davon,\n",
+        "den Radiosender zu besetzen?"
+      ]
+    },
+    {
+      "id": "msg_0066_00003",
+      "de_DE": "PUMMELUFF: Pummel... uff..."
+    },
+    {
+      "id": "msg_0066_00004",
+      "de_DE": [
+        "Der Zutritt zu den höheren Stockwerken\n",
+        "ist nur befugtem Personal erlaubt...\r",
+        "Aber das war nicht immer so! Irgendwas\n",
+        "stimmt mit unserem Intendanten nicht..."
+      ]
+    },
+    {
+      "id": "msg_0066_00005",
+      "de_DE": [
+        "Alle Teile des Senders können frei \n",
+        "besichtigt werden! Unser Intendant ist\f",
+        "wieder sein gutmütiges altes Selbst!"
+      ]
+    },
+    {
+      "id": "msg_0066_00006",
+      "de_DE": "1S: Geschäftsabteilung"
+    },
+    {
+      "id": "msg_0066_00007",
+      "de_DE": [
+        "Der Hit: Prof. Eichs Pokémon-Talk!\n",
+        "In aller Munde und in deinem Radio!"
+      ]
+    },
+    {
+      "id": "msg_0066_00008",
+      "de_DE": "1S: Studio 2"
+    },
+    {
+      "id": "msg_0066_00009",
+      "de_DE": [
+        "Buena: Was fragst du da?\n",
+        "Wie das heutige Passwort lautet?\r",
+        "ZU HILFE natürlich!"
+      ]
+    },
+    {
+      "id": "msg_0066_00010",
+      "de_DE": [
+        "Buena: Hallooo! Ich bin Buena!\r",
+        "Hast du schon von meiner Radiosendung\n",
+        "“Passwort” gehört?\r",
+        "Wenn du mir das Passwort aus\n",
+        "dem Programm nennen kannst,\f",
+        "erhältst du dafür Punkte.\r",
+        "Und für die wiederum erhältst du\n",
+        "von der Dame dort drüben tolle Prämien!\f",
+        "Völlig umsonst!\r",
+        "Hier!\r",
+        "Das ist die Karte für deine Punkte!\n",
+        "Die kannst du behalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00011",
+      "de_DE": [
+        "Buena: Vielen Dank, dass du immer\n",
+        "treu meine Sendung verfolgst!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00012",
+      "de_DE": [
+        "Buena: {STRVAR_1 3, 0, 0}!\n",
+        "Vielen Dank, dass du immer\f",
+        "treu meine Sendung verfolgst!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00013",
+      "de_DE": [
+        "Buena: {STRVAR_1 3, 0, 0}!\n",
+        "Vielen Dank, dass du immer\f",
+        "treu meine Sendung verfolgst!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00014",
+      "de_DE": [
+        "Buena: Kennst du das heutige\n",
+        "Passwort? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0066_00015",
+      "de_DE": [
+        "Buena: Toll! Das hört man doch gerne!\n",
+        "Ähm, wie war noch gleich dein Name?\r",
+        "Ah ja, {STRVAR_1 3, 0, 0}! In Ordnung!\r",
+        "Gut, {STRVAR_1 3, 0, 0}! Dann leiste uns doch\n",
+        "etwas Gesellschaft in der Sendung!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00016",
+      "de_DE": [
+        "Buena: Toll! Das hört man doch gerne!\n",
+        "Ähm, wie war noch gleich dein Name?\r",
+        "Ah ja, {STRVAR_1 3, 0, 0}! In Ordnung!\r",
+        "Gut, {STRVAR_1 3, 0, 0}! Dann leiste uns doch\n",
+        "etwas Gesellschaft in der Sendung!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00017",
+      "de_DE": [
+        "Buena: {STRVAR_1 3, 0, 0}!\n",
+        "Auf dich kann man sich echt verlassen!\r",
+        "Dann darf ich dich doch bitten, wie\n",
+        "üblich an der Sendung teilzunehmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00018",
+      "de_DE": [
+        "Buena: {STRVAR_1 3, 0, 0}!\n",
+        "Auf dich kann man sich echt verlassen!\r",
+        "Dann darf ich dich doch bitten, wie\n",
+        "üblich an der Sendung teilzunehmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00019",
+      "de_DE": [
+        "Buena: In Ordnung.\n",
+        "Aber komme wieder, wenn du\f",
+        "die Sendung gehört hast, ja?"
+      ]
+    },
+    {
+      "id": "msg_0066_00020",
+      "de_DE": [
+        "Buena: Okay, Leute, es kann losgehen!\r",
+        "{STRVAR_1 3, 0, 0} ist heute unser Kandidat!\n",
+        "Dann verrate uns doch mal das\f",
+        "heutige Passwort!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00021",
+      "de_DE": [
+        "Buena: Okay, Leute, es kann losgehen!\r",
+        "{STRVAR_1 3, 0, 0} ist heute unsere\n",
+        "Kandidatin! Dann verrate uns\f",
+        "doch mal das heutige Passwort!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00022",
+      "de_DE": [
+        "Buena: Wow! Die Antwort stimmt!\r",
+        "Du hast wirklich aufmerksam zugehört!\n",
+        "So gefällt mir das!\r",
+        "Gut, dafür gibt es einen Punkt!\n",
+        "Herzlichen Glückwunsch!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00023",
+      "de_DE": [
+        "Buena: Hoppla!\n",
+        "Das war leider nicht richtig!\r",
+        "Hast du das Passwort etwa vergessen?"
+      ]
+    },
+    {
+      "id": "msg_0066_00024",
+      "de_DE": [
+        "Buena: Oh! Damit hast du jetzt\n",
+        "30 Punkte auf deiner Blauen Karte!\f",
+        "Das ist echt Wahnsinn!\r",
+        "...Hm, also gut...\n",
+        "{STRVAR_1 3, 0, 0}, du hast hier so oft\f",
+        "mitgemacht, dass du dir\r",
+        "etwas Besonderes verdient hast!\n",
+        "Ich verrate dir meine Telefonnummer!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00025",
+      "de_DE": [
+        "Buena: Oh! Damit hast du jetzt\n",
+        "30 Punkte auf deiner Blauen Karte!\f",
+        "Das ist echt Wahnsinn!\r",
+        "...Hm, also gut...\n",
+        "{STRVAR_1 3, 0, 0}, du hast hier so oft\f",
+        "mitgemacht, dass du dir\r",
+        "etwas Besonderes verdient hast!\n",
+        "Ich verrate dir meine Telefonnummer!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00026",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Buenas Nummer\n",
+        "im Pokécom registriert!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00027",
+      "de_DE": "Buena: Ruf mich an, ja?\r"
+    },
+    {
+      "id": "msg_0066_00028",
+      "de_DE": [
+        "Buena: Bleib der Passwort-Sendung\n",
+        "auch weiter treu, ja?"
+      ]
+    },
+    {
+      "id": "msg_0066_00029",
+      "de_DE": [
+        "Buena: Tut mir echt leid,\n",
+        "aber du kannst nur einmal pro Tag\f",
+        "am Passwort-Quiz teilnehmen.\r",
+        "Aber komme doch morgen wieder!"
+      ]
+    },
+    {
+      "id": "msg_0066_00030",
+      "de_DE": "Buena: Du kannst nichts mehr tragen!"
+    },
+    {
+      "id": "msg_0066_00031",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0066_00032",
+      "de_DE": [
+        "Buena: Schalte auch morgen\n",
+        "wieder ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00033",
+      "de_DE": [
+        "Wenn du mit deiner Blauen Karte\n",
+        "Punkte sammelst, bekommst du\f",
+        "dafür tolle Prämien!"
+      ]
+    },
+    {
+      "id": "msg_0066_00034",
+      "de_DE": [
+        "Aktuell hast du {STRVAR_1 51, 0, 0} Punkt(e) auf\n",
+        "deiner Blauen Karte!"
+      ]
+    },
+    {
+      "id": "msg_0066_00035",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\r",
+        "Du hast {STRVAR_1 51, 0, 0} Punkt(e) gesammelt!\n",
+        "Hier ist deine Prämie: {STRVAR_1 8, 1, 0}!\f",
+        "Nimm nur!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00036",
+      "de_DE": [
+        "Oh, du hast die maximale Punktzahl\n",
+        "dieser Blauen Karte erreicht.\f",
+        "Hier hast du eine neue Karte!\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00037",
+      "de_DE": "Du erhältst eine neue Blaue Karte!"
+    },
+    {
+      "id": "msg_0066_00038",
+      "de_DE": [
+        "Nimm ruhig mal wieder an der\n",
+        "Sendung teil, ja?\r"
+      ]
+    },
+    {
+      "id": "msg_0066_00039",
+      "de_DE": [
+        "Diese raffgierige Bande von Team\n",
+        "Rocket! Jemand sollte ihnen wie vor drei\f",
+        "Jahren einen Denkzettel verpassen!"
+      ]
+    },
+    {
+      "id": "msg_0066_00040",
+      "de_DE": "FEURIGEL"
+    },
+    {
+      "id": "msg_0066_00041",
+      "de_DE": "KARNIMANI"
+    },
+    {
+      "id": "msg_0066_00042",
+      "de_DE": "ENDIVIE"
+    },
+    {
+      "id": "msg_0066_00043",
+      "de_DE": "Trank"
+    },
+    {
+      "id": "msg_0066_00044",
+      "de_DE": "Gegengift"
+    },
+    {
+      "id": "msg_0066_00045",
+      "de_DE": "Para-Heiler"
+    },
+    {
+      "id": "msg_0066_00046",
+      "de_DE": "Pokéball"
+    },
+    {
+      "id": "msg_0066_00047",
+      "de_DE": "Superball"
+    },
+    {
+      "id": "msg_0066_00048",
+      "de_DE": "Hyperball"
+    },
+    {
+      "id": "msg_0066_00049",
+      "de_DE": "PIKACHU"
+    },
+    {
+      "id": "msg_0066_00050",
+      "de_DE": "RATTFRATZ"
+    },
+    {
+      "id": "msg_0066_00051",
+      "de_DE": "KLEINSTEIN"
+    },
+    {
+      "id": "msg_0066_00052",
+      "de_DE": "HOOTHOOT"
+    },
+    {
+      "id": "msg_0066_00053",
+      "de_DE": "WEBARAK"
+    },
+    {
+      "id": "msg_0066_00054",
+      "de_DE": "TRAUMATO"
+    },
+    {
+      "id": "msg_0066_00055",
+      "de_DE": "Neuborkia"
+    },
+    {
+      "id": "msg_0066_00056",
+      "de_DE": "Rosalia City"
+    },
+    {
+      "id": "msg_0066_00057",
+      "de_DE": "Azalea City"
+    },
+    {
+      "id": "msg_0066_00058",
+      "de_DE": "Käfer-Pokémon"
+    },
+    {
+      "id": "msg_0066_00059",
+      "de_DE": "Vogel-Pokémon"
+    },
+    {
+      "id": "msg_0066_00060",
+      "de_DE": "Pflanzen-Pokémon"
+    },
+    {
+      "id": "msg_0066_00061",
+      "de_DE": "Tackle"
+    },
+    {
+      "id": "msg_0066_00062",
+      "de_DE": "Heuler"
+    },
+    {
+      "id": "msg_0066_00063",
+      "de_DE": "Lehmschelle"
+    },
+    {
+      "id": "msg_0066_00064",
+      "de_DE": "X-Angriff"
+    },
+    {
+      "id": "msg_0066_00065",
+      "de_DE": "X-Abwehr"
+    },
+    {
+      "id": "msg_0066_00066",
+      "de_DE": "X-Tempo"
+    },
+    {
+      "id": "msg_0066_00067",
+      "de_DE": "Pokémon-Talk"
+    },
+    {
+      "id": "msg_0066_00068",
+      "de_DE": "Pokémon-Musik"
+    },
+    {
+      "id": "msg_0066_00069",
+      "de_DE": "Passwort mit Buena"
+    }
+  ]
+}

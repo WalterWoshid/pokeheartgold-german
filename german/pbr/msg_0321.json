@@ -1,0 +1,1113 @@
+{
+  "key": 20529,
+  "messages": [
+    {
+      "id": "msg_0321_00000",
+      "de_DE": "GIF"
+    },
+    {
+      "id": "msg_0321_00001",
+      "de_DE": "PAR"
+    },
+    {
+      "id": "msg_0321_00002",
+      "de_DE": "SLF"
+    },
+    {
+      "id": "msg_0321_00003",
+      "de_DE": "BRT"
+    },
+    {
+      "id": "msg_0321_00004",
+      "de_DE": "GFR"
+    },
+    {
+      "id": "msg_0321_00005",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0321_00006",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0321_00007",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0321_00008",
+      "de_DE": "MISCHKAMPF"
+    },
+    {
+      "id": "msg_0321_00009",
+      "de_DE": "MULTIKAMPF"
+    },
+    {
+      "id": "msg_0321_00010",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0321_00011",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00012",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00013",
+      "de_DE": "MITSPIELER"
+    },
+    {
+      "id": "msg_0321_00014",
+      "de_DE": "LEITER WERDEN"
+    },
+    {
+      "id": "msg_0321_00015",
+      "de_DE": "Momentan im"
+    },
+    {
+      "id": "msg_0321_00016",
+      "de_DE": "{STRVAR_1 50, 0}"
+    },
+    {
+      "id": "msg_0321_00017",
+      "de_DE": "COOL."
+    },
+    {
+      "id": "msg_0321_00018",
+      "de_DE": "SCHÖN."
+    },
+    {
+      "id": "msg_0321_00019",
+      "de_DE": "ANMUT"
+    },
+    {
+      "id": "msg_0321_00020",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0321_00021",
+      "de_DE": "KLUG."
+    },
+    {
+      "id": "msg_0321_00022",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0321_00023",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00024",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0321_00025",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0321_00026",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0321_00027",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0321_00028",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0321_00029",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0321_00030",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0321_00031",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0321_00032",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0321_00033",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0321_00034",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0321_00035",
+      "de_DE": "RUHMESHALLE"
+    },
+    {
+      "id": "msg_0321_00036",
+      "de_DE": "AUSLOGGEN"
+    },
+    {
+      "id": "msg_0321_00037",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0321_00038",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0321_00039",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0321_00040",
+      "de_DE": "REGELN"
+    },
+    {
+      "id": "msg_0321_00041",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0321_00042",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0321_00043",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0321_00044",
+      "de_DE": "ABBRUCH"
+    },
+    {
+      "id": "msg_0321_00045",
+      "de_DE": "FEUER"
+    },
+    {
+      "id": "msg_0321_00046",
+      "de_DE": "WASSER"
+    },
+    {
+      "id": "msg_0321_00047",
+      "de_DE": "PFLANZE"
+    },
+    {
+      "id": "msg_0321_00048",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0321_00049",
+      "de_DE": "KAMPF"
+    },
+    {
+      "id": "msg_0321_00050",
+      "de_DE": "{STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0321_00051",
+      "de_DE": "{STRVAR_1 3, 1}"
+    },
+    {
+      "id": "msg_0321_00052",
+      "de_DE": "{STRVAR_1 3, 2}"
+    },
+    {
+      "id": "msg_0321_00053",
+      "de_DE": "{STRVAR_1 3, 3}"
+    },
+    {
+      "id": "msg_0321_00054",
+      "de_DE": "DÜNGEN"
+    },
+    {
+      "id": "msg_0321_00055",
+      "de_DE": "BEERE PFLANZEN"
+    },
+    {
+      "id": "msg_0321_00056",
+      "de_DE": "ZEICHNEN"
+    },
+    {
+      "id": "msg_0321_00057",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0321_00058",
+      "de_DE": "JEMANDES PC"
+    },
+    {
+      "id": "msg_0321_00059",
+      "de_DE": "LANAs PC"
+    },
+    {
+      "id": "msg_0321_00060",
+      "de_DE": "PC von {STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0321_00061",
+      "de_DE": "RUHMESHALLE"
+    },
+    {
+      "id": "msg_0321_00062",
+      "de_DE": "PROF. EICHs PC"
+    },
+    {
+      "id": "msg_0321_00063",
+      "de_DE": "EIBEs PC"
+    },
+    {
+      "id": "msg_0321_00064",
+      "de_DE": "AUSLOGGEN"
+    },
+    {
+      "id": "msg_0321_00065",
+      "de_DE": "POKéMON ABLEGEN"
+    },
+    {
+      "id": "msg_0321_00066",
+      "de_DE": "POKéMON NEHMEN"
+    },
+    {
+      "id": "msg_0321_00067",
+      "de_DE": "POKéMON BEWEGEN"
+    },
+    {
+      "id": "msg_0321_00068",
+      "de_DE": "ITEMS BEWEGEN"
+    },
+    {
+      "id": "msg_0321_00069",
+      "de_DE": "POKéMON VERGLEICHEN"
+    },
+    {
+      "id": "msg_0321_00070",
+      "de_DE": "TSCHÜSSI!"
+    },
+    {
+      "id": "msg_0321_00071",
+      "de_DE": "BRIEFBOX"
+    },
+    {
+      "id": "msg_0321_00072",
+      "de_DE": "BALLKAPSEL"
+    },
+    {
+      "id": "msg_0321_00073",
+      "de_DE": "AUSLOGGEN"
+    },
+    {
+      "id": "msg_0321_00074",
+      "de_DE": [
+        "Lagere Pokémon aus deinem\n",
+        "Team in einer Box."
+      ]
+    },
+    {
+      "id": "msg_0321_00075",
+      "de_DE": [
+        "Nimm Pokémon aus einer\n",
+        "Box in dein Team auf."
+      ]
+    },
+    {
+      "id": "msg_0321_00076",
+      "de_DE": [
+        "Ordne Pokémon in den Boxen\n",
+        "und/oder in deinem Team."
+      ]
+    },
+    {
+      "id": "msg_0321_00077",
+      "de_DE": [
+        "Items, gehalten von Pokémon in Team\n",
+        "oder Box, bewegen."
+      ]
+    },
+    {
+      "id": "msg_0321_00078",
+      "de_DE": [
+        "Du kannst zwei Pokémon aus deinem Team\n",
+        "oder aus Boxen miteinander vergleichen."
+      ]
+    },
+    {
+      "id": "msg_0321_00079",
+      "de_DE": [
+        "Das Pokémon-Lagerungs-System\n",
+        "verlassen."
+      ]
+    },
+    {
+      "id": "msg_0321_00080",
+      "de_DE": [
+        "Bis zu 20 Briefe können hier\n",
+        "gelagert werden."
+      ]
+    },
+    {
+      "id": "msg_0321_00081",
+      "de_DE": [
+        "Du kannst Kapseln bearbeiten, mit\n",
+        "denen du Pokébälle dekorieren kannst."
+      ]
+    },
+    {
+      "id": "msg_0321_00082",
+      "de_DE": "Ausloggen aus deinem PC."
+    },
+    {
+      "id": "msg_0321_00083",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00084",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0321_00085",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0321_00086",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0321_00087",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0321_00088",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0321_00089",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0321_00090",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0321_00091",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0321_00092",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0321_00093",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0321_00094",
+      "de_DE": "ABBRUCH"
+    },
+    {
+      "id": "msg_0321_00095",
+      "garbage": 45
+    },
+    {
+      "id": "msg_0321_00096",
+      "de_DE": "WETTBEWERBSREGELN"
+    },
+    {
+      "id": "msg_0321_00097",
+      "de_DE": "WETTBEWERB-ARTEN"
+    },
+    {
+      "id": "msg_0321_00098",
+      "de_DE": "KLASSEN"
+    },
+    {
+      "id": "msg_0321_00099",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00100",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0321_00101",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0321_00102",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0321_00103",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0321_00104",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0321_00105",
+      "de_DE": "NORMAL-KLASSE"
+    },
+    {
+      "id": "msg_0321_00106",
+      "de_DE": "MEGA-KLASSE"
+    },
+    {
+      "id": "msg_0321_00107",
+      "de_DE": "ULTRA-KLASSE"
+    },
+    {
+      "id": "msg_0321_00108",
+      "de_DE": "MASTER-KLASSE"
+    },
+    {
+      "id": "msg_0321_00109",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00110",
+      "de_DE": "COOL."
+    },
+    {
+      "id": "msg_0321_00111",
+      "de_DE": "SCHÖN."
+    },
+    {
+      "id": "msg_0321_00112",
+      "de_DE": "ANMUT"
+    },
+    {
+      "id": "msg_0321_00113",
+      "de_DE": "KLUG."
+    },
+    {
+      "id": "msg_0321_00114",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0321_00115",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00116",
+      "de_DE": "EG"
+    },
+    {
+      "id": "msg_0321_00117",
+      "de_DE": "1S"
+    },
+    {
+      "id": "msg_0321_00118",
+      "de_DE": "2S"
+    },
+    {
+      "id": "msg_0321_00119",
+      "de_DE": "3S"
+    },
+    {
+      "id": "msg_0321_00120",
+      "de_DE": "4S"
+    },
+    {
+      "id": "msg_0321_00121",
+      "de_DE": "UG1"
+    },
+    {
+      "id": "msg_0321_00122",
+      "de_DE": "UG2"
+    },
+    {
+      "id": "msg_0321_00123",
+      "de_DE": "PANORAMA"
+    },
+    {
+      "id": "msg_0321_00124",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00125",
+      "de_DE": "50 MZ.{CURSOR_X 60}1 000 $"
+    },
+    {
+      "id": "msg_0321_00126",
+      "de_DE": "500 MZ.{CURSOR_X 60}10 000 $"
+    },
+    {
+      "id": "msg_0321_00127",
+      "de_DE": "NEIN, DANKE"
+    },
+    {
+      "id": "msg_0321_00128",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0321_00129",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0321_00130",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00131",
+      "de_DE": "POKéMON ANBIETEN?"
+    },
+    {
+      "id": "msg_0321_00132",
+      "de_DE": "POKéMON SUCHEN?"
+    },
+    {
+      "id": "msg_0321_00133",
+      "de_DE": "VERSTANDEN!"
+    },
+    {
+      "id": "msg_0321_00134",
+      "de_DE": "{STRVAR_1 0, 0} {STRVAR_1 2, 2}{CURSOR_X 90}Lv.{STRVAR_1 52, 1}"
+    },
+    {
+      "id": "msg_0321_00135",
+      "de_DE": "{STRVAR_1 0, 0} {STRVAR_1 2, 2}{CURSOR_X 90}Lv.{STRVAR_1 52, 1}"
+    },
+    {
+      "id": "msg_0321_00136",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00137",
+      "de_DE": "RECHTS"
+    },
+    {
+      "id": "msg_0321_00138",
+      "de_DE": "LINKS"
+    },
+    {
+      "id": "msg_0321_00139",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0321_00140",
+      "de_DE": "ERGEBNISSE"
+    },
+    {
+      "id": "msg_0321_00141",
+      "de_DE": "HERAUSFORDERN"
+    },
+    {
+      "id": "msg_0321_00142",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0321_00143",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00144",
+      "de_DE": "EINZEL"
+    },
+    {
+      "id": "msg_0321_00145",
+      "de_DE": "DOPPEL"
+    },
+    {
+      "id": "msg_0321_00146",
+      "de_DE": "WEITER"
+    },
+    {
+      "id": "msg_0321_00147",
+      "de_DE": "AUSRUHEN"
+    },
+    {
+      "id": "msg_0321_00148",
+      "de_DE": "SCHLUSS"
+    },
+    {
+      "id": "msg_0321_00149",
+      "de_DE": "LEITER WERDEN"
+    },
+    {
+      "id": "msg_0321_00150",
+      "de_DE": "MITSPIELER"
+    },
+    {
+      "id": "msg_0321_00151",
+      "de_DE": "LEITER PRÜFEN"
+    },
+    {
+      "id": "msg_0321_00152",
+      "de_DE": "VORHERG. RAUM HERAUSF."
+    },
+    {
+      "id": "msg_0321_00153",
+      "de_DE": "FREUNDE REGISTRIEREN?"
+    },
+    {
+      "id": "msg_0321_00154",
+      "de_DE": "VERSTANDEN!"
+    },
+    {
+      "id": "msg_0321_00155",
+      "de_DE": "JA, BITTE!"
+    },
+    {
+      "id": "msg_0321_00156",
+      "de_DE": "ALTBERNSTEIN"
+    },
+    {
+      "id": "msg_0321_00157",
+      "de_DE": "HELIXFOSSIL"
+    },
+    {
+      "id": "msg_0321_00158",
+      "de_DE": "DOMFOSSIL"
+    },
+    {
+      "id": "msg_0321_00159",
+      "de_DE": "WURZELFOSSIL"
+    },
+    {
+      "id": "msg_0321_00160",
+      "de_DE": "KLAUENFOSSIL"
+    },
+    {
+      "id": "msg_0321_00161",
+      "de_DE": "PANZERFOSSIL"
+    },
+    {
+      "id": "msg_0321_00162",
+      "de_DE": "KOPFFOSSIL"
+    },
+    {
+      "id": "msg_0321_00163",
+      "de_DE": "ZWEIKAMPF"
+    },
+    {
+      "id": "msg_0321_00164",
+      "de_DE": "KAMPF FÜR VIER"
+    },
+    {
+      "id": "msg_0321_00165",
+      "de_DE": "EMPFANG"
+    },
+    {
+      "id": "msg_0321_00166",
+      "de_DE": "UNTERHALTEN"
+    },
+    {
+      "id": "msg_0321_00167",
+      "de_DE": "CHAT"
+    },
+    {
+      "id": "msg_0321_00168",
+      "de_DE": "{STRVAR_1 8, 0}{CURSOR_X 96}{STRVAR_1 54, 1}"
+    },
+    {
+      "id": "msg_0321_00169",
+      "de_DE": "NEIN, DANKE"
+    },
+    {
+      "id": "msg_0321_00170",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0321_00171",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0321_00172",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0321_00173",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0321_00174",
+      "de_DE": "RECHTS"
+    },
+    {
+      "id": "msg_0321_00175",
+      "de_DE": "LINKS"
+    },
+    {
+      "id": "msg_0321_00176",
+      "de_DE": "MODELN"
+    },
+    {
+      "id": "msg_0321_00177",
+      "de_DE": "TANZEN"
+    },
+    {
+      "id": "msg_0321_00178",
+      "de_DE": "IN AKTION"
+    },
+    {
+      "id": "msg_0321_00179",
+      "de_DE": "ÜBEN"
+    },
+    {
+      "id": "msg_0321_00180",
+      "de_DE": "FAHNEN"
+    },
+    {
+      "id": "msg_0321_00181",
+      "de_DE": "SPHÄREN"
+    },
+    {
+      "id": "msg_0321_00182",
+      "de_DE": "FALLEN"
+    },
+    {
+      "id": "msg_0321_00183",
+      "de_DE": "DEKO"
+    },
+    {
+      "id": "msg_0321_00184",
+      "de_DE": "SCHÄTZE"
+    },
+    {
+      "id": "msg_0321_00185",
+      "de_DE": "VORHER. RAUM HERAUSFORDERN"
+    },
+    {
+      "id": "msg_0321_00186",
+      "de_DE": "AREAL 1"
+    },
+    {
+      "id": "msg_0321_00187",
+      "de_DE": "AREAL 2"
+    },
+    {
+      "id": "msg_0321_00188",
+      "de_DE": "AREAL 3"
+    },
+    {
+      "id": "msg_0321_00189",
+      "de_DE": "AREAL 4"
+    },
+    {
+      "id": "msg_0321_00190",
+      "de_DE": "AREAL 5"
+    },
+    {
+      "id": "msg_0321_00191",
+      "de_DE": "AREAL 6"
+    },
+    {
+      "id": "msg_0321_00192",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00193",
+      "de_DE": "PURPURSTÜCK"
+    },
+    {
+      "id": "msg_0321_00194",
+      "de_DE": "INDIGOSTÜCK"
+    },
+    {
+      "id": "msg_0321_00195",
+      "de_DE": "GELBSTÜCK"
+    },
+    {
+      "id": "msg_0321_00196",
+      "de_DE": "GRÜNSTÜCK"
+    },
+    {
+      "id": "msg_0321_00197",
+      "de_DE": "{STRVAR_1 54, 0} Münzen"
+    },
+    {
+      "id": "msg_0321_00198",
+      "de_DE": "GRUNDREGELN"
+    },
+    {
+      "id": "msg_0321_00199",
+      "de_DE": "FANGSHOW"
+    },
+    {
+      "id": "msg_0321_00200",
+      "de_DE": "POKéMON-DEPOT"
+    },
+    {
+      "id": "msg_0321_00201",
+      "de_DE": "DEPOT 2"
+    },
+    {
+      "id": "msg_0321_00202",
+      "de_DE": "VERSTANDEN!"
+    },
+    {
+      "id": "msg_0321_00203",
+      "de_DE": "EINTRAGEN"
+    },
+    {
+      "id": "msg_0321_00204",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0321_00205",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00206",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0321_00207",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0321_00208",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0321_00209",
+      "de_DE": "PURPURSTÜCK"
+    },
+    {
+      "id": "msg_0321_00210",
+      "de_DE": "INDIGOSTÜCK"
+    },
+    {
+      "id": "msg_0321_00211",
+      "de_DE": "GELBSTÜCK"
+    },
+    {
+      "id": "msg_0321_00212",
+      "de_DE": "GRÜNSTÜCK"
+    },
+    {
+      "id": "msg_0321_00213",
+      "de_DE": "EISENINSEL"
+    },
+    {
+      "id": "msg_0321_00214",
+      "de_DE": "VOLLMOND-INSEL"
+    },
+    {
+      "id": "msg_0321_00215",
+      "de_DE": "NEUMOND-INSEL"
+    },
+    {
+      "id": "msg_0321_00216",
+      "de_DE": "DUELLZONE"
+    },
+    {
+      "id": "msg_0321_00217",
+      "de_DE": "BLIZZACH"
+    },
+    {
+      "id": "msg_0321_00218",
+      "de_DE": "NEIN, DANKE"
+    },
+    {
+      "id": "msg_0321_00219",
+      "de_DE": "TAFELWASSER{CURSOR_X 80}200 $"
+    },
+    {
+      "id": "msg_0321_00220",
+      "de_DE": "SPRUDEL{CURSOR_X 80}300 $"
+    },
+    {
+      "id": "msg_0321_00221",
+      "de_DE": "LIMONADE{CURSOR_X 80}350 $"
+    },
+    {
+      "id": "msg_0321_00222",
+      "de_DE": "NEIN, DANKE"
+    },
+    {
+      "id": "msg_0321_00223",
+      "de_DE": "WACHSMULCH{CURSOR_X 90}200 $"
+    },
+    {
+      "id": "msg_0321_00224",
+      "de_DE": "FEUCHTMULCH{CURSOR_X 90}200 $"
+    },
+    {
+      "id": "msg_0321_00225",
+      "de_DE": "STABILMULCH{CURSOR_X 90}200 $"
+    },
+    {
+      "id": "msg_0321_00226",
+      "de_DE": "NEUMULCH{CURSOR_X 90}200 $"
+    },
+    {
+      "id": "msg_0321_00227",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00228",
+      "de_DE": "Nein, danke."
+    },
+    {
+      "id": "msg_0321_00229",
+      "de_DE": "Was empfehlen Sie?"
+    },
+    {
+      "id": "msg_0321_00230",
+      "de_DE": "{STRVAR_1 53, 0} GP"
+    },
+    {
+      "id": "msg_0321_00231",
+      "de_DE": "{STRVAR_1 8, 0}{CURSOR_X 96}{STRVAR_1 52, 1} GP"
+    },
+    {
+      "id": "msg_0321_00232",
+      "de_DE": "NEIN, DANKE"
+    },
+    {
+      "id": "msg_0321_00233",
+      "de_DE": "DIGITALUHR"
+    },
+    {
+      "id": "msg_0321_00234",
+      "de_DE": "STOPPUHR"
+    },
+    {
+      "id": "msg_0321_00235",
+      "de_DE": "TASCHENRECHNER"
+    },
+    {
+      "id": "msg_0321_00236",
+      "de_DE": "NOTIZBLOCK"
+    },
+    {
+      "id": "msg_0321_00237",
+      "de_DE": "ANALOGUHR"
+    },
+    {
+      "id": "msg_0321_00238",
+      "de_DE": "ZEICHENBRETT"
+    },
+    {
+      "id": "msg_0321_00239",
+      "de_DE": "POKéMON-LISTE"
+    },
+    {
+      "id": "msg_0321_00240",
+      "de_DE": "FREUNDSCHAFTSSTATUS"
+    },
+    {
+      "id": "msg_0321_00241",
+      "de_DE": "ITEMRADAR"
+    },
+    {
+      "id": "msg_0321_00242",
+      "de_DE": "ZÄHLER"
+    },
+    {
+      "id": "msg_0321_00243",
+      "de_DE": "SCHRITTZÄHLER"
+    },
+    {
+      "id": "msg_0321_00244",
+      "de_DE": "PENSION-PRÜFER"
+    },
+    {
+      "id": "msg_0321_00245",
+      "de_DE": "ROULETTE"
+    },
+    {
+      "id": "msg_0321_00246",
+      "de_DE": "MÜNZWURF"
+    },
+    {
+      "id": "msg_0321_00247",
+      "de_DE": "ATTACKENTESTER"
+    },
+    {
+      "id": "msg_0321_00248",
+      "de_DE": "VERGLEICH"
+    },
+    {
+      "id": "msg_0321_00249",
+      "de_DE": "WECKER"
+    },
+    {
+      "id": "msg_0321_00250",
+      "de_DE": "EIERUHR"
+    },
+    {
+      "id": "msg_0321_00251",
+      "de_DE": "LANDKARTE"
+    },
+    {
+      "id": "msg_0321_00252",
+      "de_DE": "BEERENSUCHER"
+    },
+    {
+      "id": "msg_0321_00253",
+      "de_DE": "FARBWECHSLER"
+    },
+    {
+      "id": "msg_0321_00254",
+      "de_DE": "KALENDER"
+    },
+    {
+      "id": "msg_0321_00255",
+      "de_DE": "LINKFINDER"
+    },
+    {
+      "id": "msg_0321_00256",
+      "de_DE": "TRAINER-ZÄHLER"
+    },
+    {
+      "id": "msg_0321_00257",
+      "de_DE": "POKéMON-HISTORIE"
+    },
+    {
+      "id": "msg_0321_00258",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00259",
+      "de_DE": "TEIL 1"
+    },
+    {
+      "id": "msg_0321_00260",
+      "de_DE": "TEIL 2"
+    },
+    {
+      "id": "msg_0321_00261",
+      "de_DE": "TEIL 3"
+    },
+    {
+      "id": "msg_0321_00262",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00263",
+      "de_DE": "FINSTERBALL"
+    },
+    {
+      "id": "msg_0321_00264",
+      "de_DE": "HEILBALL"
+    },
+    {
+      "id": "msg_0321_00265",
+      "de_DE": "FLOTTBALL"
+    },
+    {
+      "id": "msg_0321_00266",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0321_00267",
+      "de_DE": "DIE ERFINDUNG DES RAUMES"
+    },
+    {
+      "id": "msg_0321_00268",
+      "de_DE": "MYTHISCHE POKéMON"
+    },
+    {
+      "id": "msg_0321_00269",
+      "de_DE": "ROTE KETTE"
+    },
+    {
+      "id": "msg_0321_00270",
+      "de_DE": "ZURÜCK"
+    }
+  ]
+}

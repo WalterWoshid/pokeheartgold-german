@@ -1,0 +1,174 @@
+{
+  "key": 46914,
+  "messages": [
+    {
+      "id": "msg_0683_00000",
+      "de_DE": "Sandro"
+    },
+    {
+      "id": "msg_0683_00001",
+      "de_DE": [
+        "Ich schreibe eine Schularbeit und\n",
+        "sammele Infos über die Arenaleiter!\r",
+        "Wusstest du? Wenn du sie außerhalb\n",
+        "der Arena ansprichst, geben sie dir\f",
+        "ihre Telefonnummern!\r",
+        "Aber bevor du sie ansprichst, gibst\n",
+        "du mir erst deine, ja? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0683_00002",
+      "de_DE": [
+        "Wenn ich herausfinde, wo sich die\n",
+        "Arenaleiter wann aufhalten,\f",
+        "lasse ich es dich wissen!"
+      ]
+    },
+    {
+      "id": "msg_0683_00003",
+      "de_DE": [
+        "Was? Du willst auf meine Infos zu den\n",
+        "Arenaleitern einfach so verzichten?!?"
+      ]
+    },
+    {
+      "id": "msg_0683_00004",
+      "de_DE": [
+        "Ich wusste es! Du bist doch\n",
+        "neugierig auf die Arenaleiter! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0683_00005",
+      "de_DE": [
+        "Du bist doch schon fast hier?\n",
+        "Reden wir lieber direkt miteinander!"
+      ]
+    },
+    {
+      "id": "msg_0683_00006",
+      "de_DE": [
+        "Ich habe gehört,\n",
+        "Bianka erholt sich oft im 5. Stock\f",
+        "des Kaufhauses von Dukatia City."
+      ]
+    },
+    {
+      "id": "msg_0683_00007",
+      "de_DE": [
+        "Janina bringt jeden Tag\n",
+        "ihrem Vater das Abendessen.\r",
+        "Abends findest du sie am Eingang\n",
+        "zur Siegesstraße!"
+      ]
+    },
+    {
+      "id": "msg_0683_00008",
+      "de_DE": [
+        "Falk macht jeden Montag einen\n",
+        "Ausflug nach Prismania City."
+      ]
+    },
+    {
+      "id": "msg_0683_00009",
+      "de_DE": [
+        "Misty hegt eine große Leidenschaft\n",
+        "für Route 25!\r",
+        "Sie geht jeden Abend dorthin, um sich\n",
+        "den Sonnenuntergang anzusehen."
+      ]
+    },
+    {
+      "id": "msg_0683_00010",
+      "de_DE": [
+        "Sabrina wird jeden Freitagabend\n",
+        "im Hafen von Oliviana City gesichtet!\r",
+        "Ihre Pfade sind wirklich unergründlich."
+      ]
+    },
+    {
+      "id": "msg_0683_00011",
+      "de_DE": [
+        "Dir kann ich es ja verraten...\r",
+        "Man sieht es Jasmin nicht an, aber\n",
+        "sie ist ein echter Vielfraß!\r",
+        "Schau um die Mittagszeit einmal\n",
+        "im Oliviana City-Café vorbei.\f",
+        "Sie wird hundertprozentig da sein!"
+      ]
+    },
+    {
+      "id": "msg_0683_00012",
+      "de_DE": [
+        "Pyro, der Arenaleiter der\n",
+        "Zinnoberinsel, hängt immer noch\f",
+        "sehr an seiner alten Heimat!\r",
+        "Jeden Dienstagmorgen begibt er\n",
+        "sich an den Ort, wo einst seine Arena\f",
+        "stand, und grübelt vor sich hin."
+      ]
+    },
+    {
+      "id": "msg_0683_00013",
+      "de_DE": [
+        "Rocko, der Leiter der Marmoria-Arena,\n",
+        "ist ein echter Gesteinfanatiker!\r",
+        "Denk nur! Er erkundet jeden\n",
+        "Nachmittag DIGDAs Höhle."
+      ]
+    },
+    {
+      "id": "msg_0683_00014",
+      "de_DE": [
+        "Auf der Suche nach Käfer-Pokémon\n",
+        "reist Kai jede Woche Donnerstag\f",
+        "bis in den Vertania-Wald in Kanto!"
+      ]
+    },
+    {
+      "id": "msg_0683_00015",
+      "de_DE": [
+        "Es heißt ja, stille Wasser seien tief.\n",
+        "Norbert ist dafür ein Paradebeispiel.\r",
+        "Man sagt, er gehe jeden Morgen um 7 Uhr\n",
+        "zum See des Zorns und lasse dort einsam\f",
+        "den Blick übers Wasser schweifen."
+      ]
+    },
+    {
+      "id": "msg_0683_00016",
+      "de_DE": [
+        "Jens sieht doch ständig zum\n",
+        "Glockenturm hinauf, nicht wahr?\r",
+        "Wenn man sich dermaßen für eine\n",
+        "Sache begeistern kann wie er, \f",
+        "hat man das Zeug zum Arenaleiter!"
+      ]
+    },
+    {
+      "id": "msg_0683_00017",
+      "de_DE": [
+        "Ich habe eifrig trainiert! Jetzt würde\n",
+        "ich gerne noch einmal mit dir kämpfen.\f",
+        "Triff mich hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0683_00018",
+      "de_DE": [
+        "Hast du gehört?\n",
+        "{STRVAR_1 4, 3, 0}! Ich warte\f",
+        "schon auf unseren Kampf.\f",
+        "Lass mich nicht zu lange schmoren!"
+      ]
+    },
+    {
+      "id": "msg_0683_00019",
+      "de_DE": [
+        "Sobald ich mehr über die Arenaleiter\n",
+        "erfahre, rufe ich dich an."
+      ]
+    }
+  ]
+}

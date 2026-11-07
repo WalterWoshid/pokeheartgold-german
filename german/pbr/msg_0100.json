@@ -1,0 +1,96 @@
+{
+  "key": 39279,
+  "messages": [
+    {
+      "id": "msg_0100_00000",
+      "de_DE": [
+        "Frage: 3 plus 5 plus 7 gibt?\n",
+        "Antwort: ←2 ↑16 →15"
+      ]
+    },
+    {
+      "id": "msg_0100_00001",
+      "de_DE": [
+        "Korrekt!\n",
+        "Gratuliere!"
+      ]
+    },
+    {
+      "id": "msg_0100_00002",
+      "de_DE": "Bitte beantworte die Frage!"
+    },
+    {
+      "id": "msg_0100_00003",
+      "de_DE": [
+        "Hey, hallo!\n",
+        "Wie läuft es denn so, Trainer?\r",
+        "Du willst doch sicher die Arenaleiterin\n",
+        "herausfordern. Habe ich Recht?\r",
+        "Tja... So leid es mir tut, aber das ist\n",
+        "im Moment unmöglich.\r",
+        "Du fragst, warum? Die Antwort ist:\n",
+        "Sie ist nicht hier.\r",
+        "Komm später nochmal wieder, okay?\n",
+        "Ich warte so lange hier."
+      ]
+    },
+    {
+      "id": "msg_0100_00004",
+      "de_DE": [
+        "Du fragst, wo die Arenaleiterin ist?\r",
+        "Das kann ich dir nicht sagen, aber sie\n",
+        "wird schon noch zurückkommen...\r",
+        "Allerdings erst, nachdem du andere\n",
+        "Orte besucht hast, fürchte ich.\r",
+        "Ja, tut mir leid, dass ich nicht genauer\n",
+        "werden kann. Ich werde an mir arbeiten."
+      ]
+    },
+    {
+      "id": "msg_0100_00005",
+      "de_DE": [
+        "Hey, hallo!\n",
+        "Wie sieht es aus, auf dem Weg zum Champ?\r",
+        "Die Arenaleiterin hier verwendet\n",
+        "Pokémon vom Typ Geist.\r",
+        "Vorsicht! Normal-Attacken können\n",
+        "Geist-Pokémon nicht verletzen!\r",
+        "Es ist, als wären sie gar nicht da!\n",
+        "Aber das wirst du schon noch\f",
+        "herausfinden.\r",
+        "Und jetzt los! Du schaffst es!"
+      ]
+    },
+    {
+      "id": "msg_0100_00006",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0}!\n",
+        "Du hast die Arenaleiterin besiegt!\r",
+        "Du wirst von Tag zu Tag stärker, und es\n",
+        "ist kein Ende in Sicht!\r",
+        "Zumindest sehe ich das so!\r",
+        "...Das sage ich jedem hier.\n",
+        "Ich hoffe, du weißt das."
+      ]
+    },
+    {
+      "id": "msg_0100_00007",
+      "de_DE": [
+        "Pokémon Arena Herzhofen\n",
+        "Leiterin: Lamina\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 1}"
+      ]
+    },
+    {
+      "id": "msg_0100_00008",
+      "de_DE": [
+        "Pokémon Arena Herzhofen\n",
+        "Leiterin: Lamina\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 0}\f",
+        "{STRVAR_1 3, 1}"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "key": 54176,
+  "messages": [
+    {
+      "id": "msg_0196_00000",
+      "de_DE": "POKéDEX"
+    },
+    {
+      "id": "msg_0196_00001",
+      "de_DE": "POKéMON"
+    },
+    {
+      "id": "msg_0196_00002",
+      "de_DE": "BEUTEL"
+    },
+    {
+      "id": "msg_0196_00003",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0196_00004",
+      "de_DE": "SICHERN"
+    },
+    {
+      "id": "msg_0196_00005",
+      "de_DE": "OPTIONEN"
+    },
+    {
+      "id": "msg_0196_00006",
+      "de_DE": "BEENDEN"
+    },
+    {
+      "id": "msg_0196_00007",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0196_00008",
+      "de_DE": "SCHLUSS"
+    },
+    {
+      "id": "msg_0196_00009",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0196_00010",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0196_00011",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0196_00012",
+      "de_DE": "MENÜ"
+    },
+    {
+      "id": "msg_0196_00013",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0196_00014",
+      "de_DE": "POKéCOM"
+    },
+    {
+      "id": "msg_0196_00015",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0196_00016",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0196_00017",
+      "de_DE": "REDEN"
+    },
+    {
+      "id": "msg_0196_00018",
+      "de_DE": "PRÜFEN"
+    },
+    {
+      "id": "msg_0196_00019",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0196_00020",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0196_00021",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0196_00022",
+      "de_DE": "ANGELN"
+    },
+    {
+      "id": "msg_0196_00023",
+      "de_DE": "WEITER"
+    },
+    {
+      "id": "msg_0196_00024",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0196_00025",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0196_00026",
+      "de_DE": "ABBRUCH"
+    },
+    {
+      "id": "msg_0196_00027",
+      "de_DE": "{STRVAR_1 50, 0, 0}"
+    },
+    {
+      "id": "msg_0196_00028",
+      "de_DE": "/"
+    },
+    {
+      "id": "msg_0196_00029",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0196_00030",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0196_00031",
+      "de_DE": "{ALN_CENTER}x{STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0196_00032",
+      "de_DE": "BÄLLE"
+    },
+    {
+      "id": "msg_0196_00033",
+      "de_DE": "{ALN_CENTER}Lv. {STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0196_00034",
+      "de_DE": "CHAT"
+    },
+    {
+      "id": "msg_0196_00035",
+      "de_DE": "LOG"
+    },
+    {
+      "id": "msg_0196_00036",
+      "garbage": 13
+    }
+  ]
+}

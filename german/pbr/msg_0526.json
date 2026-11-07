@@ -1,0 +1,75 @@
+{
+  "key": 62503,
+  "messages": [
+    {
+      "id": "msg_0526_00000",
+      "de_DE": [
+        "Ich verwende Sticker, um das Alphabet\n",
+        "zu lernen."
+      ]
+    },
+    {
+      "id": "msg_0526_00001",
+      "de_DE": [
+        "Oh, dieses {STRVAR_1 0, 0} sieht genau wie\n",
+        "meine Sticker aus!\r",
+        "Ich gebe dir ganz viele Sticker, die\n",
+        "genau so aussehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0526_00002",
+      "de_DE": [
+        "Was war zuerst da: Die Pokémon oder\n",
+        "das Alphabet?\f",
+        "Was meinst du?"
+      ]
+    },
+    {
+      "id": "msg_0526_00003",
+      "de_DE": [
+        "Ich wollte dir meine Sticker geben, aber\n",
+        "du hast keinen Stick.Koffer!\f",
+        "Du solltest mit meiner Mutter sprechen!"
+      ]
+    },
+    {
+      "id": "msg_0526_00004",
+      "de_DE": [
+        "{STRVAR_1 10, 0} wurden\n",
+        "im Stick.Koffer verstaut."
+      ]
+    },
+    {
+      "id": "msg_0526_00005",
+      "de_DE": [
+        "Du kannst Pokébälle dekorieren, indem\n",
+        "du Sticker an ihnen befestigst.\r",
+        "Oh, du hast keinen Stick.Koffer?\n",
+        "Nun, hier bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0526_00006",
+      "de_DE": [
+        "Wähle zunächst die Option “Ballkapsel”\n",
+        "im Menü deines PCs.\r",
+        "Wähle dann eine Kapsel und befestige an\n",
+        "ihr die gewünschten Sticker.\r",
+        "Und danach bringst du die Kapsel an\n",
+        "einem Pokéball an."
+      ]
+    },
+    {
+      "id": "msg_0526_00007",
+      "de_DE": [
+        "Immer, wenn er Zeit hat, geht mein Sohn\n",
+        "zu den Ruinen.\r",
+        "Er sagt, so könne er Sticker für seine\n",
+        "Kapseln machen.\r",
+        "Könntest du ihm eventuell die Pokémon\n",
+        "zeigen, die du in den Ruinen fängst?"
+      ]
+    }
+  ]
+}

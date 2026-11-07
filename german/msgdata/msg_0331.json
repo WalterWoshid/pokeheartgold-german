@@ -1,0 +1,114 @@
+{
+  "key": 42002,
+  "messages": [
+    {
+      "id": "msg_0331_00000",
+      "de_DE": [
+        "Ich...\r",
+        "Nein, ich will dir-ir-ir...\r",
+        "Ich will dir nichts Böse-öses-öses...\r",
+        "Dieser verlassene Ort ist wie\r",
+        "ein Auffangbecken für böse Jungs-ungs,\r",
+        "die hier ihr Unwesen...\r",
+        "Die hier ihr Unwesen treiben-eiben!\r",
+        "Das macht mich so rasen-asen-asend,\r",
+        "dass ich hier...\r",
+        "Dass ich hier Wache stehe-ehe-ehe...\r",
+        "Hier in diesem Tunnelpfad-ad-ad...\r",
+        "ist das Echo ziemlich stark-ark-ark..."
+      ]
+    },
+    {
+      "id": "msg_0331_00001",
+      "de_DE": [
+        "Ich...\r",
+        "Nein, ich will dir-ir-ir...\r",
+        "Ich will dir nichts Böse-öses-öses...\r",
+        "Dieser verlassene Ort ist wie \n",
+        "ein Auffangbecken für böse Jungs-ungs,\f",
+        "die hier ihr Unwesen...\r",
+        "Die hier ihr Unwesen treiben-eiben!\r",
+        "Mann, das macht mich so wüten-ütend...\r"
+      ]
+    },
+    {
+      "id": "msg_0331_00002",
+      "de_DE": [
+        "Oh!\r",
+        "Das ist ein Wutkeks!\r",
+        "Her damit!\n",
+        "Los, gib ihn mir! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0331_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gibt dem Mann aus\n",
+        "dem Tunnelpfad den Wutkeks.\r"
+      ]
+    },
+    {
+      "id": "msg_0331_00004",
+      "de_DE": [
+        "Hamm!\r",
+        "Knusper, knusper, knusper!\r",
+        "Der ist aber lecker!\r",
+        "Mampf, mampf, mampf!\r",
+        "Knusper, knusper, knusper!\r",
+        "Mampf, mampf, mampf!\r",
+        "Knusper, knusper, knusper!\r",
+        "...Puh.\r",
+        "Jetzt bin ich irgendwie entspannt.\n",
+        "Danke für den Snack!\f",
+        "Hier, nimm das als Dankeschön!\r"
+      ]
+    },
+    {
+      "id": "msg_0331_00005",
+      "de_DE": [
+        "Die TM64 enthält...\r",
+        "Tick,\n",
+        "Tick,\f",
+        "Tick,\f",
+        "Tick,\f",
+        "Tick,\f",
+        "Tick,\f",
+        "Tick,\f",
+        "Tick,\f",
+        "Tick,\f",
+        "... ... ...\f",
+        "... ... ...\r"
+      ]
+    },
+    {
+      "id": "msg_0331_00006",
+      "de_DE": "{SIZE 200}Kabumm!!!"
+    },
+    {
+      "id": "msg_0331_00007",
+      "de_DE": [
+        "Dieser verlassene Ort ist wie\n",
+        "ein Auffangbecken-ecken-ecken\f",
+        "für böse Jungs-ungs-ungs...\r",
+        "Deshalb... stehe-ehe-ehe...\n",
+        "ich hier auch-auch-auch...\f",
+        "in diesem Tunnelpfad Wache-ache-ache...\r",
+        "Was für ein fieses Echo-echo-echo..."
+      ]
+    },
+    {
+      "id": "msg_0331_00008",
+      "de_DE": "Was, willst du etwa alles für dich?!?"
+    },
+    {
+      "id": "msg_0331_00009",
+      "de_DE": [
+        "Oh! Vielen Dank!\r",
+        "...Aber zu früh gefreut.\n",
+        "Du kannst nicht mehr tragen...\r",
+        "Komm wieder, wenn du mit leichterem\n",
+        "Gepäck reist-eist-eist..."
+      ]
+    }
+  ]
+}

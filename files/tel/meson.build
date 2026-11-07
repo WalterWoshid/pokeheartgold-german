@@ -1,6 +1,10 @@
 build_dir = meson.current_build_dir()
 
-pmtel_book_json = files('pmtel_book.json')
+if game_language == 'GERMAN'
+    pmtel_book_json = files(meson.project_source_root() / 'german/files/tel/pmtel_book.json')
+else
+    pmtel_book_json = files('pmtel_book.json')
+endif
 pmtel_book_template = files('pmtel_book.json.txt')
 
 pmtel_book_dat = custom_target('pmtel_book.dat',

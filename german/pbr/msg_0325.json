@@ -1,0 +1,70 @@
+{
+  "key": 41478,
+  "messages": [
+    {
+      "id": "msg_0325_00000",
+      "de_DE": "{STRVAR_1 3, 0} erhält {STRVAR_1 8, 1}!"
+    },
+    {
+      "id": "msg_0325_00001",
+      "de_DE": "Der Beutel ist voll..."
+    },
+    {
+      "id": "msg_0325_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} verstaut {STRVAR_1 8, 1}\n",
+        "in der {STRVAR_1 8, 2}-Tasche."
+      ]
+    },
+    {
+      "id": "msg_0325_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat\n",
+        "{STRVAR_1 8, 1} gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0325_00004",
+      "de_DE": [
+        "{STRVAR_1 8, 0} erhalten!\r",
+        "Jammerschade!\n",
+        "Der Beutel ist voll..."
+      ]
+    },
+    {
+      "id": "msg_0325_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0} verstaut {STRVAR_1 8, 1}\n",
+        "im Beutel."
+      ]
+    },
+    {
+      "id": "msg_0325_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat {STRVAR_1 8, 1}\n",
+        "{STRVAR_1 6, 2} gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0325_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält\n",
+        "{COLOR 2}{STRVAR_1 8, 1}{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0325_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält\n",
+        "{COLOR 1}{STRVAR_1 8, 1}{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0325_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0} verstaut {STRVAR_1 8, 1}\n",
+        "in der {COLOR 2}{STRVAR_1 60, 2}{COLOR 0}-Tasche."
+      ]
+    }
+  ]
+}

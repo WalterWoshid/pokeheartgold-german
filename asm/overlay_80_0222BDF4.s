@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_80_0222BDF4.inc"
 	.include "global.inc"
@@ -2558,7 +2559,7 @@ FrtCmd_126: ; 0x0222D084
 	bl ov80_0222D0D4
 	add r7, r0, #0
 	str r4, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	ldr r0, [r5]
 	ldr r3, [sp, #8]

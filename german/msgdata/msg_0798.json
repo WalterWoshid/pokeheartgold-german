@@ -1,0 +1,941 @@
+{
+  "key": 40631,
+  "messages": [
+    {
+      "id": "msg_0798_00000",
+      "de_DE": "Keiner"
+    },
+    {
+      "id": "msg_0798_00001",
+      "de_DE": "Afghanistan"
+    },
+    {
+      "id": "msg_0798_00002",
+      "de_DE": "Albanien"
+    },
+    {
+      "id": "msg_0798_00003",
+      "de_DE": "Algerien"
+    },
+    {
+      "id": "msg_0798_00004",
+      "de_DE": "Amerikanisch-Samoa"
+    },
+    {
+      "id": "msg_0798_00005",
+      "de_DE": "Andorra"
+    },
+    {
+      "id": "msg_0798_00006",
+      "de_DE": "Angola"
+    },
+    {
+      "id": "msg_0798_00007",
+      "de_DE": "Anguilla"
+    },
+    {
+      "id": "msg_0798_00008",
+      "de_DE": "Antigua und Barbuda"
+    },
+    {
+      "id": "msg_0798_00009",
+      "de_DE": "Argentinien"
+    },
+    {
+      "id": "msg_0798_00010",
+      "de_DE": "Armenien"
+    },
+    {
+      "id": "msg_0798_00011",
+      "de_DE": "Aruba"
+    },
+    {
+      "id": "msg_0798_00012",
+      "de_DE": "Australien"
+    },
+    {
+      "id": "msg_0798_00013",
+      "de_DE": "Österreich"
+    },
+    {
+      "id": "msg_0798_00014",
+      "de_DE": "Aserbaidschan"
+    },
+    {
+      "id": "msg_0798_00015",
+      "de_DE": "Bahamas"
+    },
+    {
+      "id": "msg_0798_00016",
+      "de_DE": "Bahrain"
+    },
+    {
+      "id": "msg_0798_00017",
+      "de_DE": "Bangladesch"
+    },
+    {
+      "id": "msg_0798_00018",
+      "de_DE": "Barbados"
+    },
+    {
+      "id": "msg_0798_00019",
+      "de_DE": "Weißrussland"
+    },
+    {
+      "id": "msg_0798_00020",
+      "de_DE": "Belgien"
+    },
+    {
+      "id": "msg_0798_00021",
+      "de_DE": "Belize"
+    },
+    {
+      "id": "msg_0798_00022",
+      "de_DE": "Benin"
+    },
+    {
+      "id": "msg_0798_00023",
+      "de_DE": "Bermuda"
+    },
+    {
+      "id": "msg_0798_00024",
+      "de_DE": "Bhutan"
+    },
+    {
+      "id": "msg_0798_00025",
+      "de_DE": "Bolivien"
+    },
+    {
+      "id": "msg_0798_00026",
+      "de_DE": "Bosnien-Herzegowina"
+    },
+    {
+      "id": "msg_0798_00027",
+      "de_DE": "Botswana"
+    },
+    {
+      "id": "msg_0798_00028",
+      "de_DE": "Brasilien"
+    },
+    {
+      "id": "msg_0798_00029",
+      "de_DE": "Jungferninseln (Brit.)"
+    },
+    {
+      "id": "msg_0798_00030",
+      "de_DE": "Brunei "
+    },
+    {
+      "id": "msg_0798_00031",
+      "de_DE": "Bulgarien"
+    },
+    {
+      "id": "msg_0798_00032",
+      "de_DE": "Burkina Faso"
+    },
+    {
+      "id": "msg_0798_00033",
+      "de_DE": "Burundi"
+    },
+    {
+      "id": "msg_0798_00034",
+      "de_DE": "Kambodscha"
+    },
+    {
+      "id": "msg_0798_00035",
+      "de_DE": "Kamerun"
+    },
+    {
+      "id": "msg_0798_00036",
+      "de_DE": "Kanada"
+    },
+    {
+      "id": "msg_0798_00037",
+      "de_DE": "Kapverdische Inseln"
+    },
+    {
+      "id": "msg_0798_00038",
+      "de_DE": "Kaimaninseln "
+    },
+    {
+      "id": "msg_0798_00039",
+      "de_DE": "Zentralafrikanische Republik"
+    },
+    {
+      "id": "msg_0798_00040",
+      "de_DE": "Tschad"
+    },
+    {
+      "id": "msg_0798_00041",
+      "de_DE": "Kanalinseln"
+    },
+    {
+      "id": "msg_0798_00042",
+      "de_DE": "Chile"
+    },
+    {
+      "id": "msg_0798_00043",
+      "de_DE": "China"
+    },
+    {
+      "id": "msg_0798_00044",
+      "de_DE": "Weihnachtsinsel"
+    },
+    {
+      "id": "msg_0798_00045",
+      "de_DE": "Kolumbien"
+    },
+    {
+      "id": "msg_0798_00046",
+      "de_DE": "Komoren "
+    },
+    {
+      "id": "msg_0798_00047",
+      "de_DE": "Demokratische Republik Kongo"
+    },
+    {
+      "id": "msg_0798_00048",
+      "de_DE": "Republik Kongo"
+    },
+    {
+      "id": "msg_0798_00049",
+      "de_DE": "Cookinseln"
+    },
+    {
+      "id": "msg_0798_00050",
+      "de_DE": "Costa Rica"
+    },
+    {
+      "id": "msg_0798_00051",
+      "de_DE": "Elfenbeinküste"
+    },
+    {
+      "id": "msg_0798_00052",
+      "de_DE": "Kroatien"
+    },
+    {
+      "id": "msg_0798_00053",
+      "de_DE": "Kuba"
+    },
+    {
+      "id": "msg_0798_00054",
+      "de_DE": "Zypern"
+    },
+    {
+      "id": "msg_0798_00055",
+      "de_DE": "Tschechische Republik"
+    },
+    {
+      "id": "msg_0798_00056",
+      "de_DE": "Dänemark"
+    },
+    {
+      "id": "msg_0798_00057",
+      "de_DE": "Dschibuti"
+    },
+    {
+      "id": "msg_0798_00058",
+      "de_DE": "Dominica"
+    },
+    {
+      "id": "msg_0798_00059",
+      "de_DE": "Dominikanische Republik"
+    },
+    {
+      "id": "msg_0798_00060",
+      "de_DE": "Ecuador"
+    },
+    {
+      "id": "msg_0798_00061",
+      "de_DE": "Ägypten"
+    },
+    {
+      "id": "msg_0798_00062",
+      "de_DE": "El Salvador"
+    },
+    {
+      "id": "msg_0798_00063",
+      "de_DE": "Äquatorialguinea"
+    },
+    {
+      "id": "msg_0798_00064",
+      "de_DE": "Eritrea"
+    },
+    {
+      "id": "msg_0798_00065",
+      "de_DE": "Estland"
+    },
+    {
+      "id": "msg_0798_00066",
+      "de_DE": "Äthiopien"
+    },
+    {
+      "id": "msg_0798_00067",
+      "de_DE": "Färöer-Inseln"
+    },
+    {
+      "id": "msg_0798_00068",
+      "de_DE": "Falklandinseln"
+    },
+    {
+      "id": "msg_0798_00069",
+      "de_DE": "Fidschi"
+    },
+    {
+      "id": "msg_0798_00070",
+      "de_DE": "Finnland"
+    },
+    {
+      "id": "msg_0798_00071",
+      "de_DE": "Frankreich"
+    },
+    {
+      "id": "msg_0798_00072",
+      "de_DE": "Französisch-Guayana"
+    },
+    {
+      "id": "msg_0798_00073",
+      "de_DE": "Französisch-Polynesien "
+    },
+    {
+      "id": "msg_0798_00074",
+      "de_DE": "Gabun"
+    },
+    {
+      "id": "msg_0798_00075",
+      "de_DE": "Gambia"
+    },
+    {
+      "id": "msg_0798_00076",
+      "de_DE": "Georgien"
+    },
+    {
+      "id": "msg_0798_00077",
+      "de_DE": "Deutschland"
+    },
+    {
+      "id": "msg_0798_00078",
+      "de_DE": "Ghana"
+    },
+    {
+      "id": "msg_0798_00079",
+      "de_DE": "Gibraltar"
+    },
+    {
+      "id": "msg_0798_00080",
+      "de_DE": "Griechenland"
+    },
+    {
+      "id": "msg_0798_00081",
+      "de_DE": "Grönland"
+    },
+    {
+      "id": "msg_0798_00082",
+      "de_DE": "Grenada"
+    },
+    {
+      "id": "msg_0798_00083",
+      "de_DE": "Guadeloupe"
+    },
+    {
+      "id": "msg_0798_00084",
+      "de_DE": "Guam"
+    },
+    {
+      "id": "msg_0798_00085",
+      "de_DE": "Guatemala"
+    },
+    {
+      "id": "msg_0798_00086",
+      "de_DE": "Guinea"
+    },
+    {
+      "id": "msg_0798_00087",
+      "de_DE": "Guinea-Bissau"
+    },
+    {
+      "id": "msg_0798_00088",
+      "de_DE": "Guyana"
+    },
+    {
+      "id": "msg_0798_00089",
+      "de_DE": "Haiti"
+    },
+    {
+      "id": "msg_0798_00090",
+      "de_DE": "Honduras"
+    },
+    {
+      "id": "msg_0798_00091",
+      "de_DE": "Hongkong"
+    },
+    {
+      "id": "msg_0798_00092",
+      "de_DE": "Ungarn"
+    },
+    {
+      "id": "msg_0798_00093",
+      "de_DE": "Island"
+    },
+    {
+      "id": "msg_0798_00094",
+      "de_DE": "Indien"
+    },
+    {
+      "id": "msg_0798_00095",
+      "de_DE": "Indonesien"
+    },
+    {
+      "id": "msg_0798_00096",
+      "de_DE": "Iran"
+    },
+    {
+      "id": "msg_0798_00097",
+      "de_DE": "Irak"
+    },
+    {
+      "id": "msg_0798_00098",
+      "de_DE": "Irland"
+    },
+    {
+      "id": "msg_0798_00099",
+      "de_DE": "Isle of Man "
+    },
+    {
+      "id": "msg_0798_00100",
+      "de_DE": "Israel"
+    },
+    {
+      "id": "msg_0798_00101",
+      "de_DE": "Italien"
+    },
+    {
+      "id": "msg_0798_00102",
+      "de_DE": "Jamaika"
+    },
+    {
+      "id": "msg_0798_00103",
+      "de_DE": "Japan"
+    },
+    {
+      "id": "msg_0798_00104",
+      "de_DE": "Jordanien"
+    },
+    {
+      "id": "msg_0798_00105",
+      "de_DE": "Kashmir"
+    },
+    {
+      "id": "msg_0798_00106",
+      "de_DE": "Kasachstan"
+    },
+    {
+      "id": "msg_0798_00107",
+      "de_DE": "Kenia"
+    },
+    {
+      "id": "msg_0798_00108",
+      "de_DE": "Kiribati"
+    },
+    {
+      "id": "msg_0798_00109",
+      "de_DE": "Demokratische Volksrepublik Korea "
+    },
+    {
+      "id": "msg_0798_00110",
+      "de_DE": "Republik Korea "
+    },
+    {
+      "id": "msg_0798_00111",
+      "de_DE": "Kuwait"
+    },
+    {
+      "id": "msg_0798_00112",
+      "de_DE": "Kirgisistan"
+    },
+    {
+      "id": "msg_0798_00113",
+      "de_DE": "Laos"
+    },
+    {
+      "id": "msg_0798_00114",
+      "de_DE": "Lettland"
+    },
+    {
+      "id": "msg_0798_00115",
+      "de_DE": "Libanon"
+    },
+    {
+      "id": "msg_0798_00116",
+      "de_DE": "Lesotho"
+    },
+    {
+      "id": "msg_0798_00117",
+      "de_DE": "Liberia"
+    },
+    {
+      "id": "msg_0798_00118",
+      "de_DE": "Libyen"
+    },
+    {
+      "id": "msg_0798_00119",
+      "de_DE": "Liechtenstein"
+    },
+    {
+      "id": "msg_0798_00120",
+      "de_DE": "Litauen"
+    },
+    {
+      "id": "msg_0798_00121",
+      "de_DE": "Luxemburg"
+    },
+    {
+      "id": "msg_0798_00122",
+      "de_DE": "Macao"
+    },
+    {
+      "id": "msg_0798_00123",
+      "de_DE": "Mazedonien"
+    },
+    {
+      "id": "msg_0798_00124",
+      "de_DE": "Madagaskar"
+    },
+    {
+      "id": "msg_0798_00125",
+      "de_DE": "Malawi"
+    },
+    {
+      "id": "msg_0798_00126",
+      "de_DE": "Malaysia"
+    },
+    {
+      "id": "msg_0798_00127",
+      "de_DE": "Malediven"
+    },
+    {
+      "id": "msg_0798_00128",
+      "de_DE": "Mali"
+    },
+    {
+      "id": "msg_0798_00129",
+      "de_DE": "Malta"
+    },
+    {
+      "id": "msg_0798_00130",
+      "de_DE": "Marshallinseln"
+    },
+    {
+      "id": "msg_0798_00131",
+      "de_DE": "Martinique"
+    },
+    {
+      "id": "msg_0798_00132",
+      "de_DE": "Mauretanien"
+    },
+    {
+      "id": "msg_0798_00133",
+      "de_DE": "Mauritius"
+    },
+    {
+      "id": "msg_0798_00134",
+      "de_DE": "Mayotte"
+    },
+    {
+      "id": "msg_0798_00135",
+      "de_DE": "Mexiko"
+    },
+    {
+      "id": "msg_0798_00136",
+      "de_DE": "Mikronesien"
+    },
+    {
+      "id": "msg_0798_00137",
+      "de_DE": "Moldawien"
+    },
+    {
+      "id": "msg_0798_00138",
+      "de_DE": "Monaco"
+    },
+    {
+      "id": "msg_0798_00139",
+      "de_DE": "Mongolei"
+    },
+    {
+      "id": "msg_0798_00140",
+      "de_DE": "Marokko"
+    },
+    {
+      "id": "msg_0798_00141",
+      "de_DE": "Mosambik"
+    },
+    {
+      "id": "msg_0798_00142",
+      "de_DE": "Myanmar"
+    },
+    {
+      "id": "msg_0798_00143",
+      "de_DE": "Namibia"
+    },
+    {
+      "id": "msg_0798_00144",
+      "de_DE": "Nauru"
+    },
+    {
+      "id": "msg_0798_00145",
+      "de_DE": "Nepal"
+    },
+    {
+      "id": "msg_0798_00146",
+      "de_DE": "Niederlande"
+    },
+    {
+      "id": "msg_0798_00147",
+      "de_DE": "Niederländische Antillen"
+    },
+    {
+      "id": "msg_0798_00148",
+      "de_DE": "Neukaledonien"
+    },
+    {
+      "id": "msg_0798_00149",
+      "de_DE": "Neuseeland"
+    },
+    {
+      "id": "msg_0798_00150",
+      "de_DE": "Nicaragua"
+    },
+    {
+      "id": "msg_0798_00151",
+      "de_DE": "Niger"
+    },
+    {
+      "id": "msg_0798_00152",
+      "de_DE": "Nigeria"
+    },
+    {
+      "id": "msg_0798_00153",
+      "de_DE": "Niue"
+    },
+    {
+      "id": "msg_0798_00154",
+      "de_DE": "Norfolkinsel"
+    },
+    {
+      "id": "msg_0798_00155",
+      "de_DE": "Nördliche Marianen"
+    },
+    {
+      "id": "msg_0798_00156",
+      "de_DE": "Norwegen"
+    },
+    {
+      "id": "msg_0798_00157",
+      "de_DE": "Oman"
+    },
+    {
+      "id": "msg_0798_00158",
+      "de_DE": "Pakistan"
+    },
+    {
+      "id": "msg_0798_00159",
+      "de_DE": "Palau"
+    },
+    {
+      "id": "msg_0798_00160",
+      "de_DE": "Panama"
+    },
+    {
+      "id": "msg_0798_00161",
+      "de_DE": "Papua-Neuguinea"
+    },
+    {
+      "id": "msg_0798_00162",
+      "de_DE": "Paraguay"
+    },
+    {
+      "id": "msg_0798_00163",
+      "de_DE": "Peru"
+    },
+    {
+      "id": "msg_0798_00164",
+      "de_DE": "Philippinen"
+    },
+    {
+      "id": "msg_0798_00165",
+      "de_DE": "Pitcairninseln"
+    },
+    {
+      "id": "msg_0798_00166",
+      "de_DE": "Polen"
+    },
+    {
+      "id": "msg_0798_00167",
+      "de_DE": "Portugal"
+    },
+    {
+      "id": "msg_0798_00168",
+      "de_DE": "Puerto Rico"
+    },
+    {
+      "id": "msg_0798_00169",
+      "de_DE": "Katar"
+    },
+    {
+      "id": "msg_0798_00170",
+      "de_DE": "Réunion"
+    },
+    {
+      "id": "msg_0798_00171",
+      "de_DE": "Rumänien"
+    },
+    {
+      "id": "msg_0798_00172",
+      "de_DE": "Russland"
+    },
+    {
+      "id": "msg_0798_00173",
+      "de_DE": "Ruanda"
+    },
+    {
+      "id": "msg_0798_00174",
+      "de_DE": "St. Helena"
+    },
+    {
+      "id": "msg_0798_00175",
+      "de_DE": "St. Kitts und Nevis"
+    },
+    {
+      "id": "msg_0798_00176",
+      "de_DE": "St. Lucia"
+    },
+    {
+      "id": "msg_0798_00177",
+      "de_DE": "St.-Pierre und Miquelon"
+    },
+    {
+      "id": "msg_0798_00178",
+      "de_DE": "St. Vincent und die Grenadinen"
+    },
+    {
+      "id": "msg_0798_00179",
+      "de_DE": "Samoa"
+    },
+    {
+      "id": "msg_0798_00180",
+      "de_DE": "San Marino"
+    },
+    {
+      "id": "msg_0798_00181",
+      "de_DE": "São Tomé und Príncipe"
+    },
+    {
+      "id": "msg_0798_00182",
+      "de_DE": "Saudi-Arabien"
+    },
+    {
+      "id": "msg_0798_00183",
+      "de_DE": "Senegal"
+    },
+    {
+      "id": "msg_0798_00184",
+      "de_DE": "Serbien-Montenegro"
+    },
+    {
+      "id": "msg_0798_00185",
+      "de_DE": "Seychellen"
+    },
+    {
+      "id": "msg_0798_00186",
+      "de_DE": "Sierra Leone"
+    },
+    {
+      "id": "msg_0798_00187",
+      "de_DE": "Singapur"
+    },
+    {
+      "id": "msg_0798_00188",
+      "de_DE": "Slowakei"
+    },
+    {
+      "id": "msg_0798_00189",
+      "de_DE": "Slowenien"
+    },
+    {
+      "id": "msg_0798_00190",
+      "de_DE": "Salomonen"
+    },
+    {
+      "id": "msg_0798_00191",
+      "de_DE": "Somalia"
+    },
+    {
+      "id": "msg_0798_00192",
+      "de_DE": "Südafrika"
+    },
+    {
+      "id": "msg_0798_00193",
+      "de_DE": "Spanien"
+    },
+    {
+      "id": "msg_0798_00194",
+      "de_DE": "Sri Lanka"
+    },
+    {
+      "id": "msg_0798_00195",
+      "de_DE": "Sudan"
+    },
+    {
+      "id": "msg_0798_00196",
+      "de_DE": "Suriname"
+    },
+    {
+      "id": "msg_0798_00197",
+      "de_DE": "Jan Mayen"
+    },
+    {
+      "id": "msg_0798_00198",
+      "de_DE": "Swasiland"
+    },
+    {
+      "id": "msg_0798_00199",
+      "de_DE": "Schweden"
+    },
+    {
+      "id": "msg_0798_00200",
+      "de_DE": "Schweiz"
+    },
+    {
+      "id": "msg_0798_00201",
+      "de_DE": "Syrien"
+    },
+    {
+      "id": "msg_0798_00202",
+      "de_DE": "Taiwan"
+    },
+    {
+      "id": "msg_0798_00203",
+      "de_DE": "Tadschikistan"
+    },
+    {
+      "id": "msg_0798_00204",
+      "de_DE": "Tansania"
+    },
+    {
+      "id": "msg_0798_00205",
+      "de_DE": "Thailand"
+    },
+    {
+      "id": "msg_0798_00206",
+      "de_DE": "Osttimor"
+    },
+    {
+      "id": "msg_0798_00207",
+      "de_DE": "Togo"
+    },
+    {
+      "id": "msg_0798_00208",
+      "de_DE": "Tokelau"
+    },
+    {
+      "id": "msg_0798_00209",
+      "de_DE": "Tonga"
+    },
+    {
+      "id": "msg_0798_00210",
+      "de_DE": "Trinidad und Tobago"
+    },
+    {
+      "id": "msg_0798_00211",
+      "de_DE": "Tunesien"
+    },
+    {
+      "id": "msg_0798_00212",
+      "de_DE": "Türkei"
+    },
+    {
+      "id": "msg_0798_00213",
+      "de_DE": "Turkmenistan"
+    },
+    {
+      "id": "msg_0798_00214",
+      "de_DE": "Turks- und Caicosinseln"
+    },
+    {
+      "id": "msg_0798_00215",
+      "de_DE": "Tuvalu"
+    },
+    {
+      "id": "msg_0798_00216",
+      "de_DE": "Uganda"
+    },
+    {
+      "id": "msg_0798_00217",
+      "de_DE": "Ukraine"
+    },
+    {
+      "id": "msg_0798_00218",
+      "de_DE": "Vereinigte Arabische Emirate"
+    },
+    {
+      "id": "msg_0798_00219",
+      "de_DE": "Vereinigtes Königreich"
+    },
+    {
+      "id": "msg_0798_00220",
+      "de_DE": "Vereinigte Staaten"
+    },
+    {
+      "id": "msg_0798_00221",
+      "de_DE": "Jungferninseln (Amer.)"
+    },
+    {
+      "id": "msg_0798_00222",
+      "de_DE": "Uruguay"
+    },
+    {
+      "id": "msg_0798_00223",
+      "de_DE": "Usbekistan"
+    },
+    {
+      "id": "msg_0798_00224",
+      "de_DE": "Vanuatu"
+    },
+    {
+      "id": "msg_0798_00225",
+      "de_DE": "Vatikanstadt"
+    },
+    {
+      "id": "msg_0798_00226",
+      "de_DE": "Venezuela"
+    },
+    {
+      "id": "msg_0798_00227",
+      "de_DE": "Vietnam"
+    },
+    {
+      "id": "msg_0798_00228",
+      "de_DE": "Wallis und Futuna"
+    },
+    {
+      "id": "msg_0798_00229",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0798_00230",
+      "de_DE": "Westsahara"
+    },
+    {
+      "id": "msg_0798_00231",
+      "de_DE": "Jemen"
+    },
+    {
+      "id": "msg_0798_00232",
+      "de_DE": "Sambia"
+    },
+    {
+      "id": "msg_0798_00233",
+      "de_DE": "Simbabwe"
+    }
+  ]
+}

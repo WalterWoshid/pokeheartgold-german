@@ -103,7 +103,7 @@ static void BattleRegulationMenu_RemoveMsgBox(BattleRegulationMenu *menu, BOOL c
 
 static void BattleRegulationMenu_GetRegulationName(BattleRegulationMenu *menu, int index) {
     sub_0202921C(menu->fieldSystem->saveData, index, menu->strings[REGULATION_MENU_STRING_REGULATION_NAME], HEAP_ID_FIELD1);
-    BufferString(menu->messageFormat, 0, menu->strings[REGULATION_MENU_STRING_REGULATION_NAME], 0, 1, LANGUAGE_ENGLISH);
+    BufferString(menu->messageFormat, 0, menu->strings[REGULATION_MENU_STRING_REGULATION_NAME], 0, 1, GAME_LANGUAGE);
 }
 
 static void BattleRegulationMenu_ShowListMenuRegulations(BattleRegulationMenu *menu) {
@@ -318,10 +318,16 @@ static void BattleRegulationMenu_ShowRules(BattleRegulationMenu *menu) {
             }
             break;
         case LINKBATTLERULE_HEIGHT_LIMIT:
+#ifdef GERMAN
+            BufferIntegerAsString(messageFormat, 0, abs(ruleValue / 10), 2, PRINTING_MODE_LEFT_ALIGN, TRUE);
+            BufferIntegerAsString(messageFormat, 1, abs(ruleValue % 10), 1, PRINTING_MODE_LEADING_ZEROS, TRUE);
+#else
             ruleValue = (ruleValue >= 0) ? (((ruleValue * 10 * 1000) / 254 + 5) / 10) : -(((-ruleValue * 10 * 1000) / 254 + 5) / 10);
 
             BufferIntegerAsString(messageFormat, 0, abs(ruleValue / 12), 2, PRINTING_MODE_LEFT_ALIGN, TRUE);
             BufferIntegerAsString(messageFormat, 1, abs(ruleValue % 12), 2, PRINTING_MODE_LEADING_ZEROS, TRUE);
+
+#endif
 
             if (ruleValue == 0) {
                 valueMessage = CommunicationClub_Text_NoRestrictions; // NO RESTRICTIONS
@@ -330,8 +336,14 @@ static void BattleRegulationMenu_ShowRules(BattleRegulationMenu *menu) {
             }
             break;
         case LINKBATTLERULE_WEIGHT_LIMIT:
+#ifndef GERMAN
             ruleValue = (ruleValue >= 0) ? (((ruleValue * 220462) + 50000) / 100000) : -(((-ruleValue * 220462) + 50000) / 100000);
+#endif
+#ifdef GERMAN
+            BufferIntegerAsString(messageFormat, 0, abs(ruleValue), 2, PRINTING_MODE_LEFT_ALIGN, TRUE);
+#else
             BufferIntegerAsString(messageFormat, 0, abs(ruleValue), 3, PRINTING_MODE_LEFT_ALIGN, TRUE);
+#endif
             if (ruleValue == 0) {
                 valueMessage = CommunicationClub_Text_NoRestrictions; // NO RESTRICTIONS
             } else if (ruleValue > 0) {
@@ -528,7 +540,7 @@ void StartTask_BattleRegulationMenu(TaskManager *taskManager, u16 *result) {
 void ov03_022566D0(FieldSystem *fieldSystem, MessageFormat *messageFormat, u32 ruleset) {
     String *string = String_New(180, HEAP_ID_FIELD1);
     sub_0202921C(fieldSystem->saveData, ruleset, string, HEAP_ID_FIELD1);
-    BufferString(messageFormat, 0, string, 0, 1, 2);
+    BufferString(messageFormat, 0, string, 0, 1, GAME_LANGUAGE);
     String_Delete(string);
 }
 
@@ -581,9 +593,15 @@ void ov03_02256730(FieldSystem *fieldSystem, Window *window, u32 ruleset) {
             }
             break;
         case LINKBATTLERULE_HEIGHT_LIMIT:
+#ifdef GERMAN
+            BufferIntegerAsString(messageFormat, 0, abs(ruleValue / 10), 2, PRINTING_MODE_LEFT_ALIGN, TRUE);
+            BufferIntegerAsString(messageFormat, 1, abs(ruleValue % 10), 1, PRINTING_MODE_LEADING_ZEROS, TRUE);
+#else
             ruleValue = (ruleValue >= 0) ? (((ruleValue * 10 * 1000) / 254 + 5) / 10) : -(((-ruleValue * 10 * 1000) / 254 + 5) / 10);
             BufferIntegerAsString(messageFormat, 0, abs(ruleValue / 12), 2, PRINTING_MODE_LEFT_ALIGN, TRUE);
             BufferIntegerAsString(messageFormat, 1, abs(ruleValue % 12), 2, PRINTING_MODE_LEADING_ZEROS, TRUE);
+#endif
+
             if (ruleValue == 0) {
                 valueMessage = CommunicationClub_Text_NoRestrictions; // NO RESTRICTIONS
             } else if (ruleValue > 0) {
@@ -591,8 +609,14 @@ void ov03_02256730(FieldSystem *fieldSystem, Window *window, u32 ruleset) {
             }
             break;
         case LINKBATTLERULE_WEIGHT_LIMIT:
+#ifndef GERMAN
             ruleValue = (ruleValue >= 0) ? (((ruleValue * 220462) + 50000) / 100000) : -(((-ruleValue * 220462) + 50000) / 100000);
+#endif
+#ifdef GERMAN
+            BufferIntegerAsString(messageFormat, 0, abs(ruleValue), 2, PRINTING_MODE_LEFT_ALIGN, TRUE);
+#else
             BufferIntegerAsString(messageFormat, 0, abs(ruleValue), 3, PRINTING_MODE_LEFT_ALIGN, TRUE);
+#endif
             if (ruleValue == 0) {
                 valueMessage = CommunicationClub_Text_NoRestrictions; // NO RESTRICTIONS
             } else if (ruleValue > 0) {

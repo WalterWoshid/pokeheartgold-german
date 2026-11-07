@@ -1,0 +1,25 @@
+{
+  "key": 29726,
+  "messages": [
+    {
+      "id": "msg_0523_00000",
+      "de_DE": [
+        "Das Wesen deines Pokémon ist\n",
+        "{STRVAR_1 7, 0}?\r",
+        "Wusstest du, dass das Wesen eines\n",
+        "Pokémon bestimmt, wie es wachsen wird?"
+      ]
+    },
+    {
+      "id": "msg_0523_00001",
+      "de_DE": [
+        "In diesem Gebiet gab es früher viele\n",
+        "altertümliche Pokémon.\r",
+        "Es heißt, es gab sogar regelrechte\n",
+        "Pokémon-Weiden in der Nähe.\r",
+        "In dem hohen Gras konnten sie sich gut\n",
+        "verstecken."
+      ]
+    }
+  ]
+}

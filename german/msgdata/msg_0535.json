@@ -1,0 +1,176 @@
+{
+  "key": 9246,
+  "messages": [
+    {
+      "id": "msg_0535_00000",
+      "de_DE": [
+        "Oh nein, so ein Schlamassel! Im\n",
+        "Kraftwerk ist eine Maschine ausgefallen\f",
+        "und jetzt haben wir keinen Strom mehr!"
+      ]
+    },
+    {
+      "id": "msg_0535_00001",
+      "de_DE": [
+        "Toll! Irgendwer hat das Kraftwerk\n",
+        "wieder zum Laufen gebracht, und jetzt\f",
+        "fährt auch der Magnetzug wieder!\r",
+        "Alle Reisenden werden gebeten, ihren\n",
+        "Fahrschein hier am Eingang\f",
+        "elektronisch überprüfen zu lassen...\r"
+      ]
+    },
+    {
+      "id": "msg_0535_00002",
+      "de_DE": [
+        "...Fiiiep!\r",
+        "Es tut mir sehr leid, aber ohne einen\n",
+        "Fahrschein kannst du auch nicht\f",
+        "mit dem Magnetzug fahren...\r"
+      ]
+    },
+    {
+      "id": "msg_0535_00003",
+      "de_DE": [
+        "Alle Reisenden werden gebeten, ihren\n",
+        "Fahrschein hier am Eingang\f",
+        "elektronisch überprüfen zu lassen...\r"
+      ]
+    },
+    {
+      "id": "msg_0535_00004",
+      "de_DE": [
+        "...Ratter, ratter, tsching! Danke, hier\n",
+        "hast du deinen Fahrschein wieder!\r",
+        "Der Magnetzug nach Dukatia City wird\n",
+        "in wenigen Augenblicken abfahren!"
+      ]
+    },
+    {
+      "id": "msg_0535_00005",
+      "de_DE": [
+        "Viel Spaß auf deiner magnetisch-\n",
+        "magischen Zugreise!"
+      ]
+    },
+    {
+      "id": "msg_0535_00006",
+      "de_DE": [
+        "Saffronia City! Saffronia City!\n",
+        "Mit langgezogenem “O”!"
+      ]
+    },
+    {
+      "id": "msg_0535_00007",
+      "de_DE": [
+        "Viel Spaß auf deiner magnetisch-\n",
+        "magischen Zugreise!\r"
+      ]
+    },
+    {
+      "id": "msg_0535_00008",
+      "de_DE": [
+        "Der Magnetzug ist das Zeug, aus dem\n",
+        "Träume gemacht sind! Als Treibstoff\f",
+        "braucht er nur Strom und Magnetkraft!\r",
+        "Ohne Strom ist er allerdings nicht viel\n",
+        "mehr als eine langweilige Metallkiste."
+      ]
+    },
+    {
+      "id": "msg_0535_00009",
+      "de_DE": [
+        "Puh...\r",
+        "Wie oft bin ich jetzt wohl schon zwischen\n",
+        "Kanto und Johto hin- und hergefahren?"
+      ]
+    },
+    {
+      "id": "msg_0535_00010",
+      "de_DE": [
+        "Bevor der Bahnhof des Magnetzugs\n",
+        "gebaut wurde, stand hier ein Haus.\f",
+        "Darin lebte ein kleines Mädchen, das\f",
+        "alle Leute die Nachahmerin nannten."
+      ]
+    },
+    {
+      "id": "msg_0535_00011",
+      "de_DE": [
+        "Hi! Hast du einen Fahrschein?\r",
+        "Ich habe einen!\r",
+        "Jeder in Saffronia hat einen, um damit\n",
+        "den Magnetzug benutzen zu können!"
+      ]
+    },
+    {
+      "id": "msg_0535_00012",
+      "de_DE": [
+        "Major Bob: Oh! Dich hier zu treffen,\n",
+        "ist ein strategischer Glückstreffer!\r",
+        "Man spürt förmlich, wie es hier unter\n",
+        "dem Bahnhof vor Elektrizität prickelt!\r",
+        "Ach ja! Du hattest doch ein PIKACHU\n",
+        "in deinem Team, nicht wahr, Rekrut?\r",
+        "Wie wär’s? Willst du es gegen mein\n",
+        "ausländisches PIKACHU\f",
+        "tauschen? Was sagst du dazu? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0535_00013",
+      "de_DE": [
+        "Major Bob: Willst du dein PIKACHU gegen\n",
+        "mein ausländisches PIKACHU\f",
+        "tauschen oder nicht?"
+      ]
+    },
+    {
+      "id": "msg_0535_00014",
+      "de_DE": [
+        "Major Bob: Gut geprickelt, Rekrut!\n",
+        "Dann mal her mit dem Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0535_00015",
+      "de_DE": [
+        "Major Bob: Das ist bedauerlich, Rekrut.\n",
+        "Du hättest sicher jede Menge Spaß mit\f",
+        "meinem ausländischen PIKACHU!\r",
+        "Komm wieder, wenn du es dir anders\n",
+        "überlegst! Das ist ein Befehl!"
+      ]
+    },
+    {
+      "id": "msg_0535_00016",
+      "de_DE": [
+        "Major Bob: Fabelhaft, Rekrut!\n",
+        "Das stimmt mich äußerst zufrieden!\f",
+        "Man sieht sich auf dem Schlachtfeld!\f",
+        "Weggetreten!\r"
+      ]
+    },
+    {
+      "id": "msg_0535_00017",
+      "de_DE": [
+        "Major Bob: Hm? Willst du mir hier\n",
+        "etwa irgendein Plagiat andrehen?!\r",
+        "Meine Batallion nimmt ausschließlich\n",
+        "echte PIKACHU in seine Reihen auf!"
+      ]
+    },
+    {
+      "id": "msg_0535_00018",
+      "de_DE": [
+        "Pokémon müssen so abgerichtet sein,\n",
+        "dass sie auf keinen Fall das Gesicht\f",
+        "deines Sitznachbarn abschlecken.\f",
+        "Andernfalls müssen sie über die Dauer\f",
+        "der Fahrt im Pokéball bleiben.\f",
+        "Bitte trage dazu bei, dass diese Reise\f",
+        "für alle möglichst angenehm verläuft."
+      ]
+    }
+  ]
+}

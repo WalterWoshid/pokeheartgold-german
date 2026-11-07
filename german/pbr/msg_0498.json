@@ -1,0 +1,122 @@
+{
+  "key": 18219,
+  "messages": [
+    {
+      "id": "msg_0498_00000",
+      "de_DE": "{SIZE 200}Bumms!!!{SIZE 100}\r"
+    },
+    {
+      "id": "msg_0498_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was?!? Wie?!?\n",
+        "Oh, hey, {STRVAR_1 3, 1}!\r",
+        "Hey! Ich gehe zum See!\n",
+        "Und du auch! Und beeil dich!\r",
+        "Also, {STRVAR_1 3, 1}? Ich stelle dir \n",
+        "1 Million $ in Rechnung, wenn\f",
+        "du zu spät bist!\r"
+      ]
+    },
+    {
+      "id": "msg_0498_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Argh!\n",
+        "Hab was vergessen!\r"
+      ]
+    },
+    {
+      "id": "msg_0498_00003",
+      "de_DE": [
+        "Hiya, {STRVAR_1 3, 0}.\n",
+        "{STRVAR_1 3, 1} hat dich gesucht.\r",
+        "Ich glaube, er ist nach Hause gegangen.\n",
+        "Warum gehst du nicht zu ihm?\r"
+      ]
+    },
+    {
+      "id": "msg_0498_00004",
+      "de_DE": [
+        "Hiya, {STRVAR_1 3, 0}.\n",
+        "{STRVAR_1 3, 1} hat dich gesucht.\r",
+        "Ich glaube, er ist nach Hause gegangen.\n",
+        "Warum gehst du nicht zu ihm?"
+      ]
+    },
+    {
+      "id": "msg_0498_00005",
+      "de_DE": [
+        "Hiya, {STRVAR_1 3, 0}.\n",
+        "Suchst du {STRVAR_1 3, 1}?\r",
+        "Er hat sich vor einiger Zeit\n",
+        "aus dem Staub gemacht.\r",
+        "Aber weit ist er bestimmt noch nicht\n",
+        "gekommen. Du holst ihn sicher ein."
+      ]
+    },
+    {
+      "id": "msg_0498_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0}? Der ist vor einiger Zeit\n",
+        "ganz eilig hier vorbeigerannt."
+      ]
+    },
+    {
+      "id": "msg_0498_00007",
+      "de_DE": [
+        "Jeder macht sich auf und sucht das\n",
+        "Abenteuer. Und wächst daran..."
+      ]
+    },
+    {
+      "id": "msg_0498_00008",
+      "de_DE": [
+        "Es stimmt schon, dass wilde Pokémon\n",
+        "ab und an Menschen angreifen...\r",
+        "Aber sie schließen auch genauso gerne\n",
+        "Freundschaft mit den Menschen."
+      ]
+    },
+    {
+      "id": "msg_0498_00009",
+      "de_DE": [
+        "Oh! Ein Pokémon!!!\n",
+        "Ihr beiden seht gut zusammen aus!"
+      ]
+    },
+    {
+      "id": "msg_0498_00010",
+      "de_DE": [
+        "Oh, echt? Du hilfst, den Pokédex zu\n",
+        "vervollständigen?\r",
+        "Dann wirst du mit Pokémon durch\n",
+        "die weite Region reisen!\r",
+        "Das hört sich nach viel Spaß an!\n",
+        "Da werd ich richtig neidisch... Seufz..."
+      ]
+    },
+    {
+      "id": "msg_0498_00011",
+      "de_DE": [
+        "Die neue Technologie haut mich glatt\n",
+        "aus den Latschen!\r",
+        "Ich meine, du kannst mit Leuten auf der\n",
+        "GANZEN Welt spielen! Und das drahtlos!"
+      ]
+    },
+    {
+      "id": "msg_0498_00012",
+      "de_DE": [
+        "Zweiblattdorf\n",
+        "Frische und Freiheit!"
+      ]
+    },
+    {
+      "id": "msg_0498_00013",
+      "de_DE": "Haus von {STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0498_00014",
+      "de_DE": "Haus von {STRVAR_1 3, 0}"
+    }
+  ]
+}

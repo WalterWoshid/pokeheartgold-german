@@ -1,0 +1,243 @@
+{
+  "key": 22770,
+  "messages": [
+    {
+      "id": "msg_0685_00000",
+      "de_DE": "Lutz"
+    },
+    {
+      "id": "msg_0685_00001",
+      "de_DE": [
+        "Oh? Ist das etwa ein Pokédex? Heißt\n",
+        "das etwa, du kennst Professor Eich?\r",
+        "Was? Wirklich? Das ist ja großartig!\r",
+        "Ich träume nämlich davon, ein Pokémon-\n",
+        "Forscher wie Professor Eich zu werden.\r",
+        "Gibst du mir deine Nummer? Wir\n",
+        "können über Professor Eich reden! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0685_00002",
+      "de_DE": [
+        "Du hörst dir doch auch Prof. Eichs\n",
+        "Pokémon-Talk im Radio an, oder?"
+      ]
+    },
+    {
+      "id": "msg_0685_00003",
+      "de_DE": [
+        "Oh... ich wünschte, ich könnte auch\n",
+        "einmal Professor Eich treffen..."
+      ]
+    },
+    {
+      "id": "msg_0685_00004",
+      "de_DE": [
+        "Gibst du mir bitte deine Nummer?\n",
+        "Wir können über Professor Eich\f",
+        "reden. Das macht sicher viel Spaß! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0685_00005",
+      "de_DE": [
+        "Häh?\n",
+        "Du bist doch ganz in der Nähe!\f",
+        "Du legst dein Telefon wohl nie ab, was?"
+      ]
+    },
+    {
+      "id": "msg_0685_00006",
+      "de_DE": [
+        "Seit Kurzem beobachte ich\n",
+        "wilde {STRVAR_1 0, 10, 0}.\r",
+        "Sieht man einmal genauer hin, fallen\n",
+        "einem alle möglichen Dinge auf, die einem\f",
+        "zuvor gar nicht bewusst waren!\r",
+        "Könnte ich doch schon morgen ein großer\n",
+        "Forscher wie Prof. Eich werden!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00007",
+      "de_DE": [
+        "Oh ja, oh ja!\n",
+        "Ich habe es knapp geschafft, ein wildes\f",
+        "{STRVAR_1 0, 11, 0} zu besiegen!\r",
+        "Wäre ja auch schlimm, wenn nicht. Wozu\n",
+        "büffele ich sonst jeden Tag so viel?\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00008",
+      "de_DE": [
+        "Oh ja, oh ja!\n",
+        "Neulich war ich ganz nah dran!\f",
+        "Das {STRVAR_1 0, 11, 0} ist mir\f",
+        "nur ganz knapp entwischt!\r",
+        "Ich wollte schon immer einmal\n",
+        "die {STRVAR_1 0, 11, 0} genauer studieren.\f",
+        "Ich könnte mir in den Hintern beißen!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00009",
+      "de_DE": [
+        "Schon mal von Blau gehört?\r",
+        "Er ist der Enkel von Professor Eich und\n",
+        "ein ehemaliger Pokémon Liga-Champion!\f",
+        "Er ist ein super Pokémon-Trainer!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00010",
+      "de_DE": [
+        "Professor Eich hat eine Enkelin\n",
+        "namens Sarah.\r",
+        "In ihrer Gegenwart werden selbst\n",
+        "die wildesten Pokémon handzahm.\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00011",
+      "de_DE": [
+        "In letzter Zeit ist Professor Lind\n",
+        "in aller Munde.\r",
+        "Er war früher einmal\n",
+        "Professor Eichs Assistent!\r",
+        "Mann, das ist so cool!\n",
+        "Ich möchte auch so sein wie er!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00012",
+      "de_DE": [
+        "Professor Eichs großer Traum ist die\n",
+        "Erstellung eines umfassenden Pokédex.\r",
+        "Und du darfst ihm dabei helfen!\n",
+        "Du bist wirklich zu beneiden!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00013",
+      "de_DE": [
+        "Kennst du Kurt, den Pokéball-Schmied?\r",
+        "Er und Professor Eich kennen sich schon\n",
+        "eine Ewigkeit.\r",
+        "Großartige Menschen gesellen\n",
+        "sich eben gern zueinander!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00014",
+      "de_DE": [
+        "Die Pokémon Liga ist der erhabene Ort,\n",
+        "an dem alle Trainer zusammenkommen,\f",
+        "die den Rang des Champions anstreben!\r",
+        "Und Professor Eich berät das Liga-\n",
+        "Hauptquartier in allen Angelegenheiten!\r",
+        "Er ist wirklich großartig!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00015",
+      "de_DE": [
+        "Professor Eichs Pokémon-Talk ist im\n",
+        "ganzen Land beliebt, richtig?\r",
+        "Aber wusstest du, dass er anfangs die\n",
+        "Show nicht moderieren wollte?\r",
+        "Margit allerdings hat nicht locker\n",
+        "gelassen und ihn schließlich umgestimmt.\f",
+        "Wir haben ihr viel zu verdanken!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00016",
+      "de_DE": [
+        "Professor Eich war früher einmal selbst\n",
+        "Pokémon-Trainer.\r",
+        "Aber sein Interesse galt seit jeher\n",
+        "eher den Pokémon an sich als dem Kampf.\r",
+        "Also gab er das Training auf und\n",
+        "konzentrierte sich auf die Forschung.\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00017",
+      "de_DE": [
+        "Professor Eich hat eine Enkelin\n",
+        "namens Sarah.\r",
+        "Sie trinkt jeden Tag ab 15 Uhr\n",
+        "eine Stunde lang Tee.\r",
+        "Ich wünschte, ich könnte ihr einmal\n",
+        "Gesellschaft leisten und mit ihr\f",
+        "über den Professor plaudern!\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00018",
+      "de_DE": [
+        "Wusstest du? Als er noch jung war, hat\n",
+        "Professor Eich die ganze Welt bereist!\r",
+        "Auf seinen Reisen muss er sehr viel\n",
+        "über die Pokémon gelernt haben.\r",
+        "Ich beneide ihn! Ich möchte auch durch\n",
+        "die Welt reisen und neue Dinge lernen...\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00019",
+      "de_DE": [
+        "Wusstest du? Als er noch jung war, hat\n",
+        "Professor Eich die ganze Welt bereist!\r",
+        "Auf seinen Reisen muss er sehr viel\n",
+        "über die Pokémon gelernt haben.\r",
+        "Ich beneide ihn! Ich möchte auch durch\n",
+        "die Welt reisen und neue Dinge lernen...\r",
+        "Bis später!"
+      ]
+    },
+    {
+      "id": "msg_0685_00020",
+      "de_DE": [
+        "Hast du Lust auf einen kurzen Kampf?\n",
+        "Ab und zu muss man mal seine Muskeln\f",
+        "spielen lassen, sonst rostet man ein.\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\n",
+        "Sprich mich einfach an, wenn\f",
+        "du in der Nähe bist."
+      ]
+    },
+    {
+      "id": "msg_0685_00021",
+      "de_DE": [
+        "He, he.\n",
+        "Erinnerst du dich? Wir wollten kämpfen.\r",
+        "Der Treffpunkt ist {STRVAR_1 4, 3, 0}!\n",
+        "Leg einen Zahn zu, ich warte schon."
+      ]
+    },
+    {
+      "id": "msg_0685_00022",
+      "de_DE": [
+        "Ich werde lernen, bis mir das Hirn\n",
+        "raucht! Und wenn ich groß bin,\f",
+        "werde ich Professor Eichs Assistent!"
+      ]
+    }
+  ]
+}

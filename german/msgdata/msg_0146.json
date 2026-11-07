@@ -1,0 +1,304 @@
+{
+  "key": 9402,
+  "messages": [
+    {
+      "id": "msg_0146_00000",
+      "de_DE": [
+        "Cynthia: Dies ist der {COLOR 1}Trysteriumaltar{COLOR 0}...\n",
+        "Das ist ein ehrwürdiger Altar, der\f",
+        "zu Ehren von ARCEUS errichtet wurde.\r",
+        "Man sagt, die unglaubliche Macht von\n",
+        "ARCEUS wurde dort in Musik und Tanz\f",
+        "zum Ausdruck gebracht.\r",
+        "In Johto gibt es noch Menschen, die\n",
+        "diese Tradition bewahren.\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00001",
+      "de_DE": [
+        "Cynthia: Dies ist der {COLOR 1}Trysteriumaltar{COLOR 0}...\n",
+        "Das ist ein ehrwürdiger Altar, der\f",
+        "zu Ehren von ARCEUS errichtet wurde.\r",
+        "Man sagt, die unglaubliche Macht von\n",
+        "ARCEUS wurde dort in Musik und Tanz\f",
+        "zum Ausdruck gebracht.\r",
+        "In Johto gibt es noch Menschen, die\n",
+        "diese Tradition bewahren."
+      ]
+    },
+    {
+      "id": "msg_0146_00002",
+      "de_DE": [
+        "Cynthia: Einzig und allein ARCEUS ist es\n",
+        "erlaubt, auf den {COLOR 1}Trysteriumaltar{COLOR 0}\f",
+        "zu steigen. Wenn du willst,\f",
+        "dass es das tut, dann gib\f",
+        "deine übrigen Pokémon bitte\f",
+        "am PC der Berghütte ab."
+      ]
+    },
+    {
+      "id": "msg_0146_00003",
+      "de_DE": [
+        "Cynthia: Bring bitte dein ARCEUS\n",
+        "mit hierher.\r",
+        "Wenn du irgendwelche anderen Pokémon\n",
+        "bei dir führst, würden sie vermutlich\f",
+        "von der Macht, die diese Ruinen umgibt,\f",
+        "einfach weggeblasen...\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00004",
+      "de_DE": [
+        "Cynthia: Der Meister des\n",
+        "{COLOR 1}Trysteriumaltars{COLOR 0} ist also\f",
+        "endlich erschienen.\r",
+        "All die langen Jahre, die ich damit\n",
+        "zugebracht habe, die Sinjoh-Ruinen\f",
+        "und ihre Legenden zu erforschen,\f",
+        "waren wohl eine Vorbereitung darauf,\f",
+        "dich zu diesem Altar zu führen...\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00005",
+      "de_DE": [
+        "Cynthia: Auf dem {COLOR 1}Trysteriumaltar{COLOR 0} sind\n",
+        "Abbildungen der Pokémon zu sehen, die\f",
+        "unsere Welt erschaffen haben.\r",
+        "Der Kreis in der Mitte ist ARCEUS,\n",
+        "der Ursprung aller Dinge...\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00006",
+      "de_DE": [
+        "Cynthia: Den alten Schriftstücken\n",
+        "zufolge erklomm ARCEUS den\f",
+        "{COLOR 1}Trysteriumaltar{COLOR 0}, und schon entstanden\f",
+        "Zeit...\f",
+        "Raum...\f",
+        "und Antimaterie...\f",
+        "Die ganze Welt also!\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00007",
+      "de_DE": [
+        "Cynthia: Dieser Platz ist PALKIA, dem\n",
+        "Meister des Raums, vorbehalten...\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00008",
+      "de_DE": [
+        "Cynthia: Dieser Platz ist DIALGA, dem\n",
+        "Meister der Zeit, vorbehalten...\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00009",
+      "de_DE": [
+        "Cynthia: Dieser Platz ist GIRATINA vor-\n",
+        "behalten, dem Herrscher über die Welt\f",
+        "hinter unserer Welt und die\f",
+        "Gegenstücke zu Zeit und Raum...\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00010",
+      "de_DE": [
+        "Cynthia: ARCEUS hat dich als seinen\n",
+        "Trainer anerkannt.\r",
+        "Angeblich wird dir ARCEUS, das das\n",
+        "Universum geschaffen hat, nun einen\f",
+        "Teil seiner Macht zeigen!\r",
+        "Diese Macht kann aus dem Nichts\n",
+        "neues Leben sprießen lassen!\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00011",
+      "de_DE": [
+        "Cynthia: Wenn du dich für einen der\n",
+        "drei Kreise entschieden hast, wird\f",
+        "sicher irgendetwas geschehen...\r",
+        "Du solltest dich gut auf diesen\n",
+        "Augenblick vorbereiten!"
+      ]
+    },
+    {
+      "id": "msg_0146_00012",
+      "de_DE": [
+        "Cynthia: Wenn du bereit bist, dann\n",
+        "entscheide dich für einen der drei\f",
+        "Kreise und stelle dich in seine Mitte."
+      ]
+    },
+    {
+      "id": "msg_0146_00013",
+      "de_DE": [
+        "Cynthia: Deine Wahl fällt also auf\n",
+        "DIALGA, den Meister der Zeit? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0146_00014",
+      "de_DE": [
+        "Cynthia: Deine Wahl fällt also auf\n",
+        "PALKIA, den Meister des Raums? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0146_00015",
+      "de_DE": [
+        "Cynthia: Deine Wahl fällt also auf\n",
+        "GIRATINA, den Herrscher über die\f",
+        "Zerrwelt? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0146_00016",
+      "de_DE": [
+        "Cynthia: War diese strahlende Kugel\n",
+        "gerade etwa...\f",
+        "War das etwa ein Ei?\r",
+        "Haben wir eben etwa der Entstehung\n",
+        "eines Eis beigewohnt, das noch\f",
+        "kein Mensch zuvor gesehen hatte?\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00017",
+      "de_DE": [
+        "Cynthia: Eier können alle möglichen\n",
+        "Lebensformen hervorbringen.\r",
+        "Dieser Planet, den wir bewohnen, ist\n",
+        "auf gewisse Weise auch eine Art Ei...\r",
+        "Jedes Leben, das einmal aus einem Ei\n",
+        "schlüpft, erlischt auch irgendwann\f",
+        "wieder, um schließlich erneut in diese\f",
+        "Welt zurückzukehren...\r",
+        "Ich denke, das ist es, was ARCEUS\n",
+        "uns gerade verdeutlichen wollte.\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00018",
+      "de_DE": "Cynthia: Was war das denn eben?\r"
+    },
+    {
+      "id": "msg_0146_00019",
+      "de_DE": [
+        "Cynthia: Es ist, als würde sich erneut\n",
+        "eine große Macht hier versammeln!\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00020",
+      "de_DE": [
+        "Cynthia: Ich lag richtig! Es ist ARCEUS!\r",
+        "Die Macht, die ich gespürt habe,\n",
+        "stammte von ARCEUS!\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00021",
+      "de_DE": [
+        "Cynthia: Die Menschen errichteten die\n",
+        "{COLOR 1}Sinjoh-Ruinen{COLOR 0}, um dort ARCEUS zu ehren.\r",
+        "Über hunderte von Jahren lag dieser\n",
+        "Palast im Eis gefangen und wartete\f",
+        "auf die Ankunft von ARCEUS...\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00022",
+      "de_DE": [
+        "Cynthia: Dies ist der {COLOR 1}Trysteriumaltar{COLOR 0}.\r",
+        "Er wurde erschaffen, um ARCEUS\n",
+        "herbeizurufen.\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00023",
+      "de_DE": [
+        "Cynthia: ARCEUS ist der Ursprung\n",
+        "aller Dinge.\r",
+        "Dieses Pokémon ist der Quell des Lebens\n",
+        "und schuf einst unser Universum.\r",
+        "In den Sagen heißt es, die Macht von\n",
+        "ARCEUS könne auf dem {COLOR 1}Trysteriumaltar{COLOR 0}\f",
+        "entfesselt werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00024",
+      "de_DE": [
+        "Cynthia: Die {COLOR 1}Sinjoh-Ruinen{COLOR 0} waren einst\n",
+        "ein Palast, der zu Ehren von ARCEUS\f",
+        "errichtet wurde."
+      ]
+    },
+    {
+      "id": "msg_0146_00025",
+      "de_DE": [
+        "Die seltsame Kugel hat sich in\n",
+        "ein Pokémon verwandelt!\r"
+      ]
+    },
+    {
+      "id": "msg_0146_00026",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0146_00027",
+      "de_DE": "Entscheidest du dich für DIALGA? {YESNO 0}"
+    },
+    {
+      "id": "msg_0146_00028",
+      "de_DE": "Entscheidest du dich für PALKIA? {YESNO 0}"
+    },
+    {
+      "id": "msg_0146_00029",
+      "de_DE": [
+        "Entscheidest du dich für GIRATINA? \n",
+        "{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0146_00030",
+      "de_DE": [
+        "Dieser Kreis scheint nichts\n",
+        "zu bewirken..."
+      ]
+    },
+    {
+      "id": "msg_0146_00031",
+      "de_DE": [
+        "Scheinbar kann hier nur ein ARCEUS\n",
+        "stehen!"
+      ]
+    },
+    {
+      "id": "msg_0146_00032",
+      "de_DE": [
+        "Möchtest du {STRVAR_1 0, 1, 0} einen\n",
+        "Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0146_00033",
+      "de_DE": [
+        "Dieses ARCEUS scheint hier nichts\n",
+        "mehr zu bewirken!"
+      ]
+    }
+  ]
+}

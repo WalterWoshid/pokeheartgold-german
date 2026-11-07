@@ -1,0 +1,24 @@
+{
+  "key": 48102,
+  "messages": [
+    {
+      "id": "msg_0187_00000",
+      "de_DE": "{STRVAR_1 0, 0, 0} schlüpfte aus dem Ei!"
+    },
+    {
+      "id": "msg_0187_00001",
+      "de_DE": [
+        "Möchtest du dem frisch geschlüpften\n",
+        "{STRVAR_1 0, 0, 0} einen Spitznamen geben?"
+      ]
+    },
+    {
+      "id": "msg_0187_00002",
+      "de_DE": "{ALN_CENTER}Ja"
+    },
+    {
+      "id": "msg_0187_00003",
+      "de_DE": "{ALN_CENTER}Nein"
+    }
+  ]
+}

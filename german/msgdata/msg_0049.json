@@ -1,0 +1,43 @@
+{
+  "key": 5122,
+  "messages": [
+    {
+      "id": "msg_0049_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: Hey!\n",
+        "Wenn das mal nicht {STRVAR_1 3, 0, 0} ist!\f",
+        "Dann bist du also auch hier in Kanto?\r",
+        "Unter den Trainern hier gibt es auch\n",
+        "ein paar richtig harte Brocken.\f",
+        "Jemand, der Pokémon trainieren will,\f",
+        "ist hier also an der richtigen Adresse!\r",
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Dass du sehr stark bist,\f",
+        "weiß ich schon gut genug...\r",
+        "Und trotzdem... lasse ich dich hier\n",
+        "nicht ohne einen Kampf gehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0049_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0}: Ich muss wohl noch ein\n",
+        "wenig an meinem Trainingsstil arbeiten...\r",
+        "Aber bei so schwachen Pokémon macht\n",
+        "es mich doch wütend, zu verlieren...\r",
+        "Mir ist zwar klar, dass mich diese\n",
+        "Kämpfe nach und nach stärker\f",
+        "machen, aber...\r",
+        "... ... ...\r",
+        "Hmpf!\n",
+        "Aber diese Pokémon sind immer\f",
+        "noch viel zu schwächlich!\r",
+        "Wie kann ich sie nur stärker machen?\n",
+        "Hm, ja...\r",
+        "Ich könnte es vielleicht mal in\n",
+        "der Drachenhöhle probieren...\r",
+        "Gehab dich wohl, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    }
+  ]
+}

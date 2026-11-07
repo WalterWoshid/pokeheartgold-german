@@ -257,5 +257,9 @@ prebuilt_files = [
 ]
 
 foreach f : prebuilt_files
-    nitrofs_files += fs.copyfile(f)
+    if game_language == 'GERMAN' and f in ['eoo.dat', 'farm.dat', 'gsbr.dat']
+        nitrofs_files += fs.copyfile(meson.project_source_root() / 'german/files/data' / f)
+    else
+        nitrofs_files += fs.copyfile(f)
+    endif
 endforeach

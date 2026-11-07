@@ -1,0 +1,207 @@
+{
+  "key": 62547,
+  "messages": [
+    {
+      "id": "msg_0258_00000",
+      "de_DE": [
+        "...Und du bist?\r",
+        "Oh, du bist {STRVAR_1 3, 0}.\n",
+        "Ich heiße Urs.\r",
+        "Ich bin ein Trainer und, ja, es ist\n",
+        "seltsam, dass ich gerade hier trainiere.\r",
+        "Wenn du willst, können wir\n",
+        "uns zusammenschließen.\r",
+        "Die wilden Pokémon hier in der Gegend\n",
+        "sind wirklich nicht zu unterschätzen.\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00001",
+      "de_DE": "{STRVAR_1 3, 0} schließt sich Urs an!"
+    },
+    {
+      "id": "msg_0258_00002",
+      "de_DE": [
+        "Urs: Wenn deine Pokémon verletzt\n",
+        "sind, heile ich sie für dich."
+      ]
+    },
+    {
+      "id": "msg_0258_00003",
+      "de_DE": [
+        "Urs: Hi, {STRVAR_1 3, 0}.\n",
+        "Wir sollten uns zusammenschließen.\f",
+        "Die Pokémon werden immer unruhiger.\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00004",
+      "de_DE": [
+        "Urs: ...Gehst du schon zurück?\r",
+        "Dann warte ich hier auf dich. Wäre\n",
+        "nett, wenn du wiederkommen würdest.\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00005",
+      "de_DE": [
+        "Urs: Jetzt verstehe ich.\n",
+        "Ihr seid dafür verantwortlich,\f",
+        "dass die Pokémon so unruhig sind.\r",
+        "Es schert mich nicht, welche Gründe ihr\n",
+        "dafür habt, aber ich lasse nicht zu,\f",
+        "dass ihr in meiner Mine Probleme macht.\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00006",
+      "de_DE": [
+        "Rüpel 1: Wir sind Team Galaktik! Wir\n",
+        "nehmen uns die Pokémon, die wir wollen!\f",
+        "Ist das nicht so, Partner?\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00007",
+      "de_DE": [
+        "Rüpel 2: Du sagst es, Kumpel!\n",
+        "Genau so machen wir es!\r",
+        "Wir schnappen uns alle Pokémon von\n",
+        "dieser verrosteten Eiseninsel!\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00008",
+      "de_DE": [
+        "Urs: In Freud und Leid sollt\n",
+        "ihr euch beistehen, heißt es...\r",
+        "Auf diese Weise leben Trainer\n",
+        "und Pokémon in Sinnoh!\r",
+        "Ich lasse nicht zu, dass jemand\n",
+        "diesen Verhaltenskodex bricht!\r",
+        "Los, {STRVAR_1 3, 0}!\n",
+        "Diesen Kampf dürfen wir nicht verlieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00009",
+      "de_DE": [
+        "Rüpel 1: Aufhören! Das reicht!\n",
+        "Eure Kombination ist einfach nur krank!\f",
+        "Ihr beide, und dann eure Pokémon...\r",
+        "Verschwinden wir, Partner!\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00010",
+      "de_DE": [
+        "Rüpel 2: Du sagst es, Kumpel!\r",
+        "Wir wissen ja nicht mal, wie der große\n",
+        "Plan vom Team Galaktik aussieht!\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00011",
+      "de_DE": [
+        "Urs: Danke!\n",
+        "Du hast mir echt geholfen.\r",
+        "Hör mal, ich habe hier ein\n",
+        "Pokémon-Ei.\r",
+        "Nimmst du es an dich?"
+      ]
+    },
+    {
+      "id": "msg_0258_00012",
+      "de_DE": [
+        "Urs: Vielen Dank!\r",
+        "Ich möchte, dass du dem Pokémon, das in\n",
+        "diesem Ei schlummert, die Welt zeigst.\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00013",
+      "de_DE": [
+        "Urs: Danke dir...\r",
+        "Leider hast du keinen Platz, um ein\n",
+        "weiteres Pokémon aufzunehmen.\r",
+        "Also gut, ich warte hier auf dich."
+      ]
+    },
+    {
+      "id": "msg_0258_00014",
+      "de_DE": [
+        "Urs: Ich hoffe, du nimmst es als\n",
+        "Zeichen unserer Freundschaft.\r"
+      ]
+    },
+    {
+      "id": "msg_0258_00015",
+      "de_DE": [
+        "Urs: Die Zeit mit dir war\n",
+        "wirklich unterhaltsam.\r",
+        "Jetzt will ich meine Fähigkeiten\n",
+        "aber an anderen Orten testen.\r",
+        "Ich fände es schön, wenn wir uns\n",
+        "irgendwann wiedersehen würden."
+      ]
+    },
+    {
+      "id": "msg_0258_00016",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0258_00017",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0258_00018",
+      "de_DE": [
+        "Urs: Hahaha, da muss\n",
+        "ich dir wohl zustimmen.\r",
+        "Leute, die hier trainieren, wissen nicht,\n",
+        "was sie mit ihrer Zeit anfangen sollen."
+      ]
+    },
+    {
+      "id": "msg_0258_00019",
+      "de_DE": [
+        "Urs: Vor langer Zeit war das mal\n",
+        "eine sehr ertragreiche Erzmine.\r",
+        "Das Eisenerz muss erschöpft sein.\n",
+        "Jetzt gibt’s hier nur noch Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0258_00020",
+      "de_DE": [
+        "Urs: Kennst du Adam?\n",
+        "Den Leiter der Fleetburg-Arena?\r",
+        "Er hat mich gefragt, ob ich nicht\n",
+        "Arenaleiter werden will.\r",
+        "Aber da gibt’s ja noch\n",
+        "seinen Sohn Veit."
+      ]
+    },
+    {
+      "id": "msg_0258_00021",
+      "de_DE": [
+        "Urs: Stell dir vor, ein Pokémon des\n",
+        "Typs Stahl kämpft gegen ein anderes\f",
+        "desselben Typs. Wie das wohl ist?\r",
+        "Ist es so, als ob man gegen sein\n",
+        "Ebenbild kämpft?\r",
+        "Es ist sicher schwerer, sich selbst\n",
+        "zu besiegen als sonst jemanden."
+      ]
+    },
+    {
+      "id": "msg_0258_00022",
+      "de_DE": [
+        "Urs: Was geht hier eigentlich vor?\n",
+        "Die wilden Pokémon sind aufgebracht...\r",
+        "Das gefällt mir überhaupt nicht...\n",
+        "Beeilen wir uns lieber."
+      ]
+    }
+  ]
+}

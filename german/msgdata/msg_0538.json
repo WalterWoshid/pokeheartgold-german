@@ -1,0 +1,312 @@
+{
+  "key": 42011,
+  "messages": [
+    {
+      "id": "msg_0538_00000",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} klettert in den Motor.\r",
+        "{STRVAR_1 0, 0, 0} versucht\n",
+        "{STRVAR_1 6, 1, 0} zu erlernen.\r",
+        "{STRVAR_1 0, 0, 0} kann aber nicht\n",
+        "mehr als vier Attacken erlernen!\r",
+        "Attacke vergessen, um\n",
+        "{STRVAR_1 6, 1, 0} zu lernen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00001",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} doch nicht\n",
+        "erlernen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00002",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} nicht erlernt.\r",
+        "{STRVAR_1 0, 0, 0} klettert aus dem Motor."
+      ]
+    },
+    {
+      "id": "msg_0538_00003",
+      "de_DE": [
+        "Die Attacke {STRVAR_1 6, 1, 0} wird\n",
+        "vergessen. Einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00004",
+      "de_DE": "1,{PAUSE 20} 2{PAUSE 20} und...{PAUSE 20} ...{PAUSE 20} schwupp!"
+    },
+    {
+      "id": "msg_0538_00005",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat die Attacke\n",
+        "{STRVAR_1 6, 1, 0} vergessen.\r",
+        "Und..."
+      ]
+    },
+    {
+      "id": "msg_0538_00006",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernte die\n",
+        "Attacke {STRVAR_1 6, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0538_00007",
+      "de_DE": [
+        "Für welches ROTOM entscheidest du\n",
+        "dich?\r"
+      ]
+    },
+    {
+      "id": "msg_0538_00008",
+      "de_DE": "Ein Ei kann nicht in den Motor klettern."
+    },
+    {
+      "id": "msg_0538_00009",
+      "de_DE": [
+        "Dieses Pokémon kann nicht in Motoren\n",
+        "klettern."
+      ]
+    },
+    {
+      "id": "msg_0538_00010",
+      "de_DE": "{STRVAR_1 0, 0, 0} klettert in den Motor.\r"
+    },
+    {
+      "id": "msg_0538_00011",
+      "de_DE": "{STRVAR_1 0, 0, 0} klettert aus dem Motor.\r"
+    },
+    {
+      "id": "msg_0538_00012",
+      "de_DE": [
+        "Welchem ROTOM möchtest du seine\n",
+        "ursprüngliche Form zurückgeben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00013",
+      "de_DE": [
+        "Oh! Anscheinend möchte das ROTOM seine\n",
+        "Ursprungsform wieder annehmen.\r",
+        "Möchtest du es zurückrufen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00014",
+      "de_DE": "ZURÜCKRUFEN"
+    },
+    {
+      "id": "msg_0538_00015",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0538_00016",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0538_00017",
+      "de_DE": [
+        "Das ROTOM ist nicht in den Motor\n",
+        "geklettert."
+      ]
+    },
+    {
+      "id": "msg_0538_00018",
+      "de_DE": [
+        "Hier befand sich ein seltsamer Apparat\n",
+        "mit einem komisch geformten Motor."
+      ]
+    },
+    {
+      "id": "msg_0538_00019",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0538_00020",
+      "de_DE": [
+        "Eine Mikrowelle mit einem Motor\n",
+        "in einer ungewöhnlichen Form."
+      ]
+    },
+    {
+      "id": "msg_0538_00021",
+      "de_DE": [
+        "Eine Mikrowelle mit einem Motor\n",
+        "in einer ungewöhnlichen Form.\r",
+        "Oh? Anscheinend möchte das ROTOM\n",
+        "in den Motor klettern.\r",
+        "Lässt du es in den Motor klettern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00022",
+      "de_DE": [
+        "Nur zögernd hört ROTOM auf, in den\n",
+        "Motor der Mikrowelle zu klettern..."
+      ]
+    },
+    {
+      "id": "msg_0538_00023",
+      "de_DE": [
+        "Ein Kühlschrank mit einem Motor\n",
+        "in einer ungewöhnlichen Form."
+      ]
+    },
+    {
+      "id": "msg_0538_00024",
+      "de_DE": [
+        "Ein Kühlschrank mit einem Motor\n",
+        "in einer ungewöhnlichen Form.\r",
+        "Oh? Anscheinend möchte das ROTOM\n",
+        "in den Motor klettern.\r",
+        "Lässt du es in den Motor klettern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00025",
+      "de_DE": [
+        "Nur zögernd hört ROTOM auf, in den\n",
+        "Motor des Kühlschranks zu klettern..."
+      ]
+    },
+    {
+      "id": "msg_0538_00026",
+      "de_DE": [
+        "Eine Waschmaschine mit einem Motor\n",
+        "in einer ungewöhnlichen Form."
+      ]
+    },
+    {
+      "id": "msg_0538_00027",
+      "de_DE": [
+        "Eine Waschmaschine mit einem Motor\n",
+        "in einer ungewöhnlichen Form.\r",
+        "Oh? Anscheinend möchte das ROTOM\n",
+        "in den Motor klettern.\r",
+        "Lässt du es in den Motor klettern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00028",
+      "de_DE": [
+        "Nur zögernd hört ROTOM auf, in den\n",
+        "Motor der Waschmaschine zu klettern..."
+      ]
+    },
+    {
+      "id": "msg_0538_00029",
+      "de_DE": [
+        "Ein Ventilator mit einem Motor\n",
+        "in einer ungewöhnlichen Form."
+      ]
+    },
+    {
+      "id": "msg_0538_00030",
+      "de_DE": [
+        "Ein Ventilator mit einem Motor\n",
+        "in einer ungewöhnlichen Form.\r",
+        "Oh? Anscheinend möchte das ROTOM\n",
+        "in den Motor klettern.\r",
+        "Lässt du es in den Motor klettern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00031",
+      "de_DE": [
+        "Nur zögernd hört ROTOM auf, in den\n",
+        "Motor des Ventilators zu klettern..."
+      ]
+    },
+    {
+      "id": "msg_0538_00032",
+      "de_DE": [
+        "Ein Rasenmäher mit einem Motor\n",
+        "in einer ungewöhnlichen Form."
+      ]
+    },
+    {
+      "id": "msg_0538_00033",
+      "de_DE": [
+        "Ein Rasenmäher mit einem Motor\n",
+        "in einer ungewöhnlichen Form.\r",
+        "Oh? Anscheinend möchte das ROTOM\n",
+        "in den Motor klettern.\r",
+        "Lässt du es in den Motor klettern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0538_00034",
+      "de_DE": [
+        "Nur zögernd hört ROTOM auf, in den\n",
+        "Motor des Rasenmähers zu klettern..."
+      ]
+    },
+    {
+      "id": "msg_0538_00035",
+      "de_DE": [
+        "Da liegt ein rätselhaftes Notizbuch.\n",
+        "Sein Alter lässt sich schwer bestimmen.\r",
+        "“Durch reinen\n",
+        "Zufall erlangte ich Informationen über\f",
+        "das Pokémon ROTOM.\r",
+        "ROTOM ist insofern beachtenswert, als\n",
+        "dass seine Fähigkeiten es in besondere\f",
+        "Motoren hineinklettern lassen.\r",
+        "Wie lange es dem ROTOM möglich ist,\n",
+        "sich in Motoren aufzuhalten, ist\f",
+        "ungewiss.\r",
+        "Es verlässt sie aber, wenn man es in\n",
+        "den Konnex-Klub oder Wi-Fi-Klub bringt.\r",
+        "Weiterhin klettert es aus einem Motor,\n",
+        "wenn man es in einer Pension lässt.\r",
+        "Möglicherweise vergisst ROTOM\n",
+        "Attacken, wenn es den Motor verlässt.\r",
+        "Dieses Pokémon muss genauestens\n",
+        "beobachtet und analysiert werden.\r",
+        "Die Ergebnisse müssen geheim bleiben,\n",
+        "damit jegliche Erforschung des ROTOM\f",
+        "mir zugeschrieben wird.\r",
+        "So wird mein Name in die Geschichte\n",
+        "eingehen! Genialer Geist Char...”\r",
+        "Die restlichen Seiten des Notizbuchs\n",
+        "sind leer."
+      ]
+    },
+    {
+      "id": "msg_0538_00036",
+      "garbage": 83
+    },
+    {
+      "id": "msg_0538_00037",
+      "garbage": 82
+    },
+    {
+      "id": "msg_0538_00038",
+      "garbage": 82
+    },
+    {
+      "id": "msg_0538_00039",
+      "garbage": 82
+    },
+    {
+      "id": "msg_0538_00040",
+      "garbage": 82
+    },
+    {
+      "id": "msg_0538_00041",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0538_00042",
+      "garbage": 46
+    },
+    {
+      "id": "msg_0538_00043",
+      "garbage": 17
+    }
+  ]
+}

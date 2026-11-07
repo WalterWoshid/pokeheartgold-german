@@ -1,0 +1,596 @@
+{
+  "key": 18307,
+  "messages": [
+    {
+      "id": "msg_0098_00000",
+      "de_DE": [
+        "Was für ein Glück, dass du in der Nähe\n",
+        "warst!\r",
+        "Ohne dich wäre mein HASPIROR wer weiß\n",
+        "wohin gelaufen...\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00001",
+      "de_DE": [
+        "So, HASPIROR. Zurück in den Pokéball mit\n",
+        "dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00002",
+      "de_DE": [
+        "Ich bin Julia!\n",
+        "Ich bin Juror im Pokémon Wettbewerb.\r",
+        "Besuche mich in der Wettbewerbshalle,\n",
+        "damit ich dir angemessen danken kann!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00003",
+      "de_DE": [
+        "O’, äs tüt mirr so leid!\n",
+        "Öntschüldigüng.\r",
+        "Willst dü an einäm Wättbewörb teil-\n",
+        "nähmön? ’e’e’e... Viel Vergnügän!\r",
+        "Züfellig ist auch Lamina, die Aräna-\n",
+        "leiterin von ’erz’ofen, einä\f",
+        "Wättbewörbsexpärtinn.\r",
+        "Vielleischt fragst dü disch, wo’er isch\n",
+        "das weiß? Nün, isch bin Lamina!\r",
+        "Einäs Tagäs kannst dü misch ’eraus-\n",
+        "fordörn. Abär noch nischt jetzt. Ärst\f",
+        "müsst dü deutlisch stärkör wärdön!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Ta-da!\n",
+        "Hast du mich schon wieder warten\f",
+        "lassen, {STRVAR_1 3, 1}!\r",
+        "Wer ist inzwischen stärker? Du oder ich?\n",
+        "Wir finden es sofort heraus!\r",
+        "Hey, du bist jetzt ein Trainer, also\n",
+        "musst du immer mit einem Kampf rechnen.\r",
+        "Kein Jammern! Kein Zögern!\n",
+        "Und los geht’s!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Waaaah!\n",
+        "Du hast mein Team schon wieder\f",
+        "ausgeschaltet?!?\r",
+        "Du verhinderst doch absichtlich, dass\n",
+        "ich der größte Trainer der Welt werde!\r",
+        "Nein. Unsinn. Ich muss einfach mehr\n",
+        "trainieren. Und dann, eines Tages...\r",
+        "Genau! Als Nächstes gehe ich zur\n",
+        "Schleiede-Arena!\r",
+        "Bis dann, {STRVAR_1 3, 1}!\r",
+        "Du wirst dich wundern, wie stark ich bei\n",
+        "unserem nächsten Treffen sein werde!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00006",
+      "de_DE": [
+        "Ist nicht möglich! In der Pokémon-\n",
+        "Pension in Trostu wurde ein Ei gefunden?"
+      ]
+    },
+    {
+      "id": "msg_0098_00007",
+      "de_DE": [
+        "In Johto sind angeblich auch Eier\n",
+        "gefunden worden."
+      ]
+    },
+    {
+      "id": "msg_0098_00008",
+      "de_DE": [
+        "Cynthia: Ich bin froh, dich zu sehen!\n",
+        "Du bist nicht leicht zu erwischen.\r",
+        "Meine Oma hat mir erzählt, was in\n",
+        "Elyses passiert ist.\r",
+        "Danke für alles, was du in den Ruinen\n",
+        "getan hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00009",
+      "de_DE": [
+        "Aber dieses Team Galaktik...\r",
+        "Ich dachte, das wären nur ein paar\n",
+        "harmlose Exzentriker...\r",
+        "Du weißt schon, ein neues Universum\n",
+        "erschaffen und solchen Unsinn.\r",
+        "Und sie ziehen sich auch so komisch an.\n",
+        "Ich dachte, sie wären ganz harmlos.\r",
+        "Aber offenbar sind sie viel gefährlicher\n",
+        "als angenommen...\r",
+        "Ich meine, Pokémon zu stehlen und\n",
+        "einzusperren... Das ist so böse!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00010",
+      "de_DE": [
+        "Übrigens: Fandest du die Ruinen\n",
+        "interessant?\r",
+        "Falls ja, solltest du die Bibliothek\n",
+        "in Fleetburg besuchen.\r",
+        "Dort gibt es alte Bücher, die dich\n",
+        "vielleicht interessieren könnten.\r",
+        "Und das könnte dir auch helfen, deinen\n",
+        "Pokédex zu vervollständigen.\r",
+        "Ich denke, du solltest dort mal\n",
+        "vorbeischauen. Mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00011",
+      "de_DE": [
+        "Du bist ein Trainer, nicht wahr?\r",
+        "Dann hast du zwei Herausforderungen,\n",
+        "die Arena oder den Wettbewerb."
+      ]
+    },
+    {
+      "id": "msg_0098_00012",
+      "de_DE": [
+        "Ich habe die VM Stärke im\n",
+        "Turm der Ruhenden erhalten.\r",
+        "Der Turm der Ruhenden ist auf der Route\n",
+        "209 auf dem Weg nach Trostu."
+      ]
+    },
+    {
+      "id": "msg_0098_00013",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0098_00014",
+      "de_DE": [
+        "Es gibt so viele Accessoires für\n",
+        "Pokémon, so viele verschiedene...\r",
+        "Ich kann mich gar nicht entscheiden."
+      ]
+    },
+    {
+      "id": "msg_0098_00015",
+      "de_DE": [
+        "Ich sehe Pokémon jeden Tag, aber es\n",
+        "gibt bestimmt noch viel mehr.\r",
+        "Wie viele es wohl insgesamt gibt?"
+      ]
+    },
+    {
+      "id": "msg_0098_00016",
+      "de_DE": [
+        "Ich gab meinem Pokémon einen\n",
+        "Wasserstein und es entwickelte sich!"
+      ]
+    },
+    {
+      "id": "msg_0098_00017",
+      "de_DE": [
+        "Ich bin den weiten Weg von Hoenn\n",
+        "hierher gekommen.\r",
+        "Ich wollte zur Wettbewerbshalle, aber\n",
+        "ich habe mich verlaufen.\r",
+        "Zum Glück haben mir die freundlichen\n",
+        "Leute hier den Weg gezeigt.\r",
+        "Ich war beeindruckt. So viel Hilfs-\n",
+        "bereitschaft einem Fremden gegenüber.\r",
+        "Darf ich dir nun zeigen, wo es zur\n",
+        "Wettbewerbshalle geht?"
+      ]
+    },
+    {
+      "id": "msg_0098_00018",
+      "de_DE": [
+        "Gut.\n",
+        "Bitte folge mir.\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00019",
+      "de_DE": [
+        "Dies ist die Wettbewerbshalle.\n",
+        "Bitte tritt ein."
+      ]
+    },
+    {
+      "id": "msg_0098_00020",
+      "de_DE": [
+        "Es macht mich glücklich, anderen\n",
+        "helfen zu können."
+      ]
+    },
+    {
+      "id": "msg_0098_00021",
+      "de_DE": [
+        "Oh, ich bitte um Verzeihung.\n",
+        "Ich sollte mich nicht einmischen."
+      ]
+    },
+    {
+      "id": "msg_0098_00022",
+      "de_DE": [
+        "Wenn ich mein Baby spazieren fahre,\n",
+        "sehe ich die Stadt mit anderen Augen.\r",
+        "Mir fallen Treppen, Stufen und\n",
+        "Schlaglöcher auf."
+      ]
+    },
+    {
+      "id": "msg_0098_00023",
+      "de_DE": "Apapapu!"
+    },
+    {
+      "id": "msg_0098_00024",
+      "de_DE": [
+        "Heute war ich mit meinem PACHIRISU\n",
+        "auf dem Platz der Treue.\r",
+        "Unterwegs fanden wir eine Pokémon-\n",
+        "feder.\r",
+        "Meinst du, sie verleiht meinem\n",
+        "PACHIRISU mehr Anmut?"
+      ]
+    },
+    {
+      "id": "msg_0098_00025",
+      "de_DE": "PACHIRISU: Kyukyuuh!"
+    },
+    {
+      "id": "msg_0098_00026",
+      "de_DE": [
+        "Hallo, hallo.\n",
+        "Willst du ein Pokémon-Ei?\r",
+        "Das wurde in der Pokémon-Pension in\n",
+        "Trostu gefunden...\r",
+        "Möchtest du es haben?"
+      ]
+    },
+    {
+      "id": "msg_0098_00027",
+      "de_DE": "Hier, bitte!"
+    },
+    {
+      "id": "msg_0098_00028",
+      "de_DE": [
+        "Ich habe etwas über Eier gehört.\r",
+        "Wenn du mit diesem Ei und mit energe-\n",
+        "tischen Pokémon reist, schlüpft etwas.\r",
+        "Das hat irgendjemand mal behauptet...\n",
+        "Vielleicht Professor Lind aus Johto?"
+      ]
+    },
+    {
+      "id": "msg_0098_00029",
+      "de_DE": [
+        "Augenblick. Du hast nicht genug Platz\n",
+        "für das Ei."
+      ]
+    },
+    {
+      "id": "msg_0098_00030",
+      "de_DE": [
+        "Na gut. Dann warte ich auf jemanden,\n",
+        "der sich um das Ei kümmern möchte.\r",
+        "Aber wenn ich lange genug warte, wird\n",
+        "vielleicht etwas für mich schlüpfen?"
+      ]
+    },
+    {
+      "id": "msg_0098_00031",
+      "de_DE": [
+        "Man nennt mich Herr Deko.\r",
+        "Niemand kennt meinen wahren Namen.\n",
+        "Nein, nicht einmal ich selbst...\r",
+        "Ich suche seltene Items.\n",
+        "Das ist mein Leben.\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00032",
+      "de_DE": [
+        "Hm!\n",
+        "Hmhmhmhm?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00033",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0098_00034",
+      "de_DE": [
+        "Ich würde dir gerne etwas geben, aber\n",
+        "ich habe im Moment leider nichts.\r",
+        "Also werde ich etwas für dich suchen.\n",
+        "Sprich mich doch einfach wieder mal an."
+      ]
+    },
+    {
+      "id": "msg_0098_00035",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0098_00036",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0098_00037",
+      "de_DE": [
+        "Oh? Dein Untergrund-PC ist offenbar\n",
+        "voll.\r",
+        "Dann behalte ich dein Geschenk, bis du\n",
+        "etwas Platz geschaffen hast. Bis dann."
+      ]
+    },
+    {
+      "id": "msg_0098_00038",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0098_00039",
+      "de_DE": [
+        "Ich werde etwas Seltenes für dich\n",
+        "finden. Frag mich demnächst nochmal."
+      ]
+    },
+    {
+      "id": "msg_0098_00040",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Dein Abenteuer wird allmählich ja richtig\n",
+        "global, nicht wahr?\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00041",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast alle Arenen gemeistert,\n",
+        "nicht wahr?\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00042",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast die Master-Klasse im\n",
+        "Anmut-Wettbewerb erreicht!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00043",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast die Master-Klasse im\n",
+        "Coolness-Wettbewerb erreicht!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00044",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast die Master-Klasse im\n",
+        "Schönheitswettbewerb erreicht!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00045",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast die Master-Klasse im\n",
+        "Stärke-Wettbewerb erreicht!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00046",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast die Master-Klasse im\n",
+        "Klugheits-Wettbewerb erreicht!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00047",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast so viele Leute im\n",
+        "Untergrund getroffen!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00048",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast im Untergrund viele\n",
+        "Items an Leute weitergegeben!\r",
+        "Für jemanden wie dich ist das\n",
+        "hier genau das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00049",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast im Untergrund so viele Fossilien\n",
+        "ausgegraben!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00050",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast sehr viele Fallen im Untergrund\n",
+        "gestellt!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00051",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast schließlich doch im Duellturm\n",
+        "10 Trainer hintereinander besiegt!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00052",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast schließlich doch im Duellturm\n",
+        "50 Trainer hintereinander besiegt!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00053",
+      "de_DE": [
+        "Oh!\n",
+        "Wie beeindruckend!\r",
+        "Du hast schließlich doch im Duellturm\n",
+        "100 Trainer hintereinander besiegt!\r",
+        "Für jemanden wie dich ist das hier genau\n",
+        "das Richtige!\r"
+      ]
+    },
+    {
+      "id": "msg_0098_00054",
+      "de_DE": [
+        "Ja, der Kinderwagen wird von Tag zu Tag\n",
+        "schwerer.\r",
+        "Mit welchem Pokémon sich mein Kind wohl\n",
+        "zuerst anfreunden wird?"
+      ]
+    },
+    {
+      "id": "msg_0098_00055",
+      "de_DE": "Papa! Mama!"
+    },
+    {
+      "id": "msg_0098_00056",
+      "de_DE": [
+        "Dreißig Jahre lang habe ich einsam\n",
+        "in den Bergen gelebt!\r",
+        "Ich habe einen Tanz erfunden, mit dem\n",
+        "ich den Wettbewerb gewinnen werde!"
+      ]
+    },
+    {
+      "id": "msg_0098_00057",
+      "de_DE": [
+        "Nach meiner Hochzeit möchte ich gerne in\n",
+        "Herzhofen leben.\r",
+        "Aber mein Freund will nach Schleiede\n",
+        "ziehen, wegen der Spielhalle dort..."
+      ]
+    },
+    {
+      "id": "msg_0098_00058",
+      "de_DE": [
+        "Herzhofen\n",
+        "Warm & Freundlich"
+      ]
+    },
+    {
+      "id": "msg_0098_00059",
+      "de_DE": [
+        "Pokémon Arena Herzhofen\n",
+        "Leiterin: Lamina\f",
+        "Die betörende Tänzerin!"
+      ]
+    },
+    {
+      "id": "msg_0098_00060",
+      "de_DE": [
+        "Pokémon Wettbewerbshalle\n",
+        "Offen für alle Enthusiasten!"
+      ]
+    },
+    {
+      "id": "msg_0098_00061",
+      "de_DE": [
+        "Pokémon-Fanclub\n",
+        "Alle Trainer sind willkommen!"
+      ]
+    },
+    {
+      "id": "msg_0098_00062",
+      "de_DE": [
+        "Route 208\n",
+        "Route 212"
+      ]
+    },
+    {
+      "id": "msg_0098_00063",
+      "de_DE": [
+        "Trostu\n",
+        "Route 209"
+      ]
+    },
+    {
+      "id": "msg_0098_00064",
+      "de_DE": [
+        "Platz der Treue, Westtor\n",
+        "Gehe mit deinen Pokémon spazieren!"
+      ]
+    },
+    {
+      "id": "msg_0098_00065",
+      "de_DE": [
+        "Platz der Treue, Osttor\n",
+        "Gehe mit deinen Pokémon spazieren!"
+      ]
+    },
+    {
+      "id": "msg_0098_00066",
+      "de_DE": [
+        "Knursperei\n",
+        "Leckere Knurspe - Hereinspaziert!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "key": 50828,
+  "messages": [
+    {
+      "id": "msg_0698_00000",
+      "de_DE": "Bea"
+    },
+    {
+      "id": "msg_0698_00001",
+      "de_DE": [
+        "Nicht übel... mich zu schlagen,\n",
+        "dazu gehört schon was, auch wenn es\f",
+        "nur Dusel war...\r",
+        "Ich mag dich!\n",
+        "Kann ich deine Nummer haben?\r",
+        "Du wirst mein\n",
+        "Sparringspartner! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0698_00002",
+      "de_DE": [
+        "Sei nicht zu stolz auf deinen Sieg!\n",
+        "Das war nur Dusel!"
+      ]
+    },
+    {
+      "id": "msg_0698_00003",
+      "de_DE": [
+        "Das kann nicht sein!\n",
+        "Das wirst du noch bereuen!"
+      ]
+    },
+    {
+      "id": "msg_0698_00004",
+      "de_DE": [
+        "Gib mir deine Telefonnummer!\r",
+        "Du wirst mein zukünftiger\n",
+        "Sparringspartner! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0698_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0698_00006",
+      "de_DE": [
+        "Sag bloß, du stehst auch so\n",
+        "auf Route 27?\r",
+        "Na logisch, ich auch!\r",
+        "Ich bin so gut wie immer hier!"
+      ]
+    },
+    {
+      "id": "msg_0698_00007",
+      "de_DE": [
+        "Hör zu...\n",
+        "Erinnerst du dich an mein {STRVAR_1 0, 10, 0}?\r",
+        "Ja, genau. Das süße {STRVAR_1 0, 10, 0}!\n",
+        "Meinst du nicht auch, dass es\f",
+        "perfekt zu mir passt?\r",
+        "Du darfst jetzt gehen."
+      ]
+    },
+    {
+      "id": "msg_0698_00008",
+      "de_DE": [
+        "Ob mir schon einmal ein wildes\n",
+        "{STRVAR_1 0, 11, 0} begegnet ist?\r",
+        "Du stellst Fragen!\r",
+        "{STRVAR_1 0, 11, 0} habe ich schon\n",
+        "oft besiegt!\r",
+        "Du darfst jetzt gehen."
+      ]
+    },
+    {
+      "id": "msg_0698_00009",
+      "de_DE": [
+        "Ob mir je ein wildes Pokémon\n",
+        "entwischt ist?\r",
+        "Du stellst Fragen!\r",
+        "Mir würde nie ein wildes {STRVAR_1 0, 11, 0}\n",
+        "entkommen... oh! Kein Problem!"
+      ]
+    },
+    {
+      "id": "msg_0698_00010",
+      "de_DE": [
+        "Wir werden gegeneinander kämpfen!\r",
+        "Und zwar hier: {STRVAR_1 4, 3, 0}!\n",
+        "Lass mich nicht warten! O.K.?"
+      ]
+    },
+    {
+      "id": "msg_0698_00011",
+      "de_DE": [
+        "Was machst du gerade?\r",
+        "Ich sagte doch, ich bin hier:\n",
+        "{STRVAR_1 4, 3, 0}! Lauf nicht weg!"
+      ]
+    },
+    {
+      "id": "msg_0698_00012",
+      "de_DE": [
+        "Sei nicht zu stolz, dass du\n",
+        "mich zufällig geschlagen hast...\r",
+        "Das war Dusel!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "key": 37890,
+  "messages": [
+    {
+      "id": "msg_0680_00000",
+      "de_DE": "Anette"
+    },
+    {
+      "id": "msg_0680_00001",
+      "de_DE": [
+        "Oooh! Du bist auf großer Reise?\n",
+        "Du siehst dir die weite Welt an?\r",
+        "Oh, wenn du nichts dagegen hast,\n",
+        "hätte ich gerne deine Nummer!\f",
+        "Lass uns Freunde sein, ja?\r",
+        "Ich würde so gerne hören, was du\n",
+        "auf deiner Reise alles erlebst! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0680_00002",
+      "de_DE": [
+        "Ich lasse es dich auch wissen,\n",
+        "wenn ich was Interessantes höre!"
+      ]
+    },
+    {
+      "id": "msg_0680_00003",
+      "de_DE": [
+        "Waaas?\n",
+        "Du willst mich nicht als Freundin?"
+      ]
+    },
+    {
+      "id": "msg_0680_00004",
+      "de_DE": [
+        "Wenn du nichts dagegen hast,\n",
+        "hätte ich gerne deine Nummer!\f",
+        "Lass uns Freunde sein, ja?\r",
+        "Ich würde so gerne hören, was du \n",
+        "auf deiner Reise alles erlebst! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0680_00005",
+      "de_DE": [
+        "Huhu! Ich bin hier drüben!\n",
+        "Komm doch rüber zu mir!"
+      ]
+    },
+    {
+      "id": "msg_0680_00006",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Mein {STRVAR_1 0, 10, 0} liebt es,\n",
+        "sich Wange an Wange an mich\f",
+        "zu kuscheln! Das ist sooo süß!\r",
+        "Und, und, und!\r",
+        "Neulich hat es ein {STRVAR_1 0, 11, 0}\n",
+        "mit einem Schlag umgehauen!\f",
+        "Ich hatte fast Mitleid mit ihm.\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00007",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Mein {STRVAR_1 0, 10, 0} schaut mich\n",
+        "ständig mit großen Gummeraugen an!\f",
+        "Das ist sooooo süß!\r",
+        "Und, und, und!\r",
+        "Neulich haben wir ein bildhübsches\n",
+        "{STRVAR_1 0, 11, 0} gesehen!\r",
+        "Aber leider war ich gerade mitten im\n",
+        "Gespräch, da ist es davongelaufen.\f",
+        "Oh, das war ein harter Schlag!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00008",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Kürzlich war ich in den Alph-Ruinen\n",
+        "und habe mein Radio eingeschaltet...\r",
+        "Und plötzlich empfing ich ein ganz\n",
+        "komisches Programm.\r",
+        "Möchte wissen, was das wohl war.\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00009",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Denkst du nicht auch, dass Falk, der\n",
+        "Arenaleiter von Viola City,\f",
+        "umwerfend cool aussieht?\r",
+        "Sein Vater ist gerade auf Trainingsreise\n",
+        "und die Leute sagen, er sähe\f",
+        "noch besser aus als sein Sohn!\f",
+        "Also, der dürfte mir ruhig mal\f",
+        "über den Weg laufen!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00010",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Du kennst doch Earl, den Lehrer\n",
+        "der Pokémonschule in Viola City?\r",
+        "Er hat die Angewohnheit,\n",
+        "sich wie ein Brummkreisel zu drehen,\f",
+        "während er durch die Stadt läuft.\f",
+        "Das sieht vielleicht ulkig aus!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00011",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Hinter den Kimono-Girls aus Teak City\n",
+        "steckt mehr als nur ein\f",
+        "Haufen Hupfdohlen!\r",
+        "Ich habe gehört, sie arbeiten darauf\n",
+        "hin, das vor langer Zeit verschwundene\f",
+        "Legendäre Pokémon wieder in die\f",
+        "Stadt zurückzuholen.\f",
+        "Klingt das nicht romantisch?!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00012",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Ist dir Kuhmuh-Milch ein Begriff? Du\n",
+        "kannst sie auf der Kuhmuh-Farm kaufen.\r",
+        "Sie soll gut für die Gesundheit sein,\n",
+        "und schön macht sie auch!\f",
+        "Die würde ich auch gerne mal kosten.\f",
+        "Sie ist sicher tierisch lecker!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00013",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "In Dukatia City gibt es doch den\n",
+        "Pokémon-Salon, der von zwei Brüdern\f",
+        "geleitet wird.\r",
+        "Der ältere Bruder ist ein Meister seines\n",
+        "Fachs, dem jüngeren dagegen\f",
+        "rutscht öfter einmal die Schere aus.\r",
+        "Dafür ist er preiswerter als sein\n",
+        "großer Bruder, und ab und zu macht\f",
+        "er seinen Job sogar besser als er!\r",
+        "Bei jedem Besuch fällt es mir schwer,\n",
+        "mich zwischen ihnen zu entscheiden.\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00014",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Bianka, die Arenaleiterin von\n",
+        "Dukatia City, hat erst vor Kurzem\f",
+        "mit dem Training begonnen!\r",
+        "Aber die Pokémon Liga hat sie dennoch\n",
+        "zur Leiterin gewählt!\f",
+        "Sie muss ja ein waschechtes Genie sein!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00015",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Hast du schon mal am Käferturnier\n",
+        "im Nationalpark teilgenommen?\r",
+        "Ich war erst einmal dabei und\n",
+        "habe bloß ein RAUPY abgestaubt.\r",
+        "Aber du glaubst es nicht! Ich\n",
+        "habe mit dem RAUPY gewonnen!\f",
+        "Ist das nicht fantastisch?\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00016",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Hier kam gerade ein wahnsinnig\n",
+        "toller Trainer vorbei!\r",
+        "Oh, {STRVAR_1 14, 4, 0}! Wenn ich mal groß\n",
+        "bin, möchte ich genauso sein wie du!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00017",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Äääh... also... hoppla?\r",
+        "Hahaha! Jetzt habe ich doch glatt\n",
+        "vergessen, was ich sagen wollte!\r",
+        "Ciao, ich rufe später wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00018",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Ich habe mein Glück bei der Lotterie\n",
+        "im Kaufhaus von Dukatia City versucht!\r",
+        "Die Chance auf eine TM für gerade mal\n",
+        "300 $ kann man sich schließlich nicht\f",
+        "einfach so entgehen lassen, oder?\r",
+        "Also habe ich drei Lose gezogen, aber\n",
+        "es sprang immer nur eine Beere raus!\f",
+        "Ach, ich habe einfach kein Glück...\r",
+        "Na ja, egal. Ruf mich mal wieder an!"
+      ]
+    },
+    {
+      "id": "msg_0680_00019",
+      "de_DE": [
+        "He du, hast du gerade Zeit?\r",
+        "Wenn ich eines in Massen habe, dann\n",
+        "ist es Freizeit! Wenn es dir recht ist,\f",
+        "könnten wir uns doch duellieren?\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}. Sprich\n",
+        "mich an, wenn du in der Nähe bist!"
+      ]
+    },
+    {
+      "id": "msg_0680_00020",
+      "de_DE": [
+        "Komm schon, ich sterbe vor Langeweile!\n",
+        "Lass uns endlich kämpfen!\r",
+        "{STRVAR_1 4, 3, 0}! Ich warte auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0680_00021",
+      "de_DE": [
+        "Hallo Tanja! Wie geht es dir?\r",
+        "Hier ist Anette. Ich hatte gerade\n",
+        "Langeweile, und da dachte ich...\f",
+        "Huch. Du bist nicht Tanja?\r",
+        "Da habe ich mich verwählt. Sorry!"
+      ]
+    },
+    {
+      "id": "msg_0680_00022",
+      "de_DE": [
+        "Das musst du dir anhören!\r",
+        "Mein {STRVAR_1 0, 10, 0} hat...\n",
+        "...Und dann... ...und danach...\f",
+        "...es ist so süß! ... ...\f",
+        "Ich also... hihihi... ...\f",
+        "...Und dann, zack!\f",
+        "Einfach wunderbar! Und dann...\f",
+        "...Und wenn es schläft... ... seufz...\f",
+        "Aber weißt du... ... es ist auch!\f",
+        "...Jieks!\r",
+        "... ...Ich könnte es drücken und\n",
+        "drücken...\f",
+        "...Wie die Faust aufs Auge!\f",
+        "...Ja, genau! ... ...\f",
+        "...Es ist sooooo schööööön!\f",
+        "...Hach, wenn ich nur...\f",
+        "... ...Upsi!\f",
+        "Ist es schon so spät?\r",
+        "Tut mir leid, dass ich dir ein Ohr\n",
+        "abgeplaudert habe. Ich kann mich am\f",
+        "Telefon nur schwer beherrschen!"
+      ]
+    },
+    {
+      "id": "msg_0680_00023",
+      "de_DE": "Ass-Trainer"
+    },
+    {
+      "id": "msg_0680_00024",
+      "de_DE": "Schönheit"
+    },
+    {
+      "id": "msg_0680_00025",
+      "de_DE": "Rocket"
+    },
+    {
+      "id": "msg_0680_00026",
+      "de_DE": "Lehrerin"
+    },
+    {
+      "id": "msg_0680_00027",
+      "de_DE": "Schwimmerin"
+    },
+    {
+      "id": "msg_0680_00028",
+      "de_DE": "Kimono-Girl"
+    },
+    {
+      "id": "msg_0680_00029",
+      "de_DE": "Skifahrer"
+    },
+    {
+      "id": "msg_0680_00030",
+      "de_DE": "Medium"
+    },
+    {
+      "id": "msg_0680_00031",
+      "de_DE": "Pokéfan"
+    }
+  ]
+}

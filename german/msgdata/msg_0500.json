@@ -1,0 +1,81 @@
+{
+  "key": 17438,
+  "messages": [
+    {
+      "id": "msg_0500_00000",
+      "de_DE": [
+        "Hallo, und vielen herzlichen Dank,\n",
+        "dass du uns heute besuchst!\r",
+        "In welches Stockwerk\n",
+        "darf ich dich bringen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0500_00001",
+      "de_DE": "Komm bald wieder!"
+    },
+    {
+      "id": "msg_0500_00002",
+      "de_DE": [
+        "Aber sicher!\n",
+        "Aufwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0500_00003",
+      "de_DE": [
+        "Aber sicher!\n",
+        "Abwärts geht’s.\r"
+      ]
+    },
+    {
+      "id": "msg_0500_00004",
+      "de_DE": [
+        "Ähm, wir sind bereits in\n",
+        "diesem Stockwerk..."
+      ]
+    },
+    {
+      "id": "msg_0500_00005",
+      "de_DE": [
+        "Erdgeschoss, zum Info-Schalter\n",
+        "und zum Eingangsbereich."
+      ]
+    },
+    {
+      "id": "msg_0500_00006",
+      "de_DE": [
+        "Erster Stock, der Trainermarkt! Hier\n",
+        "findest du alles, was dein Herz begehrt!"
+      ]
+    },
+    {
+      "id": "msg_0500_00007",
+      "de_DE": [
+        "Zweiter Stock, der TM-Laden!\n",
+        "Mache deine Pokémon noch stärker!"
+      ]
+    },
+    {
+      "id": "msg_0500_00008",
+      "de_DE": [
+        "Dritter Stock, Geschenkartikel! Lass\n",
+        "ein Geschenk für dich sprechen!"
+      ]
+    },
+    {
+      "id": "msg_0500_00009",
+      "de_DE": [
+        "Vierter Stock, alles für den Kampf! Hier\n",
+        "gibt es alles für bessere Statuswerte!"
+      ]
+    },
+    {
+      "id": "msg_0500_00010",
+      "de_DE": [
+        "Fünfter Stock, das Dachgeschoss! Für\n",
+        "kleine Päuschen im fünften Himmel!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "key": 23013,
+  "messages": [
+    {
+      "id": "msg_0582_00000",
+      "de_DE": [
+        "Bianka: Hallooo! Ich heiße Bianka!\r",
+        "...Aber warte mal, haben wir uns nicht\n",
+        "schon mal im Radioturm getroffen?\r",
+        "Du bist ein Pokémon-Trainer, stimmt’s?\n",
+        "Heutzutage hat jeder ein Pokémon, was?\f",
+        "Meine sind auch einfach viiieeel zu süß!\r",
+        "So süß, dass ich sie am liebsten...\r",
+        "Wie? Du forderst mich zum Kampf heraus?\n",
+        "Ich warne dich! Ich bin sehr stark!\r"
+      ]
+    },
+    {
+      "id": "msg_0582_00001",
+      "de_DE": [
+        "Bianka: Schluchz...\r",
+        "...Buhuhuhuuu!!!\n",
+        "Du bist ja so gemein!\r",
+        "Musstest du gleich so energisch sein?\n",
+        "Benimm dich gefälligst wie ein Kind!"
+      ]
+    },
+    {
+      "id": "msg_0582_00002",
+      "de_DE": [
+        "Bianka: Buhuhuhuuu!\r",
+        "Buhuuuu! Schluchz!\r",
+        "...Schnüff, schnief...\n",
+        "...Du bist ja so gemein!!!"
+      ]
+    },
+    {
+      "id": "msg_0582_00003",
+      "de_DE": [
+        "Bianka: ...Schnüff...\r",
+        "Was ist? Willst du noch irgendwas?\n",
+        "Oh, du hättest gerne deinen Orden?\r",
+        "Tut mir leid, das hatte ich vergessen.\n",
+        "Hier, das ist der Basisorden, den du\f",
+        "so unbedingt wolltest.\r"
+      ]
+    },
+    {
+      "id": "msg_0582_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Basisorden!"
+      ]
+    },
+    {
+      "id": "msg_0582_00005",
+      "de_DE": [
+        "Bianka: Der Basisorden erlaubt es dir,\n",
+        "auch außerhalb des Kampfes die Attacke\f",
+        "Stärke einzusetzen.\r",
+        "Und hier, das gibt’s gratis dazu.\r"
+      ]
+    },
+    {
+      "id": "msg_0582_00006",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0582_00007",
+      "de_DE": [
+        "Bianka: Darin befindet sich Anziehung.\r",
+        "Diese Attacke bringt den Charme deines\n",
+        "Pokémon voll zur Geltung.\r",
+        "Passt das nicht perfekt zu einem süßen\n",
+        "Ding wie mir?\r",
+        "Ach, übrigens!\r",
+        "In der Nähe des Nationalparks nördlich\n",
+        "von hier wurde ein Wettkampfstadion\f",
+        "eröffnet, die Pokéathlonhallen!\r",
+        "Mit deinem Talent im Umgang mit den\n",
+        "Pokémon wäre es sicher nicht verkehrt,\f",
+        "einen Abstecher dorthin zu machen!\n"
+      ]
+    },
+    {
+      "id": "msg_0582_00008",
+      "de_DE": [
+        "Bianka: Schnief! Ach ja, manchmal\n",
+        "tut es ganz gut, etwas zu weinen!\r",
+        "Besuche mich mal wieder!\n",
+        "Ciao!"
+      ]
+    },
+    {
+      "id": "msg_0582_00009",
+      "de_DE": [
+        "Oh je, jetzt hast du Bianka zum Weinen\n",
+        "gebracht...\r",
+        "Aber keine Sorge, irgendwann gibt sie\n",
+        "schon wieder Ruhe.\f",
+        "Sie weint immer, wenn sie verliert.\r"
+      ]
+    },
+    {
+      "id": "msg_0582_00010",
+      "de_DE": [
+        "Hey, du! Zukünftiger Champ!\r",
+        "In dieser Arena erwarten dich Trainer\n",
+        "mit Pokémon vom Typ Normal!\r",
+        "Wenn du sie herausfordern willst,\n",
+        "lege ich dir ans Herz, Kampf-Pokémon\f",
+        "im Team zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0582_00011",
+      "de_DE": [
+        "Du hast gewonnen? Toll!\r",
+        "Ich war damit beschäftigt, die\n",
+        "talentierten Trainer hier zu\f",
+        "bewundern..."
+      ]
+    },
+    {
+      "id": "msg_0582_00012",
+      "de_DE": "Pokémon-Arena von Dukatia City"
+    },
+    {
+      "id": "msg_0582_00013",
+      "de_DE": [
+        "Pokémon-Arena von Dukatia City\r",
+        "Leiterin: Bianka\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

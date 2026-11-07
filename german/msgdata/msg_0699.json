@@ -1,0 +1,126 @@
+{
+  "key": 12952,
+  "messages": [
+    {
+      "id": "msg_0699_00000",
+      "de_DE": "Hilmar"
+    },
+    {
+      "id": "msg_0699_00001",
+      "de_DE": [
+        "Ein Kampf gegen denselben Gegner\n",
+        "mit denselben Pokémon muss nicht\f",
+        "immer gleich ausgehen!\r",
+        "Ich sehe, du hast noch Kampfgeist.\n",
+        "Was sagst du? Tauschen wir\f",
+        "Telefonnummern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0699_00002",
+      "de_DE": [
+        "Ruf mich an,\n",
+        "sobald du bereit bist."
+      ]
+    },
+    {
+      "id": "msg_0699_00003",
+      "de_DE": [
+        "Verstehe... auch gut.\n",
+        "Mir bleiben immer noch die Berge!"
+      ]
+    },
+    {
+      "id": "msg_0699_00004",
+      "de_DE": [
+        "Ich sehe, du hast noch Kampfgeist.\n",
+        "Was sagst du? Tauschen wir\f",
+        "Telefonnummern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0699_00005",
+      "de_DE": [
+        "Hmm... ich höre dich so seltsam\n",
+        "laut und deutlich...\r",
+        "Ah, du bist in der Nähe!\n",
+        "Wozu brauchst du dann ein Telefon?"
+      ]
+    },
+    {
+      "id": "msg_0699_00006",
+      "de_DE": [
+        "Wanderer, die die Natur lieben wie ich,\n",
+        "gewinnen schneller das Zutrauen\f",
+        "ihrer Pokémon.\r",
+        "Nein, nein, das ist keine Einbildung!\n",
+        "Mein {STRVAR_1 0, 10, 0} ist der beste Beweis!\f",
+        "Sieh nur, es folgt mir aufs Wort!"
+      ]
+    },
+    {
+      "id": "msg_0699_00007",
+      "de_DE": [
+        "Hör dir das mal an!\r",
+        "Gestern traf ich auf ein\n",
+        "wildes {STRVAR_1 0, 11, 0}!\f",
+        "Ja, genau! Ein echtes Naturereignis!\r",
+        "Mein Pokémon-Team hat ihm einen\n",
+        "vorbildlichen Kampf geliefert.\f",
+        "Auch das, ein echtes Naturereignis!\r",
+        "Es fällt mir schwer, diese Erfahrung\n",
+        "in Worte zu fassen...\f",
+        "Probieren wir’s so:\r",
+        "Juchuu!"
+      ]
+    },
+    {
+      "id": "msg_0699_00008",
+      "de_DE": [
+        "Als ich letzte Woche in den Bergen\n",
+        "wanderte, sprang mich urplötzlich\f",
+        "ein {STRVAR_1 0, 11, 0} an!\r",
+        "Ich war mental nicht darauf vorbereitet\n",
+        "und es ist mir entwischt.\r",
+        "Normalerweise ist eine gute\n",
+        "Vorbereitung das A und O des Wanderns.\f",
+        "Dass mir so etwas passieren konnte!\f",
+        "Ich bin unwürdig, ein Wanderer zu sein."
+      ]
+    },
+    {
+      "id": "msg_0699_00009",
+      "de_DE": [
+        "Du hast bestimmt auch langsam\n",
+        "Lust auf ein Rematch,\f",
+        "habe ich nicht recht?\r",
+        "Dem Wunsch komme ich gerne nach!\n",
+        "Ich warte hier auf dich:\f",
+        "{STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0699_00010",
+      "de_DE": [
+        "{STRVAR_1 4, 3, 0} - dort soll unser\n",
+        "Kampf stattfinden!\f",
+        "Das wird ein Naturereignis!"
+      ]
+    },
+    {
+      "id": "msg_0699_00011",
+      "de_DE": [
+        "Ich verbringe die meiste Zeit\n",
+        "des Jahres in den Bergen.\r",
+        "Was, wie ich bade?\r",
+        "In den Bergen gibt es keine Wanne!\r",
+        "Wenn ich einen finde, nehme ich mein Bad\n",
+        "stattdessen in einem sanft sprudelnden\f",
+        "Bach - das hält mich sauber.\r",
+        "Neulich, als ich wieder einmal im\n",
+        "Bach schwamm, hat man mich sogar\f",
+        "für einen dieser Schwimmer gehalten!"
+      ]
+    }
+  ]
+}

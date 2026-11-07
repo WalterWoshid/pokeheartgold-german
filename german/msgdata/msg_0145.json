@@ -1,0 +1,82 @@
+{
+  "key": 9378,
+  "messages": [
+    {
+      "id": "msg_0145_00000",
+      "de_DE": [
+        "Oh, hallo da!\r",
+        "Echt kalt hier, habe ich nicht recht?\n",
+        "Meine Hände sind schon fast taub!\r",
+        "Ich finde es toll, dass du dich\n",
+        "in deinem Alter schon für die\f",
+        "Sinjoh-Ruinen interessierst!\r",
+        "Die Kultur der Sinnoh-Region ist sehr\n",
+        "stark mit der von Johto verwandt.\r",
+        "Das erkennt man alleine schon am\n",
+        "Design der Sinjoh-Ruinen!\r"
+      ]
+    },
+    {
+      "id": "msg_0145_00001",
+      "de_DE": [
+        "Oje, jetzt werde ich langsam müde!\r",
+        "Wir reden hier ja auch die ganze Zeit\n",
+        "im Stehen! Da hinten gibt es eine\f",
+        "Berghütte, lass uns da in aller Ruhe\f",
+        "weiterplaudern!\r"
+      ]
+    },
+    {
+      "id": "msg_0145_00002",
+      "de_DE": [
+        "Ach ja, hör mal!\r",
+        "In dieser Berghütte ist gerade jemand,\n",
+        "den man nicht alle Tage trifft!\r",
+        "Es handelt sich dabei um eine echte\n",
+        "Berühmtheit aus der Sinnoh-Region, die\f",
+        "einfach jedem Trainer ein Begriff ist!\r",
+        "Allem Anschein nach reist sie überall\n",
+        "umher, um den Geheimnissen von Sagen\f",
+        "und Ruinen auf den Grund zu kommen.\r",
+        "Toll, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0145_00003",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0145_00004",
+      "de_DE": [
+        "Cynthia: Bring bitte dein ARCEUS\n",
+        "mit hierher!\r",
+        "Wenn du irgendwelche anderen Pokémon\n",
+        "mit dir führst, würden sie vermutlich\f",
+        "von der Macht, die diese Ruinen umgibt,\f",
+        "einfach weggeblasen...\r"
+      ]
+    },
+    {
+      "id": "msg_0145_00005",
+      "de_DE": [
+        "Cynthia: Ob dein ARCEUS wohl auch\n",
+        "auf diese Ruinen reagieren wird?\r",
+        "Wenn ich mich nicht völlig täusche,\n",
+        "dann ist diese Gegend hier...\f",
+        "von einer großen Macht umgeben...\r",
+        "Genaueres erfährt man wohl nur\n",
+        "im Inneren der Ruinen.\r",
+        "Auf dem {COLOR 1}Trysteriumaltar{COLOR 0}, der dort auf\n",
+        "seinen Meister wartet...\r"
+      ]
+    },
+    {
+      "id": "msg_0145_00006",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0145_00007",
+      "de_DE": "Die Sinjoh-Ruinen"
+    }
+  ]
+}

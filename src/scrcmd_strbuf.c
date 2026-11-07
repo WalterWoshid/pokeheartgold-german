@@ -223,7 +223,7 @@ BOOL ScrCmd_BufferSpeciesName(ScriptContext *ctx) {
     u8 unk3 = ScriptReadByte(ctx);
 
     String *species_name = _get_species_name(species, HEAP_ID_FIELD1);
-    BufferString(*msg_fmt, idx, species_name, unk2, unk3, 2);
+    BufferString(*msg_fmt, idx, species_name, unk2, unk3, GAME_LANGUAGE);
     String_Delete(species_name);
 
     return FALSE;
@@ -242,7 +242,7 @@ BOOL ScrCmd_BufferStarterSpeciesName(ScriptContext *ctx) {
     u16 species = Save_VarsFlags_GetStarter(Save_VarsFlags_Get(ctx->fieldSystem->saveData));
 
     String *species_name = _get_species_name(species, HEAP_ID_FIELD1);
-    BufferString(*msg_fmt, idx, species_name, 0, 1, 2);
+    BufferString(*msg_fmt, idx, species_name, 0, 1, GAME_LANGUAGE);
     String_Delete(species_name);
 
     return FALSE;
@@ -254,7 +254,7 @@ BOOL ScrCmd_BufferDPPtRivalStarterSpeciesName(ScriptContext *ctx) {
     u16 species = DPPtLeftover_GetRivalSpecies(Save_VarsFlags_Get(ctx->fieldSystem->saveData));
 
     String *species_name = _get_species_name(species, HEAP_ID_FIELD1);
-    BufferString(*msg_fmt, idx, species_name, 0, 1, 2);
+    BufferString(*msg_fmt, idx, species_name, 0, 1, GAME_LANGUAGE);
     String_Delete(species_name);
 
     return FALSE;
@@ -266,7 +266,7 @@ BOOL ScrCmd_BufferDPPtFriendStarterSpeciesName(ScriptContext *ctx) {
     u16 species = DPPtLeftover_GetFriendStarterSpecies(Save_VarsFlags_Get(ctx->fieldSystem->saveData));
 
     String *species_name = _get_species_name(species, HEAP_ID_FIELD1);
-    BufferString(*msg_fmt, idx, species_name, 0, 1, 2);
+    BufferString(*msg_fmt, idx, species_name, 0, 1, GAME_LANGUAGE);
     String_Delete(species_name);
 
     return FALSE;
@@ -307,7 +307,7 @@ BOOL ScrCmd_BufferMapSecName(ScriptContext *ctx) {
     u16 mapno = ScriptGetVar(ctx);
 
     MapID_GetLandmarkName(mapno, HEAP_ID_FIELD1, str);
-    BufferString(*msg_fmt, idx, str, 0, 1, 2);
+    BufferString(*msg_fmt, idx, str, 0, 1, GAME_LANGUAGE);
     String_Delete(str);
 
     return FALSE;
@@ -320,7 +320,7 @@ BOOL ScrCmd_BufferBerryName(ScriptContext *ctx) {
     u16 unk = ScriptGetVar(ctx);
 
     String *str = GetNutName((u16)(berry_id - FIRST_BERRY_IDX), HEAP_ID_FIELD3);
-    BufferString(*msg_fmt, idx, str, 0, unk < 2, 2);
+    BufferString(*msg_fmt, idx, str, 0, unk < 2, GAME_LANGUAGE);
     String_Delete(str);
 
     return FALSE;

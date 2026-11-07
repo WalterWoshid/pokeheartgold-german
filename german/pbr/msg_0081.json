@@ -1,0 +1,130 @@
+{
+  "key": 14690,
+  "messages": [
+    {
+      "id": "msg_0081_00000",
+      "de_DE": [
+        "Du hast mich warten lassen!\r",
+        "Ich leite die Ewigenau-Arena:\n",
+        "Silvana, die Pflanzen-Meisterin.\r",
+        "Ich war mir sicher, dass du den Weg zu\n",
+        "mir finden würdest.\r",
+        "Meine Instinkte trügen nie.\n",
+        "Du hast die Aura eines Gewinners.\r",
+        "Das wird ein Spaß.\n",
+        "Lass uns beginnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0081_00001",
+      "de_DE": [
+        "Auch wenn ich es vielleicht schon\n",
+        "erwähnt habe: Du bist echt zäh!\r",
+        "Es war bestimmt anstrengend,\n",
+        "deine Pokémon so gut zu trainieren.\r",
+        "Das zeigt, wie sehr du deine\n",
+        "Pokémon magst.\r",
+        "Als Anerkennung überreiche\n",
+        "ich dir dies hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0081_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhielt den Waldorden von\n",
+        "Silvana!"
+      ]
+    },
+    {
+      "id": "msg_0081_00003",
+      "de_DE": [
+        "Mit dem Waldorden können deine Pokémon\n",
+        "die VM Zerschneider außerhalb von\f",
+        "Kämpfen anwenden.\r",
+        "Da du jetzt zwei Orden hast, werden dir\n",
+        "alle ertauschten Pokémon bis Level 30\f",
+        "gehorchen.\r",
+        "Ich gebe dir noch etwas.\n",
+        "Ein Geschenk von mir persönlich!\r"
+      ]
+    },
+    {
+      "id": "msg_0081_00004",
+      "de_DE": [
+        "Diese {STRVAR_1 8, 0} beinhaltet die\n",
+        "Attacke {STRVAR_1 6, 1}.\r",
+        "Eine meiner Lieblingsattacken.\r",
+        "Je schwerer der Gegner ist, desto\n",
+        "mehr Schaden nimmt er dabei."
+      ]
+    },
+    {
+      "id": "msg_0081_00005",
+      "de_DE": [
+        "Ja. Wenn ich eine Sache\n",
+        "über dich weiß, dann das!\r",
+        "Du und deine Pokémon, ihr werdet\n",
+        "noch stärker werden. Viel stärker!"
+      ]
+    },
+    {
+      "id": "msg_0081_00006",
+      "de_DE": [
+        "Woher wusstest du, wo ich bin?\n",
+        "Also gut. Kämpfen wir!\r"
+      ]
+    },
+    {
+      "id": "msg_0081_00007",
+      "de_DE": [
+        "Hm, der nächste Trainer befindet sich in\n",
+        "der Nähe von zwei Felsen... glaube ich."
+      ]
+    },
+    {
+      "id": "msg_0081_00008",
+      "de_DE": [
+        "Meine Pflanzen-Pokémon sind stark!\r",
+        "Du wirst nicht gewinnen...\n",
+        "Denn ich mache es dir nicht einfach!\r"
+      ]
+    },
+    {
+      "id": "msg_0081_00009",
+      "de_DE": [
+        "Ach, natürlich.\n",
+        "Der Hinweis zum nächsten Trainer...\r",
+        "In der Mitte der drei Bäume.\n",
+        "Das sollte reichen. Viel Glück."
+      ]
+    },
+    {
+      "id": "msg_0081_00010",
+      "de_DE": [
+        "Auch wenn du es versuchst, du kannst\n",
+        "den Geruch der Blumen nicht verbergen.\r"
+      ]
+    },
+    {
+      "id": "msg_0081_00011",
+      "de_DE": [
+        "Dein nächster Gegner wartet neben vier\n",
+        "Blumen auf dich."
+      ]
+    },
+    {
+      "id": "msg_0081_00012",
+      "de_DE": [
+        "Kicher! Du hast mich gefunden!\n",
+        "Natürlich werden wir jetzt kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0081_00013",
+      "de_DE": [
+        "Kicher! Nur noch die Leiterin ist übrig!\n",
+        "Geh schon. Nur keine Angst!"
+      ]
+    }
+  ]
+}

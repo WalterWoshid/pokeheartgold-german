@@ -1,0 +1,151 @@
+{
+  "key": 40580,
+  "messages": [
+    {
+      "id": "msg_0426_00000",
+      "de_DE": [
+        "Lucia: Hi, {STRVAR_1 3, 0}!\n",
+        "Wie kommst du mit deinem Pokédex voran?\r",
+        "Ich? Ach, irgendwas zwischen\n",
+        "fantastisch und, äh... hoffnungslos.\r",
+        "Aber um mich geht es gar nicht!\n",
+        "Ich habe hier etwas Schönes für dich.\r",
+        "{STRVAR_1 3, 0}, welche Hand soll es sein?"
+      ]
+    },
+    {
+      "id": "msg_0426_00001",
+      "de_DE": [
+        "Lucia: Verstehe...\n",
+        "Du willst den Kampffahnder.\r",
+        "Ich bin beeindruckt, {STRVAR_1 3, 0}, du\n",
+        "weißt eben, worauf es ankommt.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00002",
+      "de_DE": [
+        "Lucia: Mit diesem Kampffahnder kannst\n",
+        "du rückkampfwillige Trainer finden.\r",
+        "Oh, {STRVAR_1 3, 0}, hast du denn schon\n",
+        "einen Pokétch?\r",
+        "Jawohl, hast du.\n",
+        "Dann bekommst du noch das hier.\r",
+        "Die richtige Belohnung für deine harte\n",
+        "Arbeit, {STRVAR_1 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00003",
+      "de_DE": [
+        "Lucia: Du solltest das\n",
+        "{STRVAR_1 24, 1} oft berühren.\r",
+        "Du erfährst dadurch, ob ein Item auf\n",
+        "dem Boden liegt, das du nicht sehen\f",
+        "kannst.\r",
+        "Besonders in dunklen Höhlen ist das ein\n",
+        "echter Vorteil.\r",
+        "Wir sollten jetzt aber am Pokédex\n",
+        "weiterarbeiten.\r",
+        "Prof. Eibe zählt schließlich auf uns!\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00004",
+      "de_DE": [
+        "Lucius: Hey, {STRVAR_1 3, 0}!\n",
+        "Wie geht es deinem Pokédex?\r",
+        "Bei mir? Ach, alles bestens!\n",
+        "...Ja, ja. Schön wär’s...\r",
+        "Aber das ist jetzt nicht wichtig.\r",
+        "Ich habe mit neuen Werkzeugen\n",
+        "experimentiert.\r",
+        "{STRVAR_1 3, 0}, ich lasse dich an meinen\n",
+        "Erkenntnissen teilhaben.\r",
+        "Wähle eine Hand!"
+      ]
+    },
+    {
+      "id": "msg_0426_00005",
+      "de_DE": [
+        "Lucius: Jawohl.\n",
+        "Du willst den Kampffahnder.\r",
+        "Tja, {STRVAR_1 3, 0}, du weißt eben,\n",
+        "worauf es ankommt.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00006",
+      "de_DE": [
+        "Lucius: Mit diesem Kampffahnder kannst\n",
+        "du rückkampfwillige Trainer finden.\r",
+        "Oh, {STRVAR_1 3, 0}, hast du denn schon\n",
+        "einen Pokétch?\r",
+        "Jawohl, hast du.\n",
+        "Dann bekommst du noch das hier.\r",
+        "Die richtige Belohnung für deine harte\n",
+        "Arbeit, {STRVAR_1 3, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00007",
+      "de_DE": [
+        "Lucius: Das {STRVAR_1 24, 1}\n",
+        "ist... Ach, berühre es einfach.\r",
+        "Es zeigt dir ansonsten unsichtbare\n",
+        "Items auf dem Boden.\r",
+        "In dunklen Höhlen ist das\n",
+        "unglaublich praktisch.\r",
+        "Gut. Viel Glück noch mit deinem Pokédex.\n",
+        "Prof. Eibe zählt auf uns!\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00008",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0426_00009",
+      "de_DE": [
+        "Das Gefälle ist zu rutschig. Du brauchst\n",
+        "ein Fahrrad, um es zu bezwingen.\r",
+        "Du hast kein Fahrrad? In Ewigenau gibt\n",
+        "es ein Fahrradgeschäft."
+      ]
+    },
+    {
+      "id": "msg_0426_00010",
+      "de_DE": [
+        "Wenn du die Gänge wechselst, kannst\n",
+        "du den Hang hinaufdüsen."
+      ]
+    },
+    {
+      "id": "msg_0426_00011",
+      "de_DE": [
+        "Route 207\n",
+        "Kraterberg"
+      ]
+    },
+    {
+      "id": "msg_0426_00012",
+      "de_DE": [
+        "Route 207\n",
+        "Erzelingen"
+      ]
+    },
+    {
+      "id": "msg_0426_00013",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Wenn deine Pokémon an Schlaf oder\n",
+        "Paralyse leiden, kann es sein, dass sie\f",
+        "nicht agieren können.\r",
+        "Das kann in einem Kampf fatale Folgen\n",
+        "haben.\r",
+        "Widerfährt dies jedoch dem gegnerischen\n",
+        "Pokémon, ist das ein großer Vorteil!"
+      ]
+    }
+  ]
+}

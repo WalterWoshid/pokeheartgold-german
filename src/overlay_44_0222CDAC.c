@@ -1,3 +1,8 @@
+#ifdef GERMAN
+#define GERMAN_UI(de, en) (de)
+#else
+#define GERMAN_UI(de, en) (en)
+#endif
 #include "global.h"
 
 #include "msgdata/msg.naix"
@@ -63,7 +68,7 @@ static const WindowTemplate ov44_02235374 = {
     .width = 6,
     .height = 8,
     .palette = 14,
-    .baseTile = 81,
+    .baseTile = GERMAN_UI(65, 81),
 };
 
 static const WindowTemplate ov44_0223537C = {
@@ -73,7 +78,7 @@ static const WindowTemplate ov44_0223537C = {
     .width = 6,
     .height = 8,
     .palette = 14,
-    .baseTile = 81,
+    .baseTile = GERMAN_UI(65, 81),
 };
 
 static const WindowTemplate ov44_02235384 = {
@@ -93,7 +98,7 @@ static const WindowTemplate ov44_0223538C = {
     .width = 6,
     .height = 4,
     .palette = 13,
-    .baseTile = 81,
+    .baseTile = GERMAN_UI(65, 81),
 };
 
 static const TouchscreenHitbox ov44_02235394[3] = {
@@ -1970,7 +1975,7 @@ void ov44_0222C120(UnkStruct_ov44_022319EC *arg0) {
     } else {
         color = MAKE_TEXT_COLOR(3, 4, 0);
     }
-    AddTextPrinterParameterizedWithColor(&arg0->unk2E0, FONT_SYSTEM, strPlayerName, 32, 0, 255, color, NULL);
+    AddTextPrinterParameterizedWithColor(&arg0->unk2E0, FONT_SYSTEM, strPlayerName, GERMAN_UI(28, 32), 0, 255, color, NULL);
     String_Delete(strPlayerName);
     s32 temp_r0_2 = ov44_02229F00(arg0, &arg0->unk4->unk0);
     s32 temp_r6 = ov44_0223120C(temp_r0_2, &color);
@@ -1989,7 +1994,7 @@ void ov44_0222C120(UnkStruct_ov44_022319EC *arg0) {
     } else {
         ReadMsgDataIntoString(arg0->unk168, temp_r6, arg0->unk170);
     }
-    AddTextPrinterParameterizedWithColor(&arg0->unk2E0, FONT_SYSTEM, arg0->unk170, 102, 0, 255, color, NULL);
+    AddTextPrinterParameterizedWithColor(&arg0->unk2E0, FONT_SYSTEM, arg0->unk170, GERMAN_UI(88, 102), 0, 255, color, NULL);
     ov44_0222AC54(arg0->unk15C, &arg0->unkB0C, 1, 2, 1, temp_r0_2);
     s32 var_r0_2;
     if (arg0->unk4->unk0.unk21 != 0) {
@@ -3949,7 +3954,7 @@ void ov44_0222F66C(UnkStruct_ov44_022319EC *arg0, s32 arg1) {
         RemoveTextPrinter(arg0->unk180);
         arg0->unk180 = 8;
     }
-    AddWindowParameterized(arg0->unk15C, &arg0->unk300, 2, 4, 4, 23, 16, 12, 105);
+    AddWindowParameterized(arg0->unk15C, &arg0->unk300, 2, 4, 4, GERMAN_UI(24, 23), 16, 12, GERMAN_UI(89, 105));
     ReadMsgDataIntoString(arg0->unk16C, arg1, arg0->unk170);
     StringExpandPlaceholders(arg0->unk164, arg0->unk174, arg0->unk170);
     FillWindowPixelBuffer(&arg0->unk300, 15);

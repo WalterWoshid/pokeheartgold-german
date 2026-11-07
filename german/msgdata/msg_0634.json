@@ -1,0 +1,118 @@
+{
+  "key": 46199,
+  "messages": [
+    {
+      "id": "msg_0634_00000",
+      "de_DE": [
+        "DRAGONIR ist niedlich, aber ich\n",
+        "habe keines. \f",
+        "Hast du ein DRAGONIR♀?\r",
+        "Möchtest du es gegen mein\n",
+        "DODRI tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0634_00001",
+      "de_DE": [
+        "Danke!\n",
+        "Ich wollte immer schon ein DRAGONIR!"
+      ]
+    },
+    {
+      "id": "msg_0634_00002",
+      "de_DE": [
+        "Das ist kein DRAGONIR♀!\r",
+        "Komm wieder, wenn du tauschen\n",
+        "möchtest!"
+      ]
+    },
+    {
+      "id": "msg_0634_00003",
+      "de_DE": [
+        "Du möchtest nicht tauschen?\n",
+        "Schade..."
+      ]
+    },
+    {
+      "id": "msg_0634_00004",
+      "de_DE": [
+        "Wie geht es dem getauschten DODRI?\r",
+        "Dein DRAGONIR ist so niedlich!"
+      ]
+    },
+    {
+      "id": "msg_0634_00005",
+      "de_DE": [
+        "Oh?\n",
+        "Dein {STRVAR_1 0, 0, 0}...\r"
+      ]
+    },
+    {
+      "id": "msg_0634_00006",
+      "de_DE": [
+        "Es hat sich enorm angestrengt!\r",
+        "Gib ihm als Belohnung bitte dieses\n",
+        "Fleiß-Band.\r"
+      ]
+    },
+    {
+      "id": "msg_0634_00007",
+      "de_DE": "{STRVAR_1 3, 1, 0} erhält das Fleiß-Band.\r"
+    },
+    {
+      "id": "msg_0634_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 1, 0} steckt {STRVAR_1 0, 0, 0} das\n",
+        "Fleiß-Band an."
+      ]
+    },
+    {
+      "id": "msg_0634_00009",
+      "de_DE": [
+        "Du musst dich mehr anstrengen.\r",
+        "Dann gebe ich dir und deinem Pokémon\n",
+        "ein schönes Geschenk."
+      ]
+    },
+    {
+      "id": "msg_0634_00010",
+      "de_DE": [
+        "Das war gar nicht mal so schlecht!\n",
+        "Aber das lässt sich noch steigern!\r",
+        "Gebt euch noch etwas mehr Mühe!"
+      ]
+    },
+    {
+      "id": "msg_0634_00011",
+      "de_DE": [
+        "Das war schon recht ordentlich!\n",
+        "Aber es hat nicht ganz gereicht.\r",
+        "Gebt euch noch ein bisschen mehr Mühe!"
+      ]
+    },
+    {
+      "id": "msg_0634_00012",
+      "de_DE": [
+        "Eine reife Leistung!\n",
+        "Aber da ist noch etwas Luft nach oben!\r",
+        "Gebt euch noch ein klein wenig Mühe!"
+      ]
+    },
+    {
+      "id": "msg_0634_00013",
+      "de_DE": [
+        "Wirklich ausgezeichnet!!\n",
+        "Aber es hat ganz knapp nicht gereicht!\r",
+        "Gebt euch noch ein klitzekleines\n",
+        "bisschen mehr Mühe!"
+      ]
+    },
+    {
+      "id": "msg_0634_00014",
+      "de_DE": [
+        "Oh! Dein {STRVAR_1 0, 0, 0} sieht gut mit dem\n",
+        "Fleiß-Band aus!"
+      ]
+    }
+  ]
+}

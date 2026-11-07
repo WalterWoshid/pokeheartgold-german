@@ -1,0 +1,35 @@
+{
+  "key": 41067,
+  "messages": [
+    {
+      "id": "msg_0328_00000",
+      "garbage": 152
+    },
+    {
+      "id": "msg_0328_00001",
+      "garbage": 108
+    },
+    {
+      "id": "msg_0328_00002",
+      "garbage": 118
+    },
+    {
+      "id": "msg_0328_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0} rannte zu einem\n",
+        "Pokémon-Center und beschützte\n",
+        "die erschöpften und besiegten\n",
+        "Pokémon vor weiterem Schaden..."
+      ]
+    },
+    {
+      "id": "msg_0328_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0} rannte nach Hause\n",
+        "und beschützte das erschöpfte\n",
+        "und besiegte Pokémon vor\n",
+        "weiterem Schaden..."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "key": 46191,
+  "messages": [
+    {
+      "id": "msg_0548_00000",
+      "de_DE": [
+        "Hallo {STRVAR_1 3, 0, 0}! Lyra findest\n",
+        "du oben im ersten Stock!\r",
+        "Sie spielt wie immer mit ihrem Pokémon.\r",
+        "Und was ist mit dir? Wo hast du dein\n",
+        "Pokémon gelassen?\r",
+        "...Oh, ist das wahr?\r",
+        "Du hast noch gar kein eigenes\n",
+        "Pokémon, {STRVAR_1 3, 0, 0}?\r",
+        "Tut mir leid, dass ich gefragt habe.\n",
+        "Ich hoffe, ich habe dir damit nicht\f",
+        "die Laune verdorben..."
+      ]
+    },
+    {
+      "id": "msg_0548_00001",
+      "de_DE": [
+        "Hallo {STRVAR_1 3, 0, 0}! Klarin findest\n",
+        "du oben im ersten Stock!\r",
+        "Er spielt wie immer mit seinem Pokémon.\r",
+        "Und was ist mit dir? Wo hast du dein\n",
+        "Pokémon gelassen?\r",
+        "...Oh, ist das wahr?\r",
+        "Du hast noch gar kein eigenes\n",
+        "Pokémon, {STRVAR_1 3, 0, 0}?\r",
+        "Tut mir leid, dass ich gefragt habe.\n",
+        "Ich hoffe, ich habe dir damit nicht\f",
+        "die Laune verdorben..."
+      ]
+    },
+    {
+      "id": "msg_0548_00002",
+      "de_DE": [
+        "Oh, tut mir leid, {STRVAR_1 3, 0, 0}!\n",
+        "Lyra ist gerade nicht zu Hause!\r",
+        "Sie düst gerade irgendwo in der\n",
+        "Weltgeschichte umher, um dem\f",
+        "Professor etwas zur Hand zu gehen.\r",
+        "Manchmal habe ich das Gefühl, sie\n",
+        "hat mehr zu tun als wir Erwachsene!"
+      ]
+    },
+    {
+      "id": "msg_0548_00003",
+      "de_DE": [
+        "Oh, tut mir leid, {STRVAR_1 3, 0, 0}!\n",
+        "Klarin ist gerade nicht zu Hause!\r",
+        "Er düst gerade irgendwo in der\n",
+        "Weltgeschichte umher, um dem\f",
+        "Professor etwas zur Hand zu gehen.\r",
+        "Manchmal habe ich das Gefühl, er\n",
+        "hat mehr zu tun als wir Erwachsene!"
+      ]
+    },
+    {
+      "id": "msg_0548_00004",
+      "de_DE": [
+        "Ach, hallo {STRVAR_1 3, 0, 0}! Lyra findest\n",
+        "du oben im ersten Stock!\r",
+        "Sie spielt wie immer mit ihrem Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0548_00005",
+      "de_DE": [
+        "Ach, hallo {STRVAR_1 3, 0, 0}! Klarin findest\n",
+        "du oben im ersten Stock!\r",
+        "Er spielt wie immer mit seinem Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0548_00006",
+      "garbage": 262
+    },
+    {
+      "id": "msg_0548_00007",
+      "garbage": 264
+    },
+    {
+      "id": "msg_0548_00008",
+      "garbage": 107
+    },
+    {
+      "id": "msg_0548_00009",
+      "garbage": 107
+    },
+    {
+      "id": "msg_0548_00010",
+      "garbage": 176
+    },
+    {
+      "id": "msg_0548_00011",
+      "garbage": 107
+    },
+    {
+      "id": "msg_0548_00012",
+      "garbage": 108
+    },
+    {
+      "id": "msg_0548_00013",
+      "garbage": 100
+    },
+    {
+      "id": "msg_0548_00014",
+      "garbage": 101
+    },
+    {
+      "id": "msg_0548_00015",
+      "garbage": 100
+    },
+    {
+      "id": "msg_0548_00016",
+      "garbage": 101
+    },
+    {
+      "id": "msg_0548_00017",
+      "garbage": 128
+    },
+    {
+      "id": "msg_0548_00018",
+      "garbage": 80
+    },
+    {
+      "id": "msg_0548_00019",
+      "garbage": 24
+    }
+  ]
+}

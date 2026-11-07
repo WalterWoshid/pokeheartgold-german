@@ -1,0 +1,4217 @@
+{
+  "key": 24316,
+  "messages": [
+    {
+      "id": "msg_0221_00000",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0221_00001",
+      "de_DE": [
+        "Der beste Ball!\n",
+        "Damit fängst du garantiert\n",
+        "jedes wilde Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00002",
+      "de_DE": [
+        "Ein Ball mit hoher Erfolgsquote.\n",
+        "Dem Superball in allen\n",
+        "Punkten überlegen."
+      ]
+    },
+    {
+      "id": "msg_0221_00003",
+      "de_DE": [
+        "Ein Ball mit guter Erfolgsquote.\n",
+        "Dem Pokéball in allen\n",
+        "Punkten überlegen."
+      ]
+    },
+    {
+      "id": "msg_0221_00004",
+      "de_DE": [
+        "Damit fängst du wilde Pokémon.\n",
+        "Du wirfst ihn wie einen normalen Ball.\n",
+        "Das Design ähnelt dem einer Kapsel."
+      ]
+    },
+    {
+      "id": "msg_0221_00005",
+      "de_DE": [
+        "Ein Ball, der nur in der Safari-Zone\n",
+        "eingesetzt wird. Er besticht durch\n",
+        "sein Tarnfarbenmuster."
+      ]
+    },
+    {
+      "id": "msg_0221_00006",
+      "de_DE": [
+        "Ein Ball, der sich besonders gut eignet,\n",
+        "um Wasser- und Käfer-Pokémon\n",
+        "zu fangen."
+      ]
+    },
+    {
+      "id": "msg_0221_00007",
+      "de_DE": [
+        "Ein Ball, mit dem sich Pokémon,\n",
+        "die auf dem Meeresgrund leben,\n",
+        "besser fangen lassen."
+      ]
+    },
+    {
+      "id": "msg_0221_00008",
+      "de_DE": [
+        "Ein Ball, dessen Erfolgsquote\n",
+        "besonders bei schwächeren\n",
+        "Pokémon sehr hoch ist."
+      ]
+    },
+    {
+      "id": "msg_0221_00009",
+      "de_DE": [
+        "Ein Ball, der besonders dann sehr gut\n",
+        "ist, wenn man ein Pokémon fängt, dessen\n",
+        "Art bereits gefangen wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00010",
+      "de_DE": [
+        "Ein Ball, der mit zunehmender\n",
+        "Kampfdauer effektiver wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00011",
+      "de_DE": [
+        "Ein behaglicher Ball, der Pokémon\n",
+        "veranlasst, nach dem Fang schneller\n",
+        "freundlicher zu werden."
+      ]
+    },
+    {
+      "id": "msg_0221_00012",
+      "de_DE": [
+        "Ein eher seltener Ball, der als\n",
+        "Reminiszenz an irgendein\n",
+        "Ereignis hergestellt wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00013",
+      "de_DE": [
+        "Ein mysteriöser Ball,\n",
+        "geeignet für Einsätze in der\n",
+        "Nacht oder an dunklen Orten."
+      ]
+    },
+    {
+      "id": "msg_0221_00014",
+      "de_DE": [
+        "Ein wohltuender Ball. Er füllt alle KP\n",
+        "des gefangenen Pokémon auf und hebt\n",
+        "alle Statusprobleme auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00015",
+      "de_DE": [
+        "Ein ungewöhnlicher Ball, der\n",
+        "zu Beginn eines Kampfes am\n",
+        "wirkungsvollsten ist."
+      ]
+    },
+    {
+      "id": "msg_0221_00016",
+      "de_DE": [
+        "Ein seltener Ball, der als\n",
+        "Reminiszenz an irgendein\n",
+        "Ereignis hergestellt wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00017",
+      "de_DE": [
+        "Hilft bei Wunden.\n",
+        "Die KP eines Pokémon\n",
+        "werden um 20 Punkte aufgefüllt."
+      ]
+    },
+    {
+      "id": "msg_0221_00018",
+      "de_DE": [
+        "Ein Spray, das Vergiftungen\n",
+        "eines Pokémon heilt."
+      ]
+    },
+    {
+      "id": "msg_0221_00019",
+      "de_DE": [
+        "Ein Spray, das Verbrennungen\n",
+        "eines Pokémon heilt."
+      ]
+    },
+    {
+      "id": "msg_0221_00020",
+      "de_DE": [
+        "Ein Spray, das ein eingefrorenes\n",
+        "Pokémon auftaut."
+      ]
+    },
+    {
+      "id": "msg_0221_00021",
+      "de_DE": [
+        "Ein Spray, das ein schlafendes\n",
+        "Pokémon aufweckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00022",
+      "de_DE": [
+        "Ein Spray, das ein Pokémon\n",
+        "von Paralyse heilt."
+      ]
+    },
+    {
+      "id": "msg_0221_00023",
+      "de_DE": [
+        "Dieses Item stellt alle KP eines\n",
+        "Pokémon wieder her und behebt\n",
+        "alle Statusprobleme des Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00024",
+      "de_DE": [
+        "Hilft bei Wunden.\n",
+        "Füllt die KP eines Pokémon\n",
+        "vollständig wieder auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00025",
+      "de_DE": [
+        "Hilft bei Wunden.\n",
+        "Füllt die KP eines Pokémon\n",
+        "um 200 Punkte wieder auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00026",
+      "de_DE": [
+        "Hilft bei Wunden.\n",
+        "Es füllt die KP eines Pokémon\n",
+        "um 50 Punkte wieder auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00027",
+      "de_DE": [
+        "Ein Spray, das alle Statusprobleme\n",
+        "eines Pokémon aufhebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00028",
+      "de_DE": [
+        "Eine Medizin, die ein kampfunfähiges\n",
+        "Pokémon wiederbelebt. Die Hälfte der\n",
+        "maximalen KP werden wiederhergestellt."
+      ]
+    },
+    {
+      "id": "msg_0221_00029",
+      "de_DE": [
+        "Eine Medizin, die ein kampfunfähiges\n",
+        "Pokémon wiederbelebt. Die KP werden\n",
+        "vollständig wiederhergestellt."
+      ]
+    },
+    {
+      "id": "msg_0221_00030",
+      "de_DE": [
+        "Ein stilles Wasser mit hohem\n",
+        "Mineralienanteil, das die KP eines\n",
+        "Pokémon um 50 Punkte auffüllt."
+      ]
+    },
+    {
+      "id": "msg_0221_00031",
+      "de_DE": [
+        "Ein sprudelndes Mineralwasser,\n",
+        "das die KP eines Pokémon\n",
+        "um 60 Punkte auffüllt."
+      ]
+    },
+    {
+      "id": "msg_0221_00032",
+      "de_DE": [
+        "Ein süßes Getränk, das die KP eines\n",
+        "Pokémon um 80 Punkte auffüllt."
+      ]
+    },
+    {
+      "id": "msg_0221_00033",
+      "de_DE": [
+        "Eine äußerst nährstoffreiche Milch, die\n",
+        "die KP eines Pokémon um 100 Punkte\n",
+        "wieder auffüllt."
+      ]
+    },
+    {
+      "id": "msg_0221_00034",
+      "de_DE": [
+        "Ein bitteres, medizinisches Pulver,\n",
+        "das die KP eines Pokémon um\n",
+        "50 Punkte auffüllt."
+      ]
+    },
+    {
+      "id": "msg_0221_00035",
+      "de_DE": [
+        "Eine bittere Wurzel. Sie füllt die\n",
+        "KP eines Pokémon um 200 Punkte auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00036",
+      "de_DE": [
+        "Ein bitteres, medizinisches Pulver,\n",
+        "das alle Statusprobleme eines Pokémon \n",
+        "aufhebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00037",
+      "de_DE": [
+        "Ein bitteres, medizinisches Kraut, das\n",
+        "kampfunfähige Pokémon belebt und\n",
+        "die KP vollständig auffüllt."
+      ]
+    },
+    {
+      "id": "msg_0221_00038",
+      "de_DE": [
+        "Füllt die AP einer ausgewählten Attacke\n",
+        "eines Pokémon um 10 Punkte auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00039",
+      "de_DE": [
+        "Füllt die AP einer ausgewählten Attacke\n",
+        "eines Pokémon vollständig auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00040",
+      "de_DE": [
+        "Füllt die AP aller Attacken eines\n",
+        "Pokémon um 10 Punkte auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00041",
+      "de_DE": [
+        "Füllt alle AP aller Attacken eines\n",
+        "Pokémon vollständig auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00042",
+      "de_DE": [
+        "Eine Spezialität aus Bad Lavastadt,\n",
+        "die alle Statusprobleme eines\n",
+        "Pokémon heilt."
+      ]
+    },
+    {
+      "id": "msg_0221_00043",
+      "de_DE": [
+        "100 %iger Fruchtsaft, aus Beeren\n",
+        "gekeltert. Er stellt 20 KP eines\n",
+        "Pokémon wieder her."
+      ]
+    },
+    {
+      "id": "msg_0221_00044",
+      "de_DE": [
+        "Belebt und erfrischt alle besiegten\n",
+        "Pokémon und füllt deren KP\n",
+        "vollständig wieder auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00045",
+      "de_DE": [
+        "Ein gehaltvolles Getränk, das\n",
+        "die KP-Anzahl eines Pokémon\n",
+        "dauerhaft erhöht."
+      ]
+    },
+    {
+      "id": "msg_0221_00046",
+      "de_DE": [
+        "Ein gehaltvolles Getränk, das den\n",
+        "Angriffs-Wert eines Pokémon\n",
+        "dauerhaft hebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00047",
+      "de_DE": [
+        "Ein gehaltvolles Getränk, das den\n",
+        "Verteidigungs-Wert eines Pokémon\n",
+        "dauerhaft hebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00048",
+      "de_DE": [
+        "Ein gehaltvolles Getränk, das den\n",
+        "Initiative-Wert eines Pokémon\n",
+        "dauerhaft hebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00049",
+      "de_DE": [
+        "Ein gehaltvolles Getränk, das den\n",
+        "Spezial-Angriff eines Pokémon\n",
+        "dauerhaft hebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00050",
+      "de_DE": [
+        "Ein energiereiches Bonbon, das\n",
+        "den Level eines Pokémon dauerhaft\n",
+        "um eins anhebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00051",
+      "de_DE": [
+        "Hebt die maximale Anzahl der AP\n",
+        "einer Attacke eines Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00052",
+      "de_DE": [
+        "Ein gehaltvolles Getränk, das die\n",
+        "Spezial-Verteidigung eines Pokémon\n",
+        "dauerhaft hebt."
+      ]
+    },
+    {
+      "id": "msg_0221_00053",
+      "de_DE": [
+        "Maximiert die Anzahl der AP\n",
+        "einer Attacke eines Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00054",
+      "de_DE": [
+        "Eine unbekannte Spezialität.\n",
+        "Sie behebt alle Statusprobleme\n",
+        "eines Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00055",
+      "de_DE": [
+        "Eine mögliche Statuswertänderung\n",
+        "der Pokémon im Team wird für\n",
+        "5 Runden verhindert."
+      ]
+    },
+    {
+      "id": "msg_0221_00056",
+      "de_DE": [
+        "Hebt die Volltrefferquote des Pokémon\n",
+        "im Kampf. Die Wirkung wird mit\n",
+        "dem Tausch des Pokémon beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00057",
+      "de_DE": [
+        "Hebt den Angriffs-Wert eines Pokémon\n",
+        "im Kampf. Die Wirkung wird mit dem\n",
+        "Tausch des Pokémon beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00058",
+      "de_DE": [
+        "Hebt den Verteidigungs-Wert eines\n",
+        "Pokémon im Kampf. Die Wirkung wird\n",
+        "mit dem Tausch des Pokémon beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00059",
+      "de_DE": [
+        "Hebt den Initiative-Wert eines Pokémon\n",
+        "im Kampf. Die Wirkung wird mit dem\n",
+        "Tausch des Pokémon beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00060",
+      "de_DE": [
+        "Hebt die Genauigkeit eines Pokémon\n",
+        "im Kampf. Die Wirkung wird mit dem\n",
+        "Tausch des Pokémon beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00061",
+      "de_DE": [
+        "Hebt den Spezial-Angriff eines Pokémon\n",
+        "im Kampf. Die Wirkung wird mit dem\n",
+        "Tausch des Pokémon beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00062",
+      "de_DE": [
+        "Hebt die Spezial-Verteidigung eines\n",
+        "Pokémon im Kampf. Die Wirkung wird\n",
+        "mit dem Tausch des Pokémon beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00063",
+      "de_DE": [
+        "Eine hübsche Puppe. Sie ermöglicht\n",
+        "die Flucht im Kampf gegen wilde\n",
+        "Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00064",
+      "de_DE": [
+        "Ein tolles Item. Fliehe damit aus\n",
+        "jedem Kampf mit einem wilden\n",
+        "Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00065",
+      "de_DE": [
+        "Eine blaue, gläserne Flöte, die\n",
+        "ein schlafendes Pokémon weckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00066",
+      "de_DE": [
+        "Eine gelbe, gläserne Flöte, die\n",
+        "ein Pokémon von Verwirrung heilt."
+      ]
+    },
+    {
+      "id": "msg_0221_00067",
+      "de_DE": [
+        "Eine rote, gläserne Flöte, die\n",
+        "ein Pokémon von Anziehung heilt."
+      ]
+    },
+    {
+      "id": "msg_0221_00068",
+      "de_DE": [
+        "Eine schwarze, gläserne Flöte, die\n",
+        "wilde Pokémon vom Angriff\n",
+        "abhalten kann."
+      ]
+    },
+    {
+      "id": "msg_0221_00069",
+      "de_DE": [
+        "Eine durchsichtige, gläserne Flöte,\n",
+        "die wilde Pokémon anziehen kann."
+      ]
+    },
+    {
+      "id": "msg_0221_00070",
+      "de_DE": [
+        "Salz, das sich tief in der Küstenhöhle\n",
+        "befand. Es ist extrem salzig!"
+      ]
+    },
+    {
+      "id": "msg_0221_00071",
+      "de_DE": [
+        "Eine schöne Muschelschale, die\n",
+        "sich in der Küstenhöhle befand.\n",
+        "Sie ist blauweiß gestreift."
+      ]
+    },
+    {
+      "id": "msg_0221_00072",
+      "de_DE": [
+        "Eine rote Scherbe eines antiken\n",
+        "Werkzeugs, das vor langer Zeit\n",
+        "angefertigt wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00073",
+      "de_DE": [
+        "Eine blaue Scherbe eines antiken\n",
+        "Werkzeugs, das vor langer Zeit\n",
+        "angefertigt wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00074",
+      "de_DE": [
+        "Eine gelbe Scherbe eines antiken\n",
+        "Werkzeugs, das vor langer Zeit\n",
+        "angefertigt wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00075",
+      "de_DE": [
+        "Eine grüne Scherbe eines antiken\n",
+        "Werkzeugs, das vor langer Zeit\n",
+        "angefertigt wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00076",
+      "de_DE": [
+        "Hält 200 Schritte lang schwache,\n",
+        "wilde Pokémon ab."
+      ]
+    },
+    {
+      "id": "msg_0221_00077",
+      "de_DE": [
+        "Hält 250 Schritte lang schwache,\n",
+        "wilde Pokémon ab."
+      ]
+    },
+    {
+      "id": "msg_0221_00078",
+      "de_DE": [
+        "Ein langes, festes Seil, das die\n",
+        "sofortige Flucht aus Höhlen oder\n",
+        "Ähnlichem ermöglicht."
+      ]
+    },
+    {
+      "id": "msg_0221_00079",
+      "de_DE": [
+        "Hält 100 Schritte lang schwache,\n",
+        "wilde Pokémon ab."
+      ]
+    },
+    {
+      "id": "msg_0221_00080",
+      "de_DE": [
+        "Dieser spezielle Stein löst bei\n",
+        "bestimmten Pokémon die Entwicklung\n",
+        "aus. Er ist rot wie die Sonne."
+      ]
+    },
+    {
+      "id": "msg_0221_00081",
+      "de_DE": [
+        "Dieser spezielle Stein löst bei\n",
+        "bestimmten Pokémon die Entwicklung\n",
+        "aus. Er ist schwarz wie die Nacht."
+      ]
+    },
+    {
+      "id": "msg_0221_00082",
+      "de_DE": [
+        "Dieser spezielle Stein löst bei\n",
+        "bestimmten Pokémon die\n",
+        "Entwicklung aus. Er ist orange."
+      ]
+    },
+    {
+      "id": "msg_0221_00083",
+      "de_DE": [
+        "Dieser spezielle Stein löst bei\n",
+        "bestimmten Pokémon die Entwicklung\n",
+        "aus. Er hat ein Blitzmuster."
+      ]
+    },
+    {
+      "id": "msg_0221_00084",
+      "de_DE": [
+        "Dieser spezielle Stein löst bei\n",
+        "bestimmten Pokémon die\n",
+        "Entwicklung aus. Er ist hellblau."
+      ]
+    },
+    {
+      "id": "msg_0221_00085",
+      "de_DE": [
+        "Dieser spezielle Stein löst bei\n",
+        "bestimmten Pokémon die Entwicklung\n",
+        "aus. Er hat ein Blattmuster."
+      ]
+    },
+    {
+      "id": "msg_0221_00086",
+      "de_DE": [
+        "Ein kleiner und seltener Pilz.\n",
+        "Seine Fans sind ganz aus dem Häuschen,\n",
+        "wenn sie einen finden."
+      ]
+    },
+    {
+      "id": "msg_0221_00087",
+      "de_DE": [
+        "Ein großer und seltener Pilz. Liebhaber\n",
+        "dieses Pilzes freuen sich ein Loch in\n",
+        "den Bauch, wenn sie einen finden."
+      ]
+    },
+    {
+      "id": "msg_0221_00088",
+      "de_DE": [
+        "Eine relativ kleine Perle, die in\n",
+        "schönem Silber funkelt. Sie ist von\n",
+        "geringem Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00089",
+      "de_DE": [
+        "Eine relativ große Perle, die in\n",
+        "schönem Silber funkelt. Sie ist von\n",
+        "hohem Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00090",
+      "de_DE": [
+        "Schöner, roter Sand, der sich\n",
+        "seidenweich anfühlt. Er ist von\n",
+        "hohem Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00091",
+      "de_DE": [
+        "Teil eines hübschen Edelsteins, der in\n",
+        "rötlicher Farbe schimmert. Erzielt einen\n",
+        "hohen Preis, wenn man ihn verkauft."
+      ]
+    },
+    {
+      "id": "msg_0221_00092",
+      "de_DE": [
+        "Ein Nugget aus purem Gold, das\n",
+        "einen schimmernden Glanz besitzt. \n",
+        "Es ist von großem Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00093",
+      "de_DE": [
+        "Eine hübsche, herzförmige, sehr\n",
+        "seltene Schuppe. Sie erstrahlt in\n",
+        "den Farben des Regenbogens."
+      ]
+    },
+    {
+      "id": "msg_0221_00094",
+      "de_DE": [
+        "Der Duft dieses Honigs lockt\n",
+        "wilde Pokémon an. Verwende ihn in\n",
+        "hohem Gras oder an besonderen Bäumen."
+      ]
+    },
+    {
+      "id": "msg_0221_00095",
+      "de_DE": [
+        "Ein Dünger für weichen Boden.\n",
+        "Die Beeren wachsen schneller,\n",
+        "aber die Erde trocknet aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00096",
+      "de_DE": [
+        "Ein Dünger für weichen Boden.\n",
+        "Die Beeren wachsen langsamer,\n",
+        "aber die Erde bleibt feuchter."
+      ]
+    },
+    {
+      "id": "msg_0221_00097",
+      "de_DE": [
+        "Ein Dünger für weichen Boden.\n",
+        "Die Beeren halten länger, bevor\n",
+        "sie zu Boden fallen."
+      ]
+    },
+    {
+      "id": "msg_0221_00098",
+      "de_DE": [
+        "Ein Dünger für weichen Boden.\n",
+        "Erhöht die Rate neuer Pflanzen,\n",
+        "nachdem alte verwelkt sind."
+      ]
+    },
+    {
+      "id": "msg_0221_00099",
+      "de_DE": [
+        "Das Fossil eines uralten Pokémon,\n",
+        "das in der Tiefsee lebte. Es sieht\n",
+        "wie eine Pflanzenwurzel aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00100",
+      "de_DE": [
+        "Das Fossil eines uralten Pokémon,\n",
+        "das in der Tiefsee lebte. Es sieht\n",
+        "wie eine Klaue aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00101",
+      "de_DE": [
+        "Ein Fossil eines antiken Pokémon,\n",
+        "das am Meeresgrund lebte. Es sieht\n",
+        "wie ein Muschelstück aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00102",
+      "de_DE": [
+        "Ein Fossil eines antiken Pokémon,\n",
+        "das am Meeresgrund lebte. Es sieht\n",
+        "wie das Stück einer Muschel aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00103",
+      "de_DE": [
+        "Ein Stück Bernstein, in dem die Gene\n",
+        "eines antiken Pokémon enthalten\n",
+        "sind. Es ist durchsichtig!"
+      ]
+    },
+    {
+      "id": "msg_0221_00104",
+      "de_DE": [
+        "Ein Fossil eines antiken\n",
+        "Pokémon, das an Land lebte.\n",
+        "Es sieht wie ein Schlüsselbein aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00105",
+      "de_DE": [
+        "Ein Fossil eines antiken\n",
+        "Pokémon, das an Land lebte.\n",
+        "Es sieht wie ein Schädel aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00106",
+      "de_DE": [
+        "Dieser Knochen erfreut jeden\n",
+        "Pokémon-Archäologen. Er ist\n",
+        "von hohem Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00107",
+      "de_DE": [
+        "Dieser besondere, hell leuchtende\n",
+        "Stein hilft manchen Pokémon bei\n",
+        "ihrer Evolution."
+      ]
+    },
+    {
+      "id": "msg_0221_00108",
+      "de_DE": [
+        "Dieser besondere, düstere Stein\n",
+        "hilft manchen Pokémon bei\n",
+        "ihrer Evolution."
+      ]
+    },
+    {
+      "id": "msg_0221_00109",
+      "de_DE": [
+        "Dieser besondere, glitzernde Stein\n",
+        "hilft manchen Pokémon bei\n",
+        "ihrer Evolution."
+      ]
+    },
+    {
+      "id": "msg_0221_00110",
+      "de_DE": [
+        "Dieser besondere, eiförmige Stein\n",
+        "hilft manchen Pokémon bei\n",
+        "ihrer Evolution."
+      ]
+    },
+    {
+      "id": "msg_0221_00111",
+      "de_DE": [
+        "Ein wichtiges Item, mit dem\n",
+        "ein Steinturm repariert werden\n",
+        "kann. "
+      ]
+    },
+    {
+      "id": "msg_0221_00112",
+      "de_DE": [
+        "Ein glühender Orb. Verstärkt\n",
+        "Attacken vom Typ Drachen und\n",
+        "Geist, wenn GIRATINA ihn trägt."
+      ]
+    },
+    {
+      "id": "msg_0221_00113",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00114",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00115",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00116",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00117",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00118",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00119",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00120",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00121",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00122",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00123",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00124",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00125",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00126",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00127",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00128",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00129",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00130",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00131",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00132",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00133",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00134",
+      "de_DE": [
+        "-\n",
+        "-\n",
+        "-"
+      ]
+    },
+    {
+      "id": "msg_0221_00135",
+      "de_DE": [
+        "Ein hell leuchtender Orb.\n",
+        "Verstärkt Attacken vom Typ Drachen\n",
+        "und Stahl, wenn DIALGA ihn trägt."
+      ]
+    },
+    {
+      "id": "msg_0221_00136",
+      "de_DE": [
+        "Ein hell leuchtender Orb.\n",
+        "Verstärkt Attacken vom Typ Drachen\n",
+        "und Wasser, wenn PALKIA ihn trägt."
+      ]
+    },
+    {
+      "id": "msg_0221_00137",
+      "de_DE": [
+        "Das Briefpapier hat eine\n",
+        "grüne Wiese als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00138",
+      "de_DE": [
+        "Das Briefpapier hat heiße\n",
+        "rote Flammen als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00139",
+      "de_DE": [
+        "Das Briefpapier hat eine\n",
+        "Unterwasserwelt als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00140",
+      "de_DE": [
+        "Das Briefpapier hat hübsche\n",
+        "Blumen als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00141",
+      "de_DE": [
+        "Das Briefpapier hat eine\n",
+        "dunkle Kohlemine als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00142",
+      "de_DE": [
+        "Das Briefpapier hat ein\n",
+        "Metallmuster als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00143",
+      "de_DE": [
+        "Das Briefpapier hat riesige\n",
+        "Herzen als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00144",
+      "de_DE": [
+        "Das Briefpapier hat eine\n",
+        "Eislandschaft als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00145",
+      "de_DE": [
+        "Das Briefpapier hat den\n",
+        "weiten Weltraum als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00146",
+      "de_DE": [
+        "Das Briefpapier hat bunte\n",
+        "Streifen als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00147",
+      "de_DE": [
+        "Das Briefpapier erstrahlt in\n",
+        "den Farben des Regenbogens.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00148",
+      "de_DE": [
+        "Das Briefpapier hat massive\n",
+        "Ziegelsteine als Hintergrund.\n",
+        "Gib es einem Pokémon mit."
+      ]
+    },
+    {
+      "id": "msg_0221_00149",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen,\n",
+        "heilt sie es von Paralyse."
+      ]
+    },
+    {
+      "id": "msg_0221_00150",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen,\n",
+        "erwacht es dadurch aus dem Schlaf."
+      ]
+    },
+    {
+      "id": "msg_0221_00151",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen,\n",
+        "heilt sie es von Vergiftung."
+      ]
+    },
+    {
+      "id": "msg_0221_00152",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen,\n",
+        "heilt sie es von Verbrennung."
+      ]
+    },
+    {
+      "id": "msg_0221_00153",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen,\n",
+        "heilt sie es von Frost."
+      ]
+    },
+    {
+      "id": "msg_0221_00154",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen, füllt sie die\n",
+        "AP einer Attacke um 10 Punkte auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00155",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen, füllt sie\n",
+        "seine KP um 10 Punkte auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00156",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen,\n",
+        "heilt sie es von Verwirrung."
+      ]
+    },
+    {
+      "id": "msg_0221_00157",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen,\n",
+        "hebt sie seine Statusprobleme auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00158",
+      "de_DE": [
+        "Gibst du die Beere einem Pokémon\n",
+        "zu essen oder zum Tragen, füllt\n",
+        "es seine KP ein wenig auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00159",
+      "de_DE": [
+        "Als Item (Tragen) füllt die Beere die KP\n",
+        "eines Pokémon auf, doch ihr scharfes\n",
+        "Aroma verwirrt jene, die es nicht mögen."
+      ]
+    },
+    {
+      "id": "msg_0221_00160",
+      "de_DE": [
+        "Als Item (Tragen) füllt die Beere die KP\n",
+        "eines Pokémon auf, doch ihr trockenes\n",
+        "Aroma verwirrt jene, die es nicht mögen."
+      ]
+    },
+    {
+      "id": "msg_0221_00161",
+      "de_DE": [
+        "Als Item (Tragen) füllt die Beere die KP\n",
+        "eines Pokémon auf, doch ihr süßes\n",
+        "Aroma verwirrt jene, die es nicht mögen."
+      ]
+    },
+    {
+      "id": "msg_0221_00162",
+      "de_DE": [
+        "Als Item (Tragen) füllt die Beere die KP\n",
+        "eines Pokémon auf, doch ihr bitteres\n",
+        "Aroma verwirrt jene, die es nicht mögen."
+      ]
+    },
+    {
+      "id": "msg_0221_00163",
+      "de_DE": [
+        "Als Item (Tragen) füllt die Beere die KP\n",
+        "eines Pokémon auf, doch ihr saures\n",
+        "Aroma verwirrt jene, die es nicht mögen."
+      ]
+    },
+    {
+      "id": "msg_0221_00164",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00165",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00166",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00167",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00168",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00169",
+      "de_DE": [
+        "Isst ein Pokémon diese Beere,\n",
+        "stärkt dies eure Freundschaft,\n",
+        "verringert aber auch seine Basis-KP."
+      ]
+    },
+    {
+      "id": "msg_0221_00170",
+      "de_DE": [
+        "Isst ein Pokémon diese Beere,\n",
+        "stärkt dies eure Freundschaft,\n",
+        "verringert aber seinen Angriffs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00171",
+      "de_DE": [
+        "Isst ein Pokémon diese Beere,\n",
+        "stärkt dies eure Freundschaft,\n",
+        "verringert aber seinen Vert.-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00172",
+      "de_DE": [
+        "Isst ein Pokémon diese Beere,\n",
+        "stärkt dies eure Freundschaft, ver-\n",
+        "ringert aber seinen Spez.-Angr.-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00173",
+      "de_DE": [
+        "Isst ein Pokémon diese Beere,\n",
+        "stärkt dies eure Freundschaft, ver-\n",
+        "ringert aber seinen Spez.-Vert.-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00174",
+      "de_DE": [
+        "Isst ein Pokémon diese Beere,\n",
+        "stärkt dies eure Freundschaft, ver-\n",
+        "ringert aber seinen Initiative-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00175",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00176",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00177",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00178",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00179",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00180",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00181",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00182",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00183",
+      "de_DE": [
+        "In der Sinnoh-Region sind diese\n",
+        "Beeren als Zutat für Snacks bekannt,\n",
+        "die man Knursp nennt."
+      ]
+    },
+    {
+      "id": "msg_0221_00184",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Feuer."
+      ]
+    },
+    {
+      "id": "msg_0221_00185",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Wasser."
+      ]
+    },
+    {
+      "id": "msg_0221_00186",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Elektro."
+      ]
+    },
+    {
+      "id": "msg_0221_00187",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Pflanze."
+      ]
+    },
+    {
+      "id": "msg_0221_00188",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Eis."
+      ]
+    },
+    {
+      "id": "msg_0221_00189",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Kampf."
+      ]
+    },
+    {
+      "id": "msg_0221_00190",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Feuer."
+      ]
+    },
+    {
+      "id": "msg_0221_00191",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Boden."
+      ]
+    },
+    {
+      "id": "msg_0221_00192",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Flug."
+      ]
+    },
+    {
+      "id": "msg_0221_00193",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Psycho."
+      ]
+    },
+    {
+      "id": "msg_0221_00194",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Käfer."
+      ]
+    },
+    {
+      "id": "msg_0221_00195",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Gestein."
+      ]
+    },
+    {
+      "id": "msg_0221_00196",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Geist."
+      ]
+    },
+    {
+      "id": "msg_0221_00197",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Drachen."
+      ]
+    },
+    {
+      "id": "msg_0221_00198",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Unlicht."
+      ]
+    },
+    {
+      "id": "msg_0221_00199",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Stahl."
+      ]
+    },
+    {
+      "id": "msg_0221_00200",
+      "de_DE": [
+        "Als gehaltenes Item schwächt diese\n",
+        "Beere besonders effektive gegnerische\n",
+        "Attacken vom Typ Normal."
+      ]
+    },
+    {
+      "id": "msg_0221_00201",
+      "de_DE": [
+        "Als gehaltenes Item erhöht diese Beere\n",
+        "den Angriffs-Wert eines Pokémon, sobald\n",
+        "es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00202",
+      "de_DE": [
+        "Als gehaltenes Item erhöht diese Beere\n",
+        "den Verteidigungs-Wert eines Pokémon,\n",
+        "sobald es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00203",
+      "de_DE": [
+        "Als gehaltenes Item erhöht diese Beere\n",
+        "den Initiative-Wert eines Pokémon,\n",
+        "sobald es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00204",
+      "de_DE": [
+        "Als gehaltenes Item erhöht diese Beere\n",
+        "den Spezial-Angriff eines Pokémon,\n",
+        "sobald es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00205",
+      "de_DE": [
+        "Als gehaltenes Item erhöht diese Beere\n",
+        "die Spezial-Verteidigung eines Pokémon,\n",
+        "sobald es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00206",
+      "de_DE": [
+        "Als gehaltenes Item erhöht diese Beere\n",
+        "die Volltrefferquote eines Pokémon,\n",
+        "sobald es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00207",
+      "de_DE": [
+        "Als gehaltenes Item erhöht diese Beere\n",
+        "einen Statuswert des Pokémon stark,\n",
+        "sobald es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00208",
+      "de_DE": [
+        "Als gehaltenes Item füllt die Beere die\n",
+        "KP eines Pokémon auf, wenn es von sehr\n",
+        "effektiven Attacken getroffen wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00209",
+      "de_DE": [
+        "Als gehaltenes Item erhöht die Beere\n",
+        "die Genauigkeit eines Pokémon, sobald\n",
+        "es in einer Notlage steckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00210",
+      "de_DE": [
+        "Als gehaltenes Item ermöglicht\n",
+        "die Beere dem Träger in einer\n",
+        "Notlage den Erstschlag."
+      ]
+    },
+    {
+      "id": "msg_0221_00211",
+      "de_DE": [
+        "Als gehaltenes Item bewirkt die Beere\n",
+        "beim Gegner Schaden, wenn er den Trä-\n",
+        "ger mit einer physischen Attacke trifft."
+      ]
+    },
+    {
+      "id": "msg_0221_00212",
+      "de_DE": [
+        "Als gehaltenes Item bewirkt die Beere\n",
+        "beim Gegner Schaden, wenn er den\n",
+        "Träger mit einer Spezial-Attacke trifft."
+      ]
+    },
+    {
+      "id": "msg_0221_00213",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "senkt die Genauigkeit des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0221_00214",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum Tragen\n",
+        "gegeben werden kann. Es hebt jede\n",
+        "negative Statuswertveränderung auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00215",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann.\n",
+        "Fördert Wachstum, senkt Initiative."
+      ]
+    },
+    {
+      "id": "msg_0221_00216",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum Tragen\n",
+        "gegeben werden kann. Es teilt die\n",
+        "Erfahrungs-Punkte aus einem Kampf auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00217",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "hebt die Erstschlagquote."
+      ]
+    },
+    {
+      "id": "msg_0221_00218",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "besänftigt und fördert Sympathie."
+      ]
+    },
+    {
+      "id": "msg_0221_00219",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "erlöst Pokémon von Anziehung."
+      ]
+    },
+    {
+      "id": "msg_0221_00220",
+      "de_DE": [
+        "Ein Item, das ein Pokémon tragen\n",
+        "kann. Es stärkt den Angriffs-Wert. \n",
+        "Aber nur eine Attacke ist einsetzbar."
+      ]
+    },
+    {
+      "id": "msg_0221_00221",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "kann Gegner zurückweichen lassen."
+      ]
+    },
+    {
+      "id": "msg_0221_00222",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "verbessert Attacken vom Typ Käfer."
+      ]
+    },
+    {
+      "id": "msg_0221_00223",
+      "de_DE": [
+        "Ein Item, das ein Pokémon trägt und\n",
+        "das doppeltes Preisgeld bringt, wenn\n",
+        "der Träger am Kampf teilnimmt."
+      ]
+    },
+    {
+      "id": "msg_0221_00224",
+      "de_DE": [
+        "Ein Item zum Tragen. Reduziert\n",
+        "Begegnungen mit wilden Pokémon, wenn\n",
+        "der Träger an erster Stelle steht."
+      ]
+    },
+    {
+      "id": "msg_0221_00225",
+      "de_DE": [
+        "Ein Item, das von LATIOS oder LATIAS\n",
+        "getragen werden kann. Es hebt Spezial-\n",
+        "Angriff und Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0221_00226",
+      "de_DE": [
+        "Ein Item, das von PERLU getragen\n",
+        "werden kann. Es schimmert silbern\n",
+        "und hebt den Spezial-Angriff."
+      ]
+    },
+    {
+      "id": "msg_0221_00227",
+      "de_DE": [
+        "Ein Item, das von PERLU getragen\n",
+        "werden kann. Es schimmert pink\n",
+        "und hebt die Spezial-Verteidigung."
+      ]
+    },
+    {
+      "id": "msg_0221_00228",
+      "de_DE": [
+        "Ein Pokémon kann dieses Item tragen.\n",
+        "Es erhöht die Chance, aus einem Kampf\n",
+        "mit einem wilden Pokémon zu fliehen."
+      ]
+    },
+    {
+      "id": "msg_0221_00229",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "bewirkt einen Entwicklungsstopp."
+      ]
+    },
+    {
+      "id": "msg_0221_00230",
+      "de_DE": [
+        "Ein Item (Tragen), das eine\n",
+        "Kampfunfähigkeit verhindern kann,\n",
+        "da dem Anwender 1 KP bleibt."
+      ]
+    },
+    {
+      "id": "msg_0221_00231",
+      "de_DE": [
+        "Ein Item (Tragen), das mit Glück\n",
+        "gefüllt ist und für zusätzliche\n",
+        "E.-Punkte im Kampf sorgt."
+      ]
+    },
+    {
+      "id": "msg_0221_00232",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "erhöht die Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0221_00233",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "verstärkt Attacken vom Typ Stahl."
+      ]
+    },
+    {
+      "id": "msg_0221_00234",
+      "de_DE": [
+        "Ein Item, das einem Pokémon zum\n",
+        "Tragen gegeben werden kann. Es\n",
+        "füllt im Kampf stetig KP auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00235",
+      "de_DE": [
+        "Eine dicke und starke Haut.\n",
+        "Drachen-Pokémon tragen\n",
+        "dieses Item gerne bei sich."
+      ]
+    },
+    {
+      "id": "msg_0221_00236",
+      "de_DE": [
+        "Ein Item, das von PIKACHU\n",
+        "getragen werden kann. Es erhöht\n",
+        "den Angriffs-Wert und Spezial-Angriff."
+      ]
+    },
+    {
+      "id": "msg_0221_00237",
+      "de_DE": [
+        "Ein Item zum Tragen. Samtiger\n",
+        "Sand, der Attacken vom Typ\n",
+        "Boden verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00238",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein unzer-\n",
+        "brechlicher Stein, der Attacken\n",
+        "vom Typ Gestein verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00239",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein Samen\n",
+        "voller Lebenskraft, der Attacken\n",
+        "vom Typ Pflanze verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00240",
+      "de_DE": [
+        "Ein Item zum Tragen. Eine\n",
+        "dunkle Brille, die Attacken\n",
+        "vom Typ Unlicht verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00241",
+      "de_DE": [
+        "Ein Item zum Tragen. Der Gürtel\n",
+        "verstärkt die Entschlossenheit\n",
+        "und Attacken vom Typ Kampf."
+      ]
+    },
+    {
+      "id": "msg_0221_00242",
+      "de_DE": [
+        "Ein Item zum Tragen, dessen\n",
+        "magnetische Kraft Attacken\n",
+        "vom Typ Elektro verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00243",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein tränen-\n",
+        "förmiger Edelstein, der Attacken\n",
+        "vom Typ Wasser verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00244",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein langer,\n",
+        "scharfer Schnabel verstärkt\n",
+        "Attacken vom Typ Flug."
+      ]
+    },
+    {
+      "id": "msg_0221_00245",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein schmaler und\n",
+        "giftiger Widerhaken, der Attacken vom\n",
+        "Typ Gift verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00246",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein Stück Eis,\n",
+        "das Hitze fernhält und Attacken\n",
+        "vom Typ Eis verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00247",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein fieser,\n",
+        "unheimlicher Sticker, der Attacken\n",
+        "vom Typ Geist verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00248",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein Löffel voll mit\n",
+        "telekinetischer Energie, der Attacken\n",
+        "vom Typ Psycho verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00249",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein Heizmittel,\n",
+        "das Attacken vom Typ Feuer verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00250",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein harter und\n",
+        "scharfer Reißzahn, der Attacken vom\n",
+        "Typ Drachen verstärkt. "
+      ]
+    },
+    {
+      "id": "msg_0221_00251",
+      "de_DE": [
+        "Ein Item zum Tragen. Ein kostbarer\n",
+        "Schal, der Attacken vom Typ Normal\n",
+        "verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00252",
+      "de_DE": [
+        "Ein durchsichtiges Gerät. Es\n",
+        "enthält jede Menge Daten der\n",
+        "Silph Co."
+      ]
+    },
+    {
+      "id": "msg_0221_00253",
+      "de_DE": [
+        "Ein Item zum Tragen. Es stellt einige\n",
+        "KP des Trägers immer dann wieder her,\n",
+        "wenn dieser dem Gegner Schaden zufügt."
+      ]
+    },
+    {
+      "id": "msg_0221_00254",
+      "de_DE": [
+        "Ein Item zum Tragen. Sein\n",
+        "ausgefallenes Aroma verstärkt\n",
+        "Attacken vom Typ Wasser."
+      ]
+    },
+    {
+      "id": "msg_0221_00255",
+      "de_DE": [
+        "Ein Item zum Tragen. Das\n",
+        "komplizierte Aroma senkt die\n",
+        "Genauigkeit des Gegners."
+      ]
+    },
+    {
+      "id": "msg_0221_00256",
+      "de_DE": [
+        "Ein Item, das von CHANEIRA getragen\n",
+        "werden kann. Diese Handschuhe erhöhen\n",
+        "die Volltrefferquote von CHANEIRA."
+      ]
+    },
+    {
+      "id": "msg_0221_00257",
+      "de_DE": [
+        "Ein Item, das von DITTO getragen\n",
+        "werden kann. Es erhöht seinen\n",
+        "Verteidigungs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00258",
+      "de_DE": [
+        "Ein harter Knochen, der den Angriffs-\n",
+        "Wert von TRAGOSSO oder KNOGGA\n",
+        "erhöht, wenn sie ihn tragen."
+      ]
+    },
+    {
+      "id": "msg_0221_00259",
+      "de_DE": [
+        "Ein Item, das von PORENTA getragen\n",
+        "werden kann. Diese lange Lauchstange\n",
+        "erhöht die Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0221_00260",
+      "de_DE": [
+        "Ein Item zum Tragen. In Sinnoh\n",
+        "erhöhen Trainer damit die “Coolness”\n",
+        "ihres Pokémon in einem Wettbewerb."
+      ]
+    },
+    {
+      "id": "msg_0221_00261",
+      "de_DE": [
+        "Ein Item zum Tragen. In Sinnoh\n",
+        "erhöhen Trainer damit die “Schönheit”\n",
+        "ihres Pokémon in einem Wettbewerb."
+      ]
+    },
+    {
+      "id": "msg_0221_00262",
+      "de_DE": [
+        "Ein Item zum Tragen. In Sinnoh\n",
+        "erhöhen Trainer damit die “Anmut”\n",
+        "ihres Pokémon in einem Wettbewerb."
+      ]
+    },
+    {
+      "id": "msg_0221_00263",
+      "de_DE": [
+        "Ein Item zum Tragen. In Sinnoh\n",
+        "erhöhen Trainer damit die “Klugheit”\n",
+        "ihres Pokémon in einem Wettbewerb."
+      ]
+    },
+    {
+      "id": "msg_0221_00264",
+      "de_DE": [
+        "Ein Item zum Tragen. In Sinnoh\n",
+        "erhöhen Trainer damit die “Stärke”\n",
+        "ihres Pokémon in einem Wettbewerb."
+      ]
+    },
+    {
+      "id": "msg_0221_00265",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Dieses Vergrößerungsglas\n",
+        "erhöht die Genauigkeit."
+      ]
+    },
+    {
+      "id": "msg_0221_00266",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Dieses Stirnband verstärkt\n",
+        "physische Attacken."
+      ]
+    },
+    {
+      "id": "msg_0221_00267",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Diese dicke Brille verstärkt auf\n",
+        "Spezial-Angriff basierende Attacken."
+      ]
+    },
+    {
+      "id": "msg_0221_00268",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Dieser alte Gürtel verstärkt\n",
+        "sehr effektive Attacken."
+      ]
+    },
+    {
+      "id": "msg_0221_00269",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verlängert die Dauer von\n",
+        "Lichtschild, Reflektor etc."
+      ]
+    },
+    {
+      "id": "msg_0221_00270",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verstärkt Attacken, aber jede\n",
+        "Attacke kostet den Träger KP."
+      ]
+    },
+    {
+      "id": "msg_0221_00271",
+      "de_DE": [
+        "Ein Item (Tragen), das dem Träger den\n",
+        "sofortigen Einsatz einer Attacke, die\n",
+        "sonst aufgeladen werden muss, erlaubt."
+      ]
+    },
+    {
+      "id": "msg_0221_00272",
+      "de_DE": [
+        "Ein Item zum Tragen. Dieser\n",
+        "bizarre Orb vergiftet seinen\n",
+        "Träger im Kampf schwer."
+      ]
+    },
+    {
+      "id": "msg_0221_00273",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Dieser bizarre Orb fügt seinem\n",
+        "Träger Verbrennungen zu."
+      ]
+    },
+    {
+      "id": "msg_0221_00274",
+      "de_DE": [
+        "Ein Item, das DITTO zum Tragen gegeben\n",
+        "werden kann. Fein und doch hart,\n",
+        "erhöht es den Initiative-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00275",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Bei vollen KP reduziert eine\n",
+        "K.O.-Attacke die KP nur auf 1."
+      ]
+    },
+    {
+      "id": "msg_0221_00276",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Agiert der Gegner zuerst, erhöht\n",
+        "sich die Genauigkeit des Trägers."
+      ]
+    },
+    {
+      "id": "msg_0221_00277",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verstärkt eine Attacke, je öfter sie\n",
+        "ununterbrochen ausgeführt wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00278",
+      "de_DE": [
+        "Ein Item zum Tragen, das Flug-Pokémon\n",
+        "anfällig für Attacken vom Typ Boden\n",
+        "macht. Senkt den Initiative-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00279",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Es ist immens schwer und senkt\n",
+        "die Geschwindigkeit des Trägers."
+      ]
+    },
+    {
+      "id": "msg_0221_00280",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Wird der Träger vernarrt, gilt\n",
+        "dies auch für den Gegner."
+      ]
+    },
+    {
+      "id": "msg_0221_00281",
+      "de_DE": [
+        "Ein Item zum Tragen, das einem\n",
+        "Gift-Pokémon KP zurückgibt, anderen\n",
+        "Pokémon aber Schaden zufügt."
+      ]
+    },
+    {
+      "id": "msg_0221_00282",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verlängert die Dauer von Hagelsturm."
+      ]
+    },
+    {
+      "id": "msg_0221_00283",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verlängert die Dauer von Sandsturm."
+      ]
+    },
+    {
+      "id": "msg_0221_00284",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verlängert die Dauer von Sonnentag."
+      ]
+    },
+    {
+      "id": "msg_0221_00285",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verlängert die Dauer von Regentanz."
+      ]
+    },
+    {
+      "id": "msg_0221_00286",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verlängert die Dauer von\n",
+        "Klammergriff, Wickel etc."
+      ]
+    },
+    {
+      "id": "msg_0221_00287",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Der Schal erhöht den Initiative-Wert,\n",
+        "erlaubt aber nur eine Attackenart."
+      ]
+    },
+    {
+      "id": "msg_0221_00288",
+      "de_DE": [
+        "Dieses Item (Tragen) schadet dem\n",
+        "Träger in jeder Runde und eventuell dem\n",
+        "Gegner, wenn der den Träger berührt."
+      ]
+    },
+    {
+      "id": "msg_0221_00289",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Erhöht bei Levelaufstieg den Angriffs-\n",
+        "Wert, senkt aber die Initiative."
+      ]
+    },
+    {
+      "id": "msg_0221_00290",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Erhöht bei Levelaufstieg den Verteidi-\n",
+        "gungs-Wert, senkt aber die Initiative."
+      ]
+    },
+    {
+      "id": "msg_0221_00291",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Erhöht bei Levelaufstieg den Spezial-\n",
+        "Angriff, senkt aber die Initiative."
+      ]
+    },
+    {
+      "id": "msg_0221_00292",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Erhöht bei Levelaufstieg die Spezial-\n",
+        "Verteidigung, senkt aber die Initiative."
+      ]
+    },
+    {
+      "id": "msg_0221_00293",
+      "de_DE": [
+        "Ein Item zum Tragen. Erhöht bei\n",
+        "Levelaufstieg den Initiative-Wert,\n",
+        "senkt aber die Initiative allgemein."
+      ]
+    },
+    {
+      "id": "msg_0221_00294",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Erhöht bei Levelaufstieg die maximalen\n",
+        "KP, senkt aber die Initiative."
+      ]
+    },
+    {
+      "id": "msg_0221_00295",
+      "de_DE": [
+        "Ein Item zum Tragen. Dieser harte\n",
+        "Panzer ermöglicht den Austausch des\n",
+        "Trägers gegen ein wartendes Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00296",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verstärkt KP-stehlende Attacken."
+      ]
+    },
+    {
+      "id": "msg_0221_00297",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Die Brille erhöht den Spezial-Angriff,\n",
+        "erlaubt aber nur eine Attackenart."
+      ]
+    },
+    {
+      "id": "msg_0221_00298",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Feuer."
+      ]
+    },
+    {
+      "id": "msg_0221_00299",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Wasser."
+      ]
+    },
+    {
+      "id": "msg_0221_00300",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Elektro."
+      ]
+    },
+    {
+      "id": "msg_0221_00301",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Pflanze."
+      ]
+    },
+    {
+      "id": "msg_0221_00302",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Eis."
+      ]
+    },
+    {
+      "id": "msg_0221_00303",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Kampf."
+      ]
+    },
+    {
+      "id": "msg_0221_00304",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Gift."
+      ]
+    },
+    {
+      "id": "msg_0221_00305",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Boden."
+      ]
+    },
+    {
+      "id": "msg_0221_00306",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Flug."
+      ]
+    },
+    {
+      "id": "msg_0221_00307",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Psycho."
+      ]
+    },
+    {
+      "id": "msg_0221_00308",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Käfer."
+      ]
+    },
+    {
+      "id": "msg_0221_00309",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Gestein."
+      ]
+    },
+    {
+      "id": "msg_0221_00310",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Geist."
+      ]
+    },
+    {
+      "id": "msg_0221_00311",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Drachen."
+      ]
+    },
+    {
+      "id": "msg_0221_00312",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Unlicht."
+      ]
+    },
+    {
+      "id": "msg_0221_00313",
+      "de_DE": [
+        "Ein Item zum Tragen. Diese Steintafel\n",
+        "verstärkt Attacken vom Typ Stahl."
+      ]
+    },
+    {
+      "id": "msg_0221_00314",
+      "de_DE": [
+        "Ein Item zum Tragen. Dieses exotische\n",
+        "Duftkraut verstärkt Attacken vom\n",
+        "Typ Psycho."
+      ]
+    },
+    {
+      "id": "msg_0221_00315",
+      "de_DE": [
+        "Ein Item zum Tragen. Dieses exotische\n",
+        "Duftkraut verstärkt Attacken vom\n",
+        "Typ Gestein."
+      ]
+    },
+    {
+      "id": "msg_0221_00316",
+      "de_DE": [
+        "Ein Item zum Tragen. Dieses exotische\n",
+        "Duftkraut macht den Träger benommen\n",
+        "und langsam."
+      ]
+    },
+    {
+      "id": "msg_0221_00317",
+      "de_DE": [
+        "Ein Item zum Tragen. Dieses exotische\n",
+        "Duftkraut verstärkt Attacken vom\n",
+        "Typ Wasser."
+      ]
+    },
+    {
+      "id": "msg_0221_00318",
+      "de_DE": [
+        "Ein Item zum Tragen. Dieses exotische\n",
+        "Duftkraut verstärkt Attacken vom\n",
+        "Typ Pflanze."
+      ]
+    },
+    {
+      "id": "msg_0221_00319",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Es bringt doppeltes Preisgeld, wenn\n",
+        "der Träger am Kampf teilnimmt."
+      ]
+    },
+    {
+      "id": "msg_0221_00320",
+      "de_DE": [
+        "Ein Item zum Tragen. Reduziert\n",
+        "Begegnungen mit wilden Pokémon, wenn\n",
+        "der Träger an erster Stelle steht."
+      ]
+    },
+    {
+      "id": "msg_0221_00321",
+      "de_DE": [
+        "Eine Art Schutzvorrichtung. Steif\n",
+        "und schwer. Das Lieblingsstück\n",
+        "eines bestimmten Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00322",
+      "de_DE": [
+        "Eine Schachtel voller elektrischer\n",
+        "Energie. Das Lieblingsstück\n",
+        "eines bestimmten Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00323",
+      "de_DE": [
+        "Eine Schachtel voller Magmaenergie.\n",
+        "Das Lieblingsstück eines bestimmten\n",
+        "Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00324",
+      "de_DE": [
+        "Eine Scheibe voller seltsamer\n",
+        "Daten. Ihr Ursprung ist unbekannt."
+      ]
+    },
+    {
+      "id": "msg_0221_00325",
+      "de_DE": [
+        "Ein Stoffumhang voller geistiger\n",
+        "Energie. Das Lieblingsstück\n",
+        "eines bestimmten Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00326",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Die scharfe Klaue erhöht die\n",
+        "Volltrefferquote des Trägers."
+      ]
+    },
+    {
+      "id": "msg_0221_00327",
+      "de_DE": [
+        "Ein Item zum Tragen.\n",
+        "Verursacht der Träger Schaden,\n",
+        "erschrickt der Gegner eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00328",
+      "de_DE": [
+        "Der Anwender konzentriert sich vor\n",
+        "dem Angriff. Wird er davor getroffen,\n",
+        "ist die Attacke wirkungslos."
+      ]
+    },
+    {
+      "id": "msg_0221_00329",
+      "de_DE": [
+        "Der Gegner wird mit langen,\n",
+        "scharfen Krallen brutal attackiert."
+      ]
+    },
+    {
+      "id": "msg_0221_00330",
+      "de_DE": [
+        "Der Gegner wird von einer kräftigen\n",
+        "Wasserwelle getroffen. Diese\n",
+        "kann ihn eventuell verwirren."
+      ]
+    },
+    {
+      "id": "msg_0221_00331",
+      "de_DE": [
+        "Der Anwender konzentriert und beruhigt\n",
+        "sich. So werden Spezial-Angriff und\n",
+        "Spezial-Verteidigung verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00332",
+      "de_DE": [
+        "Der Brüller schlägt den Gegner in\n",
+        "die Flucht. Ein Kampf gegen ein\n",
+        "wildes Pokémon wird beendet."
+      ]
+    },
+    {
+      "id": "msg_0221_00333",
+      "de_DE": [
+        "Der Gegner wird schwer vergiftet.\n",
+        "Der Schaden durch das Gift wird\n",
+        "in jeder Runde stärker."
+      ]
+    },
+    {
+      "id": "msg_0221_00334",
+      "de_DE": [
+        "Der verursachte Hagelsturm hält 5\n",
+        "Runden an und schadet allen Pokémon,\n",
+        "außer denen des Typs Eis."
+      ]
+    },
+    {
+      "id": "msg_0221_00335",
+      "de_DE": [
+        "Der Anwender spannt seine Muskeln an\n",
+        "und steigert damit den Angriffs- und\n",
+        "den Verteidigungs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00336",
+      "de_DE": [
+        "Der Anwender bewirft den Gegner\n",
+        "in schneller Folge 2- bis 5-mal\n",
+        "mit Samen."
+      ]
+    },
+    {
+      "id": "msg_0221_00337",
+      "de_DE": [
+        "Die Stärke und der Typ dieser Attacke\n",
+        "hängen vom jeweiligen Pokémon ab."
+      ]
+    },
+    {
+      "id": "msg_0221_00338",
+      "de_DE": [
+        "Die Sonne brennt unbarmherzig 5\n",
+        "Runden lang. Dadurch werden Attacken\n",
+        "vom Typ Feuer verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00339",
+      "de_DE": [
+        "Der Gegner wird so gereizt,\n",
+        "dass er über 2 - 4 Runden\n",
+        "nur Angriffsattacken einsetzt."
+      ]
+    },
+    {
+      "id": "msg_0221_00340",
+      "de_DE": [
+        "Der Gegner wird von einem eiskalten\n",
+        "Energiestrahl getroffen. Dieser friert\n",
+        "ihn eventuell ein."
+      ]
+    },
+    {
+      "id": "msg_0221_00341",
+      "de_DE": [
+        "Eine gnadenlose Eis- und Schnee- \n",
+        "Attacke, die alle Gegner trifft und\n",
+        "sie eventuell einfrieren kann."
+      ]
+    },
+    {
+      "id": "msg_0221_00342",
+      "de_DE": [
+        "Eine äußerst starke Attacke, die\n",
+        "viel Schaden anrichtet. Anwender\n",
+        "muss sich in nächster Runde ausruhen."
+      ]
+    },
+    {
+      "id": "msg_0221_00343",
+      "de_DE": [
+        "Eine Wand aus Licht wird über 5 Runden\n",
+        "errichtet. Sie senkt den Schaden\n",
+        "durch Attacken des Spezial-Angriffs. "
+      ]
+    },
+    {
+      "id": "msg_0221_00344",
+      "de_DE": [
+        "Garantierter Schutz in der Runde,\n",
+        "in der die Attacke eingesetzt wird.\n",
+        "Könnte bei häufigem Einsatz versagen."
+      ]
+    },
+    {
+      "id": "msg_0221_00345",
+      "de_DE": [
+        "Schwerer Niederschlag setzt für 5\n",
+        "Runden ein. Attacken vom Typ Wasser\n",
+        "werden verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00346",
+      "de_DE": [
+        "Der Gegner wird angegriffen und\n",
+        "die Hälfte des zugefügten Schadens\n",
+        "dem Angreifer als KP gutgeschrieben."
+      ]
+    },
+    {
+      "id": "msg_0221_00347",
+      "de_DE": [
+        "Ein Schild schützt das Team 5\n",
+        "Runden vor Statusproblemen\n",
+        "jeglicher Art."
+      ]
+    },
+    {
+      "id": "msg_0221_00348",
+      "de_DE": [
+        "Je unbeliebter der Trainer bei\n",
+        "seinem Pokémon ist, desto größer\n",
+        "ist die Wirkung."
+      ]
+    },
+    {
+      "id": "msg_0221_00349",
+      "de_DE": [
+        "Eine Attacke über 2 Runden.\n",
+        "Zunächst wird Sonnenlicht absorbiert,\n",
+        "anschließend erfolgt der Angriff."
+      ]
+    },
+    {
+      "id": "msg_0221_00350",
+      "de_DE": [
+        "Der Gegner wird mit der harten\n",
+        "Rute attackiert. Gleichzeitig kann\n",
+        "sein Verteidigungs-Wert sinken."
+      ]
+    },
+    {
+      "id": "msg_0221_00351",
+      "de_DE": [
+        "Der Gegner wird von einem verheerenden\n",
+        "Stromschlag getroffen. Kann eventuell\n",
+        "Paralyse bewirken."
+      ]
+    },
+    {
+      "id": "msg_0221_00352",
+      "de_DE": [
+        "Der Gegner wird von einem mächtigen\n",
+        "Donnerschlag, der Paralyse bewirken\n",
+        "kann, heimgesucht."
+      ]
+    },
+    {
+      "id": "msg_0221_00353",
+      "de_DE": [
+        "Ein starkes Beben wird verursacht,\n",
+        "das allen Pokémon, außer Flug-Pokémon\n",
+        "und dem Angreifer, Schaden zufügt."
+      ]
+    },
+    {
+      "id": "msg_0221_00354",
+      "de_DE": [
+        "Je beliebter der Trainer bei\n",
+        "seinem Pokémon ist, desto\n",
+        "größer ist die Wirkung."
+      ]
+    },
+    {
+      "id": "msg_0221_00355",
+      "de_DE": [
+        "Eine Attacke über 2 Runden.\n",
+        "Zunächst gräbt sich der Angreifer ein,\n",
+        "anschließend erfolgt der Angriff."
+      ]
+    },
+    {
+      "id": "msg_0221_00356",
+      "de_DE": [
+        "Ein mächtiger Strahl telekinetischer\n",
+        "Energie trifft den Gegner. Die\n",
+        "Spezial-Verteidigung des Gegners sinkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00357",
+      "de_DE": [
+        "Der Gegner wird mit einem dunklen\n",
+        "Klumpen attackiert, der eventuell die\n",
+        "Spezial-Verteidigung senkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00358",
+      "de_DE": [
+        "Der Gegner wird mit der Faust\n",
+        "angegriffen. Barrieren wie Lichtschild\n",
+        "oder Reflektor werden zerstört."
+      ]
+    },
+    {
+      "id": "msg_0221_00359",
+      "de_DE": [
+        "Der Angreifer ist so schnell, dass\n",
+        "virtuelle Abbilder generiert werden,\n",
+        "die den Fluchtwert erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0221_00360",
+      "de_DE": [
+        "Eine Wand aus Licht wird für 5\n",
+        "Runden errichtet, die den Schaden\n",
+        "von geg. physischen Att. reduziert."
+      ]
+    },
+    {
+      "id": "msg_0221_00361",
+      "de_DE": [
+        "Ein blitzschneller Elektroschock\n",
+        "trifft den Gegner. Ausweichen\n",
+        "ist unmöglich!"
+      ]
+    },
+    {
+      "id": "msg_0221_00362",
+      "de_DE": [
+        "Der Gegner wird in ein Flammenmeer\n",
+        "gehüllt. Verursacht eventuell\n",
+        "Verbrennungen."
+      ]
+    },
+    {
+      "id": "msg_0221_00363",
+      "de_DE": [
+        "Der Gegner versinkt im Giftschlamm.\n",
+        "Kann eventuell Vergiftungen\n",
+        "hervorrufen."
+      ]
+    },
+    {
+      "id": "msg_0221_00364",
+      "de_DE": [
+        "Ein Sandsturm trifft für 5 Runden\n",
+        "alle Pokémon, außer die des Typs\n",
+        "Boden, Gestein und Stahl."
+      ]
+    },
+    {
+      "id": "msg_0221_00365",
+      "de_DE": [
+        "Dem Gegner wird ordentlich eingeheizt.\n",
+        "Kann eventuell Verbrennungen\n",
+        "hervorrufen."
+      ]
+    },
+    {
+      "id": "msg_0221_00366",
+      "de_DE": [
+        "Der Gegner wird mit Felsen be-\n",
+        "worfen, die ihn blockieren und\n",
+        "schnelle Angriffe verlangsamen."
+      ]
+    },
+    {
+      "id": "msg_0221_00367",
+      "de_DE": [
+        "Der Anwender irritiert den Gegner\n",
+        "durch Schnelligkeit, bevor er angreift.\n",
+        "Diese Attacke trifft immer ihr Ziel."
+      ]
+    },
+    {
+      "id": "msg_0221_00368",
+      "de_DE": [
+        "Der Anwender bringt den Gegner in Rage.\n",
+        "Dieser ist nicht mehr in der Lage, eine\n",
+        "Attacke zweimal anzuwenden."
+      ]
+    },
+    {
+      "id": "msg_0221_00369",
+      "de_DE": [
+        "Ist der Anwender vergiftet, paralys.\n",
+        "oder leidet er unter Verbrennung,\n",
+        "verdoppelt sich die Kraft der Attacke. "
+      ]
+    },
+    {
+      "id": "msg_0221_00370",
+      "de_DE": [
+        "Die Wirkung dieser Attacke ist\n",
+        "abhängig von der Umgebung des\n",
+        "Anwenders."
+      ]
+    },
+    {
+      "id": "msg_0221_00371",
+      "de_DE": [
+        "Der Angreifer schläft 2 Runden. \n",
+        "Dabei werden die KP aufgefüllt und\n",
+        "die Statusprobleme behoben."
+      ]
+    },
+    {
+      "id": "msg_0221_00372",
+      "de_DE": [
+        "Gehört der Gegner dem anderen\n",
+        "Geschlecht an, verliebt er sich\n",
+        "und greift eventuell nicht an."
+      ]
+    },
+    {
+      "id": "msg_0221_00373",
+      "de_DE": [
+        "Der Anwender greift an und stiehlt dem\n",
+        "Gegner gleichzeitig ein Item, sofern er\n",
+        "selbst gerade kein Item trägt."
+      ]
+    },
+    {
+      "id": "msg_0221_00374",
+      "de_DE": [
+        "Den Gegner treffen stählerne\n",
+        "Flügelschläge. Der Verteidigungs-Wert\n",
+        "des Angreifers steigt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00375",
+      "de_DE": [
+        "Durch Einsatz von Psycho-Kraft werden\n",
+        "Fähigkeiten mit dem Gegner getauscht."
+      ]
+    },
+    {
+      "id": "msg_0221_00376",
+      "de_DE": [
+        "Stiehlt die Effekte der gegnerischen\n",
+        "Attacke, wenn diese heilender oder\n",
+        "statusverändernder Natur sind."
+      ]
+    },
+    {
+      "id": "msg_0221_00377",
+      "de_DE": [
+        "Angriff mit maximaler Kraft und\n",
+        "feuriger Energie, der gleichzeitig den\n",
+        "Spezial-Angriff des Angreifers senkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00378",
+      "de_DE": [
+        "Der Anwender landet und ruht\n",
+        "sich aus. Dabei füllen sich bis zu\n",
+        "50 % der maximalen KP wieder auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00379",
+      "de_DE": [
+        "Ein Angriff mit aller Macht.\n",
+        "Die Spezial-Verteidigung des\n",
+        "Gegners sinkt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00380",
+      "de_DE": [
+        "Entfesselt die Kraft der Natur\n",
+        "gegen den Gegner. Dessen\n",
+        "Spezial-Verteidigung sinkt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00381",
+      "de_DE": [
+        "Eine zurückhaltende Attacke, die\n",
+        "eine Kampfunfähigkeit des Gegners\n",
+        "verhindert, dem mindestens 1 KP bleibt."
+      ]
+    },
+    {
+      "id": "msg_0221_00382",
+      "de_DE": [
+        "Trifft mit doppelter Wucht, wenn\n",
+        "der Gegner weniger als die Hälfte\n",
+        "seiner KP hat."
+      ]
+    },
+    {
+      "id": "msg_0221_00383",
+      "de_DE": [
+        "Der Anwender wirft sein Item auf den\n",
+        "Gegner. Die Kraft und die Wirkung\n",
+        "hängen vom jeweiligen Item ab."
+      ]
+    },
+    {
+      "id": "msg_0221_00384",
+      "de_DE": [
+        "Greift mit einer elektrischen\n",
+        "Entladung an. Der Spezial-Angriff\n",
+        "des Angreifers steigt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00385",
+      "de_DE": [
+        "Der Anwender übersteht auch\n",
+        "starke Attacken mit mindestens 1 KP.\n",
+        "Kann bei häufigem Einsatz versagen."
+      ]
+    },
+    {
+      "id": "msg_0221_00386",
+      "de_DE": [
+        "Greift den Gegner mit einer \n",
+        "Schockwelle, die aus dem Mund\n",
+        "des Anwenders kommt, an."
+      ]
+    },
+    {
+      "id": "msg_0221_00387",
+      "de_DE": [
+        "Schlag, der Energie stiehlt. Der\n",
+        "Angreifer erhält die Hälfte des\n",
+        "zugefügten Schadens als KP."
+      ]
+    },
+    {
+      "id": "msg_0221_00388",
+      "de_DE": [
+        "Feuert eine fiese, blauweiße Flamme\n",
+        "auf den Gegner ab, um eine Verbrennung\n",
+        "zu verursachen."
+      ]
+    },
+    {
+      "id": "msg_0221_00389",
+      "de_DE": [
+        "Pudriger Staub wird mit einem\n",
+        "Windstoß verschossen. Die Statuswerte\n",
+        "des Anwenders können sich erhöhen."
+      ]
+    },
+    {
+      "id": "msg_0221_00390",
+      "de_DE": [
+        "Verhindert, dass der Gegner\n",
+        "Items einsetzt. Dies wirkt sich auch\n",
+        "auf den gegnerischen Trainer aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00391",
+      "de_DE": [
+        "Diese besondere Attacke verletzt\n",
+        "alle Pokémon im Kampf. Der Angreifer\n",
+        "wird dabei allerdings kampfunfähig."
+      ]
+    },
+    {
+      "id": "msg_0221_00392",
+      "de_DE": [
+        "Eine Klaue aus Schatten greift\n",
+        "den Gegner an. Die Volltrefferquote\n",
+        "ist dabei sehr hoch."
+      ]
+    },
+    {
+      "id": "msg_0221_00393",
+      "de_DE": [
+        "Der Anwender lädt die Attacke auf.\n",
+        "Setzt er sie nach einem gegnerischen\n",
+        "Angriff ein, verdoppelt sich die Kraft."
+      ]
+    },
+    {
+      "id": "msg_0221_00394",
+      "de_DE": [
+        "Ein einmal einsetzbares Item,\n",
+        "das in diesem Kampf verwendet\n",
+        "wurde, erscheint wieder."
+      ]
+    },
+    {
+      "id": "msg_0221_00395",
+      "de_DE": [
+        "Ein harter Angriff mit aller Energie.\n",
+        "Danach muss der Anwender sich\n",
+        "ausruhen und neue Energie sammeln."
+      ]
+    },
+    {
+      "id": "msg_0221_00396",
+      "de_DE": [
+        "Der Anwender poliert seinen Körper.\n",
+        "Erhöht den Initiative-Wert deutlich."
+      ]
+    },
+    {
+      "id": "msg_0221_00397",
+      "de_DE": [
+        "Ein flackerndes Licht reduziert\n",
+        "die Genauigkeit des Gegners.\n",
+        "Kann auch Höhlen erleuchten."
+      ]
+    },
+    {
+      "id": "msg_0221_00398",
+      "de_DE": [
+        "Angriff mit spitzen Steinen.\n",
+        "Besitzt eine hohe Volltrefferquote."
+      ]
+    },
+    {
+      "id": "msg_0221_00399",
+      "de_DE": [
+        "Wurde der Angreifer in dieser Runde\n",
+        "verletzt, fügt diese Attacke dem\n",
+        "Gegner doppelten Schaden zu."
+      ]
+    },
+    {
+      "id": "msg_0221_00400",
+      "de_DE": [
+        "Der Gegner wird mit einem schwachen\n",
+        "elektrischen Schlag angegriffen. Wird\n",
+        "er getroffen, wird er paralysiert."
+      ]
+    },
+    {
+      "id": "msg_0221_00401",
+      "de_DE": [
+        "Eine verzerrte Drehattacke. Je\n",
+        "langsamer der Anwender, desto\n",
+        "mehr Schaden fügt er zu."
+      ]
+    },
+    {
+      "id": "msg_0221_00402",
+      "de_DE": [
+        "Ein wilder Tanz, der den Kampfgeist\n",
+        "erhöhen soll. Der Angriffs-Wert des\n",
+        "Anwenders steigt deutlich."
+      ]
+    },
+    {
+      "id": "msg_0221_00403",
+      "de_DE": [
+        "Eine Falle aus schwebenden\n",
+        "Steinen. Verletzt Gegner, die\n",
+        "neu in den Kampf gerufen wurden."
+      ]
+    },
+    {
+      "id": "msg_0221_00404",
+      "de_DE": [
+        "Der Anwender hypnotisiert sich, um\n",
+        "die Statusveränderungen des Gegners\n",
+        "zu kopieren."
+      ]
+    },
+    {
+      "id": "msg_0221_00405",
+      "de_DE": [
+        "Gehört der Gegner dem anderen\n",
+        "Geschlecht an, verfällt er dem Charme\n",
+        "des Anwenders, sein Sp.-Angriff sinkt."
+      ]
+    },
+    {
+      "id": "msg_0221_00406",
+      "de_DE": [
+        "Strahlt eine böse Aura voller\n",
+        "düsterer Gedanken aus.\n",
+        "Der Gegner erschrickt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00407",
+      "de_DE": [
+        "Der Anwender schleudert große\n",
+        "Felsbrocken auf den Gegner.\n",
+        "Dieser erschrickt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00408",
+      "de_DE": [
+        "Der Anwender greift mit gekreuzten\n",
+        "Scheren oder Klauen an, als wären\n",
+        "diese eine normale Schere."
+      ]
+    },
+    {
+      "id": "msg_0221_00409",
+      "de_DE": [
+        "Während der Angreifer schläft,\n",
+        "verwendet er eine seiner\n",
+        "zufällig ausgewählten Attacken."
+      ]
+    },
+    {
+      "id": "msg_0221_00410",
+      "de_DE": [
+        "Verwendet die Energie einer\n",
+        "Beere, die der Angreifer hält.\n",
+        "Effekte hängen von der Beere ab."
+      ]
+    },
+    {
+      "id": "msg_0221_00411",
+      "de_DE": [
+        "Der Anwender greift mit giftigen\n",
+        "Tentakeln oder Armen an. Der Gegner\n",
+        "wird dabei eventuell vergiftet."
+      ]
+    },
+    {
+      "id": "msg_0221_00412",
+      "de_DE": [
+        "Wirkt nur auf schlafende\n",
+        "Gegner. Angreifer erhält 50 %\n",
+        "des Schadens als KP."
+      ]
+    },
+    {
+      "id": "msg_0221_00413",
+      "de_DE": [
+        "Gras lässt Gegner straucheln.\n",
+        "Je schwerer der Gegner,\n",
+        "desto mehr Schaden wird verursacht."
+      ]
+    },
+    {
+      "id": "msg_0221_00414",
+      "de_DE": [
+        "Reizt den Gegner und verursacht\n",
+        "Verwirrung. Erhöht jedoch den\n",
+        "gegnerischen Angriffs-Wert."
+      ]
+    },
+    {
+      "id": "msg_0221_00415",
+      "de_DE": [
+        "Hält der Gegner eine Beere,\n",
+        "stiehlt der Angreifer sie und\n",
+        "genießt ihre Auswirkungen."
+      ]
+    },
+    {
+      "id": "msg_0221_00416",
+      "de_DE": [
+        "Direkt nach der Attacke tauscht\n",
+        "der Angreifer mit einem wartenden\n",
+        "Pokémon den Platz."
+      ]
+    },
+    {
+      "id": "msg_0221_00417",
+      "de_DE": [
+        "Der Angreifer erschafft aus\n",
+        "ein paar eigenen KP einen\n",
+        "Klon, der als Ablenkung dient."
+      ]
+    },
+    {
+      "id": "msg_0221_00418",
+      "de_DE": [
+        "Entfesselt konzentrierte Lichtenergie.\n",
+        "Die Spezial-Verteidigung des Gegners\n",
+        "sinkt eventuell."
+      ]
+    },
+    {
+      "id": "msg_0221_00419",
+      "de_DE": [
+        "Verzerrt die Raumzeit für fünf\n",
+        "Runden. Langsamere Pokémon\n",
+        "greifen zuerst an."
+      ]
+    },
+    {
+      "id": "msg_0221_00420",
+      "de_DE": [
+        "Der Gegner wird mit scharfen Klingen\n",
+        "attackiert. Außerhalb des Kampfes\n",
+        "werden damit kleine Bäume gefällt."
+      ]
+    },
+    {
+      "id": "msg_0221_00421",
+      "de_DE": [
+        "In Runde 1 fliegt der Angreifer empor\n",
+        "und attackiert in Runde 2. Man kann\n",
+        "damit zu jedem bekannten Ort fliegen."
+      ]
+    },
+    {
+      "id": "msg_0221_00422",
+      "de_DE": [
+        "Eine riesige Flutwelle ergießt sich\n",
+        "über alle, außer den Anwender. Damit\n",
+        "kann man auch auf dem Wasser surfen."
+      ]
+    },
+    {
+      "id": "msg_0221_00423",
+      "de_DE": [
+        "Den Gegner trifft ein energiegeladener\n",
+        "Kraftschlag. Außerdem lassen sich mit\n",
+        "der Attacke schwere Felsen bewegen."
+      ]
+    },
+    {
+      "id": "msg_0221_00424",
+      "de_DE": [
+        "Schließt den Gegner in einer wild\n",
+        "wirbelnden Wassersäule ein. Ermöglicht\n",
+        "auch die Überquerung von Strudeln."
+      ]
+    },
+    {
+      "id": "msg_0221_00425",
+      "de_DE": [
+        "Steinbrecherische Attacke, die den\n",
+        "Verteidigungs-Wert senken kann. Kleine\n",
+        "Felsen können zerschmettert werden."
+      ]
+    },
+    {
+      "id": "msg_0221_00426",
+      "de_DE": [
+        "Eine mächtige Attacke, die den Gegner\n",
+        "mit rasender Geschwindigkeit angreift.\n",
+        "Sie macht Wasserfälle bezwingbar."
+      ]
+    },
+    {
+      "id": "msg_0221_00427",
+      "de_DE": [
+        "Eine Attacke, die den Gegner\n",
+        "eventuell verwirrt. Mit ihr\n",
+        "kann man Felswände bezwingen."
+      ]
+    },
+    {
+      "id": "msg_0221_00428",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0221_00429",
+      "de_DE": [
+        "Ein fester Sack. Wird verwendet,\n",
+        "um Beute aus der Kohlemine\n",
+        "zu transportieren."
+      ]
+    },
+    {
+      "id": "msg_0221_00430",
+      "de_DE": [
+        "Enthält die Kampfregeln.\n",
+        "Bei Link-Kämpfen kannst du daraus\n",
+        "die gewünschten Regeln wählen."
+      ]
+    },
+    {
+      "id": "msg_0221_00431",
+      "de_DE": [
+        "Findet Pokémon, die sich im Gras\n",
+        "verstecken. Die Batterie lädt sich\n",
+        "beim Reisen auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00432",
+      "de_DE": [
+        "Auf dieser Karte werden deine bisher\n",
+        "erhaltenen Gewinnpunkte festgehalten."
+      ]
+    },
+    {
+      "id": "msg_0221_00433",
+      "de_DE": [
+        "In diesem Tagebuch steht, was du\n",
+        "in den letzten Tagen erlebt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00434",
+      "de_DE": [
+        "In diesem Koffer kannst du die Sticker\n",
+        "für die Ballkapseln der Pokébälle\n",
+        "aufbewahren."
+      ]
+    },
+    {
+      "id": "msg_0221_00435",
+      "de_DE": [
+        "Ein schicker Koffer für alle Accessoires\n",
+        "für deine Pokémon. Da knittert nichts."
+      ]
+    },
+    {
+      "id": "msg_0221_00436",
+      "de_DE": [
+        "Ein kleines Tütchen. Es bietet Platz\n",
+        "für bis zu zehn Sticker für die\n",
+        "Pokébälle."
+      ]
+    },
+    {
+      "id": "msg_0221_00437",
+      "de_DE": [
+        "In diesem praktischen Buch\n",
+        "kannst du die Freundescodes\n",
+        "deiner Freunde aufbewahren."
+      ]
+    },
+    {
+      "id": "msg_0221_00438",
+      "de_DE": [
+        "Ein großer Schlüssel, der zum\n",
+        "Windkraftwerk gehört. Einer der Rüpel\n",
+        "von Team Galaktik hatte ihn im Besitz."
+      ]
+    },
+    {
+      "id": "msg_0221_00439",
+      "de_DE": [
+        "Ein antiker Glücksbringer. Soll der\n",
+        "Ältesten in Elyses überbracht werden."
+      ]
+    },
+    {
+      "id": "msg_0221_00440",
+      "de_DE": [
+        "Diese Schlüsselkarte deaktiviert\n",
+        "die Sicherheitssysteme im\n",
+        "Hauptquartier von Team Galaktik."
+      ]
+    },
+    {
+      "id": "msg_0221_00441",
+      "de_DE": [
+        "Diese mythische Kette ist angeblich\n",
+        "die Verbindung zu einem Legendären\n",
+        "Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0221_00442",
+      "de_DE": [
+        "Eine praktische Karte, die jederzeit\n",
+        "aufgerufen werden kann. Dein aktueller\n",
+        "Standort wird auch angezeigt."
+      ]
+    },
+    {
+      "id": "msg_0221_00443",
+      "de_DE": [
+        "Ein Gerät, das rückkampfwillige\n",
+        "Trainer ausfindig macht. Die\n",
+        "Batterie lädt sich beim Reisen auf."
+      ]
+    },
+    {
+      "id": "msg_0221_00444",
+      "de_DE": [
+        "Im Korb finden bis zu 50 000 Münzen\n",
+        "der Spielhalle Platz."
+      ]
+    },
+    {
+      "id": "msg_0221_00445",
+      "de_DE": [
+        "Eine alte, abgenutzte Angel. Damit\n",
+        "kannst du in jedem Gewässer nach\n",
+        "Pokémon angeln."
+      ]
+    },
+    {
+      "id": "msg_0221_00446",
+      "de_DE": [
+        "Eine recht gute Angel. Damit kannst\n",
+        "du in jedem Gewässer nach Pokémon\n",
+        "angeln."
+      ]
+    },
+    {
+      "id": "msg_0221_00447",
+      "de_DE": [
+        "Eine wundervoll gefertigte Angel.\n",
+        "Die beste Angel, um nach\n",
+        "Pokémon zu fischen."
+      ]
+    },
+    {
+      "id": "msg_0221_00448",
+      "de_DE": [
+        "Eine Gießkanne in Form von\n",
+        "ENTON. Gieße gepflanzte Beeren,\n",
+        "damit sie besser wachsen."
+      ]
+    },
+    {
+      "id": "msg_0221_00449",
+      "de_DE": "Eine Box für leckere Knurspe."
+    },
+    {
+      "id": "msg_0221_00450",
+      "de_DE": [
+        "Ein Klapprad, mit dem man schneller\n",
+        "als mit Turbotretern ist."
+      ]
+    },
+    {
+      "id": "msg_0221_00451",
+      "de_DE": [
+        "Schlüssel zu einer Hotelsuite.\n",
+        "Verschwindet seltsamerweise\n",
+        "immer wieder mal."
+      ]
+    },
+    {
+      "id": "msg_0221_00452",
+      "de_DE": [
+        "Ein Brief von Prof. Eich.\n",
+        "Er bittet dich, zur Route 224 zu gehen."
+      ]
+    },
+    {
+      "id": "msg_0221_00453",
+      "de_DE": [
+        "Diese Feder leuchtet wie der Mond.\n",
+        "Kann angeblich Alpträume vertreiben."
+      ]
+    },
+    {
+      "id": "msg_0221_00454",
+      "de_DE": [
+        "Eine Eintrittskarte für den Gasthof\n",
+        "in Fleetburg. Sie ist über 50 Jahre\n",
+        "alt..."
+      ]
+    },
+    {
+      "id": "msg_0221_00455",
+      "de_DE": [
+        "Eine Flöte, deren Töne nicht von\n",
+        "dieser Welt zu sein scheinen.\n",
+        "Ihr Erschaffer ist nicht bekannt."
+      ]
+    },
+    {
+      "id": "msg_0221_00456",
+      "de_DE": [
+        "Ein Ticket, um auf der M.S. Aqua\n",
+        "zu fahren. Eine Zeichnung der\n",
+        "Fähre ist auf dem Ticket zu sehen."
+      ]
+    },
+    {
+      "id": "msg_0221_00457",
+      "de_DE": [
+        "Ausweis zur Teilnahme an Pokémon-\n",
+        "Wettbewerben. Die Zeichnung\n",
+        "eines Bandes ist aufgedruckt."
+      ]
+    },
+    {
+      "id": "msg_0221_00458",
+      "de_DE": [
+        "Ein Stein aus gehärtetem Magma.\n",
+        "Sein innerer Kern ist noch flüssig\n",
+        "und heiß."
+      ]
+    },
+    {
+      "id": "msg_0221_00459",
+      "de_DE": [
+        "Ein Paket, das dir anvertraut wurde.\n",
+        "Du sollst es deinem besten Freund\n",
+        "geben, der Zweiblattdorf verließ."
+      ]
+    },
+    {
+      "id": "msg_0221_00460",
+      "de_DE": [
+        "Einer der drei Kupons, die du\n",
+        "für den Pokétch benötigst."
+      ]
+    },
+    {
+      "id": "msg_0221_00461",
+      "de_DE": [
+        "Einer der drei Kupons, die du\n",
+        "für den Pokétch benötigst."
+      ]
+    },
+    {
+      "id": "msg_0221_00462",
+      "de_DE": [
+        "Einer der drei Kupons, die du\n",
+        "für den Pokétch benötigst."
+      ]
+    },
+    {
+      "id": "msg_0221_00463",
+      "de_DE": [
+        "Der Schlüssel zur Lagerhalle des\n",
+        "Teams Galaktik am Rande von Schleiede."
+      ]
+    },
+    {
+      "id": "msg_0221_00464",
+      "de_DE": [
+        "Eine fantastische Medizin aus\n",
+        "Anemonia City. Heilt und kuriert\n",
+        "ein Pokémon vollständig."
+      ]
+    },
+    {
+      "id": "msg_0221_00465",
+      "de_DE": [
+        "Ein tolles Gerät, mit dem man Kämpfe zw.\n",
+        "Freunden oder Kämpfe in einer speziel-\n",
+        "len Kampfeinrichtung aufzeichnen kann."
+      ]
+    },
+    {
+      "id": "msg_0221_00466",
+      "de_DE": [
+        "Mit dieser Blume, manchmal auch als Teil\n",
+        "eines Bouquets, kann man an speziellen\n",
+        "Tagen seine Dankbarkeit ausdrücken."
+      ]
+    },
+    {
+      "id": "msg_0221_00467",
+      "de_DE": [
+        "Ein besonderer Schlüssel, der an einem\n",
+        "speziellen Ort verwendet werden muss.\n",
+        "Öffnet Türen durch ein elektr. Signal."
+      ]
+    },
+    {
+      "id": "msg_0221_00468",
+      "de_DE": [
+        "Eine praktische Tragebox,\n",
+        "in der du bis zu 99 Aprikokos\n",
+        "jeder Sorte transportieren kannst."
+      ]
+    },
+    {
+      "id": "msg_0221_00469",
+      "de_DE": [
+        "Ein Heft, in dem automatisch\n",
+        "Daten zu bereits gefangenen\n",
+        "ICOGNITO aufgezeichnet werden."
+      ]
+    },
+    {
+      "id": "msg_0221_00470",
+      "de_DE": [
+        "Ein tragbares Utensil, das die Aufzucht\n",
+        "von Pflanzen aus Beeren ermöglicht,\n",
+        "wo immer du auch gerade bist."
+      ]
+    },
+    {
+      "id": "msg_0221_00471",
+      "de_DE": [
+        "Scannt die Umgebung nach\n",
+        "unsichtbaren Items. Es blinkt\n",
+        "und piept, sobald es etwas findet."
+      ]
+    },
+    {
+      "id": "msg_0221_00472",
+      "de_DE": [
+        "Eine Karte, auf der die Punkte\n",
+        "für “Passwort mit Buena”\n",
+        "festgehalten werden."
+      ]
+    },
+    {
+      "id": "msg_0221_00473",
+      "de_DE": [
+        "Die Rute eines unbestimmten\n",
+        "Wesens. Extrem schmackhaft.\n",
+        "Lässt sich teuer verkaufen."
+      ]
+    },
+    {
+      "id": "msg_0221_00474",
+      "de_DE": [
+        "Eine altehrwürdige Glocke,\n",
+        "deren Läuten alle besänftigt,\n",
+        "die sie hören."
+      ]
+    },
+    {
+      "id": "msg_0221_00475",
+      "de_DE": [
+        "Eine Schlüsselkarte, die das\n",
+        "Tor im Radioturm öffnet."
+      ]
+    },
+    {
+      "id": "msg_0221_00476",
+      "de_DE": [
+        "Ein Schlüssel, der eine Tür\n",
+        "in der Dukatia-Passage\n",
+        "von Dukatia City öffnet."
+      ]
+    },
+    {
+      "id": "msg_0221_00477",
+      "de_DE": [
+        "Eine Gießkanne, durch\n",
+        "deren Wasser Beeren im\n",
+        "Pflanzset umso rascher wachsen."
+      ]
+    },
+    {
+      "id": "msg_0221_00478",
+      "de_DE": [
+        "Eine Schuppe des roten GARADOS,\n",
+        "das im See des Zorns erschienen ist.\n",
+        "Sie glänzt rot wie Feuer."
+      ]
+    },
+    {
+      "id": "msg_0221_00479",
+      "de_DE": [
+        "Eine PIEPI-Puppe, welche die\n",
+        "Nachahmerin verloren hat."
+      ]
+    },
+    {
+      "id": "msg_0221_00480",
+      "de_DE": [
+        "Eine Fahrkarte, die einem die\n",
+        "Reise mit dem Magnetzug ermöglicht.\n",
+        "Gilt für beliebig viele Fahrten."
+      ]
+    },
+    {
+      "id": "msg_0221_00481",
+      "de_DE": [
+        "Ein unentbehrliches Maschinenteil, das\n",
+        "aus dem Kraftwerk entwendet wurde."
+      ]
+    },
+    {
+      "id": "msg_0221_00482",
+      "de_DE": [
+        "Eine silberne Feder, die von\n",
+        "einem seltsam silbernen Leuchten\n",
+        "erfüllt ist."
+      ]
+    },
+    {
+      "id": "msg_0221_00483",
+      "de_DE": [
+        "Eine mystische Feder, die\n",
+        "von einem regenbogenfarbenen\n",
+        "Leuchten erfüllt ist."
+      ]
+    },
+    {
+      "id": "msg_0221_00484",
+      "de_DE": [
+        "Ein seltsam gemustertes Ei, das\n",
+        "du von Mr. Pokémon erhalten hast.\n",
+        "Sein Ursprung liegt im Dunklen."
+      ]
+    },
+    {
+      "id": "msg_0221_00485",
+      "de_DE": [
+        "Eine rote Aprikoko.\n",
+        "Besitzt einen stechenden Geruch."
+      ]
+    },
+    {
+      "id": "msg_0221_00486",
+      "de_DE": [
+        "Eine gelbe Aprikoko.\n",
+        "Sie riecht ein wenig unreif."
+      ]
+    },
+    {
+      "id": "msg_0221_00487",
+      "de_DE": [
+        "Eine blaue Aprikoko.\n",
+        "Ein frischer Geruch\n",
+        "geht von ihr aus."
+      ]
+    },
+    {
+      "id": "msg_0221_00488",
+      "de_DE": [
+        "Eine grüne Aprikoko.\n",
+        "Sie verströmt einen seltsam\n",
+        "aromatischen Duft."
+      ]
+    },
+    {
+      "id": "msg_0221_00489",
+      "de_DE": [
+        "Eine pinke Aprikoko.\n",
+        "Sie duftet süß und\n",
+        "appetitanregend."
+      ]
+    },
+    {
+      "id": "msg_0221_00490",
+      "de_DE": [
+        "Eine weiße Aprikoko.\n",
+        "Riecht nach überhaupt nichts."
+      ]
+    },
+    {
+      "id": "msg_0221_00491",
+      "de_DE": [
+        "Eine schwarze Aprikoko.\n",
+        "Sie riecht irgendwie\n",
+        "unbeschreiblich."
+      ]
+    },
+    {
+      "id": "msg_0221_00492",
+      "de_DE": [
+        "Ein Ball, der sich besonders gut eignet,\n",
+        "um Pokémon mit hohem Initiative-Wert\n",
+        "zu fangen."
+      ]
+    },
+    {
+      "id": "msg_0221_00493",
+      "de_DE": [
+        "Ein Ball, mit dem sich Pokémon umso\n",
+        "leichter fangen lassen, je niedriger ihr\n",
+        "Level im Vergleich zu deinem Team ist."
+      ]
+    },
+    {
+      "id": "msg_0221_00494",
+      "de_DE": [
+        "Ein Ball, der sich besonders gut eignet,\n",
+        "um Pokémon zu fangen, die\n",
+        "an deiner Angel hängen."
+      ]
+    },
+    {
+      "id": "msg_0221_00495",
+      "de_DE": [
+        "Ein Ball, der sich besonders gut eignet,\n",
+        "um Pokémon mit hohem Körpergewicht\n",
+        "zu fangen."
+      ]
+    },
+    {
+      "id": "msg_0221_00496",
+      "de_DE": [
+        "Ein Ball, der sich besonders gut eignet,\n",
+        "um Pokémon zu fangen, die ein anderes\n",
+        "Geschlecht haben als dein eigenes."
+      ]
+    },
+    {
+      "id": "msg_0221_00497",
+      "de_DE": [
+        "Ein besonderer Ball, der die\n",
+        "Sympathie von gefangenen Pokémon\n",
+        "schneller ansteigen lässt."
+      ]
+    },
+    {
+      "id": "msg_0221_00498",
+      "de_DE": [
+        "Ein Ball, der sich besonders gut eignet,\n",
+        "um Pokémon zu fangen, die sich durch\n",
+        "einen Mondstein weiterentwickeln."
+      ]
+    },
+    {
+      "id": "msg_0221_00499",
+      "de_DE": [
+        "Ein Ball, der nur beim Käferturnier\n",
+        "eingesetzt wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00500",
+      "de_DE": [
+        "Ein Ball, der nur im Park der Freunde\n",
+        "eingesetzt wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00501",
+      "de_DE": [
+        "Ein Album, in dem du Erinnerungsfotos\n",
+        "aufbewahren kannst, die du auf\n",
+        "deinen Reisen geschossen hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00502",
+      "de_DE": [
+        "Eine Spielorgel, die Musik aus einer\n",
+        "längst vergangenen Zeit spielt. Lässt\n",
+        "sich durch simplen Knopfdruck bedienen."
+      ]
+    },
+    {
+      "id": "msg_0221_00503",
+      "de_DE": [
+        "Eine altehrwürdige Glocke,\n",
+        "von deren Klang eine beruhigende\n",
+        "Wirkung ausgeht."
+      ]
+    },
+    {
+      "id": "msg_0221_00504",
+      "de_DE": [
+        "Eine Spezialität aus Mahagonia City.\n",
+        "Sie wird gerne als Souvenir gekauft."
+      ]
+    },
+    {
+      "id": "msg_0221_00505",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du ein Turnier\n",
+        "gewonnen hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00506",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du bei einem\n",
+        "Turnier Letzter geworden bist."
+      ]
+    },
+    {
+      "id": "msg_0221_00507",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie viele Sprints\n",
+        "du schon hinter dir hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00508",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du\n",
+        "gesprungen bist."
+      ]
+    },
+    {
+      "id": "msg_0221_00509",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim\n",
+        "Hürdenlauf den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00510",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim\n",
+        "Staffellauf den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00511",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim Flaggen-\n",
+        "schnappen den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00512",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim\n",
+        "Ziegelbrechen den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00513",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim\n",
+        "Diskusfangen den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00514",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du den 1. Platz\n",
+        "bei der Schneeschlacht belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00515",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte gibt an, wie oft deine Pokémon\n",
+        "im Wettkampf Punkte geholt haben."
+      ]
+    },
+    {
+      "id": "msg_0221_00516",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt an, wie viele Schnitzer\n",
+        "du dir geleistet hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00517",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt an, wie viele\n",
+        "Punktabzüge dein Team kassiert hat."
+      ]
+    },
+    {
+      "id": "msg_0221_00518",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie viele Angriffe\n",
+        "du schon ausgeführt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00519",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft deine Pokémon\n",
+        "schon aus dem Ring gefallen sind."
+      ]
+    },
+    {
+      "id": "msg_0221_00520",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim\n",
+        "Ringrangeln den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00521",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim Lampion-\n",
+        "springen den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00522",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim\n",
+        "Drängelkreis den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00523",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie viele Konnex-\n",
+        "Wettkämpfe du gewonnen hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00524",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, bei wie vielen Konnex-\n",
+        "Wettkämpfen du schon Letzter warst."
+      ]
+    },
+    {
+      "id": "msg_0221_00525",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du in einer\n",
+        "Disziplin den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00526",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du in einer\n",
+        "Disziplin den letzten Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00527",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du deine\n",
+        "Pokémon ausgewechselt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00528",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du beim\n",
+        "Torschießen den 1. Platz belegt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00529",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft eines deiner\n",
+        "Pokémon den Einzelpreis gewonnen hat."
+      ]
+    },
+    {
+      "id": "msg_0221_00530",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt, wie oft du deine\n",
+        "Pokémon mit dem Touchpen berührt hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00531",
+      "de_DE": [
+        "Speichert deine Pokéathlon-Rekorde.\n",
+        "Die Karte zeigt an, wie viel Zeit du\n",
+        "beim Pokéathlon verbracht hast."
+      ]
+    },
+    {
+      "id": "msg_0221_00532",
+      "de_DE": [
+        "Eine grün schimmernde Kugel,\n",
+        "von der in den Legenden der\n",
+        "Hoenn-Region berichtet wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00533",
+      "de_DE": [
+        "Eine äußerst robuste Kapsel,\n",
+        "die sich nur mithilfe eines\n",
+        "ganz speziellen Schlüssels öffnet."
+      ]
+    },
+    {
+      "id": "msg_0221_00534",
+      "de_DE": [
+        "Eine rot schimmernde Kugel,\n",
+        "von der in den Legenden der\n",
+        "Hoenn-Region berichtet wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00535",
+      "de_DE": [
+        "Eine blau schimmernde Kugel,\n",
+        "von der in den Legenden der\n",
+        "Hoenn-Region berichtet wird."
+      ]
+    },
+    {
+      "id": "msg_0221_00536",
+      "de_DE": [
+        "Eine kristallene Kugel, die aus der Erde\n",
+        "geborgen wurde. Schmutz und Gestein\n",
+        "konnten ihrer Schönheit nichts anhaben."
+      ]
+    }
+  ]
+}

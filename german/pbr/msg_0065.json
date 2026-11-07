@@ -1,0 +1,26 @@
+{
+  "key": 25611,
+  "messages": [
+    {
+      "id": "msg_0065_00000",
+      "de_DE": [
+        "Halten deine Pokémon auch Items?\r",
+        "Wenn du magst, dann gib einem deiner\n",
+        "Pokémon doch {STRVAR_1 8, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0065_00001",
+      "de_DE": [
+        "{STRVAR_1 8, 0} erhöht die Kraft von\n",
+        "Attacken des Typs Gestein.\r",
+        "Leider kann keines meiner Pokémon\n",
+        "diese Art Attacken anwenden, daher..."
+      ]
+    },
+    {
+      "id": "msg_0065_00002",
+      "de_DE": "ENTON: Quaaack?"
+    }
+  ]
+}

@@ -380,7 +380,7 @@ static void MGMessageSuccess_BattleRules(struct GetMysteryGiftGmmState *gmmState
     *pMsgNum = msg_0209_00010;
     BufferPlayersName(gmmState->msgFormat, 0, Save_PlayerData_GetProfile(gmmState->fieldSys->saveData));
     String *rulesetName = LinkBattleRuleset_CreateStringFromName(mgData, HEAP_ID_FIELD3);
-    BufferString(gmmState->msgFormat, 1, rulesetName, 0, 1, 2);
+    BufferString(gmmState->msgFormat, 1, rulesetName, 0, 1, GAME_LANGUAGE);
     String_Delete(rulesetName);
 }
 

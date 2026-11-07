@@ -1,0 +1,86 @@
+{
+  "key": 25268,
+  "messages": [
+    {
+      "id": "msg_0443_00000",
+      "de_DE": [
+        "Meine große Schwester\n",
+        "sammelt Scherben.\r",
+        "Sie sagt, sie erinnern sie an einen\n",
+        "Ort, an dem sie vor langer Zeit\f",
+        "gearbeitet hat."
+      ]
+    },
+    {
+      "id": "msg_0443_00001",
+      "de_DE": [
+        "Wenn du Scherben in identischen Farben\n",
+        "findest, dann lass es mich bitte wissen.\r",
+        "Ich gebe dir sehr gerne eine Technische\n",
+        "Maschine im Tausch dafür."
+      ]
+    },
+    {
+      "id": "msg_0443_00002",
+      "de_DE": [
+        "Du hast zehn Scherben in der\n",
+        "gleichen Farbe, habe ich Recht?\r",
+        "Würdest du sie gegen eine\n",
+        "Technische Maschine tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0443_00003",
+      "de_DE": [
+        "Für deine zehn Purpurstücke bekommst\n",
+        "du die {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r"
+      ]
+    },
+    {
+      "id": "msg_0443_00004",
+      "de_DE": [
+        "Für deine zehn Indigostücke bekommst\n",
+        "du die {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r"
+      ]
+    },
+    {
+      "id": "msg_0443_00005",
+      "de_DE": [
+        "Für deine zehn Gelbstücke bekommst\n",
+        "du die {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r"
+      ]
+    },
+    {
+      "id": "msg_0443_00006",
+      "de_DE": [
+        "Für deine zehn Grünstücke bekommst\n",
+        "du die {STRVAR_1 8, 0} {STRVAR_1 6, 1}.\r"
+      ]
+    },
+    {
+      "id": "msg_0443_00007",
+      "de_DE": [
+        "Du möchtest nichts?!?\n",
+        "Mann, fühle ich mich abgelehnt..."
+      ]
+    },
+    {
+      "id": "msg_0443_00008",
+      "de_DE": [
+        "Oh, dein Beutel ist voll.\r",
+        "Kicher... Dann tauschen wir eben ein\n",
+        "anderes Mal. Das ist schon in Ordnung."
+      ]
+    },
+    {
+      "id": "msg_0443_00009",
+      "de_DE": [
+        "Purpurstück: Sonnentag\n",
+        "Indigostück: Regentanz\f",
+        "Gelbstück: Sandsturm\f",
+        "Grünstück: Hagelsturm\f",
+        " - Klima-Institut -"
+      ]
+    }
+  ]
+}

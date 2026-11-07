@@ -1,0 +1,43 @@
+{
+  "key": 5215,
+  "messages": [
+    {
+      "id": "msg_0367_00000",
+      "de_DE": [
+        "...Da steht etwas geschrieben!\n",
+        "Willst du es lesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0367_00001",
+      "de_DE": [
+        "Meine lieben Brüder und Schwestern,\n",
+        "PKMN-Trainern unter die Arme greifen\f",
+        "zu dürfen, ist unser ganzer Stolz.\r",
+        "Wenn uns ein Trainer anspricht, geben\n",
+        "wir ihm immer gerne ein nützliches Item!\r",
+        "Gezeichnet, Monja\r",
+        "Weiterlesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0367_00002",
+      "de_DE": [
+        "Montag: Monja\n",
+        "...Route 40\r",
+        "Dienstag: Dietlinde\n",
+        "...Route 29\r",
+        "Mittwoch: Mitko\n",
+        "...See des Zorns\r",
+        "Donnerstag: Donatus\n",
+        "...Route 36\r",
+        "Freitag: Frieda\n",
+        "...Route 32\r",
+        "Samstag: Samson\n",
+        "...Ebenholz City\r",
+        "Sonntag: Sonnfried\n",
+        "...Route 37"
+      ]
+    }
+  ]
+}

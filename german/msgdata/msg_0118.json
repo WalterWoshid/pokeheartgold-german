@@ -1,0 +1,25 @@
+{
+  "key": 17514,
+  "messages": [
+    {
+      "id": "msg_0118_00000",
+      "de_DE": [
+        "Gut so, MASCHOCK!\n",
+        "Setze den Container da drüben ab!\r"
+      ]
+    },
+    {
+      "id": "msg_0118_00001",
+      "de_DE": [
+        "Dank unserer MASCHOCK ist das\n",
+        "Lagerhaus ruck, zuck aufgeräumt!\r",
+        "Das Zeug am Boden ist Schrott.\n",
+        "Greif ruhig zu, wenn du möchtest!"
+      ]
+    },
+    {
+      "id": "msg_0118_00002",
+      "de_DE": "MASCHOCK: Mascho Maschock!"
+    }
+  ]
+}

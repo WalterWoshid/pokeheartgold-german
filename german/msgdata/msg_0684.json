@@ -1,0 +1,155 @@
+{
+  "key": 63124,
+  "messages": [
+    {
+      "id": "msg_0684_00000",
+      "de_DE": "Greg"
+    },
+    {
+      "id": "msg_0684_00001",
+      "de_DE": [
+        "He, du bist ja richtig gut!\n",
+        "Du gefällst mir!\r",
+        "Also, ich gehe hier täglich\n",
+        "auf Pokémon-Pirsch.\r",
+        "Und dabei finde ich alle Arten von\n",
+        "Beeren im Gras.\r",
+        "Wenn du möchtest, teile ich mit dir.\n",
+        "Gibst du mir deine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0684_00002",
+      "de_DE": [
+        "Ich melde mich, sobald ich etwas finde.\n",
+        "Du darfst schon jetzt gespannt sein!"
+      ]
+    },
+    {
+      "id": "msg_0684_00003",
+      "de_DE": [
+        "Hmm... zu schade auch.\r",
+        "Solltest du es dir anders überlegen,\n",
+        "scheue dich nicht, mich anzusprechen!"
+      ]
+    },
+    {
+      "id": "msg_0684_00004",
+      "de_DE": [
+        "Ich finde ständig alle Arten von\n",
+        "Beeren im Gras.\r",
+        "Wenn du möchtest, teile ich mit dir.\n",
+        "Gibst du mir deine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0684_00005",
+      "de_DE": [
+        "Schön, dich zu sehen!\n",
+        "Hier, das habe ich gefunden.\f",
+        "Händchen auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0684_00006",
+      "de_DE": [
+        "Du bist doch nicht weit weg.\n",
+        "Komm vorbei, dann reden wir."
+      ]
+    },
+    {
+      "id": "msg_0684_00007",
+      "de_DE": [
+        "Wie entwickeln sich deine Pokémon so?\r",
+        "Meine Pokémon wachsen mir viel zu\n",
+        "schnell! Ich komme gar nicht mehr mit.\r",
+        "Besonders mein {STRVAR_1 0, 10, 0} - man kann\n",
+        "ihm beim Wachsen förmlich zusehen.\f",
+        "Es ist schon richtig stark geworden!\r",
+        "Bis demnächst wieder!"
+      ]
+    },
+    {
+      "id": "msg_0684_00008",
+      "de_DE": [
+        "Eben habe ich ein wildes {STRVAR_1 0, 11, 0}\n",
+        "mit nur einem Schlag besiegt.\r",
+        "Es ging so hart zu Boden, dass\n",
+        "ich fast schon Mitleid hatte.\r",
+        "Bis demnächst wieder!"
+      ]
+    },
+    {
+      "id": "msg_0684_00009",
+      "de_DE": [
+        "Mir ist noch etwas eingefallen...\n",
+        "Neulich hatte ich ein {STRVAR_1 0, 11, 0}\f",
+        "fast so weit, aber dann entkam es doch.\r",
+        "Klar, sie sind nicht gerade selten.\r",
+        "Trotzdem ärgert es mich, dass es\n",
+        "entkam, obwohl ich es schon fast hatte.\r",
+        "Bis demnächst wieder!"
+      ]
+    },
+    {
+      "id": "msg_0684_00010",
+      "de_DE": [
+        "Lust auf einen Pokémon-Kampf? Es wird\n",
+        "nicht so leicht wie beim letzten Mal!\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\n",
+        "Komm schnell vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0684_00011",
+      "de_DE": [
+        "Lass uns endlich kämpfen!\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\n",
+        "Los, gib Gummi!"
+      ]
+    },
+    {
+      "id": "msg_0684_00012",
+      "de_DE": [
+        "Was? Wie? Beeren?\r",
+        "Sorry, ich habe noch keine gefunden.\n",
+        "Ich rufe an, wenn ich welche finde."
+      ]
+    },
+    {
+      "id": "msg_0684_00013",
+      "de_DE": [
+        "Ich habe alle möglichen Beeren\n",
+        "gefunden. Wenn du willst, teile\f",
+        "ich mit dir.\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0684_00014",
+      "de_DE": [
+        "Wo bleibst du denn?\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}.\n",
+        "Jetzt aber hopp, hopp!"
+      ]
+    },
+    {
+      "id": "msg_0684_00015",
+      "de_DE": [
+        "Heute findet das Käferturnier im\n",
+        "Nationalpark statt.\f",
+        "Gehst du hin, {STRVAR_1 3, 0, 0}?\r",
+        "Ich? Ich weiß noch nicht recht."
+      ]
+    },
+    {
+      "id": "msg_0684_00016",
+      "de_DE": [
+        "Heute findet das Käferturnier im\n",
+        "Nationalpark statt.\f",
+        "Gehst du hin, {STRVAR_1 3, 0, 0}?\r",
+        "Ich? Ich weiß noch nicht recht."
+      ]
+    }
+  ]
+}

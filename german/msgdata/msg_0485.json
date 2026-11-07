@@ -1,0 +1,142 @@
+{
+  "key": 14693,
+  "messages": [
+    {
+      "id": "msg_0485_00000",
+      "de_DE": [
+        "Major Bob: Hey, Rekrut!\r",
+        "Du forderst mich zum Kampf heraus?\n",
+        "Du weißt wohl nicht, wer ich bin!\f",
+        "Meine Elektro-Pokémon sind\f",
+        "unschlagbar! Die Besten der Besten!\r",
+        "Sie haben das Schlachtfeld bis\n",
+        "jetzt immer siegreich verlassen!\r",
+        "Nun werden ihre Elektroattacken auch\n",
+        "dich grillen, genau wie sie es mit den\f",
+        "Soldaten des Feindes taten!\r"
+      ]
+    },
+    {
+      "id": "msg_0485_00001",
+      "de_DE": [
+        "Major Bob: Oh nein!\n",
+        "Du bist sehr stark, Rekrut.\r",
+        "Na gut, du Wicht. Hiermit verleihe\n",
+        "ich dir den Donnerorden.\r"
+      ]
+    },
+    {
+      "id": "msg_0485_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Donnerorden!"
+      ]
+    },
+    {
+      "id": "msg_0485_00003",
+      "de_DE": [
+        "Major Bob: Den Donnerorden bekommen\n",
+        "nur Rekruten, die mich besiegt haben.\f",
+        "Trage ihn also mit Stolz!\r",
+        "So, weiter geht’s mit den Geschenken.\r",
+        "Dieses wunderbare Maschinchen soll\n",
+        "von nun an dir gehören, Rekrut.\r"
+      ]
+    },
+    {
+      "id": "msg_0485_00004",
+      "de_DE": [
+        "Major Bob: Diese TM enthält\n",
+        "Schockwelle! Damit fegst du deine\f",
+        "Gegner britzbratz von der Bildfläche!\r",
+        "Lass es krachen und bahne dir damit\n",
+        "den Weg durch die gegnerischen Reihen!\r",
+        "Nördlich von hier gibt es übrigens eine\n",
+        "große Stadt namens Saffronia City!"
+      ]
+    },
+    {
+      "id": "msg_0485_00005",
+      "de_DE": [
+        "Major Bob: Hey, Rekrut! Ich hoffe doch\n",
+        "sehr, dass du hier nicht herumfaulenzt!\r",
+        "Nördlich von hier gibt es eine große\n",
+        "Stadt namens Saffronia City!"
+      ]
+    },
+    {
+      "id": "msg_0485_00006",
+      "de_DE": [
+        "Hey, du! Zukünftige Legende!\n",
+        "Du hast Glück! Die Fallen dieser Arena\f",
+        "waren kurzzeitig außer Betrieb, aber\f",
+        "jetzt funktionieren sie wieder!\r",
+        "Hm? Was das mit Glück zu tun haben soll?\r",
+        "Na ja, denke doch alleine mal an den\n",
+        "Trainingseffekt! Ist das nicht genug?\r",
+        "Also dann! Fordere Major Bob zum\n",
+        "Kampf heraus! Sei auf alles gefasst!"
+      ]
+    },
+    {
+      "id": "msg_0485_00007",
+      "de_DE": [
+        "Was für ein aufregendes Match!\n",
+        "Ich habe richtig mitgefiebert!"
+      ]
+    },
+    {
+      "id": "msg_0485_00008",
+      "de_DE": [
+        "Raschel, wühl...\n",
+        "Nein, da ist nur Müll drin."
+      ]
+    },
+    {
+      "id": "msg_0485_00009",
+      "de_DE": [
+        "Katschack...\n",
+        "Oha! Am Boden des Mülleimers\f",
+        "ist ein geheimer Schalter!\f",
+        "Drücke ihn doch mal! Na los! Klick!"
+      ]
+    },
+    {
+      "id": "msg_0485_00010",
+      "de_DE": [
+        "Raschel, wühl...\n",
+        "Alles voller Müll! Oh! Die Schlösser der\f",
+        "Elektrobarriere wurden zurückgesetzt!"
+      ]
+    },
+    {
+      "id": "msg_0485_00011",
+      "de_DE": [
+        "Das erste Schloss der Elektrobarriere\n",
+        "wurde gelöst!"
+      ]
+    },
+    {
+      "id": "msg_0485_00012",
+      "de_DE": [
+        "Das zweite Schloss der Elektrobarriere\n",
+        "wurde gelöst!\r",
+        "Die Elektrobarriere zum Arenaleiter\n",
+        "wurde gelöst!"
+      ]
+    },
+    {
+      "id": "msg_0485_00013",
+      "de_DE": "Pokémon-Arena von Orania City"
+    },
+    {
+      "id": "msg_0485_00014",
+      "de_DE": [
+        "Pokémon-Arena von Orania City\r",
+        "Leiter: Major Bob\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

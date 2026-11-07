@@ -1,0 +1,40 @@
+{
+  "key": 29723,
+  "messages": [
+    {
+      "id": "msg_0054_00000",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0054_00001",
+      "de_DE": [
+        "Hallo Trainer!\n",
+        "Dies hier habe ich gefunden.\r",
+        "Es befand sich in der Fracht \n",
+        "aus einem anderen Land.\r",
+        "Ich habe dafür keine Verwendung,\n",
+        "daher schenke ich es dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0054_00002",
+      "de_DE": [
+        "Du weißt, dass Pokémon ihre\n",
+        "individuellen Fähigkeiten haben?\r",
+        "Mit der Attacke Wertewechsel kann\n",
+        "die Fähigkeit des Anwenders mit der\f",
+        "des Gegners getauscht werden.\r",
+        "Wie du diese Attacke einsetzt, wird\n",
+        "zeigen, wie gut du als Trainer bist."
+      ]
+    },
+    {
+      "id": "msg_0054_00003",
+      "de_DE": [
+        "Irgendwo weit hinter dem Meer...\r",
+        "Gibt es andere Länder, in denen\n",
+        "Pokémon mit ihren Trainern leben.\n"
+      ]
+    }
+  ]
+}

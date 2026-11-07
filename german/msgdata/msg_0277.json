@@ -1,0 +1,137 @@
+{
+  "key": 20891,
+  "messages": [
+    {
+      "id": "msg_0277_00000",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0277_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0277_00002",
+      "de_DE": "{STRVAR_1 52, 0, 0}:{STRVAR_1 51, 1, 0}"
+    },
+    {
+      "id": "msg_0277_00003",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0277_00004",
+      "de_DE": "Teilnahmen am Pokéathlon"
+    },
+    {
+      "id": "msg_0277_00005",
+      "de_DE": "Erster Pl. in einem Turnier"
+    },
+    {
+      "id": "msg_0277_00006",
+      "de_DE": "Letzter Pl. in einem Turnier"
+    },
+    {
+      "id": "msg_0277_00007",
+      "de_DE": "Bonuspunkte"
+    },
+    {
+      "id": "msg_0277_00008",
+      "de_DE": "Erster Pl. in einer Disziplin"
+    },
+    {
+      "id": "msg_0277_00009",
+      "de_DE": "Letzter Pl. in einer Disziplin"
+    },
+    {
+      "id": "msg_0277_00010",
+      "de_DE": "Konnex-Kämpfe"
+    },
+    {
+      "id": "msg_0277_00011",
+      "de_DE": "Siege bei Konnex-Kämpfen"
+    },
+    {
+      "id": "msg_0277_00012",
+      "de_DE": "Niederl. bei Konnex-Kämpfen"
+    },
+    {
+      "id": "msg_0277_00013",
+      "de_DE": "Gesamtzeit beim Pokéathlon"
+    },
+    {
+      "id": "msg_0277_00014",
+      "de_DE": "Siege beim Hürdenlauf"
+    },
+    {
+      "id": "msg_0277_00015",
+      "de_DE": "Siege b. Flaggenschnappen"
+    },
+    {
+      "id": "msg_0277_00016",
+      "de_DE": "Siege beim Drängelkreis"
+    },
+    {
+      "id": "msg_0277_00017",
+      "de_DE": "Siege beim Ziegelbrechen"
+    },
+    {
+      "id": "msg_0277_00018",
+      "de_DE": "Siege beim Diskusfangen"
+    },
+    {
+      "id": "msg_0277_00019",
+      "de_DE": "Siege beim Lampionspringen"
+    },
+    {
+      "id": "msg_0277_00020",
+      "de_DE": "Siege beim Staffellauf"
+    },
+    {
+      "id": "msg_0277_00021",
+      "de_DE": "Siege beim Ringrangeln"
+    },
+    {
+      "id": "msg_0277_00022",
+      "de_DE": "Siege bei der Schneeschlacht"
+    },
+    {
+      "id": "msg_0277_00023",
+      "de_DE": "Siege beim Torschießen"
+    },
+    {
+      "id": "msg_0277_00024",
+      "de_DE": "Pokémon-Berührungen"
+    },
+    {
+      "id": "msg_0277_00025",
+      "de_DE": "Sprints"
+    },
+    {
+      "id": "msg_0277_00026",
+      "de_DE": "Sprünge"
+    },
+    {
+      "id": "msg_0277_00027",
+      "de_DE": "Angriffe"
+    },
+    {
+      "id": "msg_0277_00028",
+      "de_DE": "Wechsel"
+    },
+    {
+      "id": "msg_0277_00029",
+      "de_DE": "Punktabzüge"
+    },
+    {
+      "id": "msg_0277_00030",
+      "de_DE": "Gewertete Aktionen"
+    },
+    {
+      "id": "msg_0277_00031",
+      "de_DE": "Schnitzer"
+    },
+    {
+      "id": "msg_0277_00032",
+      "de_DE": "Ring Outs"
+    }
+  ]
+}

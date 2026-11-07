@@ -1,0 +1,200 @@
+{
+  "key": 17598,
+  "messages": [
+    {
+      "id": "msg_0562_00000",
+      "de_DE": [
+        "Hallo!\n",
+        "Ich arbeite für Jubelstadt TV!\r",
+        "Wie wäre es mit einem schnellen\n",
+        "Interview?"
+      ]
+    },
+    {
+      "id": "msg_0562_00001",
+      "de_DE": [
+        "Oh, wie schade. Vielleicht klappt es ein\n",
+        "anderes Mal!"
+      ]
+    },
+    {
+      "id": "msg_0562_00002",
+      "de_DE": [
+        "Danke, dass du dir die Zeit für uns\n",
+        "genommen hast.\r",
+        "Dieses Interview wird bald in\n",
+        "einer Sendung ausgestrahlt.\r",
+        "Schalte doch ein und sieh dir an,\n",
+        "wie du im Fernsehen rüberkommst!"
+      ]
+    },
+    {
+      "id": "msg_0562_00003",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0562_00004",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Würdest du uns von der Duellturm-\n",
+        "Herausforderung berichten?\r",
+        "Und wie geht es dir im Moment?\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0562_00006",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Dein {STRVAR_1 0, 0} ist ein sehr\n",
+        "liebenswürdiges Pokémon, nicht wahr?\r",
+        "Wie denkst du über dein {STRVAR_1 0, 0}?\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0562_00008",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Darf ich fragen, welches Pokétch-\n",
+        "Zubehör du am häufigsten nutzt?\r",
+        "...{STRVAR_1 24, 0}...\n",
+        "Ich verstehe!\r",
+        "Was hältst du vom Zubehör\n",
+        "{STRVAR_1 24, 0}?\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00009",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Würdest du uns von der Wettbewerbs-\n",
+        "Herausforderung berichten?\r",
+        "Und wie geht es dir im Moment?\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00010",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0562_00011",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Dürfte ich deine Meinung zu dem\n",
+        "fertig gestellten Foto erfahren?\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00012",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Bitte wähle deinen liebsten \n",
+        "Pokémon-Typ aus dieser Liste.\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00013",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Wie gefällt es dir denn, Knurspe\n",
+        "herzustellen?\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0562_00015",
+      "de_DE": [
+        "Vielen Dank! Lass uns am besten\n",
+        "keine Zeit verlieren...\r",
+        "Wie hat dir denn der Spaziergang mit\n",
+        "deinem {STRVAR_1 0, 0} gefallen?\r",
+        "Und wie geht es dir im Moment?\r"
+      ]
+    },
+    {
+      "id": "msg_0562_00016",
+      "de_DE": "Normal"
+    },
+    {
+      "id": "msg_0562_00017",
+      "de_DE": "Feuer"
+    },
+    {
+      "id": "msg_0562_00018",
+      "de_DE": "Wasser"
+    },
+    {
+      "id": "msg_0562_00019",
+      "de_DE": "Elektro"
+    },
+    {
+      "id": "msg_0562_00020",
+      "de_DE": "Pflanze"
+    },
+    {
+      "id": "msg_0562_00021",
+      "de_DE": "Eis"
+    },
+    {
+      "id": "msg_0562_00022",
+      "de_DE": "Kampf"
+    },
+    {
+      "id": "msg_0562_00023",
+      "de_DE": "Gift"
+    },
+    {
+      "id": "msg_0562_00024",
+      "de_DE": "Boden"
+    },
+    {
+      "id": "msg_0562_00025",
+      "de_DE": "Flug"
+    },
+    {
+      "id": "msg_0562_00026",
+      "de_DE": "Psycho"
+    },
+    {
+      "id": "msg_0562_00027",
+      "de_DE": "Käfer"
+    },
+    {
+      "id": "msg_0562_00028",
+      "de_DE": "Gestein"
+    },
+    {
+      "id": "msg_0562_00029",
+      "de_DE": "Geist"
+    },
+    {
+      "id": "msg_0562_00030",
+      "de_DE": "Drachen"
+    },
+    {
+      "id": "msg_0562_00031",
+      "de_DE": "Unlicht"
+    },
+    {
+      "id": "msg_0562_00032",
+      "de_DE": "Stahl"
+    }
+  ]
+}

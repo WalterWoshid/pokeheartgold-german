@@ -1,0 +1,50 @@
+{
+  "key": 54315,
+  "messages": [
+    {
+      "id": "msg_0247_00000",
+      "de_DE": [
+        "Avenaro: Hehehe!\n",
+        "Sieh dir das an, {STRVAR_1 3, 1}!\r",
+        "Da ist der Magmastein,\n",
+        "der Schatz des Kahlberges!\r",
+        "Da ich ihn gefunden habe, bin ich\n",
+        "jetzt der beste Trainer von allen!\r",
+        "Danke, ihr alle habt euren\n",
+        "Beitrag geleistet!\r"
+      ]
+    },
+    {
+      "id": "msg_0247_00001",
+      "de_DE": "Avenaro: Uff!\r"
+    },
+    {
+      "id": "msg_0247_00002",
+      "de_DE": [
+        "Avenaro: Boah! Wow!\r",
+        "Hehehe! Das war heftig!\n",
+        "Der Vulkan bebt förmlich!\r",
+        "Vielleicht bricht er sogar aus!\n",
+        "Ach was, das passiert schon nicht!\r",
+        "Man sieht sich, {STRVAR_1 3, 1}!\r",
+        "Grüße mir deinen zappeligen\n",
+        "Trainer-Kumpel!\r"
+      ]
+    },
+    {
+      "id": "msg_0247_00003",
+      "de_DE": "Guogobo guobobobo!\r"
+    },
+    {
+      "id": "msg_0247_00004",
+      "de_DE": [
+        "HEATRAN verschwindet im\n",
+        "Inneren des Vulkans..."
+      ]
+    },
+    {
+      "id": "msg_0247_00005",
+      "garbage": 0
+    }
+  ]
+}

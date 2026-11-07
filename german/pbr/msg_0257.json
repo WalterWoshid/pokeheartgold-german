@@ -1,0 +1,23 @@
+{
+  "key": 53182,
+  "messages": [
+    {
+      "id": "msg_0257_00000",
+      "de_DE": "Möchtest du irgendwohin?"
+    },
+    {
+      "id": "msg_0257_00001",
+      "de_DE": [
+        "Aye, aye!\n",
+        "Anker lichten!\r"
+      ]
+    },
+    {
+      "id": "msg_0257_00002",
+      "de_DE": [
+        "Sag mir einfach Bescheid, falls\n",
+        "du irgendwohin möchtest."
+      ]
+    }
+  ]
+}

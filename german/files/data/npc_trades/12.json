@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_BELDUM",
+  "hpIv": 28,
+  "atkIv": 29,
+  "defIv": 24,
+  "speedIv": 23,
+  "spAtkIv": 24,
+  "spDefIv": 25,
+  "ability": 29,
+  "otId": 23478,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 1226452,
+  "heldItem": "ITEM_DAWN_STONE",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_FORRETRESS",
+  "unk_50": 0
+}

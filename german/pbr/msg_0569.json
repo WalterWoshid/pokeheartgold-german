@@ -1,0 +1,673 @@
+{
+  "key": 64717,
+  "messages": [
+    {
+      "id": "msg_0569_00000",
+      "de_DE": "Prismensphäre"
+    },
+    {
+      "id": "msg_0569_00001",
+      "de_DE": "Prismensphäre"
+    },
+    {
+      "id": "msg_0569_00002",
+      "de_DE": "{COLOR 4}Weißsphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00003",
+      "de_DE": "{COLOR 1}Purpursphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00004",
+      "de_DE": "{COLOR 2}Indigosphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00005",
+      "de_DE": "{COLOR 3}Jadesphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00006",
+      "de_DE": "Prismensph."
+    },
+    {
+      "id": "msg_0569_00007",
+      "de_DE": "{COLOR 4}Weißsphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00008",
+      "de_DE": "{COLOR 1}Purpursphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00009",
+      "de_DE": "{COLOR 2}Indigosphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00010",
+      "de_DE": "{COLOR 3}Jadesphäre{COLOR 0}"
+    },
+    {
+      "id": "msg_0569_00011",
+      "de_DE": "Ovaler Stein"
+    },
+    {
+      "id": "msg_0569_00012",
+      "de_DE": "Spiritkern"
+    },
+    {
+      "id": "msg_0569_00013",
+      "de_DE": "Sonnenstein"
+    },
+    {
+      "id": "msg_0569_00014",
+      "de_DE": "Sternenstück"
+    },
+    {
+      "id": "msg_0569_00015",
+      "de_DE": "Mondstein"
+    },
+    {
+      "id": "msg_0569_00016",
+      "de_DE": "Granitstein"
+    },
+    {
+      "id": "msg_0569_00017",
+      "de_DE": "Donnerstein"
+    },
+    {
+      "id": "msg_0569_00018",
+      "de_DE": "Ewigstein"
+    },
+    {
+      "id": "msg_0569_00019",
+      "de_DE": "Feuerstein"
+    },
+    {
+      "id": "msg_0569_00020",
+      "de_DE": "Wasserstein"
+    },
+    {
+      "id": "msg_0569_00021",
+      "de_DE": "Blattstein"
+    },
+    {
+      "id": "msg_0569_00022",
+      "de_DE": "Nugget"
+    },
+    {
+      "id": "msg_0569_00023",
+      "de_DE": "Helixfossil"
+    },
+    {
+      "id": "msg_0569_00024",
+      "de_DE": "Domfossil"
+    },
+    {
+      "id": "msg_0569_00025",
+      "de_DE": "Klauenfossil"
+    },
+    {
+      "id": "msg_0569_00026",
+      "de_DE": "Wurzelfossil"
+    },
+    {
+      "id": "msg_0569_00027",
+      "de_DE": "Altbernstein"
+    },
+    {
+      "id": "msg_0569_00028",
+      "de_DE": "Steinknochen"
+    },
+    {
+      "id": "msg_0569_00029",
+      "de_DE": "Beleber"
+    },
+    {
+      "id": "msg_0569_00030",
+      "de_DE": "Top-Beleber"
+    },
+    {
+      "id": "msg_0569_00031",
+      "de_DE": "Purpurstück"
+    },
+    {
+      "id": "msg_0569_00032",
+      "de_DE": "Indigostück"
+    },
+    {
+      "id": "msg_0569_00033",
+      "de_DE": "Gelbstück"
+    },
+    {
+      "id": "msg_0569_00034",
+      "de_DE": "Grünstück"
+    },
+    {
+      "id": "msg_0569_00035",
+      "de_DE": "Herzschuppe"
+    },
+    {
+      "id": "msg_0569_00036",
+      "de_DE": "Panzerfossil"
+    },
+    {
+      "id": "msg_0569_00037",
+      "de_DE": "Kopffossil"
+    },
+    {
+      "id": "msg_0569_00038",
+      "de_DE": "Lichtlehm"
+    },
+    {
+      "id": "msg_0569_00039",
+      "de_DE": "Eisenkugel"
+    },
+    {
+      "id": "msg_0569_00040",
+      "de_DE": "Eisbrocken"
+    },
+    {
+      "id": "msg_0569_00041",
+      "de_DE": "Glattbrocken"
+    },
+    {
+      "id": "msg_0569_00042",
+      "de_DE": "Heißbrocken"
+    },
+    {
+      "id": "msg_0569_00043",
+      "de_DE": "Nassbrocken"
+    },
+    {
+      "id": "msg_0569_00044",
+      "de_DE": "Feuertafel"
+    },
+    {
+      "id": "msg_0569_00045",
+      "de_DE": "Wassertafel"
+    },
+    {
+      "id": "msg_0569_00046",
+      "de_DE": "Blitztafel"
+    },
+    {
+      "id": "msg_0569_00047",
+      "de_DE": "Wiesentafel"
+    },
+    {
+      "id": "msg_0569_00048",
+      "de_DE": "Frosttafel"
+    },
+    {
+      "id": "msg_0569_00049",
+      "de_DE": "Fausttafel"
+    },
+    {
+      "id": "msg_0569_00050",
+      "de_DE": "Gifttafel"
+    },
+    {
+      "id": "msg_0569_00051",
+      "de_DE": "Erdtafel"
+    },
+    {
+      "id": "msg_0569_00052",
+      "de_DE": "Wolkentafel"
+    },
+    {
+      "id": "msg_0569_00053",
+      "de_DE": "Hirntafel"
+    },
+    {
+      "id": "msg_0569_00054",
+      "de_DE": "Käfertafel"
+    },
+    {
+      "id": "msg_0569_00055",
+      "de_DE": "Steintafel"
+    },
+    {
+      "id": "msg_0569_00056",
+      "de_DE": "Spuktafel"
+    },
+    {
+      "id": "msg_0569_00057",
+      "de_DE": "Dracotafel"
+    },
+    {
+      "id": "msg_0569_00058",
+      "de_DE": "Furchttafel"
+    },
+    {
+      "id": "msg_0569_00059",
+      "de_DE": "Eisentafel"
+    },
+    {
+      "id": "msg_0569_00060",
+      "de_DE": "Schließen"
+    },
+    {
+      "id": "msg_0569_00061",
+      "de_DE": "Schließt die Tasche."
+    },
+    {
+      "id": "msg_0569_00062",
+      "de_DE": [
+        "Diese Sphäre leuchtet in sieben Farben.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00063",
+      "de_DE": [
+        "Diese Sphäre leuchtet in sieben Farben.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00064",
+      "de_DE": [
+        "Eine kristallklare, harte Sphäre.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00065",
+      "de_DE": [
+        "Eine rote Sphäre, die wie Feuer glüht.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00066",
+      "de_DE": [
+        "Eine blaue Sphäre, die wie Eis glitzert.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00067",
+      "de_DE": [
+        "Sie leuchtet wie Sonnenlicht in den\n",
+        "Blättern. Wächst nach dem Vergraben."
+      ]
+    },
+    {
+      "id": "msg_0569_00068",
+      "de_DE": [
+        "Diese Sphäre leuchtet in sieben Farben.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00069",
+      "de_DE": [
+        "Eine kristallklare, harte Sphäre.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00070",
+      "de_DE": [
+        "Eine rote Sphäre, die wie Feuer glüht.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00071",
+      "de_DE": [
+        "Eine blaue Sphäre, die wie Eis glitzert.\n",
+        "Vergräbt man sie, wächst sie stetig."
+      ]
+    },
+    {
+      "id": "msg_0569_00072",
+      "de_DE": [
+        "Sie leuchtet wie Sonnenlicht in den\n",
+        "Blättern. Wächst nach dem Vergraben."
+      ]
+    },
+    {
+      "id": "msg_0569_00073",
+      "de_DE": [
+        "Ein hübscher, weißer Stein, geformt\n",
+        "wie ein Ei."
+      ]
+    },
+    {
+      "id": "msg_0569_00074",
+      "de_DE": [
+        "Wird benötigt, um zu verhindern, dass\n",
+        "ein Steinturm einstürzt."
+      ]
+    },
+    {
+      "id": "msg_0569_00075",
+      "de_DE": [
+        "Wird für Entwicklung benötigt. Er\n",
+        "leuchtet so rot wie die Abendsonne."
+      ]
+    },
+    {
+      "id": "msg_0569_00076",
+      "de_DE": [
+        "Stück eines hübschen, leuchtenden\n",
+        "Edelsteins. Erzielt einen hohen Preis."
+      ]
+    },
+    {
+      "id": "msg_0569_00077",
+      "de_DE": [
+        "Wird für Entwicklung benötigt. So\n",
+        "schwarz wie der Nachthimmel."
+      ]
+    },
+    {
+      "id": "msg_0569_00078",
+      "de_DE": [
+        "Ein Item, das die Effektivität einer\n",
+        "Gestein-Attacke verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00079",
+      "de_DE": [
+        "Wird für Entwicklung benötigt. Das\n",
+        "Muster eines Blitzes ist erkennbar."
+      ]
+    },
+    {
+      "id": "msg_0569_00080",
+      "de_DE": [
+        "Hält ein Pokémon diesen Stein, wird\n",
+        "die Entwicklung des Pokémon verhindert."
+      ]
+    },
+    {
+      "id": "msg_0569_00081",
+      "de_DE": [
+        "Orangefarbener Stein, der bestimmten\n",
+        "Pokémon bei der Entwicklung hilft."
+      ]
+    },
+    {
+      "id": "msg_0569_00082",
+      "de_DE": [
+        "Ein ungewöhnlicher, hellblauer Stein,\n",
+        "der für Entwicklung benötigt wird. "
+      ]
+    },
+    {
+      "id": "msg_0569_00083",
+      "de_DE": [
+        "Wird für Entwicklung benötigt. Ein\n",
+        "Blattmuster ist erkennbar."
+      ]
+    },
+    {
+      "id": "msg_0569_00084",
+      "de_DE": [
+        "Ein Goldnugget, das zu einem hohen\n",
+        "Preis verkauft werden kann."
+      ]
+    },
+    {
+      "id": "msg_0569_00085",
+      "de_DE": [
+        "Fossil der Schale eines aus dem Meer\n",
+        "stammenden, prähistorischen Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0569_00086",
+      "de_DE": [
+        "Fossil der Muschelschale eines\n",
+        "prähistorischen Meeres-Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0569_00087",
+      "de_DE": [
+        "Fossil der Klaue eines aus dem Meer\n",
+        "stammenden, prähistorischen Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0569_00088",
+      "de_DE": [
+        "Fossil der Wurzel eines aus dem Meer\n",
+        "stammenden, prähistorischen Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0569_00089",
+      "de_DE": [
+        "Stück eines Bernsteins, der die Gene\n",
+        "eines prähistorischen Pokémon enthält."
+      ]
+    },
+    {
+      "id": "msg_0569_00090",
+      "de_DE": [
+        "Archäologisch bedeutsamer Knochen.\n",
+        "Kann für gutes Geld verkauft werden."
+      ]
+    },
+    {
+      "id": "msg_0569_00091",
+      "de_DE": [
+        "Diese Medizin belebt das Pokémon und\n",
+        "stellt d. Hälfte der max. KP wieder her."
+      ]
+    },
+    {
+      "id": "msg_0569_00092",
+      "de_DE": [
+        "Diese Medizin belebt das Pokémon\n",
+        "und stellt die gesamten KP wieder her."
+      ]
+    },
+    {
+      "id": "msg_0569_00093",
+      "de_DE": [
+        "Es scheint, als ob dieses Stück von\n",
+        "einem sehr alten Werkzeug stammt."
+      ]
+    },
+    {
+      "id": "msg_0569_00094",
+      "de_DE": [
+        "Es scheint, als ob dieses Stück von\n",
+        "einem sehr alten Werkzeug stammt."
+      ]
+    },
+    {
+      "id": "msg_0569_00095",
+      "de_DE": [
+        "Es scheint, als ob dieses Stück von\n",
+        "einem sehr alten Werkzeug stammt."
+      ]
+    },
+    {
+      "id": "msg_0569_00096",
+      "de_DE": [
+        "Es scheint, als ob dieses Stück von\n",
+        "einem sehr alten Werkzeug stammt."
+      ]
+    },
+    {
+      "id": "msg_0569_00097",
+      "de_DE": [
+        "Eine hübsche, herzförmige Schuppe,\n",
+        "die sehr selten ist."
+      ]
+    },
+    {
+      "id": "msg_0569_00098",
+      "de_DE": [
+        "Fossil eines prähistorischen Pokémon.\n",
+        "Vielleicht ein Teil des Schlüsselbeins."
+      ]
+    },
+    {
+      "id": "msg_0569_00099",
+      "de_DE": [
+        "Fossil eines prähistorischen Pokémon.\n",
+        "Möglicherweise Teil eines Schädels."
+      ]
+    },
+    {
+      "id": "msg_0569_00100",
+      "de_DE": [
+        "Ein Item, das die Dauer von Lichtschild\n",
+        "und Reflektor verlängert."
+      ]
+    },
+    {
+      "id": "msg_0569_00101",
+      "de_DE": [
+        "Ein schweres Item. Senkt Initiative und\n",
+        "verhindert Fliegen und Schweben."
+      ]
+    },
+    {
+      "id": "msg_0569_00102",
+      "de_DE": [
+        "Ein Item, das die Dauer von\n",
+        "Hagelsturm verlängert."
+      ]
+    },
+    {
+      "id": "msg_0569_00103",
+      "de_DE": [
+        "Ein Item, das die Dauer von\n",
+        "Sandsturm verlängert."
+      ]
+    },
+    {
+      "id": "msg_0569_00104",
+      "de_DE": [
+        "Ein Item, das die Dauer von\n",
+        "Sonnentag verlängert."
+      ]
+    },
+    {
+      "id": "msg_0569_00105",
+      "de_DE": [
+        "Ein Item, das die Dauer von\n",
+        "Regentanz verlängert."
+      ]
+    },
+    {
+      "id": "msg_0569_00106",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Feuer verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00107",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Wasser verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00108",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Elektro verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00109",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Pflanze verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00110",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Eis verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00111",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Kampf verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00112",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Gift verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00113",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Boden verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00114",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Flug verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00115",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Psycho verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00116",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Käfer verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00117",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Gestein verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00118",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Geist verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00119",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Drachen verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00120",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Unlicht verstärkt."
+      ]
+    },
+    {
+      "id": "msg_0569_00121",
+      "de_DE": [
+        "Ein Item, das die Effektivität der\n",
+        "Attacken vom Typ Stahl verstärkt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "key": 42083,
+  "messages": [
+    {
+      "id": "msg_0541_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Hallo!\n",
+        "Bist du ein Fan von Pokémon?\r",
+        "{STRVAR_1 3, 0, 0}: Hey, ich habe dich\n",
+        "zuerst gefragt!\r",
+        "{STRVAR_1 3, 0, 0}: ...Hä? Was soll das hier\n",
+        "werden? Du bist echt komisch...\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Hallo!\n",
+        "Bist du ein Fan von Pokémon?\r",
+        "{STRVAR_1 3, 0, 0}: Hey, ich habe dich\n",
+        "zuerst gefragt!\r",
+        "{STRVAR_1 3, 0, 0}: ...Hä? Was soll das hier\n",
+        "werden? Du bist echt komisch...\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00002",
+      "de_DE": [
+        "Nachahmerin: ...Hm?\n",
+        "Das Nachahmen aufgeben?\r",
+        "Aber das ist doch meine\n",
+        "Lieblingsbeschäftigung!\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Hallo! Wie geht’s dir so?\n",
+        "Du bist traurig, weil du deine Poképuppe\f",
+        "von PIEPI verloren hast, stimmt’s?\r",
+        "{STRVAR_1 3, 0, 0}: Gibst du mir einen\n",
+        "Fahrschein, wenn ich sie finde?\r",
+        "{STRVAR_1 3, 0, 0}: In Ordnung, dann werde\n",
+        "ich sie für dich suchen gehen!\r",
+        "Du hast sie wahrscheinlich auf dem\n",
+        "Weg nach Orania City verloren, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Hallo! Wie geht’s dir so?\n",
+        "Du bist traurig, weil du deine Poképuppe\f",
+        "von PIEPI verloren hast, stimmt’s?\r",
+        "{STRVAR_1 3, 0, 0}: Gibst du mir einen\n",
+        "Fahrschein, wenn ich sie finde?\r",
+        "{STRVAR_1 3, 0, 0}: In Ordnung, dann werde\n",
+        "ich sie für dich suchen gehen!\r",
+        "Du hast sie wahrscheinlich auf dem\n",
+        "Weg nach Orania City verloren, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00005",
+      "de_DE": [
+        "Nachahmerin: Was? Ich soll dir\n",
+        "nicht sagen, was du zu tun hast?\r",
+        "Aber ich mache mir wirklich Sorgen!\n",
+        "Was, wenn jemand sie finden sollte?\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00006",
+      "de_DE": [
+        "Nachahmerin: Oh jaaa! Das ist sie!\n",
+        "Das ist meine Poképuppe von PIEPI!\r",
+        "Siehst du die offene Naht hier rechts?\n",
+        "Das ist der Beweis, dass es meine ist!\r",
+        "Also gut! Hier hast du den Fahrschein.\n",
+        "Wie versprochen!\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00007",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0541_00008",
+      "de_DE": [
+        "Nachahmerin: Wenn du am Eingang zum\n",
+        "Bahnhof diesen Fahrschein vorlegst,\f",
+        "kannst du mit dem Magnetzug reisen!\r",
+        "Das hat mir der Mann von der Eisenbahn\n",
+        "gegeben, als sie unser altes Haus\f",
+        "abgerissen haben, um dort den\f",
+        "Bahnhof bauen zu können."
+      ]
+    },
+    {
+      "id": "msg_0541_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Hallo! Vielen Dank für\n",
+        "den Fahrschein noch mal!\r",
+        "{STRVAR_1 3, 0, 0}: Oh Mann...\r",
+        "{STRVAR_1 3, 0, 0}: Macht es dir wirklich\n",
+        "so viel Spaß, mich nachzuahmen?\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00010",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}: Hallo! Vielen Dank für\n",
+        "den Fahrschein noch mal!\r",
+        "{STRVAR_1 3, 0, 0}: Oh Mann...\r",
+        "{STRVAR_1 3, 0, 0}: Macht es dir wirklich\n",
+        "so viel Spaß, mich nachzuahmen?\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00011",
+      "de_DE": [
+        "Nachahmerin: Na klar!\n",
+        "Ich amüsiere mich wie verrückt!\r"
+      ]
+    },
+    {
+      "id": "msg_0541_00012",
+      "de_DE": [
+        "Diese Puppe sieht ja ziemlich echt aus!\r",
+        "Uah! Sie hat sich bewegt! Hoppla, das\n",
+        "war wohl ein echtes BANETTE!"
+      ]
+    },
+    {
+      "id": "msg_0541_00013",
+      "de_DE": "BANETTE: Babababanette!"
+    },
+    {
+      "id": "msg_0541_00014",
+      "de_DE": [
+        "Da hat jemand eine Puppe von einem\n",
+        "blumenförmigen Pokémon aufgestellt.\r",
+        "Es ist ein KINOSO!"
+      ]
+    },
+    {
+      "id": "msg_0541_00015",
+      "de_DE": [
+        "Da hat jemand eine Puppe von einem\n",
+        "nasenförmigen Pokémon aufgestellt.\r",
+        "Es ist ein NASGNET!"
+      ]
+    },
+    {
+      "id": "msg_0541_00016",
+      "de_DE": [
+        "Das ist ein PIEPI!\n",
+        "... ... ... ?\r",
+        "Ach so, es ist nur eine Puppe..."
+      ]
+    },
+    {
+      "id": "msg_0541_00017",
+      "de_DE": [
+        "Das ist eine Puppe von einem PIEPI!\r",
+        "An der rechten Seite kann man eine\n",
+        "kleine offene Naht erkennen."
+      ]
+    }
+  ]
+}

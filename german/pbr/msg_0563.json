@@ -1,0 +1,547 @@
+{
+  "key": 50512,
+  "messages": [
+    {
+      "id": "msg_0563_00000",
+      "de_DE": [
+        "MC: Guten Morgen!\n",
+        "Zieht hier jeder Pokémon auf?\r",
+        "Zeit für “Kämpfende Trainer”!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00001",
+      "de_DE": [
+        "MC: Guten Tag!\n",
+        "Zieht hier jeder Pokémon auf?\r",
+        "Zeit für “Kämpfende Trainer”!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00002",
+      "de_DE": [
+        "MC: Guten Abend!\n",
+        "Zieht hier jeder Pokémon auf?\r",
+        "Zeit für “Kämpfende Trainer”!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00003",
+      "de_DE": [
+        "Dann legen wir mal los und\n",
+        "sehen uns mal die Trainer an!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00004",
+      "de_DE": [
+        "MC: Okay! Wie geht es nun bei\n",
+        "“Kämpfende Trainer” weiter?\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00005",
+      "de_DE": [
+        "MC: Ich hoffe, euch hat die Ausgabe von\n",
+        "“Kämpfende Trainer” gefallen.\r",
+        "Bis zum nächsten Mal...\n",
+        "Und gute Kämpfe euch allen!"
+      ]
+    },
+    {
+      "id": "msg_0563_00006",
+      "de_DE": [
+        "MC: Bei “Kämpfende Trainer” sind wir\n",
+        "immer Neuigkeiten auf der Spur.\r",
+        "Unsere Leute sind in der ganzen Region\n",
+        "Sinnoh für euch unterwegs.\r",
+        "Wir freuen uns schon, Neues von den\n",
+        "Trainern zu hören!\r",
+        "Und damit ist unsere Sendezeit schon\n",
+        "wieder am Ende. Bis zum nächsten Mal...\f",
+        "Und gute Kämpfe euch allen!"
+      ]
+    },
+    {
+      "id": "msg_0563_00007",
+      "de_DE": [
+        "MC: Guten Morgen. Es ist Zeit für den\n",
+        "“Pokémon-Report”.\r",
+        "Wir beobachten die Trends rund um\n",
+        "Pokémon, indem wir direkt mit den\f",
+        "Trainern sprechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00008",
+      "de_DE": [
+        "MC: Guten Tag. Es ist Zeit für den\n",
+        "“Pokémon-Report”.\r",
+        "Wir beobachten die Trends rund um\n",
+        "Pokémon, indem wir direkt mit den\f",
+        "Trainern sprechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00009",
+      "de_DE": [
+        "MC: Guten Abend. Es ist Zeit für den\n",
+        "“Pokémon-Report”.\r",
+        "Wir beobachten die Trends rund um\n",
+        "Pokémon, indem wir direkt mit den\f",
+        "Trainern sprechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00010",
+      "de_DE": [
+        "Dann sehen wir uns doch mal den ersten\n",
+        "Beitrag an.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00011",
+      "de_DE": [
+        "MC: Wir fahren nun mit dem\n",
+        "nächsten Beitrag fort.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00012",
+      "de_DE": [
+        "MC: Wir hoffen, dass euch diese Folge\n",
+        "von “Pokémon-Report” gefallen hat.\r",
+        "Vielleicht sehen wir euch ja das nächste\n",
+        "Mal in einem der Beiträge.\r",
+        "Damit sind wir am Ende der Sendung.\n",
+        "Auf Wiedersehen!"
+      ]
+    },
+    {
+      "id": "msg_0563_00013",
+      "de_DE": [
+        "MC: In der Sendung “Pokémon-Report”\n",
+        "suchen wir immer nach Trainern, die sich\f",
+        "gerne interviewen lassen.\r",
+        "Wenn ihr einen unserer Interviewer\n",
+        "trefft, sagt Hallo und gewährt ihm ein\f",
+        "Interview.\r",
+        "Und das ist schon alles für heute.\n",
+        "Auf Wiedersehen!"
+      ]
+    },
+    {
+      "id": "msg_0563_00014",
+      "de_DE": [
+        "MC: Pokémon! Kämpfe! Trainer!\r",
+        "Guten Morgen! Ich hoffe, alle hatten\n",
+        "seit der letzten Sendung gute Kämpfe!\r",
+        "Nun ist es aber Zeit für das\n",
+        "“Kampf-Studio”! Hier erhaltet ihr\r",
+        "tiefgehende Analysen über all die\n",
+        "heißblütigen Trainer dort draußen!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00015",
+      "de_DE": [
+        "MC: Pokémon! Kämpfe! Trainer!\r",
+        "Guten Tag! Ich hoffe, alle hatten\n",
+        "seit der letzten Sendung gute Kämpfe!\r",
+        "Nun ist es aber Zeit für das\n",
+        "“Kampf-Studio”! Hier erhaltet ihr\r",
+        "tiefgehende Analysen über all die\n",
+        "heißblütigen Trainer dort draußen!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00016",
+      "de_DE": [
+        "MC: Pokémon! Kämpfe! Trainer!\r",
+        "Guten Abend! Ich hoffe, alle hatten\n",
+        "seit der letzten Sendung gute Kämpfe!\r",
+        "Nun ist es aber Zeit für das\n",
+        "“Kampf-Studio”! Hier erhaltet ihr\r",
+        "tiefgehende Analysen über all die\n",
+        "heißblütigen Trainer dort draußen!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00017",
+      "de_DE": [
+        "Und schon geht es weiter mit der\n",
+        "Show! Kampf ab!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00018",
+      "de_DE": [
+        "MC: Und schon geht es mit dem nächsten\n",
+        "Bericht weiter! Kampf ab!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00019",
+      "de_DE": [
+        "MC: Und damit sind wir auch schon wieder\n",
+        "am Ende unserer Sendezeit!\r",
+        "Hoffentlich sehen wir uns bei der\n",
+        "nächsten Sendung wieder! Kampf ab!"
+      ]
+    },
+    {
+      "id": "msg_0563_00020",
+      "de_DE": [
+        "MC: Das “Kampf-Studio” benötigt\n",
+        "deine Hilfe!\r",
+        "Wir sind immer auf der Jagd nach heißen\n",
+        "Geschichten rund um Pokémon-Kämpfe.\r",
+        "Es wäre zudem sehr hilfreich, wenn du im\n",
+        "Konnex-Klub den Statistiktausch\f",
+        "machen könntest.\r",
+        "Auf diese Weise können wir auch\n",
+        "Nachrichten über die Kämpfe deiner\f",
+        "Freunde senden.\r",
+        "Hoffentlich sehen wir uns bei der\n",
+        "nächsten Sendung wieder! Kampf ab!"
+      ]
+    },
+    {
+      "id": "msg_0563_00021",
+      "de_DE": [
+        "MC: “Ein Tag im Leben eines Trainers”!\r",
+        "Diese Sendung gibt interessante\n",
+        "Einblicke in das tägliche Leben eines\f",
+        "Trainers.\r",
+        "Wir behandeln dabei eine Vielfalt von\n",
+        "Themen, die Trainer betreffen und auch\f",
+        "bewegen.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00022",
+      "de_DE": [
+        "MC: “Ein Tag im Leben eines Trainers”!\r",
+        "Diese Sendung gibt interessante\n",
+        "Einblicke in das tägliche Leben eines\f",
+        "Trainers.\r",
+        "Wir behandeln dabei eine Vielfalt von\n",
+        "Themen, die Trainer betreffen und auch\f",
+        "bewegen.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00023",
+      "de_DE": [
+        "MC: “Ein Tag im Leben eines Trainers”!\r",
+        "Diese Sendung gibt interessante\n",
+        "Einblicke in das tägliche Leben eines\f",
+        "Trainers.\r",
+        "Wir behandeln dabei eine Vielfalt von\n",
+        "Themen, die Trainer betreffen und auch\f",
+        "bewegen.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00024",
+      "de_DE": [
+        "Dann sehen wir uns mal einen Aspekt\n",
+        "des Alltags eines Trainers an.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00025",
+      "de_DE": [
+        "MC: Sehen wir uns einmal den Tag eines\n",
+        "Trainers aus anderer Perspektive an.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00026",
+      "de_DE": [
+        "MC: Und damit sind wir schon wieder am\n",
+        "Ende von “Ein Tag im Leben eines\f",
+        "Trainers”.\r",
+        "Wir hoffen, ihr fandet die Sendung\n",
+        "unterhaltsam und informativ.\r",
+        "Selbst in scheinbar alltäglichen\n",
+        "Abläufen steckt viel Interessantes.\r",
+        "Wir werden auch weiterhin die Augen\n",
+        "nach spannenden Geschichten offen\f",
+        "halten.\r",
+        "Auf Wiedersehen und bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0563_00027",
+      "de_DE": [
+        "MC: Wir suchen nach Tipps bezüglich\n",
+        "der auf Trainer bezogenen\f",
+        "Berichterstattung in der Sendung.\r",
+        "Zieht bitte auch einen Statistiktausch\n",
+        "im Konnex-Klub in Betracht.\r",
+        "Damit können wir auch die Gewohnheiten\n",
+        "eurer Freunde analysieren.\r",
+        "Schaltet bitte auch beim nächsten Mal\n",
+        "wieder ein. Auf Wiedersehen und\f",
+        "bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0563_00028",
+      "de_DE": [
+        "MC: Guten Morgen. Und willkommen beim\n",
+        "Sinnoh-Nachrichten-Netzwerk.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00029",
+      "de_DE": [
+        "MC: Guten Tag. Und willkommen beim\n",
+        "Sinnoh-Nachrichten-Netzwerk.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00030",
+      "de_DE": [
+        "MC: Guten Abend. Und willkommen beim\n",
+        "Sinnoh-Nachrichten-Netzwerk.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00031",
+      "de_DE": [
+        "Hier nun die wichtigste Nachricht\n",
+        "des Tages.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00032",
+      "de_DE": "Und nun zu folgendem Beitrag.\r"
+    },
+    {
+      "id": "msg_0563_00033",
+      "de_DE": [
+        "MC: Das waren die Nachrichten.\n",
+        "Vielen Dank für’s Zusehen."
+      ]
+    },
+    {
+      "id": "msg_0563_00034",
+      "de_DE": [
+        "MC: Das Sinnoh-Nachrichten-Netzwerk\n",
+        "hat seine Teams, die Nachrichten vor\r",
+        "Ort recherchieren, in der gesamten\n",
+        "Region verteilt.\r",
+        "Durch den Statistiktausch im Konnex-\n",
+        "Klub kannst auch du uns helfen.\r",
+        "Auf diese Weise erfahren wir, welche\n",
+        "Nachrichten für deine Freunde\f",
+        "interessant sein könnten.\r",
+        "Sei auch bei der nächsten Sendung des\n",
+        "Sinnoh-Nachrichten-Netzwerks wieder\f",
+        "dabei. Vielen Dank für’s Zusehen."
+      ]
+    },
+    {
+      "id": "msg_0563_00035",
+      "de_DE": [
+        "MC: Guten Morgen!\r",
+        "Zeit für “Riesige Rekorde”!\r",
+        "Wie immer sehen wir uns auch dieses Mal\n",
+        "einen aus der Vielzahl von Rekorden an,\f",
+        "die von Trainern aufgestellt wurden.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00036",
+      "de_DE": [
+        "MC: Guten Tag!\r",
+        "Zeit für “Riesige Rekorde”!\r",
+        "Wie immer sehen wir uns auch dieses Mal\n",
+        "einen aus der Vielzahl von Rekorden an,\f",
+        "die von Trainern aufgestellt wurden.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00037",
+      "de_DE": [
+        "MC: Guten Abend!\r",
+        "Zeit für “Riesige Rekorde”!\r",
+        "Wie immer sehen wir uns auch dieses Mal\n",
+        "einen aus der Vielzahl von Rekorden an,\f",
+        "die von Trainern aufgestellt wurden.\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00038",
+      "de_DE": [
+        "Dann übergebe ich jetzt an unsere\n",
+        "Experten Tania und Sergio.\r",
+        "Hoffentlich können sie uns wieder von\n",
+        "interessanten Rekorden berichten!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00039",
+      "de_DE": [
+        "MC: Und hier ein weiterer Rekord, der\n",
+        "selbst unsere Experten zum Staunen\f",
+        "bringen wird!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00040",
+      "de_DE": [
+        "MC: Wir hoffen, ihr hattet heute\n",
+        "genauso viel Spaß bei\f",
+        "“Riesige Rekorde” wie wir!\r",
+        "Tschüss und bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0563_00041",
+      "de_DE": [
+        "MC: “Riesige Rekorde” möchte von\n",
+        "dir hören!\r",
+        "Sei nicht schüchtern und teile uns mit,\n",
+        "wenn du Rekorde gebrochen hast.\r",
+        "Auch ein Statistiktausch mit Freunden im\n",
+        "Konnex-Klub ist von Vorteil!\r",
+        "So erfahren wir auch von den Rekorden\n",
+        "deiner Freunde.\r",
+        "Wir möchten die Rekordmomente unserer\n",
+        "Zuschauer nicht verpassen!\r",
+        "Tschüss und bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0563_00042",
+      "de_DE": [
+        "MC: “Sinnoh-Szene”!\r",
+        "Darauf habt ihr alle gewartet!\r",
+        "Zeit für “Sinnoh-Szene”!\n",
+        "Deine Quelle für alles Wissenswerte!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00043",
+      "de_DE": [
+        "MC: “Sinnoh-Szene”!\r",
+        "Darauf habt ihr alle gewartet!\r",
+        "Zeit für “Sinnoh-Szene”!\n",
+        "Deine Quelle für alles Wissenswerte!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00044",
+      "de_DE": [
+        "MC: “Sinnoh-Szene”!\r",
+        "Darauf habt ihr alle gewartet!\r",
+        "Zeit für “Sinnoh-Szene”!\n",
+        "Deine Quelle für alles Wissenswerte!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00045",
+      "de_DE": [
+        "Hier ist die erste topaktuelle\n",
+        "Trendstory des Tages!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00046",
+      "de_DE": [
+        "MC: Und hier noch eine weitere\n",
+        "topaktuelle Geschichte!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00047",
+      "de_DE": [
+        "MC: Hat dir diese Ausgabe der\n",
+        "“Sinnoh-Szene” gefallen?\r",
+        "Wenn es um die neuesten Infos geht,\n",
+        "kannst du auf uns zählen!\r",
+        "Bis bald!"
+      ]
+    },
+    {
+      "id": "msg_0563_00048",
+      "de_DE": [
+        "MC: “Sinnoh-Szene” geht immer noch\n",
+        "einen Schritt weiter, um dir die Infos\f",
+        "zu bringen!\r",
+        "Wir werden auch weiterhin unser Bestes\n",
+        "geben, damit das so bleibt!\r",
+        "Bis bald auf diesem Kanal!"
+      ]
+    },
+    {
+      "id": "msg_0563_00049",
+      "de_DE": [
+        "MC: Guten Morgen!\r",
+        "Schalte ein und sei immer auf dem\n",
+        "Laufenden, was Mode angeht!\r",
+        "Sicherlich hast du es bereits erraten!\n",
+        "Willkommen bei “Trends auf der Spur”!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00050",
+      "de_DE": [
+        "MC: Guten Tag!\r",
+        "Schalte ein und sei immer auf dem\n",
+        "Laufenden, was Mode angeht!\r",
+        "Sicherlich hast du es bereits erraten!\n",
+        "Willkommen bei “Trends auf der Spur”!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00051",
+      "de_DE": [
+        "MC: Guten Abend!\r",
+        "Schalte ein und sei immer auf dem\n",
+        "Laufenden, was Mode angeht!\r",
+        "Sicherlich hast du es bereits erraten!\n",
+        "Willkommen bei “Trends auf der Spur”!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00052",
+      "de_DE": [
+        "Die Zuschauer warten schon auf die\n",
+        "neuesten Meldungen. Legt los, Leute!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00053",
+      "de_DE": [
+        "Nicht umschalten! Wir sind gleich wieder\n",
+        "mit einer heißen Story für euch da!\r"
+      ]
+    },
+    {
+      "id": "msg_0563_00054",
+      "de_DE": [
+        "MC: Wir hoffen, euch hat “Trends auf\n",
+        "der Spur” gefallen.\r",
+        "Seid auch das nächste Mal wieder dabei,\n",
+        "wenn wir euch von den neuesten Trends\f",
+        "berichten! Bis dann!\n"
+      ]
+    },
+    {
+      "id": "msg_0563_00055",
+      "de_DE": [
+        "MC: Wir hoffen, euch hat “Trends auf\n",
+        "der Spur” gefallen.\r",
+        "Wir werden euch auch weiterhin über\n",
+        "alles auf dem Laufenden halten und euch\f",
+        "zeigen, was in und was out ist!\r",
+        "Also seid auch das nächste Mal wieder\n",
+        "dabei! Bis dann!"
+      ]
+    }
+  ]
+}

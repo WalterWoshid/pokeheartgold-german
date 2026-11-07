@@ -1,0 +1,84 @@
+{
+  "key": 14693,
+  "messages": [
+    {
+      "id": "msg_0156_00000",
+      "de_DE": [
+        "...Nun denn, Herausforderer.\r",
+        "Es gibt nicht viele Trainer, die\n",
+        "es schaffen, mich herauszufordern.\r",
+        "Diejenigen, die es bis hierher geschafft\n",
+        "haben, waren bisher zu jämmerlich.\r",
+        "Ich kam nicht mal ins Schwitzen.\r",
+        "...Seufz...\n",
+        "Ich bin Arenaleiter Volkner.\r",
+        "Man sagt, ich wäre der beste\n",
+        "Arenaleiter in ganz Sinnoh, aber...\r",
+        "Wie dem auch sei, lass uns die Sache\n",
+        "einfach hinter uns bringen.\r",
+        "Hoffentlich bist du ein Trainer,\n",
+        "der eines Duells mit mir würdig ist!\r"
+      ]
+    },
+    {
+      "id": "msg_0156_00001",
+      "de_DE": [
+        "...Hehehe.\r",
+        "Hahaha!\r",
+        "...Das war der aufregendste Kampf,\n",
+        "seit... ich weiß nicht mehr wann!\r",
+        "So, wie du und dein Team kämpfen...\r",
+        "Ihr habt eine abenteuerliche\n",
+        "Zukunft vor euch.\r",
+        "Ihr könnt es tatsächlich sehr\n",
+        "weit bringen!\r",
+        "Hier ist dein achter Orden.\n",
+        "Den hast du dir redlich verdient!\r"
+      ]
+    },
+    {
+      "id": "msg_0156_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält den\n",
+        "Lichtorden von Volkner."
+      ]
+    },
+    {
+      "id": "msg_0156_00003",
+      "de_DE": [
+        "Mit dem Lichtorden kannst du\n",
+        "nun die Versteckte Maschine Kaskade\f",
+        "verwenden, wenn du nicht kämpfst.\r",
+        "Kaskade ist insbesondere in der\n",
+        "Pokémon Liga von größter Bedeutung.\r",
+        "Da dir alle acht Orden verliehen wurden,\n",
+        "gehorchen dir Pokémon jeglicher\f",
+        "Level ohne Ausnahme.\r",
+        "Außerdem möchte ich, dass du\n",
+        "das hier an dich nimmst.\r"
+      ]
+    },
+    {
+      "id": "msg_0156_00004",
+      "de_DE": [
+        "{STRVAR_1 8, 0} enthält die\n",
+        "Attacke {STRVAR_1 6, 1}.\r",
+        "Es kann den Spezial-Angriff\n",
+        "erhöhen und ist ziemlich heiß."
+      ]
+    },
+    {
+      "id": "msg_0156_00005",
+      "de_DE": [
+        "Als Nächstes hast du die\n",
+        "Pokémon Liga vor dir.\r",
+        "Überquere das Meer und bahne dir\n",
+        "deinen Weg durch die Siegesstraße.\r",
+        "Zeige der ganzen Pokémon Liga,\n",
+        "wie gut du dein Team im Griff hast.\r",
+        "Selbst die Top Vier können deine\n",
+        "Herausforderung nicht ablehnen!"
+      ]
+    }
+  ]
+}

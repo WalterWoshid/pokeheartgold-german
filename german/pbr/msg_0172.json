@@ -1,0 +1,51 @@
+{
+  "key": 50203,
+  "messages": [
+    {
+      "id": "msg_0172_00000",
+      "de_DE": [
+        "Hallo, hallo. Möchtest du einen\n",
+        "hippen Spruch hören?"
+      ]
+    },
+    {
+      "id": "msg_0172_00001",
+      "de_DE": [
+        "Nun gut...\r",
+        "Der hippe Spruch lautet...\r",
+        "{STRVAR_1 28, 0}!\r",
+        "Das ist total in, das zu sagen!"
+      ]
+    },
+    {
+      "id": "msg_0172_00002",
+      "de_DE": [
+        "Oh, jetzt komm schon. Mit so einer\n",
+        "Einstellung wirst du immer der Zeit\f",
+        "hinterherhinken!"
+      ]
+    },
+    {
+      "id": "msg_0172_00003",
+      "de_DE": [
+        "Ich hoffe, du setzt hippe\n",
+        "Sprüche auch hipp ein."
+      ]
+    },
+    {
+      "id": "msg_0172_00004",
+      "de_DE": [
+        "Hallo, hallo. Gibst du manchmal\n",
+        "einen hippen Spruch von dir?"
+      ]
+    },
+    {
+      "id": "msg_0172_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0172_00006",
+      "garbage": 0
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "key": 20235,
+  "messages": [
+    {
+      "id": "msg_0626_00000",
+      "de_DE": "GARADOS: Gaaar!!!"
+    },
+    {
+      "id": "msg_0626_00001",
+      "de_DE": "DRAGORAN: Draaagooo..."
+    },
+    {
+      "id": "msg_0626_00002",
+      "de_DE": [
+        "Ich wusste doch, dass mit diesem roten\n",
+        "GARADOS irgendwas nicht stimmen kann!\r",
+        "Es wurde also mit Gewalt dazu gebracht,\n",
+        "sich zu entwickeln, was?\r"
+      ]
+    },
+    {
+      "id": "msg_0626_00003",
+      "de_DE": [
+        "Bist du auch wegen der Gerüchte hier?\r",
+        "Du heißt {STRVAR_1 3, 0, 0}, nicht wahr?\r",
+        "Mein Name ist Siegfried, und ich bin\n",
+        "ein Trainer, genau wie du.\r",
+        "Als ich die Gerüchte hörte, bin ich\n",
+        "sofort hierhergekommen, um der\f",
+        "Sache auf den Grund zu gehen...\r",
+        "Ich habe dich vorhin kämpfen sehen.\n",
+        "Mir war sofort klar, dass du über\f",
+        "ein bemerkenswertes Talent als Trainer\f",
+        "verfügst, {STRVAR_1 3, 0, 0}.\r",
+        "Wärst du vielleicht bereit, mir ein\n",
+        "wenig zu helfen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0626_00004",
+      "de_DE": [
+        "Bist du auch wegen der Gerüchte hier?\r",
+        "Du heißt {STRVAR_1 3, 0, 0}, nicht wahr?\r",
+        "Mein Name ist Siegfried, und ich bin\n",
+        "ein Trainer, genau wie du.\r",
+        "Als ich die Gerüchte hörte, bin ich\n",
+        "sofort hierhergekommen, um der\f",
+        "Sache auf den Grund zu gehen...\r",
+        "Ich habe dich vorhin kämpfen sehen.\n",
+        "Mir war sofort klar, dass du über\f",
+        "ein bemerkenswertes Talent als Trainer\f",
+        "verfügst, {STRVAR_1 3, 0, 0}.\r",
+        "Wärst du vielleicht bereit, mir ein\n",
+        "wenig zu helfen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0626_00005",
+      "de_DE": [
+        "Siegfried: Ausgezeichnet, vielen Dank!\r",
+        "Ich habe den Verdacht, dass die\n",
+        "KARPADOR dieses Sees durch ein\f",
+        "mysteriöses Radiosignal, das seinen\f",
+        "Ursprung in Mahagonia City hat, dazu\f",
+        "gezwungen werden, sich zu entwickeln.\r",
+        "Ich glaube, das Signal stammt aus\n",
+        "diesem zwielichtigen Andenkenladen...\r",
+        "{STRVAR_1 3, 0, 0}, ich gehe schon mal vor\n",
+        "und untersuche Mahagonia City!"
+      ]
+    },
+    {
+      "id": "msg_0626_00006",
+      "de_DE": [
+        "Siegfried: Ausgezeichnet, vielen Dank!\r",
+        "Ich habe den Verdacht, dass die\n",
+        "KARPADOR dieses Sees durch ein\f",
+        "mysteriöses Radiosignal, das seinen\f",
+        "Ursprung in Mahagonia City hat, dazu\f",
+        "gezwungen werden, sich zu entwickeln.\r",
+        "Ich glaube, das Signal stammt aus\n",
+        "diesem zwielichtigen Andenkenladen...\r",
+        "{STRVAR_1 3, 0, 0}, ich gehe schon mal vor\n",
+        "und untersuche Mahagonia City!"
+      ]
+    },
+    {
+      "id": "msg_0626_00007",
+      "de_DE": [
+        "Na gut. Aber sag Bescheid, wenn du es\n",
+        "dir anders überlegen solltest!"
+      ]
+    },
+    {
+      "id": "msg_0626_00008",
+      "de_DE": [
+        "Siegfried: Wie sieht’s aus? Willst\n",
+        "du mir unter die Arme greifen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0626_00009",
+      "de_DE": [
+        "Das GARADOS ist wütend!\n",
+        "Das ist ein böses Omen!"
+      ]
+    },
+    {
+      "id": "msg_0626_00010",
+      "de_DE": [
+        "Haha! Die KARPADOR beißen ganz\n",
+        "ausgezeichnet!"
+      ]
+    },
+    {
+      "id": "msg_0626_00011",
+      "de_DE": [
+        "Angeblich entstand dieser See einst,\n",
+        "nachdem ein erbostes GARADOS hier\f",
+        "seinem Unmut Luft gemacht hatte.\r",
+        "Ich frage mich, ob der ganze Rummel\n",
+        "vielleicht etwas mit dieser Geschichte\f",
+        "zu tun hat..."
+      ]
+    },
+    {
+      "id": "msg_0626_00012",
+      "de_DE": [
+        "Ist da wirklich mitten im See\n",
+        "ein rotes GARADOS aufgetaucht, oder\f",
+        "spielen mir meine Augen einen Streich?\r",
+        "Ich dachte eigentlich, GARADOS seien\n",
+        "normalerweise blau!"
+      ]
+    },
+    {
+      "id": "msg_0626_00013",
+      "de_DE": [
+        "Norbert: Man könnte fast meinen, der\n",
+        "heftige Regen, der die Oberfläche des\f",
+        "vom Sturm aufgebrachten Sees peitscht,\f",
+        "würde seinen Zorn noch weiter schüren.\r",
+        "Das Schicksal muss wohl gewollt haben,\n",
+        "dass wir uns hier wieder treffen.\r",
+        "Komm, lass uns Telefonnummern\n",
+        "austauschen! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0626_00014",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Norberts Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0626_00015",
+      "de_DE": [
+        "Norbert: Ich versuche, jeden Montag\n",
+        "einen Kampf abzuhalten, damit meine\f",
+        "müden Glieder nicht weiter einrosten.\r",
+        "Hättest du Lust, mit mir zu trainieren?\n",
+        "Ruf mich an, wenn du Zeit hast!"
+      ]
+    },
+    {
+      "id": "msg_0626_00016",
+      "de_DE": [
+        "Norbert: Das verstehe ich natürlich.\n",
+        "Mein Motto lautet: “Man muss\f",
+        "sich selbst immer treu bleiben!”"
+      ]
+    },
+    {
+      "id": "msg_0626_00017",
+      "de_DE": [
+        "Norbert: Was sagst du? Wollen wir\n",
+        "Telefonnummern austauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0626_00018",
+      "de_DE": [
+        "Ich habe mir gerade ein ganz tolles\n",
+        "Pokémon an Land gezogen!\f",
+        "Los, lass uns kämpfen!"
+      ]
+    },
+    {
+      "id": "msg_0626_00019",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0626_00020",
+      "garbage": 45
+    },
+    {
+      "id": "msg_0626_00021",
+      "de_DE": [
+        "Egal wie sehr ich mich auch bemühe, ich\n",
+        "kriege immer nur die gleiche Art von\f",
+        "Pokémon an die Leine."
+      ]
+    },
+    {
+      "id": "msg_0626_00022",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0626_00023",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0626_00024",
+      "de_DE": [
+        "Trifft ein Trainer auf einen anderen,\n",
+        "so muss er ihn herausfordern.\f",
+        "Das ist unsere Bestimmung."
+      ]
+    },
+    {
+      "id": "msg_0626_00025",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0626_00026",
+      "garbage": 40
+    },
+    {
+      "id": "msg_0626_00027",
+      "de_DE": [
+        "Wo ist denn das rote GARADOS hin?\n",
+        "Was, es ist schon wieder weg?!?\r",
+        "Und dafür habe ich den weiten Weg\n",
+        "bis hierher auf mich genommen...\r",
+        "Aber was soll’s! Dann kämpfen wir eben!"
+      ]
+    },
+    {
+      "id": "msg_0626_00028",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0626_00029",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0626_00030",
+      "de_DE": [
+        "See des Zorns\r",
+        "(Auch bekannt als der\n",
+        "GARADOS-See)"
+      ]
+    },
+    {
+      "id": "msg_0626_00031",
+      "de_DE": "Haus des Profi-Anglers"
+    },
+    {
+      "id": "msg_0626_00032",
+      "de_DE": [
+        "Haus des Profi-Anglers\r",
+        "Aktueller Rekord:\n",
+        "{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0} cm ({STRVAR_1 3, 2, 0})"
+      ]
+    },
+    {
+      "id": "msg_0626_00033",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat\n",
+        "{STRVAR_1 8, 1, 0} gefunden!"
+      ]
+    },
+    {
+      "id": "msg_0626_00034",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} verstaut {STRVAR_1 8, 1, 0}\n",
+        "in der {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0}-Tasche."
+      ]
+    },
+    {
+      "id": "msg_0626_00035",
+      "de_DE": [
+        "{STRVAR_1 8, 0, 0} erhalten!\r",
+        "Jammerschade!\n",
+        "Der Beutel ist voll..."
+      ]
+    }
+  ]
+}

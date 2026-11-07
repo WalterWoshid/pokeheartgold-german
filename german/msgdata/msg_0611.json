@@ -1,0 +1,127 @@
+{
+  "key": 54391,
+  "messages": [
+    {
+      "id": "msg_0611_00000",
+      "de_DE": [
+        "Du da! Bist du ein Pokémon-Trainer?\n",
+        "Wenn du in den Bergen unterwegs bist,\f",
+        "stößt du manchmal auf runde Steine...\r",
+        "Mit einer Attacke namens Stärke können\n",
+        "deine Pokémon diese Dinger bewegen!\r",
+        "Angeblich haben die meisten Wanderer,\n",
+        "die den Kesselberg erkunden,\f",
+        "ein Pokémon dabei, das diese Attacke\f",
+        "beherrscht."
+      ]
+    },
+    {
+      "id": "msg_0611_00001",
+      "de_DE": [
+        "...Mampf, schling...\r",
+        "...Hust!\n",
+        "Ich habe mich verschluckt!\r",
+        "Ich bin aber auch selbst daran schuld.\n",
+        "Man muss immer gut kauen, bevor\f",
+        "man sein Essen runterschluckt!"
+      ]
+    },
+    {
+      "id": "msg_0611_00002",
+      "de_DE": [
+        "Immer wenn ich in diese Stadt komme,\n",
+        "schaue ich hier zum Essen vorbei.\r",
+        "Alles, was hier auf der Karte steht,\n",
+        "verleiht mir unglaubliche Kräfte.\f",
+        "Das Essen hier macht echt süchtig!"
+      ]
+    },
+    {
+      "id": "msg_0611_00003",
+      "de_DE": [
+        "Das Menü des Oliviana City-Cafés\n",
+        "ist randvoll gespickt mit deftiger\f",
+        "Seemannskost!"
+      ]
+    },
+    {
+      "id": "msg_0611_00004",
+      "de_DE": [
+        "Jasmin: Nett, dich zu sehen!\r",
+        "... ... ...\r",
+        "Also nicht, dass du jetzt denkst, ich\n",
+        "hätte diese Teller hier alle ganz alleine\f",
+        "leergeputzt...\r",
+        "Das, äh... genau!\r",
+        "Das sind alles noch die Reste von\n",
+        "einem anderen Gast!\r",
+        "... ... ...\r",
+        "Wollen wir Telefonnummern\n",
+        "austauschen? Ist doch eine gute\f",
+        "Gelegenheit, findest du nicht? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0611_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Jasmins Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0611_00006",
+      "de_DE": [
+        "Jasmin: Jetzt können wir immer\n",
+        "miteinander telefonieren.\r",
+        "Wenn du dich mittwochs um die\n",
+        "Mittagszeit bei mir meldest, können\f",
+        "wir unsere Pokémon gegeneinander\f",
+        "kämpfen lassen!"
+      ]
+    },
+    {
+      "id": "msg_0611_00007",
+      "de_DE": "Jasmin: Oh... in Ordnung..."
+    },
+    {
+      "id": "msg_0611_00008",
+      "de_DE": [
+        "Jasmin: Willst du jetzt doch mit mir\n",
+        "Telefonnummern austauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0611_00009",
+      "de_DE": [
+        "Jasmin: Dir begegnet man aber auch echt\n",
+        "an den unterschiedlichsten Orten.\r",
+        "Nutzen wir die Gunst der Stunde\n",
+        "und schießen ein Erinnerungsfoto? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0611_00010",
+      "de_DE": "Jasmin: Gut, los geht’s!\r"
+    },
+    {
+      "id": "msg_0611_00011",
+      "de_DE": [
+        "Jasmin: So, das war’s auch schon!\n",
+        "Das Foto ist echt schön geworden!"
+      ]
+    },
+    {
+      "id": "msg_0611_00012",
+      "de_DE": "Jasmin: Oh, in Ordnung..."
+    },
+    {
+      "id": "msg_0611_00013",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

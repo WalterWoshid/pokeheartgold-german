@@ -1,0 +1,68 @@
+{
+  "key": 59108,
+  "messages": [
+    {
+      "id": "msg_0190_00000",
+      "de_DE": [
+        "Lind: Berühre die Bälle, um nachzu-\n",
+        "sehen, welches Pokémon darin steckt!"
+      ]
+    },
+    {
+      "id": "msg_0190_00001",
+      "de_DE": [
+        "Lind: Entscheidest du dich für\n",
+        "{COLOR 3}ENDIVIE{COLOR 0}, das Pflanzen-Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0190_00002",
+      "de_DE": [
+        "Lind: Willst du {COLOR 1}FEURIGEL{COLOR 0}, das\n",
+        "Feuer-Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0190_00003",
+      "de_DE": [
+        "Lind: Wählst du {COLOR 2}KARNIMANI{COLOR 0},\n",
+        "das Wasser-Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0190_00004",
+      "de_DE": [
+        "In diesem Ball steckt das\n",
+        "Pflanzen-Pokémon, {COLOR 3}ENDIVIE{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0190_00005",
+      "de_DE": [
+        "In diesem Ball steckt das\n",
+        "Feuer-Pokémon, {COLOR 1}FEURIGEL{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0190_00006",
+      "de_DE": [
+        "In diesem Ball steckt das\n",
+        "Wasser-Pokémon, {COLOR 2}KARNIMANI{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0190_00007",
+      "de_DE": [
+        "Berühre einen Ball, wenn du\n",
+        "deine Wahl getroffen hast!"
+      ]
+    },
+    {
+      "id": "msg_0190_00008",
+      "de_DE": [
+        "Festlegen: Berühre die Mitte des Balls.\n",
+        "Neu wählen: Berühre eine freie Stelle."
+      ]
+    }
+  ]
+}

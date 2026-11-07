@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_96.inc"
 	.include "global.inc"
@@ -54707,6 +54708,9 @@ ov96_02200BC8: ; 0x02200BC8
 	bx lr
 	thumb_func_end ov96_02200BC8
 
+#ifdef GERMAN
+#include "german_ov96_02200BD8.inc"
+#else
 	thumb_func_start ov96_02200BD8
 ov96_02200BD8: ; 0x02200BD8
 	push {r3, r4, r5, lr}
@@ -54756,6 +54760,7 @@ ov96_02200BD8: ; 0x02200BD8
 	.balign 4, 0
 _02200C3C: .word 0x000F0E00
 	thumb_func_end ov96_02200BD8
+#endif
 
 	thumb_func_start ov96_02200C40
 ov96_02200C40: ; 0x02200C40
@@ -70264,6 +70269,9 @@ ov96_02208864: ; 0x02208864
 _022088A8: .word 0x000001A2
 	thumb_func_end ov96_02208864
 
+#ifdef GERMAN
+#include "german_ov96_022088AC.inc"
+#else
 	thumb_func_start ov96_022088AC
 ov96_022088AC: ; 0x022088AC
 	push {r3, r4, r5, lr}
@@ -70313,6 +70321,7 @@ ov96_022088AC: ; 0x022088AC
 	.balign 4, 0
 _02208910: .word 0x000F0E00
 	thumb_func_end ov96_022088AC
+#endif
 
 	thumb_func_start ov96_02208914
 ov96_02208914: ; 0x02208914
@@ -73018,6 +73027,9 @@ _02209E68: .word 0x00000135
 _02209E6C: .word ov96_0221CC60
 	thumb_func_end ov96_02209DE4
 
+#ifdef GERMAN
+#include "german_ov96_02209E70.inc"
+#else
 	thumb_func_start ov96_02209E70
 ov96_02209E70: ; 0x02209E70
 	push {r3, r4, r5, lr}
@@ -73094,6 +73106,7 @@ _02209E98:
 	add sp, #8
 	pop {r3, r4, r5, pc}
 	thumb_func_end ov96_02209E70
+#endif
 
 	thumb_func_start ov96_02209F14
 ov96_02209F14: ; 0x02209F14
@@ -93939,7 +93952,11 @@ _02214140:
 	add r6, r0, #0
 	mov r0, #1
 	str r0, [sp]
+#ifdef GERMAN
+	mov r0, #5
+#else
 	mov r0, #2
+#endif
 	str r0, [sp, #4]
 	add r0, r7, #0
 	mov r1, #0
@@ -105674,6 +105691,9 @@ _02219AE6:
 	.balign 4, 0
 	thumb_func_end ov96_02219A5C
 
+#ifdef GERMAN
+#include "german_ov96_02219B30.inc"
+#else
 	thumb_func_start ov96_02219B30
 ov96_02219B30: ; 0x02219B30
 	push {r3, r4, r5, lr}
@@ -105742,6 +105762,7 @@ ov96_02219B30: ; 0x02219B30
 	.balign 4, 0
 _02219BC0: .word 0x000F0E00
 	thumb_func_end ov96_02219B30
+#endif
 
 	thumb_func_start ov96_02219BC4
 ov96_02219BC4: ; 0x02219BC4
@@ -106141,6 +106162,9 @@ _02219E88:
 	.balign 4, 0
 	thumb_func_end ov96_02219E60
 
+#ifdef GERMAN
+#include "german_ov96_02219EE0.inc"
+#else
 	thumb_func_start ov96_02219EE0
 ov96_02219EE0: ; 0x02219EE0
 	push {r4, lr}
@@ -106173,6 +106197,7 @@ ov96_02219EE0: ; 0x02219EE0
 	pop {r4, pc}
 	.balign 4, 0
 	thumb_func_end ov96_02219EE0
+#endif
 
 	thumb_func_start ov96_02219F20
 ov96_02219F20: ; 0x02219F20

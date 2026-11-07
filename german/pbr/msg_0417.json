@@ -1,0 +1,82 @@
+{
+  "key": 40596,
+  "messages": [
+    {
+      "id": "msg_0417_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey! {STRVAR_1 3, 1}!\n",
+        "Bitte sag mir, dass du stärker\f",
+        "geworden bist!\r",
+        "Ich? Sieht man das nicht?!?\n",
+        "Sicher bin ich stärker geworden!!!\r",
+        "Los!\n",
+        "Ich beweise dir das!\r"
+      ]
+    },
+    {
+      "id": "msg_0417_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Waah! Ich habe\n",
+        "verloren?!? Wie meinst du das?!?\r",
+        "Das war’s dann wohl!\n",
+        "Das war das letzte Mal, dass ich\f",
+        "verloren habe!\r",
+        "Ich werde der stärkste Trainer,\n",
+        "den die Welt je gesehen hat,\f",
+        "und das weißt du ganz genau!\r",
+        "Als Erstes nehme ich mir den\n",
+        "Arenaleiter in Erzelingen vor!!!\r",
+        "Aber davor muss ich erst mal\n",
+        "richtig fleißig trainieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0417_00002",
+      "de_DE": [
+        "Wusstest du das?\r",
+        "Das Pokémon, das oben links\n",
+        "in deiner Teamliste steht,\f",
+        "erscheint als Erstes im Kampf."
+      ]
+    },
+    {
+      "id": "msg_0417_00003",
+      "de_DE": [
+        "Route 203\n",
+        "Jubelstadt"
+      ]
+    },
+    {
+      "id": "msg_0417_00004",
+      "de_DE": [
+        "Route 203\n",
+        "Erzelingen"
+      ]
+    },
+    {
+      "id": "msg_0417_00005",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Wenn du die Entwicklung eines Pokémon\n",
+        "stoppen willst, musst du den B-Knopf\r",
+        "drücken, während es sich entwickeln\n",
+        "will.\r",
+        "Das Pokémon entwickelt sich dann nicht.\n",
+        "Das nennt man Entwicklungsstopp."
+      ]
+    },
+    {
+      "id": "msg_0417_00006",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Neben den Kraftpunkten (KP) besitzt\n",
+        "ein Pokémon auch Angriffspunkte (AP),\r",
+        "die für die Attacken im Kampf gebraucht\n",
+        "werden.\r",
+        "Wenn ein Pokémon keine AP mehr besitzt,\n",
+        "muss es in ein Pokémon-Center gebracht\f",
+        "werden."
+      ]
+    }
+  ]
+}

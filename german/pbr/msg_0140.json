@@ -1,0 +1,58 @@
+{
+  "key": 9243,
+  "messages": [
+    {
+      "id": "msg_0140_00000",
+      "de_DE": "Willkommen im Kaufhaus von Schleiede."
+    },
+    {
+      "id": "msg_0140_00001",
+      "de_DE": [
+        "Dieses Kaufhaus garantiert höchste\n",
+        "Kundenzufriedenheit.\r",
+        "Sobald du Kunde bist, fühlst du dich\n",
+        "hier in guten Händen."
+      ]
+    },
+    {
+      "id": "msg_0140_00002",
+      "de_DE": [
+        "Ich liebe diesen Hauch des Luxus in\n",
+        "einem Kaufhaus der Oberklasse."
+      ]
+    },
+    {
+      "id": "msg_0140_00003",
+      "de_DE": [
+        "Ich habe ein Accessoire in Form\n",
+        "eines Pokémon geschaffen.\r",
+        "Möchtest du eins?\r"
+      ]
+    },
+    {
+      "id": "msg_0140_00004",
+      "de_DE": [
+        "{STRVAR_1 31, 0} ist ein Accessoire.\r",
+        "Genau das Richtige, um deine Pokémon\n",
+        "für Wettbewerbe vorzubereiten."
+      ]
+    },
+    {
+      "id": "msg_0140_00005",
+      "de_DE": [
+        "Entdecke dein Neues Ich!\n",
+        "Kaufhaus von Schleiede"
+      ]
+    },
+    {
+      "id": "msg_0140_00006",
+      "de_DE": [
+        "EG: Alles für den Trainer\r",
+        "1S: Alles für den Kampf\r",
+        "2S: TM\r",
+        "3S: Poképuppen und Deko\r",
+        "4S: Dachterrasse"
+      ]
+    }
+  ]
+}

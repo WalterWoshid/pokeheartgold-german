@@ -1,0 +1,82 @@
+{
+  "key": 9291,
+  "messages": [
+    {
+      "id": "msg_0151_00000",
+      "de_DE": [
+        "Oh, sind wir ein wenig müde?\n",
+        "...Nein, nicht du.\f",
+        "Ich meine deine Pokémon.\r",
+        "Wenn du möchtest, kann ich einem deiner\n",
+        "Pokémon eine Massage geben.\f",
+        "Möchtest du das?"
+      ]
+    },
+    {
+      "id": "msg_0151_00001",
+      "de_DE": [
+        "Welches braucht denn ein\n",
+        "wenig Entspannung?\r"
+      ]
+    },
+    {
+      "id": "msg_0151_00002",
+      "de_DE": [
+        "Oh!\n",
+        "Hey, ich tue ihnen doch nicht weh..."
+      ]
+    },
+    {
+      "id": "msg_0151_00003",
+      "de_DE": [
+        "Kicher... Dann mal los.\n",
+        "Entspann dich, mein Kleines...\r"
+      ]
+    },
+    {
+      "id": "msg_0151_00004",
+      "de_DE": [
+        "{STRVAR_1 0, 0} schaut verträumt und\n",
+        "zufrieden...\r"
+      ]
+    },
+    {
+      "id": "msg_0151_00005",
+      "de_DE": "Komm morgen wieder, wenn du magst."
+    },
+    {
+      "id": "msg_0151_00006",
+      "de_DE": [
+        "Spaßvogel! Wenn ich das Ei massiere,\n",
+        "dann geht es doch kaputt!"
+      ]
+    },
+    {
+      "id": "msg_0151_00007",
+      "de_DE": "Übrigens hielt dein Pokémon das hier.\r"
+    },
+    {
+      "id": "msg_0151_00008",
+      "de_DE": [
+        "Oh? Ich soll dir beibringen, wie man\n",
+        "Pokémon massiert?\r",
+        "Tehehe...\r",
+        "Das ist mein Berufsgeheimnis!\r",
+        "Bis morgen dann. Tschüss!"
+      ]
+    },
+    {
+      "id": "msg_0151_00009",
+      "de_DE": [
+        "Der Kerl mit den Schals in Weideburg ist\n",
+        "der Freund meiner Schwester.\r",
+        "Sie schicken sich regelmäßig Briefe.\n",
+        "Und die Pokémon stellen die Briefe zu."
+      ]
+    },
+    {
+      "id": "msg_0151_00010",
+      "de_DE": "PACHIRISU: Pachi chiii!"
+    }
+  ]
+}

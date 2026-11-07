@@ -1,0 +1,452 @@
+{
+  "key": 43257,
+  "messages": [
+    {
+      "id": "msg_0191_00000",
+      "de_DE": [
+        "Wähle den Juror, der die\n",
+        "Attacke bewerten soll."
+      ]
+    },
+    {
+      "id": "msg_0191_00001",
+      "de_DE": [
+        "Auftritt {COLOR 1}Nr. {STRVAR_1 50, 0}{COLOR 0}!\n",
+        "Welche Attacke wählst du?"
+      ]
+    },
+    {
+      "id": "msg_0191_00002",
+      "de_DE": [
+        "Der {COLOR 1}letzte {COLOR 0}Auftritt!\n",
+        "Wähle deine Attacke!"
+      ]
+    },
+    {
+      "id": "msg_0191_00003",
+      "de_DE": [
+        "{STRVAR_1 1, 0} führt\n",
+        "{STRVAR_1 3, 1} die Attacke\f",
+        "{STRVAR_1 6, 2} vor!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00004",
+      "de_DE": [
+        "Oh nein! Für diesen Juror hat\n",
+        "schon jemand vorgeführt!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0} war sehr\n",
+        "beeindruckt von\r",
+        "{STRVAR_1 1, 1} und\n",
+        "{STRVAR_1 1, 2}! {COLOR 1}+2{COLOR 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0} war\n",
+        "beeindruckt von\r",
+        "{STRVAR_1 1, 1}, {STRVAR_1 1, 2}\n",
+        "und {STRVAR_1 1, 3}! {COLOR 1}+1{COLOR 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00008",
+      "de_DE": [
+        "Alle haben für {STRVAR_1 3, 0}\n",
+        "vorgeführt...\r",
+        "Und deswegen war der Juror\n",
+        "nicht sehr beeindruckt.\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0} war äußerst\n",
+        "beeindruckt von\f",
+        "{STRVAR_1 1, 1}! {COLOR 1}+3{COLOR 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00010",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00011",
+      "de_DE": [
+        "Durch diese Coole\n",
+        "Attacke erhöhte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00012",
+      "de_DE": [
+        "Durch diese Schöne\n",
+        "Attacke erhöhte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00013",
+      "de_DE": [
+        "Durch diese Anmut-\n",
+        "Attacke erhöhte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00014",
+      "de_DE": [
+        "Durch diese Kluge\n",
+        "Attacke erhöhte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00015",
+      "de_DE": [
+        "Durch diese Starke\n",
+        "Attacke erhöhte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00016",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00017",
+      "de_DE": [
+        "Durch diese Coole\n",
+        "Attacke senkte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00018",
+      "de_DE": [
+        "Durch diese Schöne\n",
+        "Attacke senkte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00019",
+      "de_DE": [
+        "Durch diese Anmut-\n",
+        "Attacke senkte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00020",
+      "de_DE": [
+        "Durch diese Kluge\n",
+        "Attacke senkte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00021",
+      "de_DE": [
+        "Durch diese Starke\n",
+        "Attacke senkte sich die\f",
+        "Spannung von {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00022",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00023",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00024",
+      "de_DE": [
+        "Das Publikum ist ziemlich\n",
+        "aufgeregt!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00025",
+      "de_DE": [
+        "Das Publikum tobt vor\n",
+        "Aufregung! {COLOR 1}+{STRVAR_1 50, 0}{COLOR 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00026",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00027",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00028",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00029",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00030",
+      "de_DE": [
+        "{STRVAR_1 1, 0} stach nicht\n",
+        "besonders hervor.\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00031",
+      "de_DE": [
+        "{STRVAR_1 1, 0} erregte ein\n",
+        "wenig Aufmerksamkeit.\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00032",
+      "de_DE": [
+        "{STRVAR_1 1, 0} erregte durch-\n",
+        "schnittliche Aufmerksamkeit.\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00033",
+      "de_DE": [
+        "{STRVAR_1 1, 0} erregte eine\n",
+        "Menge Aufmerksamkeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00034",
+      "de_DE": [
+        "{STRVAR_1 1, 0} erhielt die\n",
+        "volle Aufmerksamkeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00035",
+      "de_DE": [
+        "Okay! Zeit für den\n",
+        "Aktionswettstreit!\r",
+        "Zeigt uns Attacken, die\n",
+        "Anmut darstellen!\r",
+        "Je vier Vorführungen!\n",
+        "Zeigt uns, was ihr könnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00036",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00037",
+      "de_DE": [
+        "Okay! Zeit für den\n",
+        "Aktionswettstreit!\r",
+        "Zeigt uns Attacken, die\n",
+        "Klugheit darstellen!\r",
+        "Je vier Vorführungen!\n",
+        "Zeigt uns, was ihr könnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00038",
+      "de_DE": [
+        "Okay! Zeit für den\n",
+        "Aktionswettstreit!\r",
+        "Zeigt uns Attacken, die\n",
+        "Stärke darstellen!\r",
+        "Je vier Vorführungen!\n",
+        "Zeigt uns, was ihr könnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00039",
+      "de_DE": [
+        "Okay! Zeit für den\n",
+        "Aktionswettstreit!\r",
+        "Zeigt uns Attacken, die\n",
+        "Schönheit darstellen!\r",
+        "Je vier Vorführungen!\n",
+        "Zeigt uns, was ihr könnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00040",
+      "de_DE": [
+        "Okay! Zeit für den\n",
+        "Aktionswettstreit!\r",
+        "Zeigt uns Attacken, die\n",
+        "Coolness darstellen!\r",
+        "Je vier Vorführungen!\n",
+        "Zeigt uns, was ihr könnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00041",
+      "de_DE": "COOLNESS-WETTBEWERB"
+    },
+    {
+      "id": "msg_0191_00042",
+      "de_DE": "SCHÖNHEITSWETTBEWERB"
+    },
+    {
+      "id": "msg_0191_00043",
+      "de_DE": "ANMUT-WETTBEWERB"
+    },
+    {
+      "id": "msg_0191_00044",
+      "de_DE": "KLUGHEITS-WETTBEWERB"
+    },
+    {
+      "id": "msg_0191_00045",
+      "de_DE": "STÄRKE-WETTBEWERB"
+    },
+    {
+      "id": "msg_0191_00046",
+      "de_DE": "NORMAL-KLASSE"
+    },
+    {
+      "id": "msg_0191_00047",
+      "de_DE": "MEGA-KLASSE"
+    },
+    {
+      "id": "msg_0191_00048",
+      "de_DE": "ULTRA-KLASSE"
+    },
+    {
+      "id": "msg_0191_00049",
+      "de_DE": "MASTER-KLASSE"
+    },
+    {
+      "id": "msg_0191_00050",
+      "de_DE": "ÜBUNG"
+    },
+    {
+      "id": "msg_0191_00051",
+      "de_DE": "LINK"
+    },
+    {
+      "id": "msg_0191_00052",
+      "de_DE": "WETTBEWERB"
+    },
+    {
+      "id": "msg_0191_00053",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0191_00054",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00055",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00056",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00057",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00058",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00059",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00060",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00061",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00062",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00063",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00064",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00065",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00066",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00067",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0191_00068",
+      "de_DE": [
+        "In der nächsten Runde\n",
+        "beginnt der Teilnehmer\f",
+        "mit den wenigsten Punkten.\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00069",
+      "de_DE": [
+        "Das war’s! Die Bewertungen\n",
+        "wurden abgegeben!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00070",
+      "garbage": 138
+    },
+    {
+      "id": "msg_0191_00071",
+      "de_DE": [
+        "Alle sind hier. Sehr schön!\r",
+        "Beginnen wir mit der\n",
+        "Aktionsübung!\r",
+        "Wähle zuerst die Attacke, die\n",
+        "dein Pokémon ausführen soll.\r",
+        "Und dann wähle den Juror,\n",
+        "der die ausgeführte Attacke\f",
+        "bewerten soll.\r",
+        "Jeder Teilnehmer darf vier\n",
+        "Mal vorführen.\r",
+        "Ziel ist es, beim Juror einen\n",
+        "starken Eindruck zu\r",
+        "hinterlassen und mehr Herzen\n",
+        "als die anderen zu erzielen!\r",
+        "Freuen wir uns nun auf einen\n",
+        "fantastischen Wettstreit!\r"
+      ]
+    },
+    {
+      "id": "msg_0191_00072",
+      "de_DE": "Verbindung wird gehalten..."
+    }
+  ]
+}

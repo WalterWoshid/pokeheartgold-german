@@ -1,0 +1,964 @@
+{
+  "key": 57678,
+  "messages": [
+    {
+      "id": "msg_0300_00000",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0300_00001",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0300_00002",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00003",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00004",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00005",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00006",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00007",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00008",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00009",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00010",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00011",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00012",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00013",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00014",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00015",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00016",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00017",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00018",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00019",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00020",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00021",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00022",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00023",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00024",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00025",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00026",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0300_00027",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0300_00028",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0300_00029",
+      "de_DE": "Wähle ein Pokémon."
+    },
+    {
+      "id": "msg_0300_00030",
+      "de_DE": "Wähle ein Pokémon.\r"
+    },
+    {
+      "id": "msg_0300_00031",
+      "de_DE": "An wessen Stelle setzen?"
+    },
+    {
+      "id": "msg_0300_00032",
+      "de_DE": "Welchem Pokémon geben?"
+    },
+    {
+      "id": "msg_0300_00033",
+      "de_DE": "Welches Pokémon?"
+    },
+    {
+      "id": "msg_0300_00034",
+      "de_DE": "Welches Pokémon lehren?"
+    },
+    {
+      "id": "msg_0300_00035",
+      "de_DE": "Wähle Pokémon u. bestätige."
+    },
+    {
+      "id": "msg_0300_00036",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0300_00037",
+      "de_DE": "Welches Pokémon?"
+    },
+    {
+      "id": "msg_0300_00038",
+      "de_DE": [
+        "Was tun mit\n",
+        "{STRVAR_1 1, 0, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0300_00039",
+      "de_DE": [
+        "Was willst du mit\n",
+        "dem Item machen?"
+      ]
+    },
+    {
+      "id": "msg_0300_00040",
+      "de_DE": [
+        "Was ist mit dem\n",
+        "Brief?"
+      ]
+    },
+    {
+      "id": "msg_0300_00041",
+      "de_DE": [
+        "Welche Attacke soll\n",
+        "aufgefüllt werden?"
+      ]
+    },
+    {
+      "id": "msg_0300_00042",
+      "de_DE": [
+        "AP welcher Attacke\n",
+        "heben?"
+      ]
+    },
+    {
+      "id": "msg_0300_00043",
+      "de_DE": [
+        "Diese Ballkapsel\n",
+        "anbringen?"
+      ]
+    },
+    {
+      "id": "msg_0300_00044",
+      "de_DE": [
+        "Den abgenommenen Brief\n",
+        "auf deinen PC übertragen?"
+      ]
+    },
+    {
+      "id": "msg_0300_00045",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00046",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00047",
+      "de_DE": [
+        "Der Brief wurde auf deinen\n",
+        "PC übertragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00048",
+      "de_DE": [
+        "Wird der Brief entfernt, geht\n",
+        "der Inhalt verloren, okay?"
+      ]
+    },
+    {
+      "id": "msg_0300_00049",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00050",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00051",
+      "de_DE": [
+        "Du kannst keine weiteren Briefe\n",
+        "auf deinen PC übertragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00052",
+      "de_DE": [
+        "Der Brief wurde dem\n",
+        "Pokémon abgenommen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00053",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht,\n",
+        "{STRVAR_1 6, 1, 0} zu erlernen.\r",
+        "Aber {STRVAR_1 1, 0, 0} kann nur maximal\n",
+        "vier Attacken erlernen.\r",
+        "Soll eine andere Attacke durch\n",
+        "{STRVAR_1 6, 1, 0} ersetzt werden?"
+      ]
+    },
+    {
+      "id": "msg_0300_00054",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00055",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00056",
+      "de_DE": [
+        "{STRVAR_1 6, 1, 0} nicht\n",
+        "erlernen?"
+      ]
+    },
+    {
+      "id": "msg_0300_00057",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00058",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00059",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "nicht erlernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00060",
+      "de_DE": [
+        "Welche Attacke soll vergessen\n",
+        "werden?\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00061",
+      "de_DE": [
+        "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... schwupp!{WAIT 3}{WAIT 5}\r",
+        "{STRVAR_1 1, 0, 0} hat\n",
+        "{STRVAR_1 6, 1, 0} vergessen.\r",
+        "Und...\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00062",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernt\n",
+        "{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00063",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} und {STRVAR_1 6, 1, 0}\n",
+        "sind nicht kompatibel.\r",
+        "{STRVAR_1 6, 1, 0} kann nicht\n",
+        "erlernt werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00064",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} kennt\n",
+        "{STRVAR_1 6, 1, 0} bereits.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00065",
+      "de_DE": [
+        "Die KP von {STRVAR_1 1, 0, 0} wurden\n",
+        "um {STRVAR_1 52, 1, 0} Punkt(e) aufgefüllt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00066",
+      "de_DE": [
+        "Die Vergiftung von {STRVAR_1 1, 0, 0}\n",
+        "wurde geheilt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00067",
+      "de_DE": [
+        "Die Paralyse von {STRVAR_1 1, 0, 0}\n",
+        "wurde aufgehoben.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00068",
+      "de_DE": [
+        "Verbrennung von {STRVAR_1 1, 0, 0}\n",
+        "wurde geheilt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00069",
+      "de_DE": "{STRVAR_1 1, 0, 0} wurde aufgetaut.\r"
+    },
+    {
+      "id": "msg_0300_00070",
+      "de_DE": "AP wurden aufgefüllt.\r"
+    },
+    {
+      "id": "msg_0300_00071",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0}\n",
+        "erholte sich wieder.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00072",
+      "de_DE": "{STRVAR_1 1, 0, 0} erholte sich.\r"
+    },
+    {
+      "id": "msg_0300_00073",
+      "de_DE": [
+        "AP von {STRVAR_1 6, 0, 0}\n",
+        "wurden angehoben.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00074",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} ist nicht\n",
+        "mehr verwirrt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00075",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} fühlt sich nicht\n",
+        "mehr angezogen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00076",
+      "de_DE": [
+        "{STRVAR_1 13, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} wurde(n) angehoben. \r"
+      ]
+    },
+    {
+      "id": "msg_0300_00077",
+      "de_DE": [
+        "Das ist erst einsetzbar, wenn\n",
+        "ein neuer Orden errungen wurde. \r"
+      ]
+    },
+    {
+      "id": "msg_0300_00078",
+      "de_DE": [
+        "Der Brief muss entfernt werden,\n",
+        "um etwas anderes tragen zu können. \r"
+      ]
+    },
+    {
+      "id": "msg_0300_00079",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trägt {STRVAR_1 8, 1, 0}\n",
+        "bereits.\r",
+        "Sollen die Items ausgetauscht\n",
+        "werden?"
+      ]
+    },
+    {
+      "id": "msg_0300_00080",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00081",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00082",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} trägt\n",
+        "kein Item.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00083",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} von\n",
+        "{STRVAR_1 1, 0, 0} erhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00084",
+      "de_DE": [
+        "Der Beutel ist voll. Das Item\n",
+        "des Pokémon wurde nicht entfernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00085",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} wurde gegen\n",
+        "{STRVAR_1 8, 2, 0} ausgetauscht.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00086",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0300_00087",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00088",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00089",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0300_00090",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00091",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00092",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist aufgewacht.\r"
+    },
+    {
+      "id": "msg_0300_00093",
+      "garbage": 24
+    },
+    {
+      "id": "msg_0300_00094",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00095",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00096",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0300_00097",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00098",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00099",
+      "de_DE": [
+        "Es können nicht mehr als\n",
+        "zwei Pokémon teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00100",
+      "de_DE": "Surfer ist eingesetzt.\r"
+    },
+    {
+      "id": "msg_0300_00101",
+      "de_DE": "Hier nicht einsetzbar.\r"
+    },
+    {
+      "id": "msg_0300_00102",
+      "de_DE": "Es wird keine Wirkung haben.\r"
+    },
+    {
+      "id": "msg_0300_00103",
+      "de_DE": "Zwei Pokémon sind nötig.\r"
+    },
+    {
+      "id": "msg_0300_00104",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird zahm.\r",
+        "Der Grundwert {STRVAR_1 13, 1, 0} sinkt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00105",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} vergöttert dich!\r",
+        "Der Grundwert {STRVAR_1 13, 1, 0} sinkt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00106",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird zahm.\r",
+        "Grundwert {STRVAR_1 13, 1, 0}\n",
+        "sinkt nicht mehr.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00107",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erhält\n",
+        "{STRVAR_1 8, 1, 0} zum Tragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00108",
+      "de_DE": "Drei Pokémon sind nötig.\r"
+    },
+    {
+      "id": "msg_0300_00109",
+      "de_DE": "Vier Pokémon sind nötig.\r"
+    },
+    {
+      "id": "msg_0300_00110",
+      "de_DE": "Fünf Pokémon sind nötig.\r"
+    },
+    {
+      "id": "msg_0300_00111",
+      "de_DE": "Sechs Pokémon sind nötig.\r"
+    },
+    {
+      "id": "msg_0300_00112",
+      "de_DE": [
+        "Es kann nicht mehr als\n",
+        "ein Pokémon teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00113",
+      "de_DE": [
+        "Es können nicht mehr als\n",
+        "drei Pokémon teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00114",
+      "de_DE": [
+        "Es können nicht mehr als\n",
+        "vier Pokémon teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00115",
+      "de_DE": [
+        "Es können nicht mehr als\n",
+        "fünf Pokémon teilnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00116",
+      "de_DE": [
+        "Der Brief wurde von deinem\n",
+        "PC heruntergeladen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00117",
+      "de_DE": [
+        "Dieses Pokémon trägt ein Item.\n",
+        "Es kann nicht noch mehr tragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00118",
+      "de_DE": "Die Ballkapsel wurde angebracht.\r"
+    },
+    {
+      "id": "msg_0300_00119",
+      "de_DE": [
+        "Es kann nur eine Ballkapsel\n",
+        "angebracht werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00120",
+      "de_DE": [
+        "Das kann nicht bei diesem\n",
+        "Pokémon eingesetzt werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00121",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0300_00122",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00123",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00124",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0300_00125",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0300_00126",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0300_00127",
+      "de_DE": "Nicht genügend KP...\r"
+    },
+    {
+      "id": "msg_0300_00128",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0300_00129",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0300_00130",
+      "de_DE": "ITEM"
+    },
+    {
+      "id": "msg_0300_00131",
+      "de_DE": "BRIEFE"
+    },
+    {
+      "id": "msg_0300_00132",
+      "de_DE": "LESEN"
+    },
+    {
+      "id": "msg_0300_00133",
+      "de_DE": "NEHMEN"
+    },
+    {
+      "id": "msg_0300_00134",
+      "de_DE": "GEBEN"
+    },
+    {
+      "id": "msg_0300_00135",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0300_00136",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0300_00137",
+      "de_DE": "EINTRAGEN"
+    },
+    {
+      "id": "msg_0300_00138",
+      "de_DE": "AUSTRAGEN"
+    },
+    {
+      "id": "msg_0300_00139",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00140",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00141",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00142",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00143",
+      "de_DE": "GEBEN"
+    },
+    {
+      "id": "msg_0300_00144",
+      "de_DE": "NEHMEN"
+    },
+    {
+      "id": "msg_0300_00145",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00146",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00147",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00148",
+      "de_DE": "{STRVAR_1 6, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00149",
+      "de_DE": "ANBRINGEN"
+    },
+    {
+      "id": "msg_0300_00150",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0300_00151",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0300_00152",
+      "de_DE": "ERSTES"
+    },
+    {
+      "id": "msg_0300_00153",
+      "de_DE": "ZWEITES"
+    },
+    {
+      "id": "msg_0300_00154",
+      "de_DE": "DRITTES"
+    },
+    {
+      "id": "msg_0300_00155",
+      "de_DE": "VIERTES"
+    },
+    {
+      "id": "msg_0300_00156",
+      "de_DE": "FÜNFTES"
+    },
+    {
+      "id": "msg_0300_00157",
+      "de_DE": "SECHSTES"
+    },
+    {
+      "id": "msg_0300_00158",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0300_00159",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0300_00160",
+      "de_DE": "KENNT ATT."
+    },
+    {
+      "id": "msg_0300_00161",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0300_00162",
+      "de_DE": "NICHT MGL.!"
+    },
+    {
+      "id": "msg_0300_00163",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0300_00164",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0300_00165",
+      "de_DE": "Identische Pokémon sind nicht erlaubt!\r"
+    },
+    {
+      "id": "msg_0300_00166",
+      "de_DE": "Einige Pokémon halten identische Items!\r"
+    },
+    {
+      "id": "msg_0300_00167",
+      "de_DE": [
+        "Der Level aller Teammitglieder\n",
+        "liegt über {STRVAR_1 52, 0, 0}.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00168",
+      "de_DE": [
+        "Du hast 3 oder mehr\n",
+        "Legendäre Pokémon in deinem Team. \r"
+      ]
+    },
+    {
+      "id": "msg_0300_00169",
+      "de_DE": "MAX. KP"
+    },
+    {
+      "id": "msg_0300_00170",
+      "de_DE": "ANGRIFF"
+    },
+    {
+      "id": "msg_0300_00171",
+      "de_DE": "VERT."
+    },
+    {
+      "id": "msg_0300_00172",
+      "de_DE": "SP. ANG."
+    },
+    {
+      "id": "msg_0300_00173",
+      "de_DE": "SP. VER."
+    },
+    {
+      "id": "msg_0300_00174",
+      "de_DE": "INIT."
+    },
+    {
+      "id": "msg_0300_00175",
+      "de_DE": "+"
+    },
+    {
+      "id": "msg_0300_00176",
+      "de_DE": "{STRVAR_1 52, 0, 0}"
+    },
+    {
+      "id": "msg_0300_00177",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erreicht\n",
+        "Lv. {STRVAR_1 52, 1, 0}!{WAIT 4}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00178",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} erlernt\n",
+        "{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00179",
+      "de_DE": [
+        "Die Ballkapsel wird entfernt.\n",
+        "Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0300_00180",
+      "de_DE": [
+        "Das kann nicht verwendet werden,\n",
+        "wenn dich jemand begleitet.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00181",
+      "de_DE": [
+        "Das ist jetzt nicht\n",
+        "der richtige Zeitpunkt.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00182",
+      "de_DE": "{STRVAR_1 8, 1, 0}"
+    },
+    {
+      "id": "msg_0300_00183",
+      "de_DE": [
+        "Möchtest du das\n",
+        "Ei tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0300_00184",
+      "de_DE": "Wähle ein Ei."
+    },
+    {
+      "id": "msg_0300_00185",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0300_00186",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0300_00187",
+      "de_DE": [
+        "Du musst dieselbe Art\n",
+        "von Pokémon einsetzen.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00188",
+      "de_DE": "{STRVAR_1 0, 0, 0} verändert seine Form!\r"
+    },
+    {
+      "id": "msg_0300_00189",
+      "de_DE": [
+        "{STRVAR_1 8, 1, 0} kann nicht von\n",
+        "{STRVAR_1 1, 0, 0} getragen werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00190",
+      "de_DE": [
+        "{STRVAR_1 8, 0, 0} kann hier nicht gegeben\n",
+        "werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0300_00191",
+      "de_DE": [
+        "Pokémon, die Seelentau tragen,\n",
+        "können nicht am GS-Cup teilnehmen!\r"
+      ]
+    }
+  ]
+}

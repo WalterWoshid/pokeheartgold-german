@@ -1,0 +1,82 @@
+{
+  "key": 42002,
+  "messages": [
+    {
+      "id": "msg_0146_00000",
+      "de_DE": [
+        "Hey, hey, hey. Was haben wir denn hier?\n",
+        "Du gehörst ja mal gar nicht zum Team\f",
+        "Galaktik! Bist dazu noch ein Kind!\r",
+        "Das, was wir mit der Energie vom\n",
+        "Windkraftwerk erschaffen haben, ist\f",
+        "bereits in Weideburg.\r",
+        "Was?\n",
+        "Ach, darum geht es gar nicht?"
+      ]
+    },
+    {
+      "id": "msg_0146_00001",
+      "de_DE": [
+        "Hey, hey, hey. Was haben wir denn hier?\n",
+        "Du gehörst ja mal gar nicht zum Team\f",
+        "Galaktik! Bist dazu noch ein Kind!\r",
+        "Ähm... Bist du ein Besucher?\r",
+        "Wenn ja, kommst du über diese Treppe\n",
+        "direkt in unser Hauptquartier.\r",
+        "Was?\n",
+        "Ach, darum geht es gar nicht?"
+      ]
+    },
+    {
+      "id": "msg_0146_00002",
+      "de_DE": [
+        "Hey, hey, hey. Was haben wir\n",
+        "denn hier?!? Hast du den Schlüssel?\r",
+        "Egal. Unser L-Schlüssel ist beim\n",
+        "Wächter vor unserem Hauptquartier in\f",
+        "guten Händen.\r",
+        "Was?\n",
+        "Ach, darum geht es gar nicht?"
+      ]
+    },
+    {
+      "id": "msg_0146_00003",
+      "de_DE": [
+        "Hey, hey, hey!!!\n",
+        "Was geht denn hier vor?!?\r",
+        "Alle meine Kollegen vom Team\n",
+        "Galaktik sind verschwunden!\r",
+        "Aber niemand hat mich bisher abgelöst,\n",
+        "also bleibe ich auf meinem Posten!\r",
+        "Was?!?\n",
+        "Ach, darum geht es gar nicht?!?"
+      ]
+    },
+    {
+      "id": "msg_0146_00004",
+      "de_DE": [
+        "Die verrostete Tür ist verschlossen.\n",
+        "Du brauchst einen speziellen Schlüssel."
+      ]
+    },
+    {
+      "id": "msg_0146_00005",
+      "de_DE": [
+        "Die verrostete Tür ist verschlossen.\n",
+        "Du brauchst einen speziellen Schlüssel.\r",
+        "Den L-Schlüssel verwenden?"
+      ]
+    },
+    {
+      "id": "msg_0146_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0} verwendet den\n",
+        "L-Schlüssel.\r",
+        "Die verrostete Tür öffnet sich\n",
+        "knirschend!\r",
+        "Und der L-Schlüssel bricht im\n",
+        "Schlüsselloch..."
+      ]
+    }
+  ]
+}

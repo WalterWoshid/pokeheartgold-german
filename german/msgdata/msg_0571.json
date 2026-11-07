@@ -1,0 +1,224 @@
+{
+  "key": 1126,
+  "messages": [
+    {
+      "id": "msg_0571_00000",
+      "de_DE": [
+        "Hm? Wer bist du denn?\r",
+        "Oh, {STRVAR_1 3, 0, 0} heißt du also!\n",
+        "Bist du hier, weil du willst, dass ich\f",
+        "ein paar Bälle für dich herstelle?\r",
+        "Tut mir leid, aber das muss warten.\r",
+        "Kennst du Team Rocket? Keine Sorge,\n",
+        "du schläfst besser, wenn nicht.\f",
+        "Ich werde mich kurz fassen.\r",
+        "Team Rocket missbraucht unschuldige\n",
+        "Pokémon für ihre Schandtaten.\f",
+        "Diese Typen sind einfach das Letzte.\r",
+        "Sie hatten sich eigentlich vor drei\n",
+        "Jahren aufgelöst, aber nun...\r",
+        "Na ja, genau diese Bande schneidet\n",
+        "jetzt den FLEGMON im Brunnen die\f",
+        "Ruten ab und verdient sich damit\f",
+        "eine goldene Nase.\r",
+        "Aber ich gehe jetzt zu ihnen und\n",
+        "erteile ihnen eine Lektion!\r",
+        "Haltet durch, FLEGMON!\n",
+        "Der alte Kurt eilt euch zur Rettung!"
+      ]
+    },
+    {
+      "id": "msg_0571_00001",
+      "de_DE": [
+        "Kurt: Hallo {STRVAR_1 3, 0, 0}!\n",
+        "Das war wirklich eine Glanzleistung!\r",
+        "Ich habe es vorhin schon einmal gesagt,\n",
+        "aber vor drei Jahren hat ein Junge\f",
+        "namens Rot Team Rocket zerschlagen.\r",
+        "Aber jetzt scheinen diese Widerlinge\n",
+        "ein Comeback auf die Beine zu stellen...\r",
+        "Das verheißt nichts Gutes...\r",
+        "Aber vergessen wir das fürs Erste mal.\n",
+        "Du gefällst mir, {STRVAR_1 3, 0, 0}!\r",
+        "Es wäre mir eine Ehre, für einen Trainer\n",
+        "wie dich Bälle anfertigen zu dürfen!\r",
+        "Hier, mehr habe ich leider gerade nicht\n",
+        "da, aber ich hoffe, das hilft dir weiter!\r"
+      ]
+    },
+    {
+      "id": "msg_0571_00002",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0571_00003",
+      "de_DE": [
+        "Kurt: Ich kann aus Aprikokos\n",
+        "Spezialbälle anfertigen!\r",
+        "Pflücke überall fleißig Aprikokos von\n",
+        "den Bäumen und bringe sie zu mir.\f",
+        "Ich verarbeite sie dann zu Bällen."
+      ]
+    },
+    {
+      "id": "msg_0571_00004",
+      "de_DE": [
+        "Kurt: Oh, wie ich sehe, hast du ein\n",
+        "paar Aprikokos mitgebracht!\r",
+        "Na schön! Dann mache ich mich\n",
+        "mal ans Verarbeiten!\r"
+      ]
+    },
+    {
+      "id": "msg_0571_00005",
+      "de_DE": [
+        "Kurt: Ich brauche einen ganzen Tag,\n",
+        "um diese Aprikokos zu verarbeiten.\f",
+        "Komm also am besten morgen wieder!"
+      ]
+    },
+    {
+      "id": "msg_0571_00006",
+      "de_DE": [
+        "Kurt: Oh, schade... ich war schon\n",
+        "richtig wild auf ein paar Überstunden."
+      ]
+    },
+    {
+      "id": "msg_0571_00007",
+      "de_DE": [
+        "Kurt: Ich arbeite daran, in Ordnung?\n",
+        "Störe mich jetzt bitte nicht!"
+      ]
+    },
+    {
+      "id": "msg_0571_00008",
+      "de_DE": [
+        "Kurt: Oh, da bist du ja, {STRVAR_1 3, 0, 0}!\n",
+        "Ich bin gerade mit der Verarbeitung\f",
+        "fertig geworden. Hier, nimm!\r"
+      ]
+    },
+    {
+      "id": "msg_0571_00009",
+      "de_DE": [
+        "Kurt: Du siehst doch selbst, dass\n",
+        "du nichts mehr tragen kannst!\r",
+        "Wirf etwas Ballast ab und komm\n",
+        "dann noch mal wieder!"
+      ]
+    },
+    {
+      "id": "msg_0571_00010",
+      "de_DE": [
+        "Kurt: Dieses Mal habe ich mich\n",
+        "wirklich selbst übertroffen!\r",
+        "Versuche doch mal, ein Pokémon\n",
+        "damit zu fangen!"
+      ]
+    },
+    {
+      "id": "msg_0571_00011",
+      "de_DE": [
+        "Die FLEGMON sind verschwunden...\n",
+        "Ob sie wohl von irgendwelchen bösen\f",
+        "Leuten entführt wurden?"
+      ]
+    },
+    {
+      "id": "msg_0571_00012",
+      "de_DE": [
+        "Wo steckt bloß mein Großvater?\n",
+        "Ich fühle mich so alleine..."
+      ]
+    },
+    {
+      "id": "msg_0571_00013",
+      "de_DE": [
+        "Das FLEGMON, das ich von meinem Vater\n",
+        "bekommen habe, ist wieder da!\f",
+        "Seine Rute wächst schon wieder nach."
+      ]
+    },
+    {
+      "id": "msg_0571_00014",
+      "de_DE": [
+        "Mein Vater arbeitet bei der Silph Co.\n",
+        "Er ist dort an der Entwicklung neuer\f",
+        "Pokébälle beteiligt!\r",
+        "Ich hüte hier mit meinem Großvater\n",
+        "und FLEGMON das Haus."
+      ]
+    },
+    {
+      "id": "msg_0571_00015",
+      "de_DE": [
+        "Ich habe eine Idee! Willst du vielleicht\n",
+        "die Telefonnummer von meinem\f",
+        "Großvater? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0571_00016",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Kurts Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0571_00017",
+      "de_DE": [
+        "Wenn du meinen Großvater mal anrufst,\n",
+        "erzählt er dir bestimmt was über die\f",
+        "Aprikokos!"
+      ]
+    },
+    {
+      "id": "msg_0571_00018",
+      "de_DE": [
+        "Was? Darf ich fragen, warum nicht?\n",
+        "Willst du die Nummer wirklich nicht?"
+      ]
+    },
+    {
+      "id": "msg_0571_00019",
+      "de_DE": [
+        "Du willst doch bestimmt mit meinem\n",
+        "Großvater telefonieren, oder? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0571_00020",
+      "de_DE": "FLEGMON: ...Flegmon?"
+    },
+    {
+      "id": "msg_0571_00021",
+      "de_DE": [
+        "Auf dem Panoramafoto sind drei\n",
+        "Personen abgelichtet.\r",
+        "Es sind Kurt, Professor Eich...\n",
+        "Und eine Frau mit einem sehr\f",
+        "eindringlichen Blick."
+      ]
+    },
+    {
+      "id": "msg_0571_00022",
+      "de_DE": "Eine Statue des Waldpatrons."
+    },
+    {
+      "id": "msg_0571_00023",
+      "de_DE": [
+        "Das Radio ist angeschaltet.\r",
+        "Es läuft gerade Professor Eichs\n",
+        "Pokémon-Talk."
+      ]
+    },
+    {
+      "id": "msg_0571_00024",
+      "de_DE": [
+        "Aus dem Radio ertönt die Verkündung\n",
+        "der Rückkehr von Team Rocket!"
+      ]
+    }
+  ]
+}

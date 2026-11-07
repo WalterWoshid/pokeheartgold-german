@@ -1,0 +1,56 @@
+{
+  "key": 3928,
+  "messages": [
+    {
+      "id": "msg_0410_00000",
+      "de_DE": "LINKFINDER"
+    },
+    {
+      "id": "msg_0410_00001",
+      "de_DE": [
+        "Suche nach anderen Spielern\n",
+        "für einen Link-Aufbau.\n",
+        "Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0410_00002",
+      "de_DE": "Fehler!"
+    },
+    {
+      "id": "msg_0410_00003",
+      "de_DE": "Suche hier nicht möglich."
+    },
+    {
+      "id": "msg_0410_00004",
+      "de_DE": [
+        "Bitte während der Suche nicht\n",
+        "bewegen und keine Tasten drücken."
+      ]
+    },
+    {
+      "id": "msg_0410_00005",
+      "de_DE": "LINK-STATUS"
+    },
+    {
+      "id": "msg_0410_00006",
+      "de_DE": "Konnex-Klub"
+    },
+    {
+      "id": "msg_0410_00007",
+      "de_DE": "Untergrund"
+    },
+    {
+      "id": "msg_0410_00008",
+      "de_DE": "Kolosseum"
+    },
+    {
+      "id": "msg_0410_00009",
+      "de_DE": "Andere Links"
+    },
+    {
+      "id": "msg_0410_00010",
+      "de_DE": "Berühren: Kommunikation starten!"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": 49976,
+  "messages": [
+    {
+      "id": "msg_0643_00000",
+      "de_DE": "Kurt"
+    },
+    {
+      "id": "msg_0643_00001",
+      "de_DE": [
+        "Ah, {STRVAR_1 1, 0, 0}!\n",
+        "Aber wieso rufst du mich denn an?\f",
+        "Komm doch einfach vorbei und wir reden!"
+      ]
+    },
+    {
+      "id": "msg_0643_00002",
+      "de_DE": [
+        "Kurt am Apparat!\n",
+        "Ah, du bist’s, {STRVAR_1 1, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0643_00003",
+      "de_DE": [
+        "Ich habe Bälle aus den Aprikokos\n",
+        "hergestellt, die du mir anvertraut\f",
+        "hattest. Ich habe das hier\f",
+        "hergestellt: {STRVAR_1 8, 10, 0}, davon\f",
+        "{STRVAR_1 51, 11, 0} Stück. Komm zum\f",
+        "Abholen einfach mal vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0643_00004",
+      "de_DE": [
+        "Ich bin noch nicht ganz fertig!\n",
+        "Bitte warte noch einen Tag!"
+      ]
+    },
+    {
+      "id": "msg_0643_00005",
+      "de_DE": [
+        "Bring mir Aprikokos und ich stelle dir\n",
+        "daraus Bälle her! Komm einfach bei mir\f",
+        "vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0643_00006",
+      "de_DE": [
+        "Hallo? Mein Großvater ist gerade\n",
+        "beschäftigt. Soll ich etwas ausrichten?\f",
+        "Ah, da ist er. Ich gebe ihn dir einmal!\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "key": 38003,
+  "messages": [
+    {
+      "id": "msg_0107_00000",
+      "de_DE": [
+        "Willkommen in der Kampffabrik!\r",
+        "Ich stehe dir bei den Einzel- und\n",
+        "Doppelkämpfen helfend zur Seite.\r",
+        "Beachte bitte, dass diese Kämpfe\n",
+        "nur für einen Trainer gedacht sind.\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00001",
+      "de_DE": [
+        "Welcher Herausforderung möchtest\n",
+        "du dich gern stellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0107_00002",
+      "de_DE": [
+        "In der Kampffabrik erwarten dich\n",
+        "Einzel- und Doppelkämpfe mit\f",
+        "Leih-Pokémon.\r",
+        "Die Reihe der Kämpfe hält so\n",
+        "lange an, bis du verloren hast.\r",
+        "Nach jedem Sieg kannst du eines deiner\n",
+        "Leih-Pokémon gegen ein gegnerisches\f",
+        "eintauschen.\r",
+        "Wählst du die Regel Level 50, dann\n",
+        "beginnst du mit einem Pokémon, das nur\f",
+        "schwache Attacken beherrscht.\r",
+        "Die Regel Offener Level erlaubt es dir,\n",
+        "von Anfang an Pokémon mit Level 100\f",
+        "und starken Attacken zu verwenden.\r",
+        "Gewinnst du sieben Mal hintereinander,\n",
+        "erhältst du Gewinnpunkte (GP).\r",
+        "Willst du den Kampf unterbrechen,\n",
+        "speichere bitte dein Spiel.\r",
+        "Speicherst du es nicht,\n",
+        "wirst du disqualifiziert.\r",
+        "Bitte vergiss das nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00003",
+      "de_DE": [
+        "Willkommen in der Kampffabrik!\r",
+        "Ich stehe dir in Sachen Multikampf\n",
+        "mit Rat und Tat zur Seite.\r",
+        "Bitte beachte, dass diese Art von\n",
+        "Herausforderung zwei Trainer braucht.\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00004",
+      "de_DE": [
+        "Möchtest du dich den Multikämpfen\n",
+        "in der Kampffabrik stellen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0107_00005",
+      "de_DE": [
+        "Hier trittst du in Multikämpfen zusammen\n",
+        "mit einem Freund an. Beide verwendet\f",
+        "ihr dabei Leih-Pokémon.\r",
+        "Jedem Trainer werden zwei Leih-Pokémon\n",
+        "zur Verfügung gestellt.\r",
+        "Nach Beginn der Herausforderung\n",
+        "treten du und dein Partner so lange\f",
+        "an, bis ihr verliert.\r",
+        "Nach jedem Sieg dürfen du oder dein\n",
+        "Partner ein Leih-Pokémon umtauschen.\r",
+        "Gewinnt ihr sieben Mal hintereinander,\n",
+        "erhaltet ihr Gewinnpunkte (GP).\r",
+        "Wählst du die Regel Level 50, dann\n",
+        "beginnst du mit einem Pokémon, das nur\f",
+        "schwache Attacken beherrscht.\r",
+        "Die Regel Offener Level erlaubt es dir,\n",
+        "von Anfang an Pokémon mit Level 100\f",
+        "und starken Attacken zu verwenden.\r",
+        "Beachte bitte, dass eine Multikampf-\n",
+        "Herausforderung in der Kampffabrik\f",
+        "nicht unterbrochen werden kann.\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00006",
+      "de_DE": "Hoffentlich bis bald mal wieder!"
+    },
+    {
+      "id": "msg_0107_00007",
+      "de_DE": [
+        "Welche Regel möchtest du für diese\n",
+        "Herausforderung aktivieren?\r",
+        "Level 50 oder Offener Level? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0107_00008",
+      "de_DE": [
+        "Bevor ich dich hereinlasse,\n",
+        "musst du das Spiel speichern.\f",
+        "Einverstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0107_00009",
+      "de_DE": "Bitte hier entlang!"
+    },
+    {
+      "id": "msg_0107_00010",
+      "de_DE": [
+        "Wir freuen uns auf deinen nächsten\n",
+        "Besuch!\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00011",
+      "de_DE": [
+        "Lange nicht gesehen!\r",
+        "Du musst das Spiel speichern, bevor du\n",
+        "die Herausforderung wieder aufnimmst.\r",
+        "Bitte habe Geduld."
+      ]
+    },
+    {
+      "id": "msg_0107_00012",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Vorm Verlassen deiner letzten\n",
+        "Herausforderung hast du nicht\f",
+        "gespeichert.\r",
+        "Aus diesem Grunde wurdest du\n",
+        "disqualifiziert!\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00013",
+      "de_DE": [
+        "Glückwunsch!\r",
+        "Der Preis für deinen Sieg ist dieses\n",
+        "schmucke Erinnerungsfoto!\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00014",
+      "de_DE": [
+        "Das Goldfoto wurde an die Kampfkamera\n",
+        "von {STRVAR_1 3, 0, 0} gesendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00015",
+      "de_DE": [
+        "Das Silberfoto wurde an die Kampfkamera\n",
+        "von {STRVAR_1 3, 0, 0} gesendet.\r"
+      ]
+    },
+    {
+      "id": "msg_0107_00016",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0107_00017",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0107_00018",
+      "de_DE": "HERAUSFORDERN"
+    },
+    {
+      "id": "msg_0107_00019",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0107_00020",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0107_00021",
+      "de_DE": "LEVEL 50"
+    },
+    {
+      "id": "msg_0107_00022",
+      "de_DE": "OFFENER LEVEL"
+    },
+    {
+      "id": "msg_0107_00023",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0107_00024",
+      "de_DE": [
+        "Bitte legt fest, wer von euch\n",
+        "“LEITER WERDEN” soll.\r",
+        "Der andere Spieler wählt\n",
+        "“MITSPIELER” aus. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0107_00025",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "initialisieren? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0107_00026",
+      "de_DE": [
+        "Du musst das Spiel speichern, bevor ich\n",
+        "dich hereinlasse. Bitte habe Geduld."
+      ]
+    },
+    {
+      "id": "msg_0107_00027",
+      "de_DE": [
+        "Die Leute hier sind wirklich supernett.\r",
+        "Sie informieren dich über den nächsten\n",
+        "Trainer, dem du gegenübertrittst."
+      ]
+    },
+    {
+      "id": "msg_0107_00028",
+      "de_DE": [
+        "Man kann erfahren, wer der nächste\n",
+        "Gegner sein wird?\f",
+        "Das ist ja fantastisch!\r",
+        "So kann man sich ganz gezielt auf den\n",
+        "Kampf vorbereiten!"
+      ]
+    },
+    {
+      "id": "msg_0107_00029",
+      "de_DE": [
+        "Merke dir gut, welche Attacken und\n",
+        "Pokémon dein Gegner einsetzt.\r",
+        "So weißt du, was du erwarten kannst,\n",
+        "wenn sie zum Tausch zur Verfügung\f",
+        "stehen."
+      ]
+    },
+    {
+      "id": "msg_0107_00030",
+      "de_DE": [
+        "Hier kämpft man doch mit Leih-Pokémon\n",
+        "gegeneinander, nicht wahr?\r",
+        "Mit anderen Worten hat man also die\n",
+        "Gelegenheit, mit Pokémon zu kämpfen,\f",
+        "die man nicht kennt.\r",
+        "So kann man die Kämpfe genießen und\n",
+        "gleichzeitig sein Wissen über Pokémon\f",
+        "erweitern!\r",
+        "Das ist so unglaublich praktisch!!!"
+      ]
+    },
+    {
+      "id": "msg_0107_00031",
+      "de_DE": [
+        "Besitzt du eigentlich viele Pokémon?\r",
+        "Ich bin zwar nicht stolz darauf, aber\n",
+        "ich besitze fast gar keine!\r",
+        "Aber das ist gar nicht so schlimm:\n",
+        "In der Kampffabrik kämpft man nämlich\f",
+        "nur mit Leih-Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0107_00032",
+      "de_DE": [
+        "Man muss anstelle der Pokémon, die\n",
+        "einem nahestehen, solche verwenden,\f",
+        "die man gerade erst getroffen hat.\r",
+        "Ob das wohl funktioniert?\n",
+        "Ob man sich wohl gut verstehen wird?\f",
+        "Ich bin ja schon ein bisschen besorgt...\n"
+      ]
+    },
+    {
+      "id": "msg_0107_00033",
+      "de_DE": [
+        "Die Trainer, die sich in der Kampfzone\n",
+        "einfinden, sind alle sehr ernst.\r",
+        "Ich drehe hier meine Runden, weil es\n",
+        "mein Beruf ist, aber am liebsten würde\f",
+        "ich sofort Feierabend machen und\f",
+        "mich mit allen AMÜSIEREN gehen!!!"
+      ]
+    }
+  ]
+}

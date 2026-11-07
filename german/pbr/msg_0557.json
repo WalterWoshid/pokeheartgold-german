@@ -1,0 +1,89 @@
+{
+  "key": 16542,
+  "messages": [
+    {
+      "id": "msg_0557_00000",
+      "de_DE": "ID. Nr."
+    },
+    {
+      "id": "msg_0557_00001",
+      "de_DE": "TRAINER"
+    },
+    {
+      "id": "msg_0557_00002",
+      "de_DE": "GELD"
+    },
+    {
+      "id": "msg_0557_00003",
+      "de_DE": "POKéDEX"
+    },
+    {
+      "id": "msg_0557_00004",
+      "de_DE": "PUNKTE"
+    },
+    {
+      "id": "msg_0557_00005",
+      "de_DE": "SPIELZEIT"
+    },
+    {
+      "id": "msg_0557_00006",
+      "de_DE": "ABENTEUER GESTARTET"
+    },
+    {
+      "id": "msg_0557_00007",
+      "de_DE": "DEBÜT RUHMESHALLE"
+    },
+    {
+      "id": "msg_0557_00008",
+      "de_DE": "ANZAHL DER LINKS"
+    },
+    {
+      "id": "msg_0557_00009",
+      "de_DE": "KÄMPFE via LINK"
+    },
+    {
+      "id": "msg_0557_00010",
+      "de_DE": "ANZAHL LINKTAUSCHE"
+    },
+    {
+      "id": "msg_0557_00011",
+      "de_DE": ":"
+    },
+    {
+      "id": "msg_0557_00012",
+      "de_DE": "--"
+    },
+    {
+      "id": "msg_0557_00013",
+      "de_DE": "--:--"
+    },
+    {
+      "id": "msg_0557_00014",
+      "de_DE": "{STRVAR_1 55, 5} $"
+    },
+    {
+      "id": "msg_0557_00015",
+      "de_DE": "{STRVAR_1 51, 0}:{STRVAR_1 51, 1}"
+    },
+    {
+      "id": "msg_0557_00016",
+      "de_DE": "{STRVAR_1 51, 0}  {STRVAR_1 51, 1}"
+    },
+    {
+      "id": "msg_0557_00017",
+      "de_DE": "{STRVAR_1 51, 4}. {STRVAR_1 74, 3} 20{STRVAR_1 51, 2}"
+    },
+    {
+      "id": "msg_0557_00018",
+      "de_DE": "SG."
+    },
+    {
+      "id": "msg_0557_00019",
+      "de_DE": "NL."
+    },
+    {
+      "id": "msg_0557_00020",
+      "de_DE": "--. ---. ----"
+    }
+  ]
+}

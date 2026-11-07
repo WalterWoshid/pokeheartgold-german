@@ -1,0 +1,123 @@
+{
+  "key": 13315,
+  "messages": [
+    {
+      "id": "msg_0128_00000",
+      "de_DE": [
+        "Willkommen im Großmoor, dem\n",
+        "Ort des Safari-Spiels!\r",
+        "Alles, was du für nur 500 $ fangen\n",
+        "kannst, gehört dir! Bist du dabei?"
+      ]
+    },
+    {
+      "id": "msg_0128_00001",
+      "de_DE": "Das macht dann 500 $, bitte.\r"
+    },
+    {
+      "id": "msg_0128_00002",
+      "de_DE": "Hier sind deine Safaribälle.\r"
+    },
+    {
+      "id": "msg_0128_00003",
+      "de_DE": "{STRVAR_1 3, 0} erhält 30 Safaribälle.\r"
+    },
+    {
+      "id": "msg_0128_00004",
+      "de_DE": [
+        "Wir geben dir Bescheid, wenn das Spiel\n",
+        "vorbei ist.\r",
+        "Bis dahin wünschen wir viel Spaß!\n",
+        "Und auf geht’s in die Wildnis!\r"
+      ]
+    },
+    {
+      "id": "msg_0128_00005",
+      "de_DE": [
+        "Okay.\n",
+        "Bitte beehre uns doch später einmal.\r"
+      ]
+    },
+    {
+      "id": "msg_0128_00006",
+      "de_DE": [
+        "Du hast nicht genug Geld dabei.\n",
+        "Tut mir leid.\r"
+      ]
+    },
+    {
+      "id": "msg_0128_00007",
+      "de_DE": [
+        "Es tut mir leid, aber du hast\n",
+        "keinen Platz mehr, um weitere\f",
+        "Pokémon zu fangen.\r"
+      ]
+    },
+    {
+      "id": "msg_0128_00008",
+      "de_DE": [
+        "Willkommen im Großmoor,\n",
+        "dem Ort des Safari-Spiels!\r",
+        "Neuerdings werden hier immer\n",
+        "wieder Pokémon gesehen, die\r",
+        "in diesem Gebiet vorher nie\n",
+        "gesichtet wurden.\r",
+        "Womit wir beim Thema wären...\r",
+        "Alles, was du für nur 500 $\n",
+        "fangen kannst!\r",
+        "Möchtest du am Safari-Spiel\n",
+        "teilnehmen?"
+      ]
+    },
+    {
+      "id": "msg_0128_00009",
+      "de_DE": [
+        "Du hast noch Zeit übrig. Möchtest du\n",
+        "das Großmoor jetzt verlassen?"
+      ]
+    },
+    {
+      "id": "msg_0128_00010",
+      "de_DE": [
+        "Okay.\r",
+        "Ich nehme die verbleibenden\n",
+        "Safaribälle zurück.\r",
+        "Vielen Dank für deine Teilnahme.\n",
+        "Komm bald wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0128_00011",
+      "de_DE": [
+        "Viel Vergnügen bei dem Rest deines\n",
+        "wilden Safari-Abenteuers!\r"
+      ]
+    },
+    {
+      "id": "msg_0128_00012",
+      "de_DE": [
+        "Willkommen im Großmoor!\n",
+        "Bist du zum ersten Mal hier?"
+      ]
+    },
+    {
+      "id": "msg_0128_00013",
+      "de_DE": [
+        "Sobald du das Großmoor betrittst,\n",
+        "stehen dir 30 Safaribälle zur\f",
+        "Verfügung, um Pokémon zu fangen.\r",
+        "Dies ist die einzige Ball-Art, die du\n",
+        "hier verwenden darfst.\r",
+        "Das Safari-Spiel ist vorbei, sobald du\n",
+        "deine Safaribälle verbraucht oder\f",
+        "500 Schritte gemacht hast.\r",
+        "Komm und genieße die ungezähmte\n",
+        "Natur im Großmoor!"
+      ]
+    },
+    {
+      "id": "msg_0128_00014",
+      "de_DE": "Viel Spaß beim Safari-Spiel!"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "key": 44465,
+  "messages": [
+    {
+      "id": "msg_0691_00000",
+      "de_DE": "Erich"
+    },
+    {
+      "id": "msg_0691_00001",
+      "de_DE": [
+        "Ich hatte noch nie einen so starken\n",
+        "Gegner wie dich!\r",
+        "Was, du warst das? Du hast\n",
+        "die FLEGMON gerettet?\r",
+        "Wow! Na, kein Wunder, dass ich dich\n",
+        "nicht besiegen konnte!\r",
+        "Würdest du mir deine Nummer geben?\r",
+        "Ich möchte über alles, was dir\n",
+        "widerfährt, informiert sein! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0691_00002",
+      "de_DE": [
+        "Oh, wow! Danke!\r",
+        "Jetzt kann ich dich jederzeit anrufen,\n",
+        "egal, ob es wichtig ist\f",
+        "oder nur zum Plaudern!"
+      ]
+    },
+    {
+      "id": "msg_0691_00003",
+      "de_DE": [
+        "A-aber ich... \n",
+        "Ich bin nicht gefährlich!\r",
+        "Ich möchte nur mit dir am Telefon\n",
+        "über dies und jenes schwatzen!"
+      ]
+    },
+    {
+      "id": "msg_0691_00004",
+      "de_DE": [
+        "Ja?!? Du verrätst mir\n",
+        "deine Nummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0691_00005",
+      "de_DE": [
+        "Sag mal... bist du eventuell\n",
+        "gerade ganz in der Nähe?"
+      ]
+    },
+    {
+      "id": "msg_0691_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, hast du schon gehört?\r",
+        "Team Rocket hat den Radioturm von\n",
+        "Dukatia City erobert!\r",
+        "...Ähm... was ist ein Team Rocket\n",
+        "eigentlich?"
+      ]
+    },
+    {
+      "id": "msg_0691_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, hast du schon gehört?\r",
+        "Team Rocket hat den Radioturm von\n",
+        "Dukatia City erobert!\r",
+        "...Ähm... was ist ein Team Rocket\n",
+        "eigentlich?"
+      ]
+    },
+    {
+      "id": "msg_0691_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, stimmt das?\n",
+        "Du hast Bianka besiegt?\r",
+        "Ich bin stolz, dein Freund zu sein!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, stimmt das?\n",
+        "Du hast Bianka besiegt?\r",
+        "Ich bin stolz, dein Freund zu sein!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00010",
+      "de_DE": [
+        "Ich trau meinen Augen und Ohren nicht!\r",
+        "Du hast Jens, den Arenaleiter von\n",
+        "Teak City besiegt! Das ist unfassbar!\r",
+        "Ich bin zur Pokémon-Arena gegangen, um\n",
+        "dich anzufeuern. Wusstest du das?\r",
+        "Aber da schwebten überall Geister!\n",
+        "Also bin ich verduftet und nach\f",
+        "Hause gegangen...\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00011",
+      "de_DE": [
+        "Ich trau meinen Augen und Ohren nicht!\r",
+        "Du hast Jens, den Arenaleiter von\n",
+        "Teak City besiegt! Das ist unfassbar!\r",
+        "Ich bin zur Pokémon-Arena gegangen, um\n",
+        "dich anzufeuern. Wusstest du das?\r",
+        "Aber da schwebten überall Geister!\n",
+        "Also bin ich verduftet und nach\f",
+        "Hause gegangen...\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00012",
+      "de_DE": [
+        "He, ich sehe, du machst von dir hören!\r",
+        "Du hast das Pokémon im Leuchtturm\n",
+        "gerettet, nicht wahr?\r",
+        "{STRVAR_1 3, 0, 0}, besuchst du mich auch\n",
+        "mal, wenn ich mit meiner nächsten\f",
+        "Erkältung im Bett liege?\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00013",
+      "de_DE": [
+        "He, ich sehe, du machst von dir hören!\r",
+        "Du hast das Pokémon im Leuchtturm\n",
+        "gerettet, nicht wahr?\r",
+        "{STRVAR_1 3, 0, 0}, besuchst du mich auch\n",
+        "mal, wenn ich mit meiner nächsten\f",
+        "Erkältung im Bett liege?\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00014",
+      "de_DE": [
+        "Ich hörte, ich hörte, ich hörte!\r",
+        "Du hast Team Rockets Versteck\n",
+        "ausgehoben!\f",
+        "Ganz wie ein echter Filmstar!\r",
+        "Aber äh... was ist denn nun\n",
+        "eigentlich Team Rocket?\r",
+        "Äh... ich fürchte, ich habe keine\n",
+        "Ahnung, was hier vor sich geht!"
+      ]
+    },
+    {
+      "id": "msg_0691_00015",
+      "de_DE": [
+        "Ich hörte, ich hörte, ich hörte!\r",
+        "Du hast Team Rockets Versteck\n",
+        "ausgehoben!\f",
+        "Ganz wie ein echter Filmstar!\r",
+        "Aber äh... was ist denn nun\n",
+        "eigentlich Team Rocket?\r",
+        "Äh... ich fürchte, ich habe keine\n",
+        "Ahnung, was hier vor sich geht!"
+      ]
+    },
+    {
+      "id": "msg_0691_00016",
+      "de_DE": [
+        "Ich hörte, ich hörte, ich hörte!\r",
+        "Von deiner heldenhaften Befreiungs-\n",
+        "aktion im Radioturm! Du bist klasse!\r",
+        "Einfach gigantisch!\r",
+        "Das wollte ich dir nur gesagt haben!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00017",
+      "de_DE": [
+        "Ich hörte, ich hörte, ich hörte!\r",
+        "Von deiner heldenhaften Befreiungs-\n",
+        "aktion im Radioturm! Du bist klasse!\r",
+        "Einfach gigantisch!\r",
+        "Das wollte ich dir nur gesagt haben!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00018",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Ich hab’s gesehen!\n",
+        "Mit eigenen Augen!\r",
+        "Ich sah, wie du in die Drachenhöhle\n",
+        "gingst!\r",
+        "Ich bin sicher, du hast bestanden!\n",
+        "Nur keine falsche Bescheidenheit!\f",
+        "Du kannst gar nicht scheitern!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Ich hab’s gesehen!\n",
+        "Mit eigenen Augen!\r",
+        "Ich sah, wie du in die Drachenhöhle\n",
+        "gingst!\r",
+        "Ich bin sicher, du hast bestanden!\n",
+        "Nur keine falsche Bescheidenheit!\f",
+        "Du kannst gar nicht scheitern!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00020",
+      "de_DE": [
+        "Gestern war ich in Neuborkia.\r",
+        "Da traf ich eine Dame, die dir sehr\n",
+        "ähnlich sah, {STRVAR_1 3, 0, 0}.\r",
+        "Was? Die Dame war deine Mama?\r",
+        "Ah, hätte ich mich doch vorgestellt!\r",
+        "Ich wette, deine Mama ist sehr\n",
+        "stolz auf dich, nach dem, was du\f",
+        "alles erreicht hast.\r",
+        "He, sieh’s mal so. Ich wäre auch stolz,\n",
+        "wenn ich deine Mama wäre!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00021",
+      "de_DE": [
+        "Gestern war ich in Neuborkia.\r",
+        "Da traf ich eine Dame, die dir sehr\n",
+        "ähnlich sah, {STRVAR_1 3, 0, 0}.\r",
+        "Was? Die Dame war deine Mama?\r",
+        "Ah, hätte ich mich doch vorgestellt!\r",
+        "Ich wette, deine Mama ist sehr\n",
+        "stolz auf dich, nach dem, was du\f",
+        "alles erreicht hast.\r",
+        "He, sieh’s mal so. Ich wäre auch stolz,\n",
+        "wenn ich deine Mama wäre!\r",
+        "Also dann, bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00022",
+      "de_DE": [
+        "Ich hab’s gesehen, gesehen, gesehen!\r",
+        "Wie du an Bord des Schiffes\n",
+        "gegangen bist, {STRVAR_1 3, 0, 0}!\r",
+        "Du mit dem Meer im Hintergrund,\n",
+        "ich kann gar nicht genug davon\f",
+        "bekommen, so gut sieht das aus!\r",
+        "Ich hasse es, bei dir auflegen\n",
+        "zu müssen!\r",
+        "Also dann, bis demnächst einmal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00023",
+      "de_DE": [
+        "Ich hab’s gesehen, gesehen, gesehen!\r",
+        "Wie du an Bord des Schiffes\n",
+        "gegangen bist, {STRVAR_1 3, 0, 0}!\r",
+        "Du mit dem Meer im Hintergrund,\n",
+        "ich kann gar nicht genug davon\f",
+        "bekommen, so gut sieht das aus!\r",
+        "Ich hasse es, bei dir auflegen\n",
+        "zu müssen!\r",
+        "Also dann, bis demnächst einmal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00024",
+      "de_DE": [
+        "Ich hab’s gehört! Du hast einen\n",
+        "Fahrschein für den Magnetzug!\r",
+        "Als ich dich an Bord des Schiffes gehen\n",
+        "sah, war ich traurig, dass ich dich eine\f",
+        "Weile nicht sehen würde.\r",
+        "Aber da du den Fahrschein hast,\n",
+        "kannst du jederzeit zurückkommen!\f",
+        "Ein tolles Gefühl!\r",
+        "Was? Du kannst jederzeit zurückfliegen?\r",
+        "Was meinst du mit Fliegen?\n",
+        "Das musst du mir mal erklären!"
+      ]
+    },
+    {
+      "id": "msg_0691_00025",
+      "de_DE": [
+        "Ich hab’s gehört! Du hast einen\n",
+        "Fahrschein für den Magnetzug!\r",
+        "Als ich dich an Bord des Schiffes gehen\n",
+        "sah, war ich traurig, dass ich dich eine\f",
+        "Weile nicht sehen würde.\r",
+        "Aber da du den Fahrschein hast,\n",
+        "kannst du jederzeit zurückkommen!\f",
+        "Ein tolles Gefühl!\r",
+        "Was? Du kannst jederzeit zurückfliegen?\r",
+        "Was meinst du mit Fliegen?\n",
+        "Das musst du mir mal erklären!"
+      ]
+    },
+    {
+      "id": "msg_0691_00026",
+      "de_DE": [
+        "Ich hab’s gesehen, ich hab’s gesehen!\r",
+        "Du hast RELAXO geweckt!\r",
+        "Ich habe dich aus der Ferne\n",
+        "beobachtet, daher weiß ich nicht,\f",
+        "was du getan hast.\r",
+        "Du hast eine Flöte gespielt, um es\n",
+        "aufzuwecken?\r",
+        "Wow! Das muss Magie sein!\r",
+        "Also dann, bis demnächst einmal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00027",
+      "de_DE": [
+        "Ich hab’s gesehen, ich hab’s gesehen!\r",
+        "Du hast RELAXO geweckt!\r",
+        "Ich habe dich aus der Ferne\n",
+        "beobachtet, daher weiß ich nicht,\f",
+        "was du getan hast.\r",
+        "Du hast eine Flöte gespielt, um es\n",
+        "aufzuwecken?\r",
+        "Wow! Das muss Magie sein!\r",
+        "Also dann, bis demnächst einmal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00028",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, ich hab’s gehört!\r",
+        "Ganz Kanto ist in Aufruhr, seit\n",
+        "du dort auf den Putz haust!\r",
+        "Du mischst den Laden hier echt\n",
+        "ganz schön auf!\r",
+        "Da bleibt einem die Spucke weg!\r",
+        "Also dann, bis demnächst einmal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00029",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}, ich hab’s gehört!\r",
+        "Ganz Kanto ist in Aufruhr, seit\n",
+        "du dort auf den Putz haust!\r",
+        "Du mischst den Laden hier echt\n",
+        "ganz schön auf!\r",
+        "Da krieg ich glatt eine Gänsehaut!\r",
+        "Also dann, bis demnächst einmal!"
+      ]
+    },
+    {
+      "id": "msg_0691_00030",
+      "de_DE": [
+        "Ich höre überall Gerüchte über\n",
+        "dich.\r",
+        "Sie entlockten mir ein Seufzen,\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Wie bist du nur so stark geworden?\r",
+        "Bald bist du der beste Trainer der\n",
+        "ganzen Welt!\r",
+        "Und ich werde dich die ganze Zeit\n",
+        "hindurch anfeuern!\r",
+        "Also dann, bis... darf ich dich\n",
+        "immer noch anrufen?"
+      ]
+    },
+    {
+      "id": "msg_0691_00031",
+      "de_DE": [
+        "Ich höre überall Gerüchte über\n",
+        "dich.\r",
+        "Sie entlockten mir ein Seufzen,\n",
+        "{STRVAR_1 3, 0, 0}.\r",
+        "Wie bist du nur so stark geworden?\r",
+        "Bald bist du der beste Trainer der\n",
+        "ganzen Welt!\r",
+        "Und ich werde dich die ganze Zeit\n",
+        "hindurch anfeuern!\r",
+        "Also dann, bis... darf ich dich\n",
+        "immer noch anrufen?"
+      ]
+    },
+    {
+      "id": "msg_0691_00032",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Ich freue mich schon, mehr von\f",
+        "deinen Abenteuern zu hören!"
+      ]
+    },
+    {
+      "id": "msg_0691_00033",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Ich freue mich schon, mehr von\f",
+        "deinen Abenteuern zu hören!"
+      ]
+    },
+    {
+      "id": "msg_0691_00034",
+      "de_DE": [
+        "Ich kriege jedes Mal Gänsehaut,\n",
+        "wenn ich von deinen Abenteuern höre!"
+      ]
+    },
+    {
+      "id": "msg_0691_00035",
+      "de_DE": [
+        "Ich kriege jedes Mal Gänsehaut,\n",
+        "wenn ich von deinen Abenteuern höre!"
+      ]
+    },
+    {
+      "id": "msg_0691_00036",
+      "de_DE": [
+        "Ach, {STRVAR_1 3, 0, 0}! Jedes Mal,\n",
+        "wenn ich mir deine Abenteuer vor Augen\f",
+        "führe, geht mir das Herz auf!"
+      ]
+    },
+    {
+      "id": "msg_0691_00037",
+      "de_DE": [
+        "Ach, {STRVAR_1 3, 0, 0}! Jedes Mal,\n",
+        "wenn ich mir deine Abenteuer vor Augen\f",
+        "führe, geht mir das Herz auf!"
+      ]
+    },
+    {
+      "id": "msg_0691_00038",
+      "de_DE": [
+        "Ich kriege jedes Mal Gänsehaut,\n",
+        "wenn ich von deinen Abenteuern höre!"
+      ]
+    },
+    {
+      "id": "msg_0691_00039",
+      "de_DE": [
+        "Ist das schön, dass du anrufst!\r",
+        "Ich wollte dich auch gerade anrufen!\n",
+        "Siehst du? Wir passen gut zusammen!"
+      ]
+    },
+    {
+      "id": "msg_0691_00040",
+      "de_DE": [
+        "Wie geht es dir?\r",
+        "Was machst du gerade?\r",
+        "Wo bist du?\r",
+        "Wie viele Orden hast du jetzt?\r",
+        "Wie viel Geld hast du gespart?\r",
+        "Wie geht es deiner Mama?\r",
+        "Hast du viele Pokémon?\r",
+        "Scheint morgen die Sonne?\r",
+        "Aaargh, es gibt so viel, über das ich\n",
+        "reden möchte! Wir kommen ja gar\f",
+        "nicht zum Reden!"
+      ]
+    }
+  ]
+}

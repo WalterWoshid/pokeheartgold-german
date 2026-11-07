@@ -1,0 +1,335 @@
+{
+  "key": 5218,
+  "messages": [
+    {
+      "id": "msg_0103_00000",
+      "de_DE": [
+        "Willkommen in der Kampfzone!\r",
+        "Ist dies dein erster Besuch hier?\n",
+        "Na dann hier entlang!\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00001",
+      "de_DE": [
+        "Ooooh, da sehe ich ja eine Kampfkamera!\n",
+        "Das ist aber famos!\r",
+        "Erstbesuchern der Kampfzone wird die\n",
+        "Kampfkamera umsonst aufgerüstet!\r",
+        "Dazu bräuchte ich sie für einen\n",
+        "kleinen Augenblick...\r",
+        "Aah, ja. Einfach hier öffnen,\n",
+        "und ticka-tacka-ka-tschink!\r",
+        "Na, das hätten wir!\n",
+        "Bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00002",
+      "de_DE": [
+        "Die Kampfkamera von {STRVAR_1 3, 0, 0}\n",
+        "wurde aufgerüstet!"
+      ]
+    },
+    {
+      "id": "msg_0103_00003",
+      "de_DE": [
+        "Unsere Mitarbeiter erklären dir gern\n",
+        "die einzelnen Bereiche der Kampfzone.\r",
+        "Ich kann dir auch einen allgemeinen\n",
+        "Überblick verschaffen.\r",
+        "Hast du Fragen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0103_00004",
+      "de_DE": [
+        "Worüber willst du einen\n",
+        "Überblick bekommen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0103_00005",
+      "de_DE": [
+        "In der Kampfzone gibt es fünf Bereiche,\n",
+        "in denen sich alles ums Kämpfen dreht.\r",
+        "Im Duellturm musst du sieben Trainer\n",
+        "hintereinander besiegen.\r",
+        "Im Kampfsaal kannst du Kampf-Rekorde\n",
+        "einzelner Pokémon aufstellen.\r",
+        "In der Kampffabrik gilt es, mit\n",
+        "Leih-Pokémon aufeinanderfolgende\f",
+        "Kämpfe zu überstehen.\r",
+        "Im Kampfpalais muss ein Trainer\n",
+        "mit Palaispunkten haushalten, um\f",
+        "voranzuschreiten.\r",
+        "Und dann gibt es die Kampfarkaden.\n",
+        "Dort bestimmt der Zufall die Kämpfe.\r",
+        "Such dir einfach den Ort aus, der\n",
+        "dir am ehesten liegt!\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00006",
+      "de_DE": [
+        "Die Kämpfe in den fünf Bereichen der\n",
+        "Kampfzone unterliegen gewissen Regeln.\r",
+        "Das Wichtigste ist, dass keine EP\n",
+        "gesammelt werden können.\r",
+        "Die Pokémon, die hier kämpfen,\n",
+        "gewinnen also nicht an Leveln hinzu.\r",
+        "Wenn die Regel Level 50 verwendet wird,\n",
+        "wird die Stärke von Pokémon, die einen\f",
+        "höheren Level als 50 besitzen, auf das\f",
+        "Niveau von Level 50 herabgestuft.\r",
+        "Pokémon, die noch nicht Level 50\n",
+        "erreicht haben, bleiben unverändert.\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00007",
+      "de_DE": [
+        "Wir sagen zu den Gewinnpunkten\n",
+        "meist GP, das ist kürzer.\r",
+        "GP sind Punkte, die nur in der\n",
+        "Kampfzone vorkommen.\r",
+        "Sie werden verteilt, wenn in den\n",
+        "einzelnen Bereichen der Kampfzone\f",
+        "bestimmte Ziele erreicht werden.\r",
+        "GP können in der Tauschecke\n",
+        "gegen Preise eingewechselt werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00008",
+      "de_DE": [
+        "Die Tauschecke findest du an\n",
+        "den Ständen, die weiter vorn\f",
+        "aufgestellt sind.\r",
+        "Dort kannst du dir im Tausch gegen GP\n",
+        "etwas aus einer Vielzahl hochwertiger\f",
+        "Preise aussuchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00009",
+      "de_DE": [
+        "Der Auftrittsmonitor zeigt die Daten\n",
+        "von Trainern sowie den vorigen Rekord\f",
+        "und die absoluten Meisterleistungen.\r",
+        "Er ist in der Nähe des Empfangs eines\n",
+        "jeden Bereichs zu finden.\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00010",
+      "de_DE": "Genieße deinen Besuch hier!"
+    },
+    {
+      "id": "msg_0103_00011",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0103_00012",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0103_00013",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0103_00014",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0103_00015",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0103_00016",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0103_00017",
+      "de_DE": [
+        "Willkommen in der Kampfzone!\r",
+        "Möchtest du mehr über den\n",
+        "Duellturm wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0103_00018",
+      "de_DE": [
+        "Der Duellturm ist ein Gebäude im\n",
+        "hinteren Bereich der Kampfzone.\r",
+        "In ihm solltest du mit einem Team\n",
+        "unterschiedlicher Pokémon so\f",
+        "lange kämpfen, bis du verloren hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00019",
+      "de_DE": "Genieße deinen Besuch hier!"
+    },
+    {
+      "id": "msg_0103_00020",
+      "de_DE": [
+        "Willkommen in der Kampfzone!\r",
+        "Möchtest du mehr über die\n",
+        "Kampffabrik wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0103_00021",
+      "de_DE": [
+        "Die Kampffabrik liegt oben rechts in\n",
+        "der Kampfzone.\r",
+        "Dort nimmst du an einem K.O.-Turnier\n",
+        "mit Leih-Pokémon teil.\r",
+        "Du musst versuchen, so lange wie\n",
+        "möglich zu gewinnen.\r",
+        "Bei jedem Sieg kannst du dein Pokémon\n",
+        "gegen ein gegnerisches eintauschen.\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00022",
+      "de_DE": "Genieße deinen Besuch hier!"
+    },
+    {
+      "id": "msg_0103_00023",
+      "de_DE": [
+        "Willkommen in der Kampfzone!\r",
+        "Möchtest du mehr über den\n",
+        "Kampfsaal wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0103_00024",
+      "de_DE": [
+        "Der Kampfsaal liegt oben links in\n",
+        "der Kampfzone.\r",
+        "Hier nimmt ein von dir ausgewähltes\n",
+        "Pokémon an Einzelkämpfen teil.\r",
+        "Versuche, deine Siegesserie so lange\n",
+        "wie möglich aufrechtzuerhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00025",
+      "de_DE": "Genieße deinen Besuch hier!"
+    },
+    {
+      "id": "msg_0103_00026",
+      "de_DE": [
+        "Willkommen in der Kampfzone!\r",
+        "Möchtest du mehr über das\n",
+        "Kampfpalais wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0103_00027",
+      "de_DE": [
+        "Das Kampfpalais liegt unten links in\n",
+        "der Kampfzone.\r",
+        "Dort stellt man dir Palaispunkte zur\n",
+        "Verfügung, mit denen du haushalten\f",
+        "musst.\r",
+        "Diese PP werden zum Heilen von Pokémon,\n",
+        "zum Leihen von Items oder Beeren und\f",
+        "so weiter eingesetzt.\r",
+        "Durch effektives Haushalten musst du\n",
+        "so lange wie möglich durchhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00028",
+      "de_DE": "Genieße deinen Besuch hier!"
+    },
+    {
+      "id": "msg_0103_00029",
+      "de_DE": [
+        "Willkommen in der Kampfzone!\r",
+        "Möchtest du mehr über die\n",
+        "Kampfarkaden wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0103_00030",
+      "de_DE": [
+        "Die Kampfarkaden liegen unten\n",
+        "rechts in der Kampfzone.\r",
+        "Hier wird vor jedem Duell ein\n",
+        "Spielbrett angezeigt.\r",
+        "Auf diesem Brett wird ein Umstand\n",
+        "aktiviert, der einen Effekt auf das\f",
+        "folgende Duell hat.\r",
+        "Einige Umstände verschaffen dem\n",
+        "Herausforderer einen Vorteil,\f",
+        "andere nicht.\r",
+        "Vielleicht kann der Herausforderer\n",
+        "sogar einen Kampf komplett vermeiden.\r",
+        "Versuche, so lange wie möglich siegreich\n",
+        "aus den Kämpfen zu gehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0103_00031",
+      "de_DE": "Genieße deinen Besuch hier!"
+    },
+    {
+      "id": "msg_0103_00032",
+      "de_DE": [
+        "Die Kampfzone liegt gleich da vorn!\r",
+        "Meine Erkundungsreisen haben mich\n",
+        "um den ganzen Globus geführt, aber\f",
+        "so aufgeregt war ich schon lange\f",
+        "nicht mehr!\r",
+        "Was für Trainern ich dort wohl begegne?\n",
+        "Und was für Kämpfe mich wohl erwarten?\f",
+        "Ich bin schon richtig in Stimmung für\f",
+        "ein neues Abenteuer!"
+      ]
+    },
+    {
+      "id": "msg_0103_00033",
+      "de_DE": [
+        "Die fünf Bereiche der Kampfzone sind...\r",
+        "Turm.\r",
+        "Saal.\r",
+        "Palais.\r",
+        "Fabrik.\r",
+        "Und Arkaden.\r",
+        "Wie macht man daraus aber ein\n",
+        "schön klingendes Akronym?\f",
+        "AFSPT? PFAST? STAPF?\r",
+        "Also so richtig gut klingt das\n",
+        "alles nicht!\r",
+        "Das hätten sie bei der Benennung\n",
+        "bedenken sollen, findest du nicht?"
+      ]
+    },
+    {
+      "id": "msg_0103_00034",
+      "de_DE": [
+        "So eine Kampfkamera ist was Tolles!\r",
+        "Wenn du dir darauf die Rekorde aus der\n",
+        "Kampfzone anschaust, kannst du auf\f",
+        "der Stelle sehen, wie viele GP du hast!"
+      ]
+    },
+    {
+      "id": "msg_0103_00035",
+      "de_DE": [
+        "So gern würde ich gegen Viktor\n",
+        "im Duellturm antreten!\r",
+        "Und diesen Kampf epischen Ausmaßes\n",
+        "würde ich dann mit meiner Kampfkamera\f",
+        "aufnehmen!\r",
+        "Aber ich habe meine Kampfkamera zu\n",
+        "Hause liegenlassen!\r",
+        "Das macht mich echt fertig!"
+      ]
+    }
+  ]
+}

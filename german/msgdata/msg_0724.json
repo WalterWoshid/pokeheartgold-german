@@ -1,0 +1,6428 @@
+{
+  "key": 35392,
+  "messages": [
+    {
+      "id": "msg_0724_00000",
+      "de_DE": "Und los geht’s!"
+    },
+    {
+      "id": "msg_0724_00001",
+      "de_DE": "Wir haben es geschafft!\r"
+    },
+    {
+      "id": "msg_0724_00002",
+      "de_DE": "Onkel!\r"
+    },
+    {
+      "id": "msg_0724_00003",
+      "de_DE": [
+        "Meine Pokémon sind nicht gewöhnlich!\n",
+        "Ganz und gar nicht gewöhnlich!"
+      ]
+    },
+    {
+      "id": "msg_0724_00004",
+      "de_DE": [
+        "Ihre schneidenden Angriffe... absolute\n",
+        "Spitzenklasse, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00005",
+      "de_DE": [
+        "Bah...\n",
+        "Wir wurden unschädlich gemacht...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00006",
+      "de_DE": [
+        "Ich bin der Prinz unter den Shorts\n",
+        "tragenden Teenagern!"
+      ]
+    },
+    {
+      "id": "msg_0724_00007",
+      "de_DE": [
+        "Ich hoffe, ich wurde meinem Titel\n",
+        "als Shorts tragender Prinz gerecht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00008",
+      "de_DE": [
+        "Nein! Das darf dem Prinzen der Shorts\n",
+        "tragenden Teenager nicht passieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00009",
+      "de_DE": [
+        "Diese Anspannung! Und wenn ich nun\n",
+        "einfach nach Hause gehen würde?"
+      ]
+    },
+    {
+      "id": "msg_0724_00010",
+      "de_DE": [
+        "Ich habe es geschafft! Auf irgendeine\n",
+        "Art habe ich gewonnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00011",
+      "de_DE": [
+        "Das überstieg meine Möglichkeiten!\n",
+        "Ich muss jetzt gehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00012",
+      "de_DE": [
+        "Ich bin nicht sehr gut hierin,\n",
+        "aber nimm bitte keine Rücksicht."
+      ]
+    },
+    {
+      "id": "msg_0724_00013",
+      "de_DE": [
+        "Ich hab es doch gesagt, oder? Du\n",
+        "hättest keine Rücksicht nehmen sollen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00014",
+      "de_DE": [
+        "Autsch! Ich wünschte, du hättest ein\n",
+        "bisschen Rücksicht genommen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00015",
+      "de_DE": [
+        "Romantik, Mode und Pokémon!\n",
+        "Mädchen von heute wollen alles!"
+      ]
+    },
+    {
+      "id": "msg_0724_00016",
+      "de_DE": [
+        "Die Gier der Mädchen von\n",
+        "heute kennt keine Grenzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00017",
+      "de_DE": [
+        "Ist meine Gier für meine Niederlage\n",
+        "verantwortlich?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00018",
+      "de_DE": [
+        "Ich denke oft darüber nach,\n",
+        "wieso jeder so gerne kämpft."
+      ]
+    },
+    {
+      "id": "msg_0724_00019",
+      "de_DE": [
+        "Wieso macht der Sieg in einem Kampf\n",
+        "die Menschen so glücklich?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00020",
+      "de_DE": [
+        "Wieso macht eine Niederlage im Kampf\n",
+        "einen so ganz und gar wütend?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00021",
+      "de_DE": [
+        "Ich versuche sowohl meine Pokémon als\n",
+        "auch mein Wissen zu verbessern."
+      ]
+    },
+    {
+      "id": "msg_0724_00022",
+      "de_DE": [
+        "Ich scheine eine gute Mischung von\n",
+        "Spaß und Bildung gefunden zu haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00023",
+      "de_DE": [
+        "Ich habe die besten Noten\n",
+        "in der Schule, aber...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00024",
+      "de_DE": [
+        "Ich habe hierfür richtig gepaukt.\n",
+        "Ich kann nicht durchfallen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00025",
+      "de_DE": [
+        "Juchhu! Gewonnen! Ich bin froh,\n",
+        "dass ich so hart gearbeitet habe!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00026",
+      "de_DE": [
+        "Damit ist wohl klar, dass ich\n",
+        "noch mehr lernen muss.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00027",
+      "de_DE": [
+        "Meine Pokémon sind meine Schätze.\n",
+        "Du darfst sie sehen. Aber nur du!"
+      ]
+    },
+    {
+      "id": "msg_0724_00028",
+      "de_DE": [
+        "Und? Süß und stark!\n",
+        "Hehehehe.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00029",
+      "de_DE": [
+        "Und? Sie sind selbst in der\n",
+        "Niederlage süß. Hehehehe.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00030",
+      "de_DE": [
+        "Ich werde niemals verlieren!\n",
+        "Bitte folge dieser Regel!"
+      ]
+    },
+    {
+      "id": "msg_0724_00031",
+      "de_DE": [
+        "Vielen Dank! Diesen Sieg verdanke\n",
+        "ich dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00032",
+      "de_DE": "Ich wollte doch nicht verlieren...\r"
+    },
+    {
+      "id": "msg_0724_00033",
+      "de_DE": [
+        "Ich kann das...\n",
+        "Ich werde auch hier begeistern!"
+      ]
+    },
+    {
+      "id": "msg_0724_00034",
+      "de_DE": [
+        "Ich habe gewonnen!\n",
+        "Und ich werde ein Star!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00035",
+      "de_DE": [
+        "Eines Tages werde ich ein Star. Der\n",
+        "größte Star der ganzen Welt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00036",
+      "de_DE": [
+        "Sei nicht schüchtern. Du kannst\n",
+        "es auf jedwede Art probieren."
+      ]
+    },
+    {
+      "id": "msg_0724_00037",
+      "de_DE": [
+        "Ich hatte diese Strategie erwartet.\n",
+        "Heh.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00038",
+      "de_DE": [
+        "Ä-ähem... man muss auch mal verlieren,\n",
+        "sonst wäre es doch zu langweilig! Eh...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00039",
+      "de_DE": [
+        "Mein Vater ist reich. Es gibt nichts,\n",
+        "das er sich nicht leisten kann."
+      ]
+    },
+    {
+      "id": "msg_0724_00040",
+      "de_DE": [
+        "Mit dem Geld meines Vaters habe\n",
+        "ich meine Pokémon gekauft.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00041",
+      "de_DE": [
+        "Es gibt eben Dinge, die man nicht\n",
+        "kaufen kann. Das weiß ich...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00042",
+      "de_DE": [
+        "Nun, wollen wir dann? Zeit ist Geld.\n",
+        "Und die Uhr läuft!"
+      ]
+    },
+    {
+      "id": "msg_0724_00043",
+      "de_DE": [
+        "Und nun entschuldige mich bitte, denn\n",
+        "ich habe eine Einladung zum Diner. Ciao!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00044",
+      "de_DE": [
+        "Ich habe wohl verloren... nun, ich muss\n",
+        "ohnehin zu einem Diner aufbrechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00045",
+      "de_DE": [
+        "Etikette und Anstand... für diese\n",
+        "Dinge sind Damen bekannt."
+      ]
+    },
+    {
+      "id": "msg_0724_00046",
+      "de_DE": [
+        "Ohne Siege wie diesen würde ich\n",
+        "mitunter die Fassung verlieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00047",
+      "de_DE": [
+        "Ich wünschte, ich wäre so frei wie die\n",
+        "Vogel-Pokémon droben in den Lüften...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00048",
+      "de_DE": [
+        "Wäre ich gülden, so wäre er\n",
+        "nur ein rostiger Kupferton."
+      ]
+    },
+    {
+      "id": "msg_0724_00049",
+      "de_DE": [
+        "Wird ihm nun der Unterschied an Klasse\n",
+        "und Können bewusst?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00050",
+      "de_DE": [
+        "Wie kann er nur! Diese Demütigung\n",
+        "werde ich niemals vergessen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00051",
+      "de_DE": [
+        "Feiern, einkaufen, dinieren...\n",
+        "Das wird mir alles zu langweilig, Schatz."
+      ]
+    },
+    {
+      "id": "msg_0724_00052",
+      "de_DE": [
+        "Meinem Leben fehlt die Spannung.\n",
+        "Was kann mich wohl begeistern?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00053",
+      "de_DE": [
+        "Nur das Kämpfen lässt mich dieser\n",
+        "Langeweile und Apathie entfliehen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00054",
+      "de_DE": [
+        "Es freut mich, deine Bekanntschaft zu\n",
+        "machen. Ich hoffe, wir werden Freunde!"
+      ]
+    },
+    {
+      "id": "msg_0724_00055",
+      "de_DE": [
+        "Vielen Dank!\n",
+        "Vielen, vielen Dank!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00056",
+      "de_DE": [
+        "Vielen Dank...\n",
+        "...Für gar nichts.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00057",
+      "de_DE": [
+        "Der natürlichste Trainer... ach, wem\n",
+        "mache ich etwas vor? Das bin ich!"
+      ]
+    },
+    {
+      "id": "msg_0724_00058",
+      "de_DE": [
+        "Das ist der natürliche Gang der Dinge.\n",
+        "Es war unausweichlich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00059",
+      "de_DE": [
+        "Ich kämpfte ganz natürlich.\n",
+        "Und verlor.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00060",
+      "de_DE": [
+        "Ich habe Glück! Kein Erwachsener!\n",
+        "Das ist meine Chance!"
+      ]
+    },
+    {
+      "id": "msg_0724_00061",
+      "de_DE": [
+        "Gegen ein anderes Kind zu kämpfen,\n",
+        "ist viel weniger Furcht einflößend.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00062",
+      "de_DE": [
+        "In der Gegenwart von Erwachsenen\n",
+        "werde ich immer so nervös.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00063",
+      "de_DE": [
+        "Meine Siegessträhne könnte enden, aber\n",
+        "Kämpfen macht einfach viel zu viel Spaß."
+      ]
+    },
+    {
+      "id": "msg_0724_00064",
+      "de_DE": [
+        "Und natürlich macht es am\n",
+        "meisten Spaß zu gewinnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00065",
+      "de_DE": [
+        "Selbst eine Niederlage kann Spaß\n",
+        "machen. So sind nun mal die Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00066",
+      "de_DE": [
+        "Mein Papa ist ein echter Mann aus den\n",
+        "Bergen. Macht Mama das zur Bergfrau?"
+      ]
+    },
+    {
+      "id": "msg_0724_00067",
+      "de_DE": [
+        "Bergfrau klingt irgendwie komisch. In\n",
+        "jedem Fall ist es nichts für mich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00068",
+      "de_DE": [
+        "Ich bin ihre Tochter. Ist mir das Leben\n",
+        "einer Bergfrau vorherbestimmt?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00069",
+      "de_DE": [
+        "Ich habe an alles gedacht. Selbst einen\n",
+        "kleinen Imbiss habe ich eingepackt."
+      ]
+    },
+    {
+      "id": "msg_0724_00070",
+      "de_DE": [
+        "Meine Lieblings-Pokémon machen\n",
+        "den Sieg zu einer einfachen Sache!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00071",
+      "de_DE": [
+        "Oh nein! Ich habe meine Lieblings-\n",
+        "Pokémon zu Hause vergessen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00072",
+      "de_DE": [
+        "Ich tolle mit meinen Pokémon vom Typ\n",
+        "Wasser immer in einem Pool umher."
+      ]
+    },
+    {
+      "id": "msg_0724_00073",
+      "de_DE": [
+        "Es macht mich glücklich, mit meinen\n",
+        "Lieblings-Pokémon zu gewinnen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00074",
+      "de_DE": [
+        "Ich würde so gerne in einem Pool voller\n",
+        "Pokémon vom Typ Wasser schwimmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00075",
+      "de_DE": [
+        "Wenn ich verliere, übe ich schwimmen.\n",
+        "Das habe ich meiner Mama versprochen."
+      ]
+    },
+    {
+      "id": "msg_0724_00076",
+      "de_DE": [
+        "Juchhu! Ich muss heute nicht\n",
+        "mit Mama zum Schwimmtraining!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00077",
+      "de_DE": [
+        "Ich habe verloren. Jetzt muss ich zum\n",
+        "Schwimmtraining. Och menno...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00078",
+      "de_DE": [
+        "Ich habe meine Pokémon zusammen\n",
+        "mit meinem Papa gefangen."
+      ]
+    },
+    {
+      "id": "msg_0724_00079",
+      "de_DE": [
+        "Ich habe gewonnen, Papa!\n",
+        "Vielen Dank, Papa!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00080",
+      "de_DE": [
+        "Ich frage mich, ob Papa mir jetzt auch\n",
+        "beibringt, wie ich Pokémon trainiere.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00081",
+      "de_DE": [
+        "Ich komme gerade aus dem Schwimmbad,\n",
+        "aber ein Kampf ist schon okay."
+      ]
+    },
+    {
+      "id": "msg_0724_00082",
+      "de_DE": [
+        "Ich hoffe, ich kann bald nach Hause.\n",
+        "Ich benötige trockene Kleidung!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00083",
+      "de_DE": [
+        "Ha-ha-hatschi! Schnief...\n",
+        "Hatschiii! Wir haben verloren...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00084",
+      "de_DE": [
+        "Ich bin der Kapitän, der dieses Schiff\n",
+        "heldenhaft durch den Sturm bringt!"
+      ]
+    },
+    {
+      "id": "msg_0724_00085",
+      "de_DE": [
+        "Als richtige Wasserratte habe ich\n",
+        "das Ufer ohne Probleme erreicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00086",
+      "de_DE": "Mein Schiff muss leckgeschlagen sein!\r"
+    },
+    {
+      "id": "msg_0724_00087",
+      "de_DE": [
+        "Ich bin gerade aus dem\n",
+        "Urlaub zurückgekehrt."
+      ]
+    },
+    {
+      "id": "msg_0724_00088",
+      "de_DE": [
+        "Der Strand ist der beste Ort,\n",
+        "um ein bisschen anzugeben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00089",
+      "de_DE": "Mein Sonnenbrand juckt so...\r"
+    },
+    {
+      "id": "msg_0724_00090",
+      "de_DE": [
+        "Bitte? Ein Kampf? Das ist alles?\n",
+        "Kein Problem."
+      ]
+    },
+    {
+      "id": "msg_0724_00091",
+      "de_DE": "Du bist schon etwas Besonderes, wie?\r"
+    },
+    {
+      "id": "msg_0724_00092",
+      "de_DE": "Danke für deine Zeit.\r"
+    },
+    {
+      "id": "msg_0724_00093",
+      "de_DE": [
+        "Hey Ladies, das ist für euch:\n",
+        "Ich singe und kämpfe nur für euch!"
+      ]
+    },
+    {
+      "id": "msg_0724_00094",
+      "de_DE": [
+        "Ladies, ich habe nur für euch\n",
+        "gewonnen! Eure Liebe ist meine Kraft!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00095",
+      "de_DE": [
+        "Den Kampf habe ich verloren. Die Liebe\n",
+        "für die Ladies jedoch nicht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00096",
+      "de_DE": [
+        "Das ist keine Gitarre. Es ist ein tradi-\n",
+        "tionelles japanisches Instrument."
+      ]
+    },
+    {
+      "id": "msg_0724_00097",
+      "de_DE": [
+        "Es hat nur drei Saiten. Weißt du, um\n",
+        "welches Instrument es sich handelt?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00098",
+      "de_DE": "Man nennt es Shamisen.\r"
+    },
+    {
+      "id": "msg_0724_00099",
+      "de_DE": [
+        "Wir Bühnenstars haben einen Verhal-\n",
+        "tenskodex, der streng überprüft wird."
+      ]
+    },
+    {
+      "id": "msg_0724_00100",
+      "de_DE": [
+        "Wenn ein Bühnenstar zum Beispiel\n",
+        "einen Preis gewinnt, muss er\f",
+        "kreischen und umherspringen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00101",
+      "de_DE": [
+        "Verliert ein Bühnenstar, darf er\n",
+        "niemals wütend werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00102",
+      "de_DE": [
+        "Zeit für einen Sternenhieb!\n",
+        "Das ist mein Slogan!"
+      ]
+    },
+    {
+      "id": "msg_0724_00103",
+      "de_DE": "Mein Sternenhieb geht dir zu Herzen!\r"
+    },
+    {
+      "id": "msg_0724_00104",
+      "de_DE": [
+        "Alle Bühnenstars brauchen einen\n",
+        "Slogan. Vor allem nach ihrem Debüt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00105",
+      "de_DE": [
+        "Du hast mächtig Glück, mit mir kämpfen\n",
+        "zu dürfen."
+      ]
+    },
+    {
+      "id": "msg_0724_00106",
+      "de_DE": [
+        "Mit mir zu kämpfen macht dich zu einem\n",
+        "Glückspilz. Verstehst du das nicht?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00107",
+      "de_DE": [
+        "Äh? Wieso hast du gewonnen? Du weißt\n",
+        "doch, dass ich gewinnen sollte, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00108",
+      "de_DE": [
+        "Knacks... knirsch... hehehe... ich\n",
+        "mache mich nur für den Kampf warm."
+      ]
+    },
+    {
+      "id": "msg_0724_00109",
+      "de_DE": [
+        "Hah! Sehr schwach! Selbst im Fall, dass\n",
+        "das nur ein Scherz war.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00110",
+      "de_DE": [
+        "Grrr... die Schuld trifft nur mich ganz\n",
+        "allein...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00111",
+      "de_DE": [
+        "Sind sie nicht hübsch? Regelrecht\n",
+        "bezaubernd? Das sind meine Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0724_00112",
+      "de_DE": [
+        "Ihr habt so hart gearbeitet! Dafür\n",
+        "werde ich euch zu Hause verwöhnen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00113",
+      "de_DE": [
+        "Was tust du nur mit meinen Pokémon?!?\n",
+        "Und wenn du sie nun verletzt hast?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00114",
+      "de_DE": [
+        "Ich stehe vor dir als Mitglied des\n",
+        "Pokémon Fan Clubs! En garde!"
+      ]
+    },
+    {
+      "id": "msg_0724_00115",
+      "de_DE": [
+        "Lang lebe der Pokémon Fan Club!\n",
+        "Möge er auf ewig ruhmreich sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00116",
+      "de_DE": [
+        "Damit kannst du den Pokémon Fan Club\n",
+        "trotzdem nicht zu Fall bringen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00117",
+      "de_DE": [
+        "Als Fan Club-Abteilungsleiterin\n",
+        "akzeptiere ich deine Herausforderung."
+      ]
+    },
+    {
+      "id": "msg_0724_00118",
+      "de_DE": [
+        "Hast du ernsthaft geglaubt, gegen den\n",
+        "Fan Club eine Chance zu haben?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00119",
+      "de_DE": [
+        "Ack! Ich werde gerächt! V-von unserem\n",
+        "Regionalleiter...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00120",
+      "de_DE": [
+        "Pokémon aufzuziehen ist mehr, als sie\n",
+        "nur zu verwöhnen. Siehst du das nicht?"
+      ]
+    },
+    {
+      "id": "msg_0724_00121",
+      "de_DE": [
+        "Juchhu! Meine Lieblinge! Wo sind meine\n",
+        "Fluffiwuffi-Pokémon? Da sind sie!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00122",
+      "de_DE": [
+        "Wie konntest du nur?!? Meine Pokémon\n",
+        "hätten sich verletzen können!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00123",
+      "de_DE": [
+        "Im Namen meines Dorfes akzeptiere\n",
+        "ich diese Herausforderung!"
+      ]
+    },
+    {
+      "id": "msg_0724_00124",
+      "de_DE": [
+        "Vielen Dank! Vielen Dank an alle für\n",
+        "eure lautstarke Unterstützung!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00125",
+      "de_DE": [
+        "Es tut mir leid, liebe Dorfbewohner!\n",
+        "Aber mein Bestes war nicht gut genug!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00126",
+      "de_DE": [
+        "Vielen Dank für deine Geduld. Hier\n",
+        "ist der von dir bestellte Kampf."
+      ]
+    },
+    {
+      "id": "msg_0724_00127",
+      "de_DE": [
+        "Du warst zufrieden, hoffe ich? Ich\n",
+        "fühle mich irgendwie übers Ohr gehauen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00128",
+      "de_DE": [
+        "Du warst zufrieden, hoffe ich?\n",
+        "Ich bin es jedenfalls.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00129",
+      "de_DE": [
+        "Arbeit und Pokémon machen Spaß.\n",
+        "Dazu fühle ich mich hier richtig wohl."
+      ]
+    },
+    {
+      "id": "msg_0724_00130",
+      "de_DE": [
+        "Ich habe so viel Spaß! Ich glaube, ich\n",
+        "werde immer in dieser Gegend bleiben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00131",
+      "de_DE": [
+        "Wieso besiegst du mich?!? Das ist\n",
+        "gemein! Ich will wieder nach Hause.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00132",
+      "de_DE": [
+        "An jedem Arbeitsplatz werde ich\n",
+        "gleich zum Oberkellner befördert..."
+      ]
+    },
+    {
+      "id": "msg_0724_00133",
+      "de_DE": [
+        "Und dann kämpfe ich auch noch gut. Kein\n",
+        "Wunder, dass die Frauen mir verfallen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00134",
+      "de_DE": [
+        "Ich träume davon, vom Oberkellner zu\n",
+        "einem berühmten Chefkoch aufzusteigen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00135",
+      "de_DE": [
+        "Es gibt hier keine Gratisessen. Es gibt\n",
+        "nur das volle Menü mit allen Gängen."
+      ]
+    },
+    {
+      "id": "msg_0724_00136",
+      "de_DE": [
+        "Es macht doch keinen Spaß mit nur\n",
+        "halbem Einsatz zu kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00137",
+      "de_DE": [
+        "Ich nehme die Arbeit und das Spiel\n",
+        "sehr ernst. Das treibt mich an!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00138",
+      "de_DE": [
+        "Hallo, wie wäre es mit dem Tagesmenü?\n",
+        "...Das sage ich immer bei der Arbeit!"
+      ]
+    },
+    {
+      "id": "msg_0724_00139",
+      "de_DE": [
+        "Vielen Dank und einen schönen Tag\n",
+        "noch! ...Ich klinge wie auf der Arbeit.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00140",
+      "de_DE": [
+        "Wir freuen uns auf deinen nächsten\n",
+        "Besuch! Ich klinge wie auf der Arbeit...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00141",
+      "de_DE": [
+        "Dein Team wirkt beeindruckend.\n",
+        "Kann ich da überhaupt bestehen?"
+      ]
+    },
+    {
+      "id": "msg_0724_00142",
+      "de_DE": [
+        "Sind diese Pokémon nur für\n",
+        "Wettbewerbe vorgesehen?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00143",
+      "de_DE": [
+        "Autsch! Und noch mal autsch!\n",
+        "Das war einfach zu viel für mich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00144",
+      "de_DE": [
+        "Ich liebe Pokémon vom Typ Käfer! Und\n",
+        "mein Käfernetz liebe ich noch mehr!"
+      ]
+    },
+    {
+      "id": "msg_0724_00145",
+      "de_DE": [
+        "Ich habe meine Pokémon mit meinem\n",
+        "zuverlässigen Käfernetz gefangen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00146",
+      "de_DE": [
+        "Es wäre cool, wenn es ein Käfernetz-\n",
+        "Pokémon geben würde.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00147",
+      "de_DE": [
+        "Die Käfer sind mir ergeben und ich bin\n",
+        "ihr Boss. Bist du bereit zur Niederlage?"
+      ]
+    },
+    {
+      "id": "msg_0724_00148",
+      "de_DE": [
+        "Muahahaha!\n",
+        "Sehr gut, meine Untergebenen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00149",
+      "de_DE": [
+        "Wir wurden überrannt... und meine\n",
+        "Untergebenen mussten Lehrgeld zahlen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00150",
+      "de_DE": [
+        "Ich breche aus meinem Panzer aus!\n",
+        "Ich werde mich entwickeln!"
+      ]
+    },
+    {
+      "id": "msg_0724_00151",
+      "de_DE": [
+        "Es kommt mir vor, als ob mir Flügel\n",
+        "gewachsen wären! Mein neues Ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00152",
+      "de_DE": [
+        "Ist es noch nicht so weit? Sollte ich\n",
+        "eine Weile in meinem Panzer bleiben?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00153",
+      "de_DE": "Missetäter. Halte ein, sage ich!"
+    },
+    {
+      "id": "msg_0724_00154",
+      "de_DE": [
+        "Ich habe mit meinem Willen\n",
+        "den Sieg erzwungen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00155",
+      "de_DE": "Ich habe Schande über uns gebracht...\r"
+    },
+    {
+      "id": "msg_0724_00156",
+      "de_DE": [
+        "Hey! Was ist denn das da drüben?\n",
+        "Das... das ist ein Legendäres Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0724_00157",
+      "de_DE": [
+        "Kekeke... eine Ninja-Täuschung!\n",
+        "Und sie hat perfekt funktioniert!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00158",
+      "de_DE": [
+        "Dieser Ninja-Trick ging daneben. Ich\n",
+        "verschwinde in einer Rauchwolke!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00159",
+      "de_DE": [
+        "Meine unglaubliche Geschwindigkeit\n",
+        "wird dich völlig benommen machen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00160",
+      "de_DE": [
+        "Na? Es kommt dir wohl vor, als ob du\n",
+        "dich wie in Sirup bewegen musst, wie?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00161",
+      "de_DE": [
+        "Das ganze Umhergerenne hätte\n",
+        "ich mir wohl sparen können, wie?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00162",
+      "de_DE": [
+        "Ich trage diese Kleidung schon seit\n",
+        "einiger Zeit. Baden wird überbewertet!"
+      ]
+    },
+    {
+      "id": "msg_0724_00163",
+      "de_DE": [
+        "Die Kleidung zu wechseln ist zu viel\n",
+        "Aufwand. Und Baden ist noch schlimmer!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00164",
+      "de_DE": [
+        "Nein, nein, und noch mal nein!\n",
+        "Ich werde kein Bad nehmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00165",
+      "de_DE": [
+        "Ich mag Mama, PIKACHU\n",
+        "und auch meinen Papa."
+      ]
+    },
+    {
+      "id": "msg_0724_00166",
+      "de_DE": [
+        "Ein schwacher Trainer ist uncool.\n",
+        "Ich mag dich nicht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00167",
+      "de_DE": [
+        "Du bist kein schwächlicher Trainer.\n",
+        "Ich mag dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00168",
+      "de_DE": [
+        "Pikapika pikaah!\n",
+        "Pikka! Pikachuuuh!"
+      ]
+    },
+    {
+      "id": "msg_0724_00169",
+      "de_DE": [
+        "Piika pikapikka!\n",
+        "Pikka pikkachuuh!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00170",
+      "de_DE": "Pikka, ppi, pi, piii...\r"
+    },
+    {
+      "id": "msg_0724_00171",
+      "de_DE": [
+        "Zu Beginn eines Kampfes rufe ich\n",
+        "mir die endlose See vor Augen."
+      ]
+    },
+    {
+      "id": "msg_0724_00172",
+      "de_DE": [
+        "Habe ich die See vor Augen,\n",
+        "fühle ich mich unbesiegbar.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00173",
+      "de_DE": [
+        "Habe ich die See vor Augen, schmerzt\n",
+        "die Niederlage nicht mehr so sehr.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00174",
+      "de_DE": [
+        "Im Kampf und in der Liebe sollte man\n",
+        "wissen, wann man sich zurückzieht."
+      ]
+    },
+    {
+      "id": "msg_0724_00175",
+      "de_DE": [
+        "Sowohl der Kampf als auch die Liebe\n",
+        "können in die Verzweiflung führen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00176",
+      "de_DE": [
+        "Ich habe zwar verloren, aber ich habe\n",
+        "auch etwas sehr Tiefgründiges gesagt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00177",
+      "de_DE": [
+        "Ich wurde auf meiner letzten\n",
+        "Expedition verflucht. Hehehe."
+      ]
+    },
+    {
+      "id": "msg_0724_00178",
+      "de_DE": [
+        "Ich habe nicht die geringste Ahnung,\n",
+        "wie ich gewonnen habe. Heeheehee.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00179",
+      "de_DE": [
+        "Ich bin vielleicht verflucht, aber das\n",
+        "macht Spaß! Alles ist gut. Heeheehee.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00180",
+      "de_DE": [
+        "Mir alte Bauwerke und Städte anzusehen\n",
+        "bringt mein Blut in Wallung."
+      ]
+    },
+    {
+      "id": "msg_0724_00181",
+      "de_DE": [
+        "Leute mit Interesse an alten Bauwerken\n",
+        "haben das Potenzial zum Ruinenmaniac."
+      ]
+    },
+    {
+      "id": "msg_0724_00182",
+      "de_DE": [
+        "Öffne deine Augen in den Städten. Dort\n",
+        "gibt es jede Menge Dinge zu entdecken."
+      ]
+    },
+    {
+      "id": "msg_0724_00183",
+      "de_DE": [
+        "Dieses Team habe ich zusammen\n",
+        "mit Freunden aus dem Internet\f",
+        "zusammengestellt."
+      ]
+    },
+    {
+      "id": "msg_0724_00184",
+      "de_DE": [
+        "Gewonnen! Ich muss mich unbedingt bei\n",
+        "meinen Internet-Freunden bedanken!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00185",
+      "de_DE": [
+        "So was! Verloren?!? Das muss ich\n",
+        "meinen Internet-Freunden berichten!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00186",
+      "de_DE": [
+        "Ich bin der Hauptdarsteller hier.\n",
+        "Daher kann ich gar nicht verlieren."
+      ]
+    },
+    {
+      "id": "msg_0724_00187",
+      "de_DE": [
+        "Du bist gut! Für einen Nebendarsteller\n",
+        "sogar etwas zu gut.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00188",
+      "de_DE": [
+        "...Der Held muss etwas leiden, damit\n",
+        "das Publikum Mitgefühl entwickelt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00189",
+      "de_DE": [
+        "Ich bin sehr schwankend und kann mich\n",
+        "nicht auf eine Sache konzentrieren."
+      ]
+    },
+    {
+      "id": "msg_0724_00190",
+      "de_DE": [
+        "Ich habe gewonnen. Das langt mir. Ich\n",
+        "werde mir mal den Wi-Fi Plaza ansehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00191",
+      "de_DE": [
+        "Verloren... das ist genug!\n",
+        "Ich verziehe mich in die Safari-Zone!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00192",
+      "de_DE": [
+        "Ich habe viel mehr Erfahrung als du.\n",
+        "Was wirst du dagegensetzen?"
+      ]
+    },
+    {
+      "id": "msg_0724_00193",
+      "de_DE": [
+        "Nicht schlecht, aber dir fehlt\n",
+        "noch etwas die Reife.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00194",
+      "de_DE": [
+        "Erfahrung allein ist noch kein Garant\n",
+        "zum Sieg. Das habe ich gelernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00195",
+      "de_DE": [
+        "Glaubst du nicht auch, dass Pokémon-\n",
+        "Kämpfe sehr dem Wetter ähneln?"
+      ]
+    },
+    {
+      "id": "msg_0724_00196",
+      "de_DE": [
+        "Der Sieg gleicht einem warmen\n",
+        "und heiteren Sonnentag.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00197",
+      "de_DE": [
+        "Die Niederlage gleicht einem düsteren,\n",
+        "bewölkten Tag.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00198",
+      "de_DE": [
+        "Ich war die ganze Nacht feiern. Und von\n",
+        "den Spielen bin ich ganz benommen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00199",
+      "de_DE": [
+        "Partys und alberne Spiele\n",
+        "öden mich an.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00200",
+      "de_DE": "Ack!\r"
+    },
+    {
+      "id": "msg_0724_00201",
+      "de_DE": [
+        "Oooh, du bist aber ein Schätzchen! Ob\n",
+        "du mich wohl zum Lächeln bringst?"
+      ]
+    },
+    {
+      "id": "msg_0724_00202",
+      "de_DE": [
+        "Oooh Schätzchen. Ich habe gewonnen,\n",
+        "daher gibt es diesmal kein Lächeln!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00203",
+      "de_DE": [
+        "Mir ist nicht wirklich nach Lächeln...\n",
+        "Aber ich winke dir zum Abschied zu!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00204",
+      "de_DE": [
+        "...Einen Moment. Ich habe einen\n",
+        "dringenden Anruf."
+      ]
+    },
+    {
+      "id": "msg_0724_00205",
+      "de_DE": [
+        "Hi, ja... ja, Kampf... genau...\n",
+        "ja, gewonnen... na klar... haha...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00206",
+      "de_DE": [
+        "Hi, ja... ja, Kampf... nein... das Kind\n",
+        "hat gewonnen... genau...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00207",
+      "de_DE": [
+        "Schnief! Hatschi! Dieser Heuschnupfen\n",
+        "ist schon eine Qual..."
+      ]
+    },
+    {
+      "id": "msg_0724_00208",
+      "de_DE": [
+        "Hatschi! Schnief! Schnief! Ich habe\n",
+        "gewonnen, aber die Qual geht weiter!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00209",
+      "de_DE": [
+        "Schnief, schnief... hatschi! Ich weine\n",
+        "nicht. Es ist nur der Heuschnupfen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00210",
+      "de_DE": [
+        "Mein ausgeprägter Geruchssinn lässt\n",
+        "mich erahnen, wie stark ein Trainer ist."
+      ]
+    },
+    {
+      "id": "msg_0724_00211",
+      "de_DE": [
+        "Bleib dran! Meine Nase sagt mir,\n",
+        "dass du großes Potenzial hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00212",
+      "de_DE": [
+        "Schnief, schnief... meine Nase verrät\n",
+        "mir, dass du hart trainiert hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00213",
+      "de_DE": [
+        "Pühaha! Ich kann einen mächtigen\n",
+        "Kampf wittern!"
+      ]
+    },
+    {
+      "id": "msg_0724_00214",
+      "de_DE": "Das süße Aroma des Erfolgs!\r"
+    },
+    {
+      "id": "msg_0724_00215",
+      "de_DE": "Die Niederlage riecht wie ein SKUNTANK!\r"
+    },
+    {
+      "id": "msg_0724_00216",
+      "de_DE": [
+        "Ich mag harten, schnellen Rhythmus.\n",
+        "Das gilt für die Musik und den Kampf!"
+      ]
+    },
+    {
+      "id": "msg_0724_00217",
+      "de_DE": [
+        "Dieses Rhythmusschema war klasse,\n",
+        "wenn ich das selbst sagen darf!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00218",
+      "de_DE": [
+        "Autsch! Das war eine Beleidigung\n",
+        "für die Ohren. Richtig abstoßend!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00219",
+      "de_DE": [
+        "Um dir die Bedeutung klarzumachen,\n",
+        "verwende ich nur noch Soundeffekte!"
+      ]
+    },
+    {
+      "id": "msg_0724_00220",
+      "de_DE": [
+        "Raaaah! Dan, dan! Dan, dan!\n",
+        "Uumpa-uumpa-uumpapa!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00221",
+      "de_DE": "Blip-bip, blip-bip... blip... bwiiii...\r"
+    },
+    {
+      "id": "msg_0724_00222",
+      "de_DE": [
+        "Warte! Warte bitte...\n",
+        "Die Winde... ich höre sie..."
+      ]
+    },
+    {
+      "id": "msg_0724_00223",
+      "de_DE": [
+        "Ich kann sie hören...\n",
+        "Die Winde... sie lachen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00224",
+      "de_DE": [
+        "Ich kann sie hören...\n",
+        "Die Winde... sie weinen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00225",
+      "de_DE": [
+        "Ich kann nicht fliegen... diese Pokémon\n",
+        "hier aber umso mehr..."
+      ]
+    },
+    {
+      "id": "msg_0724_00226",
+      "de_DE": [
+        "Meine Stimmung hebt sich immer weiter...\n",
+        "Vielen Dank an euch alle...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00227",
+      "de_DE": [
+        "Du hast mir die Flügel gestutzt...\n",
+        "Das werde ich niemals vergessen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00228",
+      "de_DE": [
+        "Ich fühle mich wie ein Wandervogel, aber\n",
+        "es zieht mich in alle Richtungen."
+      ]
+    },
+    {
+      "id": "msg_0724_00229",
+      "de_DE": [
+        "Auf meinen Reisen habe ich jede\n",
+        "Menge Erfahrung gesammelt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00230",
+      "de_DE": [
+        "Ich wünschte, ich wäre an einem Ort, an\n",
+        "dem ich Trainer wie dich finden könnte.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00231",
+      "de_DE": [
+        "Ich wurde in wogenden Wellen geboren.\n",
+        "Und der Strand war meine Wiege."
+      ]
+    },
+    {
+      "id": "msg_0724_00232",
+      "de_DE": [
+        "Auf See geboren und auch dort aufge-\n",
+        "wachsen. Das hat mich hart gemacht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00233",
+      "de_DE": [
+        "Verloren? Dann ist es an der Zeit, den\n",
+        "Blick über die See schweifen zu lassen."
+      ]
+    },
+    {
+      "id": "msg_0724_00234",
+      "de_DE": [
+        "Die Jugend von heute will die ganze\n",
+        "Welt! Na, war das tiefsinnig genug?"
+      ]
+    },
+    {
+      "id": "msg_0724_00235",
+      "de_DE": [
+        "Dort draußen gibt es bestimmt eine\n",
+        "Menge guter Trainer. Da bin ich sicher.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00236",
+      "de_DE": [
+        "Los, ziehe hinaus und nimm es auf mit der\n",
+        "Welt! Ich freue mich auf die Rückkehr!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00237",
+      "de_DE": [
+        "Wie war das? Ich rieche staubig? Kennst\n",
+        "du denn den Wohlgeruch von Erde nicht?"
+      ]
+    },
+    {
+      "id": "msg_0724_00238",
+      "de_DE": [
+        "Das hast du nun davon. Dein Team\n",
+        "liegt am Boden und riecht die Erde!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00239",
+      "de_DE": [
+        "Von einem Kind zu Boden geschickt, das\n",
+        "nicht mal den Geruch von Erde kennt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00240",
+      "de_DE": [
+        "Entschuldige mein Äußeres. Ich war zu\n",
+        "lange oben in den Bergen."
+      ]
+    },
+    {
+      "id": "msg_0724_00241",
+      "de_DE": [
+        "Um ehrlich zu sein... ich habe mich\n",
+        "da oben verlaufen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00242",
+      "de_DE": [
+        "Nun, es ist immer noch besser, sich da\n",
+        "oben zu verlaufen als im eigenen Zimmer.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00243",
+      "de_DE": [
+        "Ich sollte eigentlich gar nicht hier\n",
+        "sein. Können wir heimlich kämpfen?"
+      ]
+    },
+    {
+      "id": "msg_0724_00244",
+      "de_DE": [
+        "Auch ein Kampf erregt Aufmerksamkeit.\n",
+        "Nicht einfach, ein Bühnenstar zu sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00245",
+      "de_DE": [
+        "Stars haben ganz alltägliche Wünsche.\n",
+        "Auch wir mögen Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00246",
+      "de_DE": [
+        "Ich habe meine Berühmtheit nur mir\n",
+        "selbst zu verdanken. Ein Problem damit?"
+      ]
+    },
+    {
+      "id": "msg_0724_00247",
+      "de_DE": [
+        "Berühmt ist berühmt. Egal, ob man es\n",
+        "nur in der eigenen Vorstellung ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00248",
+      "de_DE": [
+        "Ich will im Zentrum der Aufmerksamkeit\n",
+        "stehen. Ich! Nur ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00249",
+      "de_DE": [
+        "Meine Karriere neigt sich dem Ende zu...\n",
+        "Nie wurde ich wirklich bewundert."
+      ]
+    },
+    {
+      "id": "msg_0724_00250",
+      "de_DE": [
+        "Ich werde als Star unter den\n",
+        "Pokémon-Kämpfern glänzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00251",
+      "de_DE": [
+        "Ich hätte meine Karriere gerne mit\n",
+        "einem Sieg in diesem Kampf beendet..."
+      ]
+    },
+    {
+      "id": "msg_0724_00252",
+      "de_DE": [
+        "Pokémon zu trainieren ähnelt einem\n",
+        "Marathon. Findest du nicht auch?"
+      ]
+    },
+    {
+      "id": "msg_0724_00253",
+      "de_DE": [
+        "Es ist sinnvoll, den eigenen\n",
+        "Trainingsplan täglich einzuhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00254",
+      "de_DE": [
+        "Verbraucht man die eigenen Reserven zu\n",
+        "schnell, kann man nicht mehr gewinnen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00255",
+      "de_DE": [
+        "Hallo! Gehen wir die Sache sauber, fair\n",
+        "und auf freundliche Weise an!"
+      ]
+    },
+    {
+      "id": "msg_0724_00256",
+      "de_DE": [
+        "Ich fühle mich gestärkt!\n",
+        "Pokémon sind das Größte!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00257",
+      "de_DE": [
+        "He... hehehe... so eindeutig geschlagen\n",
+        "zu werden ist irgendwie reinigend.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00258",
+      "de_DE": [
+        "Wir Arbeiter halten die\n",
+        "Räder der Welt am Laufen."
+      ]
+    },
+    {
+      "id": "msg_0724_00259",
+      "de_DE": [
+        "Manchmal würden wir gerne das Werkzeug\n",
+        "beiseite legen und uns ausruhen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00260",
+      "de_DE": [
+        "Vergiss nicht, welchen Dienst\n",
+        "wir Arbeiter leisten.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00261",
+      "de_DE": [
+        "Mein Sohn und meine Frau warten zu\n",
+        "Hause. Ich darf nicht verlieren!"
+      ]
+    },
+    {
+      "id": "msg_0724_00262",
+      "de_DE": [
+        "Ich musste das tun. Mit einer Familie an\n",
+        "seiner Seite wird man einfach stärker.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00263",
+      "de_DE": [
+        "Wie kann ich meinem Sohn und meiner\n",
+        "Frau jetzt nur unter die Augen treten?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00264",
+      "de_DE": [
+        "Pokémon sind wie eine Familie für mich.\n",
+        "...Nein, sie gehören zur Familie!"
+      ]
+    },
+    {
+      "id": "msg_0724_00265",
+      "de_DE": [
+        "Ja! Familie! Ihr habt es geschafft!\n",
+        "Wir haben es diesem Trainer gezeigt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00266",
+      "de_DE": [
+        "Bwähähähä! Das ist gemein! Das\n",
+        "schmerzt meine Familie!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00267",
+      "de_DE": [
+        "Ich war nicht streng genug mit meinen\n",
+        "Pokémon. Jetzt sind sie zu eigensinnig."
+      ]
+    },
+    {
+      "id": "msg_0724_00268",
+      "de_DE": [
+        "Hey, genug! Genug der Angriffe!\n",
+        "Der Kampf ist schon lange vorbei.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00269",
+      "de_DE": [
+        "Hey, der Kampf ist vorbei. Keine\n",
+        "Angriffe auf den Trainer.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00270",
+      "de_DE": "Du da! Konzentriere dich auf mich. "
+    },
+    {
+      "id": "msg_0724_00271",
+      "de_DE": [
+        "Du bist noch sehr schwach, Kindchen.\n",
+        "Du solltest mit mir trainieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00272",
+      "de_DE": [
+        "Du bist besser als erwartet. Ich habe\n",
+        "mich in dir getäuscht, Kindchen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00273",
+      "de_DE": [
+        "In den Kampf, meine Pokémon!\n",
+        "Aber überanstrengt euch nicht."
+      ]
+    },
+    {
+      "id": "msg_0724_00274",
+      "de_DE": [
+        "Klasse, wie sehr sich alle angestrengt\n",
+        "haben. Unsere Pokémon und wir.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00275",
+      "de_DE": [
+        "Kein schlechter Versuch, Team. Ich\n",
+        "danke euch für euren Einsatz.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00276",
+      "de_DE": [
+        "Den Traum meines Vaters... ich werde\n",
+        "ihn Wirklichkeit werden lassen. "
+      ]
+    },
+    {
+      "id": "msg_0724_00277",
+      "de_DE": [
+        "Vater, hast du das gesehen?\n",
+        "Das haben wir alles für dich getan...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00278",
+      "de_DE": [
+        "Wir haben verloren...\n",
+        "Es tut mir so leid, Vater...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00279",
+      "de_DE": [
+        "Ich würde gerne eine Pause einlegen.\n",
+        "...Nein? Du willst sofort loslegen?"
+      ]
+    },
+    {
+      "id": "msg_0724_00280",
+      "de_DE": [
+        "Siehst du? Du hättest dir eine\n",
+        "Pause gönnen sollen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00281",
+      "de_DE": [
+        "Du bist sehr stark. Aber trotzdem\n",
+        "solltest du hin und wieder ruhen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00282",
+      "de_DE": [
+        "Ja, genau so! Und jetzt noch ein\n",
+        "Lächeln! Bekommst du das hin?"
+      ]
+    },
+    {
+      "id": "msg_0724_00283",
+      "de_DE": [
+        "Nein, nein, nein. Ein Lächeln! Zeig mir\n",
+        "deine strahlenden Beißerchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00284",
+      "de_DE": [
+        "Ja, genau so! Und jetzt neige\n",
+        "deinen Kopf in meine Richtung.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00285",
+      "de_DE": [
+        "Das ist dir sicher nicht bewusst, aber\n",
+        "ich kann sogar deine Poren sehen."
+      ]
+    },
+    {
+      "id": "msg_0724_00286",
+      "de_DE": [
+        "Ja, ich sehe sie. Ich sehe\n",
+        "sie sogar sehr klar.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00287",
+      "de_DE": [
+        "Ich habe zu sehr auf dich gezoomt,\n",
+        "da gerieten die Pokémon aus\f",
+        "meinem Blickfeld...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00288",
+      "de_DE": [
+        "Während des Kampfes habe ich immer\n",
+        "noch ein Auge für gute Einstellungen."
+      ]
+    },
+    {
+      "id": "msg_0724_00289",
+      "de_DE": [
+        "Da! Und da! Ich habe einen Blick\n",
+        "für gute Momentaufnahmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00290",
+      "de_DE": [
+        "Bilder von meinen Niederlagen? Die\n",
+        "werden augenblicklich gelöscht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00291",
+      "de_DE": [
+        "Ich werde dir live von meinem Kampf\n",
+        "berichten!"
+      ]
+    },
+    {
+      "id": "msg_0724_00292",
+      "de_DE": [
+        "Diese unerschrockene und hübsche\n",
+        "Reporterin trägt den Sieg davon!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00293",
+      "de_DE": [
+        "Diese unerschrockene und hübsche\n",
+        "Reporterin wurde besiegt. Hab Mitleid!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00294",
+      "de_DE": [
+        "Ich gebe es nur ungern zu, aber ich\n",
+        "wäre auch gerne ein Bühnenstar."
+      ]
+    },
+    {
+      "id": "msg_0724_00295",
+      "de_DE": [
+        "Ich wollte nicht gegen Bühnenstars\n",
+        "verlieren. Das hat mich motiviert.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00296",
+      "de_DE": [
+        "Das ist niederschmetternd... dabei\n",
+        "arbeite ich viel mehr als Bühnenstars.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00297",
+      "de_DE": [
+        "Das Mikrofon hat mich zu einem Star\n",
+        "gemacht. Es ist mein Ein und Alles."
+      ]
+    },
+    {
+      "id": "msg_0724_00298",
+      "de_DE": [
+        "Selbst während eines Kampfes gebe ich\n",
+        "das Mikrofon nicht aus der Hand.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00299",
+      "de_DE": "...Bamm. Bzzzzt...\r"
+    },
+    {
+      "id": "msg_0724_00300",
+      "de_DE": [
+        "Hallo! Ich bin so schnell, dass es dir\n",
+        "die Mütze vom Kopf weht! Also Vorsicht!"
+      ]
+    },
+    {
+      "id": "msg_0724_00301",
+      "de_DE": [
+        "Von jetzt an kannst du meinem Namen\n",
+        "ein “Herr” voranstellen, Trainer.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00302",
+      "de_DE": [
+        "Das war mir eine Lehre, Trainer. Und\n",
+        "dafür danke ich dir ehrlich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00303",
+      "de_DE": [
+        "Dieses Fahrrad ist zu einer Art\n",
+        "Erweiterung meiner selbst geworden."
+      ]
+    },
+    {
+      "id": "msg_0724_00304",
+      "de_DE": [
+        "Ich kann Schaden an diesem Rad spüren,\n",
+        "als ob es eigene Schmerzen wären.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00305",
+      "de_DE": [
+        "Bitte! Lass deine Hände\n",
+        "von meinem Fahrrad.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00306",
+      "de_DE": [
+        "Als ich klein war, mochte ich das\n",
+        "Radfahren eigentlich nicht."
+      ]
+    },
+    {
+      "id": "msg_0724_00307",
+      "de_DE": [
+        "Jetzt liebe ich das Radfahren. Und habe\n",
+        "dabei auch noch neue Freunde gefunden.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00308",
+      "de_DE": [
+        "Kannst du Rad fahren? Es ist gesund und\n",
+        "macht dazu auch noch jede Menge Spaß.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00309",
+      "de_DE": [
+        "Ich werde in den Sonnenuntergang\n",
+        "radeln. Mit einem Bild von dir im Geiste."
+      ]
+    },
+    {
+      "id": "msg_0724_00310",
+      "de_DE": [
+        "Ich schalte von Gang zu Gang, bis\n",
+        "ich endlich zu dir aufschließe...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00311",
+      "de_DE": [
+        "Meinen Reifen ist die Luft ausgegangen.\n",
+        "Und so ging es auch mir...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00312",
+      "de_DE": [
+        "Lass den Vorhang aufgehen zu einem\n",
+        "Festival der Muskeln und Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0724_00313",
+      "de_DE": [
+        "Hat dir unsere Demonstration von\n",
+        "Kraft und Pokémon gefallen?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00314",
+      "de_DE": [
+        "Obwohl ich verloren habe, haben sich dir\n",
+        "meine Muskeln und Pokémon eingebrannt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00315",
+      "de_DE": [
+        "Sie sagen, ich hätte Fäuste aus\n",
+        "Stahl und das Herz eines Kindes."
+      ]
+    },
+    {
+      "id": "msg_0724_00316",
+      "de_DE": "Jippie! Ich habe gewonnen! Jippie!\r"
+    },
+    {
+      "id": "msg_0724_00317",
+      "de_DE": [
+        "Mensch! Buh! Das ist doch doof!\n",
+        "Mit dir spreche ich nicht mehr!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00318",
+      "de_DE": [
+        "Uoaaah...\n",
+        "Uoaaah..."
+      ]
+    },
+    {
+      "id": "msg_0724_00319",
+      "de_DE": [
+        "Katschumm!\n",
+        "Katschuuuummm!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00320",
+      "de_DE": [
+        "Bwähähä...\n",
+        "Bwääääähähähä...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00321",
+      "de_DE": [
+        "In meinem Wörterbuch fehlt der Eintrag\n",
+        "für “Zurückhaltung”."
+      ]
+    },
+    {
+      "id": "msg_0724_00322",
+      "de_DE": [
+        "Die größte Respektsbezeugung unter\n",
+        "Trainern ist, im Kampf alles zu geben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00323",
+      "de_DE": [
+        "Ich habe alles gegeben und trotzdem\n",
+        "verloren. Der Stachel sitzt tief.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00324",
+      "de_DE": [
+        "Ein professioneller Kampfsportler hat\n",
+        "die volle Kontrolle über seinen Körper."
+      ]
+    },
+    {
+      "id": "msg_0724_00325",
+      "de_DE": [
+        "Ein Kampfsportler muss mehr als nur\n",
+        "stark sein. Er muss auch weise sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00326",
+      "de_DE": [
+        "Puh! Ich habe den Bogen überspannt\n",
+        "und dann ging mir die Puste aus...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00327",
+      "de_DE": [
+        "Wenn ich die Augen schließe, kann ich\n",
+        "deine Niederlage sehen. Komm schon."
+      ]
+    },
+    {
+      "id": "msg_0724_00328",
+      "de_DE": [
+        "Wieso so traurig? Dir war doch wohl\n",
+        "klar, dass es so kommen musste.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00329",
+      "de_DE": [
+        "Ich tadele mich selbst für meinen\n",
+        "Mangel an Sorgfalt...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00330",
+      "de_DE": [
+        "Ich habe mithilfe des TVs\n",
+        "und des Internets trainiert."
+      ]
+    },
+    {
+      "id": "msg_0724_00331",
+      "de_DE": [
+        "Uha! Ich habe ein natürliches Talent,\n",
+        "wenn es um Karate und Pokémon geht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00332",
+      "de_DE": [
+        "Mensch, das nervt. Ich bin müde und\n",
+        "hungrig. Und ich will nach Hause!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00333",
+      "de_DE": [
+        "...Um so weit zu kommen, musste ich\n",
+        "Opfer bringen. Eine ganze Menge Opfer."
+      ]
+    },
+    {
+      "id": "msg_0724_00334",
+      "de_DE": "Für diesen einen Moment lebe ich.\r"
+    },
+    {
+      "id": "msg_0724_00335",
+      "de_DE": [
+        "Was muss ich denn noch opfern,\n",
+        "um dich besiegen zu können?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00336",
+      "de_DE": [
+        "Lass uns zuerst kämpfen.\n",
+        "Reden können wir dann immer noch."
+      ]
+    },
+    {
+      "id": "msg_0724_00337",
+      "de_DE": [
+        "Das war richtig gut. Das gilt\n",
+        "für dich und deine Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00338",
+      "de_DE": [
+        "Du bist sehr stark.\n",
+        "Wo trainierst du denn?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00339",
+      "de_DE": [
+        "Süßer kleiner Trainer. Wir\n",
+        "werden dich zerquetschen."
+      ]
+    },
+    {
+      "id": "msg_0724_00340",
+      "de_DE": [
+        "Hehe! Du bist so süß, wenn du\n",
+        "wütend und frustriert dreinschaust!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00341",
+      "de_DE": [
+        "Was glaubst du, tust du da?\n",
+        "Ich kann nicht verlieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00342",
+      "de_DE": [
+        "Meine kostbaren Pokémon\n",
+        "werden es dir zeigen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00343",
+      "de_DE": [
+        "Meine Pokémon haben keine Schwächen,\n",
+        "die du ausnutzen könntest!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00344",
+      "de_DE": [
+        "Verzeiht, meine lieben Pokémon... ich\n",
+        "wurde auf dem falschen Fuß erwischt...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00345",
+      "de_DE": [
+        "Am wichtigsten ist es, niemals\n",
+        "aufzugeben, Kindchen."
+      ]
+    },
+    {
+      "id": "msg_0724_00346",
+      "de_DE": "Gibst du auf, ist es vorbei.\r"
+    },
+    {
+      "id": "msg_0724_00347",
+      "de_DE": [
+        "Du bist bereits jetzt schon ein\n",
+        "bewundernswerter Trainer.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00348",
+      "de_DE": [
+        "Ich sehe schon, du bist von meinem\n",
+        "Stil bereits ganz eingenommen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00349",
+      "de_DE": [
+        "Du bist wie ein MOTERPEL, das\n",
+        "von einer Flamme angezogen wird!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00350",
+      "de_DE": [
+        "Du hast kein Interesse an mir?\n",
+        "Wie oberflächlich, wenn ich\f",
+        "das mal so sagen darf!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00351",
+      "de_DE": [
+        "Oh, hallo! Du bist ja niedlich! Bist du\n",
+        "wirklich bereit für einen Kampf?"
+      ]
+    },
+    {
+      "id": "msg_0724_00352",
+      "de_DE": [
+        "Weine jetzt bitte nicht. Du solltest\n",
+        "stolz auf dich sein, Schatz.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00353",
+      "de_DE": [
+        "So was... du bist bereits ein ganz\n",
+        "schöner Fachmann.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00354",
+      "de_DE": [
+        "Du und deine Pokémon scheinen eine\n",
+        "Lektion in Gehorsam zu benötigen."
+      ]
+    },
+    {
+      "id": "msg_0724_00355",
+      "de_DE": [
+        "Das hier ist nicht vorbei, bis ich es\n",
+        "sage. Und noch einmal.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00356",
+      "de_DE": [
+        "Du bist ungehorsam?\n",
+        "Wie amüsant.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00357",
+      "de_DE": [
+        "Im Laufe der Jahre haben sich meine\n",
+        "Wege mit denen vieler Trainer gekreuzt."
+      ]
+    },
+    {
+      "id": "msg_0724_00358",
+      "de_DE": [
+        "Sie waren alle wundervolle Trainer auf\n",
+        "ihre eigene Art. Viele Erinnerungen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00359",
+      "de_DE": [
+        "Du bist einer dieser Trainer. Schade,\n",
+        "dass ich nicht ein wenig jünger bin.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00360",
+      "de_DE": [
+        "Man sieht mir den Psycho-Trainer nicht\n",
+        "an, oder? Erwarte das Übersinnliche!"
+      ]
+    },
+    {
+      "id": "msg_0724_00361",
+      "de_DE": [
+        "Ich habe nicht aufgrund meiner Psycho-\n",
+        "Kräfte gewonnen. Bestimmt nicht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00362",
+      "de_DE": [
+        "Ist dir aufgefallen, dass ich während\n",
+        "unseres Kampfes geschwebt bin?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00363",
+      "de_DE": [
+        "Tada! Du bist also der Nächste, der\n",
+        "gegen mich verlieren wird!"
+      ]
+    },
+    {
+      "id": "msg_0724_00364",
+      "de_DE": [
+        "Tada!\n",
+        "Hast du denn kein Rückgrat?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00365",
+      "de_DE": [
+        "Fizzel...\n",
+        "Ein nächstes Mal wird es nicht geben!"
+      ]
+    },
+    {
+      "id": "msg_0724_00366",
+      "de_DE": [
+        "Ich beherrsche Psycho-Kräfte, bevor-\n",
+        "zuge aber gewöhnliche Zaubertricks."
+      ]
+    },
+    {
+      "id": "msg_0724_00367",
+      "de_DE": [
+        "Psycho-Kräfte sollten den Pokémon\n",
+        "vorbehalten sein. So sehe ich das!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00368",
+      "de_DE": [
+        "Ich bin ein Psycho-Trainer, zugleich\n",
+        "aber auch ein Schüler der Magieschule.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00369",
+      "de_DE": [
+        "In den nächsten Minuten wirst du etwas\n",
+        "über wahren Schrecken lernen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00370",
+      "de_DE": [
+        "Ha! Zu schwach! Welch schwächlicher\n",
+        "Widerstand!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00371",
+      "de_DE": [
+        "Neiiiiin!\n",
+        "Ich kann nicht verlieren!"
+      ]
+    },
+    {
+      "id": "msg_0724_00372",
+      "de_DE": [
+        "Ich sehe, was ich eigentlich nicht sehen\n",
+        "darf... wie das da. Das hinter dir."
+      ]
+    },
+    {
+      "id": "msg_0724_00373",
+      "de_DE": [
+        "Oh? Du kannst es nicht sehen?\n",
+        "Dann hast du Glück. Kicher...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00374",
+      "de_DE": [
+        "Ich würde nicht danach fragen, was ich\n",
+        "sehe. Glaube mir, es ist besser so.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00375",
+      "de_DE": [
+        "Große unsichtbare Kraft...\n",
+        "Ich bitte dich um Hilfe..."
+      ]
+    },
+    {
+      "id": "msg_0724_00376",
+      "de_DE": [
+        "Oh große unsichtbare Kraft...\n",
+        "Ich danke dir für deine Hilfe...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00377",
+      "de_DE": [
+        "Oh große unsichtbare Kraft... wieso\n",
+        "hast du mich nur im Stich gelassen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00378",
+      "de_DE": [
+        "Wieso ich Pokémon aufziehe?\n",
+        "Na, weil sie existieren!"
+      ]
+    },
+    {
+      "id": "msg_0724_00379",
+      "de_DE": [
+        "Das war ganz schön tiefsinnig,\n",
+        "nicht wahr?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00380",
+      "de_DE": [
+        "Das reicht noch nicht als Grund, sagst\n",
+        "du? Das sehe ich aber anders!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00381",
+      "de_DE": [
+        "Ich habe mein Team mit Sorgfalt aufge-\n",
+        "zogen. Meine Zuversicht ist grenzenlos!"
+      ]
+    },
+    {
+      "id": "msg_0724_00382",
+      "de_DE": [
+        "Du solltest den speziellen Seiten deiner\n",
+        "Pokémon mehr Aufmerksamkeit schenken.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00383",
+      "de_DE": [
+        "Wie findest du meine Pokémon? Sie haben\n",
+        "einen besonderen Stellenwert, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00384",
+      "de_DE": [
+        "Zeit für eine kleine Prügelei!\n",
+        "Lasst die Show beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00385",
+      "de_DE": [
+        "Oh, bravo!\n",
+        "Sehr gut gemacht!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00386",
+      "de_DE": [
+        "Aaargh! Welch eine Demütigung! Schnell!\n",
+        "Raus aus dem Rampenlicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00387",
+      "de_DE": [
+        "Ich liebe es, Pokémon aufzuziehen.\n",
+        "Sie sind mein Lebensmittelpunkt!"
+      ]
+    },
+    {
+      "id": "msg_0724_00388",
+      "de_DE": [
+        "Zu sehen, wie sie alles geben...\n",
+        "Das ist so hinreißend schön.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00389",
+      "de_DE": [
+        "Lass dir nicht einfallen,\n",
+        "das noch einmal zu tun!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00390",
+      "de_DE": [
+        "Ich beschäftige mich damit, starke PKMN\n",
+        "mithilfe der Genetik aufzuziehen."
+      ]
+    },
+    {
+      "id": "msg_0724_00391",
+      "de_DE": [
+        "Wissen ist ein mächtiger Faktor beim\n",
+        "Aufziehen starker Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00392",
+      "de_DE": [
+        "Vielleicht sollte ich erst einmal mehr\n",
+        "über das Thema Genetik lernen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00393",
+      "de_DE": [
+        "Ziehe sie mit Liebe auf und sie werden es\n",
+        "dir danken. Voraussichtlich zumindest. "
+      ]
+    },
+    {
+      "id": "msg_0724_00394",
+      "de_DE": [
+        "Sie haben sich für meine Liebe\n",
+        "revanchiert. Vermutlich zumindest.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00395",
+      "de_DE": [
+        "Du ziehst deine Pokémon mit viel Liebe\n",
+        "auf. So scheint es zumindest.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00396",
+      "de_DE": [
+        "Ich werde diesen Kampf aus der Per-\n",
+        "spektive eines Neugeborenen angehen."
+      ]
+    },
+    {
+      "id": "msg_0724_00397",
+      "de_DE": "Abubuu, dah.\r"
+    },
+    {
+      "id": "msg_0724_00398",
+      "de_DE": [
+        "Ababaa.\n",
+        "Manmaa.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00399",
+      "de_DE": [
+        "Wenn du erfolgreich bist, erzähle ich\n",
+        "dir eine Geschichte aus meiner Jugend."
+      ]
+    },
+    {
+      "id": "msg_0724_00400",
+      "de_DE": [
+        "Dich so zu sehen, bringt all diese\n",
+        "Erinnerungen zurück. Ja, ja...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00401",
+      "de_DE": [
+        "...Hmm?\n",
+        "Ich scheine sie vergessen zu haben...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00402",
+      "de_DE": [
+        "Das Erwachsenwerden sowie die\n",
+        "Faszination für Pokémon enden nie."
+      ]
+    },
+    {
+      "id": "msg_0724_00403",
+      "de_DE": [
+        "Tschüss! Das hat Spaß gemacht!\n",
+        "Genieße deine Jugend!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00404",
+      "de_DE": [
+        "Ich bin immer noch ein Träumer. So rein\n",
+        "und unverdorben wie eine Schneeflocke.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00405",
+      "de_DE": [
+        "Mutti... Vati... könnt ihr mich hören?\n",
+        "Bitte wacht über mich..."
+      ]
+    },
+    {
+      "id": "msg_0724_00406",
+      "de_DE": [
+        "Mutti... Vati... habt ihr das gesehen?\n",
+        "Ich habe gewonnen. Nur für euch...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00407",
+      "de_DE": [
+        "Mutti... Vati... ich habe es nicht\n",
+        "geschafft...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00408",
+      "de_DE": [
+        "Die Zeit ist gekommen, um die Ergebnisse\n",
+        "meiner Forschung zu testen..."
+      ]
+    },
+    {
+      "id": "msg_0724_00409",
+      "de_DE": [
+        "Erfolg... dann hat es sich gelohnt,\n",
+        "meine Jugend der Forschung zu opfern.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00410",
+      "de_DE": [
+        "Nein! Neiiiiiiiin! Und dafür habe ich\n",
+        "meine Jugend geopfert?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00411",
+      "de_DE": [
+        "Ich habe ein spezielles Pokémon-\n",
+        "Getränk entwickelt. Hier, probiere mal!"
+      ]
+    },
+    {
+      "id": "msg_0724_00412",
+      "de_DE": [
+        "Gluck, gluck... rülps! Es wird dich\n",
+        "stark machen! Verschwende es nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00413",
+      "de_DE": [
+        "In meinem Pokémon-Getränk sind\n",
+        "übrigens keine Pokémon verarbeitet.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00414",
+      "de_DE": [
+        "Das Kämpfen ist... es ist wie...\n",
+        "Es ist wie ein Junggeselle."
+      ]
+    },
+    {
+      "id": "msg_0724_00415",
+      "de_DE": [
+        "Hehe, verstehst du das? Ich bezweifle\n",
+        "es. Niemand versteht das.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00416",
+      "de_DE": [
+        "Hast du verstanden? Ich bezweifle es.\n",
+        "Niemand hat es jemals verstanden.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00417",
+      "de_DE": [
+        "Meine Geburt, meine Jugend und mein\n",
+        "Leben - alles unter einem Zirkuszelt."
+      ]
+    },
+    {
+      "id": "msg_0724_00418",
+      "de_DE": [
+        "Und das gilt auch für meine Pokémon.\n",
+        "Aufgezogen unter einem Zirkuszelt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00419",
+      "de_DE": [
+        "Die Welt da draußen ist grausam... wir \n",
+        "kehren unter unser Zirkuszelt zurück."
+      ]
+    },
+    {
+      "id": "msg_0724_00420",
+      "de_DE": [
+        "Hey, du! Mach dich bereit! Ich\n",
+        "werde dich jetzt trainieren!"
+      ]
+    },
+    {
+      "id": "msg_0724_00421",
+      "de_DE": [
+        "Was?!? Du liegst schon am Boden?\n",
+        "Los, steh auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00422",
+      "de_DE": [
+        "Gut! Genug, genug!\n",
+        "Das langt für heute!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00423",
+      "de_DE": "Bitte? Du willst mich herausfordern?"
+    },
+    {
+      "id": "msg_0724_00424",
+      "de_DE": [
+        "Muahaha! Ich habe gewonnen! Vielleicht\n",
+        "ja beim nächsten Mal, Grünschnabel!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00425",
+      "de_DE": [
+        "Muah... äh... du hast gewonnen?\n",
+        "Was fällt dir überhaupt ein?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00426",
+      "de_DE": [
+        "Ich bekomme eine Gänsehaut...\n",
+        "Für diesen Moment lebe ich."
+      ]
+    },
+    {
+      "id": "msg_0724_00427",
+      "de_DE": [
+        "Ja! Das ist es... besser kann es nicht\n",
+        "werden...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00428",
+      "de_DE": [
+        "Kämpfe sind für mich das Wichtigste\n",
+        "überhaupt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00429",
+      "de_DE": [
+        "Okay, ich werde es tun! Ich werde\n",
+        "dir zeigen, was in mir steckt!"
+      ]
+    },
+    {
+      "id": "msg_0724_00430",
+      "de_DE": "Keuch, keuch...\r"
+    },
+    {
+      "id": "msg_0724_00431",
+      "de_DE": [
+        "Niemals wieder! Ein zweites\n",
+        "Mal wird es nicht geben!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00432",
+      "de_DE": [
+        "Ähem... ich bin wirklich sehr stark.\n",
+        "Du wirst dich schon anstrengen müssen."
+      ]
+    },
+    {
+      "id": "msg_0724_00433",
+      "de_DE": [
+        "Es tut mir leid, aber mit mir kannst du\n",
+        "es nicht aufnehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00434",
+      "de_DE": [
+        "Das verblüfft mich. Ich hätte nicht\n",
+        "gedacht, dass du gewinnen könntest...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00435",
+      "de_DE": [
+        "Hier komme ich! Ich werde es\n",
+        "dir zeigen. Ich, ich, ich!"
+      ]
+    },
+    {
+      "id": "msg_0724_00436",
+      "de_DE": [
+        "Super gemacht, ich! Ich bin so\n",
+        "wunderbar! Ich, ich, ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00437",
+      "de_DE": [
+        "Nicht so schlimm, ich! Nicht weinen!\n",
+        "Ich gehe jetzt heim. Ich, ich, ich...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00438",
+      "de_DE": [
+        "Hier kommt der coole Trainer!\n",
+        "Zeige mal, was du draufhast!"
+      ]
+    },
+    {
+      "id": "msg_0724_00439",
+      "de_DE": [
+        "Ja! Bravo! Du hast ein paar ganz\n",
+        "gute Angriffe, Trainer!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00440",
+      "de_DE": [
+        "Waaaaas?!? Neiiiin! Ich fasse es\n",
+        "nicht, wie stark du bist!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00441",
+      "de_DE": [
+        "Mein Job ist es, den Pokémon und der\n",
+        "Natur zu dienen und sie zu beschützen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00442",
+      "de_DE": [
+        "Meine Fähigkeiten habe ich inmitten\n",
+        "von Mutter Natur gelernt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00443",
+      "de_DE": [
+        "Meine Arbeit ruft nach mir! Daher muss\n",
+        "ich mich an dieser Stelle verabschieden!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00444",
+      "de_DE": [
+        "Keine Angst! Ich bin hier, um meinen\n",
+        "persönlichen Frieden zu beschützen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00445",
+      "de_DE": [
+        "Mein persönlicher Frieden\n",
+        "bleibt gewahrt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00446",
+      "de_DE": [
+        "Du gemeiner Trainer, du! Du hast meine\n",
+        "Ruhe und meinen Frieden zerstört!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00447",
+      "de_DE": [
+        "Verunreinigt jemand das Wasser?\n",
+        "Wirft jemand Müll in die Natur?"
+      ]
+    },
+    {
+      "id": "msg_0724_00448",
+      "de_DE": [
+        "Achte immer auf die korrekte\n",
+        "Mülltrennung!"
+      ]
+    },
+    {
+      "id": "msg_0724_00449",
+      "de_DE": [
+        "Müll ist wie ein Kampf.\n",
+        "Man darf niemals achtlos sein!"
+      ]
+    },
+    {
+      "id": "msg_0724_00450",
+      "de_DE": [
+        "Sieh mir genau zu, Schatz! Ich werde\n",
+        "in diesem Kampf mein Bestes geben!"
+      ]
+    },
+    {
+      "id": "msg_0724_00451",
+      "de_DE": [
+        "Na, Schatz? Hast du gesehen?\n",
+        "Ich habe alles gegeben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00452",
+      "de_DE": [
+        "So darf mich mein Schatz nicht sehen.\n",
+        "Ich sehe bestimmt erbärmlich aus...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00453",
+      "de_DE": [
+        "Ich beginne hiermit... dann Konter...\n",
+        "Ach, ich finde keine gute Strategie!"
+      ]
+    },
+    {
+      "id": "msg_0724_00454",
+      "de_DE": [
+        "Man kann eine Sache wohl\n",
+        "auch zu sehr analysieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00455",
+      "de_DE": [
+        "Bah! Hättest du nicht wenigstens\n",
+        "warten können, bis ich fertig bin?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00456",
+      "de_DE": [
+        "Wie gefällt dir mein Umhang? Den\n",
+        "habe ich speziell anfertigen lassen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00457",
+      "de_DE": [
+        "Aus was mein Umhang gefertigt wurde?\n",
+        "Das darf ich dir leider nicht sagen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00458",
+      "de_DE": [
+        "Ra... ratz! ...Ach du?!? Mein neuer\n",
+        "Umhang! Neiiiiiiiiiiiin!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00459",
+      "de_DE": [
+        "Kennst du den wirklichen Schrecken?\n",
+        "Mir ist er vertraut. Sehr vertraut..."
+      ]
+    },
+    {
+      "id": "msg_0724_00460",
+      "de_DE": [
+        "Ich hoffe, du hast heute etwas über die\n",
+        "wahre Natur des Schreckens gelernt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00461",
+      "de_DE": [
+        "Was passiert hier nur?!?\n",
+        "Ich flehe dich um Gnade an!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00462",
+      "de_DE": [
+        "Siehst du sie? Hörst du sie? Riechst\n",
+        "du sie? Bestaune meine Kraft!"
+      ]
+    },
+    {
+      "id": "msg_0724_00463",
+      "de_DE": [
+        "Nutze all deine Sinne, um zu verstehen,\n",
+        "welcher Kraft du dich gestellt hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00464",
+      "de_DE": [
+        "Ich habe nichts gesehen! Und weder\n",
+        "höre noch rieche ich irgendetwas!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00465",
+      "de_DE": [
+        "Deine Siegesserie endet\n",
+        "an diesem Punkt. Dein Pech!"
+      ]
+    },
+    {
+      "id": "msg_0724_00466",
+      "de_DE": [
+        "Du hast verloren, aber du\n",
+        "stehst noch. Hut ab!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00467",
+      "de_DE": [
+        "Das darf nicht sein. Das kann ich nicht\n",
+        "akzeptieren. Das muss ein Fehler sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00468",
+      "de_DE": [
+        "I-ich z-z-zittere so. A-aber das ist\n",
+        "ein K-k-kampf. Ich m-muss k-k-kämpfen."
+      ]
+    },
+    {
+      "id": "msg_0724_00469",
+      "de_DE": [
+        "Puh... z-z-zitter...\n",
+        "Ich h-habe gewonnen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00470",
+      "de_DE": [
+        "Z-zitter... puh... ich f-fühle m-mich\n",
+        "i-i-immer schwächer...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00471",
+      "de_DE": [
+        "Ich verabschiede mich jetzt schon,\n",
+        "denn Kämpfe enden fast immer in Tränen."
+      ]
+    },
+    {
+      "id": "msg_0724_00472",
+      "de_DE": [
+        "Bwähähä! Tränen der Freude\n",
+        "fließen mir über die Wangen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00473",
+      "de_DE": [
+        "Bwähähä! Tränen des Schmerzes\n",
+        "fließen mir über die Wangen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00474",
+      "de_DE": [
+        "Wie amüsant! Du weißt, dass du ver-\n",
+        "lierst, kommst aber trotzdem hierher?"
+      ]
+    },
+    {
+      "id": "msg_0724_00475",
+      "de_DE": [
+        "Hahahaha! Sehr, sehr amüsant! Freue\n",
+        "mich schon auf unser nächstes Mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00476",
+      "de_DE": [
+        "W-was geschieht hier? Ich...\n",
+        "Ich w-weine doch nicht etwa?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00477",
+      "de_DE": [
+        "Ich bin ein Trainer und komme aus\n",
+        "dem Land der Mitternachtssonne."
+      ]
+    },
+    {
+      "id": "msg_0724_00478",
+      "de_DE": [
+        "Das Training in der klirrenden Kälte des\n",
+        "Nordens hat mich zum Sieger gemacht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00479",
+      "de_DE": [
+        "Deine Tricks schätze ich gering.\n",
+        "Aber sie waren auch effektiv.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00480",
+      "de_DE": [
+        "Ich frage mich in letzter Zeit, wie lange\n",
+        "ich wohl noch Shorts tragen werde."
+      ]
+    },
+    {
+      "id": "msg_0724_00481",
+      "de_DE": [
+        "Werde ich selbst als Erwachsener\n",
+        "noch Shorts tragen?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00482",
+      "de_DE": [
+        "Werden sie mich den “Shorts-Typen”\n",
+        "rufen, wenn ich älter bin?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00483",
+      "de_DE": [
+        "Genau! Ich bin das legendäre Kind mit\n",
+        "den Shorts, über das jeder spricht."
+      ]
+    },
+    {
+      "id": "msg_0724_00484",
+      "de_DE": [
+        "Selbst ein Teenager in Shorts wie ich\n",
+        "kann zu einer Legende werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00485",
+      "de_DE": [
+        "Meine Legende endet, bevor\n",
+        "sie richtig begonnen hat...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00486",
+      "de_DE": [
+        "Äh... ähem... h-hallo.\n",
+        "F-freue mich, dich kennenzulernen."
+      ]
+    },
+    {
+      "id": "msg_0724_00487",
+      "de_DE": [
+        "E-e-entschuldige. Ich bin s-s-so\n",
+        "nervös.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00488",
+      "de_DE": [
+        "Äh... d-danke.\n",
+        "Das h-hat Spaß gemacht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00489",
+      "de_DE": [
+        "Dieser Ort ist völlig out. Man kann\n",
+        "nicht einmal vernünftig shoppen."
+      ]
+    },
+    {
+      "id": "msg_0724_00490",
+      "de_DE": [
+        "Du hast Stil. Ich wünschte, ich hätte\n",
+        "ein paar neue Klamotten.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00491",
+      "de_DE": [
+        "Vielleicht sammele ich lieber Accessoires\n",
+        "für die Wettbewerbe...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00492",
+      "de_DE": [
+        "Ich sollte eigentlich lernen, aber ich\n",
+        "bin zu sehr mit Kämpfen beschäftigt..."
+      ]
+    },
+    {
+      "id": "msg_0724_00493",
+      "de_DE": [
+        "Mutti wird es mir irgendwann verbieten.\n",
+        "Daran führt kein Weg vorbei...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00494",
+      "de_DE": [
+        "Ich muss mich sowohl auf die Schule als\n",
+        "auch auf meine Pokémon konzentrieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00495",
+      "de_DE": [
+        "Hallo Trainer! Trage doch mal eine\n",
+        "Brille. Damit siehst du bestimmt besser."
+      ]
+    },
+    {
+      "id": "msg_0724_00496",
+      "de_DE": [
+        "Mit meinen Augen ist alles in Ordnung.\n",
+        "Ich trage die Brille aus Stilgründen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00497",
+      "de_DE": [
+        "Ups!\n",
+        "Meine Brille! Meine Brille!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00498",
+      "de_DE": [
+        "Ich habe gelernt, dass jeder Gegner\n",
+        "eine Schwäche hat. Und deine ist?"
+      ]
+    },
+    {
+      "id": "msg_0724_00499",
+      "de_DE": [
+        "Hehehe.\n",
+        "Ich habe deine Schwäche gefunden.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00500",
+      "de_DE": [
+        "Hast du meine Schwäche\n",
+        "herausgefunden?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00501",
+      "de_DE": [
+        "Es ist eine ganze Weile seit meinem\n",
+        "letzten Kampf vergangen."
+      ]
+    },
+    {
+      "id": "msg_0724_00502",
+      "de_DE": [
+        "Dieser Sieg erinnert mich daran, wie viel\n",
+        "Spaß die Kämpfe machen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00503",
+      "de_DE": [
+        "Kämpfen macht sehr viel Spaß, aber es\n",
+        "gibt auch unangenehme Seiten...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00504",
+      "de_DE": [
+        "Die Welt des Reichtums hat die Pokémon\n",
+        "für sich entdeckt. Ich werde siegen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00505",
+      "de_DE": [
+        "Du verstehst das doch? Dass ich\n",
+        "stärker und mächtiger bin?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00506",
+      "de_DE": [
+        "M-meine Pokémon! Was hast du nur\n",
+        "getan? Was mache ich jetzt nur?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00507",
+      "de_DE": [
+        "Du bist mein Gegner? Na gut...\n",
+        "Enttäusche mich nicht zu sehr, okay?"
+      ]
+    },
+    {
+      "id": "msg_0724_00508",
+      "de_DE": [
+        "Meine Pokémon sind so luxuriös. Daraus\n",
+        "beziehen sie ihre Macht. Verstehst du?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00509",
+      "de_DE": [
+        "Pah! Das interessiert mich nicht. Ich\n",
+        "kann mit meinem Geld einen Pool füllen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00510",
+      "de_DE": "Du da. Ja, du. Ich langweile mich."
+    },
+    {
+      "id": "msg_0724_00511",
+      "de_DE": [
+        "Das war immerhin ganz unterhaltsam.\n",
+        "Dafür danke ich dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00512",
+      "de_DE": [
+        "Du bist nicht schlecht.\n",
+        "Richtig bemerkenswert sogar.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00513",
+      "de_DE": [
+        "Deinesgleichen kann ich ohne\n",
+        "größere Probleme besiegen."
+      ]
+    },
+    {
+      "id": "msg_0724_00514",
+      "de_DE": [
+        "Es hat mich kaum Anstrengung\n",
+        "gekostet, den Sieg davonzutragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00515",
+      "de_DE": [
+        "Du hast uns ohne größeren Aufwand\n",
+        "einfach überrannt...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00516",
+      "de_DE": [
+        "In meinem Zimmer sind immer viele Käfer.\n",
+        "Das macht meine Mutter noch verrückt."
+      ]
+    },
+    {
+      "id": "msg_0724_00517",
+      "de_DE": [
+        "Ich sammele Pokémon vom Typ Käfer für\n",
+        "meine Käfer-Wertschätzungs-Station.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00518",
+      "de_DE": [
+        "Jetzt sind schon Käfer unter meinem\n",
+        "Hemd. Und es fängt an zu jucken...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00519",
+      "de_DE": [
+        "Die Leute sagen, ich sei wie ein Er-\n",
+        "wachsener. Was das wohl bedeutet?"
+      ]
+    },
+    {
+      "id": "msg_0724_00520",
+      "de_DE": [
+        "Ah! Das war unterhaltsam! Wir sollten\n",
+        "dies unbedingt wiederholen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00521",
+      "de_DE": [
+        "Umwerfend! Das hat mich\n",
+        "bis ins Mark erzittern lassen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00522",
+      "de_DE": [
+        "Ich habe mich entschieden. Wenn ich\n",
+        "schon falle, dann auf die Füße!"
+      ]
+    },
+    {
+      "id": "msg_0724_00523",
+      "de_DE": "Dir fehlt die richtige Einstellung.\r"
+    },
+    {
+      "id": "msg_0724_00524",
+      "de_DE": "...Bumms.\r"
+    },
+    {
+      "id": "msg_0724_00525",
+      "de_DE": [
+        "Du fragst dich vielleicht, was\n",
+        "genau einen Ninja ausmacht."
+      ]
+    },
+    {
+      "id": "msg_0724_00526",
+      "de_DE": [
+        "Ein Ninja ist mächtig. Das sollte\n",
+        "für den Anfang reichen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00527",
+      "de_DE": [
+        "Manche Ninjas sind vielleicht\n",
+        "nicht ganz so stark...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00528",
+      "de_DE": [
+        "Ich habe einmal eine Dame mit dem\n",
+        "gleichen Outfit gesehen, das ich trage."
+      ]
+    },
+    {
+      "id": "msg_0724_00529",
+      "de_DE": [
+        "Sie sagte: “Du scheinst ein\n",
+        "gutes Gespür für Mode zu besitzen.”\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00530",
+      "de_DE": "Sie sagte: “Du machst Witze, oder?”\r"
+    },
+    {
+      "id": "msg_0724_00531",
+      "de_DE": [
+        "Glaubst du, dass sich in diesem Kostüm\n",
+        "eine ausgewachsene Schönheit befindet?"
+      ]
+    },
+    {
+      "id": "msg_0724_00532",
+      "de_DE": [
+        "Eines Tages möchte ich als Pokémon\n",
+        "leben. Das ist mein Traum!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00533",
+      "de_DE": [
+        "Ich bin eine Erwachsene, wäre aber\n",
+        "gerne ein Pokémon. Zu eigenartig?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00534",
+      "de_DE": [
+        "Ich bin im Moment gut im Geschäft und\n",
+        "daher ist mein Terminplan gut gefüllt!"
+      ]
+    },
+    {
+      "id": "msg_0724_00535",
+      "de_DE": [
+        "Oh, nein! So spät schon? Ich habe\n",
+        "noch andere wichtige Termine!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00536",
+      "de_DE": [
+        "Hey, Manager! Haben wir\n",
+        "Zeit für eine Revanche?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00537",
+      "de_DE": [
+        "Bist du einer meiner Fans? Wenn du\n",
+        "verlierst, gebe ich dir ein Autogramm."
+      ]
+    },
+    {
+      "id": "msg_0724_00538",
+      "de_DE": [
+        "Hier ist dein Autogramm. Bewahre es gut\n",
+        "auf. Es wird einmal viel wert sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00539",
+      "de_DE": [
+        "Tut mir leid, ich benahm mich grässlich!\n",
+        "Manchmal bin ich etwas arrogant.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00540",
+      "de_DE": [
+        "Ich muss unbedingt eine Diät machen\n",
+        "und mit dem Joggen beginnen."
+      ]
+    },
+    {
+      "id": "msg_0724_00541",
+      "de_DE": [
+        "Nun, ein kleiner Lauf hier in der Nähe\n",
+        "sollte mich nicht umhauen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00542",
+      "de_DE": [
+        "Ich bin eigentlich Boxer. Und deine\n",
+        "Pokémon können ganz schön austeilen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00543",
+      "de_DE": [
+        "Ich sehe mir Pokémon vom Typ Käfer\n",
+        "gerne an, da man von ihnen lernen kann."
+      ]
+    },
+    {
+      "id": "msg_0724_00544",
+      "de_DE": [
+        "Ich bewundere die leichte und flinke\n",
+        "Gangart der Pokémon vom Typ Käfer.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00545",
+      "de_DE": "Raschel...\r"
+    },
+    {
+      "id": "msg_0724_00546",
+      "de_DE": [
+        "Hör mal, ich bin sehr erschöpft. Können\n",
+        "wir den Kampf auf morgen verschieben?"
+      ]
+    },
+    {
+      "id": "msg_0724_00547",
+      "de_DE": [
+        "Jetzt beschwere dich nicht! Du\n",
+        "konntest ja nicht bis morgen warten.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00548",
+      "de_DE": [
+        "Und deshalb wollte ich warten. Ich\n",
+        "schlafe schon fast im Stehen ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00549",
+      "de_DE": [
+        "Füttere gefangene Pokémon oder sie\n",
+        "werden fliehen. Das ergibt Sinn, oder?"
+      ]
+    },
+    {
+      "id": "msg_0724_00550",
+      "de_DE": [
+        "Ist ein Pokémon erst mal geflohen,\n",
+        "kommt es nicht mehr zurück. Klar?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00551",
+      "de_DE": [
+        "Was ich über Pokémon gesagt habe, kann\n",
+        "man auch als Gleichnis sehen. Klar?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00552",
+      "de_DE": [
+        "Als ich noch jünger war, bin ich jeder\n",
+        "noch so kleinen Spur nachgegangen."
+      ]
+    },
+    {
+      "id": "msg_0724_00553",
+      "de_DE": [
+        "Natürlich findet man so gut wie nie\n",
+        "etwas. Aber man muss es versuchen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00554",
+      "de_DE": [
+        "Wir haben ganz schöne Löcher hinter-\n",
+        "lassen... im Boden und auf dem Konto...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00555",
+      "de_DE": [
+        "Bereit für eine Lawine aus Attacken?\n",
+        "Das wird deine Ausdauer testen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00556",
+      "de_DE": [
+        "Nun, Trainer? Soll ich noch ein paar\n",
+        "andere Attacken ausprobieren?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00557",
+      "de_DE": [
+        "Das war’s. Mehr ist nicht drin! Damit\n",
+        "beende ich meine Show an dieser Stelle!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00558",
+      "de_DE": [
+        "Ich sammele und kämpfe gegen Pokémon,\n",
+        "um bei anderen Sammlern anzugeben."
+      ]
+    },
+    {
+      "id": "msg_0724_00559",
+      "de_DE": [
+        "Ich bin daher gar nicht so sehr an\n",
+        "Siegen oder Niederlagen interessiert.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00560",
+      "de_DE": [
+        "Du hast den Kampf gewonnen. Aber\n",
+        "in Bezug auf Pokémon sehe ich mich\f",
+        "als klaren Sieger."
+      ]
+    },
+    {
+      "id": "msg_0724_00561",
+      "de_DE": [
+        "Du wolltest meine Pokémon sehen?\n",
+        "Na gut. Aber nur einen kurzen Moment."
+      ]
+    },
+    {
+      "id": "msg_0724_00562",
+      "de_DE": [
+        "Erstklassig, wie? Meine Pokémon haben\n",
+        "Charakter und gute Attacken.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00563",
+      "de_DE": [
+        "Einen Moment mal! Sehen, ja!\n",
+        "Anfassen, nein!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00564",
+      "de_DE": [
+        "Rock? Samba? Folk? Ich beherrsche\n",
+        "jeden Stil. Rock on!"
+      ]
+    },
+    {
+      "id": "msg_0724_00565",
+      "de_DE": [
+        "Musik und Pokémon heben mich und meine\n",
+        "Stimmung hoch bis zu den Sternen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00566",
+      "de_DE": [
+        "Seufz... ich sehe Sterne...\n",
+        "Zeit für den Blues...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00567",
+      "de_DE": [
+        "Hör dir meine erstklassige Melodie an!\n",
+        "Und höre den Ruf meiner Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0724_00568",
+      "de_DE": [
+        "Meine Pokémon und ich... hat unsere\n",
+        "Melodie dein Herz erreicht?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00569",
+      "de_DE": [
+        "Ich werfe schon mal Wattebällchen,\n",
+        "aber niemals eine Gitarre!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00570",
+      "de_DE": [
+        "Ich bin frei wie ein Vogel. Ich fühle\n",
+        "mich, als könnte ich fliegen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00571",
+      "de_DE": [
+        "Und genau aus diesem Grund\n",
+        "wurde ich ein Vogelfänger.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00572",
+      "de_DE": [
+        "Wie die meisten Vögel sehe\n",
+        "ich nachts nicht sehr gut.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00573",
+      "de_DE": [
+        "Als Trainer bin ich so zerbrechlich wie\n",
+        "ein Ei. Sei also bitte vorsichtig."
+      ]
+    },
+    {
+      "id": "msg_0724_00574",
+      "de_DE": [
+        "Ob ich schon bereit bin,\n",
+        "das Nest zu verlassen?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00575",
+      "de_DE": [
+        "Eines Tages werde ich aus dieser Schale\n",
+        "ausbrechen und dich besiegen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00576",
+      "de_DE": [
+        "Jetzt kannst du mal erleben,\n",
+        "wie ein richtiger Mann kämpft!"
+      ]
+    },
+    {
+      "id": "msg_0724_00577",
+      "de_DE": [
+        "Ha! Genau so lebt und\n",
+        "kämpft ein echter Mann!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00578",
+      "de_DE": [
+        "Wuääääh! Wuääääh!\n",
+        "Mama!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00579",
+      "de_DE": [
+        "Ich habe bald einen Kampf mit einem\n",
+        "Wanderer. Mal sehen, ob ich bereit bin!"
+      ]
+    },
+    {
+      "id": "msg_0724_00580",
+      "de_DE": [
+        "Mein Team ist bereit! Der\n",
+        "Wanderer hat keine Chance!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00581",
+      "de_DE": [
+        "Autsch! So werde ich den Wanderer\n",
+        "nicht besiegen können!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00582",
+      "de_DE": [
+        "Das Kräftemessen mit dem Seemann steht\n",
+        "bevor. Lass mich mein Team testen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00583",
+      "de_DE": [
+        "Genau, wie ich es geplant habe...\n",
+        "Seemann, mache dich bereit!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00584",
+      "de_DE": [
+        "So habe ich nicht die geringste\n",
+        "Chance gegen den Seemann...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00585",
+      "de_DE": [
+        "Ahho, aho-aho-ahho-hohoi! Mit\n",
+        "diesem Tanz mache ich mir Feuer!"
+      ]
+    },
+    {
+      "id": "msg_0724_00586",
+      "de_DE": [
+        "Ahho, aho-aho-aho-hohoi! Das macht so\n",
+        "viel Spaß, ich kann gar nicht aufhören!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00587",
+      "de_DE": [
+        "Ahho, aho-aho-hohoi! Ich tanze, um\n",
+        "den Schwall von Tränen einzudämmen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00588",
+      "de_DE": [
+        "Ich bin kein echter Polizist,\n",
+        "ich sammele nur Uniformen."
+      ]
+    },
+    {
+      "id": "msg_0724_00589",
+      "de_DE": [
+        "Als Polizist zu kämpfen, hat\n",
+        "sehr viel Spaß gemacht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00590",
+      "de_DE": [
+        "Nun gut, ich darf mich\n",
+        "dann verabschieden?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00591",
+      "de_DE": [
+        "Ich bin Polizist. Im Urlaub bin ich aber\n",
+        "auch mal nicht so pflichtbewusst."
+      ]
+    },
+    {
+      "id": "msg_0724_00592",
+      "de_DE": [
+        "Normalerweise jage ich als Polizist\n",
+        "den Bösewichtern hinterher.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00593",
+      "de_DE": [
+        "An meinen freien Tagen jage ich als\n",
+        "Schwimmer die Wellen und die Damen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00594",
+      "de_DE": [
+        "Beharrlichkeit macht sich bezahlt.\n",
+        "Viele meiner Fälle beweisen das."
+      ]
+    },
+    {
+      "id": "msg_0724_00595",
+      "de_DE": [
+        "Ein Sieg nach einem Rückstand\n",
+        "schmeckt noch viel süßer.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00596",
+      "de_DE": [
+        "Das war spannender als jede\n",
+        "Überwachung! Vielen Dank!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00597",
+      "de_DE": [
+        "Der Ausgang meines aktuellen Falles ist\n",
+        "ungewiss. Fast wie bei einem Münzwurf."
+      ]
+    },
+    {
+      "id": "msg_0724_00598",
+      "de_DE": [
+        "Dieses Mal habe ich gewonnen. Ich hatte\n",
+        "bei diesem Münzwurf einfach mehr Glück.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00599",
+      "de_DE": [
+        "Wer zuerst zwei Siege erreicht,\n",
+        "ist der Gesamtsieger?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00600",
+      "de_DE": [
+        "Ich verbringe meine Zeit in den Wäldern.\n",
+        "Immerhin bin ich ein Camper."
+      ]
+    },
+    {
+      "id": "msg_0724_00601",
+      "de_DE": [
+        "Ich arbeite daran, das Camperleben\n",
+        "etwas angenehmer zu gestalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00602",
+      "de_DE": [
+        "Ehrlich gesagt habe ich die Nase voll\n",
+        "vom Campen hier draußen im Wald...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00603",
+      "de_DE": [
+        "Nein, nein, ich kann das nicht!\n",
+        "Ich bin nicht zum Kämpfen geboren!"
+      ]
+    },
+    {
+      "id": "msg_0724_00604",
+      "de_DE": [
+        "Gewonnen! Wie habe ich das denn\n",
+        "gemacht?!? Du bist nicht sauer, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00605",
+      "de_DE": [
+        "Siehst du? Das hab ich dir doch gesagt!\n",
+        "Kämpfen ist nichts für mich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00606",
+      "de_DE": [
+        "Habe ich dich, Trainer!\n",
+        "Es ist Zeit zum Kochen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00607",
+      "de_DE": [
+        "Einen Kampf sollte man wie ein\n",
+        "exquisites Mahl genießen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00608",
+      "de_DE": [
+        "Ich fühle mich, als ob ich am Ende\n",
+        "im Kochtopf gelandet wäre!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00609",
+      "de_DE": [
+        "Ich schlendere, ein Liedchen pfeifend,\n",
+        "in den Kampf..."
+      ]
+    },
+    {
+      "id": "msg_0724_00610",
+      "de_DE": [
+        "Das war zu einfach! Ich hatte ja noch\n",
+        "Zeit, mein Liedchen zu Ende zu pfeifen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00611",
+      "de_DE": [
+        "Ijuijuijuijuijuiju... jetzt klinge ich wie\n",
+        "die Sirene eines Krankenwagens...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00612",
+      "de_DE": [
+        "Ich kann sie hören... die Schreie der\n",
+        "Begeisterung von 100 000 Fans..."
+      ]
+    },
+    {
+      "id": "msg_0724_00613",
+      "de_DE": [
+        "So will ich euch hören!\n",
+        "Diesen Sieg widme ich euch!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00614",
+      "de_DE": [
+        "Du brennst ein ganz schönes Feuerwerk\n",
+        "ab. Das macht mich zu deinem Fan!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00615",
+      "de_DE": [
+        "Nummer eins weltweit - das ist mein\n",
+        "Traum. Für den Anfang zumindest."
+      ]
+    },
+    {
+      "id": "msg_0724_00616",
+      "de_DE": [
+        "“Weltweite Nummer eins”... das klingt\n",
+        "doch ziemlich gut, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00617",
+      "de_DE": [
+        "Ich kann mich nicht entscheiden, in was\n",
+        "ich weltweite Nummer eins werden soll.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00618",
+      "de_DE": [
+        "Ich bin kein einfacher Bühnenstar! Ich\n",
+        "bin eine richtige Schauspielerin!"
+      ]
+    },
+    {
+      "id": "msg_0724_00619",
+      "de_DE": [
+        "Meine Karriere ähnelt eigentlich nicht\n",
+        "der eines typischen Bühnenstars!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00620",
+      "de_DE": [
+        "Ich bin eine Schauspielerin...\n",
+        "Das klingt einfach gut...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00621",
+      "de_DE": [
+        "Wir stehen nicht allzu lange im\n",
+        "Rampenlicht, also lass es uns genießen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00622",
+      "de_DE": [
+        "Danke! Das hat richtig Spaß gemacht!\n",
+        "Ich hoffe, wir wiederholen das bald mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00623",
+      "de_DE": [
+        "Es macht mich traurig, Tschüss sagen\n",
+        "zu müssen... bis hoffentlich bald!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00624",
+      "de_DE": [
+        "Ich bin der Fan Club-Regionalleiter...\n",
+        "Gib dein Bestes..."
+      ]
+    },
+    {
+      "id": "msg_0724_00625",
+      "de_DE": [
+        "Begib dich auf die Knie! Bezeuge die\n",
+        "Macht des Fan Clubs!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00626",
+      "de_DE": [
+        "Bah! Ich habe mein Bestes gegeben!\n",
+        "Und ich bereue nichts!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00627",
+      "de_DE": [
+        "Sei gegrüßt, junger Trainer. Erlaube\n",
+        "mir, meine Stärke zu demonstrieren."
+      ]
+    },
+    {
+      "id": "msg_0724_00628",
+      "de_DE": [
+        "Hast du eine Idee, was meine Stärke\n",
+        "kennzeichnet, junger Trainer?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00629",
+      "de_DE": [
+        "Du hast mich in der Liebe für die PKMN\n",
+        "noch übertroffen. Ein wahrer Fan!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00630",
+      "de_DE": [
+        "Ich werde die TM ausprobieren, die mir\n",
+        "die Frau von nebenan gegeben hat."
+      ]
+    },
+    {
+      "id": "msg_0724_00631",
+      "de_DE": [
+        "Ich bin beeindruckt. Die Frau hat mir\n",
+        "da etwas wirklich Nützliches gegeben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00632",
+      "de_DE": [
+        "Diese gemeine Frau! Diese TM ist\n",
+        "absolut nicht zu gebrauchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00633",
+      "de_DE": [
+        "Das habe ich gehört! Ich könnte zwar\n",
+        "deine Mutter sein, bin aber noch jung!"
+      ]
+    },
+    {
+      "id": "msg_0724_00634",
+      "de_DE": [
+        "Sieh dir meine Haut und meine Pokémon\n",
+        "an! Fest, aber auch geschmeidig!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00635",
+      "de_DE": [
+        "Diesen Fehler solltest du nicht noch\n",
+        "einmal begehen! Ich bin jung!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00636",
+      "de_DE": [
+        "Ob nun bei der Arbeit oder beim Spiel,\n",
+        "meine Pokémon sind immer in meiner Nähe."
+      ]
+    },
+    {
+      "id": "msg_0724_00637",
+      "de_DE": [
+        "Ein Leben ohne Pokémon?\n",
+        "Das kann ich mir nicht vorstellen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00638",
+      "de_DE": "Pokémon sind mir wirklich sehr wichtig.\r"
+    },
+    {
+      "id": "msg_0724_00639",
+      "de_DE": [
+        "Man wird der Beste, indem man\n",
+        "härter trainiert als alle anderen."
+      ]
+    },
+    {
+      "id": "msg_0724_00640",
+      "de_DE": [
+        "Ich kann wohl mit Fug und Recht\n",
+        "behaupten, hart gearbeitet zu haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00641",
+      "de_DE": [
+        "Arbeite an deinen Kampffähigkeiten.\n",
+        "Eines Tages macht es sich bezahlt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00642",
+      "de_DE": [
+        "Ich werde hier berühmt werden. Und\n",
+        "dann baue ich die Ranch wieder auf."
+      ]
+    },
+    {
+      "id": "msg_0724_00643",
+      "de_DE": [
+        "Ich konnte gar nicht verlieren. Dieser\n",
+        "Sieg ist Ma und Pa gewidmet.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00644",
+      "de_DE": [
+        "Bin ich erst mal berühmt, werden die\n",
+        "Leute dafür zahlen, die Ranch zu sehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00645",
+      "de_DE": [
+        "Nach Sonnenuntergang verwende ich\n",
+        "nur noch Kerzen, bis ich schlafen gehe."
+      ]
+    },
+    {
+      "id": "msg_0724_00646",
+      "de_DE": [
+        "Das bedeutet aber nicht, dass ich\n",
+        "auf dem Hof keinen Strom hätte.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00647",
+      "de_DE": "Kerzenlicht kann sehr romantisch sein.\r"
+    },
+    {
+      "id": "msg_0724_00648",
+      "de_DE": [
+        "Ich möchte dich gerne meinen\n",
+        "verehrten Partnern vorstellen."
+      ]
+    },
+    {
+      "id": "msg_0724_00649",
+      "de_DE": [
+        "Gut, gut. Gut gemacht, Team.\n",
+        "Und damit meine ich euch alle.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00650",
+      "de_DE": [
+        "Uuuh... oooh... ich habe das Gefühl,\n",
+        "dass ich bald umkippen werde...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00651",
+      "de_DE": [
+        "Beeren pflanzen ist nicht meine Stärke.\n",
+        "Das Aufziehen von PKMN dagegen schon."
+      ]
+    },
+    {
+      "id": "msg_0724_00652",
+      "de_DE": [
+        "Ich kann dir Tipps geben, wie du deine\n",
+        "Pokémon noch stärker machst.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00653",
+      "de_DE": [
+        "Ein Lebewesen aufzuziehen\n",
+        "ist niemals einfach...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00654",
+      "de_DE": [
+        "Pokémon sind Pokémon, egal wie stark,\n",
+        "süß oder beängstigend sie sind."
+      ]
+    },
+    {
+      "id": "msg_0724_00655",
+      "de_DE": [
+        "Ziehe Pokémon mit Liebe auf\n",
+        "und sie werden sie erwidern.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00656",
+      "de_DE": [
+        "Ich glaube, dass das Problem\n",
+        "bei mir, dem Trainer, liegt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00657",
+      "de_DE": [
+        "Ein Pokémon richtig aufzuziehen\n",
+        "verschlingt Zeit und auch Geld."
+      ]
+    },
+    {
+      "id": "msg_0724_00658",
+      "de_DE": [
+        "Aber sobald das Pokémon groß ist, weiß\n",
+        "man, dass es das allemal wert war.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00659",
+      "de_DE": [
+        "Ich bin bereit, sehr hart zu arbeiten,\n",
+        "um das ideale Pokémon großzuziehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00660",
+      "de_DE": [
+        "Ganz genau! Ich bin stark!\n",
+        "Und ich werde nicht verlieren."
+      ]
+    },
+    {
+      "id": "msg_0724_00661",
+      "de_DE": [
+        "Genau, ich bin stark...\n",
+        "Hehehe... hehehehe...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00662",
+      "de_DE": [
+        "Ich habe verloren? Aber... wie?\n",
+        "Was soll ich jetzt nur machen?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00663",
+      "de_DE": [
+        "Ich bin ein Ass-Trainer. Das\n",
+        "sollte dir schon etwas sagen."
+      ]
+    },
+    {
+      "id": "msg_0724_00664",
+      "de_DE": [
+        "Du warst nicht schlecht.\n",
+        "Nein, das meine ich ernst!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00665",
+      "de_DE": [
+        "Hmm... ich habe noch einen langen,\n",
+        "steinigen Weg vor mir...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00666",
+      "de_DE": [
+        "Ich habe mich auf einen\n",
+        "Kampf mit dir gefreut!"
+      ]
+    },
+    {
+      "id": "msg_0724_00667",
+      "de_DE": [
+        "Ich hatte recht! Du bist ganz gut.\n",
+        "Wieso wirst du kein Ass-Trainer?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00668",
+      "de_DE": [
+        "Du bist so gut wie der Ruf, der dir\n",
+        "vorauseilt. Ich hoffe auf Revanche.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00669",
+      "de_DE": [
+        "Sieh mich an. Ich bin, was\n",
+        "du einmal sein möchtest."
+      ]
+    },
+    {
+      "id": "msg_0724_00670",
+      "de_DE": "Hast du irgendetwas anderes erwartet?\r"
+    },
+    {
+      "id": "msg_0724_00671",
+      "de_DE": [
+        "Du bist bereits stärker als ich. Aber\n",
+        "du kannst noch viel mehr erreichen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00672",
+      "de_DE": [
+        "Es hängt so viel von diesem Kampf ab!\n",
+        "...Lass mich also bitte gewinnen, ja?"
+      ]
+    },
+    {
+      "id": "msg_0724_00673",
+      "de_DE": [
+        "Juchhu! Gewonnen!\n",
+        "Da fällt mir ein Stein vom Herzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00674",
+      "de_DE": [
+        "Ich sollte doch nicht verlieren...\n",
+        "Das bringt den Zug zum Entgleisen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00675",
+      "de_DE": [
+        "Ich glaube, ich habe Fieber.\n",
+        "Nur so als Information am Rande."
+      ]
+    },
+    {
+      "id": "msg_0724_00676",
+      "de_DE": [
+        "Oaaah, mein Kopf brennt regelrecht.\n",
+        "Aber das inspiriert mich sogar.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00677",
+      "de_DE": [
+        "Wie gesagt, mir geht es nicht gut.\n",
+        "Und darunter leidet auch meine Form.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00678",
+      "de_DE": [
+        "Sei bei unserem Kampf bitte vorsichtig.\n",
+        "Dieser Mantel war sehr teuer."
+      ]
+    },
+    {
+      "id": "msg_0724_00679",
+      "de_DE": [
+        "Pass doch auf! Fast wäre Pokémon-\n",
+        "Schweiß auf den Mantel getropft!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00680",
+      "de_DE": [
+        "Ich habe mir einzig um meinen Mantel\n",
+        "Sorgen gemacht. Der Kampf war mir egal.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00681",
+      "de_DE": [
+        "Wieso gehst du nicht einfach wieder?\n",
+        "Dann bräuchtest du nicht zu verlieren."
+      ]
+    },
+    {
+      "id": "msg_0724_00682",
+      "de_DE": [
+        "Ich habe es dir doch gesagt...\n",
+        "Kannst du jetzt bitte gehen?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00683",
+      "de_DE": [
+        "Sag mal, stark zu sein ist\n",
+        "immer von Vorteil, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00684",
+      "de_DE": [
+        "Heyheyhey... Obacht! Die Balance\n",
+        "zu halten ist der Schlüssel!"
+      ]
+    },
+    {
+      "id": "msg_0724_00685",
+      "de_DE": [
+        "Ups... das ging fast daneben!\n",
+        "Ich muss vorsichtiger sein...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00686",
+      "de_DE": [
+        "...Aaaaaaah...\n",
+        "Bumms!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00687",
+      "de_DE": [
+        "Mach dir gar keine Sorgen.\n",
+        "Überlass ruhig alles mir, okay?"
+      ]
+    },
+    {
+      "id": "msg_0724_00688",
+      "de_DE": [
+        "Und was sagst du? War doch spaßig,\n",
+        "oder? Vielleicht bis bald mal wieder.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00689",
+      "de_DE": [
+        "Ach du grüne Neune! Da hast\n",
+        "du mich aber übertrumpft!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00690",
+      "de_DE": [
+        "Ich werde kämpfen. Und es ist\n",
+        "unwahrscheinlich, dass ich verliere."
+      ]
+    },
+    {
+      "id": "msg_0724_00691",
+      "de_DE": [
+        "Ich siege.\n",
+        "Wie wäre es mit einem Siegestanz?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00692",
+      "de_DE": [
+        "Was ist nur los?\n",
+        "Wieso konnte ich nicht gewinnen?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00693",
+      "de_DE": [
+        "Mutter Natur, ich flehe dich an!\n",
+        "Gib mir die Kraft zum Siegen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00694",
+      "de_DE": [
+        "Danke, Mutter Natur!\n",
+        "Ich widme dir diesen Sieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00695",
+      "de_DE": [
+        "Es tut mir leid, dich enttäuscht\n",
+        "zu haben, Mutter Natur!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00696",
+      "de_DE": [
+        "Ein guter Trainer nimmt wirklich\n",
+        "jede Herausforderung an."
+      ]
+    },
+    {
+      "id": "msg_0724_00697",
+      "de_DE": [
+        "Kein Trainer kann als schlecht gelten,\n",
+        "wenn er sein Bestes gegeben hat.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00698",
+      "de_DE": [
+        "Ein guter Trainer prahlt nicht, sondern\n",
+        "denkt bereits an den nächsten Kampf.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00699",
+      "de_DE": [
+        "Eilt herbei, meine Pokémon! Kümmert\n",
+        "euch um diesen gemeinen Trainer!"
+      ]
+    },
+    {
+      "id": "msg_0724_00700",
+      "de_DE": [
+        "Sehr gut gemacht, meine Lieben! Ich\n",
+        "habe euch sehr lieb, meine Schätzchen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00701",
+      "de_DE": [
+        "Wie kannst du nur?!? Meine lieben\n",
+        "Kleinen! Du Grobian!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00702",
+      "de_DE": [
+        "Trainieren ist ja schön und gut, aber\n",
+        "nur ein Kampf spornt mich richtig an."
+      ]
+    },
+    {
+      "id": "msg_0724_00703",
+      "de_DE": [
+        "Die ganze Anspannung haut mich um! Ich\n",
+        "wäre lieber in meinem Trainingsraum!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00704",
+      "de_DE": [
+        "Wenn es ums Training geht, kann\n",
+        "es niemand mit mir aufnehmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00705",
+      "de_DE": [
+        "Hiyah! Hah! Hah!\n",
+        "Und noch einmal! Hah! Hah!"
+      ]
+    },
+    {
+      "id": "msg_0724_00706",
+      "de_DE": "Buuyah!\r"
+    },
+    {
+      "id": "msg_0724_00707",
+      "de_DE": [
+        "Hiyah! ...Äh, Sekunde mal!\n",
+        "Ich... nein!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00708",
+      "de_DE": "Lust auf einen Kampf?"
+    },
+    {
+      "id": "msg_0724_00709",
+      "de_DE": "Heh...\r"
+    },
+    {
+      "id": "msg_0724_00710",
+      "de_DE": [
+        "Du hast mich besiegt?\n",
+        "In welchem Dojo trainierst du denn?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00711",
+      "de_DE": [
+        "Los geht’s! Komm schon!\n",
+        "Uuuuuuuund los geht’s!"
+      ]
+    },
+    {
+      "id": "msg_0724_00712",
+      "de_DE": "Oh jaaaaaaa!\r"
+    },
+    {
+      "id": "msg_0724_00713",
+      "de_DE": "Oh neiiiiiin!\r"
+    },
+    {
+      "id": "msg_0724_00714",
+      "de_DE": [
+        "Dein Blick ist ungetrübt. Dies wird\n",
+        "sicher ein unterhaltsamer Kampf."
+      ]
+    },
+    {
+      "id": "msg_0724_00715",
+      "de_DE": [
+        "Ich hoffe aufrichtig, dass wir uns\n",
+        "irgendwann wiedersehen werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00716",
+      "de_DE": [
+        "Ein sehr guter Kampf. Ich hoffe, wir\n",
+        "haben Gelegenheit für eine Revanche.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00717",
+      "de_DE": [
+        "Wenn es um die Weisheit des Alters im\n",
+        "Kampf geht, benötigst du eine Lektion!"
+      ]
+    },
+    {
+      "id": "msg_0724_00718",
+      "de_DE": [
+        "Damit wäre dann wohl klar, dass mich\n",
+        "kein Kind in einem Kampf besiegen kann!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00719",
+      "de_DE": [
+        "Das war unfair! Ich verlange\n",
+        "sofort eine Revanche!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00720",
+      "de_DE": [
+        "Ich fühle mich irgendwie unleidlich!\n",
+        "Bringe mich auf andere Gedanken!"
+      ]
+    },
+    {
+      "id": "msg_0724_00721",
+      "de_DE": [
+        "Puh... ein Kampf ist der perfekte\n",
+        "Weg, um Stress abzubauen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00722",
+      "de_DE": [
+        "Pah! Jetzt bin ich nicht mehr nur\n",
+        "unleidlich, jetzt bin ich wütend!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00723",
+      "de_DE": [
+        "Die Kampfmusik, bitte! Ich will mit\n",
+        "Fanfaren zum Sieg streben!"
+      ]
+    },
+    {
+      "id": "msg_0724_00724",
+      "de_DE": [
+        "Ich liebe die Kampfmusik.\n",
+        "Sie bringt mich richtig in Fahrt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00725",
+      "de_DE": [
+        "Na gut. Dann eben wieder\n",
+        "die übliche Titelmelodie.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00726",
+      "de_DE": [
+        "Wenn man so lange Trainer ist wie\n",
+        "ich, dann sieht man schon so einiges."
+      ]
+    },
+    {
+      "id": "msg_0724_00727",
+      "de_DE": [
+        "So was passiert schon mal. Lass es dir\n",
+        "nicht zu sehr zu Herzen gehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00728",
+      "de_DE": [
+        "Das Spannende ist doch, dass alle\n",
+        "Menschen und PKMN unterschiedlich sind."
+      ]
+    },
+    {
+      "id": "msg_0724_00729",
+      "de_DE": [
+        "Mein großer Bruder sagt immer, dass\n",
+        "ich die Schwachstelle angreifen soll!"
+      ]
+    },
+    {
+      "id": "msg_0724_00730",
+      "de_DE": "Ich habe es geschafft, großer Bruder!\r"
+    },
+    {
+      "id": "msg_0724_00731",
+      "de_DE": [
+        "Dem Gegner die Genauigkeit zu rauben\n",
+        "ist wichtig, sagt mein großer Bruder!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00732",
+      "de_DE": [
+        "Ich kann meine Pokémon rufen hören...\n",
+        "Sie ziehen mit Geschrei in den Kampf..."
+      ]
+    },
+    {
+      "id": "msg_0724_00733",
+      "de_DE": [
+        "Ich kann meine Pokémon rufen hören...\n",
+        "Sie fordern dich zum Rückzug auf...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00734",
+      "de_DE": [
+        "Ich kann meine Pokémon rufen hören...\n",
+        "Sie erzählen vom Spaß, den sie hatten.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00735",
+      "de_DE": [
+        "Ich kann Licht hinter dir erkennen.\n",
+        "Was ist die Bedeutung dieses Lichts?"
+      ]
+    },
+    {
+      "id": "msg_0724_00736",
+      "de_DE": [
+        "Ich habe mich wohl geirrt. Es war doch\n",
+        "keine Aura von Unantastbarkeit.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00737",
+      "de_DE": [
+        "Jetzt kann ich es erkennen... du\n",
+        "glühst mit dem Licht des Sieges...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00738",
+      "de_DE": [
+        "Ich bringe dir die Niederlage auf\n",
+        "rasante, aber elegante Weise."
+      ]
+    },
+    {
+      "id": "msg_0724_00739",
+      "de_DE": "Ich danke dir für deine Geduld!\r"
+    },
+    {
+      "id": "msg_0724_00740",
+      "de_DE": [
+        "Es tut mir schrecklich leid. Jetzt bin\n",
+        "ich es, den die Niederlage ereilt hat.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00741",
+      "de_DE": [
+        "Super! Noch ein stark wirkender\n",
+        "Trainer. Der Spaß hört niemals auf."
+      ]
+    },
+    {
+      "id": "msg_0724_00742",
+      "de_DE": [
+        "Ganz schön knapp. Wieso kann es zur\n",
+        "Abwechslung nicht mal einfach sein?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00743",
+      "de_DE": [
+        "War ja klar... aber hätte diese eine\n",
+        "Attacke doch nur funktioniert...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00744",
+      "de_DE": [
+        "Alle reden immer über Pokémon. Dabei\n",
+        "sollten sie lieber einfach Spaß haben!"
+      ]
+    },
+    {
+      "id": "msg_0724_00745",
+      "de_DE": [
+        "Ist alles in Ordnung mit dir?\n",
+        "Du wirkst sehr müde.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00746",
+      "de_DE": [
+        "Lass dich nicht zu sehr von Siegen und\n",
+        "Niederlagen unter Druck setzen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00747",
+      "de_DE": [
+        "Du bist aber mal ein süßer Gast!\n",
+        "Da gebe ich mir besonders viel Mühe!"
+      ]
+    },
+    {
+      "id": "msg_0724_00748",
+      "de_DE": "Na, warst du mit dem Service zufrieden?\r"
+    },
+    {
+      "id": "msg_0724_00749",
+      "de_DE": [
+        "Warte bitte einen Moment!\n",
+        "Ich bin noch nicht fertig!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00750",
+      "de_DE": [
+        "Ich schreibe über das Leben der\n",
+        "Trainer, die hier ankommen."
+      ]
+    },
+    {
+      "id": "msg_0724_00751",
+      "de_DE": [
+        "Ich frage mich, wie viele Trainer meinen\n",
+        "Weg wohl noch kreuzen werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00752",
+      "de_DE": [
+        "Jede Begegnung endet einmal. Das\n",
+        "Schreiben dient mir als Erinnerung.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00753",
+      "de_DE": [
+        "Ich warte schon ewig auf jemanden wie\n",
+        "dich. Ich lasse dich nicht mehr gehen."
+      ]
+    },
+    {
+      "id": "msg_0724_00754",
+      "de_DE": [
+        "Mit diesem Satz aus einem roman-\n",
+        "tischen Film wollte ich dich verwirren!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00755",
+      "de_DE": [
+        "Gehe nur! Lass dich nicht von mir\n",
+        "aufhalten. Such dein Glück da draußen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00756",
+      "de_DE": [
+        "Falls du gewinnst, gibst du\n",
+        "mir dann ein Interview?"
+      ]
+    },
+    {
+      "id": "msg_0724_00757",
+      "de_DE": [
+        "Du hast mir die Arbeit zu einfach\n",
+        "gemacht. Hänge dich mal mehr rein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00758",
+      "de_DE": [
+        "Beschreibe bitte deine Gefühle in einem\n",
+        "Wort! Sprich bitte hier ins Mikro!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00759",
+      "de_DE": [
+        "Ich bin auf Diät...\n",
+        "Und fühle mich so ausgehungert..."
+      ]
+    },
+    {
+      "id": "msg_0724_00760",
+      "de_DE": [
+        "Ich bin glücklich, aber das macht mich\n",
+        "auch hungrig... nein, es geht mir gut...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00761",
+      "de_DE": [
+        "Oh...\n",
+        "Deine Pokémon sehen lecker aus...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00762",
+      "de_DE": [
+        "Lass mich das klar und deutlich sagen:\n",
+        "Ich bin zäher als du!"
+      ]
+    },
+    {
+      "id": "msg_0724_00763",
+      "de_DE": "Siehst du? Ich habe nicht übertrieben!\r"
+    },
+    {
+      "id": "msg_0724_00764",
+      "de_DE": "Wer bist du eigentlich?!?\r"
+    },
+    {
+      "id": "msg_0724_00765",
+      "de_DE": [
+        "Weg da! Aus dem Weg! ...Warte mal!\n",
+        "Geh nicht! Wir müssen kämpfen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00766",
+      "de_DE": [
+        "Komm schon, schalt mal einen\n",
+        "Gang rauf. Halte mit mir mit!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00767",
+      "de_DE": [
+        "Weg da! Aus dem Weg!\n",
+        "Ich muss hier ganz schnell weg!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00768",
+      "de_DE": [
+        "Vorsichtig fahren und vorsichtig\n",
+        "kämpfen, das ist mein Motto."
+      ]
+    },
+    {
+      "id": "msg_0724_00769",
+      "de_DE": [
+        "Im Kampf kann man geduldig sein. Der\n",
+        "Sieg kommt dann früher oder später.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00770",
+      "de_DE": [
+        "Ich halte meine Geschwindigkeit. Und\n",
+        "eines Tages hole ich dich ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00771",
+      "de_DE": [
+        "Dieses Rad habe ich nur, um andere zu\n",
+        "beeindrucken. Fahren kann ich es nicht."
+      ]
+    },
+    {
+      "id": "msg_0724_00772",
+      "de_DE": [
+        "Was ein Aufwand! Ich musste das Rad\n",
+        "den ganzen Weg hierher schieben!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00773",
+      "de_DE": [
+        "Mir ist es nur wichtig gut auszusehen.\n",
+        "Daher übe ich das Kämpfen nicht genug.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00774",
+      "de_DE": [
+        "Ich bin nicht auf der Suche nach\n",
+        "Spannung oder einem Drama."
+      ]
+    },
+    {
+      "id": "msg_0724_00775",
+      "de_DE": [
+        "Ein Kampf bietet all die\n",
+        "Spannung, die ich benötige.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00776",
+      "de_DE": [
+        "Ich habe kürzlich festgestellt, dass\n",
+        "ich für diesen Job nicht gemacht bin.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00777",
+      "de_DE": [
+        "Ich kämpfe mir meinen Weg frei.\n",
+        "Und du dir deinen."
+      ]
+    },
+    {
+      "id": "msg_0724_00778",
+      "de_DE": [
+        "So sind die Leute nun mal.\n",
+        "Ich gehe meinen eigenen Weg.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00779",
+      "de_DE": [
+        "So sind die Leute nun mal. Gehe\n",
+        "du nur deinen eigenen Weg.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00780",
+      "de_DE": [
+        "Heute habe ich eine ganz spezielle\n",
+        "Überraschung für all meine Fans!"
+      ]
+    },
+    {
+      "id": "msg_0724_00781",
+      "de_DE": [
+        "Vielen Dank! Eure Unterstützung\n",
+        "bedeutet mir sehr viel!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00782",
+      "de_DE": "Bist du wirklich einer meiner Fans?\r"
+    },
+    {
+      "id": "msg_0724_00783",
+      "de_DE": [
+        "Ich fühle mich als Bühnenstar ausge-\n",
+        "brannt. Ich möchte heim aufs Land..."
+      ]
+    },
+    {
+      "id": "msg_0724_00784",
+      "de_DE": [
+        "Aber ich kann jetzt nicht aufhören!\n",
+        "Kids träumen davon, so zu sein wie ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00785",
+      "de_DE": "Ich vermisse meine Mutter...\r"
+    },
+    {
+      "id": "msg_0724_00786",
+      "de_DE": [
+        "Ich bin einzigartig. Mehr\n",
+        "brauche ich wohl nicht zu sagen."
+      ]
+    },
+    {
+      "id": "msg_0724_00787",
+      "de_DE": [
+        "Ich bleibe locker.\n",
+        "Und das macht mich stark.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00788",
+      "de_DE": [
+        "Ich war locker, aber du hast trotzdem\n",
+        "gewonnen. Du warst noch lockerer.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00789",
+      "de_DE": [
+        "Hallo! Bist du mein nächster Gegner?\n",
+        "Lass uns sauber und fair kämpfen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00790",
+      "de_DE": [
+        "Es ist toll, wenn man sich keine\n",
+        "Gedanken um miese Tricks machen muss.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00791",
+      "de_DE": [
+        "Das war ein gutes Training! Das sollten\n",
+        "wir bald mal wieder machen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00792",
+      "de_DE": [
+        "Ich brauche nicht viel. Das Fischen und\n",
+        "ein Schluck Kuhmuh-Milch reichen schon."
+      ]
+    },
+    {
+      "id": "msg_0724_00793",
+      "de_DE": [
+        "Ob ich nun gewinne oder verliere, ist\n",
+        "nicht wirklich wichtig für mich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00794",
+      "de_DE": [
+        "Jetzt könnte ich einen kräftigen\n",
+        "Schluck Kuhmuh-Milch vertragen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00795",
+      "de_DE": [
+        "Hey, du da! Sieh dir mal die Pokémon\n",
+        "an, die ich gestern geangelt habe."
+      ]
+    },
+    {
+      "id": "msg_0724_00796",
+      "de_DE": [
+        "Beeindruckend, nicht? Dieser Bursche\n",
+        "hier hat mich die meiste Zeit gekostet.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00797",
+      "de_DE": [
+        "Ein Rat: Prahlt eine ältere Person, gib\n",
+        "vor, dass es dich interessiert.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00798",
+      "de_DE": [
+        "Lass deine Pokémon in Aktion\n",
+        "treten und sprich durch sie."
+      ]
+    },
+    {
+      "id": "msg_0724_00799",
+      "de_DE": [
+        "Wo ist denn dein Kampfgeist? Dieser\n",
+        "Kampf hat gar nichts ausgedrückt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00800",
+      "de_DE": [
+        "Großartig! Du konntest mit diesem\n",
+        "Kampf viel zum Ausdruck bringen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00801",
+      "de_DE": [
+        "Hier kommt die Beute!\n",
+        "Holt sie euch! Angriff!"
+      ]
+    },
+    {
+      "id": "msg_0724_00802",
+      "de_DE": [
+        "Muahahaha! Genau so soll es sein!\n",
+        "Sehr gute Arbeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00803",
+      "de_DE": [
+        "Wir wurden übertroffen!\n",
+        "Rückzug, Team! Rennt davon!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00804",
+      "de_DE": [
+        "Dann zeige mal, was du kannst!\n",
+        "Uuuh! Haaah!"
+      ]
+    },
+    {
+      "id": "msg_0724_00805",
+      "de_DE": "Da bedanke ich mich recht herzlich!\r"
+    },
+    {
+      "id": "msg_0724_00806",
+      "de_DE": "Danke für den Kampf!\r"
+    },
+    {
+      "id": "msg_0724_00807",
+      "de_DE": [
+        "Die Berge faszinieren mich. Sie sind\n",
+        "der Mittelpunkt meines Lebens."
+      ]
+    },
+    {
+      "id": "msg_0724_00808",
+      "de_DE": [
+        "Die Berge bedeuten mir mehr als jeder\n",
+        "Kampf, egal, wie viel Spaß er macht!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00809",
+      "de_DE": [
+        "Deine Kampfkünste sind beeindruckend,\n",
+        "aber der Ruf der Berge lockt mich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00810",
+      "de_DE": [
+        "Jetzt setzt es eine Niederlage,\n",
+        "Kindchen. Aber wehre dich ruhig."
+      ]
+    },
+    {
+      "id": "msg_0724_00811",
+      "de_DE": [
+        "Klasse, wie du dich nach der Niederlage\n",
+        "verhalten hast. Gute Einstellung!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00812",
+      "de_DE": [
+        "Ich hab dich nicht gewinnen lassen,\n",
+        "weil du ein Kind bist. Ehrlich!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00813",
+      "de_DE": [
+        "Ich kämpfe auf der ganzen Welt. Man\n",
+        "kennt mich weltweit als bösen Buben!"
+      ]
+    },
+    {
+      "id": "msg_0724_00814",
+      "de_DE": [
+        "Ich verliere keine Kämpfe. Ich kann\n",
+        "gar nicht fassen, wie cool ich bin!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00815",
+      "de_DE": [
+        "Nach dieser Niederlage ist es an der\n",
+        "Zeit aufzubrechen. Luftveränderung!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00816",
+      "de_DE": [
+        "Für das Kämpfen habe ich ein Geschick.\n",
+        "Das gilt allerdings nicht für die Musik."
+      ]
+    },
+    {
+      "id": "msg_0724_00817",
+      "de_DE": [
+        "Das Kämpfen ist ja schön und gut, aber\n",
+        "ich wäre gerne ein besserer Musiker.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00818",
+      "de_DE": [
+        "Musik oder Pokémon...\n",
+        "Das ist eine schwere Entscheidung.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00819",
+      "de_DE": [
+        "Ich habe mit den Rufen der Pokémon\n",
+        "ein Lied komponiert. Höre es dir mal an."
+      ]
+    },
+    {
+      "id": "msg_0724_00820",
+      "de_DE": [
+        "Graaah, wagyaaah! Wagyaaaah!\n",
+        "Chu! Chu! Gyaroooh-gah!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00821",
+      "de_DE": [
+        "Giiiyaaaah! Drundundun!\n",
+        "Garooo-gah! Wawawaaah!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00822",
+      "de_DE": [
+        "Das Sammeln und Horten macht mir keinen\n",
+        "Spaß mehr. Ich löse meine Sammlung auf."
+      ]
+    },
+    {
+      "id": "msg_0724_00823",
+      "de_DE": [
+        "Ich habe eigentlich keine Wünsche mehr.\n",
+        "Vielleicht werde ich ein Clown..."
+      ]
+    },
+    {
+      "id": "msg_0724_00824",
+      "de_DE": [
+        "Der Kampf ging absichtlich daneben. Es\n",
+        "ist gut, sich einer Last zu entledigen."
+      ]
+    },
+    {
+      "id": "msg_0724_00825",
+      "de_DE": [
+        "Oh! Warte mal! Ich bekomme\n",
+        "gerade eine Textnachricht!"
+      ]
+    },
+    {
+      "id": "msg_0724_00826",
+      "de_DE": [
+        "Tick-tick-tick... tick-tick...\n",
+        "Huch? Der Kampf ist schon vorbei?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00827",
+      "de_DE": [
+        "Hey! Du kannst doch nicht einfach\n",
+        "mitlesen! Meine Textnachrichten\f",
+        "gehen dich nichts an!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00828",
+      "de_DE": [
+        "Ich sehe keinen Sinn in diesem Kampf!\n",
+        "Pokémon verdienen Zuneigung!"
+      ]
+    },
+    {
+      "id": "msg_0724_00829",
+      "de_DE": [
+        "Ich fühle mich nach Kämpfen immer so\n",
+        "leer. Man sollte PKMN lieber umarmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00830",
+      "de_DE": [
+        "Mit den Kämpfen erreicht man doch\n",
+        "nichts. Wir sollten PKMN lieber umarmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00831",
+      "de_DE": [
+        "Forderst du mich heraus? ...Das tust\n",
+        "du wirklich. Kinder heutzutage..."
+      ]
+    },
+    {
+      "id": "msg_0724_00832",
+      "de_DE": [
+        "Nun aber ab nach Hause! Hilf deiner\n",
+        "Mama bei der Hausarbeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00833",
+      "de_DE": [
+        "Wenn du glaubst, das Leben besteht nur\n",
+        "aus Spielen, dann wird nichts aus dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00834",
+      "de_DE": [
+        "Wie wirst du mit meiner\n",
+        "messerscharfen Logik umgehen?"
+      ]
+    },
+    {
+      "id": "msg_0724_00835",
+      "de_DE": [
+        "Genau wie ich es geplant hatte...\n",
+        "Dies ist ein Erfolg auf ganzer Linie.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00836",
+      "de_DE": [
+        "Du hast mich ausmanövriert.\n",
+        "Ich habe mich unglaubhaft gemacht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00837",
+      "de_DE": [
+        "Ich komme kaum aus dem Labor. Meine\n",
+        "Schultern sind schon ganz verspannt."
+      ]
+    },
+    {
+      "id": "msg_0724_00838",
+      "de_DE": [
+        "Eine sehr willkommene Pause! Ich fühle\n",
+        "mich wieder locker und entspannt.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00839",
+      "de_DE": [
+        "Meine Pokémon und ich sollten öfter mal\n",
+        "nach draußen, um etwas zu trainieren.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00840",
+      "de_DE": [
+        "Hmm... so jung... ich sollte wohl\n",
+        "etwas Rücksicht nehmen..."
+      ]
+    },
+    {
+      "id": "msg_0724_00841",
+      "de_DE": [
+        "Du bist so erschreckend jung...\n",
+        "Ich lasse dich dann mal gehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00842",
+      "de_DE": [
+        "Auch mal an den Verlierer zu denken...\n",
+        "Das geht euch jungen Leuten ab.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00843",
+      "de_DE": [
+        "Du siehst einen alten Mann,\n",
+        "aber lass dich nicht täuschen."
+      ]
+    },
+    {
+      "id": "msg_0724_00844",
+      "de_DE": [
+        "Eine Niederlage gegen einen jungen\n",
+        "Trainer empfinde ich als unerträglich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00845",
+      "de_DE": [
+        "Deine Jugend hat mich getäuscht.\n",
+        "Das war töricht von mir. Töricht...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00846",
+      "de_DE": [
+        "Als Arbeiter baue ich auf,\n",
+        "reiße aber auch wieder ab."
+      ]
+    },
+    {
+      "id": "msg_0724_00847",
+      "de_DE": [
+        "Wieso wirst du nicht auch Arbeiter? Es\n",
+        "macht Spaß und ist lohnend dazu.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00848",
+      "de_DE": [
+        "Etwas aufzubauen erzeugt mehr\n",
+        "Zufriedenheit, als etwas einzureißen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00849",
+      "de_DE": [
+        "Du und deine Pokémon...\n",
+        "Das ist eine einfache Aufgabe!"
+      ]
+    },
+    {
+      "id": "msg_0724_00850",
+      "de_DE": [
+        "Ich musste mich kaum anstrengen. Zeit,\n",
+        "mit deinem Team nach Hause zu gehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00851",
+      "de_DE": [
+        "Uaaaaah... so schwer... mein Team ist\n",
+        "unter der Last zusammengebrochen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00852",
+      "de_DE": [
+        "Außergewöhnliche Athletik und ein Sinn\n",
+        "für Humor machen einen Clown aus!"
+      ]
+    },
+    {
+      "id": "msg_0724_00853",
+      "de_DE": [
+        "Clown ist ein Beruf mit Bedeutung. Nur\n",
+        "ganz spezielle Menschen werden Clown.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00854",
+      "de_DE": [
+        "Der Enttäuschung mit einem Lachen zu\n",
+        "begegnen. Das ist auch sehr wichtig!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00855",
+      "de_DE": [
+        "Mit dem Gesicht lachen und dem Herzen\n",
+        "weinen - das Leben eines Clowns."
+      ]
+    },
+    {
+      "id": "msg_0724_00856",
+      "de_DE": "Ahahahahaha!\r"
+    },
+    {
+      "id": "msg_0724_00857",
+      "de_DE": "Gah! ...Ahahahaha!\r"
+    },
+    {
+      "id": "msg_0724_00858",
+      "de_DE": [
+        "Hör mal! Ich bin zwar Polizist, aber\n",
+        "in erster Linie bin ich ein Trainer!"
+      ]
+    },
+    {
+      "id": "msg_0724_00859",
+      "de_DE": [
+        "Wie bitte? Ein Polizist sollte niemals\n",
+        "die Fassung verlieren?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00860",
+      "de_DE": [
+        "Auch als Polizist habe ich Träume und\n",
+        "Sehnsüchte. Und, und... schnief...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00861",
+      "de_DE": [
+        "Hände hoch! Lasst mich die Hände\n",
+        "sehen! Ihr seid alle festgenommen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00862",
+      "de_DE": "Damit ist der Fall abgeschlossen!\r"
+    },
+    {
+      "id": "msg_0724_00863",
+      "de_DE": "Das ist ein Justizskandal!\r"
+    },
+    {
+      "id": "msg_0724_00864",
+      "de_DE": [
+        "Ich bin ein Internet-Detektiv,\n",
+        "nur dass du es weißt."
+      ]
+    },
+    {
+      "id": "msg_0724_00865",
+      "de_DE": [
+        "Meine Fähigkeiten in puncto Observation\n",
+        "und Logik haben sich durchgesetzt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00866",
+      "de_DE": [
+        "Du mich ausgetrickst? Vielleicht war\n",
+        "das ja nur eine verdeckte Ermittlung!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00867",
+      "de_DE": [
+        "Ich kämpfe wann immer, wo immer und mit\n",
+        "wem auch immer. Das ist mein Motto!"
+      ]
+    },
+    {
+      "id": "msg_0724_00868",
+      "de_DE": [
+        "Wann immer, wo immer, mit wem auch\n",
+        "immer... das ist mir völlig gleich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00869",
+      "de_DE": [
+        "Hahaha! Das ist toll!\n",
+        "Wir sollten gar nicht aufhören!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00870",
+      "de_DE": [
+        "Der Verlierer muss so tun, als\n",
+        "wäre er ein SKUNKAPUH, okay?"
+      ]
+    },
+    {
+      "id": "msg_0724_00871",
+      "de_DE": [
+        "Kicher. Du hast verloren. Dann ahme\n",
+        "mal schön ein SKUNKAPUH nach!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00872",
+      "de_DE": [
+        "Gut, hier ist meine Version eines\n",
+        "SKUNKAPUH... eins, zwei, drei...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00873",
+      "de_DE": [
+        "Ein leichter Wind kommt auf...\n",
+        "Das ist gut! Ich kann gewinnen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00874",
+      "de_DE": [
+        "Der Rückenwind hat\n",
+        "uns zum Sieg getragen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00875",
+      "de_DE": "Der Gegenwind war einfach zu stark!\r"
+    },
+    {
+      "id": "msg_0724_00876",
+      "de_DE": [
+        "Obwohl mein Schirm immer aufgespannt\n",
+        "ist, mag ich Sonnentage ganz gerne."
+      ]
+    },
+    {
+      "id": "msg_0724_00877",
+      "de_DE": "Ich hoffe, morgen wird es sonnig...\r"
+    },
+    {
+      "id": "msg_0724_00878",
+      "de_DE": [
+        "Dieser anhaltende Regen in meinem\n",
+        "Herzen... wann hört er endlich auf?\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00879",
+      "de_DE": [
+        "Du kannst es ja gar nicht erwarten.\n",
+        "Ich sollte mich wirklich konzentrieren!"
+      ]
+    },
+    {
+      "id": "msg_0724_00880",
+      "de_DE": [
+        "Der Kampf hat Spaß gemacht. Wir\n",
+        "sollten ruhig mal wieder kämpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00881",
+      "de_DE": [
+        "Du bist so voller Energie!\n",
+        "Das ist richtig ansteckend!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00882",
+      "de_DE": [
+        "Wie lange muss ich noch\n",
+        "auf einen guten Trainer warten?"
+      ]
+    },
+    {
+      "id": "msg_0724_00883",
+      "de_DE": [
+        "Keiner kann mir das Wasser reichen.\n",
+        "Vielleicht sollte ich zurücktreten.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00884",
+      "de_DE": [
+        "Sieh mal einer an! Das war\n",
+        "ja schon mal nicht schlecht.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00885",
+      "de_DE": [
+        "Mein weiblicher Charme hat auf ein\n",
+        "Kind so gut wie keine Wirkung..."
+      ]
+    },
+    {
+      "id": "msg_0724_00886",
+      "de_DE": [
+        "Das war äußerst knapp! Man sollte\n",
+        "seine Gegner niemals unterschätzen.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00887",
+      "de_DE": [
+        "Für mich zählt nur der Sieg. Sollen\n",
+        "die anderen doch redlich sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00888",
+      "de_DE": [
+        "Wie bei allem haben die Menschen auch\n",
+        "bei Aromen Vorlieben und Abneigungen."
+      ]
+    },
+    {
+      "id": "msg_0724_00889",
+      "de_DE": [
+        "Ich mag den Geruch, den die Pokémon\n",
+        "nach einem Kampf haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00890",
+      "de_DE": [
+        "Der Hauch des Geruchs nach einem\n",
+        "intensiven Kampf ist sehr anregend.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00891",
+      "de_DE": [
+        "Schnüffel, schnüffel... ja! Das ist es!\n",
+        "Die Kraft der Aromen!"
+      ]
+    },
+    {
+      "id": "msg_0724_00892",
+      "de_DE": [
+        "Mithilfe der Kraft der Aromen\n",
+        "bin ich unbesiegbar!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00893",
+      "de_DE": [
+        "Die Kraft der Aromen ist\n",
+        "mir ausgegangen...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00894",
+      "de_DE": [
+        "Drehung, Schritt, Drehung, Drehung...\n",
+        "Ich übe während der Kämpfe das Tanzen."
+      ]
+    },
+    {
+      "id": "msg_0724_00895",
+      "de_DE": [
+        "Ich tanze mit Präzision, aber auch mit\n",
+        "Leidenschaft. Ich sehe keine Schwäche.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00896",
+      "de_DE": [
+        "Du bringst meinen Rhythmus ganz durch-\n",
+        "einander! So kann ich nicht tanzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00897",
+      "de_DE": [
+        "Für mich ist es kein Problem im Blick-\n",
+        "punkt der Öffentlichkeit zu stehen."
+      ]
+    },
+    {
+      "id": "msg_0724_00898",
+      "de_DE": [
+        "Und aus diesem Grund halten die Leute\n",
+        "mich für einen perfekten Bühnenstar.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00899",
+      "de_DE": [
+        "Mir war nicht klar, wie schwer es ist\n",
+        "zu verlieren. Das ist Neuland für mich.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00900",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0724_00901",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00902",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00903",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0724_00904",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00905",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00906",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0724_00907",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00908",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00909",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0724_00910",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00911",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00912",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0724_00913",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00914",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0724_00915",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0724_00916",
+      "de_DE": [
+        "Wunderbar! Das war fantastisch!\n",
+        "Du darfst gerne wiederkommen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00917",
+      "de_DE": [
+        "Gegen einen Trainer wie dich zu\n",
+        "verlieren, macht mich nicht traurig!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00918",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0724_00919",
+      "de_DE": [
+        "Wunderbar! Das war fantastisch!\n",
+        "Du darfst gerne wiederkommen!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00920",
+      "de_DE": [
+        "Gegen einen Trainer wie dich zu\n",
+        "verlieren, macht mich nicht traurig!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00921",
+      "de_DE": [
+        "Welche Pokémon stehen diesmal im\n",
+        "Rampenlicht? Ich platze vor Spannung!"
+      ]
+    },
+    {
+      "id": "msg_0724_00922",
+      "de_DE": [
+        "Ich habe mich glänzend amüsiert!\n",
+        "Vielen Dank und bis bald.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00923",
+      "de_DE": [
+        "Schade, dass die Zeiten, in denen man\n",
+        "Spaß hat, nur von so kurzer Dauer sind.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00924",
+      "de_DE": [
+        "Welche Pokémon wirst du\n",
+        "diesmal stolz vorzeigen?\f",
+        "Ich kann es kaum erwarten!"
+      ]
+    },
+    {
+      "id": "msg_0724_00925",
+      "de_DE": [
+        "Das war wunderbar!\n",
+        "Vielen Dank und bis bald.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00926",
+      "de_DE": [
+        "Schade, dass die Zeiten, in denen man\n",
+        "Spaß hat, nur von so kurzer Dauer sind.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00927",
+      "de_DE": [
+        "Ich werde immer gewinnen. Es macht\n",
+        "keinen Unterschied, was du aufbietest.\r",
+        "Mein investigatives und analytisches\n",
+        "System ist einfach großartig."
+      ]
+    },
+    {
+      "id": "msg_0724_00928",
+      "de_DE": [
+        "Siehst du?\n",
+        "Genau meiner Analyse entsprechend.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00929",
+      "de_DE": [
+        "Na so was!\n",
+        "Du hast es mir ganz schön gezeigt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00930",
+      "de_DE": [
+        "Ich werde immer gewinnen. Es macht\n",
+        "keinen Unterschied, was du aufbietest.\r",
+        "Mein investigatives und analytisches\n",
+        "System ist einfach großartig."
+      ]
+    },
+    {
+      "id": "msg_0724_00931",
+      "de_DE": [
+        "Siehst du?\n",
+        "Genau meiner Analyse entsprechend.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00932",
+      "de_DE": [
+        "Na so was!\n",
+        "Du hast es mir ganz schön gezeigt!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00933",
+      "de_DE": [
+        "Immer lächeln! Das Glück ist den\n",
+        "fröhlichen Menschen hold!\r",
+        "Daher lächle ich immer und vertraue\n",
+        "dann meinen Pokémon im Kampf."
+      ]
+    },
+    {
+      "id": "msg_0724_00934",
+      "de_DE": [
+        "Du bist sehr gut!\n",
+        "Ich hatte eine Menge Spaß!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00935",
+      "de_DE": [
+        "Du bist sehr, sehr gut! Auch meinen\n",
+        "Pokémon hat es Spaß gemacht!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00936",
+      "de_DE": [
+        "Immer wenn ich gegen einen guten\n",
+        "Gegner antrete, muss ich lächeln!\r",
+        "Und du? Was machst du? Lachst du?\n",
+        "Weinst du? Wirst du wütend?"
+      ]
+    },
+    {
+      "id": "msg_0724_00937",
+      "de_DE": [
+        "Sieg oder Niederlage. Ein Kampf gegen\n",
+        "einen tollen Trainer macht mich froh!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00938",
+      "de_DE": [
+        "Gegen einen tollen Trainer anzutreten\n",
+        "ist immer ein freudiger Anlass!\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00939",
+      "de_DE": [
+        "Wohlan denn...\n",
+        "Wollen wir beginnen?"
+      ]
+    },
+    {
+      "id": "msg_0724_00940",
+      "de_DE": [
+        "Eine regelrecht heroische Anstrengung.\r",
+        "Mir war nur etwas mehr Glück\n",
+        "beschieden. Aber das nächste Mal...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00941",
+      "de_DE": [
+        "Meine Pokémon trifft nicht die geringste\n",
+        "Schuld.\r",
+        "Ich ziehe meinen Hut vor deinem Können.\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00942",
+      "de_DE": [
+        "Ich tue dies Lady Kattlea zuliebe.\n",
+        "Und daher muss ich mein Bestes geben."
+      ]
+    },
+    {
+      "id": "msg_0724_00943",
+      "de_DE": [
+        "Eine regelrecht heroische Anstrengung.\r",
+        "Mir war nur etwas mehr Glück\n",
+        "beschieden. Aber das nächste Mal...\r"
+      ]
+    },
+    {
+      "id": "msg_0724_00944",
+      "de_DE": [
+        "Deine Fähigkeiten sind unübertroffen!\n",
+        "Meine Bewunderung ist grenzenlos.\r"
+      ]
+    }
+  ]
+}

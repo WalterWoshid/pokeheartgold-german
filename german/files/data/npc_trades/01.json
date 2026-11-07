@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_MACHOP",
+  "hpIv": 15,
+  "atkIv": 25,
+  "defIv": 20,
+  "speedIv": 20,
+  "spAtkIv": 15,
+  "spDefIv": 15,
+  "ability": 62,
+  "otId": 37460,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 8976,
+  "heldItem": "ITEM_MACHO_BRACE",
+  "gender": 0,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_DROWZEE",
+  "unk_50": 0
+}

@@ -1,0 +1,284 @@
+{
+  "key": 1030,
+  "messages": [
+    {
+      "id": "msg_0464_00000",
+      "de_DE": [
+        "Willkommen!\r",
+        "Wir haben zurzeit einige unserer\n",
+        "großen Exponate an ein anderes\f",
+        "Museum verliehen.\r",
+        "Deshalb ist der Eintritt ausnahmsweise\n",
+        "für alle Leute kostenlos!\r",
+        "Gehe einfach hinein und sieh dich um!"
+      ]
+    },
+    {
+      "id": "msg_0464_00001",
+      "de_DE": [
+        "Wusstest du das schon?\r",
+        "Es ist möglich, Fossilien von Pokémon\n",
+        "wieder in ihre ursprüngliche Form\f",
+        "zurückzuverwandeln!\r",
+        "Wenn du ein Fossil hast, das du gerne\n",
+        "zurückverwandeln möchtest, bist du bei\f",
+        "mir an der richtigen Adresse!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00002",
+      "de_DE": [
+        "Komm wieder, wenn du etwas hast, das du\n",
+        "zurückverwandeln möchtest..."
+      ]
+    },
+    {
+      "id": "msg_0464_00003",
+      "de_DE": [
+        "In Ordnung, dann will ich es mal\n",
+        "für dich zurückverwandeln.\r",
+        "Warte etwas und komm später noch mal!"
+      ]
+    },
+    {
+      "id": "msg_0464_00004",
+      "de_DE": [
+        "Oh, hallo!\r",
+        "Ich bin mit dem Fossil fertig, auf das\n",
+        "du so sehnlich gewartet hast!\r",
+        "Es steckte ein {STRVAR_1 0, 0, 0} darin!\n",
+        "Kümmere dich gut darum!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00005",
+      "de_DE": [
+        "Hoppla! Dein Pokémon-Team\n",
+        "scheint bereits voll zu sein!\r",
+        "Komm wieder, wenn du am\n",
+        "PC für Platz gesorgt hast!"
+      ]
+    },
+    {
+      "id": "msg_0464_00006",
+      "de_DE": [
+        "Oh, aber du trägst ja überhaupt\n",
+        "keine Fossilien bei dir!\r",
+        "Manchmal sollen sich ja welche\n",
+        "finden lassen, wenn man in den\f",
+        "Alph-Ruinen Felsen zertrümmert!"
+      ]
+    },
+    {
+      "id": "msg_0464_00007",
+      "de_DE": [
+        "Soll ich {STRVAR_1 8, 0, 0}\n",
+        "zurückverwandeln? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0464_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat\n",
+        "{STRVAR_1 0, 1, 0} erhalten!"
+      ]
+    },
+    {
+      "id": "msg_0464_00009",
+      "de_DE": [
+        "Möchtest du dem {STRVAR_1 0, 1, 0}\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0464_00010",
+      "de_DE": [
+        "Irgendwo in der Nähe von Marmoria City\n",
+        "soll ein Meteorit eingeschlagen sein!\r",
+        "So einen seltenen Fund würden wir nur\n",
+        "zu gerne hier im Museum ausstellen...\r",
+        "Aber angeblich geht von dem Stein eine\n",
+        "merkwürdige Energie aus, die es\f",
+        "verhindert, dass man ihn von dort\f",
+        "entfernt..."
+      ]
+    },
+    {
+      "id": "msg_0464_00011",
+      "de_DE": [
+        "Ich habe genau zwei Lieblingsorte!\r",
+        "Der erste sind die Alph-Ruinen in Johto.\r",
+        "Und der zweite ist dieses Museum hier\n",
+        "in Marmoria City!\r",
+        "Ist diese Stille nicht beruhigend?\n",
+        "Geschichte kann ja so aufregend sein!"
+      ]
+    },
+    {
+      "id": "msg_0464_00012",
+      "de_DE": [
+        "Oh, was bin ich doch für ein Glückspilz!\r",
+        "Die Überreste eines großen Drachen...\n",
+        "Dass ich das noch erleben durfte!"
+      ]
+    },
+    {
+      "id": "msg_0464_00013",
+      "de_DE": [
+        "... ... ...\r",
+        "Ob sich wohl hinter jedem Stern am\n",
+        "Himmel ein unbekannter Stein verbirgt?"
+      ]
+    },
+    {
+      "id": "msg_0464_00014",
+      "de_DE": [
+        "Troy: Leute, die ihr ganzes Leben nur\n",
+        "einer Sache verschrieben haben,\f",
+        "verdienen wirklich meinen Respekt.\r",
+        "Aber auch ich bilde mir ein, zumindest\n",
+        "mit Leidenschaft bei der Sache zu sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00015",
+      "de_DE": "Nanu? Was hast du denn da?\r"
+    },
+    {
+      "id": "msg_0464_00016",
+      "de_DE": [
+        "Das ist aber ein seltsamer Stein...\r",
+        "Irgendwas da drin lässt ihn glänzen...\r",
+        "Diese Anmut... dieser Stolz... es ist,\n",
+        "als hüte er ein kostbares Geheimnis!\r",
+        "Ich finde, du solltest diesen Stein mal\n",
+        "von einem Experten analysieren lassen!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00017",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} gibt dem Angestellten\n",
+        "den Mytokristall.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00018",
+      "de_DE": [
+        "Ich werfe mal einen Blick drauf.\n",
+        "Einen Augenblick bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00019",
+      "de_DE": [
+        "Hallo! Danke fürs Warten!\n",
+        "Es war ein kniffliger Fall, aber ich\f",
+        "habe meine Hausaufgaben gemacht!\r",
+        "Dieser Stein nennt sich Seelentau,\n",
+        "ein Kristall, der eine geheimnisvolle\f",
+        "Macht birgt.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00020",
+      "de_DE": [
+        "Dieser Seelentau ist so extrem selten,\n",
+        "dass ich ihn gerne noch mal in aller Ruhe\f",
+        "untersuchen würde."
+      ]
+    },
+    {
+      "id": "msg_0464_00021",
+      "de_DE": [
+        "Troy: Man sagt, dieser Stein sei die\n",
+        "kristallisierte Form der Lebensessenz\f",
+        "von LATIAS und LATIOS...\r",
+        "Er besitzt die Macht, die in ihnen\n",
+        "verborgenen Fähigkeiten zu aktivieren.\r",
+        "Es heißt auch, dass diese Pokémon ohne\n",
+        "den Stein nicht existieren könnten...\r",
+        "Ich weiß zwar nicht, wie der Seelentau\n",
+        "nach Kanto geraten ist, aber er sollte\f",
+        "es dir ermöglichen, LATIAS oder LATIOS\f",
+        "herbeizurufen.\r"
+      ]
+    },
+    {
+      "id": "msg_0464_00022",
+      "de_DE": [
+        "Diese längliche, gewundene Form...\f",
+        "Vielleicht eine versteinerte Pflanze?"
+      ]
+    },
+    {
+      "id": "msg_0464_00023",
+      "de_DE": [
+        "Es ist spitz und sieht so aus, als\n",
+        "könnte es ungemütlich werden...\f",
+        "Vielleicht ein versteinerter Reißzahn?"
+      ]
+    },
+    {
+      "id": "msg_0464_00024",
+      "de_DE": [
+        "Es ist flach und widerstandsfähig...\f",
+        "Vielleicht ein versteinerter Panzer?"
+      ]
+    },
+    {
+      "id": "msg_0464_00025",
+      "de_DE": [
+        "Irgendetwas ist darin steckengeblieben,\n",
+        "als sich das Harz verklumpt hat!\r",
+        "Würde man vielleicht auf eine urzeitliche\n",
+        "Lebensform stoßen, wenn man es\f",
+        "herausnimmt und zurückverwandelt?"
+      ]
+    },
+    {
+      "id": "msg_0464_00026",
+      "de_DE": [
+        "Hier hat jemand viele kleine Knochen so\n",
+        "angeordnet, dass sie ungefähr die Form\f",
+        "eines Pokémon ergeben."
+      ]
+    },
+    {
+      "id": "msg_0464_00027",
+      "de_DE": [
+        "Neben dem unförmigen Stein steht\n",
+        "etwas geschrieben...\r",
+        "“Dieses mysteriöse Objekt ist\n",
+        "in den Mondberg eingeschlagen.”\f",
+        "Wahrscheinlich ist es ein Mondstein."
+      ]
+    },
+    {
+      "id": "msg_0464_00028",
+      "de_DE": [
+        "Da stehen jede Menge dicke Schinken!\r",
+        "“Grundlagen der Zurückverwandlung”\f",
+        "“Die Archäologiefibel”\f",
+        "“Längst vergessene Pokémon”\f",
+        "“Die Ahnen unserer Pokémon”\f",
+        "“Wenn Pokémon auf Menschen treffen”\f",
+        "“Die Erdschichten unter Kanto”"
+      ]
+    },
+    {
+      "id": "msg_0464_00029",
+      "de_DE": [
+        "Die Ausstellungen dieses Museums\n",
+        "beschäftigen sich hauptsächlich mit\f",
+        "Fossilien und Lebewesen aus der\f",
+        "Kanto-Region.\r",
+        "Begutachte die Überreste von Pokémon,\n",
+        "die vor vielen, vielen Jahren von der\f",
+        "Erdoberfläche verschwunden sind und\f",
+        "schicke deine Gedanken auf eine Reise\f",
+        "zurück in die Urzeit!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "key": 64410,
+  "messages": [
+    {
+      "id": "msg_0654_00000",
+      "de_DE": "Jasmin"
+    },
+    {
+      "id": "msg_0654_00001",
+      "de_DE": [
+        "Bitte? ich verstehe dich kaum!\n",
+        "Die Verbindung ist so schlecht!\r",
+        "Ruf doch bitte von woanders an!"
+      ]
+    },
+    {
+      "id": "msg_0654_00002",
+      "de_DE": [
+        "Hallo? Wie geht es dir?\n",
+        "Mir geht es gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0654_00003",
+      "de_DE": [
+        "Es gibt außer mir bestimmt noch viele\n",
+        "andere starke Arenaleiter!\r",
+        "Gib alles! Ich drücke dir die Daumen!"
+      ]
+    },
+    {
+      "id": "msg_0654_00004",
+      "de_DE": [
+        "Hm, mal schauen...\n",
+        "Ich hätte am Mittwochmittag Zeit!\r",
+        "Ruf doch bitte dann noch einmal an!"
+      ]
+    },
+    {
+      "id": "msg_0654_00005",
+      "de_DE": [
+        "Mein Amphi ist wieder völlig gesund und\n",
+        "so habe ich auch wieder mehr Zeit für\f",
+        "mich... \r",
+        "Also, wie sieht es aus?\n",
+        "Hättest du Lust auf ein Rematch? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0654_00006",
+      "de_DE": [
+        "Abgemacht!\n",
+        "Ich warte auf dich im Dojo von Saffronia\f",
+        "City!"
+      ]
+    },
+    {
+      "id": "msg_0654_00007",
+      "de_DE": "Schade..."
+    },
+    {
+      "id": "msg_0654_00008",
+      "de_DE": [
+        "Aber?\r",
+        "Hast du vor mir nicht noch anderen\n",
+        "Trainern ein Rematch versprochen?"
+      ]
+    },
+    {
+      "id": "msg_0654_00009",
+      "de_DE": [
+        "Ich erwarte dich dann im Dojo von\n",
+        "Saffronia City.\f",
+        "Nimm diesmal bitte ein wenig Rücksicht!"
+      ]
+    },
+    {
+      "id": "msg_0654_00010",
+      "de_DE": [
+        "Ich bin’s, Jasmin.\n",
+        "Du klingst aber gut gelaunt!\r"
+      ]
+    },
+    {
+      "id": "msg_0654_00011",
+      "de_DE": [
+        "Vergiss bitte unsere Verabredung zum\n",
+        "Rematch nicht!\r",
+        "Ich warte auf dich im Dojo von Saffronia\n",
+        "City!"
+      ]
+    },
+    {
+      "id": "msg_0654_00012",
+      "de_DE": [
+        "Bist du seit damals noch einmal im\n",
+        "Leuchtturm von Oliviana City gewesen?\r",
+        "Ich habe leider viel zu tun und schaffe\n",
+        "es einfach nicht, Amphi dort zu\f",
+        "besuchen.\r",
+        "Aber jede Nacht, wenn ich zum\n",
+        "Leuchtturm aufschaue und das helle\f",
+        "Licht sehe, denke ich bei mir:\f",
+        "“Du hast dich gut erholt, mein Amphi!”"
+      ]
+    },
+    {
+      "id": "msg_0654_00013",
+      "de_DE": [
+        "Ähm...\n",
+        "Ich würde dich gerne etwas fragen...\r",
+        "Wie fandest du eigentlich meine Arena?\n",
+        "Kam es dir nicht ein bisschen kalt und\f",
+        "unpersönlich vor?\r",
+        "Daran ist wohl der Stahl schuld.\n",
+        "Ich möchte der Arena irgendwie eine\f",
+        "persönliche Note geben..."
+      ]
+    },
+    {
+      "id": "msg_0654_00014",
+      "de_DE": [
+        "Neulich kam Herr Baoba von der\n",
+        "Safari-Zone in meine Arena, um Guten\f",
+        "Tag zu sagen...\r",
+        "Er hat schon eine seltsame Art zu\n",
+        "sprechen...\r",
+        "Er macht oft Sprachdreher!"
+      ]
+    }
+  ]
+}

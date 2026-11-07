@@ -1,0 +1,19 @@
+{
+  "key": 18260,
+  "messages": [
+    {
+      "id": "msg_0359_00000",
+      "de_DE": [
+        "Der Spielstand ist beschädigt. Der\n",
+        "vorherige Spielstand wird geladen."
+      ]
+    },
+    {
+      "id": "msg_0359_00001",
+      "de_DE": [
+        "Der Spielstand wurde gelöscht,\n",
+        "da die Daten beschädigt waren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "key": 50191,
+  "messages": [
+    {
+      "id": "msg_0619_00000",
+      "de_DE": [
+        "Oh, suchst du mit deinem Pokémon-Team\n",
+        "nach dem großen Abenteuer?\r",
+        "Tja, aber zu einem echten Abenteuer\n",
+        "gehört auch immer eine Schatzsuche!\r",
+        "Habe ich nicht recht? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0619_00001",
+      "de_DE": [
+        "Aha! Du weißt offensichtlich ganz genau,\n",
+        "was Männerherzen höher schlagen lässt!\r",
+        "Du gefällst mir! Hier, nimm das mit."
+      ]
+    },
+    {
+      "id": "msg_0619_00002",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0619_00003",
+      "de_DE": [
+        "Überall um dich herum gibt es Items, die\n",
+        "du nicht mit bloßem Auge sehen kannst.\r",
+        "Wenn du den Finger immer auf deinem\n",
+        "Itemradar behältst und hörst, dass das\f",
+        "Signalgeräusch lauter wird, ist das für\f",
+        "gewöhnlich ein gutes Zeichen dafür,\f",
+        "dass irgendwo in der Nähe ein Item\f",
+        "versteckt sein muss.\r",
+        "Am ehesten wirst du fündig, wenn du\n",
+        "das Itemradar beim Laufen bedienst!\r",
+        "Oh, und nebenbei: Gerüchten zufolge\n",
+        "soll es in der Turmruine von Teak City\f",
+        "einen versteckten Schatz geben!"
+      ]
+    },
+    {
+      "id": "msg_0619_00004",
+      "de_DE": "...Na gut, wenn du meinst!"
+    },
+    {
+      "id": "msg_0619_00005",
+      "de_DE": [
+        "Die Geschichte von Teak City...\r",
+        "Lesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0619_00006",
+      "de_DE": [
+        "In Teak City gab es einmal zwei Türme.\n",
+        "Jeder der beiden diente einem von zwei\f",
+        "fliegenden Pokémon als Landestelle.\r",
+        "Doch dann brannte einer dieser Türme\n",
+        "ab, und auch die Pokémon verschwanden.\f",
+        "So steht es geschrieben.\r",
+        "Weiterlesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0619_00007",
+      "de_DE": [
+        "Drei weitere Pokémon streiften damals\n",
+        "durch die nähere Umgebung der Stadt.\r",
+        "Die Leute aus Teak City bezeichneten\n",
+        "sie als Reinkarnationen der Typen\f",
+        "Blitz, Feuer und Wasser.\r",
+        "Doch keines von ihnen konnte die\n",
+        "überwältigende Macht, die ihnen\f",
+        "innewohnte, bändigen.\r",
+        "Irgendwann verschwanden sie eins\n",
+        "nach dem anderen im hohen Gras,\f",
+        "und der Wind trug jedes von ihnen\f",
+        "in eine andere Richtung.\r",
+        "So steht es geschrieben."
+      ]
+    }
+  ]
+}

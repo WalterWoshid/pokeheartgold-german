@@ -1,0 +1,518 @@
+{
+  "key": 705,
+  "messages": [
+    {
+      "id": "msg_0007_00000",
+      "de_DE": "EINSETZ."
+    },
+    {
+      "id": "msg_0007_00001",
+      "de_DE": "MÜLL"
+    },
+    {
+      "id": "msg_0007_00002",
+      "de_DE": "REGISTR."
+    },
+    {
+      "id": "msg_0007_00003",
+      "de_DE": "GEBEN"
+    },
+    {
+      "id": "msg_0007_00004",
+      "de_DE": "PRÜFEN"
+    },
+    {
+      "id": "msg_0007_00005",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0007_00006",
+      "de_DE": "LAUFEN"
+    },
+    {
+      "id": "msg_0007_00007",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0007_00008",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0007_00009",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0007_00010",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0007_00011",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0007_00012",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0007_00013",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0007_00014",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0007_00015",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0007_00016",
+      "de_DE": "PRÜFEN"
+    },
+    {
+      "id": "msg_0007_00017",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0007_00018",
+      "de_DE": "AUFHEBEN"
+    },
+    {
+      "id": "msg_0007_00019",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0007_00020",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0007_00021",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0007_00022",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0007_00023",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0007_00024",
+      "de_DE": "---"
+    },
+    {
+      "id": "msg_0007_00025",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0007_00026",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0007_00027",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0007_00028",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0007_00029",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0007_00030",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00031",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0007_00032",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00033",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0007_00034",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0007_00035",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0007_00036",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0007_00037",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0007_00038",
+      "de_DE": "x"
+    },
+    {
+      "id": "msg_0007_00039",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0007_00040",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0007_00041",
+      "de_DE": "BEENDEN"
+    },
+    {
+      "id": "msg_0007_00042",
+      "de_DE": [
+        "{STRVAR_1 8, 0}\n",
+        "wurde ausgewählt."
+      ]
+    },
+    {
+      "id": "msg_0007_00043",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0007_00044",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0007_00045",
+      "de_DE": [
+        "Gegen welches Item\n",
+        "austauschen?"
+      ]
+    },
+    {
+      "id": "msg_0007_00046",
+      "de_DE": "{STRVAR_1 8, 0} ist nicht zu geben."
+    },
+    {
+      "id": "msg_0007_00047",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0007_00048",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0007_00049",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0007_00050",
+      "garbage": 31
+    },
+    {
+      "id": "msg_0007_00051",
+      "garbage": 38
+    },
+    {
+      "id": "msg_0007_00052",
+      "de_DE": [
+        "{STRVAR_1 8, 0}:\n",
+        "Wie viele in den Müll?"
+      ]
+    },
+    {
+      "id": "msg_0007_00053",
+      "de_DE": [
+        "{STRVAR_1 51, 1} {STRVAR_1 8, 0}\n",
+        "weggeworfen."
+      ]
+    },
+    {
+      "id": "msg_0007_00054",
+      "de_DE": [
+        "Willst du wirklich\n",
+        "{STRVAR_1 52, 1} {STRVAR_1 8, 0} wegwerfen?"
+      ]
+    },
+    {
+      "id": "msg_0007_00055",
+      "garbage": 62
+    },
+    {
+      "id": "msg_0007_00056",
+      "de_DE": "Du kannst hier nicht vom Rad steigen."
+    },
+    {
+      "id": "msg_0007_00057",
+      "de_DE": "Deine Münzen: {STRVAR_1 54, 0}"
+    },
+    {
+      "id": "msg_0007_00058",
+      "de_DE": "Eine TM wurde aktiviert.{WAIT 3}{WAIT 4}"
+    },
+    {
+      "id": "msg_0007_00059",
+      "de_DE": "Eine VM wurde aktiviert.{WAIT 3}{WAIT 4}"
+    },
+    {
+      "id": "msg_0007_00060",
+      "de_DE": [
+        "Sie enthält\n",
+        "{STRVAR_1 6, 0}.\r",
+        "{STRVAR_1 6, 0} einem\n",
+        "Pokémon beibringen?"
+      ]
+    },
+    {
+      "id": "msg_0007_00061",
+      "de_DE": [
+        "{STRVAR_1 3, 0} setzt\n",
+        "{STRVAR_1 8, 1} ein."
+      ]
+    },
+    {
+      "id": "msg_0007_00062",
+      "de_DE": [
+        "Aber Schutz wirkt doch\n",
+        "noch!"
+      ]
+    },
+    {
+      "id": "msg_0007_00063",
+      "de_DE": [
+        "{STRVAR_1 3, 0} setzt\n",
+        "{STRVAR_1 8, 1} ein.\r",
+        "Wilde Pokémon werden angezogen."
+      ]
+    },
+    {
+      "id": "msg_0007_00064",
+      "de_DE": [
+        "{STRVAR_1 3, 0} setzt\n",
+        "{STRVAR_1 8, 1} ein.\r",
+        "Wilde Pokémon werden abgehalten."
+      ]
+    },
+    {
+      "id": "msg_0007_00065",
+      "de_DE": "Die Boxen sind voll."
+    },
+    {
+      "id": "msg_0007_00066",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0007_00067",
+      "de_DE": "Nr. {STRVAR_1 51, 0}{STRVAR_1 6, 1}"
+    },
+    {
+      "id": "msg_0007_00068",
+      "de_DE": "Nr. {STRVAR_1 51, 0}{STRVAR_1 6, 1}"
+    },
+    {
+      "id": "msg_0007_00069",
+      "de_DE": "{STRVAR_1 51, 0}{STRVAR_1 6, 1}"
+    },
+    {
+      "id": "msg_0007_00070",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0007_00071",
+      "garbage": 48
+    },
+    {
+      "id": "msg_0007_00072",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0007_00073",
+      "garbage": 41
+    },
+    {
+      "id": "msg_0007_00074",
+      "de_DE": [
+        "{STRVAR_1 8, 0}? Es tut mir leid, aber\n",
+        "das kann ich nicht kaufen."
+      ]
+    },
+    {
+      "id": "msg_0007_00075",
+      "de_DE": [
+        "{STRVAR_1 8, 0}?\n",
+        "Wie viele möchtest du verkaufen?"
+      ]
+    },
+    {
+      "id": "msg_0007_00076",
+      "de_DE": [
+        "Ich gebe dir {STRVAR_1 55, 0} $.\n",
+        "Bist du damit einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0007_00077",
+      "de_DE": [
+        "{STRVAR_1 8, 0} wurde(n) im Tausch\n",
+        "gegen {STRVAR_1 55, 1} $ übergeben."
+      ]
+    },
+    {
+      "id": "msg_0007_00078",
+      "de_DE": "GELD"
+    },
+    {
+      "id": "msg_0007_00079",
+      "de_DE": "{STRVAR_1 55, 0} $"
+    },
+    {
+      "id": "msg_0007_00080",
+      "de_DE": "x{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0007_00081",
+      "de_DE": "{STRVAR_1 55, 0} $"
+    },
+    {
+      "id": "msg_0007_00082",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0007_00083",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0007_00084",
+      "de_DE": "x{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0007_00085",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00086",
+      "de_DE": "AP"
+    },
+    {
+      "id": "msg_0007_00087",
+      "de_DE": "STÄRKE"
+    },
+    {
+      "id": "msg_0007_00088",
+      "de_DE": "GENAU."
+    },
+    {
+      "id": "msg_0007_00089",
+      "de_DE": "KATEGORIE"
+    },
+    {
+      "id": "msg_0007_00090",
+      "de_DE": "{STRVAR_1 51, 0}"
+    },
+    {
+      "id": "msg_0007_00091",
+      "de_DE": "{STRVAR_1 52, 0}"
+    },
+    {
+      "id": "msg_0007_00092",
+      "de_DE": "Sticker: {STRVAR_1 53, 0}"
+    },
+    {
+      "id": "msg_0007_00093",
+      "de_DE": [
+        "Accessoires: {STRVAR_1 52, 0}\n",
+        "Hintergründe: {STRVAR_1 51, 1}"
+      ]
+    },
+    {
+      "id": "msg_0007_00094",
+      "de_DE": "Beutel schließen."
+    },
+    {
+      "id": "msg_0007_00095",
+      "de_DE": "PFLANZEN"
+    },
+    {
+      "id": "msg_0007_00096",
+      "de_DE": "ÖFFNEN"
+    },
+    {
+      "id": "msg_0007_00097",
+      "de_DE": [
+        "Gewinnpunkte:\n",
+        "{STRVAR_1 53, 0} GP"
+      ]
+    },
+    {
+      "id": "msg_0007_00098",
+      "de_DE": "TYP"
+    },
+    {
+      "id": "msg_0007_00099",
+      "de_DE": [
+        "Lege ein Basis-Item auf diesen Knopf, um\n",
+        "es ohne Umwege verwenden zu können."
+      ]
+    },
+    {
+      "id": "msg_0007_00100",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00101",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00102",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00103",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00104",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00105",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0007_00106",
+      "de_DE": [
+        "Die Batterie ist leer!\n",
+        "Um sie aufzuladen, musst du\f",
+        "noch {STRVAR_1 51, 0} Schritt(e) laufen."
+      ]
+    },
+    {
+      "id": "msg_0007_00107",
+      "de_DE": "Im Gras ist alles ruhig..."
+    },
+    {
+      "id": "msg_0007_00108",
+      "de_DE": "Restl. Knurspe:"
+    },
+    {
+      "id": "msg_0007_00109",
+      "de_DE": "{STRVAR_1 52, 0}/100"
+    },
+    {
+      "id": "msg_0007_00110",
+      "de_DE": [
+        "Bitte wähle die Beere, die du\n",
+        "verwenden möchtest, aus deinem Beutel."
+      ]
+    },
+    {
+      "id": "msg_0007_00111",
+      "de_DE": [
+        "Das kannst du nicht verwenden, wenn\n",
+        "dich jemand begleitet."
+      ]
+    }
+  ]
+}

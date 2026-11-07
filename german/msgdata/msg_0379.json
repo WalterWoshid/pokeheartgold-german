@@ -1,0 +1,66 @@
+{
+  "key": 58470,
+  "messages": [
+    {
+      "id": "msg_0379_00000",
+      "de_DE": [
+        "Oh, ein reisender Trainer! Hast du\n",
+        "schon dein Glück in der Arena versucht?"
+      ]
+    },
+    {
+      "id": "msg_0379_00001",
+      "garbage": 93
+    },
+    {
+      "id": "msg_0379_00002",
+      "de_DE": [
+        "Lyra: Oh, {STRVAR_1 3, 0, 0}!\r",
+        "Du bist echt schnell! Du hast\n",
+        "mich in Windeseile überholt.\r",
+        "In Ordnung, {STRVAR_1 3, 0, 0}, dafür\n",
+        "bekommst du jetzt was von mir!\f",
+        "Hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0379_00003",
+      "de_DE": [
+        "Klarin: Oh, {STRVAR_1 3, 0, 0}!\r",
+        "Du bist echt spitze! Du hast\n",
+        "mich in Windeseile überholt.\r",
+        "In Ordnung, {STRVAR_1 3, 0, 0}, dafür\n",
+        "bekommst du jetzt was von mir!\f",
+        "Hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0379_00004",
+      "de_DE": [
+        "Diese Kampfkamera ermöglicht es dir,\n",
+        "den Verlauf von Pokémon-Kämpfen\f",
+        "zu dokumentieren.\r",
+        "So, ich gehe schon mal weiter!\n",
+        "Noch mal überholst du mich nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0379_00005",
+      "de_DE": [
+        "Diese Kampfkamera ermöglicht es dir,\n",
+        "den Verlauf von Pokémon-Kämpfen\f",
+        "zu dokumentieren.\r",
+        "So, ich gehe schon mal weiter!\n",
+        "Noch mal überholst du mich nicht!\r"
+      ]
+    },
+    {
+      "id": "msg_0379_00006",
+      "de_DE": "Auf geht’s, MARILL!\r"
+    },
+    {
+      "id": "msg_0379_00007",
+      "de_DE": "Komm zu mir, MARILL!\r"
+    }
+  ]
+}

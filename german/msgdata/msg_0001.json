@@ -1,0 +1,299 @@
+{
+  "key": 37184,
+  "messages": [
+    {
+      "id": "msg_0001_00000",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0001_00001",
+      "de_DE": "{ALN_CENTER}Icognitoheft"
+    },
+    {
+      "id": "msg_0001_00002",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0001_00003",
+      "de_DE": "{ALN_CENTER}Anzahl der ICOGNITO"
+    },
+    {
+      "id": "msg_0001_00004",
+      "de_DE": "{ALN_CENTER}Zurzeit verschiedene: {STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0001_00005",
+      "de_DE": "{ALN_CENTER}{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}"
+    },
+    {
+      "id": "msg_0001_00006",
+      "de_DE": [
+        "Habe in den Ruinen ein seltsames\n",
+        "Puzzle aus Steintafeln gefunden.\n",
+        "Als ich es gelöst hatte, hat sich\n",
+        "plötzlich ein Loch im Boden auf-\n",
+        "getan und ich fiel hinab in ein\n",
+        "Gewölbe! In diesen uralten Ruinen\n",
+        "scheinen so einige wunderliche\n",
+        "Mechanismen versteckt zu sein!"
+      ]
+    },
+    {
+      "id": "msg_0001_00007",
+      "de_DE": [
+        "Nach der Landung fand ich mich\n",
+        "in einem mit Statuen angefüllten\n",
+        "Raum wieder. Plötzlich sind von\n",
+        "überall her ICOGNITO erschienen.\n",
+        "Das Puzzle scheint die ICOGNITO\n",
+        "aus ihrem Schlummer erweckt zu\n",
+        "haben. Diese Ruinen haben es\n",
+        "offenbar ganz schön in sich!"
+      ]
+    },
+    {
+      "id": "msg_0001_00008",
+      "de_DE": [
+        "Wenn man in den Ruinen sein Radio\n",
+        "einschaltet, empfängt man\n",
+        "mysteriöse Wellen. Dies ist der\n",
+        "Beweis dafür, dass die ICOGNITO\n",
+        "über elektrische Wellen\n",
+        "miteinander kommunizieren."
+      ]
+    },
+    {
+      "id": "msg_0001_00009",
+      "de_DE": [
+        "Die Anzahl der ICOGNITO deckt\n",
+        "sich genau mit der Zahl der\n",
+        "Schriftzeichen. Zurzeit sind\n",
+        "26 verschiedene Buchstaben\n",
+        "bekannt. Das bedeutet, dass\n",
+        "auch 26 verschiedene Arten von\n",
+        "ICOGNITO existieren.\n",
+        "Kann ich sie alle finden?"
+      ]
+    },
+    {
+      "id": "msg_0001_00010",
+      "de_DE": [
+        "Ich weiß nun, dass die ICOGNITO\n",
+        "nicht wie zuvor angenommen\n",
+        "willkürlich auftreten, sondern\n",
+        "dass es unter ihnen eine Reihen-\n",
+        "folge gibt. Die Natur erscheint\n",
+        "zuerst stets chaotisch, aber bei\n",
+        "genauerem Hinsehen hat alles\n",
+        "einen Sinn und einen Zweck."
+      ]
+    },
+    {
+      "id": "msg_0001_00011",
+      "de_DE": [
+        "Die Wissenschaftler des Labors\n",
+        "haben die ICOGNITO, die\n",
+        "zuvor kreuz und quer in meinem\n",
+        "Heft verzeichnet waren, in die\n",
+        "richtige Reihenfolge gebracht.\n",
+        "Nun sollte es mir leichter fallen,\n",
+        "mehr über die ICOGNITO zu\n",
+        "erfahren."
+      ]
+    },
+    {
+      "id": "msg_0001_00012",
+      "de_DE": [
+        "Ich habe einen Raum mit Schrift-\n",
+        "zeichen auf dem Boden aufgetan.\n",
+        "Anscheinend kam das einer großen\n",
+        "Entdeckung gleich. Die\n",
+        "Ruinenforscher sind völlig aus dem\n",
+        "Häuschen und kommen sofort\n",
+        "herbeigeeilt, um die Sache genauer\n",
+        "unter die Lupe zu nehmen."
+      ]
+    },
+    {
+      "id": "msg_0001_00013",
+      "de_DE": [
+        "Es gibt doch nicht bloß 26\n",
+        "ICOGNITO. Die Forscher haben\n",
+        "zwei weitere Schriftzeichen\n",
+        "entdeckt - also müssen sich\n",
+        "irgendwo auch noch zwei\n",
+        "weitere ICOGNITO finden\n",
+        "lassen!"
+      ]
+    },
+    {
+      "id": "msg_0001_00014",
+      "de_DE": [
+        "{CURSOR_Y 24}Du überträgst die Aufschrift\n",
+        "auf der Steintafel in dem kleinen\n",
+        "Raum in dein Icognitoheft."
+      ]
+    },
+    {
+      "id": "msg_0001_00015",
+      "de_DE": [
+        "{CURSOR_Y 72}FREUNDE! SEHT ZU\n",
+        "UNS AUF UND ETWAS\n",
+        "GUTES GESCHIEHT!"
+      ]
+    },
+    {
+      "id": "msg_0001_00016",
+      "de_DE": [
+        "{CURSOR_Y 120}Leider hast du keinen Schimmer,\n",
+        "was das bedeuten soll."
+      ]
+    },
+    {
+      "id": "msg_0001_00017",
+      "de_DE": [
+        "Hat das Team des Forschungs-\n",
+        "labors nicht erwähnt, dass es\n",
+        "sich die Ruinen noch einmal\n",
+        "genauer vornehmen will?"
+      ]
+    },
+    {
+      "id": "msg_0001_00018",
+      "de_DE": [
+        "Anscheinend lebte in diesen Ruinen\n",
+        "vor vielen Jahren ein Stamm von\n",
+        "Menschen gemeinsam mit den\n",
+        "ICOGNITO. Du weißt nun, dass\n",
+        "die alten Statuen in den Gewölben\n",
+        "der Ruinen von diesem Stamm\n",
+        "gefertigt wurden."
+      ]
+    },
+    {
+      "id": "msg_0001_00019",
+      "de_DE": [
+        "Da die ICOGNITO sehr scheue\n",
+        "Kreaturen sind, verließen sie\n",
+        "die Ruinen niemals. Als es\n",
+        "schließlich immer mehr Menschen\n",
+        "in ihre Nähe zog, verließ der\n",
+        "Stamm, der sich um das Zusammen-\n",
+        "leben mit den ICOGNITO bemüht\n",
+        "hatte, diesen Ort."
+      ]
+    },
+    {
+      "id": "msg_0001_00020",
+      "de_DE": "ANGER"
+    },
+    {
+      "id": "msg_0001_00021",
+      "de_DE": "BEAR"
+    },
+    {
+      "id": "msg_0001_00022",
+      "de_DE": "CHASE"
+    },
+    {
+      "id": "msg_0001_00023",
+      "de_DE": "DIRECT"
+    },
+    {
+      "id": "msg_0001_00024",
+      "de_DE": "ENGAGE"
+    },
+    {
+      "id": "msg_0001_00025",
+      "de_DE": "FIND"
+    },
+    {
+      "id": "msg_0001_00026",
+      "de_DE": "GIVE"
+    },
+    {
+      "id": "msg_0001_00027",
+      "de_DE": "HELP"
+    },
+    {
+      "id": "msg_0001_00028",
+      "de_DE": "INCREASE"
+    },
+    {
+      "id": "msg_0001_00029",
+      "de_DE": "JOIN"
+    },
+    {
+      "id": "msg_0001_00030",
+      "de_DE": "KEEP"
+    },
+    {
+      "id": "msg_0001_00031",
+      "de_DE": "LAUGH"
+    },
+    {
+      "id": "msg_0001_00032",
+      "de_DE": "MAKE"
+    },
+    {
+      "id": "msg_0001_00033",
+      "de_DE": "NUZZLE"
+    },
+    {
+      "id": "msg_0001_00034",
+      "de_DE": "OBSERVE"
+    },
+    {
+      "id": "msg_0001_00035",
+      "de_DE": "PERFORM"
+    },
+    {
+      "id": "msg_0001_00036",
+      "de_DE": "QUICKEN"
+    },
+    {
+      "id": "msg_0001_00037",
+      "de_DE": "REASSURE"
+    },
+    {
+      "id": "msg_0001_00038",
+      "de_DE": "SEARCH"
+    },
+    {
+      "id": "msg_0001_00039",
+      "de_DE": "TELL"
+    },
+    {
+      "id": "msg_0001_00040",
+      "de_DE": "UNDO"
+    },
+    {
+      "id": "msg_0001_00041",
+      "de_DE": "VANISH"
+    },
+    {
+      "id": "msg_0001_00042",
+      "de_DE": "WANT"
+    },
+    {
+      "id": "msg_0001_00043",
+      "de_DE": "XXXXX"
+    },
+    {
+      "id": "msg_0001_00044",
+      "de_DE": "YIELD"
+    },
+    {
+      "id": "msg_0001_00045",
+      "de_DE": "ZOOM"
+    },
+    {
+      "id": "msg_0001_00046",
+      "de_DE": "!!!!!"
+    },
+    {
+      "id": "msg_0001_00047",
+      "de_DE": "?????"
+    }
+  ]
+}

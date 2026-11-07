@@ -1,0 +1,1369 @@
+{
+  "key": 34812,
+  "messages": [
+    {
+      "id": "msg_0576_00000",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0576_00001",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0576_00002",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0576_00003",
+      "garbage": 5
+    },
+    {
+      "id": "msg_0576_00004",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0576_00005",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0576_00006",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0576_00007",
+      "de_DE": [
+        "{STRVAR_1 28, 2}{PAUSE 15}\r",
+        "{STRVAR_1 3, 0} fragt nach dir."
+      ]
+    },
+    {
+      "id": "msg_0576_00008",
+      "de_DE": "Verbindung wurde abgebrochen."
+    },
+    {
+      "id": "msg_0576_00009",
+      "de_DE": [
+        "Antwort von {STRVAR_1 3, 0} wird\n",
+        "erwartet..."
+      ]
+    },
+    {
+      "id": "msg_0576_00010",
+      "de_DE": "Verbindung wurde beendet."
+    },
+    {
+      "id": "msg_0576_00011",
+      "de_DE": [
+        "Du erhältst ein Angebot, den Trainer-\n",
+        "koffer von {STRVAR_1 3, 0} zu sehen.\r",
+        "Möchtest du auch deinen Trainerkoffer\n",
+        "zeigen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00012",
+      "de_DE": [
+        "Das ist der Trainerkoffer von\n",
+        "{STRVAR_1 3, 0}, wohnhaft in\r",
+        "{STRVAR_1 37, 4},\n",
+        "{STRVAR_1 36, 3}."
+      ]
+    },
+    {
+      "id": "msg_0576_00013",
+      "de_DE": [
+        "Das ist der Trainerkoffer von\n",
+        "{STRVAR_1 3, 0}, wohnhaft in\r",
+        "{STRVAR_1 36, 3}."
+      ]
+    },
+    {
+      "id": "msg_0576_00014",
+      "de_DE": [
+        "Das ist der Trainerkoffer von\n",
+        "{STRVAR_1 3, 0}, wohnhaft in\r",
+        "{STRVAR_1 37, 4}."
+      ]
+    },
+    {
+      "id": "msg_0576_00015",
+      "de_DE": [
+        "Das ist der Trainerkoffer von\n",
+        "{STRVAR_1 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0576_00016",
+      "de_DE": "Warte auf den anderen Spieler."
+    },
+    {
+      "id": "msg_0576_00017",
+      "de_DE": "Du lehnst das Angebot ab."
+    },
+    {
+      "id": "msg_0576_00018",
+      "de_DE": [
+        "{STRVAR_1 3, 0} lädt dich zum Zeichnen ein.\n",
+        "Möchtest du mit diesem Spieler zeichnen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00019",
+      "de_DE": "Viel Spaß beim Zeichnen!"
+    },
+    {
+      "id": "msg_0576_00020",
+      "de_DE": "Du lehnst die Einladung ab."
+    },
+    {
+      "id": "msg_0576_00021",
+      "de_DE": [
+        "{STRVAR_1 3, 0} fordert dich zum Kampf\n",
+        "heraus.\r",
+        "Nimmst du die Herausforderung an?"
+      ]
+    },
+    {
+      "id": "msg_0576_00022",
+      "de_DE": "Der Kampf beginnt."
+    },
+    {
+      "id": "msg_0576_00023",
+      "de_DE": "Du lehnst das Angebot ab."
+    },
+    {
+      "id": "msg_0576_00024",
+      "de_DE": [
+        "Für einen Kampf benötigst du\n",
+        "zwei Pokémon, deren Level\f",
+        "höchstens 30 ist."
+      ]
+    },
+    {
+      "id": "msg_0576_00025",
+      "de_DE": "Der Kampf wurde abgebrochen."
+    },
+    {
+      "id": "msg_0576_00026",
+      "de_DE": [
+        "{STRVAR_1 3, 0} bietet dir einen\n",
+        "Tausch an.\r",
+        "Nimmst du das Angebot an?"
+      ]
+    },
+    {
+      "id": "msg_0576_00027",
+      "de_DE": "Der Tausch beginnt."
+    },
+    {
+      "id": "msg_0576_00028",
+      "de_DE": "Du lehnst das Angebot ab."
+    },
+    {
+      "id": "msg_0576_00029",
+      "de_DE": [
+        "Zum Tauschen benötigst du mindestens\n",
+        "zwei Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0576_00030",
+      "de_DE": [
+        "{STRVAR_1 3, 0} bietet dir einen\n",
+        "Statistiktausch an.\r",
+        "Möchtest du mit diesem Spieler\n",
+        "Statistiken tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00031",
+      "de_DE": "Statistiken werden getauscht."
+    },
+    {
+      "id": "msg_0576_00032",
+      "de_DE": "Du lehnst das Angebot ab."
+    },
+    {
+      "id": "msg_0576_00033",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00034",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00035",
+      "de_DE": "Du lehnst das Angebot ab."
+    },
+    {
+      "id": "msg_0576_00036",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00037",
+      "de_DE": [
+        "{STRVAR_1 28, 2}{PAUSE 15}\r",
+        "Hier ist {STRVAR_1 3, 0}!\n",
+        "Was würdest du gerne machen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00038",
+      "de_DE": [
+        "Oh! Entschuldige, aber ich\n",
+        "muss noch etwas erledigen.\f",
+        "Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00039",
+      "de_DE": "Möchtest du noch etwas tun?"
+    },
+    {
+      "id": "msg_0576_00040",
+      "de_DE": [
+        "...\n",
+        "Der Trainer scheint beschäftigt zu sein."
+      ]
+    },
+    {
+      "id": "msg_0576_00041",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00042",
+      "de_DE": [
+        "Gerne! Zum “Gruß” zeige\n",
+        "ich dir meinen Trainerkoffer."
+      ]
+    },
+    {
+      "id": "msg_0576_00043",
+      "de_DE": [
+        "Häh? Mein Trainerkoffer...\n",
+        "Wo ist er denn?\r",
+        "Sorry, ich zeige ihn dir später!"
+      ]
+    },
+    {
+      "id": "msg_0576_00044",
+      "de_DE": [
+        "Ich zeige zur Begrüßung meinen\n",
+        "Trainerkoffer."
+      ]
+    },
+    {
+      "id": "msg_0576_00045",
+      "de_DE": [
+        "Ich hoffe, ich lerne dich\n",
+        "besser kennen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00046",
+      "de_DE": [
+        "Oh, möchtest du mit mir zeichnen?\n",
+        "Gerne. Einen Augenblick noch."
+      ]
+    },
+    {
+      "id": "msg_0576_00047",
+      "de_DE": [
+        "Danke, dass du gewartet hast.\n",
+        "Lass uns zeichnen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00048",
+      "de_DE": [
+        "Es tut mir leid, aber ich kann jetzt\n",
+        "nicht. Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00049",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Wir zeichnen gerade.\r",
+        "Ach so! {STRVAR_1 3, 1}, möchtest du mit\n",
+        "uns zusammen zeichnen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00050",
+      "de_DE": [
+        "Oh, in Ordnung!\n",
+        "Gib mir einfach Bescheid, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00051",
+      "de_DE": "Ja. Lass uns gemeinsam zeichnen!"
+    },
+    {
+      "id": "msg_0576_00052",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00053",
+      "de_DE": [
+        "Der letzte Buchstabe deiner Zeichnung\n",
+        "muss der erste Buchstabe meiner\f",
+        "Zeichnung sein?"
+      ]
+    },
+    {
+      "id": "msg_0576_00054",
+      "de_DE": [
+        "Du malst so lustige Gesichter.\n",
+        "Mir tut schon alles weh vor Lachen."
+      ]
+    },
+    {
+      "id": "msg_0576_00055",
+      "de_DE": [
+        "Wow, bist du gut. Mal sehen, ob ich dich\n",
+        "imitieren kann."
+      ]
+    },
+    {
+      "id": "msg_0576_00056",
+      "de_DE": [
+        "Äh... Was ist das denn?\n",
+        "Ach, das soll ICH sein?"
+      ]
+    },
+    {
+      "id": "msg_0576_00057",
+      "de_DE": [
+        "Ein Kampf? Moment,\n",
+        "ich brauche noch etwas Zeit."
+      ]
+    },
+    {
+      "id": "msg_0576_00058",
+      "de_DE": [
+        "Danke, dass du gewartet hast!\n",
+        "Lass uns beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00059",
+      "de_DE": [
+        "Entschuldige, aber meine Pokémon\n",
+        "fühlen sich momentan nicht wohl.\f",
+        "Lass uns ein andermal kämpfen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00060",
+      "de_DE": [
+        "Für einen Kampf benötigst du\n",
+        "zwei Pokémon, deren Level\f",
+        "höchstens 30 ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00061",
+      "de_DE": [
+        "Wow!\n",
+        "Du bist aber stark!"
+      ]
+    },
+    {
+      "id": "msg_0576_00062",
+      "de_DE": [
+        "Du hast diese Attacke eingesetzt?\n",
+        "Das ist eine gute Strategie!"
+      ]
+    },
+    {
+      "id": "msg_0576_00063",
+      "de_DE": [
+        "Auf!\n",
+        "Das war nur das Vorspiel!"
+      ]
+    },
+    {
+      "id": "msg_0576_00064",
+      "de_DE": [
+        "Oh! Wie konntest du nur dieses\n",
+        "PKMN in dieser Situation einsetzen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00065",
+      "de_DE": [
+        "Du willst tauschen? Gerne.\n",
+        "Gib mir einen Augenblick Zeit."
+      ]
+    },
+    {
+      "id": "msg_0576_00066",
+      "de_DE": "Okay. Dann lass uns tauschen!"
+    },
+    {
+      "id": "msg_0576_00067",
+      "de_DE": [
+        "Tut mir leid. Ich habe gerade kein\n",
+        "Pokémon, das ich tauschen könnte.\r",
+        "Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00068",
+      "de_DE": [
+        "YO! Dieses Pokémon\n",
+        "wollte ich schon immer haben!"
+      ]
+    },
+    {
+      "id": "msg_0576_00069",
+      "de_DE": [
+        "Endlich konnte ich in einem Tausch mein\n",
+        "langersehntes Pokémon bekommen."
+      ]
+    },
+    {
+      "id": "msg_0576_00070",
+      "de_DE": [
+        "Du kannst nicht tauschen, wenn\n",
+        "du nur ein Pokémon bei dir hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00071",
+      "de_DE": [
+        "Melde dich bei mir, wenn du\n",
+        "etwas von mir willst!"
+      ]
+    },
+    {
+      "id": "msg_0576_00072",
+      "de_DE": [
+        "Du willst Statistiken mit mir tauschen?\n",
+        "Okay. Augenblick."
+      ]
+    },
+    {
+      "id": "msg_0576_00073",
+      "de_DE": [
+        "Danke, dass du gewartet hast. Lass uns\n",
+        "unsere Statistiken tauschen."
+      ]
+    },
+    {
+      "id": "msg_0576_00074",
+      "de_DE": [
+        "Es tut mir leid, aber ich habe im Moment\n",
+        "zu viel zu tun. Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00075",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Wir tauschen gerade\n",
+        "unsere Statistiken.\r",
+        "Oh! {STRVAR_1 3, 1}, willst du mitmachen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00076",
+      "de_DE": [
+        "Oh, in Ordnung!\n",
+        "Gib mir einfach Bescheid, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00077",
+      "de_DE": [
+        "Okay. Dann tauschen wir unsere\n",
+        "Statistiken!"
+      ]
+    },
+    {
+      "id": "msg_0576_00078",
+      "de_DE": [
+        "Es tut mir leid. Ich kann im Moment\n",
+        "leider nicht. Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00079",
+      "de_DE": "Statistiktausch ist schön."
+    },
+    {
+      "id": "msg_0576_00080",
+      "de_DE": [
+        "Ich will meine Statistiken mit allen\n",
+        "meinen Freunden tauschen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00081",
+      "de_DE": [
+        "Tauschen. Es geht nichts übers\n",
+        "Tauschen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00082",
+      "de_DE": "Du solltest auch Statistiken tauschen!"
+    },
+    {
+      "id": "msg_0576_00083",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00084",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00085",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00086",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00087",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00088",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00089",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00090",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00091",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00092",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00093",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00094",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00095",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00096",
+      "de_DE": [
+        "{STRVAR_1 28, 2}{PAUSE 15}\r",
+        "Hallo. Hier ist {STRVAR_1 3, 0}!\n",
+        "Möchtest du etwas Bestimmtes?"
+      ]
+    },
+    {
+      "id": "msg_0576_00097",
+      "de_DE": [
+        "Hups! Tut mir leid, aber ich habe noch\n",
+        "etwas anderes zu tun.\f",
+        "Das nächste Mal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00098",
+      "de_DE": "Willst du etwas anderes tun?"
+    },
+    {
+      "id": "msg_0576_00099",
+      "de_DE": "Der Trainer scheint beschäftigt zu sein."
+    },
+    {
+      "id": "msg_0576_00100",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00101",
+      "de_DE": [
+        "Um mich vorzustellen, zeige ich dir\n",
+        "meinen Trainerkoffer."
+      ]
+    },
+    {
+      "id": "msg_0576_00102",
+      "de_DE": [
+        "Oh? Wo habe ich nur meinen\n",
+        "Trainerkoffer?!?\r",
+        "Sorry, ich zeige ihn dir später!"
+      ]
+    },
+    {
+      "id": "msg_0576_00103",
+      "de_DE": [
+        "Wir zeigen uns die Trainerkoffer,\n",
+        "um uns bekannt zu machen."
+      ]
+    },
+    {
+      "id": "msg_0576_00104",
+      "de_DE": [
+        "Angenehm!\n",
+        "Du bist mir nicht mehr fremd!"
+      ]
+    },
+    {
+      "id": "msg_0576_00105",
+      "de_DE": [
+        "Du willst mit mir zeichnen?\n",
+        "Sicher. Einen Augenblick..."
+      ]
+    },
+    {
+      "id": "msg_0576_00106",
+      "de_DE": [
+        "Tut mir leid, dass du warten musstest.\n",
+        "Auf geht’s!"
+      ]
+    },
+    {
+      "id": "msg_0576_00107",
+      "de_DE": [
+        "Tut mir leid, aber ich kann gerade nicht.\n",
+        "Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00108",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Wir zeichnen gerade.\r",
+        "Oh. Natürlich! {STRVAR_1 3, 1}, möchtest\n",
+        "du mit uns zeichnen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00109",
+      "de_DE": [
+        "Oh...\n",
+        "Bitte komme jederzeit vorbei."
+      ]
+    },
+    {
+      "id": "msg_0576_00110",
+      "de_DE": [
+        "Danke, dass du gewartet hast.\n",
+        "Lass uns zeichnen."
+      ]
+    },
+    {
+      "id": "msg_0576_00111",
+      "de_DE": [
+        "Tut mir leid, aber ich kann gerade nicht\n",
+        "zeichnen. Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00112",
+      "de_DE": [
+        "Wow!\n",
+        "Du bist echt gut!"
+      ]
+    },
+    {
+      "id": "msg_0576_00113",
+      "de_DE": [
+        "Ahaha!\n",
+        "Was ist das denn?!?"
+      ]
+    },
+    {
+      "id": "msg_0576_00114",
+      "de_DE": [
+        "Ich liebe Zeichnen.\n",
+        "Ich zeichne ja sooo gerne."
+      ]
+    },
+    {
+      "id": "msg_0576_00115",
+      "de_DE": [
+        "Hups! Ich kann nicht innerhalb\n",
+        "der Linien bleiben!"
+      ]
+    },
+    {
+      "id": "msg_0576_00116",
+      "de_DE": [
+        "Ein Kampf? Moment,\n",
+        "ich brauche noch etwas Zeit."
+      ]
+    },
+    {
+      "id": "msg_0576_00117",
+      "de_DE": [
+        "Entschuldige, dass du warten\n",
+        "musstest. Lass uns beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00118",
+      "de_DE": [
+        "Es tut mir schrecklich leid, aber\n",
+        "meine Pokémon fühlen sich\f",
+        "nicht besonders wohl.\r",
+        "Lass uns ein andermal kämpfen."
+      ]
+    },
+    {
+      "id": "msg_0576_00119",
+      "de_DE": [
+        "Für einen Kampf benötigst du\n",
+        "zwei Pokémon, deren Level\f",
+        "höchstens 30 ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00120",
+      "de_DE": [
+        "Dieses Pokémon...\n",
+        "Es ist sehr gut trainiert!"
+      ]
+    },
+    {
+      "id": "msg_0576_00121",
+      "de_DE": [
+        "Das ist es! Das ist jetzt\n",
+        "genau die richtige Attacke!"
+      ]
+    },
+    {
+      "id": "msg_0576_00122",
+      "de_DE": [
+        "Das ist prima!\n",
+        "Du kannst so kämpfen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00123",
+      "de_DE": [
+        "Dein Timing beim Pokémon-\n",
+        "Wechsel war exzellent!"
+      ]
+    },
+    {
+      "id": "msg_0576_00124",
+      "de_DE": [
+        "Ein Tausch? Gerne. Gib mir nur einen\n",
+        "Augenblick."
+      ]
+    },
+    {
+      "id": "msg_0576_00125",
+      "de_DE": [
+        "Entschuldige, dass du warten\n",
+        "musstest. Lass uns beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0576_00126",
+      "de_DE": [
+        "Es tut mir leid, aber ich habe keine\n",
+        "Pokémon, die ich tauschen könnte.\r",
+        "Tauschen wir beim nächsten Mal, ja?"
+      ]
+    },
+    {
+      "id": "msg_0576_00127",
+      "de_DE": "Ich tausche gerade Pokémon."
+    },
+    {
+      "id": "msg_0576_00128",
+      "de_DE": [
+        "Endlich konnte ich in einem Tausch mein\n",
+        "langersehntes Pokémon bekommen."
+      ]
+    },
+    {
+      "id": "msg_0576_00129",
+      "de_DE": [
+        "Du kannst nicht tauschen, wenn\n",
+        "du nur ein Pokémon bei dir hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00130",
+      "de_DE": [
+        "Melde dich bei mir, wenn du\n",
+        "etwas von mir willst!"
+      ]
+    },
+    {
+      "id": "msg_0576_00131",
+      "de_DE": [
+        "Du willst Statistiken tauschen?\n",
+        "Gerne. Ich brauche nur etwas Zeit."
+      ]
+    },
+    {
+      "id": "msg_0576_00132",
+      "de_DE": [
+        "Tut mir leid, dass du warten musstest.\n",
+        "Legen wir los!"
+      ]
+    },
+    {
+      "id": "msg_0576_00133",
+      "de_DE": [
+        "Tut mir leid!\n",
+        "Vielleicht beim nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0576_00134",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Wir tauschen gerade\n",
+        "unsere Statistiken.\r",
+        "Natürlich! {STRVAR_1 3, 1}, möchtest du\n",
+        "mittauschen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00135",
+      "de_DE": [
+        "Oh...\n",
+        "Bitte komme jederzeit vorbei."
+      ]
+    },
+    {
+      "id": "msg_0576_00136",
+      "de_DE": [
+        "Danke, dass du gewartet hast.\n",
+        "Wollen wir die Statistiken tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0576_00137",
+      "de_DE": "Tut mir leid. Ein andermal, okay?"
+    },
+    {
+      "id": "msg_0576_00138",
+      "de_DE": [
+        "Es macht total viel Spaß, Statistiken zu\n",
+        "tauschen."
+      ]
+    },
+    {
+      "id": "msg_0576_00139",
+      "de_DE": [
+        "Ich werde auch weiterhin ganz viele\n",
+        "Statistiken tauschen."
+      ]
+    },
+    {
+      "id": "msg_0576_00140",
+      "de_DE": "Tauschen wir. Juchhu!"
+    },
+    {
+      "id": "msg_0576_00141",
+      "de_DE": "Was jetzt wohl passieren wird?"
+    },
+    {
+      "id": "msg_0576_00142",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00143",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00144",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00145",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00146",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00147",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00148",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00149",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00150",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00151",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00152",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00153",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00154",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00155",
+      "de_DE": [
+        "Willkommen im Konnex-Klub.\n",
+        "Sag Bescheid, wenn ich dir helfen kann."
+      ]
+    },
+    {
+      "id": "msg_0576_00156",
+      "de_DE": "Wie kann ich dir helfen?"
+    },
+    {
+      "id": "msg_0576_00157",
+      "de_DE": "Welches Thema soll ich dir erklären?"
+    },
+    {
+      "id": "msg_0576_00158",
+      "de_DE": [
+        "Im Konnex-Klub kannst du mit zwei\n",
+        "Pokémon deiner Wahl kämpfen, wenn\f",
+        "ihr Level 30 oder niedriger ist.\r",
+        "Wenn du also hierher kommst, solltest\n",
+        "du entsprechende Pokémon mitbringen.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00159",
+      "de_DE": [
+        "Du kannst Pokémon mit anderen Spielern\n",
+        "tauschen.\r",
+        "Je mehr Spieler du kennst, desto eher\n",
+        "könnte ein seltenes Pokémon dabei sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00160",
+      "de_DE": [
+        "Du kannst mit anderen Spielern\n",
+        "kommunizieren und Statistiken\f",
+        "austauschen.\r",
+        "Was dieser Statistiktausch bringen soll,\n",
+        "fragst du?\r",
+        "Tja, versuch es doch einfach mal!\r",
+        "Bis zu fünf Spieler können daran\n",
+        "teilnehmen, also versuch es mal mit\f",
+        "deinen Freunden!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00161",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00162",
+      "de_DE": [
+        "Du kannst dich mit anderen Spielern\n",
+        "treffen, um zu zeichnen.\r",
+        "Ihr könnt alle am gleichen Blatt\n",
+        "arbeiten - und zwar gleichzeitig.\r",
+        "Eine Zeichnung von Freunden ist ein\n",
+        "wunderschönes Erinnerungsstück!\r",
+        "Bis zu fünf Spieler können daran\n",
+        "teilnehmen, also versuch es mal mit\f",
+        "deinen Freunden!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00163",
+      "de_DE": [
+        "Beginne einen Chat mit anderen Spielern,\n",
+        "indem du im Menü “CHAT” wählst.\r",
+        "Im Konnex-Klub kannst du die\n",
+        "unterschiedlichsten Leute treffen!\r",
+        "Unterhalte dich mit ihnen. Plant, was ihr\n",
+        "gemeinsam machen wollt.\r",
+        "Erweitere deinen Freundeskreis -\n",
+        "und deinen Horizont!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00164",
+      "de_DE": [
+        "Oh!\n",
+        "Da kommt jemand!\r",
+        "Sprich doch lieber mit dem Neuankömmling\n",
+        "als mit mir.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00165",
+      "de_DE": [
+        "Es ist so langweilig, wenn niemand\n",
+        "vorbeikommt...\r",
+        "Womit könnten wir uns denn die Zeit\n",
+        "vertreiben...?\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00166",
+      "de_DE": [
+        "Wirst du manchmal mit einem\n",
+        "echten {STRVAR_1 14, 0} verwechselt?\r",
+        "So kommst du mir zumindest vor.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00167",
+      "de_DE": [
+        "Hallo!\r",
+        "So ist es!\n",
+        "Der Gruß ist wichtig!\r",
+        "Wenn jemand neu ist und hereinkommt,\n",
+        "sollte man immer freundlich sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00168",
+      "de_DE": [
+        "Grüß dich!\r",
+        "{STRVAR_1 28, 0}?\n",
+        "Wunderschön!\f",
+        "Mir gefällt es auch!\r",
+        "Wenn du jemanden zum ersten Mal\n",
+        "triffst, solltest du so höflich sein und\f",
+        "dich vorstellen.\r",
+        "Dadurch erfährst du dann auch etwas\n",
+        "über die andere Person!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00169",
+      "de_DE": [
+        "{STRVAR_1 28, 0}-Trainer?\n",
+        "Das also bist du?\f",
+        "Was du nicht sagst!\r",
+        "Aber ich habe gar keine Pokémon...\r",
+        "Ich schaue lieber zu, als selber zu\n",
+        "kämpfen, weißt du?\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00170",
+      "de_DE": [
+        "Oh! Dein {STRVAR_1 28, 0}!\n",
+        "Ich würde es so gerne haben!\f",
+        "Lass uns tauschen!\r",
+        "...\r",
+        "Nur ein Scherz.\r",
+        "Ich habe gar keine Pokémon, also kann\n",
+        "ich auch nicht tauschen...\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00171",
+      "de_DE": [
+        "{STRVAR_1 28, 0}? Ich kann verstehen,\n",
+        "dass du so etwas möchtest...\r",
+        "Aber sei nicht egoistisch.\r",
+        "Wenn du tauschst, musst du auch\n",
+        "berücksichtigen, welches Pokémon\f",
+        "die andere Person gerne hätte.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00172",
+      "de_DE": [
+        "Willkommen im Konnex-Klub!\r",
+        "Ich bin zurzeit allein hier, also bring\n",
+        "bitte alle deine Freunde mit.\r",
+        "Dann haben wir hier unseren Spaß!\r",
+        "Wenn du Zeit hast, bin ich auch hier, um\n",
+        "ein wenig zu plaudern.\r",
+        "Ich habe nämlich sehr viel Zeit...\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00173",
+      "de_DE": [
+        "Ich kann besonders gut zeichnen!\r",
+        "Wenn es um {STRVAR_1 28, 0} geht,\n",
+        "überlass das nur mir!\f",
+        "Das kann niemand besser als ich!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00174",
+      "de_DE": [
+        "Oh, du gehst schon...\r",
+        "...\r",
+        "Ich bin doch so einsam...\r",
+        "Bitte komme wieder!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00175",
+      "de_DE": [
+        "Was ist denn los?\n",
+        "Bist du traurig?\r",
+        "Wenn du niedergeschlagen bist, solltest\n",
+        "du Zeit mit deinen Freunden verbringen!\f",
+        "Das ist schöner, als allein zu leiden.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00176",
+      "de_DE": [
+        "{STRVAR_1 28, 0}?\n",
+        "Ja bitte!\r",
+        "...Ich würde so gerne mitmachen, aber\n",
+        "ich bin im Dienst...\r",
+        "Seufz... {STRVAR_1 28, 0}...\n",
+        "Ich wünschte, ich könnte...\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00177",
+      "de_DE": [
+        "{STRVAR_1 28, 0}?\n",
+        "Ich auch, bitte!\r",
+        "Aber ich muss leider hierbleiben und\n",
+        "mich um die Besucher kümmern...\r",
+        "Hab du zumindest viel Spaß!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00178",
+      "de_DE": [
+        "{STRVAR_1 28, 0}?\n",
+        "Du lädst mich ein?\r",
+        "Oh, aber ich muss doch hierbleiben\n",
+        "und mich um die Besucher kümmern.\r",
+        "Tut mir leid. Ich würde gerne mitmachen,\n",
+        "aber ich kann einfach nicht.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00179",
+      "de_DE": [
+        "So ist es!\r",
+        "Manchmal muss man einfach andere\n",
+        "Leute einladen.\r",
+        "Aber sei nicht zu eifersüchtig,\n",
+        "wenn du {STRVAR_1 28, 0} wählst.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00180",
+      "de_DE": [
+        "Ja!\n",
+        "Schon in Ordnung!\r",
+        "Unmöglich ist gar nichts.\r",
+        "Positiv denken und den Kopf nicht\n",
+        "hängen lassen!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00181",
+      "de_DE": [
+        "Jeder hat mindestens ein Gebiet, auf\n",
+        "dem er oder sie nicht gut ist.\r",
+        "Zwinge niemanden, etwas zu tun, das der\n",
+        "andere nicht möchte.\r",
+        "Ich zum Beispiel würde gerne\n",
+        "{STRVAR_1 28, 0} wählen.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00182",
+      "de_DE": [
+        "Viel Glück! Ich hoffe, du magst\n",
+        "ernsthafte, harte Kämpfe.\r",
+        "Solche kannst du nämlich nicht im\n",
+        "Konnex-Klub finden!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00183",
+      "de_DE": [
+        "Willst du plaudern?\r",
+        "Verschwende deine Zeit doch nicht mit\n",
+        "mir.\r",
+        "Sei aktiv. Suche dir andere Spieler und\n",
+        "plaudere mit ihnen.\r",
+        "Ohne Kommunikation kannst du keine\n",
+        "neuen Freunde kennenlernen.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00184",
+      "de_DE": [
+        "Wo du bist?\n",
+        "Ähm... Direkt vor meiner Nase.\r",
+        "Oh!\n",
+        "Bist du ein Hochstapler?\r",
+        "Ist der echte Spieler woanders?\r",
+        "...Das ist ja lächerlich!\n",
+        "Erzähl doch keinen Unsinn!\f",
+        "Meine Güte!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00185",
+      "de_DE": [
+        "{STRVAR_1 28, 0}-Tausch?\n",
+        "Klingt gut!\f",
+        "Würde ich auch gerne machen.\r",
+        "Aber bei mir bist du an der falschen\n",
+        "Adresse. Ich kann nicht tauschen.\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00186",
+      "de_DE": [
+        "Wenn du einen {STRVAR_1 28, 0}-Kampf\n",
+        "möchtest, musst du andere Spieler\f",
+        "direkt darauf ansprechen.\r",
+        "Solange du keine Entschlossenheit\n",
+        "zeigst, hast du gar keine Chance auf\f",
+        "einen {STRVAR_1 28, 0}-Kampf!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00187",
+      "de_DE": "INFO"
+    },
+    {
+      "id": "msg_0576_00188",
+      "de_DE": "CHAT"
+    },
+    {
+      "id": "msg_0576_00189",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0576_00190",
+      "de_DE": "KAMPF"
+    },
+    {
+      "id": "msg_0576_00191",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0576_00192",
+      "de_DE": "STATISTIK"
+    },
+    {
+      "id": "msg_0576_00193",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00194",
+      "de_DE": "ZEICHNEN"
+    },
+    {
+      "id": "msg_0576_00195",
+      "de_DE": "CHAT"
+    },
+    {
+      "id": "msg_0576_00196",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0576_00197",
+      "de_DE": "Mit {STRVAR_1 3, 0} sprechen..."
+    },
+    {
+      "id": "msg_0576_00198",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00199",
+      "de_DE": [
+        "Oh! Entschuldige, aber ich\n",
+        "muss noch etwas erledigen.\f",
+        "Ein andermal, okay?"
+      ]
+    },
+    {
+      "id": "msg_0576_00200",
+      "de_DE": "Auswahl des Mitspielers wird erwartet."
+    },
+    {
+      "id": "msg_0576_00201",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00202",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00203",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00204",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00205",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0576_00206",
+      "de_DE": "Frd. von {STRVAR_1 3, 0}"
+    },
+    {
+      "id": "msg_0576_00207",
+      "de_DE": "Frd. von {STRVAR_1 3, 1}"
+    },
+    {
+      "id": "msg_0576_00208",
+      "de_DE": "Frd. von {STRVAR_1 3, 2}"
+    },
+    {
+      "id": "msg_0576_00209",
+      "de_DE": "こんにちは！"
+    },
+    {
+      "id": "msg_0576_00210",
+      "de_DE": "Hello!"
+    },
+    {
+      "id": "msg_0576_00211",
+      "de_DE": "Bonjour!"
+    },
+    {
+      "id": "msg_0576_00212",
+      "de_DE": "Ciao!"
+    },
+    {
+      "id": "msg_0576_00213",
+      "de_DE": "Hallo!"
+    },
+    {
+      "id": "msg_0576_00214",
+      "de_DE": "Hola!"
+    },
+    {
+      "id": "msg_0576_00215",
+      "de_DE": "H-e-l-l-o-!"
+    }
+  ]
+}

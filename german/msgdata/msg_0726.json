@@ -1,0 +1,24 @@
+{
+  "key": 15004,
+  "messages": [
+    {
+      "id": "msg_0726_00000",
+      "de_DE": "Möchtest du kämpfen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0726_00001",
+      "de_DE": "Bis demnächst einmal!"
+    },
+    {
+      "id": "msg_0726_00002",
+      "de_DE": [
+        "Du erhältst einen\n",
+        "Gewinnpunkt!"
+      ]
+    },
+    {
+      "id": "msg_0726_00003",
+      "de_DE": "Hermann"
+    }
+  ]
+}

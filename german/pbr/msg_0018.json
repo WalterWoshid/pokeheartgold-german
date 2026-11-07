@@ -1,0 +1,721 @@
+{
+  "key": 18323,
+  "messages": [
+    {
+      "id": "msg_0018_00000",
+      "de_DE": [
+        "Lucia: Hi, {STRVAR_1 3, 1}!\n",
+        "Fängst du Pokémon?\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00001",
+      "de_DE": [
+        "Wow! Du hast schon {STRVAR_1 50, 0} Pokémon!\r",
+        "Wenn du so weitermachst, wird der\n",
+        "Pokédex in null Komma nichts\f",
+        "vollständig sein!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00002",
+      "de_DE": [
+        "...Ähm...\r",
+        "Ich denke, du würdest dich bestimmt\n",
+        "sicherer fühlen, wenn du mehr fangen\f",
+        "würdest.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00003",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0018_00004",
+      "de_DE": [
+        "In Jubelstadt gibt es eine Trainer-\n",
+        "schule, die... Nun, du weißt schon.\r",
+        "{STRVAR_1 3, 0}, du solltest sie besuchen.\n",
+        "Da bekommst du wertvolle\f",
+        "Informationen.\r",
+        "Ach ja. {STRVAR_1 3, 1} ist auch zur\n",
+        "Trainerschule aufgebrochen.\r",
+        "Nun, dann mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00005",
+      "de_DE": [
+        "Lucius: Hey, {STRVAR_1 3, 1}! Wie viele\n",
+        "Pokémon hast du schon gefangen?\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00006",
+      "de_DE": "Wow! Du hast ja schon {STRVAR_1 50, 0} Pokémon!\r"
+    },
+    {
+      "id": "msg_0018_00007",
+      "de_DE": [
+        "Wie?\n",
+        "Ich denke, du solltest mehr fangen.\r",
+        "Eine große Anzahl Pokémon aufzuziehen\n",
+        "ist eine ebenso große\f",
+        "Herausforderung...\r",
+        "Aber es lohnt sich. Je mehr Pokémon\n",
+        "du hast, desto glücklicher bist du.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00008",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0018_00009",
+      "de_DE": [
+        "In Jubelstadt gibt es eine\n",
+        "Trainerschule.\r",
+        "{STRVAR_1 3, 0}, du solltest sie besuchen.\r",
+        "Ach ja. {STRVAR_1 3, 1} ist auch zur\n",
+        "Trainerschule aufgebrochen.\r",
+        "Viel Erfolg mit deinem Pokédex.\n",
+        "Bis später dann!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00010",
+      "de_DE": [
+        "Der Fleck, auf dem Jubelstadt liegt,\n",
+        "wurde einst aus einem Berg gehauen.\r",
+        "Menschen und Pokémon aus Erzelingen\n",
+        "haben hierbei fleißig geholfen."
+      ]
+    },
+    {
+      "id": "msg_0018_00011",
+      "de_DE": [
+        "Hallo! Hast du eigentlich schon den\n",
+        "Fernsehsender besucht?\r",
+        "Das solltest du unbedingt mal tun.\r",
+        "Falls du schon mal dort warst... Nun,\n",
+        "ein zweiter Besuch kann nicht schaden.\r",
+        "Vielleicht wirst du ja entdeckt und\n",
+        "ein Star! Wäre das nicht ein Traum?!?"
+      ]
+    },
+    {
+      "id": "msg_0018_00012",
+      "de_DE": [
+        "Jubelstadt ist die Liebe meines Lebens.\n",
+        "Worte können dies nicht beschreiben.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00013",
+      "de_DE": [
+        "Warst du eigentlich schon in\n",
+        "der Trainerschule?\r",
+        "Noch nicht, was?\n",
+        "Du musst da aber unbedingt mal hin!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0018_00015",
+      "de_DE": [
+        "Unterstützt du eigentlich auch die\n",
+        "Pokétch-Kampagne?\r",
+        "Nein?\n",
+        "Oh, das solltest du aber unbedingt tun!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00016",
+      "de_DE": [
+        "Hallo! Ja, du da!\n",
+        "Du da, mit dem coolen Schal!\r",
+        "Du hättest den Jungen sehen sollen,\n",
+        "der hier eben vorbeigerannt ist.\r",
+        "Der war sooo schnell, ich schaffte es\n",
+        "nicht mal, ihm ein Hallo zuzurufen."
+      ]
+    },
+    {
+      "id": "msg_0018_00017",
+      "de_DE": [
+        "Jubelstadt ist groß.\n",
+        "Nimm dir Zeit, die Stadt zu entdecken."
+      ]
+    },
+    {
+      "id": "msg_0018_00018",
+      "de_DE": [
+        "Jubelstadt ist die Liebe meines Lebens.\n",
+        "Worte können dies nicht beschreiben."
+      ]
+    },
+    {
+      "id": "msg_0018_00019",
+      "de_DE": [
+        "Warst du eigentlich schon in\n",
+        "der Trainerschule?\r",
+        "Noch nicht, was?\n",
+        "Du musst da aber unbedingt mal hin!"
+      ]
+    },
+    {
+      "id": "msg_0018_00020",
+      "de_DE": [
+        "Unterstützt du eigentlich auch die\n",
+        "Pokétch-Kampagne?\r",
+        "Nein?\n",
+        "Oh, das solltest du aber unbedingt tun!"
+      ]
+    },
+    {
+      "id": "msg_0018_00021",
+      "de_DE": [
+        "Oh oh oh!\r",
+        "Du nennst dich einen Pokémon-\n",
+        "Trainer?\r",
+        "Und besitzt keinen Pokétch?!?\r",
+        "Das ist so etwas wie eine\n",
+        "Pokémon-Armbanduhr.\r",
+        "Meine Güte, du bist ja ein\n",
+        "seltsames Wesen, aber echt!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00022",
+      "de_DE": [
+        "Du musst wissen, ich habe den\n",
+        "Pokétch erfunden und stelle ihn her.\r",
+        "Und jetzt leite ich auch die\n",
+        "Werbekampagne dafür.\r",
+        "Alles, was du tun musst, ist, drei\n",
+        "Clowns in Jubelstadt zu finden.\r",
+        "Wenn du sie findest und...\n",
+        "Nun, du kannst einen Pokétch bekommen!"
+      ]
+    },
+    {
+      "id": "msg_0018_00023",
+      "de_DE": [
+        "Jeder der drei Clowns wird dein\n",
+        "Wissen auf die Probe stellen.\r",
+        "Ihre Fragen beziehen sich alle\n",
+        "auf Pokémon.\r",
+        "Schließlich ist der Pokétch für\n",
+        "Trainer gemacht!\r",
+        "Sammle von jedem Clown einen\n",
+        "Kupon, und dann komm wieder\f",
+        "zu mir."
+      ]
+    },
+    {
+      "id": "msg_0018_00024",
+      "de_DE": [
+        "Dann lass mich mal deine Kupons zählen!\n",
+        "Ich verwende dafür den Pokétch hier...\r",
+        "Eins, zwei, drei!\n",
+        "Bravo! Da kann ich nur applaudieren!\r",
+        "Für diese Kupons gebe ich dir nun...\n",
+        "Jawohl! Den Pokétch.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00025",
+      "de_DE": "{STRVAR_1 3, 0} erhält einen {COLOR 1}Pokétch{COLOR 0}!{YESNO 1}"
+    },
+    {
+      "id": "msg_0018_00026",
+      "de_DE": [
+        "Du kannst deinen Pokétch regelmäßig\n",
+        "aufrüsten, wodurch er immer vielfältiger\f",
+        "in seinen Möglichkeiten wird.\r",
+        "Berühre den Bildschirm des Pokétch\n",
+        "und probiere ihn mal aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00027",
+      "de_DE": [
+        "Hallo! Ich bin ein Clown der Pokétch-\n",
+        "Werbekampagne. Ich habe eine Frage\f",
+        "für dich!\r",
+        "Wird ein Pokémon durch Kämpfe und\n",
+        "durch Erfahrungspunkte stärker?"
+      ]
+    },
+    {
+      "id": "msg_0018_00028",
+      "de_DE": [
+        "Ding-ding!\n",
+        "Du hast absolut Recht!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00029",
+      "de_DE": [
+        "Bzzzt!\n",
+        "Falsche Antwort..."
+      ]
+    },
+    {
+      "id": "msg_0018_00030",
+      "de_DE": [
+        "Pokémon werden stärker, indem sie\n",
+        "andere Pokémon im Kampf besiegen.\r",
+        "Manche Pokémon entwickeln sich\n",
+        "irgendwann zu einer anderen Form.\f",
+        "Das nennt man Entwicklung.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00031",
+      "de_DE": [
+        "Hier, bitte schön!\n",
+        "Dein Pokétch-Kupon!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00032",
+      "de_DE": [
+        "Pokémon werden stärker, indem sie\n",
+        "andere Pokémon im Kampf besiegen.\r",
+        "Manche Pokémon entwickeln sich\n",
+        "irgendwann zu einer anderen Form.\f",
+        "Das nennt man Entwicklung."
+      ]
+    },
+    {
+      "id": "msg_0018_00033",
+      "de_DE": [
+        "Hallooo! Ich bin ein Clown der\n",
+        "Pokétch-Werbekampagne.\f",
+        "Und hier ist meine Frage!\r",
+        "Die Pokémon haben Typen\n",
+        "beziehungsweise Elementklassen.\f",
+        "Gilt das auch für Attacken?"
+      ]
+    },
+    {
+      "id": "msg_0018_00034",
+      "de_DE": [
+        "Ding-ding!\n",
+        "Du hast absolut Recht!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00035",
+      "de_DE": [
+        "Bzzzt!\n",
+        "Falsche Antwort..."
+      ]
+    },
+    {
+      "id": "msg_0018_00036",
+      "de_DE": [
+        "Wenn der Typ eines Pokémon dem seiner\n",
+        "Attacke entspricht, wird die Attacke\f",
+        "wesentlich stärker!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00037",
+      "de_DE": [
+        "Hier, bitte schön!\n",
+        "Dein Pokétch-Kupon!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00038",
+      "de_DE": [
+        "Wenn der Typ eines Pokémon dem seiner\n",
+        "Attacke entspricht, wird die Attacke\f",
+        "wesentlich stärker!"
+      ]
+    },
+    {
+      "id": "msg_0018_00039",
+      "de_DE": [
+        "Guten Tag! Ich bin ein Clown der\n",
+        "Pokétch-Werbekampagne.\r",
+        "Und ich frage dich...\n",
+        "Kann ein Pokémon ein Item halten?"
+      ]
+    },
+    {
+      "id": "msg_0018_00040",
+      "de_DE": [
+        "Ding-ding!\n",
+        "Du hast absolut Recht!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00041",
+      "de_DE": [
+        "Bzzzt!\n",
+        "Falsche Antwort..."
+      ]
+    },
+    {
+      "id": "msg_0018_00042",
+      "de_DE": [
+        "Ein Pokémon kann 1 Item halten.\r",
+        "Manche Items zeigen Wirkung, sobald\n",
+        "sie von einem Pokémon gehalten werden.\r",
+        "Die Pokémon essen gehaltene Beeren,\n",
+        "wenn es im Kampf erforderlich ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00043",
+      "de_DE": [
+        "Hier, bitte schön!\n",
+        "Dein Pokétch-Kupon!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00044",
+      "de_DE": [
+        "Hallo! Du solltest hier in der Nähe\n",
+        "bleiben, denn unsere Pokétch-\f",
+        "Werbekampagne beginnt bald.\r",
+        "Aber vorher solltest du vielleicht\n",
+        "die Trainerschule besuchen."
+      ]
+    },
+    {
+      "id": "msg_0018_00045",
+      "de_DE": [
+        "Ein Pokémon kann 1 Item halten.\r",
+        "Manche Items zeigen Wirkung, sobald\n",
+        "sie von einem Pokémon gehalten werden.\r",
+        "Die Pokémon essen gehaltene Beeren,\n",
+        "wenn es im Kampf erforderlich ist."
+      ]
+    },
+    {
+      "id": "msg_0018_00046",
+      "de_DE": [
+        "Eibe: Ah, {STRVAR_1 3, 0}.\n",
+        "Das nenne ich perfektes Timing.\r",
+        "Diese Schurken geben so einen Blödsinn\n",
+        "von sich, das ist unerträglich.\r",
+        "Zeig ihnen bitte, was wir dazu meinen.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00047",
+      "de_DE": [
+        "Geheimnisvoller Mann: Oh, Pokémon-\n",
+        "Professor, warum machen Sie es uns\f",
+        "allen nur so schwer?\r",
+        "Wir sind aus rein geschäftlichen\n",
+        "Gründen hier. Sie sind doch auch\f",
+        "ein Geschäftsmann?\r",
+        "Und es ist so einfach: Sie geben uns\n",
+        "Ihre Forschungsergebnisse, und wir\r",
+        "sorgen dafür, dass Ihrem Assistenten\n",
+        "nichts geschieht.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00048",
+      "de_DE": [
+        "Lucia: {STRVAR_1 3, 1}!\r",
+        "Tun wir uns zusammen und erteilen\n",
+        "diesen miesen Typen eine Lektion!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00049",
+      "de_DE": [
+        "Lucius: {STRVAR_1 3, 1}! Komm, wir beide\n",
+        "werden uns diese Typen vorknöpfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00050",
+      "de_DE": [
+        "Rüpel: Ihr lasst uns keine Wahl.\n",
+        "Wir werden uns zurückziehen.\r",
+        "Denn Team Galaktik hat immer\n",
+        "Mitleid mit Schwächeren.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00051",
+      "de_DE": [
+        "Eibe: Diese Bande...\n",
+        "Sie nennt sich Team Galaktik.\r",
+        "Wenn Pokémon sich entwickeln, geben\n",
+        "sie eine besondere Energie ab...\r",
+        "Meiner Meinung nach handelt es sich hier\n",
+        "um eine mystische Kraft, die außerhalb\f",
+        "unserer Kontrolle liegt.\r",
+        "Doch die Mitglieder vom Team Galaktik\n",
+        "scheinen die Energie für irgendetwas\f",
+        "nutzen zu wollen...\r",
+        "Wie dem auch sei... {STRVAR_1 3, 0}, das\n",
+        "war sehr gut! Du hast wirklich Talent.\r",
+        "Wie du und deine Pokémon Seite an\n",
+        "Seite gekämpft habt - ein schönes Bild!\r",
+        "Es war richtig von mir, dir den\n",
+        "Pokédex anzuvertrauen!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00052",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0018_00053",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0018_00054",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0018_00055",
+      "de_DE": [
+        "Lucia: {STRVAR_1 3, 1}, wusstest du, dass\n",
+        "der Professor auch die Entwicklung\f",
+        "der Pokémon erforscht?\r",
+        "Seinen Forschungen nach haben\n",
+        "90 % aller Pokémon etwas\f",
+        "mit Entwicklung zu tun!\r",
+        "Also, {STRVAR_1 3, 1}...\n",
+        "Lass uns weiter am Pokédex und am\f",
+        "Projekt des Professors arbeiten!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00056",
+      "de_DE": [
+        "Lucius: {STRVAR_1 3, 1}, wusstest du,\n",
+        "dass der Professor auch die Entwicklung\f",
+        "der Pokémon erforscht?\r",
+        "Seinen Forschungen nach haben\n",
+        "90 % aller Pokémon etwas\f",
+        "mit Entwicklung zu tun!\r",
+        "Also, {STRVAR_1 3, 1}...\n",
+        "Lass uns weiter am Pokédex und am\f",
+        "Projekt des Professors arbeiten!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00057",
+      "de_DE": [
+        "Oh, war das klasse!\n",
+        "Wirklich sehr gut! Exzellent!\r",
+        "Oh, entschuldige. Ich bin von\n",
+        "Jubelstadt TV!\r",
+        "Ich habe hier etwas für dich. Eine\n",
+        "Belohnung dafür, dass ich mir diesen\f",
+        "Wahnsinnskampf ansehen durfte.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00058",
+      "de_DE": [
+        "In diesem Modekoffer findest du...\r",
+        "Hinreißende Accessoires und\n",
+        "geschmackvolle Kulissen!\r",
+        "Statte dein Pokémon mit den\n",
+        "Accessoires aus und sieh dir an,\f",
+        "wie seine Ausstrahlung steigt!\r",
+        "Der Fernsehsender stellt seine\n",
+        "Räumlichkeiten zur Verfügung,\r",
+        "so dass Besucher dort ihre\n",
+        "Pokémon ausstatten können.\r",
+        "Man kann außerdem tolle\n",
+        "Preise gewinnen!\r",
+        "Besuch unseren Sender\n",
+        "einfach mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00059",
+      "de_DE": [
+        "So, wie du aussiehst...\n",
+        "Du kannst nur ein Trainer sein!\r",
+        "Sag mir, welche Art Pokémon magst du?"
+      ]
+    },
+    {
+      "id": "msg_0018_00060",
+      "de_DE": [
+        "Feuer-Pokémon? Du hast bestimmt\n",
+        "ein feuriges Temperament."
+      ]
+    },
+    {
+      "id": "msg_0018_00061",
+      "de_DE": [
+        "Jemand, der Wasser-Pokémon mag, hat\n",
+        "bestimmt ein cooles Wesen."
+      ]
+    },
+    {
+      "id": "msg_0018_00062",
+      "de_DE": [
+        "Pflanzen-Pokémon? Kein Wunder, dass\n",
+        "du so eine Ruhe ausstrahlst!"
+      ]
+    },
+    {
+      "id": "msg_0018_00063",
+      "de_DE": [
+        "Hast du mich im Fernsehen gesehen?!?\n",
+        "Ich habe da ein Interview gegeben!"
+      ]
+    },
+    {
+      "id": "msg_0018_00064",
+      "de_DE": [
+        "Wenn du viel mit deinen Pokémon unter-\n",
+        "wegs bist, wächst eure Freundschaft."
+      ]
+    },
+    {
+      "id": "msg_0018_00065",
+      "de_DE": [
+        "An meinem Gürtel hängen sechs\n",
+        "Pokébälle.\r",
+        "Man kann maximal sechs Pokémon\n",
+        "mit sich führen."
+      ]
+    },
+    {
+      "id": "msg_0018_00066",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0018_00067",
+      "de_DE": [
+        "Hey da, wo kommst du her?\r",
+        "...\r",
+        "Zweiblattdorf, mh...\n",
+        "Ein schöner Ort. Ruhig und so.\r",
+        "Jubelstadt ist sehr groß, da erlebst\n",
+        "du bestimmt einen Kulturschock."
+      ]
+    },
+    {
+      "id": "msg_0018_00068",
+      "de_DE": [
+        "Hallo, Trainer!\n",
+        "Weißt du viel über Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0018_00069",
+      "de_DE": [
+        "Ah, ja!\n",
+        "Du bist wirklich sehr klug.\r",
+        "Ich wusste sofort, dass du die\n",
+        "Trainerschule nicht besuchen musst.\r",
+        "Aber du kannst ihr trotzdem mal einen\n",
+        "Besuch abstatten, wenn du Zeit hast.\r",
+        "Vielleicht lernst du ja doch noch\n",
+        "etwas Neues."
+      ]
+    },
+    {
+      "id": "msg_0018_00070",
+      "de_DE": [
+        "Oh, du weißt aber nicht gerade viel...\n",
+        "Aber mach dir keine Sorgen!\f",
+        "Es gibt hier eine Trainerschule.\r",
+        "Dort bringt man dir das Grundwissen\n",
+        "über Pokémon bei."
+      ]
+    },
+    {
+      "id": "msg_0018_00071",
+      "de_DE": [
+        "Hier drüben ist die GTS, die\n",
+        "Globale Tauschstation.\r",
+        "Oh, du hast noch keinen Orden...\n",
+        "Tut mir leid, aber...\r",
+        "Die GTS steht nur Trainern mit\n",
+        "Orden zur Verfügung. Sorry!\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00072",
+      "de_DE": [
+        "Hier drüben ist die GTS, die\n",
+        "Globale Tauschstation.\r",
+        "Der Tausch von Pokémon bedeutet, dass\n",
+        "man mit alten und neuen Freunden in\f",
+        "Kontakt tritt.\r",
+        "Das ist doch super!"
+      ]
+    },
+    {
+      "id": "msg_0018_00073",
+      "de_DE": [
+        "Ich tausche gerade mit meinem Freund\n",
+        "Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0018_00074",
+      "de_DE": [
+        "Ich gebe meinen Pokémon immer ein\n",
+        "Item zum Halten, bevor ich sie tausche.\r",
+        "Damit macht man dem anderen Trainer\n",
+        "eine doppelte Freude!"
+      ]
+    },
+    {
+      "id": "msg_0018_00075",
+      "de_DE": [
+        "Jubelstadt\n",
+        "Stadt des Frohmuts"
+      ]
+    },
+    {
+      "id": "msg_0018_00076",
+      "de_DE": [
+        "Jubelstadt Wohnungen\n",
+        "Mieter gesucht!"
+      ]
+    },
+    {
+      "id": "msg_0018_00077",
+      "de_DE": [
+        "Die Pokétch Gesellschaft\n",
+        "Pokétche für die Welt!"
+      ]
+    },
+    {
+      "id": "msg_0018_00078",
+      "de_DE": [
+        "Trainerschule\n",
+        "Die ersten Schritte werden gemacht!"
+      ]
+    },
+    {
+      "id": "msg_0018_00079",
+      "de_DE": [
+        "Jubelstadt TV\n",
+        "Der Sender für Spaß und Spiele!"
+      ]
+    },
+    {
+      "id": "msg_0018_00080",
+      "de_DE": [
+        "Globale Tauschstation\n",
+        "Weltweiter Pokémon-Tausch!"
+      ]
+    }
+  ]
+}

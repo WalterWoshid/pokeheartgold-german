@@ -1,0 +1,833 @@
+{
+  "key": 32995,
+  "messages": [
+    {
+      "id": "msg_0365_00000",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00001",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00002",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00003",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00004",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00008",
+      "de_DE": [
+        "DJ: Hey-ho!\r",
+        "Hier sind wir wieder mit dem\n",
+        "“Duellturm-Studio”!\r",
+        "Heute richtet sich unser Blick auf\n",
+        "{STRVAR_1 3, 1}. {STRVAR_1 52, 0} Duellturm-Siege in\r",
+        "Folge stehen auf dem Konto\n",
+        "des Trainers!\r",
+        "Lasst uns doch mal hören, was der\n",
+        "mutige Trainer zu sagen hatte.\r",
+        "Dein Kommentar, {STRVAR_1 3, 1}?\r",
+        "“{STRVAR_1 28, 2}!”\r",
+        "Hey-ho! Bravo!\r",
+        "Nicht schwer zu erkennen, dass der\n",
+        "Trainer an dieser Serie von {STRVAR_1 52, 0}\r",
+        "Siegen viel Spaß hatte und immer noch\n",
+        "hat!\r",
+        "Also gut, Leute. Kommt doch einfach\n",
+        "vorbei und habt Spaß im Duellturm!\r",
+        "Bis dahin haltet die Ohren steif!\n",
+        "Hey-ho!"
+      ]
+    },
+    {
+      "id": "msg_0365_00009",
+      "de_DE": [
+        "DJ: Hey-ho!\r",
+        "Hier sind wir wieder mit dem\n",
+        "“Duellturm-Studio”!\r",
+        "Heute richtet sich unser Blick auf\n",
+        "{STRVAR_1 3, 1}. Eine Serie von {STRVAR_1 52, 0}\r",
+        "Duellturm-Siegen blieb diesem\n",
+        "Trainer leider verwehrt!\r",
+        "Lasst uns doch mal hören, was der\n",
+        "enttäuschte Trainer zu sagen hatte.\r",
+        "Dein Kommentar, {STRVAR_1 3, 1}?\r",
+        "“{STRVAR_1 28, 2}!”\r",
+        "Hey-ho! Das schmerzt ehrlich!\r",
+        "Die harte Realität des Kampfes!\n",
+        "Unverblümt und rau!\r",
+        "Also gut, Leute. Kommt doch einfach\n",
+        "vorbei und habt Spaß im Duellturm!\r",
+        "Bis dahin haltet die Ohren steif!\n",
+        "Hey-ho!"
+      ]
+    },
+    {
+      "id": "msg_0365_00010",
+      "de_DE": [
+        "MC: Hallo. Ihr seid wieder einmal bei\n",
+        "“Mein Lieblings-Pokémon” gelandet.\r",
+        "Heute sehen wir uns {STRVAR_1 1, 2}, das\n",
+        "{STRVAR_1 0, 1} von {STRVAR_1 3, 0}, an.\r",
+        "Für {STRVAR_1 3, 0} ist {STRVAR_1 1, 2}\n",
+        "“{STRVAR_1 28, 3}!”\r",
+        "Liebe Zuseher, berichtet uns auch\n",
+        "weiterhin von den Pokémon, die euer\f",
+        "ganzer Stolz sind!\r",
+        "Bis zum nächsten Mal auf diesem Kanal!"
+      ]
+    },
+    {
+      "id": "msg_0365_00011",
+      "de_DE": [
+        "MC: Hallo. Ihr seid wieder einmal bei\n",
+        "“Mein Lieblings-Pokémon” gelandet.\r",
+        "Heute sehen wir uns das heiß geliebte\n",
+        "{STRVAR_1 0, 1} von {STRVAR_1 3, 0} an.\r",
+        "Für {STRVAR_1 3, 0} ist {STRVAR_1 0, 1}\n",
+        "“{STRVAR_1 28, 3}!”\r",
+        "Liebe Zuseher, berichtet uns auch\n",
+        "weiterhin von den Pokémon, die euer\f",
+        "ganzer Stolz sind!\r",
+        "Bis zum nächsten Mal auf diesem Kanal!"
+      ]
+    },
+    {
+      "id": "msg_0365_00012",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00013",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00014",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00015",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00016",
+      "de_DE": [
+        "MC: Die Verzögerung tut uns leid!\n",
+        "Zeit für den “Pokétch-Report”!\r",
+        "Heute sehen wir uns das\n",
+        "von {STRVAR_1 3, 0} bevorzugte\f",
+        "Pokétch-Zubehör an.\r",
+        "Und dabei handelt es sich um\n",
+        "{STRVAR_1 24, 1}.\r",
+        "Auf Nachfrage sagte uns der\n",
+        "Trainer: “{STRVAR_1 28, 2}”.\r",
+        "Eine vortreffliche und wohl überlegte\n",
+        "Wahl, {STRVAR_1 3, 0}.\r",
+        "Zeigt auch ihr eure Coolness mit dem\n",
+        "Zubehör {STRVAR_1 24, 1}!\r",
+        "Wir sehen uns, Freunde..."
+      ]
+    },
+    {
+      "id": "msg_0365_00017",
+      "de_DE": [
+        "Reporter: Wir sind für euch live in der\n",
+        "Wettbewerbshalle!\r",
+        "Die Atmosphäre ist mit dem glühenden\n",
+        "Eifer der Trainer aufgeladen, die ihre\r",
+        "Hoffnungen auf ihre wertvollen Pokémon\n",
+        "setzen!\r",
+        "Und hier kommen einige Teilnehmer! Sie\n",
+        "haben gerade einen Wettbewerb\f",
+        "beendet!\r",
+        "Lasst uns sehen, ob sie zu einem\n",
+        "schnellen Interview bereitstehen!\r",
+        "Hi, ich bin Reporter von Jubelstadt TV!\n",
+        "Hat dieses {STRVAR_1 0, 0} gerade an einem\f",
+        "Wettbewerb teilgenommen?\r",
+        "Oh, ihr habt an einem {STRVAR_1 35, 2}\n",
+        "{STRVAR_1 34, 1} teilgenommen?\r",
+        "Und die Platzierung...?\n",
+        "...Oh. {STRVAR_1 50, 3}.\r",
+        "Bist du mit diesem Ergebnis zufrieden?\r",
+        "{STRVAR_1 3, 4}: “{STRVAR_1 28, 5}”.\r",
+        "Reporter: Ich verstehe!\n",
+        "Vielen Dank für deine Zeit!\r",
+        "Und das war es von mir aus der\n",
+        "Wettbewerbshalle!"
+      ]
+    },
+    {
+      "id": "msg_0365_00018",
+      "de_DE": [
+        "Reporter: Wir sind für euch live in der\n",
+        "Wettbewerbshalle!\r",
+        "Die Atmosphäre ist mit dem glühenden\n",
+        "Eifer der Trainer aufgeladen, die ihre\r",
+        "Hoffnungen auf ihre wertvollen Pokémon\n",
+        "setzen!\r",
+        "Und hier kommen einige Teilnehmer! Sie\n",
+        "haben gerade einen Wettbewerb\f",
+        "beendet!\r",
+        "Wow, einer der Trainer ist der Sieger\n",
+        "dieses Wettbewerbs!\r",
+        "Lasst uns sehen, ob er zu einem\n",
+        "schnellen Interview bereitsteht!\r",
+        "Hi, ich bin Reporter von Jubelstadt TV!\n",
+        "Gratulation zum Sieg!\r",
+        "Dieses {STRVAR_1 0, 0} hat den\n",
+        "{STRVAR_1 35, 2} {STRVAR_1 34, 1} \f",
+        "gewonnen?\r",
+        "Wie fühlst du dich nach dem Sieg?\r",
+        "{STRVAR_1 3, 4}: “{STRVAR_1 28, 5}”.\r",
+        "Reporter: Ich verstehe!\n",
+        "Vielen Dank für deine Zeit!\r",
+        "Und das war es von mir aus der\n",
+        "Wettbewerbshalle!"
+      ]
+    },
+    {
+      "id": "msg_0365_00019",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00020",
+      "de_DE": [
+        "MC: Willkommen in unserer\n",
+        "“Foto-Ecke”!\r",
+        "Publikum: Halloooooo!\r",
+        "MC: Unser heutiges Foto zeigt\n",
+        "das {STRVAR_1 0, 1} von {STRVAR_1 3, 0}.\r",
+        "Wollt ihr es sehen?\r",
+        "Publikum: Jaaaaaa!\r",
+        "MC: Und hier ist es!\n",
+        "Das Foto von {STRVAR_1 3, 0}!\r",
+        "Publikum: Hurraaah!\r",
+        "MC: Ich stimme dem Publikum zu!\n",
+        "Ein sehr schönes Foto!\r",
+        "Es fängt den ansonsten manchmal schwer\n",
+        "erkennbaren Charme dieses\f",
+        "{STRVAR_1 0, 1} ein.\r",
+        "Publikum: Jaaaaaa!\r",
+        "MC: Wir konnten zudem einen\n",
+        "Kommentar von {STRVAR_1 3, 0} zu diesem\f",
+        "Foto bekommen.\r",
+        "Der Kommentar lautete:\n",
+        "“{STRVAR_1 28, 2}”.\r",
+        "Publikum: Ooooooh!\r",
+        "MC: Schickt uns weitere Fotos, die wir\n",
+        "dann hier vorstellen können.\r",
+        "Was sagt ihr dazu, Leute?\r",
+        "Publikum: Hurraaaaaah!"
+      ]
+    },
+    {
+      "id": "msg_0365_00021",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Normal als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Normal wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als aufgeweckt, aber im Grunde\f",
+        "auch sehr schüchtern.\r",
+        "In der Gruppe sind sie dagegen oft\n",
+        "lebensfroh und etwas ungestüm.\r",
+        "Nähert man sich mit einer anderen\n",
+        "Person, reagieren sie oft gehemmt.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00022",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Feuer als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Feuer wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als sehr selbstsicher.\r",
+        "Sind ihre Freunde unglücklich, eilen sie\n",
+        "sofort herbei, um Trost zu spenden.\r",
+        "Wurden sie hingegen selbst verletzt,\n",
+        "versuchen sie das Problem erst einmal\f",
+        "allein zu lösen.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00023",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Wasser als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Wasser wählt?\r",
+        "Unsere Experten stellten fest, dass\n",
+        "diese Trainer sich ihrer eigenen Werte\f",
+        "und Stärken sehr bewusst sind.\r",
+        "Sie hecheln zudem nicht den neuesten\n",
+        "Trends und Modewellen hinterher.\r",
+        "Haben sie sich einmal für etwas\n",
+        "entschieden, sind sie äußerst loyal.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00024",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Elektro als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Elektro\f",
+        "wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als sehr modebewusst.\r",
+        "Auf den ersten Blick erscheinen sie\n",
+        "ungezwungen, aber man sollte sich\f",
+        "nicht täuschen lassen.\r",
+        "Wenn es um ihre Kleidung, aber auch um\n",
+        "Kleinigkeiten wie einen Kleiderbügel\f",
+        "geht, sind sie eher pingelig.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00025",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Pflanze als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Pflanze\f",
+        "wählt?\r",
+        "Unsere Experten sind sich sicher, dass\n",
+        "diese Trainer ihren eigenen Rhythmus\f",
+        "haben.\r",
+        "Sie können sich motivieren und sind in\n",
+        "der Lage, Projekte allein\f",
+        "fertigzustellen.\r",
+        "Einzig die Entscheidung, wann eine\n",
+        "Arbeit zufriedenstellend beendet\f",
+        "wurde, fällt ihnen schwer.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00026",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Eis als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Eis wählt?\r",
+        "Unsere Experten stellten fest, dass\n",
+        "diese Trainer ein reines Herz besitzen\r",
+        "und anderen niemals vorsätzlich\n",
+        "schaden.\r",
+        "Sie helfen selbstlos ihren Freunden bei\n",
+        "jeder Gelegenheit.\r",
+        "Erhalten sie jedoch für ihre Hilfs-\n",
+        "bereitschaft keine Anerkennung,\f",
+        "reagieren sie verstimmt.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00027",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Kampf als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Kampf wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als verträumte Romantiker.\r",
+        "Sie sind Ideen und Dingen gegenüber\n",
+        "sehr loyal, denen sie geneigt sind.\r",
+        "Diese Trainer analysieren sich zudem\n",
+        "andauernd selbst und versuchen, sich\r",
+        "auf dem Weg zu ihren Träumen immer\n",
+        "wieder selbst neu zu erfinden.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00028",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Gift als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Gift wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als sensibel und mitfühlend.\r",
+        "Sie wissen, wie man andere Menschen\n",
+        "aufmuntert.\r",
+        "Sie wissen allerdings auch, wann es an\n",
+        "der Zeit ist, Menschen in Frieden zu\f",
+        "lassen.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00029",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Boden als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Boden wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als Menschen, die allem Neuen\f",
+        "gegenüber aufgeschlossen sind.\r",
+        "Besonders Dinge, deren Gebrauch einen\n",
+        "Unterhaltungswert verspricht, stehen\f",
+        "bei diesen Trainern hoch im Kurs.\r",
+        "Ihre Räume sind in der Regel voller\n",
+        "Bücher, Video- und Brettspiele.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00030",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Flug als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Flug wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als sehr intelligent, aber auch\f",
+        "sehr bescheiden.\r",
+        "Wenn es um die Bewältigung eines\n",
+        "Problems geht, sind sie immer als\f",
+        "Erste mit einer Lösung zur Stelle.\r",
+        "Sie tun dies aber auf eine Weise, die den\n",
+        "Rest der Gruppe annehmen lässt, die\r",
+        "Gruppe selbst hätte die Lösung\n",
+        "erarbeitet.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00031",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Psycho als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Psycho wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als glücklich und optimistisch.\r",
+        "Kämpfen sie gegen befreundete Trainer,\n",
+        "genügt ihnen schon der Spaß am Kampf\f",
+        "selbst.\r",
+        "Sie danken ihren Gegnern mit einem\n",
+        "Lächeln, unabhängig vom Ausgang des\f",
+        "Kampfes.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00032",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Käfer als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Käfer wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als sehr enthusiastisch.\r",
+        "Finden sie etwas, das sie mögen,\n",
+        "werden sie alles für dessen\f",
+        "Popularität tun.\r",
+        "Fragt man sie nach ihren Hobbys, sollte\n",
+        "man sich auf einen längeren Vortrag\f",
+        "gefasst machen.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00033",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Gestein als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Gestein\f",
+        "wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als eher still, gefasst und ihre\f",
+        "Mitmenschen unterstützend.\r",
+        "Sie bleiben ruhig und optimistisch, wenn\n",
+        "viele andere bereits in Panik verfallen.\r",
+        "Wenn es eng wird, kann man sich immer\n",
+        "auf sie verlassen.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00034",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Geist als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Geist wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als sehr lebenslustig.\r",
+        "Macht sie etwas glücklich, behalten sie\n",
+        "es erst einmal lieber für sich.\r",
+        "Sie versuchen dann, diese Erfahrung\n",
+        "zu wiederholen, um sie dabei mit\f",
+        "Freunden zu teilen.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00035",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Drachen als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Drachen\f",
+        "wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als zaghaft und schüchtern.\r",
+        "Sie würden aber beispielsweise niemals\n",
+        "den Geburtstag eines Freundes\f",
+        "vergessen.\r",
+        "...Das Geburtstagsgeschenk legen sie\n",
+        "dann aber lieber an der Tür ab...\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00036",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Unlicht als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Unlicht\f",
+        "wählt?\r",
+        "Unsere Experten beschreiben diese\n",
+        "Trainer als sehr eigensinnig, wenn es\f",
+        "um ihre Vorlieben geht.\r",
+        "Sie haben sehr spezielle Vorlieben in\n",
+        "den Bereichen Musik, Film und Literatur.\r",
+        "Von den Favoriten in diesen Bereichen\n",
+        "fühlen sie sich aber immer wieder gut\f",
+        "unterhalten.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00037",
+      "de_DE": [
+        "Ansager: Willkommen beim\n",
+        "“Trainer-Persönlichkeitscheck”!\r",
+        "{STRVAR_1 3, 0} ist der Trainer, mit dem\n",
+        "wir uns heute beschäftigen wollen.\r",
+        "In unserem Interview hat unser Trainer\n",
+        "den Typ Stahl als Favoriten genannt.\r",
+        "Was zeichnet die Persönlichkeit eines\n",
+        "Trainers aus, der den Typ Stahl wählt?\r",
+        "Unsere Experten beschreiben\n",
+        "diese Trainer als zum Teil sehr\f",
+        "wundersame Menschen.\r",
+        "Sie sind Träumer, die ständig von Dingen\n",
+        "umgetrieben werden, die sie erreichen\f",
+        "möchten.\r",
+        "Das Wundersame liegt in der Weise\n",
+        "begründet, wie sie ihre Ziele erreichen.\r",
+        "Könnt ihr dieser Analyse zustimmen?"
+      ]
+    },
+    {
+      "id": "msg_0365_00038",
+      "de_DE": [
+        "MC: Willkommen bei “Ein Hoch auf\n",
+        "Knurspe”. Ich hoffe, es geht allen gut.\r",
+        "Wie immer ist auch heute der\n",
+        "Knurspmaniac zu Gast.\r",
+        "Knurspmaniac: Alles klar?\r",
+        "MC: Heute geht es um einen Knursp von\n",
+        "{STRVAR_1 3, 0}. Natürlich gerührt und\f",
+        "nicht geschüttelt.\r",
+        "Knurspmaniac: Oh!\n",
+        "{STRVAR_1 9, 1}!\r",
+        "Diesen Knursp zu essen, käme einem\n",
+        "Knursp-Schmuckkästchen in meinem Mund\f",
+        "gleich!\r",
+        "MC: Beim Anblick des fertigen Knursps\n",
+        "gab {STRVAR_1 3, 0} folgenden Kommentar:\f",
+        "“{STRVAR_1 28, 2}!”\r",
+        "Knurspmaniac: Ich würde so gerne\n",
+        "in diesen Knursp beißen!\r",
+        "MC: Nehmt euch ein Beispiel an\n",
+        "{STRVAR_1 3, 0} und legt los!\r",
+        "Bis bald, wenn wir wieder schmackhafte\n",
+        "Knurspe präsentieren!"
+      ]
+    },
+    {
+      "id": "msg_0365_00039",
+      "de_DE": [
+        "MC: Willkommen bei “Ein Hoch auf\n",
+        "Knurspe”. Ich hoffe, es geht allen gut.\r",
+        "Wie immer ist auch heute der\n",
+        "Knurspmaniac zu Gast.\r",
+        "Knurspmaniac: Alles klar?\r",
+        "MC: Heute geht es um einen Knursp von\n",
+        "{STRVAR_1 3, 0}. Natürlich gerührt und\f",
+        "nicht geschüttelt.\r",
+        "Knurspmaniac: Oh!\n",
+        "{STRVAR_1 9, 1}!\r",
+        "Diesen Knursp zu essen, käme einem\n",
+        "Knursp-Orchester in meinem Mund gleich!\r",
+        "MC: Beim Anblick des fertigen Knursps\n",
+        "gab {STRVAR_1 3, 0} folgenden Kommentar:\f",
+        "“{STRVAR_1 28, 2}!”\r",
+        "Knurspmaniac: Ich würde so gerne\n",
+        "in diesen Knursp beißen!\r",
+        "MC: Nehmt euch ein Beispiel an\n",
+        "{STRVAR_1 3, 0} und legt los!\r",
+        "Bis bald, wenn wir wieder schmackhafte\n",
+        "Knurspe präsentieren!"
+      ]
+    },
+    {
+      "id": "msg_0365_00040",
+      "de_DE": [
+        "MC: Willkommen bei “Ein Hoch auf\n",
+        "Knurspe”. Ich hoffe, es geht allen gut.\r",
+        "Wie immer ist auch heute der\n",
+        "Knurspmaniac zu Gast.\r",
+        "Knurspmaniac: Alles klar?\r",
+        "MC: Heute geht es um einen Knursp von\n",
+        "{STRVAR_1 3, 0}. Natürlich gerührt und\f",
+        "nicht geschüttelt.\r",
+        "Knurspmaniac: Oh!\n",
+        "{STRVAR_1 9, 1}!\r",
+        "Diesen Knursp zu essen, käme einem\n",
+        "Knursp-Trampolin in meinem Mund gleich!\r",
+        "MC: Beim Anblick des fertigen Knursps\n",
+        "gab {STRVAR_1 3, 0} folgenden Kommentar:\f",
+        "“{STRVAR_1 28, 2}!”\r",
+        "Knurspmaniac: Ich würde so gerne\n",
+        "in diesen Knursp beißen!\r",
+        "MC: Nehmt euch ein Beispiel an\n",
+        "{STRVAR_1 3, 0} und legt los!\r",
+        "Bis bald, wenn wir wieder schmackhafte\n",
+        "Knurspe präsentieren!"
+      ]
+    },
+    {
+      "id": "msg_0365_00041",
+      "de_DE": [
+        "MC: Willkommen bei “Ein Hoch auf\n",
+        "Knurspe”. Ich hoffe, es geht allen gut.\r",
+        "Wie immer ist auch heute der\n",
+        "Knurspmaniac zu Gast.\r",
+        "Knurspmaniac: Alles klar?\r",
+        "MC: Heute geht es um einen Knursp von\n",
+        "{STRVAR_1 3, 0}. Natürlich gerührt und\f",
+        "nicht geschüttelt.\r",
+        "Knurspmaniac: Oh!\n",
+        "{STRVAR_1 9, 1}!\r",
+        "Ich bin so überrascht, dass mir kein\n",
+        "knurspiger Kommentar einfällt!\r",
+        "MC: Beim Anblick des fertigen Knursps\n",
+        "gab {STRVAR_1 3, 0} folgenden Kommentar:\f",
+        "“{STRVAR_1 28, 2}!”\r",
+        "Knurspmaniac: Ich würde so gerne\n",
+        "in diesen Knursp beißen!\r",
+        "MC: Nehmt euch ein Beispiel an\n",
+        "{STRVAR_1 3, 0} und legt los!\r",
+        "Bis bald, wenn wir wieder schmackhafte\n",
+        "Knurspe präsentieren!"
+      ]
+    },
+    {
+      "id": "msg_0365_00042",
+      "de_DE": [
+        "MC: Willkommen bei “Ein Hoch auf\n",
+        "Knurspe”. Ich hoffe, es geht allen gut.\r",
+        "Wie immer ist auch heute der\n",
+        "Knurspmaniac zu Gast.\r",
+        "Knurspmaniac: Alles klar?\r",
+        "MC: Heute geht es um einen Knursp von\n",
+        "{STRVAR_1 3, 0}. Natürlich gerührt und\f",
+        "nicht geschüttelt.\r",
+        "Knurspmaniac: Oh!\n",
+        "{STRVAR_1 9, 1}!\r",
+        "Diesen Knursp zu essen, wäre ungefähr\n",
+        "so, als hätte ich die Nintendo Wi-Fi\f",
+        "Connection in meinem Mund!\r",
+        "MC: Beim Anblick des fertigen Knursps\n",
+        "gab {STRVAR_1 3, 0} folgenden Kommentar:\f",
+        "“{STRVAR_1 28, 2}!”\r",
+        "Knurspmaniac: Ich würde so gerne\n",
+        "in diesen Knursp beißen!\r",
+        "MC: Nehmt euch ein Beispiel an\n",
+        "{STRVAR_1 3, 0} und legt los!\r",
+        "Bis bald, wenn wir wieder schmackhafte\n",
+        "Knurspe präsentieren!"
+      ]
+    },
+    {
+      "id": "msg_0365_00043",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0365_00044",
+      "de_DE": [
+        "MC: Herzlich willkommen, meine Damen\n",
+        "und Herren. Ich hoffe, es geht Ihnen\f",
+        "gut.\r",
+        "Vielen Dank, dass Sie wieder bei\n",
+        "“Am Platz der Treue” dabei sind.\r",
+        "Heute möchte ich Ihre Augen auf einen\n",
+        "Spaziergang von {STRVAR_1 3, 0} richten.\r",
+        "Ist das nicht reizend?\r",
+        "{STRVAR_1 3, 0} ging mit\n",
+        "{STRVAR_1 0, 1} spazieren.\r",
+        "Sie gingen und gingen...\n",
+        "Und gingen...\r",
+        "{STRVAR_1 0, 1} gefiel das alles so sehr,\n",
+        "dass es z. B. das hübsche Item\f",
+        "{STRVAR_1 31, 3} fand.\r",
+        "{STRVAR_1 3, 0} und {STRVAR_1 0, 1} hatten\n",
+        "einfach eine glänzende Zeit zusammen.\r",
+        "Der Trainer beschrieb, was beide\n",
+        "fühlten: “{STRVAR_1 28, 5}”.\r",
+        "Das Band zwischen Mensch und\n",
+        "Pokémon... Ist es nicht wunderbar?\r",
+        "Bis zum nächsten Mal! Adieu!"
+      ]
+    },
+    {
+      "id": "msg_0365_00045",
+      "de_DE": [
+        "MC: Herzlich willkommen, meine Damen\n",
+        "und Herren. Ich hoffe, es geht Ihnen\f",
+        "gut.\r",
+        "Vielen Dank, dass Sie wieder bei\n",
+        "“Am Platz der Treue” dabei sind.\r",
+        "Heute möchte ich Ihre Augen auf einen\n",
+        "Spaziergang von {STRVAR_1 3, 0} richten.\r",
+        "Ist das nicht reizend?\r",
+        "{STRVAR_1 3, 0} ging mit\n",
+        "{STRVAR_1 0, 1} spazieren.\r",
+        "Sie gingen und gingen...\n",
+        "Und gingen...\r",
+        "{STRVAR_1 3, 0} und {STRVAR_1 0, 1} hatten\n",
+        "einfach eine glänzende Zeit zusammen.\r",
+        "Der Trainer beschrieb, was beide\n",
+        "fühlten: “{STRVAR_1 28, 5}”.\r",
+        "Das Band zwischen Mensch und\n",
+        "Pokémon... Ist es nicht wunderbar?\r",
+        "Bis zum nächsten Mal! Adieu!"
+      ]
+    },
+    {
+      "id": "msg_0365_00046",
+      "de_DE": [
+        "MC: Herzlich willkommen, meine Damen\n",
+        "und Herren. Ich hoffe, es geht Ihnen\f",
+        "gut.\r",
+        "Vielen Dank, dass Sie wieder bei\n",
+        "“Am Platz der Treue” dabei sind.\r",
+        "Heute möchte ich Ihre Augen auf einen\n",
+        "Spaziergang von {STRVAR_1 3, 0} richten.\r",
+        "Ist das nicht reizend?\r",
+        "{STRVAR_1 3, 0} ging mit\n",
+        "{STRVAR_1 0, 1} spazieren.\r",
+        "Sie gingen und gingen...\n",
+        "Und gingen...\r",
+        "{STRVAR_1 0, 1} gefiel das alles so sehr,\n",
+        "dass es beispielsweise das schmackhafte\f",
+        "Item {STRVAR_1 8, 3} fand.\r",
+        "{STRVAR_1 3, 0} und {STRVAR_1 0, 1} hatten\n",
+        "einfach eine glänzende Zeit zusammen.\r",
+        "Der Trainer beschrieb, was beide\n",
+        "fühlten: “{STRVAR_1 28, 5}”.\r",
+        "Das Band zwischen Mensch und\n",
+        "Pokémon... Ist es nicht wunderbar?\r",
+        "Bis zum nächsten Mal! Adieu!"
+      ]
+    }
+  ]
+}

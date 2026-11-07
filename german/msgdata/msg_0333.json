@@ -1,0 +1,30 @@
+{
+  "key": 42030,
+  "messages": [
+    {
+      "id": "msg_0333_00000",
+      "de_DE": [
+        "Huaaah!\r",
+        "Ich spüre einen dunklen Schatten\n",
+        "über dir hängen!\f",
+        "Verwende dies, um ihn loszuwerden!\r"
+      ]
+    },
+    {
+      "id": "msg_0333_00001",
+      "de_DE": [
+        "Das war echt gefährlich!\n",
+        "Jetzt bist du in Sicherheit!"
+      ]
+    },
+    {
+      "id": "msg_0333_00002",
+      "de_DE": [
+        "Meine Oma befasst sich mit dem\n",
+        "Vertreiben böser Geister.\f",
+        "Es tut mir leid, wenn sie dich\f",
+        "erschreckt haben sollte."
+      ]
+    }
+  ]
+}

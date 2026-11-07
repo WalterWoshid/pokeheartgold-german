@@ -1,0 +1,71 @@
+{
+  "key": 32403,
+  "messages": [
+    {
+      "id": "msg_0465_00000",
+      "de_DE": [
+        "...Ich wusste es!\n",
+        "Die heutige Nummer ist {STRVAR_1 51, 0}!\r",
+        "Zeig mir ein Pokémon Lv. {STRVAR_1 51, 0}.\n",
+        "Dann gebe ich dir eine Belohnung."
+      ]
+    },
+    {
+      "id": "msg_0465_00001",
+      "de_DE": [
+        "...Ich wusste es!\n",
+        "Die heutige Nummer ist {STRVAR_1 51, 0}!\r",
+        "Zeig mir ein Pokémon Lv. {STRVAR_1 51, 0}.\n",
+        "Dann gebe ich dir eine Belohnung.\r",
+        "...Oh, ah, huch?!?\r",
+        "Dein {STRVAR_1 0, 1} ist Lv. {STRVAR_1 51, 0}.\n",
+        "Das ist wirklich bemerkenswert!\r",
+        "Und als Belohnung, dass du mir\n",
+        "dein Pokémon gezeigt hast, gebe\f",
+        "ich dir das Item {STRVAR_1 8, 2}.\r"
+      ]
+    },
+    {
+      "id": "msg_0465_00002",
+      "de_DE": [
+        "Was ist das? Du hast keinen Platz in\n",
+        "deinem Beutel. Ich bewahre das Item\f",
+        "für dich auf, komm bitte später wieder."
+      ]
+    },
+    {
+      "id": "msg_0465_00003",
+      "de_DE": [
+        "Als Belohnung, dass du mir dein\n",
+        "Pokémon gezeigt hast, gebe\f",
+        "ich dir {STRVAR_1 8, 2}.\r"
+      ]
+    },
+    {
+      "id": "msg_0465_00004",
+      "de_DE": [
+        "Pokémon mit einem hohen Level\n",
+        "waren irgendwann Pokémon mit\f",
+        "einem niedrigen Level.\r",
+        "Pokémon mit einem niedrigen\n",
+        "Level werden weiter wachsen.\r",
+        "So funktioniert das, Kindchen.\n",
+        "Komm morgen wieder."
+      ]
+    },
+    {
+      "id": "msg_0465_00005",
+      "de_DE": [
+        "Bei mir kannst du Items gewinnen!\r",
+        "Schwarzgurt: Verstärkt Attacken\n",
+        "vom Typ Kampf.\r",
+        "Expertengurt: Verstärkt Attacken,\n",
+        "wenn sie sehr effektiv sind.\r",
+        "Fokusgurt: Der Träger vermeidet,\n",
+        "durch einen einzigen Treffer\r",
+        "kampfunfähig zu werden, wenn\n",
+        "seine KP voll sind."
+      ]
+    }
+  ]
+}

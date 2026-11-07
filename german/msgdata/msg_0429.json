@@ -1,0 +1,132 @@
+{
+  "key": 37039,
+  "messages": [
+    {
+      "id": "msg_0429_00000",
+      "de_DE": "Bitte wähle."
+    },
+    {
+      "id": "msg_0429_00001",
+      "de_DE": "Womit tauschen?"
+    },
+    {
+      "id": "msg_0429_00002",
+      "de_DE": "Wohin damit?"
+    },
+    {
+      "id": "msg_0429_00003",
+      "de_DE": [
+        "Alle abgelegten Blöcke werden\n",
+        "entfernt. Trotzdem fortfahren?"
+      ]
+    },
+    {
+      "id": "msg_0429_00004",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0429_00005",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0429_00006",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0429_00007",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0429_00008",
+      "de_DE": "BEWEGEN"
+    },
+    {
+      "id": "msg_0429_00009",
+      "de_DE": "{STRVAR_1 50, 0, 0}/2"
+    },
+    {
+      "id": "msg_0429_00010",
+      "de_DE": [
+        "Anzahl der Blöcke, die in Wiesen\n",
+        "lebende Pokémon anziehen:"
+      ]
+    },
+    {
+      "id": "msg_0429_00011",
+      "de_DE": [
+        "Anzahl der Blöcke, die im Wald\n",
+        "lebende Pokémon anziehen:"
+      ]
+    },
+    {
+      "id": "msg_0429_00012",
+      "de_DE": [
+        "Anzahl der Blöcke, die auf Fels\n",
+        "lebende Pokémon anziehen:"
+      ]
+    },
+    {
+      "id": "msg_0429_00013",
+      "de_DE": [
+        "Anzahl der Blöcke, die am Ufer\n",
+        "lebende Pokémon anziehen:"
+      ]
+    },
+    {
+      "id": "msg_0429_00014",
+      "de_DE": "Anzahl restlicher Blöcke:"
+    },
+    {
+      "id": "msg_0429_00015",
+      "de_DE": "{STRVAR_1 51, 0, 0}"
+    },
+    {
+      "id": "msg_0429_00016",
+      "de_DE": "Grasland"
+    },
+    {
+      "id": "msg_0429_00017",
+      "de_DE": "Blumenbeete"
+    },
+    {
+      "id": "msg_0429_00018",
+      "de_DE": "Savanne"
+    },
+    {
+      "id": "msg_0429_00019",
+      "de_DE": "Felsplateau"
+    },
+    {
+      "id": "msg_0429_00020",
+      "de_DE": "Felsenufer"
+    },
+    {
+      "id": "msg_0429_00021",
+      "de_DE": "Moorlandschaft"
+    },
+    {
+      "id": "msg_0429_00022",
+      "de_DE": "Waldstück"
+    },
+    {
+      "id": "msg_0429_00023",
+      "de_DE": "Waldesufer"
+    },
+    {
+      "id": "msg_0429_00024",
+      "de_DE": "Sumpfland"
+    },
+    {
+      "id": "msg_0429_00025",
+      "de_DE": "Einöde"
+    },
+    {
+      "id": "msg_0429_00026",
+      "de_DE": "Berglandschaft"
+    },
+    {
+      "id": "msg_0429_00027",
+      "de_DE": "Wüste"
+    }
+  ]
+}

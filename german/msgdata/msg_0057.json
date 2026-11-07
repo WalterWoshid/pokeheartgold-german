@@ -1,0 +1,124 @@
+{
+  "key": 50211,
+  "messages": [
+    {
+      "id": "msg_0057_00000",
+      "de_DE": [
+        "Schon viele Menschen haben sich die\n",
+        "Buntschwinge zu eigen gemacht und\f",
+        "den Turm erklommen, um HO-OH zu rufen.\r",
+        "Aber bisher hat es noch keiner von\n",
+        "ihnen tatsächlich bewerkstelligt, HO-OH\f",
+        "wieder hervorzulocken...\r",
+        "Die Buntschwinge ist ein bisschen wie\n",
+        "ein Passierschein für diesen Turm.\r",
+        "Das, worauf HO-OH wirklich wartet, ist\n",
+        "ein tiefer, unsichtbarer Bund zwischen\f",
+        "einem Menschen und seinen Pokémon.\r",
+        "Aber wahrscheinlich sucht es eigentlich\n",
+        "nach einer Person, die seine Verbindung\f",
+        "zu den Menschen wiederherstellen kann.\r"
+      ]
+    },
+    {
+      "id": "msg_0057_00001",
+      "de_DE": [
+        "Das Pokémon dieses Turms, mit anderen\n",
+        "Worten also HO-OH, hat sich einst hoch\f",
+        "in die Luft aufgeschwungen und ist\f",
+        "seitdem nie wieder zurückgekehrt.\r",
+        "Aber wenn eine Person mit der Fähigkeit,\n",
+        "eine tiefe Freundschaft mit einem\f",
+        "Pokémon einzugehen, etwas mitbringt,\f",
+        "mit dem sich HO-OH verbunden fühlt,\f",
+        "antwortet es vielleicht auf das Anrufen\f",
+        "dieser Person und steigt wieder zu uns\f",
+        "herab...\r"
+      ]
+    },
+    {
+      "id": "msg_0057_00002",
+      "de_DE": "A-a-aber das ist doch...\r"
+    },
+    {
+      "id": "msg_0057_00003",
+      "de_DE": [
+        "Du hast sie also gefunden...\n",
+        "Bitte, du darfst weitergehen."
+      ]
+    },
+    {
+      "id": "msg_0057_00004",
+      "de_DE": [
+        "Die Buntschwinge ist ein bisschen wie ein\n",
+        "Passierschein, der es dir jederzeit\f",
+        "erlaubt, diesen Turm zu erklimmen.\r",
+        "Aber solange du nicht die Gabe besitzt,\n",
+        "das Band der Freundschaft zwischen\f",
+        "Menschen und Pokémon wieder neuzu-\f",
+        "knüpfen, wird HO-OH auf keinen Fall\f",
+        "vor dir erscheinen..."
+      ]
+    },
+    {
+      "id": "msg_0057_00005",
+      "de_DE": [
+        "Nun gut, nun gut! Der Rest liegt\r",
+        "jetzt bei dir und der Klarglocke!"
+      ]
+    },
+    {
+      "id": "msg_0057_00006",
+      "de_DE": [
+        "Für jemanden in deinem Alter hast\n",
+        "du es wirklich weit gebracht..."
+      ]
+    },
+    {
+      "id": "msg_0057_00007",
+      "de_DE": [
+        "Jens: Im Glockenturm wird das Band\n",
+        "zwischen Menschen und ihren Pokémon\f",
+        "auf die Probe gestellt.\r",
+        "Du bist wahrscheinlich schon mit der\n",
+        "Gabe, die benötigt wird, um hier zu\f",
+        "bestehen, auf die Welt gekommen.\r",
+        "Wollen wir nicht vielleicht unsere\n",
+        "Telefonnummern austauschen?\r",
+        "Ich möchte gerne mehr über deine\n",
+        "Freundschaft zu diesen Pokémon\f",
+        "erfahren. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0057_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Jens’ Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0057_00009",
+      "de_DE": [
+        "Jens: Ich würde mich freuen, wenn du\n",
+        "dich dienstagabends mal melden würdest!\r",
+        "Da sollte ich etwas Zeit für dich haben."
+      ]
+    },
+    {
+      "id": "msg_0057_00010",
+      "de_DE": [
+        "Jens: Schade... ich hätte nur zu gerne\n",
+        "noch mehr über deine Freundschaft zu\f",
+        "diesen Pokémon erfahren..."
+      ]
+    },
+    {
+      "id": "msg_0057_00011",
+      "de_DE": [
+        "Jens: Wollen wir Telefonnummern\n",
+        "austauschen? {YESNO 0}"
+      ]
+    }
+  ]
+}

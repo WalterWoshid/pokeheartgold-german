@@ -1,0 +1,107 @@
+{
+  "key": 64978,
+  "messages": [
+    {
+      "id": "msg_0714_00000",
+      "de_DE": "Udo"
+    },
+    {
+      "id": "msg_0714_00001",
+      "de_DE": [
+        "Lass uns Telefonnummern tauschen.\n",
+        "Ich meine... wenn du willst? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0714_00002",
+      "de_DE": [
+        "Ruf mich an, wenn dir wieder mal\n",
+        "der Sinn nach einem Kampf steht!"
+      ]
+    },
+    {
+      "id": "msg_0714_00003",
+      "de_DE": [
+        "Verstehe... schade.\n",
+        "Sprich mich einfach wieder an, wenn\f",
+        "du noch einmal kämpfen möchtest!"
+      ]
+    },
+    {
+      "id": "msg_0714_00004",
+      "de_DE": [
+        "Und? Hast du es dir nun anders\n",
+        "überlegt... mit dem Nummerntausch?{YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0714_00005",
+      "de_DE": [
+        "Ich höre dich so deutlich, als stündest\n",
+        "du neben mir! Bei schönem Wetter\f",
+        "hat man hier wirklich tollen Empfang!"
+      ]
+    },
+    {
+      "id": "msg_0714_00006",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist immer dabei!\n",
+        "Es ist so süß! Ich liebe es!\r",
+        "Themawechsel! Neulich habe ich ein\n",
+        "{STRVAR_1 0, 11, 0} gesehen. Ich dachte,\f",
+        "das seien harte Brocken, aber es zu\f",
+        "besiegen war ein Klacks!\r",
+        "Lass uns wieder mal plaudern, ja?"
+      ]
+    },
+    {
+      "id": "msg_0714_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist immer dabei!\n",
+        "Es ist so süß! Ich liebe es!\r",
+        "He, hast du zufällig ein {STRVAR_1 0, 11, 0}?\r",
+        "Ich schaffe es einfach nicht, mir eines\n",
+        "zu fangen! Was mache ich bloß falsch?\r",
+        "Lass uns wieder mal plaudern, ja?"
+      ]
+    },
+    {
+      "id": "msg_0714_00008",
+      "de_DE": [
+        "He, lass unsere Pokémon mal wieder\n",
+        "gegeneinander antreten!\r",
+        "Ich stehe hier: {STRVAR_1 4, 3, 0}.\n",
+        "Sprich mich einfach an!\r",
+        "Übrigens - wenn du {STRVAR_1 4, 3, 0}\n",
+        "auf deiner Pokécom-Karte berührst,\f",
+        "erscheint dort eine !-Markierung.\r",
+        "So findest du dich leichter zurecht!"
+      ]
+    },
+    {
+      "id": "msg_0714_00009",
+      "de_DE": [
+        "Komm schon, lass uns kämpfen!\n",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!\r",
+        "Wenn du vergessen solltest, wo ich bin,\n",
+        "kannst du auf der Karte in deinem\f",
+        "Pokécom nachsehen!"
+      ]
+    },
+    {
+      "id": "msg_0714_00010",
+      "de_DE": [
+        "Für Käfer-Pokémon nehme ich jeden\n",
+        "noch so weiten Weg auf mich!\r",
+        "...Aber gut, meistens halte ich\n",
+        "mich hier auf Route 35 auf.\r",
+        "Wieso auch nicht?\n",
+        "Der See ist gleich um die Ecke,\f",
+        "es gibt reichlich hohes Gras\f",
+        "und das Beste: Bis zum Nationalpark\f",
+        "sind es nur 28 Schritte!\f",
+        "Wo könnte es schöner sein?"
+      ]
+    }
+  ]
+}

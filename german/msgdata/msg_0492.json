@@ -1,0 +1,70 @@
+{
+  "key": 39268,
+  "messages": [
+    {
+      "id": "msg_0492_00000",
+      "de_DE": [
+        "Erika: Hallohoo! Echt schönes Wetter,\n",
+        "das wir heute wieder haben, oder?\r",
+        "Ich könnte auf der Stelle einschlafen...\r",
+        "Mein Name ist Erika! Ich bin die\n",
+        "Arenaleiterin von Prismania City!\r",
+        "...Oh! Du kommst aus Johto, sagst du?\n",
+        "Na hallo! Nett, dich kennenzulernen!\r",
+        "Neben meinen Blumensteckkünsten\n",
+        "habe ich mein ganzes Leben lang\f",
+        "pausenlos meine Pokémon trainiert...\r",
+        "Ich werde nicht verlieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0492_00001",
+      "de_DE": [
+        "Erika: Ich gebe mich geschlagen.\n",
+        "Du bist wirklich sehr stark...\r",
+        "Hier, nimm diesen Farborden.\r"
+      ]
+    },
+    {
+      "id": "msg_0492_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Farborden!"
+      ]
+    },
+    {
+      "id": "msg_0492_00003",
+      "de_DE": [
+        "Erika: Das war ein ganz ausgezeichneter\n",
+        "Kampf! Ich bin beeindruckt!\r",
+        "Dafür sollst du etwas ganz Besonderes\n",
+        "bekommen! Die TM19 Gigasauger!\r",
+        "Wenn eins deiner Pokémon diese Attacke\n",
+        "einsetzt, erhält es selbst die Hälfte\f",
+        "des Schadens, den sie angerichtet hat.\f",
+        "Eine gar teuflische Attacke!\r"
+      ]
+    },
+    {
+      "id": "msg_0492_00004",
+      "de_DE": [
+        "Erika: Niemand verliert gerne...\r",
+        "Aber es wirkt immer anspornend, wenn\n",
+        "man einem starken Trainer begegnet."
+      ]
+    },
+    {
+      "id": "msg_0492_00005",
+      "de_DE": "Prismania City Pokémon-Arena"
+    },
+    {
+      "id": "msg_0492_00006",
+      "de_DE": [
+        "Prismania City Pokémon-Arena\r",
+        "Leiterin: Erika\n",
+        "Anerkannte Trainer:\f",
+        "{STRVAR_1 3, 0, 0}"
+      ]
+    }
+  ]
+}

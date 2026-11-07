@@ -1,0 +1,43 @@
+{
+  "key": 46206,
+  "messages": [
+    {
+      "id": "msg_0386_00000",
+      "de_DE": [
+        "Oh, du erstellst einen Pokédex?\r",
+        "Dann kämpfst du bestimmt oft\n",
+        "gegen andere Pokémon, stimmt’s?\r",
+        "Setze dabei doch ab und zu mal die\n",
+        "Attacke aus dieser TM ein!"
+      ]
+    },
+    {
+      "id": "msg_0386_00001",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0386_00002",
+      "de_DE": [
+        "Diese TM enthält Verhöhner!\r",
+        "Wenn du diese Attacke einsetzt, kann\n",
+        "dich das gegnerische Pokémon für kurze\f",
+        "Zeit nur noch mit Attacken angreifen,\f",
+        "die körperlichen Schaden anrichten..."
+      ]
+    },
+    {
+      "id": "msg_0386_00003",
+      "de_DE": "SMETTBO: Smett, Smettbooo!"
+    },
+    {
+      "id": "msg_0386_00004",
+      "de_DE": [
+        "Hast du den Schrein im Wald gesehen,\n",
+        "wo man dem Schutzpatron huldigt?\r",
+        "Gestern, heute, morgen - der Patron\n",
+        "wacht zu jeder Zeit über den Wald.\f",
+        "Er ist bestimmt ein Pflanzen-Pokémon!"
+      ]
+    }
+  ]
+}

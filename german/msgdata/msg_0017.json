@@ -1,0 +1,84 @@
+{
+  "key": 17467,
+  "messages": [
+    {
+      "id": "msg_0017_00000",
+      "de_DE": [
+        "Eine Rekrutierungsnachricht eines\n",
+        "Pokémon Rangers ist eingetroffen.\n",
+        "\n",
+        "Du kannst von diesem Pokémon\n",
+        "Ranger ein {COLOR 1}MANAPHY-Ei{COLOR 0} erhalten!\n",
+        "\n",
+        "Wähle im nächsten Bildschirm\n",
+        "{COLOR 1}Link mit Pokémon Ranger{COLOR 0} aus.\n",
+        "Zum Fortfahren bitte den\n",
+        "Touchscreen berühren."
+      ]
+    },
+    {
+      "id": "msg_0017_00001",
+      "de_DE": [
+        "Das Signal eines Geheimgeschehens\n",
+        "wurde lokalisiert.\n",
+        "\n",
+        "Du kannst nun das Geheimgeschehen\n",
+        "empfangen!\n",
+        "\n",
+        "Wähle im nächsten Bildschirm\n",
+        "{COLOR 1}Geheimgeschehen{COLOR 0} aus.\n",
+        "Zum Fortfahren bitte den\n",
+        "Touchscreen berühren."
+      ]
+    },
+    {
+      "id": "msg_0017_00002",
+      "de_DE": [
+        "Eine Rekrutierungsnachricht eines\n",
+        "Pokémon Rangers ist eingetroffen.\n",
+        "\n",
+        "Wenn du mit diesem Pokémon Ranger\n",
+        "kommunizieren möchtest, musst du\n",
+        "zuerst während deines Abenteuers\n",
+        "einen Pokédex erhalten.\n",
+        "Zum Fortfahren bitte den\n",
+        "Touchscreen berühren."
+      ]
+    },
+    {
+      "id": "msg_0017_00003",
+      "de_DE": [
+        "Das Signal eines Geheimgeschehens\n",
+        "wurde lokalisiert.\n",
+        "\n",
+        "Um das Geheimgeschehen empfangen\n",
+        "zu können, musst du zuerst\n",
+        "während deines Abenteuers einen\n",
+        "Pokédex erhalten. Zum Fortfahren\n",
+        "bitte den Touchscreen berühren."
+      ]
+    },
+    {
+      "id": "msg_0017_00004",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0017_00005",
+      "de_DE": [
+        "{COLOR 1}ACHTUNG!\n",
+        "{COLOR 0}Es existiert bereits ein Spielstand.\n",
+        "Beginnst du jetzt ein neues Abenteuer,\n",
+        "kannst du dieses nicht speichern.\n",
+        "Möchtest du trotzdem neu anfangen?"
+      ]
+    },
+    {
+      "id": "msg_0017_00006",
+      "de_DE": "Abenteuer beginnen"
+    },
+    {
+      "id": "msg_0017_00007",
+      "de_DE": "Zurück zum Hauptmenü"
+    }
+  ]
+}

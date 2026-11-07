@@ -1,0 +1,160 @@
+{
+  "key": 45872,
+  "messages": [
+    {
+      "id": "msg_0332_00000",
+      "de_DE": [
+        "Guten Morgen! Du bist also\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Ich habe ein Geschenk für dich\n",
+        "erhalten. Hier, bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00001",
+      "de_DE": [
+        "Guten Tag! Du bist also\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Ich habe ein Geschenk für dich\n",
+        "erhalten. Hier, bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00002",
+      "de_DE": [
+        "Hallo! Du bist also\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Ich habe ein Geschenk für dich\n",
+        "erhalten. Hier, bitte schön!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00003",
+      "de_DE": [
+        "Ich habe leider kein Geschenk\n",
+        "für dich erhalten.\r",
+        "Komm bald wieder!"
+      ]
+    },
+    {
+      "id": "msg_0332_00004",
+      "de_DE": [
+        "Tut mir leid, aber dein Team ist voll.\n",
+        "Ich kann es dir noch nicht geben."
+      ]
+    },
+    {
+      "id": "msg_0332_00005",
+      "de_DE": [
+        "{STRVAR_1 8, 0}? Noch mehr? Du hast\n",
+        "schon zu viele, um weitere anzunehmen."
+      ]
+    },
+    {
+      "id": "msg_0332_00006",
+      "de_DE": [
+        "Um es anzunehmen, musst du zuerst\n",
+        "Raum für Dekorationsobjekte schaffen."
+      ]
+    },
+    {
+      "id": "msg_0332_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat ein\n",
+        "{COLOR 101}{STRVAR_1 0, 1}{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat ein\n",
+        "{COLOR 1}Pokémon-Ei{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00009",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat das Geschenk\n",
+        "{COLOR 1}{STRVAR_1 8, 1}{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00010",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat die {COLOR 1}Regeln\n",
+        "für den {STRVAR_1 26, 1}{COLOR 0} erhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00011",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat das Geschenk\n",
+        "{COLOR 1}{STRVAR_1 10, 1}{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00012",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat das Geschenk\n",
+        "{COLOR 1}{STRVAR_1 31, 1}{COLOR 0} erhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00013",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat das\n",
+        "{COLOR 1}MANAPHY-Ei{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00014",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat eine\n",
+        "{COLOR 1}Mitgl.Karte{COLOR 0} erhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00015",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat\n",
+        "{COLOR 1}Eichs Brief{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00016",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat eine\n",
+        "{COLOR 1}Azurflöte{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00017",
+      "de_DE": "Komm bald wieder!"
+    },
+    {
+      "id": "msg_0332_00018",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat das Pokétch-Zubehör\n",
+        "{COLOR 1}{STRVAR_1 24, 1}{COLOR 0} erhalten!\r"
+      ]
+    },
+    {
+      "id": "msg_0332_00019",
+      "de_DE": [
+        "...Oh-oh. {STRVAR_1 3, 0}, du hast noch\n",
+        "keinen Pokétch.\r",
+        "Ohne Pokétch kann ich dir dieses\n",
+        "Zubehör nicht geben."
+      ]
+    },
+    {
+      "id": "msg_0332_00020",
+      "de_DE": [
+        "{STRVAR_1 3, 0} wurde das\n",
+        "{COLOR 1}{STRVAR_1 39, 1}{COLOR 0} verliehen!\r",
+        "Das {STRVAR_1 39, 1}\n",
+        "wurde {STRVAR_1 1, 2} gegeben.\r"
+      ]
+    }
+  ]
+}

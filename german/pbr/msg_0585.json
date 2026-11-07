@@ -1,0 +1,38 @@
+{
+  "key": 47768,
+  "messages": [
+    {
+      "id": "msg_0585_00000",
+      "de_DE": [
+        "Route 230\n",
+        "Kampfareal"
+      ]
+    },
+    {
+      "id": "msg_0585_00001",
+      "de_DE": [
+        "Einen Moment mal, Trainer!\r",
+        "Da du schon mal hier bist, musst\n",
+        "du auch mal in den Duellturm.\r",
+        "Dort erhältst du keine\n",
+        "Erfahrungspunkte.\r",
+        "Auch dein Pokédex wird\n",
+        "nicht aktualisiert.\r",
+        "Dieser Ort dient den Trainern\n",
+        "einzig und allein dazu, ihre\f",
+        "Fähigkeiten auszubauen."
+      ]
+    },
+    {
+      "id": "msg_0585_00002",
+      "de_DE": [
+        "Einen Moment mal, Trainer!\n",
+        "Warst du schon im Duellturm?\r",
+        "Genau der richtige Ort, um sich\n",
+        "nützliche Kampftechniken anzueignen.\r",
+        "Dort wirst du alle möglichen Pokémon\n",
+        "und ihre Attacken erleben können!"
+      ]
+    }
+  ]
+}

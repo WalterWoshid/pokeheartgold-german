@@ -1,0 +1,484 @@
+{
+  "key": 34929,
+  "messages": [
+    {
+      "id": "msg_0666_00000",
+      "de_DE": "Prof. Eich"
+    },
+    {
+      "id": "msg_0666_00001",
+      "de_DE": [
+        "Hallo, hier Professor Eich am Apparat...\r",
+        "Oh, {STRVAR_1 3, 0, 0}, ich erinnere mich an\n",
+        "dich, aber deine Stimme klingt am\f",
+        "Telefon so anders..."
+      ]
+    },
+    {
+      "id": "msg_0666_00002",
+      "de_DE": [
+        "Hallo, hier Professor Eich am Apparat...\r",
+        "Oh, {STRVAR_1 3, 0, 0}, ich erinnere mich an\n",
+        "dich, aber deine Stimme klingt am\f",
+        "Telefon so anders..."
+      ]
+    },
+    {
+      "id": "msg_0666_00003",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Du scheinst ja ganz schön viele Pokémon\f",
+        "zu fangen!"
+      ]
+    },
+    {
+      "id": "msg_0666_00004",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Die Vervollständigung deines Pokédex\f",
+        "scheint ja reibungslos zu verlaufen!"
+      ]
+    },
+    {
+      "id": "msg_0666_00005",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Du legst ja ein Tempo vor!\r",
+        "Das erinnert mich an meine eigene\n",
+        "Jugend!"
+      ]
+    },
+    {
+      "id": "msg_0666_00006",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Gönne dir eine kleine Verschnaufpause,\f",
+        "wenn du erschöpft bist!\f",
+        "Und übernimm dich bloß nicht!"
+      ]
+    },
+    {
+      "id": "msg_0666_00007",
+      "de_DE": [
+        "Ich bin’s, Professor Eich!\n",
+        "Das Hin- und Herfahren zwischen Kanto\f",
+        "und Johto für die Aufzeichnung der\f",
+        "Radiosendung geht ganz schön an die\f",
+        "Substanz! Aber egal!\r",
+        "Dein Pokédex scheint sich sehr schnell\n",
+        "zu vervollständigen, nicht wahr?\f",
+        "Das ist die Hauptsache!"
+      ]
+    },
+    {
+      "id": "msg_0666_00008",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Du hast ja sogar Pokémon gefunden, die\f",
+        "weder in Johto noch in Kanto leben!\r",
+        "Mit einem so begabten Trainer wie dir\n",
+        "an meiner Seite wird die Erforschung der\f",
+        "Pokémon große Fortschritte machen!"
+      ]
+    },
+    {
+      "id": "msg_0666_00009",
+      "de_DE": [
+        "Ich bin’s, Professor Eich!\n",
+        "In letzter Zeit bin ich so sehr mit\f",
+        "meiner Forschung beschäftigt, dass der\f",
+        "Schlaf ein bisschen zu kurz kommt!\r",
+        "Aber zurück zu dir!\n",
+        "Dein Pokédex ist ja fast vollständig!\f",
+        "Meinen Glückwunsch!!!"
+      ]
+    },
+    {
+      "id": "msg_0666_00010",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Du hast während der Vervollständigung\f",
+        "deines Pokédex bestimmt viele neue\f",
+        "Freunde gefunden, nicht wahr?\r",
+        "Das ist gerade das Schöne daran!"
+      ]
+    },
+    {
+      "id": "msg_0666_00011",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Einem so herausragenden Trainer wie dir\f",
+        "begegnet man wahrlich nicht alle Tage!\r",
+        "Ich kann Professor Lind gar nicht\n",
+        "genug dafür danken, dich mir\f",
+        "vorgestellt zu haben!"
+      ]
+    },
+    {
+      "id": "msg_0666_00012",
+      "de_DE": [
+        "Hallo, ich bin’s, Professor Eich!\n",
+        "Nein, du brauchst gar nichts zu sagen.\f",
+        "Ich weiß am besten, wie viel du\f",
+        "geleistet hast!\r",
+        "Deshalb habe ich dir ein Geschenk\n",
+        "machen wollen, aber leider habe ich\f",
+        "völlig vergessen, es dir zu geben!\f",
+        "Hahaha!\r",
+        "Aber keine Sorge! \n",
+        "Du wirst es immer noch gut\f",
+        "brauchen können!\f",
+        "Komm es dir doch bitte abholen!\r",
+        "Du findest mich in meinem Labor\n",
+        "in Alabastia!"
+      ]
+    },
+    {
+      "id": "msg_0666_00013",
+      "de_DE": [
+        "Hallo, hier Professor Eich am Apparat!\n",
+        "Ah, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00014",
+      "de_DE": [
+        "Hallo, hier Professor Eich am Apparat!\n",
+        "Ah, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00015",
+      "de_DE": "Wie kommst du mit deinem Pokédex voran?"
+    },
+    {
+      "id": "msg_0666_00016",
+      "de_DE": "Zurück"
+    },
+    {
+      "id": "msg_0666_00017",
+      "de_DE": "Pokédex bewerten"
+    },
+    {
+      "id": "msg_0666_00018",
+      "de_DE": "Johto-Pokédex bewerten"
+    },
+    {
+      "id": "msg_0666_00019",
+      "de_DE": "Nationalen Pokédex bewerten"
+    },
+    {
+      "id": "msg_0666_00020",
+      "de_DE": [
+        "Hm...\n",
+        "Du bist {STRVAR_1 52, 5, 0} Pokémon begegnet...\f",
+        "und hast {STRVAR_1 52, 6, 0} Pokémon gefangen...\f",
+        "Hm...\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00021",
+      "de_DE": "Zeige mir deinen Pokédex bald wieder!"
+    },
+    {
+      "id": "msg_0666_00022",
+      "de_DE": [
+        "Oh!\n",
+        "Der Johto-Pokédex ist ja vollständig!\r",
+        "Und das nur dank dir, {STRVAR_1 3, 0, 0}!!!\n",
+        "Das ist wirklich eine außergewöhnliche\f",
+        "Leistung!"
+      ]
+    },
+    {
+      "id": "msg_0666_00023",
+      "de_DE": [
+        "Oh!\n",
+        "Der Johto-Pokédex ist ja vollständig!\r",
+        "Und das nur dank dir, {STRVAR_1 3, 0, 0}!!!\n",
+        "Das ist wirklich eine außergewöhnliche\f",
+        "Leistung!"
+      ]
+    },
+    {
+      "id": "msg_0666_00024",
+      "de_DE": [
+        "Ausgezeichnet!\n",
+        "Der Nationale Pokédex ist ja\f",
+        "vollständig!\r",
+        "Ich habe mich nicht in dir getäuscht,\n",
+        "als wir uns zum ersten Mal begegnet\f",
+        "sind. Meine Entscheidung war\f",
+        "goldrichtig!\r",
+        "Ach, was sage ich!\n",
+        "Du hast meine Erwartungen bei Weitem\f",
+        "übertroffen, {STRVAR_1 3, 0, 0}! Dank dir!!!"
+      ]
+    },
+    {
+      "id": "msg_0666_00025",
+      "de_DE": [
+        "Ausgezeichnet!\n",
+        "Der Nationale Pokédex ist ja\f",
+        "vollständig!\r",
+        "Ich habe mich nicht in dir getäuscht,\n",
+        "als wir uns zum ersten Mal getroffen\f",
+        "haben. Meine Entscheidung war\f",
+        "goldrichtig!\r",
+        "Ach, was sage ich!\n",
+        "Du hast meine Erwartungen bei Weitem\f",
+        "übertroffen, {STRVAR_1 3, 0, 0}! Dank dir!!!"
+      ]
+    },
+    {
+      "id": "msg_0666_00026",
+      "de_DE": [
+        "Du überraschst mich immer wieder!\r",
+        "Du hast den Johto-Pokédex\n",
+        "vervollständigt und all meine\f",
+        "Erwartungen erfüllt!\r",
+        "Dir ist wahrlich keine Herausforderung\n",
+        "zu groß!\r",
+        "Ich habe das Gefühl, dass du alle\f",
+        "Pokémon auf der Welt entdecken kannst!"
+      ]
+    },
+    {
+      "id": "msg_0666_00027",
+      "de_DE": [
+        "Du überraschst mich immer wieder!\r",
+        "Du hast den Nationalen Pokédex\n",
+        "vervollständigt und dabei meine\f",
+        "Erwartungen deutlich übertroffen!\f",
+        "Mir fehlen förmlich die Worte!\r",
+        "Die Welt, in welcher Pokémon und Trainer\n",
+        "leben, steckt voller Überraschungen.\r",
+        "Aus diesem Grunde werde ich auch meiner\n",
+        "Forschung nie müde!"
+      ]
+    },
+    {
+      "id": "msg_0666_00028",
+      "de_DE": "Suche in hohem Gras nach Pokémon!\r"
+    },
+    {
+      "id": "msg_0666_00029",
+      "de_DE": [
+        "Gut.\n",
+        "Ich sehe, du kannst mit\f",
+        "Pokébällen umgehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00030",
+      "de_DE": [
+        "Du wirst immer besser, hast aber\n",
+        "noch einen langen Weg vor dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00031",
+      "de_DE": [
+        "Ich sehe, du hast deinen Rhythmus\n",
+        "gefunden!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00032",
+      "de_DE": [
+        "Du gibst dir Mühe!\n",
+        "Dein Pokédex wird immer besser!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00033",
+      "de_DE": [
+        "Es gibt auch Pokémon, die sich durch die\n",
+        "übliche Pflege allein nicht entwickeln!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00034",
+      "de_DE": [
+        "Hast du eine Angel?\n",
+        "Es gibt Pokémon, die du nur auf eine Art\f",
+        "fangen kannst: Du musst sie angeln!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00035",
+      "de_DE": [
+        "Ausgezeichnet!\n",
+        "Du scheinst eine Begabung fürs\f",
+        "Sammeln zu haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00036",
+      "de_DE": [
+        "Du kannst manchen Pokémon nur zu\n",
+        "gewissen Tageszeiten begegnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00037",
+      "de_DE": [
+        "Die Zahl deiner registrierten Pokémon\n",
+        "ist ja ziemlich gewachsen!\f",
+        "Mach weiter so!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00038",
+      "de_DE": [
+        "Beeindruckend! Du fängst Pokémon nicht\n",
+        "nur, sondern sorgst auch dafür, dass\f",
+        "sie sich entwickeln!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00039",
+      "de_DE": [
+        "Wenn du Kurts Pokébälle mit Bedacht\n",
+        "einzusetzen verstehst, dürfte die Zahl\f",
+        "deiner gefangenen Pokémon in die Höhe\f",
+        "schnellen!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00040",
+      "de_DE": [
+        "Wenn du Pokémon fangen möchtest,\n",
+        "ist es von Vorteil, Informationen mit\f",
+        "deinen Freunden auszutauschen!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00041",
+      "de_DE": [
+        "Tauschst du deine Pokémon mit\n",
+        "Freunden?\f",
+        "Alleine ist das sehr schwierig!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00042",
+      "de_DE": [
+        "Die 200-Marke ist erreicht!\n",
+        "Dein Pokédex entwickelt sich\f",
+        "ja prächtig!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00043",
+      "de_DE": [
+        "Du hast so viele Pokémon gefunden!\n",
+        "Dank deiner Hilfe kommt meine Forschung\f",
+        "gut voran!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00044",
+      "de_DE": [
+        "Fantastisch! Was soll ich mehr sagen?\n",
+        "Du hast das Zeug, ein ganz großer\f",
+        "Pokémon-Professor zu werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00045",
+      "de_DE": [
+        "Dein Pokédex ist glatter Wahnsinn!\n",
+        "Du wirst noch ein echter Profi!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00046",
+      "de_DE": [
+        "Es ist noch ein weiter Weg bis zum Ziel,\n",
+        "aber lass dich davon nicht entmutigen!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00047",
+      "de_DE": [
+        "Vergiss nicht, dass du manchen Pokémon\n",
+        "nur zu gewissen Tageszeiten begegnen\f",
+        "kannst!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00048",
+      "de_DE": [
+        "Wenn du einen Fels entzweischlägst,\n",
+        "begegnet dir manchmal ein Pokémon,\f",
+        "das sich darunter versteckt hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00049",
+      "de_DE": [
+        "Gute Arbeit bislang!\n",
+        "Aber dein Weg ist noch lang...\f",
+        "Gib dein Bestes!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00050",
+      "de_DE": [
+        "Wenn man Bäume mit Kopfnuss schüttelt,\n",
+        "fällt manchmal ein Pokémon herunter!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00051",
+      "de_DE": [
+        "In der Safari-Zone begegnet man vielen\n",
+        "Pokémon, die es so in Johto nicht gibt!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00052",
+      "de_DE": [
+        "Gewisse Pokémon lassen sich durch Musik\n",
+        "aus dem Radio anlocken!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00053",
+      "de_DE": [
+        "Hm, du hast es weit gebracht!\n",
+        "Du beeindruckst mich wirklich!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00054",
+      "de_DE": [
+        "Jetzt kommt der Moment der Wahrheit!\n",
+        "Lass dich nicht entmutigen!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00055",
+      "de_DE": [
+        "Bald hast du es geschafft!\n",
+        "Ich glaube an dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00056",
+      "de_DE": [
+        "Ich habe noch nie einen so\n",
+        "herausragenden Trainer wie dich\f",
+        "getroffen!\r"
+      ]
+    },
+    {
+      "id": "msg_0666_00057",
+      "de_DE": [
+        "Wie kommst du mit deinem Pokédex\n",
+        "voran? {YESNO 0}"
+      ]
+    }
+  ]
+}

@@ -628,6 +628,9 @@ _02091CD4: .word 0x00000C18
 _02091CD8: .word 0x0000FFFF
 	thumb_func_end sub_02091CAC
 
+#ifdef GERMAN
+#include "easy_chat_german.inc"
+#else
 	.rodata
 
 _02106944:
@@ -3747,3 +3750,5 @@ sECMenu_Pokemon_MtoZ:
 	.short 0xFFFF
 
 	; File boundary
+
+#endif

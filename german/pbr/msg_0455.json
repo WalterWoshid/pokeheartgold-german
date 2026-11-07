@@ -1,0 +1,42 @@
+{
+  "key": 3819,
+  "messages": [
+    {
+      "id": "msg_0455_00000",
+      "de_DE": [
+        "Wenn du magst, kannst du dich\n",
+        "hier ausruhen.\r",
+        "Wie du sehen kannst, ist diese Hütte\n",
+        "heruntergekommen, daher kannst du\f",
+        "machen, was du möchtest."
+      ]
+    },
+    {
+      "id": "msg_0455_00001",
+      "de_DE": [
+        "Ich habe keine Speckschicht, wie\n",
+        "manche der Pokémon sie haben.\r",
+        "Daher trage ich mehrere Schichten\n",
+        "Kleidung übereinander."
+      ]
+    },
+    {
+      "id": "msg_0455_00002",
+      "de_DE": [
+        "Das ist ein Bett...\n",
+        "Möchtest du dich ausruhen?"
+      ]
+    },
+    {
+      "id": "msg_0455_00003",
+      "de_DE": "{STRVAR_1 3, 0} schläft schnell ein...\r"
+    },
+    {
+      "id": "msg_0455_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0} und die Pokémon\n",
+        "erholten sich vollständig!"
+      ]
+    }
+  ]
+}

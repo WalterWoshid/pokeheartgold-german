@@ -1,0 +1,101 @@
+{
+  "key": 50267,
+  "messages": [
+    {
+      "id": "msg_0094_00000",
+      "de_DE": [
+        "Jasmin: Dieses Pokémon hat immer\n",
+        "das Meer für uns ausgeleuchtet.\r",
+        "Aber dann...\n",
+        "wurde es plötzlich sehr krank.\f",
+        "Seitdem ringt es nur noch nach Luft...\r",
+        "In Anemonia City, auf der anderen\n",
+        "Seite des Ozeans, soll es einen\f",
+        "wundertätigen Apotheker geben, aber...\r",
+        "...ich kann Amphi nicht einfach\n",
+        "hier alleine lassen...\r",
+        "Würdest du mir einen Gefallen tun?\n",
+        "Könntest du vielleicht für mich\f",
+        "dort Medizin kaufen gehen?\r",
+        "Ich halte dir auch den Eingang offen...\r"
+      ]
+    },
+    {
+      "id": "msg_0094_00001",
+      "de_DE": [
+        "D-du tust mir doch den Gefallen, oder?\n",
+        "Du gehst doch für mich Medizin\f",
+        "kaufen, bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0094_00002",
+      "de_DE": [
+        "Jasmin: ...Kann Amphi mit dieser\n",
+        "Medizin geheilt werden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0094_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} überreicht Jasmin\n",
+        "den Geheimtrank."
+      ]
+    },
+    {
+      "id": "msg_0094_00004",
+      "de_DE": [
+        "Jasmin: Ni-nimm mir das\n",
+        "bitte nicht übel, ja?\r",
+        "Amphi lässt sich bloß\n",
+        "von niemand anderem\f",
+        "als mir füttern...\r"
+      ]
+    },
+    {
+      "id": "msg_0094_00005",
+      "de_DE": [
+        "Jasmin: ...\r",
+        "Wie geht es dir jetzt, Amphi?\r"
+      ]
+    },
+    {
+      "id": "msg_0094_00006",
+      "de_DE": "Amphi: Ampha! Ampha!\r"
+    },
+    {
+      "id": "msg_0094_00007",
+      "de_DE": [
+        "Jasmin: Oh, so ein Glück!\n",
+        "Es hat wirklich geklappt!\r",
+        "Ich bin dir ja so dankbar!\n",
+        "Das ist alles dein Verdienst!\r",
+        "...In Ordnung! Dann gehe\n",
+        "ich jetzt zurück in die Arena!\r"
+      ]
+    },
+    {
+      "id": "msg_0094_00008",
+      "de_DE": "Jasmin: Ich verstehe...\r"
+    },
+    {
+      "id": "msg_0094_00009",
+      "de_DE": "...Halte durch, Amphi!\r"
+    },
+    {
+      "id": "msg_0094_00010",
+      "de_DE": [
+        "AMPHI: ...\n",
+        "...Am... pha...\r"
+      ]
+    },
+    {
+      "id": "msg_0094_00011",
+      "de_DE": "Es scheint kaum Luft zu bekommen..."
+    },
+    {
+      "id": "msg_0094_00012",
+      "de_DE": "AMPHI: Ampha! Ampharos!"
+    }
+  ]
+}

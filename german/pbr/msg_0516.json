@@ -1,0 +1,124 @@
+{
+  "key": 1030,
+  "messages": [
+    {
+      "id": "msg_0516_00000",
+      "de_DE": [
+        "Aus einer einzigen Beere wächst eine\n",
+        "Pflanze, die mehrere Beeren trägt.\r",
+        "Pflanzt du an verschiedenen Orten\n",
+        "jeweils eine Beere, gibt es mehr und\f",
+        "mehr Beeren in der Welt.\r",
+        "Ich hoffe, du hilfst dabei, dass mehr\n",
+        "Beeren auf der Welt wachsen!\r"
+      ]
+    },
+    {
+      "id": "msg_0516_00001",
+      "de_DE": [
+        "Bitte komm morgen wieder. Dann habe\n",
+        "ich eine andere Beere für dich.\r",
+        "Bitte pflanze diese Beeren in \n",
+        "weichen Lehmboden!"
+      ]
+    },
+    {
+      "id": "msg_0516_00002",
+      "de_DE": [
+        "Trainer, bitte pflege Beeren, indem\n",
+        "du ihnen mit der Entonkanne\f",
+        "Wasser gibst.\r"
+      ]
+    },
+    {
+      "id": "msg_0516_00003",
+      "de_DE": [
+        "Nimm die Entonkanne und versorge die\n",
+        "frisch gepflanzten Beeren mit Wasser.\r",
+        "Du solltest die Beerenpflanzen mit\n",
+        "Wasser versorgen, während sie wachsen."
+      ]
+    },
+    {
+      "id": "msg_0516_00004",
+      "de_DE": [
+        "Hallo!\r",
+        "Wir tauschen deine Beeren\n",
+        "gegen Accessoires ein."
+      ]
+    },
+    {
+      "id": "msg_0516_00005",
+      "de_DE": [
+        "Vielen Dank, dass du uns so viele\n",
+        "Beeren im Tausch gegeben hast."
+      ]
+    },
+    {
+      "id": "msg_0516_00006",
+      "de_DE": "Welches Accessoire möchtest du haben?"
+    },
+    {
+      "id": "msg_0516_00007",
+      "de_DE": [
+        "Möchtest du {STRVAR_1 52, 1} {STRVAR_1 8, 0}\n",
+        "gegen das Accessoire {STRVAR_1 31, 2}\f",
+        "tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0516_00008",
+      "de_DE": "Vielen Dank!"
+    },
+    {
+      "id": "msg_0516_00009",
+      "de_DE": "Du hast nicht genug Beeren."
+    },
+    {
+      "id": "msg_0516_00010",
+      "de_DE": "Oh, dafür hast du keinen Platz mehr."
+    },
+    {
+      "id": "msg_0516_00011",
+      "de_DE": "Bitte komm bald wieder!"
+    },
+    {
+      "id": "msg_0516_00012",
+      "de_DE": [
+        "Für die {STRVAR_1 52, 1} {STRVAR_1 8, 0} bekommst\n",
+        "du das Accessoire {STRVAR_1 31, 2}."
+      ]
+    },
+    {
+      "id": "msg_0516_00013",
+      "de_DE": [
+        "Wow! Ich habe jedes Accessoire, das ich\n",
+        "hatte, gegen Beeren getauscht!"
+      ]
+    },
+    {
+      "id": "msg_0516_00014",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0516_00015",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0516_00016",
+      "de_DE": "{STRVAR_1 8, 0}"
+    },
+    {
+      "id": "msg_0516_00017",
+      "de_DE": "Benötigt: {STRVAR_1 52, 1} "
+    },
+    {
+      "id": "msg_0516_00018",
+      "de_DE": "Im Beutel: {STRVAR_1 52, 2}"
+    },
+    {
+      "id": "msg_0516_00019",
+      "de_DE": "ZURÜCK"
+    }
+  ]
+}

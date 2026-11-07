@@ -1,0 +1,36 @@
+{
+  "key": 21172,
+  "messages": [
+    {
+      "id": "msg_0439_00000",
+      "de_DE": [
+        "Herr Reichedel ist der Besitzer dieses\n",
+        "Anwesens. Dies ist sein Büro."
+      ]
+    },
+    {
+      "id": "msg_0439_00001",
+      "de_DE": [
+        "Hier geht es zum Trophäengarten.\r",
+        "Der Garten steht allen Besuchern\n",
+        "offen.\r",
+        "Aber Vorsicht: Im Garten können\n",
+        "plötzlich wilde Pokémon auftauchen!"
+      ]
+    },
+    {
+      "id": "msg_0439_00002",
+      "de_DE": [
+        "Die Räumlichkeiten hier sind nicht\n",
+        "für die Öffentlichkeit zugänglich."
+      ]
+    },
+    {
+      "id": "msg_0439_00003",
+      "de_DE": [
+        "Verzeihung, aber ab hier hat die\n",
+        "Öffentlichkeit keinen Zugang mehr."
+      ]
+    }
+  ]
+}

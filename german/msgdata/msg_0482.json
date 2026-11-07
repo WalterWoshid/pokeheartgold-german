@@ -1,0 +1,126 @@
+{
+  "key": 25654,
+  "messages": [
+    {
+      "id": "msg_0482_00000",
+      "de_DE": [
+        "Willkommen!\r",
+        "Das Erdgeschoss ist für Besucher\n",
+        "frei zu besichtigen!"
+      ]
+    },
+    {
+      "id": "msg_0482_00001",
+      "de_DE": [
+        "Nur das Erdgeschoss ist frei begehbar.\r",
+        "Nachdem der Radioturm in Johto von\n",
+        "Schurken besetzt wurde, haben wir die\f",
+        "Sicherheitsvorkehrungen verschärft."
+      ]
+    },
+    {
+      "id": "msg_0482_00002",
+      "de_DE": [
+        "In diesem Radioturm sollen sehr viele\n",
+        "Menschen angestellt sein.\r",
+        "Sie alle geben ihr Bestes, um uns ein\n",
+        "spannendes Programm bieten zu können!"
+      ]
+    },
+    {
+      "id": "msg_0482_00003",
+      "de_DE": [
+        "Oh nein! Das ist gar nicht gut!\r",
+        "Ohne den Strom aus dem Kraftwerk\n",
+        "können wir nicht auf Sendung gehen!\r",
+        "Wenn wir nicht senden können, waren\n",
+        "all meine Bemühungen, diesen Sender\f",
+        "zu eröffnen, vergebens!\f",
+        "Ich bin ruiniert!"
+      ]
+    },
+    {
+      "id": "msg_0482_00004",
+      "de_DE": [
+        "Oh! Du bist also dieser {STRVAR_1 3, 0, 0},\n",
+        "der das Problem mit dem Kraftwerk\f",
+        "gelöst hat!\r",
+        "Dank dir konnte ich meinen Job behalten.\n",
+        "Du hast mir das Leben gerettet!\r",
+        "Hier, als Zeichen meiner Dankbarkeit!\n",
+        "Nimm schon, es gehört dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0482_00005",
+      "de_DE": [
+        "Oh! Du bist also diese {STRVAR_1 3, 0, 0},\n",
+        "die das Problem mit dem Kraftwerk\f",
+        "gelöst hat!\r",
+        "Dank dir konnte ich meinen Job behalten.\n",
+        "Du hast mir das Leben gerettet!\r",
+        "Hier, als Zeichen meiner Dankbarkeit!\n",
+        "Nimm schon, es gehört dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0482_00006",
+      "de_DE": [
+        "Pokécom von {STRVAR_1 3, 0, 0} liest Daten\n",
+        "aus dem Zusatzset des Intendanten ein.\r",
+        "Das Radio im Pokécom von {STRVAR_1 3, 0, 0}\n",
+        "wurde aufgerüstet!"
+      ]
+    },
+    {
+      "id": "msg_0482_00007",
+      "de_DE": [
+        "Damit kannst du neue Sender auf\n",
+        "deinem Radio empfangen!\f",
+        "Hahahahaha!"
+      ]
+    },
+    {
+      "id": "msg_0482_00008",
+      "de_DE": [
+        "Hallihallo! Ich bin der Starredakteur\n",
+        "unseres Musikprogramms!\r",
+        "...Oh, tut mir leid, aber mit deinem\n",
+        "Pokécom kannst du meine Sendung\f",
+        "nicht empfangen!\r",
+        "Du wirst vorher erst dein Radio mit\n",
+        "einem Zusatzset aufrüsten müssen!"
+      ]
+    },
+    {
+      "id": "msg_0482_00009",
+      "de_DE": [
+        "Hallihallo! Ich bin der Starredakteur\n",
+        "unseres Musikprogramms!\r",
+        "In meinem Programm kriegst du nur\n",
+        "die schönsten Melodien zu hören!\f",
+        "Also, nicht vergessen: einschalten!"
+      ]
+    },
+    {
+      "id": "msg_0482_00010",
+      "de_DE": [
+        "EG: Rezeption\n",
+        "1S: Geschäftsabteilung\f",
+        "2S: Allgemeine Angelegenheiten\f",
+        "3S: Produktion\f",
+        "4S: Büro des Intendanten"
+      ]
+    },
+    {
+      "id": "msg_0482_00011",
+      "de_DE": [
+        "Der klare Klang von Flötenmelodien\n",
+        "macht müde Pokémon munter!\r",
+        "Das Pokéflöten-Programm kann aber\n",
+        "leider nur in Kanto empfangen werden.\f",
+        "Den Kanal findest du oben."
+      ]
+    }
+  ]
+}

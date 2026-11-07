@@ -1,0 +1,598 @@
+{
+  "key": 42947,
+  "messages": [
+    {
+      "id": "msg_0426_00000",
+      "de_DE": [
+        "Zuerst muss ich alle von deinen Pokémon\n",
+        "getragenen Items an mich nehmen.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00001",
+      "de_DE": "Bitte warte einen Moment."
+    },
+    {
+      "id": "msg_0426_00002",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0426_00003",
+      "de_DE": [
+        "Erledigt!\n",
+        "Wir werden jetzt deine Pokémon heilen."
+      ]
+    },
+    {
+      "id": "msg_0426_00004",
+      "de_DE": [
+        "Als Nächstes kommt Spiel Nr. {STRVAR_1 53, 0, 0}!\n",
+        "Bist du bereit?"
+      ]
+    },
+    {
+      "id": "msg_0426_00005",
+      "de_DE": [
+        "Möchtest du den letzten Kampf\n",
+        "als dein Kampfvideo speichern?"
+      ]
+    },
+    {
+      "id": "msg_0426_00006",
+      "de_DE": [
+        "Der Kampf von {STRVAR_1 3, 0, 0} wurde\n",
+        "als Kampfvideo gespeichert.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00007",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten. Kampf-\n",
+        "video konnte nicht gespeichert werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00008",
+      "de_DE": [
+        "Existierendes Kampfvideo löschen\n",
+        "und den letzten Kampf speichern?"
+      ]
+    },
+    {
+      "id": "msg_0426_00009",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0426_00010",
+      "de_DE": [
+        "Möchtest du speichern und\n",
+        "eine Pause einlegen?"
+      ]
+    },
+    {
+      "id": "msg_0426_00011",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0426_00012",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0426_00013",
+      "de_DE": [
+        "Möchtest du diese Herausforderung\n",
+        "abbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0426_00014",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0426_00015",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0426_00016",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wählt gerade.\n",
+        "Bitte warten."
+      ]
+    },
+    {
+      "id": "msg_0426_00017",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0426_00018",
+      "de_DE": "{STRVAR_1 3, 0, 0} hat sich zurückgezogen."
+    },
+    {
+      "id": "msg_0426_00019",
+      "de_DE": "Willkommen in den Kampfarkaden!\r"
+    },
+    {
+      "id": "msg_0426_00020",
+      "de_DE": [
+        "Spiel Nr. {STRVAR_1 53, 0, 0}!\n",
+        "Los geht’s!"
+      ]
+    },
+    {
+      "id": "msg_0426_00021",
+      "de_DE": [
+        "Ohne große Umschweife...\n",
+        "Aktivieren wir das Spielfeld!"
+      ]
+    },
+    {
+      "id": "msg_0426_00022",
+      "de_DE": "Dies ist unser aktueller Wettkampf!"
+    },
+    {
+      "id": "msg_0426_00023",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden das\n",
+        "Spiel ohne aufgefüllte KP beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00024",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "ohne aufgefüllte KP beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00025",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden das\n",
+        "Spiel mit höherem Level beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00026",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "mit höherem Level beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00027",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden\n",
+        "das Spiel vergiftet beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00028",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "vergiftet beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00029",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden\n",
+        "das Spiel paralysiert beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00030",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "paralysiert beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00031",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden\n",
+        "das Spiel verbrannt beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00032",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "verbrannt beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00033",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} wird\n",
+        "das Spiel schlafend beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00034",
+      "de_DE": [
+        "Je ein Pokémon von {STRVAR_1 3, 0, 0} oder\n",
+        "{STRVAR_1 3, 1, 0} wird das Spiel schlafend\f",
+        "beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00035",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} wird\n",
+        "das Spiel eingefroren beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00036",
+      "de_DE": [
+        "Je ein Pokémon von {STRVAR_1 3, 0, 0} oder\n",
+        "{STRVAR_1 3, 1, 0} wird das Spiel\f",
+        "eingefroren beginnen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00037",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} wird\n",
+        "{STRVAR_1 8, 2, 0} geliehen."
+      ]
+    },
+    {
+      "id": "msg_0426_00038",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} wird {STRVAR_1 8, 2, 0}\f",
+        "geliehen."
+      ]
+    },
+    {
+      "id": "msg_0426_00039",
+      "de_DE": "Hier bitte!\r"
+    },
+    {
+      "id": "msg_0426_00040",
+      "de_DE": [
+        "Dieses Spiel wird unter starker\n",
+        "Sonneneinstrahlung stattfinden."
+      ]
+    },
+    {
+      "id": "msg_0426_00041",
+      "de_DE": [
+        "Dieses Spiel wird bei andauerndem\n",
+        "Regen stattfinden."
+      ]
+    },
+    {
+      "id": "msg_0426_00042",
+      "de_DE": [
+        "Dieses Spiel wird bei einem\n",
+        "tobenden Sandsturm stattfinden."
+      ]
+    },
+    {
+      "id": "msg_0426_00043",
+      "de_DE": [
+        "Dieses Spiel wird bei einem\n",
+        "starken Hagelsturm stattfinden."
+      ]
+    },
+    {
+      "id": "msg_0426_00044",
+      "de_DE": [
+        "Dieses Spiel wird bei\n",
+        "dichtem Nebel stattfinden."
+      ]
+    },
+    {
+      "id": "msg_0426_00045",
+      "de_DE": [
+        "Dieses Spiel wird an einem Ort stattfin-\n",
+        "den, wo Raum und Zeit verzerrt sind."
+      ]
+    },
+    {
+      "id": "msg_0426_00046",
+      "de_DE": [
+        "Bei diesem Spiel werden deine PKMN mit\n",
+        "denen des anderen Trainers vertauscht."
+      ]
+    },
+    {
+      "id": "msg_0426_00047",
+      "de_DE": [
+        "Beginnend mit dem nächsten Spiel wird\n",
+        "das Tempo auf dem Spielfeld erhöht."
+      ]
+    },
+    {
+      "id": "msg_0426_00048",
+      "de_DE": [
+        "Beginnend mit dem nächsten Spiel wird\n",
+        "das Tempo auf dem Spielfeld gesenkt."
+      ]
+    },
+    {
+      "id": "msg_0426_00049",
+      "de_DE": [
+        "Beim nächsten Spiel wird die Bewegung\n",
+        "des Spielfelds willkürlich sein."
+      ]
+    },
+    {
+      "id": "msg_0426_00050",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_1 51, 2, 0} GP!"
+    },
+    {
+      "id": "msg_0426_00051",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} und {STRVAR_1 3, 1, 0}\n",
+        "erhielten {STRVAR_1 51, 2, 0} GP!"
+      ]
+    },
+    {
+      "id": "msg_0426_00052",
+      "de_DE": "Bist du bereit?"
+    },
+    {
+      "id": "msg_0426_00053",
+      "de_DE": [
+        "Oh! Glück gehabt!\n",
+        "Du kannst den Kampf überspringen!"
+      ]
+    },
+    {
+      "id": "msg_0426_00054",
+      "de_DE": [
+        "Schade! Dieses Mal beginnt\n",
+        "der Wettkampf ohne Ereignis!"
+      ]
+    },
+    {
+      "id": "msg_0426_00055",
+      "de_DE": "Okay! Möge der Kampf beginnen!"
+    },
+    {
+      "id": "msg_0426_00056",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden\n",
+        "das Spiel vergiftet betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "{STRVAR_1 3, 0, 0} hat kein Pokémon,\n",
+        "das vergiftet werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00057",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "vergiftet betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "Niemand von den beiden hat\n",
+        "ein Pokémon, das vergiftet\f",
+        "werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00058",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden\n",
+        "das Spiel paralysiert betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "{STRVAR_1 3, 0, 0} hat kein Pokémon,\n",
+        "das paralysiert werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00059",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "paralysiert betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "Niemand von den beiden hat\n",
+        "ein Pokémon, das paralysiert\f",
+        "werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00060",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} werden\n",
+        "das Spiel verbrannt betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "{STRVAR_1 3, 0, 0} hat kein Pokémon,\n",
+        "das verbrannt werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00061",
+      "de_DE": [
+        "Pokémon von {STRVAR_1 3, 0, 0} und\n",
+        "{STRVAR_1 3, 1, 0} werden das Spiel\f",
+        "verbrannt betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "Niemand von den beiden hat\n",
+        "ein Pokémon, das verbrannt\f",
+        "werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00062",
+      "de_DE": [
+        "Ein Pokémon von {STRVAR_1 3, 0, 0} wird\n",
+        "das Spiel schlafend betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "{STRVAR_1 3, 0, 0} hat kein Pokémon, das\n",
+        "in den Schlaf versetzt werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00063",
+      "de_DE": [
+        "Je ein Pokémon von {STRVAR_1 3, 0, 0}\n",
+        "oder {STRVAR_1 3, 1, 0} wird das Spiel\f",
+        "schlafend betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "Niemand von den beiden hat\n",
+        "ein Pokémon, das in den Schlaf\f",
+        "versetzt werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00064",
+      "de_DE": [
+        "Ein Pokémon von {STRVAR_1 3, 0, 0} wird\n",
+        "das Spiel eingefroren betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "{STRVAR_1 3, 0, 0} hat kein Pokémon,\n",
+        "das eingefroren werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00065",
+      "de_DE": [
+        "Je ein Pokémon von {STRVAR_1 3, 0, 0}\n",
+        "oder {STRVAR_1 3, 1, 0} wird das Spiel\f",
+        "eingefroren betreten...\r",
+        "Oh! Was für ein Glücksfall!\r",
+        "Niemand von den beiden hat\n",
+        "ein Pokémon, das eingefroren\f",
+        "werden kann!"
+      ]
+    },
+    {
+      "id": "msg_0426_00066",
+      "de_DE": [
+        "Du hast deinen siebten Kampf\n",
+        "geschafft! Glückwunsch!\r",
+        "Als Preis erhältst du GP!\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00067",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_1 51, 1, 0} GP!\r"
+    },
+    {
+      "id": "msg_0426_00068",
+      "garbage": 33
+    },
+    {
+      "id": "msg_0426_00069",
+      "de_DE": [
+        "Wir werden alle Items zurückgeben,\n",
+        "die wir für dich aufbewahrt haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00070",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0426_00071",
+      "garbage": 26
+    },
+    {
+      "id": "msg_0426_00072",
+      "de_DE": "FORTFAHREN"
+    },
+    {
+      "id": "msg_0426_00073",
+      "de_DE": "AUFZEICHNEN"
+    },
+    {
+      "id": "msg_0426_00074",
+      "de_DE": "AUSRUHEN"
+    },
+    {
+      "id": "msg_0426_00075",
+      "de_DE": "ZURÜCKZIEHEN"
+    },
+    {
+      "id": "msg_0426_00076",
+      "de_DE": [
+        "Glückwunsch, Trainer!\r",
+        "In Anerkennung deiner herausragenden\n",
+        "Fähigkeiten fordert dich unsere\f",
+        "Kampfkoryphäe zu einem Spiel heraus.\r",
+        "Dein nächstes Spiel bestreitest du\n",
+        "somit gegen den Arkaden-Star.\f",
+        "Keine Widerrede!\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00077",
+      "de_DE": [
+        "Dahlia: Kein Grund zur Sorge. ♫\n",
+        "Lassen wir dem Glück freie Hand.\r",
+        "Das Hin und Her auf dem Spielfeld\n",
+        "ist wie die Achterbahnfahrt des Lebens.\r",
+        "Kein Grund zur Sorge. ♫\n",
+        "Es kommt, wie es kommen muss.\r",
+        "Nun aber genug davon.\n",
+        "Eines weiß ich ganz sicher.\r",
+        "Du bist nicht aus purem Glück\n",
+        "bis hierher gekommen.\r",
+        "Verschwenden wir keine Zeit.\n",
+        "Lass mich dein Können selbst testen!\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00078",
+      "de_DE": [
+        "Dahlia: Kein Grund zur Sorge. ♫\n",
+        "Lassen wir dem Glück freie Hand.\r",
+        "Das Hin und Her auf dem Spielfeld\n",
+        "ist wie die Achterbahnfahrt des Lebens.\r",
+        "Kein Grund zur Sorge. ♫\n",
+        "Es kommt, wie es kommen muss.\r",
+        "Nun aber genug davon.\n",
+        "Du bist ein hervorragender Gegner.\r",
+        "Bist du so gut, weil du das Pech einfach\n",
+        "abschüttelst?\r",
+        "Oder bist du so gut, dass dich weder\n",
+        "Glück noch Pech beeinflussen können?\r",
+        "Ich möchte selbst herausfinden, was\n",
+        "dich heute zu mir geführt hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00079",
+      "de_DE": [
+        "Dahlia: Hervorragend gemacht!\r",
+        "Deine Liebe zu Pokémon war deutlich\n",
+        "zu erkennen und folglich glaubten auch\f",
+        "deine Pokémon an dich.\r",
+        "Daher konntest du jede Herausforde-\n",
+        "rung mit Bravour meistern.\r",
+        "Was für ein wundervoller Sieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0426_00080",
+      "de_DE": [
+        "Dahlia: Das habt ihr alle wirklich\n",
+        "hervorragend gemacht!\r",
+        "Das Pech hast du verbannt und am Glück\n",
+        "hast du festgehalten.\r",
+        "Das allein ist der Beweis für deine\n",
+        "Begabung.\r",
+        "Dein Sieg über mich ist der bestmögliche\n",
+        "Ausdruck deiner Meisterschaft!\r",
+        "Ich bin sehr glücklich, dass ich diesen\n",
+        "Kampf gegen dich austragen durfte!\r"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "key": 44018,
+  "messages": [
+    {
+      "id": "msg_0061_00000",
+      "de_DE": [
+        "Jay! Ich habe unten im Pokémon \n",
+        "Wi-Fi-Klub ein Adressbuch bekommen,\f",
+        "in das ich meine Freunde eintragen kann!"
+      ]
+    },
+    {
+      "id": "msg_0061_00001",
+      "de_DE": [
+        "Schalte in einem beliebigen\n",
+        "Pokémon-Center den PC ein und rufe\f",
+        "das Pokémon-Lagerungs-System auf.\r",
+        "Mehr musst du nicht tun, um Pokémon\n",
+        "zu lagern oder aber deinem aktiven\f",
+        "Team hinzuzufügen."
+      ]
+    },
+    {
+      "id": "msg_0061_00002",
+      "de_DE": [
+        "Hmmm...\r",
+        "Welche Trainerkategorie ist dir\n",
+        "am liebsten? Komm, sag mal.\r"
+      ]
+    },
+    {
+      "id": "msg_0061_00003",
+      "de_DE": [
+        "Welche Art von Trainer\n",
+        "wärst du gerne?"
+      ]
+    },
+    {
+      "id": "msg_0061_00004",
+      "de_DE": [
+        "Du wärst gerne ein Trainer\n",
+        "der Kategorie {STRVAR_1 14, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0061_00005",
+      "de_DE": [
+        "Ah, verstehe! Du wärst also\n",
+        "gerne ein Trainer der Kategorie\f",
+        "{STRVAR_1 14, 0}.\r",
+        "Wenn das der Fall ist, werden dich\n",
+        "andere bestimmt auch so einschätzen.\r"
+      ]
+    },
+    {
+      "id": "msg_0061_00006",
+      "de_DE": [
+        "Oh, in Ordnung, dann spreche\n",
+        "ich später mit dir!"
+      ]
+    },
+    {
+      "id": "msg_0061_00007",
+      "de_DE": [
+        "Hallo! Du wirst immer mal wieder\n",
+        "der Trainer-Kategorie {STRVAR_1 14, 0}\f",
+        "zugeordnet, nicht wahr?\r",
+        "Aber ich finde, du könntest auch\n",
+        "durchaus ein anderer Trainer sein.\r",
+        "Welche Art von Trainer magst du?\r"
+      ]
+    }
+  ]
+}

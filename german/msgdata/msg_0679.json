@@ -1,0 +1,150 @@
+{
+  "key": 17420,
+  "messages": [
+    {
+      "id": "msg_0679_00000",
+      "de_DE": "Mo & Flo"
+    },
+    {
+      "id": "msg_0679_00001",
+      "de_DE": [
+        "Hat dir der Kampf gegen uns\n",
+        "Spaß gemacht?\r",
+        "Wenn du uns deine Telefonnummer\n",
+        "gibst, lassen wir dich wissen,\f",
+        "wann wir wieder einmal Lust auf\f",
+        "ein Rematch haben. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0679_00002",
+      "de_DE": [
+        "Und schwupps! Schon haben wir\n",
+        "Nummern getauscht. War doch einfach."
+      ]
+    },
+    {
+      "id": "msg_0679_00003",
+      "de_DE": "Also so was!"
+    },
+    {
+      "id": "msg_0679_00004",
+      "de_DE": [
+        "Möchtest du doch mit uns in\n",
+        "Verbindung bleiben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0679_00005",
+      "de_DE": [
+        "Hier, bitte!\n",
+        "Ein Ovaler Stein für dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0679_00006",
+      "de_DE": [
+        "Ja, huch!\n",
+        "Wir stehen doch quasi neben dir.\r",
+        "Oder ist das ein Tick von dir, die\n",
+        "Leute aus Jux und Tollerei anzurufen?\f",
+        "Die Leute haben schon seltsame Hobbys."
+      ]
+    },
+    {
+      "id": "msg_0679_00007",
+      "de_DE": [
+        "Unser {STRVAR_1 0, 10, 0} hat sich\n",
+        "wirklich prächtig entwickelt!\r",
+        "Sein Sieg gegen das\n",
+        "{STRVAR_1 0, 11, 0} neulich\f",
+        "war im Nu besiegelt!\r",
+        "Hier spricht übrigens Flo."
+      ]
+    },
+    {
+      "id": "msg_0679_00008",
+      "de_DE": [
+        "Unser {STRVAR_1 0, 10, 0} hat sich zwar\n",
+        "ziemlich gut entwickelt, aber...\r",
+        "Das {STRVAR_1 0, 11, 0} neulich konnte\n",
+        "dennoch in letzter Minute\f",
+        "vor ihm fliehen.\r",
+        "Hier spricht übrigens Mo."
+      ]
+    },
+    {
+      "id": "msg_0679_00009",
+      "de_DE": [
+        "Eben haben wir auf Route 15\n",
+        "ein {STRVAR_1 0, 11, 0} erspäht...\f",
+        "Stimmt’s, Flo?\r",
+        "Ja, genau! Und dann griff uns das\n",
+        "{STRVAR_1 0, 11, 0} völlig ohne Warnung an!\f",
+        "Stimmt’s, Mo?\r",
+        "Exakt! Und dann waren wir so\n",
+        "erschrocken, dass wir die Beine in die\f",
+        "Hand genommen haben, Flo.\r",
+        "Dabei hatten wir unsere Pokémon dabei.\n",
+        "Wenn man es genau überlegt, hätten\f",
+        "wir bleiben und kämpfen sollen, Mo.\r",
+        "Findest du es eigentlich schwer,\n",
+        "unserem Gespräch zu folgen?"
+      ]
+    },
+    {
+      "id": "msg_0679_00010",
+      "de_DE": [
+        "Lass uns doch mal wieder zu\n",
+        "dritt kämpfen!\r",
+        "Wir sind hier: {STRVAR_1 4, 3, 0}.\n",
+        "Wir freuen uns auf deinen Besuch!"
+      ]
+    },
+    {
+      "id": "msg_0679_00011",
+      "de_DE": [
+        "Wir wollten dich an unseren\n",
+        "Kampf erinnern.\r",
+        "{STRVAR_1 4, 3, 0}, dort warten wir.\n",
+        "Nicht vergessen, klar?"
+      ]
+    },
+    {
+      "id": "msg_0679_00012",
+      "de_DE": [
+        "Da wir dich nun schon am Apparat haben,\n",
+        "machen wir ein kleines Quiz.\r",
+        "... ... ... ...\r",
+        "Welche von uns beiden, glaubst du,\n",
+        "spricht gerade?\f",
+        "Mo oder Flo?\r",
+        "... ... ... ... ... ...\n",
+        "... ... ... ... ... ...\f",
+        "... ... ... ... ... ...\f",
+        "... ... ... ... ... ...\f",
+        "Die richtige Antwort lauteeet...\r",
+        "Niemand! Hier spricht Franka vom\n",
+        "Pokémon Fan Club. Ich stand gerade\f",
+        "durch Zufall neben den beiden."
+      ]
+    },
+    {
+      "id": "msg_0679_00013",
+      "de_DE": [
+        "Hör mal, Flo hat einen\n",
+        "Ovalen Stein gefunden.\r",
+        "Sie möchte ihn dir schenken. Komm doch\n",
+        "bitte zu uns. {STRVAR_1 4, 3, 0}!\f",
+        "Weißt du, wo das ist?"
+      ]
+    },
+    {
+      "id": "msg_0679_00014",
+      "de_DE": [
+        "Wir sind hier: {STRVAR_1 4, 3, 0}!\n",
+        "Wir haben einen Ovalen Stein für dich."
+      ]
+    }
+  ]
+}

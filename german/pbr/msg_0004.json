@@ -1,0 +1,24 @@
+{
+  "key": 30287,
+  "messages": [
+    {
+      "id": "msg_0004_00000",
+      "de_DE": "Gespeicherte Daten löschen?"
+    },
+    {
+      "id": "msg_0004_00001",
+      "de_DE": [
+        "Werden die Daten gelöscht, kannst\n",
+        "du sie nicht wiederherstellen.\r",
+        "Daten trotzdem löschen?"
+      ]
+    },
+    {
+      "id": "msg_0004_00002",
+      "de_DE": [
+        "Alle Daten werden gelöscht.\n",
+        "Bitte nicht das System ausschalten."
+      ]
+    }
+  ]
+}

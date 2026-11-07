@@ -1677,7 +1677,7 @@ _02031566:
 	strb r0, [r5, #0x16]
 	mov r0, #GAME_VERSION
 	strb r0, [r5, #0x19]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	strb r0, [r5, #0x1a]
 	add r0, r6, #0
 	add r1, r5, #0

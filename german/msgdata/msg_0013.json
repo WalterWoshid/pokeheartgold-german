@@ -1,0 +1,1753 @@
+{
+  "key": 4232,
+  "messages": [
+    {
+      "id": "msg_0013_00000",
+      "de_DE": "KAMPFVIDEOS"
+    },
+    {
+      "id": "msg_0013_00001",
+      "de_DE": "ZONENREKORD"
+    },
+    {
+      "id": "msg_0013_00002",
+      "de_DE": "ENDE"
+    },
+    {
+      "id": "msg_0013_00003",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0013_00004",
+      "de_DE": "MEIN VIDEO"
+    },
+    {
+      "id": "msg_0013_00005",
+      "de_DE": "ANDERE VIDEOS"
+    },
+    {
+      "id": "msg_0013_00006",
+      "de_DE": "VIDEOS LÖSCHEN"
+    },
+    {
+      "id": "msg_0013_00007",
+      "de_DE": "VIDEO: {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00008",
+      "de_DE": "LEER"
+    },
+    {
+      "id": "msg_0013_00009",
+      "de_DE": "{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00010",
+      "de_DE": "Kampf"
+    },
+    {
+      "id": "msg_0013_00011",
+      "de_DE": "Video-Nr.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}"
+    },
+    {
+      "id": "msg_0013_00012",
+      "de_DE": "Video-Nr.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆"
+    },
+    {
+      "id": "msg_0013_00013",
+      "de_DE": "PROFIL VON {STRVAR_1 3, 0, 0} "
+    },
+    {
+      "id": "msg_0013_00014",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0013_00015",
+      "de_DE": "Geburtsm.: {STRVAR_34 16, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00016",
+      "de_DE": "Ort"
+    },
+    {
+      "id": "msg_0013_00017",
+      "de_DE": "Trainerzitat"
+    },
+    {
+      "id": "msg_0013_00018",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0013_00019",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0013_00020",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0013_00021",
+      "de_DE": "Nicht festgelegt"
+    },
+    {
+      "id": "msg_0013_00022",
+      "de_DE": "{STRVAR_1 36, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00023",
+      "de_DE": "{STRVAR_1 37, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00024",
+      "de_DE": "{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}"
+    },
+    {
+      "id": "msg_0013_00025",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0013_00026",
+      "garbage": 8
+    },
+    {
+      "id": "msg_0013_00027",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0013_00028",
+      "de_DE": "FAVORIT-PC-BOX VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00029",
+      "de_DE": "COOLE PC-BOX VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00030",
+      "de_DE": "NIEDLICHE PC-BOX VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00031",
+      "de_DE": "EMPFOHLENE PC-BOX VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00032",
+      "de_DE": "SPASS-PC-BOX VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00033",
+      "de_DE": "EXKLUSIVE PC-BOX VON {STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00034",
+      "de_DE": [
+        "Nächstes\n",
+        "Pokémon"
+      ]
+    },
+    {
+      "id": "msg_0013_00035",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0013_00036",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0013_00037",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0013_00038",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0013_00039",
+      "de_DE": "MEIN VIDEO LÖSCHEN"
+    },
+    {
+      "id": "msg_0013_00040",
+      "de_DE": "ANDERE VIDEOS LÖSCH."
+    },
+    {
+      "id": "msg_0013_00041",
+      "de_DE": "LEER"
+    },
+    {
+      "id": "msg_0013_00042",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0013_00043",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0013_00044",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0013_00045",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0013_00046",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0013_00047",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0013_00048",
+      "de_DE": "NACH EINRICHT. SUCH."
+    },
+    {
+      "id": "msg_0013_00049",
+      "de_DE": "NACH POKéMON SUCHEN"
+    },
+    {
+      "id": "msg_0013_00050",
+      "de_DE": "DEINEN ORT SUCHEN"
+    },
+    {
+      "id": "msg_0013_00051",
+      "de_DE": "FOTO SENDEN"
+    },
+    {
+      "id": "msg_0013_00052",
+      "de_DE": "FOTOS ANSEHEN"
+    },
+    {
+      "id": "msg_0013_00053",
+      "de_DE": "SENDEN"
+    },
+    {
+      "id": "msg_0013_00054",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0013_00055",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0013_00056",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}\n",
+        "{STRVAR_1 28, 1, 0}"
+      ]
+    },
+    {
+      "id": "msg_0013_00057",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0013_00058",
+      "de_DE": "BOX-DATEN SENDEN"
+    },
+    {
+      "id": "msg_0013_00059",
+      "de_DE": "BOX-DATEN ANSEHEN"
+    },
+    {
+      "id": "msg_0013_00060",
+      "de_DE": "FAVORIT"
+    },
+    {
+      "id": "msg_0013_00061",
+      "de_DE": "COOL"
+    },
+    {
+      "id": "msg_0013_00062",
+      "de_DE": "NIEDLICH"
+    },
+    {
+      "id": "msg_0013_00063",
+      "de_DE": "EMPFOHLEN"
+    },
+    {
+      "id": "msg_0013_00064",
+      "de_DE": "SPASS"
+    },
+    {
+      "id": "msg_0013_00065",
+      "de_DE": "EXKLUSIV"
+    },
+    {
+      "id": "msg_0013_00066",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0013_00067",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0013_00068",
+      "de_DE": "ABC"
+    },
+    {
+      "id": "msg_0013_00069",
+      "de_DE": "DEF"
+    },
+    {
+      "id": "msg_0013_00070",
+      "de_DE": "GHI"
+    },
+    {
+      "id": "msg_0013_00071",
+      "de_DE": "JKL"
+    },
+    {
+      "id": "msg_0013_00072",
+      "de_DE": "MNO"
+    },
+    {
+      "id": "msg_0013_00073",
+      "de_DE": "PQR"
+    },
+    {
+      "id": "msg_0013_00074",
+      "de_DE": "STU"
+    },
+    {
+      "id": "msg_0013_00075",
+      "de_DE": "VWX"
+    },
+    {
+      "id": "msg_0013_00076",
+      "de_DE": "YZ"
+    },
+    {
+      "id": "msg_0013_00077",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0013_00078",
+      "de_DE": "AKTUELLE RANGLISTEN"
+    },
+    {
+      "id": "msg_0013_00079",
+      "de_DE": "RANGL. LETZTER WOCHE"
+    },
+    {
+      "id": "msg_0013_00080",
+      "de_DE": "RANGLISTE WECHSELN"
+    },
+    {
+      "id": "msg_0013_00081",
+      "de_DE": "TEAM WECHSELN"
+    },
+    {
+      "id": "msg_0013_00082",
+      "de_DE": "Team: Trainer-Typ"
+    },
+    {
+      "id": "msg_0013_00083",
+      "de_DE": "Team: Geburtsmonat"
+    },
+    {
+      "id": "msg_0013_00084",
+      "de_DE": "Team: Lieblings-Pokémon"
+    },
+    {
+      "id": "msg_0013_00085",
+      "de_DE": "{STRVAR_1 3, 1, 0}: {STRVAR_1 14, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00086",
+      "de_DE": "{STRVAR_1 3, 1, 0}: {STRVAR_34 16, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00087",
+      "de_DE": "{STRVAR_1 3, 1, 0}: {STRVAR_1 0, 0, 0}"
+    },
+    {
+      "id": "msg_0013_00088",
+      "de_DE": "{STRVAR_1 51, 0, 0}. {STRVAR_1 14, 1, 0}"
+    },
+    {
+      "id": "msg_0013_00089",
+      "de_DE": "{STRVAR_1 51, 0, 0}. {STRVAR_1 51, 1, 0}"
+    },
+    {
+      "id": "msg_0013_00090",
+      "de_DE": "{STRVAR_1 51, 0, 0}. {STRVAR_1 0, 1, 0}"
+    },
+    {
+      "id": "msg_0013_00091",
+      "de_DE": "ERGEBNISSE DER LETZTEN WOCHE!"
+    },
+    {
+      "id": "msg_0013_00092",
+      "de_DE": "KOLOSSEUM"
+    },
+    {
+      "id": "msg_0013_00093",
+      "de_DE": "KAMPFZONE"
+    },
+    {
+      "id": "msg_0013_00094",
+      "de_DE": "SICHERN"
+    },
+    {
+      "id": "msg_0013_00095",
+      "de_DE": [
+        "KAMPFVIDEO\n",
+        "ANSEHEN"
+      ]
+    },
+    {
+      "id": "msg_0013_00096",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0013_00097",
+      "de_DE": [
+        "TOP-KAMPFVIDEOS\n",
+        "KOLOSSEUM"
+      ]
+    },
+    {
+      "id": "msg_0013_00098",
+      "de_DE": [
+        "TOP-KAMPFVIDEOS\n",
+        "KAMPFZONE"
+      ]
+    },
+    {
+      "id": "msg_0013_00099",
+      "de_DE": ":"
+    },
+    {
+      "id": "msg_0013_00100",
+      "de_DE": [
+        "Wo soll das Kampfvideo von\n",
+        "{STRVAR_1 3, 0, 0} gespeichert werden?"
+      ]
+    },
+    {
+      "id": "msg_0013_00101",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0013_00102",
+      "de_DE": [
+        "Kampfvideo von {STRVAR_1 3, 0, 0} wird gelöscht.\n",
+        "Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0013_00103",
+      "de_DE": "KAMPFVIDEOS ANSEHEN"
+    },
+    {
+      "id": "msg_0013_00104",
+      "de_DE": "KAMPFVIDEO SENDEN"
+    },
+    {
+      "id": "msg_0013_00105",
+      "de_DE": "NEUESTE 30"
+    },
+    {
+      "id": "msg_0013_00106",
+      "de_DE": "SUCHEN"
+    },
+    {
+      "id": "msg_0013_00107",
+      "de_DE": "NACH VIDEO-NR. SUCH."
+    },
+    {
+      "id": "msg_0013_00108",
+      "de_DE": "NACH EINRICHT. SUCH."
+    },
+    {
+      "id": "msg_0013_00109",
+      "de_DE": "NACH POKéMON SUCHEN"
+    },
+    {
+      "id": "msg_0013_00110",
+      "de_DE": "DEINEN ORT SUCHEN"
+    },
+    {
+      "id": "msg_0013_00111",
+      "de_DE": "O.K.!"
+    },
+    {
+      "id": "msg_0013_00112",
+      "de_DE": "Bitte die Video-Nummer eingeben."
+    },
+    {
+      "id": "msg_0013_00113",
+      "de_DE": "Bitte Einrichtung wählen."
+    },
+    {
+      "id": "msg_0013_00114",
+      "de_DE": "Bitte Pokémon wählen."
+    },
+    {
+      "id": "msg_0013_00115",
+      "de_DE": "Bitte Suchkriterien festlegen."
+    },
+    {
+      "id": "msg_0013_00116",
+      "de_DE": "Es wurden keine Suchkriterien festgelegt."
+    },
+    {
+      "id": "msg_0013_00117",
+      "de_DE": "Durchsuche Kampfvideos..."
+    },
+    {
+      "id": "msg_0013_00118",
+      "de_DE": "Keine Übereinstimmung bei den Kampfvideos..."
+    },
+    {
+      "id": "msg_0013_00119",
+      "de_DE": "Sende das Kampfvideo..."
+    },
+    {
+      "id": "msg_0013_00120",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0013_00121",
+      "de_DE": "PROFIL ANSEHEN"
+    },
+    {
+      "id": "msg_0013_00122",
+      "de_DE": "PROFIL SCHLIESSEN"
+    },
+    {
+      "id": "msg_0013_00123",
+      "de_DE": "DIE 30 NEUESTEN KAMPFVIDEOS"
+    },
+    {
+      "id": "msg_0013_00124",
+      "de_DE": "Bitte Suchkriterien festlegen."
+    },
+    {
+      "id": "msg_0013_00125",
+      "de_DE": "Nicht bestimmt"
+    },
+    {
+      "id": "msg_0013_00126",
+      "de_DE": [
+        "LISTE VON KAMPFVIDEOS AUS\n",
+        "DEN SUCHERGEBNISSEN"
+      ]
+    },
+    {
+      "id": "msg_0013_00127",
+      "de_DE": [
+        "Selbes Kampfvideo nicht mehrmals sendbar.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00128",
+      "de_DE": "Du hast deinen Ort nicht registriert."
+    },
+    {
+      "id": "msg_0013_00129",
+      "de_DE": "Kein Kampfvideo zum Senden vorhanden."
+    },
+    {
+      "id": "msg_0013_00130",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0013_00131",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0013_00132",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Keine Einschränkungen"
+      ]
+    },
+    {
+      "id": "msg_0013_00133",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Standard Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00134",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Schicker Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00135",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Kleiner Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00136",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Leichter Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00137",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Doppel Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00138",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Anderer Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00139",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Keine Einschränk."
+      ]
+    },
+    {
+      "id": "msg_0013_00140",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Standard Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00141",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Schicker Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00142",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Kleiner Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00143",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Leichter Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00144",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Doppel Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00145",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Anderer Cup"
+      ]
+    },
+    {
+      "id": "msg_0013_00146",
+      "de_DE": [
+        "Kolosseum\n",
+        "Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00147",
+      "de_DE": [
+        "Duellturm\n",
+        "Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00148",
+      "de_DE": [
+        "Duellturm\n",
+        "Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00149",
+      "de_DE": [
+        "Duellturm\n",
+        "Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00150",
+      "de_DE": [
+        "Kampffabrik\n",
+        "Level 50 Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00151",
+      "de_DE": [
+        "Kampffabrik\n",
+        "Level 50 Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00152",
+      "de_DE": [
+        "Kampffabrik\n",
+        "Level 50 Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00153",
+      "de_DE": [
+        "Kampffabrik\n",
+        "Offener Level Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00154",
+      "de_DE": [
+        "Kampffabrik\n",
+        "Offener Level Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00155",
+      "de_DE": [
+        "Kampffabrik\n",
+        "Offener Level Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00156",
+      "de_DE": [
+        "Kampfsaal\n",
+        "Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00157",
+      "de_DE": [
+        "Kampfsaal\n",
+        "Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00158",
+      "de_DE": [
+        "Kampfsaal\n",
+        "Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00159",
+      "de_DE": [
+        "Kampfpalais\n",
+        "Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00160",
+      "de_DE": [
+        "Kampfpalais\n",
+        "Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00161",
+      "de_DE": [
+        "Kampfpalais\n",
+        "Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00162",
+      "de_DE": [
+        "Kampfarkaden\n",
+        "Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00163",
+      "de_DE": [
+        "Kampfarkaden\n",
+        "Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00164",
+      "de_DE": [
+        "Kampfarkaden\n",
+        "Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00165",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Keine Einschränkungen"
+      ]
+    },
+    {
+      "id": "msg_0013_00166",
+      "de_DE": [
+        "Kolosseum\n",
+        "Einzel, Cup-Wettkampf"
+      ]
+    },
+    {
+      "id": "msg_0013_00167",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Keine Einschränk."
+      ]
+    },
+    {
+      "id": "msg_0013_00168",
+      "de_DE": [
+        "Kolosseum\n",
+        "Doppel, Cup-Wettkampf"
+      ]
+    },
+    {
+      "id": "msg_0013_00169",
+      "de_DE": [
+        "1: Kolosseum\n",
+        "    Einzel, K. Einschränk."
+      ]
+    },
+    {
+      "id": "msg_0013_00170",
+      "de_DE": [
+        "2: Kolosseum\n",
+        "    Einzel, Cup-Wettkampf"
+      ]
+    },
+    {
+      "id": "msg_0013_00171",
+      "de_DE": [
+        "3: Kolosseum\n",
+        "    Doppel, K. Einschränk."
+      ]
+    },
+    {
+      "id": "msg_0013_00172",
+      "de_DE": [
+        "4: Kolosseum\n",
+        "    Doppel, Cup-Wettkampf"
+      ]
+    },
+    {
+      "id": "msg_0013_00173",
+      "de_DE": [
+        "5: Kolosseum\n",
+        "    Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00174",
+      "de_DE": [
+        "6: Duellturm\n",
+        "    Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00175",
+      "de_DE": [
+        "7: Duellturm\n",
+        "    Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00176",
+      "de_DE": [
+        "8: Duellturm\n",
+        "    Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00177",
+      "de_DE": [
+        "9: Kampffabrik\n",
+        "    Level 50, Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00178",
+      "de_DE": [
+        "10: Kampffabrik\n",
+        "      Level 50, Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00179",
+      "de_DE": [
+        "11: Kampffabrik\n",
+        "      Level 50, Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00180",
+      "de_DE": [
+        "12: Kampffabrik\n",
+        "      Offener Level, Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00181",
+      "de_DE": [
+        "13: Kampffabrik\n",
+        "      Offener Level, Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00182",
+      "de_DE": [
+        "14: Kampffabrik\n",
+        "      Offener Level, Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00183",
+      "de_DE": [
+        "15: Kampfsaal\n",
+        "      Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00184",
+      "de_DE": [
+        "16: Kampfsaal\n",
+        "      Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00185",
+      "de_DE": [
+        "17: Kampfsaal\n",
+        "      Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00186",
+      "de_DE": [
+        "18: Kampfpalais\n",
+        "      Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00187",
+      "de_DE": [
+        "19: Kampfpalais\n",
+        "      Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00188",
+      "de_DE": [
+        "20: Kampfpalais\n",
+        "      Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00189",
+      "de_DE": [
+        "21: Kampfarkaden\n",
+        "      Einzel"
+      ]
+    },
+    {
+      "id": "msg_0013_00190",
+      "de_DE": [
+        "22: Kampfarkaden\n",
+        "      Doppel"
+      ]
+    },
+    {
+      "id": "msg_0013_00191",
+      "de_DE": [
+        "23: Kampfarkaden\n",
+        "      Multi"
+      ]
+    },
+    {
+      "id": "msg_0013_00192",
+      "de_DE": "HIER BERÜHREN!"
+    },
+    {
+      "id": "msg_0013_00193",
+      "de_DE": [
+        "Soll die Verbindung zur Nintendo Wi-Fi\n",
+        "Connection wirklich beendet werden?\n",
+        "\n"
+      ]
+    },
+    {
+      "id": "msg_0013_00194",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00195",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00196",
+      "de_DE": [
+        "Diese Daten sind bereits registriert.\n",
+        "Berühre den Touchscreen, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00197",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den Model-Daten."
+      ]
+    },
+    {
+      "id": "msg_0013_00198",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den Profil-Daten."
+      ]
+    },
+    {
+      "id": "msg_0013_00199",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00200",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00201",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00202",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den ausgewählten Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0013_00203",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00204",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00205",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00206",
+      "de_DE": [
+        "Diese Daten sind bereits registriert.\n",
+        "Berühre den Touchscreen, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00207",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den Box-Daten."
+      ]
+    },
+    {
+      "id": "msg_0013_00208",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den Profil-Daten."
+      ]
+    },
+    {
+      "id": "msg_0013_00209",
+      "de_DE": "Es gibt offenbar ein Problem mit deinem Team."
+    },
+    {
+      "id": "msg_0013_00210",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00211",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00212",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00213",
+      "de_DE": "Es gibt offenbar ein Problem mit deinem Team."
+    },
+    {
+      "id": "msg_0013_00214",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00215",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00216",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00217",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00218",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00219",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00220",
+      "de_DE": [
+        "Ranglisten-Daten nicht abrufbar.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00221",
+      "de_DE": [
+        "Es gibt offenbar ein Problem mit\n",
+        "deiner Ranglistenaufzeichnung."
+      ]
+    },
+    {
+      "id": "msg_0013_00222",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den Profil-Daten."
+      ]
+    },
+    {
+      "id": "msg_0013_00223",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00224",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00225",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00226",
+      "de_DE": [
+        "Diese Daten sind bereits registriert.\n",
+        "Berühre den Touchscreen, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00227",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit dem Kampfvideo."
+      ]
+    },
+    {
+      "id": "msg_0013_00228",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den Profil-Daten."
+      ]
+    },
+    {
+      "id": "msg_0013_00229",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00230",
+      "de_DE": [
+        "Es gibt offenbar ein Problem mit deinen\n",
+        "Pokémon. Daten nicht gesendet."
+      ]
+    },
+    {
+      "id": "msg_0013_00231",
+      "de_DE": [
+        "Es gibt ein Problem mit den PKMN eines ande-\n",
+        "ren Spielers. Daten wurden nicht gesendet."
+      ]
+    },
+    {
+      "id": "msg_0013_00232",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00233",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00234",
+      "de_DE": [
+        "Es gibt offenbar ein Problem\n",
+        "mit den Suchkriterien."
+      ]
+    },
+    {
+      "id": "msg_0013_00235",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00236",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00237",
+      "de_DE": [
+        "Fehler bei User-Authentifizierung. Warte\n",
+        "einen Moment und versuche es dann erneut."
+      ]
+    },
+    {
+      "id": "msg_0013_00238",
+      "de_DE": [
+        "Kein passendes Kampfvideo gefunden...\n",
+        "Berühre den Touchscreen, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00239",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00240",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00241",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00242",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00243",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00244",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00245",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Fehler-Code: 10601"
+      ]
+    },
+    {
+      "id": "msg_0013_00246",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Fehler-Code: 10602"
+      ]
+    },
+    {
+      "id": "msg_0013_00247",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Fehler-Code: 10603"
+      ]
+    },
+    {
+      "id": "msg_0013_00248",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Fehler-Code: 10604"
+      ]
+    },
+    {
+      "id": "msg_0013_00249",
+      "de_DE": [
+        "Keine Verbindung möglich.\n",
+        "Fehler-Code: 10605"
+      ]
+    },
+    {
+      "id": "msg_0013_00250",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Fehler-Code: 10606"
+      ]
+    },
+    {
+      "id": "msg_0013_00251",
+      "de_DE": [
+        "Keine Verbindung möglich.\n",
+        "Fehler-Code: 10607"
+      ]
+    },
+    {
+      "id": "msg_0013_00252",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Fehler-Code: 10608"
+      ]
+    },
+    {
+      "id": "msg_0013_00253",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten.\n",
+        "Fehler-Code: 10609"
+      ]
+    },
+    {
+      "id": "msg_0013_00254",
+      "de_DE": [
+        "Es erfolgt keine Rückmeldung.\n",
+        "Fehler-Code: 10610"
+      ]
+    },
+    {
+      "id": "msg_0013_00255",
+      "de_DE": [
+        "Es erfolgt keine Rückmeldung.\n",
+        "Fehler-Code: 10611"
+      ]
+    },
+    {
+      "id": "msg_0013_00256",
+      "de_DE": [
+        "Es erfolgt keine Rückmeldung.\n",
+        "Fehler-Code: 10612"
+      ]
+    },
+    {
+      "id": "msg_0013_00257",
+      "de_DE": [
+        "Verbindung wurde unterbrochen.\n",
+        "Fehler-Code: 10613"
+      ]
+    },
+    {
+      "id": "msg_0013_00258",
+      "de_DE": [
+        "Keine Verbindung möglich.\n",
+        "Fehler-Code: 10614"
+      ]
+    },
+    {
+      "id": "msg_0013_00259",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00260",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00261",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00262",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00263",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00264",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00265",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00266",
+      "de_DE": [
+        "Die Verbindung zum Server wurde getrennt.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00267",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00268",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00269",
+      "de_DE": "Es sind keine Speicherdaten vorhanden."
+    },
+    {
+      "id": "msg_0013_00270",
+      "de_DE": "Bitte wähle eine Box."
+    },
+    {
+      "id": "msg_0013_00271",
+      "de_DE": "Eine leere Box kann nicht gesendet werden."
+    },
+    {
+      "id": "msg_0013_00272",
+      "de_DE": "Wohin möchtest du das senden?"
+    },
+    {
+      "id": "msg_0013_00273",
+      "de_DE": [
+        "Box-Daten können nur\n",
+        "einzeln gesendet werden."
+      ]
+    },
+    {
+      "id": "msg_0013_00274",
+      "de_DE": [
+        "Dieselben Box-Daten können\n",
+        "nicht gesendet werden."
+      ]
+    },
+    {
+      "id": "msg_0013_00275",
+      "de_DE": "Welche Kategorie möchtest du einsehen?"
+    },
+    {
+      "id": "msg_0013_00276",
+      "de_DE": "Speicherdaten wurden nicht gelöscht..."
+    },
+    {
+      "id": "msg_0013_00277",
+      "de_DE": [
+        "Ein Kampfvideo kann nur einmal gespeichert\n",
+        "werden. Fortfahren: Touchscreen berühren."
+      ]
+    },
+    {
+      "id": "msg_0013_00278",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0013_00279",
+      "de_DE": "Empfange Ranglisten-Daten..."
+    },
+    {
+      "id": "msg_0013_00280",
+      "de_DE": "Sende Speicherinformationen..."
+    },
+    {
+      "id": "msg_0013_00281",
+      "de_DE": [
+        "Speichervorgang abgeschlossen.\n",
+        "Fortfahren: Touchscreen berühren."
+      ]
+    },
+    {
+      "id": "msg_0013_00282",
+      "de_DE": [
+        "Möchtest du das Kampfvideo von\n",
+        "{STRVAR_1 3, 0, 0} löschen?"
+      ]
+    },
+    {
+      "id": "msg_0013_00283",
+      "de_DE": "Diese Daten wirklich löschen?"
+    },
+    {
+      "id": "msg_0013_00284",
+      "de_DE": [
+        "Lösche Daten... Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0013_00285",
+      "de_DE": [
+        "Daten wurden gelöscht.\n",
+        "Fortfahren: Touchscreen berühren."
+      ]
+    },
+    {
+      "id": "msg_0013_00286",
+      "de_DE": "Sende deine Model-Daten..."
+    },
+    {
+      "id": "msg_0013_00287",
+      "de_DE": "Empfange Model-Daten..."
+    },
+    {
+      "id": "msg_0013_00288",
+      "de_DE": "Sende deine Box-Daten..."
+    },
+    {
+      "id": "msg_0013_00289",
+      "de_DE": "Empfange Box-Daten..."
+    },
+    {
+      "id": "msg_0013_00290",
+      "de_DE": [
+        "Du hast keine Speicherdaten zum Senden.\n",
+        "Mache ein Foto in der Dukatia-Passage."
+      ]
+    },
+    {
+      "id": "msg_0013_00291",
+      "de_DE": [
+        "Selbe Daten nicht mehrmals sendbar.\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00292",
+      "de_DE": "Empfange Kampfvideos..."
+    },
+    {
+      "id": "msg_0013_00293",
+      "de_DE": "Keine passenden Daten gefunden..."
+    },
+    {
+      "id": "msg_0013_00294",
+      "de_DE": [
+        "Keine passenden Box-Daten gefunden...\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00295",
+      "de_DE": [
+        "Dein Kampfvideo wurde gesendet.\n",
+        "Video-Nr.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n"
+      ]
+    },
+    {
+      "id": "msg_0013_00296",
+      "de_DE": [
+        "Das Spiel wird gespeichert, bevor\n",
+        "du dir ein Kampfvideo ansehen kannst."
+      ]
+    },
+    {
+      "id": "msg_0013_00297",
+      "de_DE": [
+        "Lösche Daten... speichere eine Menge Daten.\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0013_00298",
+      "de_DE": [
+        "Speichere eine Menge Daten...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0013_00299",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0013_00300",
+      "de_DE": [
+        "Keine Ranglisten-Daten vorhanden...\n",
+        "Touchscreen berühren, um fortzufahren."
+      ]
+    },
+    {
+      "id": "msg_0013_00301",
+      "de_DE": "Möchtest du dein Kampfvideo senden?"
+    },
+    {
+      "id": "msg_0013_00302",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00303",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00304",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00305",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00306",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0013_00307",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00308",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00309",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0013_00310",
+      "de_DE": "NEUESTEN 20 IN FAVORIT-PC-BOX"
+    },
+    {
+      "id": "msg_0013_00311",
+      "de_DE": "NEUESTEN 20 IN COOLER PC-BOX"
+    },
+    {
+      "id": "msg_0013_00312",
+      "de_DE": "NEUESTEN 20 IN NIEDLICHER PC-BOX"
+    },
+    {
+      "id": "msg_0013_00313",
+      "de_DE": "NEUESTEN 20 I. EMPFOHLENER PC-BOX"
+    },
+    {
+      "id": "msg_0013_00314",
+      "de_DE": "NEUESTEN 20 IN SPASS-PC-BOX"
+    },
+    {
+      "id": "msg_0013_00315",
+      "de_DE": "NEUESTEN 20 IN EXKLUSIVER PC-BOX"
+    },
+    {
+      "id": "msg_0013_00316",
+      "de_DE": "Schulkind♂"
+    },
+    {
+      "id": "msg_0013_00317",
+      "de_DE": "Käfersammler"
+    },
+    {
+      "id": "msg_0013_00318",
+      "de_DE": "Ass-Trainer♂"
+    },
+    {
+      "id": "msg_0013_00319",
+      "de_DE": "Raufbold"
+    },
+    {
+      "id": "msg_0013_00320",
+      "de_DE": "Ruinenmaniac"
+    },
+    {
+      "id": "msg_0013_00321",
+      "de_DE": "Schwarzgurt"
+    },
+    {
+      "id": "msg_0013_00322",
+      "de_DE": "Schnösel"
+    },
+    {
+      "id": "msg_0013_00323",
+      "de_DE": "Psycho♂"
+    },
+    {
+      "id": "msg_0013_00324",
+      "de_DE": "Göre"
+    },
+    {
+      "id": "msg_0013_00325",
+      "de_DE": "Kämpferin"
+    },
+    {
+      "id": "msg_0013_00326",
+      "de_DE": "Schönheit"
+    },
+    {
+      "id": "msg_0013_00327",
+      "de_DE": "Ass-Trainer♀"
+    },
+    {
+      "id": "msg_0013_00328",
+      "de_DE": "Bühnenstar"
+    },
+    {
+      "id": "msg_0013_00329",
+      "de_DE": "Dame"
+    },
+    {
+      "id": "msg_0013_00330",
+      "de_DE": "Cowgirl"
+    },
+    {
+      "id": "msg_0013_00331",
+      "de_DE": "Lady"
+    },
+    {
+      "id": "msg_0013_00332",
+      "de_DE": "GoldSil"
+    },
+    {
+      "id": "msg_0013_00333",
+      "de_DE": "Regionsunabhängig"
+    }
+  ]
+}

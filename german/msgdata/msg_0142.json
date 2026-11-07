@@ -1,0 +1,296 @@
+{
+  "key": 9375,
+  "messages": [
+    {
+      "id": "msg_0142_00000",
+      "de_DE": [
+        "Dies ist das Zimmer der “Talente”.\n",
+        "Das Thema, das ihm zugrunde liegt,\f",
+        "lautet: “Die grenzenlose Kraft\f",
+        "eines Teams, in dem Menschen und\f",
+        "Pokémon Seite an Seite arbeiten.”"
+      ]
+    },
+    {
+      "id": "msg_0142_00001",
+      "de_DE": [
+        "Nur Poké-Athleten, die mindestens\n",
+        "einmal einen neuen Rekord in allen\f",
+        "Disziplinen aufgestellt haben, werden\f",
+        "hier durchgelassen.\r",
+        "Tu also, was du kannst, um alle Rekorde\n",
+        "zu brechen und überall den ersten\f",
+        "Platz einzunehmen!"
+      ]
+    },
+    {
+      "id": "msg_0142_00002",
+      "de_DE": [
+        "Hier gelangst du zum Zimmer der\n",
+        "“Freundschaft”. Du darfst passieren!"
+      ]
+    },
+    {
+      "id": "msg_0142_00003",
+      "de_DE": [
+        "Wenn du es bis hierher geschafft hast,\n",
+        "musst du wirklich extrem gut sein!\r",
+        "Aber um es zum Elite-Poké-Athleten zu\n",
+        "schaffen, wirst du noch etwas mehr\f",
+        "Engagement an den Tag legen müssen!\r",
+        "Soll ich dir eine tolle Technik\n",
+        "beibringen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0142_00004",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Hast du noch\n",
+        "irgendwelche Fragen an mich? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0142_00005",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}! Hast du noch\n",
+        "irgendwelche Fragen an mich? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0142_00006",
+      "de_DE": "Um welches Turnier geht es dir? {YESNO 0}"
+    },
+    {
+      "id": "msg_0142_00007",
+      "de_DE": [
+        "Über welche Disziplin möchtest\n",
+        "du etwas wissen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0142_00008",
+      "de_DE": [
+        "Beim Hürdenlauf dreht sich alles um\n",
+        "das Timing der Sprünge.\r",
+        "Wenn du die Hürden ganz nah an dein\n",
+        "Pokémon herankommen lässt, bevor\f",
+        "sie abspringen, erhältst du sofort\f",
+        "einen riesigen Geschwindigkeitsschub.\r",
+        "Am besten ist es natürlich, wenn du\n",
+        "erst kurz vor knapp abspringst!\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00009",
+      "de_DE": [
+        "Das Flaggenschnappen...\r",
+        "Bei dieser Disziplin kannst du nicht nur\n",
+        "Flaggen vom Strand stibitzen, sondern\f",
+        "auch deinen Gegnern ihre gesammelten\f",
+        "Flaggen wegschnappen.\r",
+        "Wenn du sie von hinten anrempelst,\n",
+        "werden sie davon ohnmächtig, und du\f",
+        "erhältst die Gelegenheit, ihnen ihre\f",
+        "Flaggen wegzunehmen.\r",
+        "Das ist der wahre Sinn dieser Disziplin.\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00010",
+      "de_DE": [
+        "Beim Drängelkreis geht es darum, den\n",
+        "Gegner aus dem Kreis zu schubsen.\f",
+        "Das versteht wohl jedes Kind...\r",
+        "Aber genau in dem Augenblick, wo du\n",
+        "deinen Pokémon einen Befehl gibst...\f",
+        "fängt ihre Kraft, andere Pokémon aus\f",
+        "dem Ring zu schubsen, an zu wachsen!\r",
+        "Wenn du ihnen also fleißig Befehle gibst,\n",
+        "können sie wahrscheinlich auch etwas\f",
+        "stärkere Gegner aus dem Ring drängen.\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00011",
+      "de_DE": [
+        "Beim Ziegelbrechen geht es nicht einfach\n",
+        "nur darum, Ziegel kaputtzuschlagen.\r",
+        "Ist dir schon mal aufgefallen, dass es\n",
+        "auf den Ziegeln kleine Risse gibt?\r",
+        "Wenn du fleißig diese Risse bearbeitest,\n",
+        "zerbrechen die Ziegel viel schneller!\r",
+        "Außerdem heißt es, dass in deinen\n",
+        "Pokémon eine enorme Kraft freigesetzt\f",
+        "wird, wenn sie mehrmals in Folge\f",
+        "auf diese Risse einschlagen.\r",
+        "Und noch ein letzter Tipp:\r",
+        "Wenn du ein Pokémon auswechselst\n",
+        "und den Befehl dazu mit einer\f",
+        "Aufwärtsbewegung erteilst,\f",
+        "geht der Wechsel besonders schnell\f",
+        "vonstatten!\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00012",
+      "de_DE": [
+        "Beim Diskusfangen kommt es darauf an,\n",
+        "aus welcher Entfernung du es schaffst,\f",
+        "die Scheiben zu erwischen.\r",
+        "Vogel-Pokémon können sich zum Beispiel\n",
+        "auch nach dem Absprung noch bewegen.\r",
+        "Mit einem Team, das ausschließlich aus\n",
+        "Vogel-Pokémon besteht, lassen sich die\f",
+        "Scheiben also besonders leicht fangen!\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00013",
+      "de_DE": [
+        "Beim Lampionspringen geht es nicht nur\n",
+        "darum, wild durch die Gegend zu hüpfen.\r",
+        "Insgesamt drei Pokémon halten sich\n",
+        "auf dem Sprungfeld auf, nicht wahr?\r",
+        "Wenn nun aber immer gerade ein Pokémon\n",
+        "landen will, wenn ein anderes kurz davor\f",
+        "steht abzuspringen, wird es schwer,\f",
+        "eine freie Flugbahn zu finden.\r",
+        "Es ist also wichtig, dass du einen guten\n",
+        "Rhythmus findest, um deine Pokémon\f",
+        "abspringen zu lassen.\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00014",
+      "de_DE": [
+        "Beim Staffellauf ist es extrem wichtig,\n",
+        "wie du das Auswechseln handhabst.\r",
+        "Hast du schon bemerkt, dass deine\n",
+        "Pokémon in Schweiß ausbrechen,\f",
+        "wenn ihnen die Luft ausgeht?\r",
+        "Sobald sie anfangen zu schwitzen,\n",
+        "verlieren sie auch an Geschwindigkeit.\f",
+        "Es ist also wichtig, dass du sie ablöst,\f",
+        "bevor sie ins Schwitzen geraten.\r",
+        "Du kannst dein Pokémon außerdem\n",
+        "auch ablösen, indem du es nach hinten\f",
+        "abdüsen lässt!\r",
+        "Das ist ein guter Trick, wenn es mit dem\n",
+        "Wechsel mal ganz schnell gehen soll!\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00015",
+      "de_DE": [
+        "Es ist nicht leicht, beim Ringrangeln zu\n",
+        "siegen, wenn man nichts anderes tut\f",
+        "als den Gegner anzurempeln...\r",
+        "Kennst du schon den Sturzrempler? Den\n",
+        "Namen habe ich mir ausgedacht!\r",
+        "Wenn dein Pokémon auf den Gegner\n",
+        "zuläuft und du es einen leichten Satz\f",
+        "machen lässt, kannst du dich im Sprung\f",
+        "auf den Gegner zubewegen.\r",
+        "Wenn du den Sturzrempler an einem Ort\n",
+        "einsetzt, wo sich viele Pokémon tummeln,\f",
+        "kannst du sie alle auf einmal treffen!\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00016",
+      "de_DE": [
+        "Bei der Schneeschlacht reicht es noch\n",
+        "längst nicht, einfach jede Menge\f",
+        "Schneebälle in die Menge zu feuern.\r",
+        "Formst du auch immer schön große Bälle?\n",
+        "Wenn du den Gegner mit einem großen\f",
+        "Schneeball einseifst, ist die Chance\f",
+        "höher, dass er davon ohnmächtig wird!\r",
+        "Du kannst mit den Schneebällen auch\n",
+        "gegnerische Geschosse abwehren, indem\f",
+        "du sie schützend vor dich hältst!\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00017",
+      "de_DE": [
+        "Beim Torschießen kommt es sehr auf das\n",
+        "Geschick des Poké-Athleten an.\r",
+        "Das Geschehen kann zwar mitunter sehr\n",
+        "hektisch werden, aber es ist wichtig,\r",
+        "dass du trotzdem die Ruhe bewahrst und\n",
+        "deinen Pokémon mit kühlem Kopf zeigst,\f",
+        "wohin sie sich bewegen sollen.\r",
+        "Besonders wichtig ist die Aufstellung!\r",
+        "Schütze dich vor Gegentoren, indem du\n",
+        "vor deinem Tor ein Pokémon platzierst.\r",
+        "In der Mitte des Feldes sollte auch\n",
+        "immer ein Pokémon stehen, damit du\f",
+        "gegen jede Situation gefeit bist.\r",
+        "Und um zu punkten, sollte vor dem\n",
+        "Tor, das du anpeilst, ebenfalls immer\f",
+        "eins deiner Teammitglieder stehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00018",
+      "de_DE": [
+        "Hau rein und versuche, einen\n",
+        "Elite-Poké-Athleten aus dir zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0142_00019",
+      "de_DE": [
+        "Hier werden neue, aufsteigende\n",
+        "Poké-Athleten geehrt, die mindestens\f",
+        "100 Mal den Pokéathlon gewonnen haben."
+      ]
+    },
+    {
+      "id": "msg_0142_00020",
+      "de_DE": [
+        "Das ist dein ganz persönliches\n",
+        "Pokécom-Modell, das als Andenken\f",
+        "an deinen 100. Sieg beim Pokéathlon\f",
+        "angefertigt wurde!\r",
+        "Auf der Rückseite ist eine Gravur mit\n",
+        "dem Logo des Pokéathlon zu sehen.\f",
+        "Das ist ein ganz besonderer Pokécom!"
+      ]
+    },
+    {
+      "id": "msg_0142_00021",
+      "de_DE": [
+        "Hier werden aufstrebende Sterne am\n",
+        "Pokéathlon-Himmel geehrt, die es\f",
+        "geschafft haben, in jeder Disziplin\f",
+        "mehr als 50 Mal den Sieg zu erringen\f",
+        "und damit ein schier überwältigendes\f",
+        "Maß an Stärke bewiesen haben."
+      ]
+    },
+    {
+      "id": "msg_0142_00022",
+      "de_DE": [
+        "Das ist dein ganz persönliches Pokéball-\n",
+        "Modell, das für dich angefertigt wurde,\f",
+        "als du bei allen Disziplinen 50 Mal den\f",
+        "ersten Platz belegt hattest. Cool!\r",
+        "Er ist mit einer Gravur versehen:\n",
+        "“Bleib am Ball!”"
+      ]
+    },
+    {
+      "id": "msg_0142_00023",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} sieht sich die Rekorde\n",
+        "für die Disziplinen an.\r"
+      ]
+    },
+    {
+      "id": "msg_0142_00024",
+      "de_DE": "DODRI: Dododooodri!"
+    }
+  ]
+}

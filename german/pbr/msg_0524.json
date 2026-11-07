@@ -1,0 +1,184 @@
+{
+  "key": 62487,
+  "messages": [
+    {
+      "id": "msg_0524_00000",
+      "de_DE": [
+        "Oh?\n",
+        "Willkommen!\r",
+        "Du hast die Stellenausschreibung\n",
+        "draußen gesehen, stimmt’s?\r",
+        "Ist das etwa ein Pokédex?\n",
+        "Dann kennst du ja Professor Eibe!\r",
+        "Du bist genau der Pokémon-Experte, den\n",
+        "wir suchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0524_00001",
+      "de_DE": [
+        "Da bist du ja!\n",
+        "Sehr schön!\r",
+        "Wir haben Fristen einzuhalten.\n",
+        "Hier ist deine Aufgabe.\r"
+      ]
+    },
+    {
+      "id": "msg_0524_00002",
+      "de_DE": [
+        "{STRVAR_1 0, 0}.\n",
+        "Bring mir eins.\r",
+        "Wir brauchen es noch heute. Sonst wird\n",
+        "der Artikel nicht rechtzeitig fertig.\r",
+        "Heute noch! Bevor das Datum umspringt!"
+      ]
+    },
+    {
+      "id": "msg_0524_00003",
+      "de_DE": [
+        "Was ist? Hast du uns das Pokémon\n",
+        "gebracht, das wir brauchen?\r"
+      ]
+    },
+    {
+      "id": "msg_0524_00004",
+      "de_DE": [
+        "Ja! Ja! Oh ja!\n",
+        "Jawohl! {STRVAR_1 0, 0}!\r",
+        "Vielen Dank!\n",
+        "Lass es mich genauer betrachten!\r",
+        "...Mhm, jawohl...\n",
+        "Genau so... Sehr schön!\r",
+        "Vielen Dank!\n",
+        "Jetzt kann ich einen tollen Artikel\f",
+        "schreiben!\r",
+        "Hier. Für deinen Einsatz.\n",
+        "Es ist nicht viel, aber trotzdem danke!\r"
+      ]
+    },
+    {
+      "id": "msg_0524_00005",
+      "de_DE": [
+        "Du hast uns echt geholfen! Ich hoffe,\n",
+        "du bist morgen wieder für uns da."
+      ]
+    },
+    {
+      "id": "msg_0524_00006",
+      "de_DE": [
+        "Huch? Was soll das denn?\n",
+        "Du hast ja gar keinen Platz mehr.\r",
+        "Dann behalte ich das hier eben bis zum\n",
+        "nächsten Mal."
+      ]
+    },
+    {
+      "id": "msg_0524_00007",
+      "de_DE": [
+        "Oh, da bist du ja! Hier ist deine\n",
+        "Belohnung für den letzten Auftrag!\r",
+        "Es ist nicht viel, aber trotzdem danke!\r"
+      ]
+    },
+    {
+      "id": "msg_0524_00008",
+      "de_DE": [
+        "Was soll das? Du hast uns immer noch\n",
+        "nicht das {STRVAR_1 0, 0} gefangen?\r",
+        "Wir zählen auf dich. Das solltest du\n",
+        "wissen!\r",
+        "Bring uns das {STRVAR_1 0, 0},\n",
+        "bevor das Datum umspringt!"
+      ]
+    },
+    {
+      "id": "msg_0524_00009",
+      "de_DE": [
+        "Ach! Du konntest mir das gewünschte\n",
+        "Pokémon leider nicht bringen...\r",
+        "So etwas kann passieren, aber das\n",
+        "musst du wiedergutmachen!"
+      ]
+    },
+    {
+      "id": "msg_0524_00010",
+      "de_DE": [
+        "Super. Daraus mache ich eine ganz tolle\n",
+        "Story!\r",
+        "Oh ja, natürlich! Morgen habe ich\n",
+        "wieder einen Auftrag für dich!"
+      ]
+    },
+    {
+      "id": "msg_0524_00011",
+      "de_DE": [
+        "Die Zeitung von Sinnoh ist zwar winzig,\n",
+        "aber sie hat viele Fans.\r",
+        "Die Zeitung wird genau hier gedruckt!"
+      ]
+    },
+    {
+      "id": "msg_0524_00012",
+      "de_DE": [
+        "“Die Pokéball-Sensation”\n",
+        "lautet die Titelstory.\r",
+        "Es ist ein Artikel über verschiedene\n",
+        "Arten von Pokébällen.\r"
+      ]
+    },
+    {
+      "id": "msg_0524_00013",
+      "de_DE": "Welchen Artikel möchtest du lesen?"
+    },
+    {
+      "id": "msg_0524_00014",
+      "de_DE": [
+        "Dunkle Höhlen und unbeleuchtete\n",
+        "nächtliche Straßen sind gefährliche\f",
+        "Orte, an die sich nicht jeder wagt.\r",
+        "Wenn dich die Dunkelheit bedroht,\n",
+        "brauchst du unbedingt ein paar\f",
+        "Finsterbälle!\r",
+        "Sie fangen die Pokémon besonders gut in\n",
+        "der Dunkelheit!\r",
+        "Finsterbälle - Halten die Dunkelheit in\n",
+        "Schach!"
+      ]
+    },
+    {
+      "id": "msg_0524_00015",
+      "de_DE": [
+        "Am besten fängt man Pokémon, wenn man\n",
+        "erst ihre KP reduziert und dann einen\f",
+        "Ball wirft. Aber...\r",
+        "Ein Pokémon, das so gefangen wurde,\n",
+        "kann nicht direkt danach im Kampf\f",
+        "verwendet werden.\r",
+        "Und genau hier kommt der Heilball\n",
+        "ins Spiel.\r",
+        "Du kannst die KP des Ziels bis in den\n",
+        "roten Bereich verringern, es mit Schlaf\f",
+        "oder Paralyse belegen - was auch immer.\r",
+        "Der Heilball heilt das gefangene\n",
+        "Pokémon sofort und vollständig!\r",
+        "Der Pokémon-freundliche Heilball!\n",
+        "Versuch es mal!"
+      ]
+    },
+    {
+      "id": "msg_0524_00016",
+      "de_DE": [
+        "Wenn du ein Pokémon fangen möchtest,\n",
+        "solltest du zuerst seine KP reduzieren.\r",
+        "Wenn du jedoch zu langsam bist, könnten\n",
+        "flinke Pokémon vorher entkommen.\r",
+        "Der Flottball löst dieses Problem\n",
+        "effizient und vor allem flott.\r",
+        "Er funktioniert am besten, wenn er\n",
+        "gleich zu Kampfbeginn eingesetzt wird!\r",
+        "Der Flottball: Das ideale Geschenk für\n",
+        "den ungeduldigen Trainer!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "key": 11027,
+  "messages": [
+    {
+      "id": "msg_0082_00000",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0082_00001",
+      "de_DE": [
+        "Wenn ein Pokémon kampfunfähig ist, dann\n",
+        "bezieht sich das nur auf den Kampf.\r",
+        "Es kann immer noch VM außerhalb eines\n",
+        "Kampfes anwenden!"
+      ]
+    },
+    {
+      "id": "msg_0082_00002",
+      "de_DE": [
+        "Team Galaktik hat mir mein Pokémon\n",
+        "gestohlen. Und anderen Leuten auch.\r",
+        "Man muss etwas tun, aber die vom Team\n",
+        "Galaktik schüchtern jeden ein...\r",
+        "Was machen sie mit meinem Pokémon?"
+      ]
+    },
+    {
+      "id": "msg_0082_00003",
+      "de_DE": [
+        "Ich habe mein Pokémon zurück!\r",
+        "Ach, bin ich glücklich. Am liebsten würde\n",
+        "ich mit ihm den Radweg entlangfahren!"
+      ]
+    },
+    {
+      "id": "msg_0082_00004",
+      "de_DE": "HASPIROR: Knabbknabb!"
+    },
+    {
+      "id": "msg_0082_00005",
+      "de_DE": [
+        "Hallo, kleiner Trainer!\n",
+        "Welche Pokémon hast du denn dabei?\r",
+        "Mit diesem Zubehör für den Pokétch\n",
+        "siehst du, wie sehr dich deine Pokémon\f",
+        "mögen.\r"
+      ]
+    },
+    {
+      "id": "msg_0082_00006",
+      "de_DE": [
+        "Wenn du genug Zeit mit ihnen verbringst,\n",
+        "mögen dich deine Pokémon immer mehr."
+      ]
+    },
+    {
+      "id": "msg_0082_00007",
+      "de_DE": [
+        "Hallo, kleiner Trainer!\n",
+        "Welche Pokémon hast du denn dabei?\r",
+        "Oh, dein {STRVAR_1 0, 0}...\r"
+      ]
+    },
+    {
+      "id": "msg_0082_00008",
+      "de_DE": [
+        "Es scheint dich zu mögen.\n",
+        "Es ist gerne bei dir."
+      ]
+    },
+    {
+      "id": "msg_0082_00009",
+      "de_DE": "Es gewöhnt sich allmählich an dich."
+    },
+    {
+      "id": "msg_0082_00010",
+      "de_DE": [
+        "Hmmm...\n",
+        "Es muss sich erst an dich gewöhnen."
+      ]
+    }
+  ]
+}

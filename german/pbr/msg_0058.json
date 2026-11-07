@@ -1,0 +1,268 @@
+{
+  "key": 18331,
+  "messages": [
+    {
+      "id": "msg_0058_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Was? Wie?\r",
+        "Oh, du bist das, {STRVAR_1 3, 1}! Hast du\n",
+        "es doch bis hierher geschafft? Aber\f",
+        "du bist echt langsam, weißt du das?\r",
+        "Du bist so langsam, dass der\n",
+        "Arenaleiter schon lange wieder weg ist.\r",
+        "Er sagte, er wolle zur... äh...\n",
+        "Oh, ja! Zur Erzelingen-Mine!\r",
+        "Ich habe meinen Orden ja bereits,\n",
+        "daher ist mir das egal, aber..."
+      ]
+    },
+    {
+      "id": "msg_0058_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Ich habe dir doch\n",
+        "gesagt, dass der Arenaleiter\f",
+        "nicht hier ist.\r",
+        "Wenn du dich dem Arenaleiter stellen\n",
+        "willst, dann gehst du am besten zur\f",
+        "Mine und sagst ihm das.\r",
+        "Aber Junge, Junge, ein Arenaleiter\n",
+        "besitzt schon eine andere Stärke als\f",
+        "ein Trainer.\r",
+        "Ich bin total erschöpft."
+      ]
+    },
+    {
+      "id": "msg_0058_00002",
+      "de_DE": "{SIZE 200}Bumms!!!{SIZE 100}\r"
+    },
+    {
+      "id": "msg_0058_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hups! {STRVAR_1 3, 1}!\n",
+        "Du hast den Orden bekommen, was?\r",
+        "Ewigenau ist der nächste Ort, der\n",
+        "eine Arena hat. Habe ich Recht?\r"
+      ]
+    },
+    {
+      "id": "msg_0058_00004",
+      "de_DE": [
+        "Ich bin zur Route 207 gegangen, das\n",
+        "heißt: nicht wirklich gegangen. Ohne\f",
+        "ein Fahrrad kommst du da gar nicht hin.\r",
+        "Aber dort habe ich zusammen mit meinem\n",
+        "Team viele Kämpfe ausgetragen, so sind\f",
+        "wir stärker geworden. Hat sich gelohnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0058_00005",
+      "de_DE": [
+        "Nun gehe ich zurück nach Jubelstadt.\n",
+        "Als Nächstes steht der Orden von\f",
+        "Ewigenau auf meiner Liste!\r",
+        "In zehn Sekunden sprinte ich los!\r",
+        "Neun...\r",
+        "Bah! Wer hat schon Zeit zum Zählen?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0058_00006",
+      "de_DE": [
+        "Hallo, Trainer?\r",
+        "Besitzt du keinen einzigen Orden,\n",
+        "werden andere Trainer auf dich\f",
+        "herabsehen wie auf einen Anfänger.\r",
+        "Und damit das nicht passiert, zeige\n",
+        "ich dir, wo hier die Arena zu finden ist.\r"
+      ]
+    },
+    {
+      "id": "msg_0058_00007",
+      "de_DE": [
+        "Oh?\n",
+        "Da steht ja schon jemand und wartet."
+      ]
+    },
+    {
+      "id": "msg_0058_00008",
+      "de_DE": [
+        "Ist der Typ vor der Arena dein Freund?\r",
+        "Der ist ja vielleicht hibbelig und\n",
+        "ungeduldig!"
+      ]
+    },
+    {
+      "id": "msg_0058_00009",
+      "de_DE": [
+        "Oh, hallo, du bist zurück!\n",
+        "Der Arenaleiter wartet auf dich."
+      ]
+    },
+    {
+      "id": "msg_0058_00010",
+      "de_DE": [
+        "Zeigst du mir bitte deinen\n",
+        "Trainerkoffer?\r",
+        "Darin sind die Orden, die du\n",
+        "bisher erhalten hast, stimmt’s?"
+      ]
+    },
+    {
+      "id": "msg_0058_00011",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0058_00012",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0058_00013",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0058_00014",
+      "de_DE": [
+        "Der Arenaleiter ist in die Mine\n",
+        "gegangen, um dort zu arbeiten."
+      ]
+    },
+    {
+      "id": "msg_0058_00015",
+      "de_DE": [
+        "Der Arenaleiter ist noch jung, aber er\n",
+        "ist bereits der Sicherheitsbeauftragte\f",
+        "der Mine!\r",
+        "Er ist ein Experte auf mehr als\n",
+        "einem Gebiet!"
+      ]
+    },
+    {
+      "id": "msg_0058_00016",
+      "de_DE": [
+        "Jeder ist stolz auf die Mine.\r",
+        "In dem Moment, wo wir hier stehen und\n",
+        "uns unterhalten, graben sie unter dem\f",
+        "Meer nach Kohle...\r",
+        "Ich finde das einfach faszinierend!"
+      ]
+    },
+    {
+      "id": "msg_0058_00017",
+      "de_DE": [
+        "Hier in der Nähe befindet sich ein\n",
+        "gewaltiger Berg, der über alles\f",
+        "hinausragt.\r",
+        "Er teilt Sinnoh in zwei Hälften."
+      ]
+    },
+    {
+      "id": "msg_0058_00018",
+      "de_DE": [
+        "Hast du die Lüftungsschächte gesehen?\n",
+        "Sie sorgen für Frischluft im Untergrund."
+      ]
+    },
+    {
+      "id": "msg_0058_00019",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0058_00020",
+      "de_DE": [
+        "Die Lüftung tauscht die heiße Luft von\n",
+        "unten gegen die frische Luft von hier\f",
+        "oben aus.\r",
+        "Wenn ich so einen Lüftungsschacht sehe,\n",
+        "möchte ich am liebsten meinen Kopf\r",
+        "reinstecken und laut “HAAAALLOOO”\n",
+        "brüllen. Äh... ja... Hähä..."
+      ]
+    },
+    {
+      "id": "msg_0058_00021",
+      "de_DE": [
+        "Keine Frage. Das hier ist harte,\n",
+        "schwere Arbeit.\r",
+        "Aber zusammen mit Pokémon arbeiten...\n",
+        "Das gibt mir Energie und treibt mich an.\r",
+        "Hier, nimm einen hiervon.\r"
+      ]
+    },
+    {
+      "id": "msg_0058_00022",
+      "de_DE": [
+        "Wenn ich mich gesund und munter\n",
+        "fühle, muss ich ständig lächeln.\r",
+        "Und das macht glücklich.\n"
+      ]
+    },
+    {
+      "id": "msg_0058_00023",
+      "de_DE": [
+        "Diesen Berg schmutzigen Sandes\n",
+        "nennt man Abraumhalde.\r",
+        "Das ist ein Abfallprodukt, das\n",
+        "entsteht, wenn man Kohle abbaut."
+      ]
+    },
+    {
+      "id": "msg_0058_00024",
+      "de_DE": [
+        "Schlag, hau, MACHOLLO!\n",
+        "Schlag, hau die Felsen weg! ~♫"
+      ]
+    },
+    {
+      "id": "msg_0058_00025",
+      "de_DE": [
+        "Eine TM kann man nur einmal\n",
+        "verwenden, eine VM beliebig oft.\r",
+        "Es kann ganz schön verzwickt sein,\n",
+        "sich zu entscheiden, welches\f",
+        "Pokémon welche Attacke lernen soll."
+      ]
+    },
+    {
+      "id": "msg_0058_00026",
+      "de_DE": [
+        "Wenn ich mit meinen Turbotretern\n",
+        "durch die Gegend düse, habe ich das\f",
+        "Gefühl, alle achten nur auf mich."
+      ]
+    },
+    {
+      "id": "msg_0058_00027",
+      "de_DE": "MACHOLLO: Hnaargh! Hnaargh!"
+    },
+    {
+      "id": "msg_0058_00028",
+      "de_DE": [
+        "Erzelingen\n",
+        "Stadt voller Energie"
+      ]
+    },
+    {
+      "id": "msg_0058_00029",
+      "de_DE": [
+        "Pokémon Arena Erzelingen\n",
+        "Leiter: Veit\f",
+        "“Nenn mich Veit, der Fels!”"
+      ]
+    },
+    {
+      "id": "msg_0058_00030",
+      "de_DE": [
+        "Erzelingen Bergbaumuseum\n",
+        "“Mit Kohle auf du und du!”"
+      ]
+    },
+    {
+      "id": "msg_0058_00031",
+      "de_DE": [
+        "Erzelingen-Mine\n",
+        "Vorsicht! Fleißige Pokémon!"
+      ]
+    }
+  ]
+}

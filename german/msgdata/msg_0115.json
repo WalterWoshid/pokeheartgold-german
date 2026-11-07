@@ -1,0 +1,555 @@
+{
+  "key": 21602,
+  "messages": [
+    {
+      "id": "msg_0115_00000",
+      "de_DE": [
+        "Oh nein, was mache ich jetzt nur?\n",
+        "Mein Boss wird sicher wütend auf mich!\r",
+        "Die PORENTA, die für uns Bäume zur\n",
+        "Kohlegewinnung fällen, sind in den\f",
+        "Wald getürmt!\r",
+        "Könntest du sie vielleicht einfangen?\n",
+        "PORENTA haben so gute Ohren, dass sie\f",
+        "sich sofort in deine Richtung drehen,\f",
+        "wenn du auch nur auf einen Ast trittst!\r",
+        "Aber das ist die Gelegenheit, um\n",
+        "dich ihnen von hinten zu nähern!\f",
+        "Denkst du, du kriegst das hin?"
+      ]
+    },
+    {
+      "id": "msg_0115_00001",
+      "de_DE": [
+        "Wow! Du hast es geschafft, eins der\n",
+        "PORENTA wieder einzufangen!\f",
+        "Vielen, vielen Dank!\r",
+        "Aber... irgendwo muss sich noch eins\n",
+        "von ihnen versteckt halten.\r",
+        "Du weißt ja: PORENTA hören so gut, dass\n",
+        "sie sofort in deine Richtung blicken,\f",
+        "wenn du auch nur auf einen Ast trittst!\f",
+        "Das ist die Gelegenheit, um dich ihnen\f",
+        "gaaanz langsam von hinten zu nähern!"
+      ]
+    },
+    {
+      "id": "msg_0115_00002",
+      "de_DE": [
+        "Klasse!\n",
+        "Beide PORENTA sind wieder zurück!\f",
+        "Vielen Dank für deine Hilfe!\r",
+        "Auf mich hören die Pokémon von meinem\n",
+        "Boss ja nicht, weil ich keinen Orden\f",
+        "habe...\r",
+        "Mann, da hatte ich aber echt Glück!"
+      ]
+    },
+    {
+      "id": "msg_0115_00003",
+      "de_DE": "PORENTA: Poreeeen!\r"
+    },
+    {
+      "id": "msg_0115_00004",
+      "de_DE": "PORENTA: Poreeeen!"
+    },
+    {
+      "id": "msg_0115_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat ein PORENTA\n",
+        "eingefangen!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00006",
+      "de_DE": [
+        "Oh! Das sind ja meine Kleinen,\n",
+        "Po und Renta!\r",
+        "Sag bloß...\r",
+        "Hast du diese beiden etwa\n",
+        "für mich eingefangen?!?\r",
+        "Wenn diese zwei keine Bäume für mich\n",
+        "fällen, kann ich keine Kohle herstellen!\r",
+        "Vielen Dank! Wie kann ich mich nur\n",
+        "dafür erkenntlich zeigen?\r",
+        "Ich hab’s!\n",
+        "Nimm das hier!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00007",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0115_00008",
+      "de_DE": [
+        "Das ist die VM Zerschneider!\n",
+        "Besitzt du den Orden aus der Arena von\f",
+        "Azalea City, kann ein Pokémon deiner\f",
+        "Wahl damit kleinere Bäume fällen!\r",
+        "Aaaber!\r",
+        "Hat ein Pokémon diese VM einmal\n",
+        "gelernt, kann es sie so schnell auch\f",
+        "nicht wieder vergessen!\r",
+        "Überlege dir also sehr gut, welchem\n",
+        "deiner Pokémon du sie beibringst!"
+      ]
+    },
+    {
+      "id": "msg_0115_00009",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0115_00010",
+      "de_DE": [
+        "Willst du mein Schüler werden?\n",
+        "In zehn Jahren bist du topfit!"
+      ]
+    },
+    {
+      "id": "msg_0115_00011",
+      "de_DE": [
+        "Was ich hier tue, fragst du?\r",
+        "Ich schüttele Bäume mit Kopfnuss!\n",
+        "Willst du’s auch mal ausprobieren?\f",
+        "Ich bring’s dir gerne bei! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0115_00012",
+      "de_DE": [
+        "Sollen deine Pokémon Kopfnuss\n",
+        "lernen? Ich bring’s ihnen bei! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0115_00013",
+      "de_DE": [
+        "Verstehe... du schonst ihre\n",
+        "Köpfe lieber, was?"
+      ]
+    },
+    {
+      "id": "msg_0115_00014",
+      "de_DE": "Welches Pokémon soll Kopfnuss lernen?\r"
+    },
+    {
+      "id": "msg_0115_00015",
+      "de_DE": [
+        "Hm... ich kann zwar viel, aber einem Ei\n",
+        "eine Attacke beizubringen, liegt\f",
+        "außerhalb meiner Kompetenzen...\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00016",
+      "de_DE": [
+        "Tut mir leid, aber ich glaube nicht, dass\n",
+        "dieses Pokémon Kopfnuss lernen kann.\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00017",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} versucht,\n",
+        "Kopfnuss zu erlernen.\r",
+        "Aber {STRVAR_1 1, 0, 0} kann nur maximal\n",
+        "vier Attacken erlernen.\r",
+        "Soll eine andere Attacke durch\n",
+        "Kopfnuss ersetzt werden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0115_00018",
+      "de_DE": [
+        "Bist du einverstanden, dass das\n",
+        "Pokémon {STRVAR_1 6, 1, 0} vergisst? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0115_00019",
+      "de_DE": [
+        "Lernen von Kopfnuss\n",
+        "abbrechen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0115_00020",
+      "de_DE": "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}...schwupp!"
+    },
+    {
+      "id": "msg_0115_00021",
+      "de_DE": "1, {PAUSE 20}2 und{PAUSE 20}... {PAUSE 20}... {PAUSE 20}...Pamm!"
+    },
+    {
+      "id": "msg_0115_00022",
+      "de_DE": [
+        "Hehehe! Na, was sagst du?\n",
+        "Jetzt wirkt dein {STRVAR_1 0, 0, 0}\f",
+        "doch gleich viel wuchtiger!"
+      ]
+    },
+    {
+      "id": "msg_0115_00023",
+      "de_DE": [
+        "Dein {STRVAR_1 0, 0, 0} hat\n",
+        "Kopfnuss schon gelernt!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00024",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} hat {STRVAR_1 6, 1, 0}\n",
+        "vergessen!\r",
+        "Und..."
+      ]
+    },
+    {
+      "id": "msg_0115_00025",
+      "de_DE": "{STRVAR_1 1, 0, 0} lernt Kopfnuss!"
+    },
+    {
+      "id": "msg_0115_00026",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wurde\n",
+        "Kopfnuss beigebracht!"
+      ]
+    },
+    {
+      "id": "msg_0115_00027",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Der Steineichenwald ist so dicht mit\n",
+        "Bäumen bewachsen, dass sich der\f",
+        "Himmel hinter dem Dickicht nur noch\f",
+        "dunkel erahnen lässt.\r",
+        "Pass auf, wo du hintrittst! Viele Leute\n",
+        "lassen hier ihre Sachen liegen!"
+      ]
+    },
+    {
+      "id": "msg_0115_00028",
+      "de_DE": [
+        "Der Steineichenwald-Schrein... er wurde\n",
+        "zu Ehren des Waldpatrons errichtet."
+      ]
+    },
+    {
+      "id": "msg_0115_00029",
+      "de_DE": [
+        "Kimono, Kimono, mein Gewand!\n",
+        "Sage mir, wie finde ich zum Waldesrand?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00030",
+      "de_DE": [
+        "Was sagt Ihr da? Ihr wollt mich\n",
+        "schon einmal gesehen haben?\f",
+        "In Viola City?\f",
+        "Gewiss täuscht Ihr Euch!\r",
+        "Aber wärt Ihr unter Umständen\n",
+        "so freundlich, meiner Wenigkeit den\f",
+        "Weg aus diesem Wald zu weisen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0115_00031",
+      "de_DE": [
+        "Seid Ihr Euch sicher?\n",
+        "Aber Ihr irrt doch selbst noch\f",
+        "hier durch den Wald!\f",
+        "Kennt Ihr wirklich den Weg?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00032",
+      "de_DE": [
+        "Dann nehme ich an, Ihr kennt den Weg\n",
+        "nach draußen selbst nicht?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00033",
+      "de_DE": [
+        "Sieh an! Möchtest du mir vielleicht\n",
+        "den Weg nach draußen zeigen?\f",
+        "Was für ein kluges Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00034",
+      "de_DE": "Ich gehe schon mal vor!\r"
+    },
+    {
+      "id": "msg_0115_00035",
+      "de_DE": [
+        "PORENTA hat dich bemerkt und sieht\n",
+        "dich an! Wenn du auf einen Ast trittst,\f",
+        "schaut es in deine Richtung!"
+      ]
+    },
+    {
+      "id": "msg_0115_00036",
+      "de_DE": [
+        "Offensichtlich kannst du es nur\n",
+        "von hinten erwischen."
+      ]
+    },
+    {
+      "id": "msg_0115_00037",
+      "de_DE": [
+        "Du hast dich von hinten angeschlichen\n",
+        "und es erwischt!"
+      ]
+    },
+    {
+      "id": "msg_0115_00038",
+      "de_DE": [
+        "Das ist ein PICHU!\r",
+        "Eines seiner Ohren ist sehr strubbelig!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00039",
+      "de_DE": [
+        "Es scheint mitkommen zu wollen...\n",
+        "Erlaube es ihm doch!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00040",
+      "de_DE": [
+        "Strubbelohr-PICHU hat\n",
+        "sich dir angeschlossen!"
+      ]
+    },
+    {
+      "id": "msg_0115_00041",
+      "de_DE": "Dein Team ist voll!\r"
+    },
+    {
+      "id": "msg_0115_00042",
+      "de_DE": [
+        "Dein Team ist voll!\r",
+        "Verschaffe dir per Computer Platz!"
+      ]
+    },
+    {
+      "id": "msg_0115_00043",
+      "de_DE": "Strubbelohr: Strubbelubbel Chu!\r"
+    },
+    {
+      "id": "msg_0115_00044",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Pokéball!"
+      ]
+    },
+    {
+      "id": "msg_0115_00045",
+      "de_DE": [
+        "Möchtest du dem Strubbelohr-PICHU\n",
+        "einen Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0115_00046",
+      "de_DE": [
+        "He, halt!\n",
+        "Lass lieber deine Finger von\f",
+        "diesem Schrein!\r",
+        "Am Ende holt dich noch der Waldpatron!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00047",
+      "de_DE": [
+        "In der Nähe dieses Schreins sind in\n",
+        "letzter Zeit immer wieder Kinder und\f",
+        "Pokémon verschwunden.\r",
+        "Man munkelt, das sei das Treiben\n",
+        "eines Pokémon mit der Fähigkeit,\f",
+        "beliebig durch die Zeit zu reisen.\f",
+        "Wirklich seltsam...\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00048",
+      "de_DE": [
+        "Oh, wen hast du denn da dabei?\r",
+        "Dieses Pokémon hat sich, ohne dass ich\n",
+        "es bemerkt habe, hier niedergelassen.\f",
+        "Das ist ein PICHU, nicht wahr?\r",
+        "Als ich es zum ersten Mal gesehen habe,\n",
+        "sah es irgendwie traurig aus...\f",
+        "Aber heute wirkt es putzmunter!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00049",
+      "de_DE": [
+        "Aha! Ich verstehe!\n",
+        "Wiedervereint mit einem\f",
+        "guten alten Freund, was?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00050",
+      "de_DE": [
+        "Du hast sehr viele Pokémon\n",
+        "dabei, weißt du das?\r",
+        "Ich werde hier nach dem Rechten sehen.\n",
+        "Gehe du solange zum Pokémon-Center\f",
+        "und deponiere eines von ihnen."
+      ]
+    },
+    {
+      "id": "msg_0115_00051",
+      "de_DE": [
+        "Solange sie unter Freunden sind,\n",
+        "kommen diese Pokémon schon klar.\f",
+        "Ziehe sie mit viel Liebe auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00052",
+      "de_DE": [
+        "Oh, ach ja!\n",
+        "Ich habe hier ein kleines Präsent für\f",
+        "dich, junger Trainer! Einen Pokéball!\r",
+        "Der gehörte vor vielen Jahren zu meiner\n",
+        "Ausrüstung, als ich noch mit beiden\f",
+        "Beinen im Trainer-Leben stand!\r",
+        "Ach was! Mach dir mal keine Sorgen!\n",
+        "Natürlich kann man den noch benutzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00053",
+      "de_DE": [
+        "Oh! Das Strubbelohr-PICHU\n",
+        "scheint ebenfalls in deinen\f",
+        "Pokéball zu wollen!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00054",
+      "de_DE": [
+        "Du willst es also {STRVAR_1 1, 0, 0} nennen?\n",
+        "So so! Das ist ein niedlicher Name!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00055",
+      "de_DE": [
+        "Das Kleine hat hier ganz brav darauf\n",
+        "gewartet, dass du zurückkommst!\r",
+        "Sprich es doch mal an!\n",
+        "Darüber freut es sich bestimmt!"
+      ]
+    },
+    {
+      "id": "msg_0115_00056",
+      "de_DE": [
+        "Klarin: {STRVAR_1 3, 0, 0}! Kennst du die\n",
+        "Gerüchte über diesen Schrein da?\r",
+        "Es heißt, der Waldpatron hole jeden,\n",
+        "der damit Unfug treibt!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00057",
+      "de_DE": [
+        "Lyra: {STRVAR_1 3, 0, 0}! Kennst du die\n",
+        "Gerüchte über diesen Schrein da?\r",
+        "Es heißt, der Waldpatron hole jeden,\n",
+        "der damit Unfug treibt!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00058",
+      "de_DE": [
+        "Klarin: Huch?!?\n",
+        "Was war das denn eben?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00059",
+      "de_DE": [
+        "Lyra: Huch?!?\n",
+        "Was war das denn eben?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00060",
+      "de_DE": [
+        "Klarin: Zeitreisen sind keine sehr\n",
+        "angenehme Angelegenheit, was?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00061",
+      "de_DE": [
+        "Lyra: Zeitreisen sind keine sehr\n",
+        "angenehme Angelegenheit, was?\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00062",
+      "de_DE": "Ah! Mein MARILL!\r"
+    },
+    {
+      "id": "msg_0115_00063",
+      "de_DE": "Ah! Mein MARILL!\r"
+    },
+    {
+      "id": "msg_0115_00064",
+      "de_DE": [
+        "Ich bin ja so froh, dich zu sehen!\r",
+        "Oh! Das heißt dann wohl, wir sind wieder\n",
+        "in unsere eigene Zeit zurückgekehrt!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00065",
+      "de_DE": [
+        "Ich habe dich so vermisst!\r",
+        "Oh! Das heißt dann wohl, wir sind wieder\n",
+        "in unsere eigene Zeit zurückgekehrt!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00066",
+      "de_DE": [
+        "Das war vielleicht ein seltsames\n",
+        "Erlebnis! Aber wir haben wieder zurück\f",
+        "in unsere eigene Zeit gefunden und dazu\f",
+        "noch Team Rockets Pläne durchkreuzt! \f",
+        "Ende gut, alles gut, sage ich!\r",
+        "Aber wer mit dir reist, kann ein echtes\n",
+        "Abenteuer erleben, {STRVAR_1 3, 0, 0}!\f",
+        "Das war echt toll! Dieser Tag\f",
+        "hat mich richtig müde gemacht.\r",
+        "Ich gehe dann mal nach Hause, ja?\n",
+        "Man sieht sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0115_00067",
+      "de_DE": [
+        "Das war vielleicht ein seltsames\n",
+        "Erlebnis! Aber wir haben wieder zurück\f",
+        "in unsere eigene Zeit gefunden und dazu\f",
+        "noch Team Rockets Pläne durchkreuzt! \f",
+        "Ende gut, alles gut, sage ich!\r",
+        "Aber wer mit dir reist, kann ein echtes\n",
+        "Abenteuer erleben, {STRVAR_1 3, 0, 0}!\f",
+        "Das war echt toll! Dieser Tag\f",
+        "hat mich richtig müde gemacht.\r",
+        "Ich gehe dann mal nach Hause, ja?\n",
+        "Tschüsschen!\r"
+      ]
+    }
+  ]
+}

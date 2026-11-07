@@ -1,0 +1,23 @@
+{
+  "give_species": "SPECIES_DODRIO",
+  "hpIv": 20,
+  "atkIv": 20,
+  "defIv": 20,
+  "speedIv": 15,
+  "spAtkIv": 15,
+  "spDefIv": 15,
+  "ability": 50,
+  "otId": 283,
+  "cool": 0,
+  "beauty": 0,
+  "cute": 0,
+  "smart": 0,
+  "tough": 0,
+  "pid": 130058,
+  "heldItem": "ITEM_SMOKE_BALL",
+  "gender": 1,
+  "sheen": 0,
+  "language": "LANGUAGE_GERMAN",
+  "ask_species": "SPECIES_DRAGONAIR",
+  "unk_50": 0
+}

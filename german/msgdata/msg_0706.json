@@ -1,0 +1,112 @@
+{
+  "key": 4274,
+  "messages": [
+    {
+      "id": "msg_0706_00000",
+      "de_DE": "Timon"
+    },
+    {
+      "id": "msg_0706_00001",
+      "de_DE": [
+        "Unser Kampf war großartig!\r",
+        "Ich möchte ein Andenken an dich!\r",
+        "Deine Telefonnummer würde genügen!\r",
+        "Mein intensives Training lässt nur\n",
+        "wenig Zeit zum Plaudern, aber... {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0706_00002",
+      "de_DE": [
+        "Ich muss härter trainieren, um\n",
+        "der Beste zu werden!"
+      ]
+    },
+    {
+      "id": "msg_0706_00003",
+      "de_DE": [
+        "Wenn du meine Nummer möchtest,\n",
+        "komm wieder."
+      ]
+    },
+    {
+      "id": "msg_0706_00004",
+      "de_DE": [
+        "Mein Training lässt mir keine\n",
+        "Zeit zum Telefonieren, aber nimm\f",
+        "trotzdem meine Nummer. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0706_00005",
+      "de_DE": [
+        "Ich möchte dir danken, {STRVAR_1 3, 0, 0}!\r",
+        "Deine Anrufe haben mir die Einsamkeit\n",
+        "meines Trainings erträglich gemacht...\f",
+        "Ich war so froh!!!\r",
+        "{STRVAR_1 3, 0, 0}!\n",
+        "Würdest du dieses Geschenk annehmen?\r"
+      ]
+    },
+    {
+      "id": "msg_0706_00006",
+      "de_DE": [
+        "Deine Kraft reicht nicht aus,\n",
+        "noch mehr zu tragen!\r",
+        "Ich bewahre das auf,\n",
+        "bis dein Beutel leerer ist!"
+      ]
+    },
+    {
+      "id": "msg_0706_00007",
+      "de_DE": [
+        "Was ist denn los?\n",
+        "Wenn du schon in der Nähe bist,\f",
+        "können wir doch direkt reden!"
+      ]
+    },
+    {
+      "id": "msg_0706_00008",
+      "de_DE": [
+        "Bist du noch auf Reisen?\n",
+        "Ich bin meinem Training treu\f",
+        "geblieben.\f",
+        "Oooooaaarrrgh!"
+      ]
+    },
+    {
+      "id": "msg_0706_00009",
+      "de_DE": [
+        "Leider habe ich keine Zeit zum\n",
+        "Reden, wenn ich trainiere!\r",
+        "Morgen habe ich Zeit für dich!\n",
+        "Yiiihah!"
+      ]
+    },
+    {
+      "id": "msg_0706_00010",
+      "de_DE": [
+        "Ich mache Mittagspause,\n",
+        "also komm vorbei!\f",
+        "Ayiiiyah!"
+      ]
+    },
+    {
+      "id": "msg_0706_00011",
+      "de_DE": [
+        "Ich mache auf\n",
+        "Route 45 Pause!\r",
+        "Wenn du Zeit hast, wie wäre\n",
+        "es mit einer Runde Pokémon-Kampf?"
+      ]
+    },
+    {
+      "id": "msg_0706_00012",
+      "de_DE": [
+        "Genug Pause für heute!\n",
+        "Jetzt muss ich das Training fortsetzen!\f",
+        "Oooryaah!"
+      ]
+    }
+  ]
+}

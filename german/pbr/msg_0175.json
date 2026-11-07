@@ -1,0 +1,82 @@
+{
+  "key": 54306,
+  "messages": [
+    {
+      "id": "msg_0175_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Halt!\n",
+        "Geh nicht ohne mich!\r",
+        "Du willst doch in die\n",
+        "Pokémon Liga, stimmt’s?\r",
+        "Deswegen bin ich auch hier.\r",
+        "Mal sehen, wer von uns besser\n",
+        "vorbereitet ist. Kämpfen wir!\r"
+      ]
+    },
+    {
+      "id": "msg_0175_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Ich bin für die Pokémon\n",
+        "Liga wohl noch nicht bereit, sonst würde\f",
+        "ich ja nicht gegen dich verlieren!\r",
+        "Verflixt noch eins!\n",
+        "Pass du nur auf, sag ich dir!\r",
+        "Ich werde stärker und schlage\n",
+        "mich bis zur Pokémon Liga durch!\r",
+        "Ich werde nämlich der Champ,\n",
+        "der härteste Trainer schlechthin!\r",
+        "{STRVAR_1 3, 1}! Sieh zu, dass du\n",
+        "ungeschlagen bleibst, bevor\f",
+        "ich dich dann schlage!\r"
+      ]
+    },
+    {
+      "id": "msg_0175_00002",
+      "de_DE": [
+        "Überprüfen wir mal, ob du für die\n",
+        "Pokémon Liga qualifiziert bist.\r",
+        "Also! Zeige mir alle Arena-Orden,\n",
+        "die du in Sinnoh gewonnen hast.\r",
+        "Erzelingen - Kohleorden!\r",
+        "Ewigenau - Waldorden!\r",
+        "Schleiede - Bergorden!\r",
+        "Weideburg - Fennorden!\r",
+        "Herzhofen - Reliktorden!\r",
+        "Fleetburg - Minenorden!\r",
+        "Blizzach - Firnorden!\r",
+        "Und!\n",
+        "Sonnewik - Lichtorden!\r"
+      ]
+    },
+    {
+      "id": "msg_0175_00003",
+      "de_DE": [
+        "Ausgezeichnet!\r",
+        "Trainer, du hast in der Tat die Orden\n",
+        "aller Arenen von Sinnoh erhalten!\r",
+        "Demonstriere mir die Macht,\n",
+        "die dich so weit gebracht hat!"
+      ]
+    },
+    {
+      "id": "msg_0175_00004",
+      "de_DE": [
+        "In der Pokémon Liga trittst du\n",
+        "gegen die Top Vier an.\r",
+        "Wenn du nicht alle vier hintereinander\n",
+        "besiegst, musst du von vorne anfangen!"
+      ]
+    },
+    {
+      "id": "msg_0175_00005",
+      "de_DE": [
+        "Erstaunlich, deine Pokémon sind\n",
+        "ja so was von ruhig.\r",
+        "Dabei müsst ihr gegen die\n",
+        "Top Vier antreten!\r",
+        "Sie sind so locker und relaxt,\n",
+        "das gefällt mir."
+      ]
+    }
+  ]
+}

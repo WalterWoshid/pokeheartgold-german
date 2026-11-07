@@ -1,0 +1,72 @@
+{
+  "key": 40295,
+  "messages": [
+    {
+      "id": "msg_0104_00000",
+      "de_DE": [
+        "{SIZE 200}O’o’o!{SIZE 100}\r",
+        "Gekommän bist dü, endlisch!\r",
+        "Neues lernä isch, immer wieder seit\n",
+        "meinä Ankünft in diesä Stadt.\r",
+        "Wettböwärbe gäben soll es ’ier?\n",
+        "Sie alle wärde isch gewinnän.\r",
+        "Deswegen kleide isch misch so.\n",
+        "Üngewö’nlisch bin isch, oui oui.\r",
+        "Doch stark genüg bin isch, üm\n",
+        "Arenaleiterin zü werden.\r",
+        "’erausfördärn willst dü misch? Ja, so\n",
+        "soll äs dänn sein.\r",
+        "Doch gäwinnen wirst dü nischt!\n",
+        "Das iis’ das Privileg dör Leiterin, oui!\r"
+      ]
+    },
+    {
+      "id": "msg_0104_00001",
+      "de_DE": [
+        "Erschüttert bin isch!\r",
+        "Stark, so stark bist dü!\n",
+        "Stark sind deinä Pokémon!\r",
+        "Beeindrückänd ist deinä Stärke!\r",
+        "Belo’nt soll sie wärden mit diesä\n",
+        "Ordän!\r"
+      ]
+    },
+    {
+      "id": "msg_0104_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhielt den \n",
+        "Reliktorden von Lamina!"
+      ]
+    },
+    {
+      "id": "msg_0104_00003",
+      "de_DE": [
+        "Die Attackä Surfer kannst dü mit diesä\n",
+        "Ordän außer’alb von Kämpfen verwänden.\r",
+        "Ünd diese TM gebe isch dir äbbenfalls.\r",
+        "Auf deinä Wäg viel Glück.\r"
+      ]
+    },
+    {
+      "id": "msg_0104_00004",
+      "de_DE": [
+        "Diesä {STRVAR_1 8, 0}... Die Attackä\n",
+        "{STRVAR_1 6, 1} bein’altet sie.\r",
+        "Eine sähr mächtige Attackä, oui oui.\n",
+        "Vollträffär landet sie oft!"
+      ]
+    },
+    {
+      "id": "msg_0104_00005",
+      "de_DE": [
+        "Fünf Aräna-Ordän...\r",
+        "Doch vergässen darfst dü eines nischt.\n",
+        "Viele andörä Trainär gibt äs.\r",
+        "Starkä Trainär!\n",
+        "Viele gibt es davon in Sinno’.\r",
+        "Gedüld müsst dü ’abön! Stärker wirst\n",
+        "dü langsam, nischt schnell."
+      ]
+    }
+  ]
+}

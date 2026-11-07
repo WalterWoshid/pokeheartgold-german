@@ -1,0 +1,140 @@
+{
+  "key": 54472,
+  "messages": [
+    {
+      "id": "msg_0665_00000",
+      "de_DE": "Bill"
+    },
+    {
+      "id": "msg_0665_00001",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Die Besonderheit des Telefons besteht\n",
+        "darin, Stimmen in Elektrizität umwandeln\f",
+        "und selbst an entlegene Orte\f",
+        "transportieren zu können, nicht wahr?\r",
+        "Ob es wohl möglich wäre, Pokémon auf\n",
+        "der Basis eines ähnlichen Prinzips weit\f",
+        "weg zu schicken? Die Erfindung des\f",
+        "Pokémon-Lagerungssystems ist derlei\f",
+        "Gedankenspielen zu verdanken.\r",
+        "Zugegeben, so einfach wie beim Telefon\n",
+        "ging es jedoch nicht vonstatten..."
+      ]
+    },
+    {
+      "id": "msg_0665_00002",
+      "de_DE": [
+        "Hallo, {STRVAR_1 3, 0, 0}?\r",
+        "Die Besonderheit des Telefons besteht\n",
+        "darin, Stimmen in Elektrizität umwandeln\f",
+        "und selbst an entlegene Orte\f",
+        "transportieren zu können, nicht wahr?\r",
+        "Ob es wohl möglich wäre, Pokémon auf\n",
+        "der Basis eines ähnlichen Prinzips weit\f",
+        "weg zu schicken? Die Erfindung des\f",
+        "Pokémon-Lagerungssystems ist derlei\f",
+        "Gedankenspielen zu verdanken.\r",
+        "Zugegeben, so einfach wie beim Telefon\n",
+        "ging es jedoch nicht vonstatten..."
+      ]
+    },
+    {
+      "id": "msg_0665_00003",
+      "de_DE": [
+        "Wie sagtest du, heißt du noch gleich?\r",
+        "Ah, {STRVAR_1 3, 0, 0}?\n",
+        "Einen Moment bitte...\r",
+        "...\n",
+        "...\r"
+      ]
+    },
+    {
+      "id": "msg_0665_00004",
+      "de_DE": [
+        "Wie sagtest du, heißt du noch gleich?\r",
+        "Ah, {STRVAR_1 3, 0, 0}?\n",
+        "Einen Moment bitte...\r",
+        "...\n",
+        "...\r"
+      ]
+    },
+    {
+      "id": "msg_0665_00005",
+      "de_DE": [
+        "Du kannst die Box mit dem Namen\n",
+        "{STRVAR_1 11, 10, 0} jetzt benutzen.\r",
+        "Den Namen kann man sich leicht merken!\n",
+        "Das ist die Hauptsache, nicht wahr?\r",
+        "{STRVAR_1 11, 10, 0} eingeschlossen,\n",
+        "kannst du jetzt {STRVAR_1 52, 11, 0} Pokémon in deine\f",
+        "PC-Boxen senden.\r"
+      ]
+    },
+    {
+      "id": "msg_0665_00006",
+      "de_DE": [
+        "Im Moment benutzt du die Box mit\n",
+        "dem Namen {STRVAR_1 11, 10, 0}.\r",
+        "Na, wenn das mal kein toller Name ist!\n",
+        "Mir gefällt er auf jeden Fall!\r",
+        "{STRVAR_1 11, 10, 0} eingeschlossen,\n",
+        "kannst du jetzt {STRVAR_1 52, 11, 0} Pokémon in deine\f",
+        "PC-Boxen senden.\r"
+      ]
+    },
+    {
+      "id": "msg_0665_00007",
+      "de_DE": [
+        "Täusche ich mich oder hast du\n",
+        "die Box mit dem Namen {STRVAR_1 11, 10, 0}\r",
+        "umbenannt? Es macht Spaß,\n",
+        "seine Box umzubenennen, nicht wahr?\r",
+        "{STRVAR_1 11, 10, 0} eingeschlossen,\n",
+        "kannst du jetzt {STRVAR_1 52, 11, 0} Pokémon\f",
+        "in deine PC-Boxen senden.\r"
+      ]
+    },
+    {
+      "id": "msg_0665_00008",
+      "de_DE": "Bis demnächst!"
+    },
+    {
+      "id": "msg_0665_00009",
+      "de_DE": [
+        "Deine Boxen sind voll!\n",
+        "Wenn du nicht Platz schaffst, indem\f",
+        "du Pokémon freilässt, kannst du keine\f",
+        "weiteren Pokémon mehr fangen!\r"
+      ]
+    },
+    {
+      "id": "msg_0665_00010",
+      "de_DE": [
+        "Hallo, ich bin’s, Bill!\r",
+        "Deine Boxen sind voll?\r",
+        "Dann hast du aber schon sehr viele\n",
+        "Pokémon gefangen!\r",
+        "Du bist wirklich unglaublich! Hut ab!\r",
+        "Aber denke daran, dass du keine\n",
+        "weiteren Pokémon mehr fangen kannst, \f",
+        "wenn du deine Boxen in diesem Zustand\f",
+        "belässt."
+      ]
+    },
+    {
+      "id": "msg_0665_00011",
+      "de_DE": [
+        "Hallo, ich bin’s, Bill!\r",
+        "Deine Boxen sind voll?\r",
+        "Dann hast du aber schon sehr viele\n",
+        "Pokémon gefangen!\r",
+        "Du bist wirklich unglaublich! Hut ab!\r",
+        "Aber denke daran, dass du keine\n",
+        "weiteren Pokémon mehr fangen kannst, \f",
+        "wenn du deine Boxen in diesem Zustand\f",
+        "belässt."
+      ]
+    }
+  ]
+}

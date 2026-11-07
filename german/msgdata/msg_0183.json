@@ -1,0 +1,242 @@
+{
+  "key": 25379,
+  "messages": [
+    {
+      "id": "msg_0183_00000",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0183_00001",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0183_00002",
+      "de_DE": "{STRVAR_1 3, 1, 0}"
+    },
+    {
+      "id": "msg_0183_00003",
+      "de_DE": "{STRVAR_1 1, 2, 0}"
+    },
+    {
+      "id": "msg_0183_00004",
+      "de_DE": "{STRVAR_1 1, 3, 0}"
+    },
+    {
+      "id": "msg_0183_00005",
+      "de_DE": "{STRVAR_1 1, 4, 0}"
+    },
+    {
+      "id": "msg_0183_00006",
+      "de_DE": "{STRVAR_1 1, 5, 0}"
+    },
+    {
+      "id": "msg_0183_00007",
+      "de_DE": "{STRVAR_1 1, 6, 0}"
+    },
+    {
+      "id": "msg_0183_00008",
+      "de_DE": "{STRVAR_1 1, 7, 0}"
+    },
+    {
+      "id": "msg_0183_00009",
+      "de_DE": "{STRVAR_1 1, 8, 0}"
+    },
+    {
+      "id": "msg_0183_00010",
+      "de_DE": "{STRVAR_1 1, 9, 0}"
+    },
+    {
+      "id": "msg_0183_00011",
+      "de_DE": "{STRVAR_1 1, 10, 0}"
+    },
+    {
+      "id": "msg_0183_00012",
+      "de_DE": "{STRVAR_1 1, 11, 0}"
+    },
+    {
+      "id": "msg_0183_00013",
+      "de_DE": "{STRVAR_1 1, 12, 0}"
+    },
+    {
+      "id": "msg_0183_00014",
+      "de_DE": "{STRVAR_1 1, 13, 0}"
+    },
+    {
+      "id": "msg_0183_00015",
+      "de_DE": "Wähle ein Pokémon."
+    },
+    {
+      "id": "msg_0183_00016",
+      "de_DE": "{STRVAR_1 1, 0, 0} wurde ausgewählt."
+    },
+    {
+      "id": "msg_0183_00017",
+      "de_DE": "BERICHT"
+    },
+    {
+      "id": "msg_0183_00018",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0183_00019",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0183_00020",
+      "de_DE": [
+        "Verbindung wird hergestellt.\n",
+        "Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0183_00021",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} gegen {STRVAR_1 1, 1, 0}\n",
+        "eintauschen?"
+      ]
+    },
+    {
+      "id": "msg_0183_00022",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0183_00023",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0183_00024",
+      "de_DE": [
+        "Der Tausch\n",
+        "wurde abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0183_00025",
+      "de_DE": [
+        "Möchtest du den\n",
+        "Tausch abbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0183_00026",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0183_00027",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0183_00028",
+      "de_DE": [
+        "Dein Freund ist\n",
+        "noch nicht fertig..."
+      ]
+    },
+    {
+      "id": "msg_0183_00029",
+      "de_DE": [
+        "Dein Freund möchte\n",
+        "Pokémon tauschen."
+      ]
+    },
+    {
+      "id": "msg_0183_00030",
+      "de_DE": [
+        "{STRVAR_1 1, 0, 0} wird\n",
+        "{STRVAR_1 3, 1, 0} zugesandt."
+      ]
+    },
+    {
+      "id": "msg_0183_00031",
+      "de_DE": "Tschüss, {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "id": "msg_0183_00032",
+      "de_DE": "{STRVAR_1 3, 1, 0} versandte {STRVAR_1 1, 0, 0}."
+    },
+    {
+      "id": "msg_0183_00033",
+      "de_DE": "Kümmere dich gut um {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "id": "msg_0183_00034",
+      "de_DE": [
+        "Wenn du dieses Pokémon tauschst, wird\n",
+        "dein Abenteuer nicht fortgesetzt!"
+      ]
+    },
+    {
+      "id": "msg_0183_00035",
+      "garbage": 25
+    },
+    {
+      "id": "msg_0183_00036",
+      "de_DE": [
+        "Die Ballkapsel wird entfernt.\n",
+        "Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0183_00037",
+      "de_DE": [
+        "Ein Pokémon aus deinem Team\n",
+        "kann nicht getauscht werden."
+      ]
+    },
+    {
+      "id": "msg_0183_00038",
+      "de_DE": [
+        "Ein Pokémon aus dem Team des anderen\n",
+        "Trainers kann nicht getauscht werden."
+      ]
+    },
+    {
+      "id": "msg_0183_00039",
+      "de_DE": "♂"
+    },
+    {
+      "id": "msg_0183_00040",
+      "de_DE": "♀"
+    },
+    {
+      "id": "msg_0183_00041",
+      "de_DE": "Lv."
+    },
+    {
+      "id": "msg_0183_00042",
+      "de_DE": "ITEM"
+    },
+    {
+      "id": "msg_0183_00043",
+      "de_DE": "{STRVAR_1 1, 0, 0}"
+    },
+    {
+      "id": "msg_0183_00044",
+      "de_DE": "{STRVAR_1 52, 1, 0}"
+    },
+    {
+      "id": "msg_0183_00045",
+      "de_DE": "{STRVAR_1 8, 2, 0}"
+    },
+    {
+      "id": "msg_0183_00046",
+      "de_DE": "{STRVAR_1 1, 3, 0}"
+    },
+    {
+      "id": "msg_0183_00047",
+      "de_DE": "{STRVAR_1 52, 4, 0}"
+    },
+    {
+      "id": "msg_0183_00048",
+      "de_DE": "{STRVAR_1 8, 5, 0}"
+    },
+    {
+      "id": "msg_0183_00049",
+      "de_DE": "Keines"
+    },
+    {
+      "id": "msg_0183_00050",
+      "de_DE": "Ende"
+    }
+  ]
+}

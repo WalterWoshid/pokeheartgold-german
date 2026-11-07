@@ -1,0 +1,533 @@
+{
+  "key": 5126,
+  "messages": [
+    {
+      "id": "msg_0509_00000",
+      "de_DE": [
+        "Professor: ...\r",
+        "Da bist du ja endlich.\n",
+        "Du bist {STRVAR_1 3, 0}, nicht wahr?\r",
+        "Zeig mir doch nochmal dein Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00001",
+      "de_DE": [
+        "...\r",
+        "Hmm...\n",
+        "Verstehe, ja...\r",
+        "Dieses Pokémon scheint ziemlich\n",
+        "glücklich zu sein.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00002",
+      "de_DE": [
+        "Was ist das?\r",
+        "Dein Pokémon hat sich\n",
+        "bereits entwickelt?!?\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00003",
+      "de_DE": [
+        "Fein, fein!\r",
+        "Dann werde ich dir das {STRVAR_1 0, 0}\n",
+        "schenken.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00004",
+      "de_DE": [
+        "Professor: Da es nun dir gehört,\n",
+        "möchtest du ihm einen Spitznamen geben?"
+      ]
+    },
+    {
+      "id": "msg_0509_00005",
+      "de_DE": [
+        "Professor: Hmm. Ah so... Bist du denn\n",
+        "mit dem Spitznamen zufrieden?"
+      ]
+    },
+    {
+      "id": "msg_0509_00006",
+      "de_DE": [
+        "Professor: Dein Freund {STRVAR_1 3, 1}\n",
+        "hat mir erzählt, was am See passiert\f",
+        "ist.\r",
+        "Du sollst sehr gut gekämpft haben,\n",
+        "dafür, dass es dein erster Kampf war.\r",
+        "Ich kann erkennen, dass das Band\n",
+        "zwischen dir und dem Pokémon\f",
+        "wachsen wird.\r",
+        "Und darum vertraue ich dir das\n",
+        "{STRVAR_1 0, 0} an.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00007",
+      "de_DE": [
+        "Lucia: Es macht mich froh zu sehen,\n",
+        "wie freundlich du zu dem Pokémon bist!\r",
+        "Wenn du das nicht wärst, müsste ich...\n",
+        "Oh, ich kann das gar nicht aussprechen!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00008",
+      "de_DE": [
+        "Lucius: Junge, bin ich froh, dass du\n",
+        "nett zu dem Pokémon bist.\r",
+        "Andernfalls müsste ich...\n",
+        "Ah, ich mag gar nicht daran denken.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00009",
+      "de_DE": [
+        "Professor: Äh-häm! Kommen wir zum\n",
+        "eigentlichen Thema zurück.\r",
+        "Ich möchte, dass du etwas für\n",
+        "mich tust.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00010",
+      "de_DE": [
+        "Mein Name ist Eibe.\n",
+        "Ich studiere Pokémon.\r",
+        "Als Erstes möchte ich wissen,\n",
+        "welche Arten von Pokémon in\f",
+        "Sinnoh leben.\r",
+        "Um das herauszufinden, muss man\n",
+        "mithilfe des Pokédex Daten sammeln.\r",
+        "Und hier kommst du ins Spiel.\r",
+        "Ich möchte dir diesen Pokédex geben.\n",
+        "Kannst du damit Daten über die Pokémon\f",
+        "in Sinnoh für mich sammeln?"
+      ]
+    },
+    {
+      "id": "msg_0509_00011",
+      "de_DE": [
+        "Eibe: ...\r",
+        "...\r",
+        "...\r",
+        "...\r",
+        "Ich kann hier stundenlang schweigend\n",
+        "stehen. Ich bin sehr geduldig.\r",
+        "Ich frage dich noch einmal,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Ich möchte dir diesen Pokédex\n",
+        "anvertrauen.\r",
+        "Wirst du damit Daten über die Pokémon\n",
+        "in Sinnoh für mich sammeln?"
+      ]
+    },
+    {
+      "id": "msg_0509_00012",
+      "de_DE": [
+        "Eibe: Hm!\r",
+        "Gut geantwortet!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00013",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat den\n",
+        "{COLOR 1}Pokédex{COLOR 0} erhalten!"
+      ]
+    },
+    {
+      "id": "msg_0509_00014",
+      "de_DE": [
+        "Eibe: Dieser Pokédex ist ein\n",
+        "Hightechgerät.\r",
+        "Er speichert automatisch Daten aller\n",
+        "Pokémonarten, auf die du triffst.\r",
+        "{STRVAR_1 3, 0}! Ich möchte dich bitten,\n",
+        "überallhin zu gehen und alle Arten\f",
+        "von Pokémon dieser Region zu finden!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00015",
+      "de_DE": "Lucia: Ich habe auch einen!\r"
+    },
+    {
+      "id": "msg_0509_00016",
+      "de_DE": [
+        "Lucius: Ich habe den gleichen\n",
+        "Pokédex wie du.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00017",
+      "de_DE": [
+        "Eibe: Als du zusammen mit deinem Pokémon\n",
+        "über die Route 201 gegangen bist, wie\f",
+        "hast du dich da gefühlt?\r",
+        "Ich bin bereits 60 Jahre alt.\r",
+        "Und ich bin immer noch ganz aufgeregt,\n",
+        "wenn ich in der Nähe von Pokémon bin.\r",
+        "Du musst wissen, es gibt unzählige\n",
+        "Pokémon auf dieser Welt.\r",
+        "Und das bedeutet auch, dass unzählige\n",
+        "Nervenkitzel auf dich warten!\r",
+        "Und nun geh!\r",
+        "{STRVAR_1 3, 0}, dein großes\n",
+        "Abenteuer beginnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00018",
+      "de_DE": [
+        "Eibe: Nun geh schon!\r",
+        "{STRVAR_1 3, 0}, das Abenteuer wartet\n",
+        "auf dich!"
+      ]
+    },
+    {
+      "id": "msg_0509_00019",
+      "de_DE": [
+        "Lucia: Mein erstes Pokémon war\n",
+        "{STRVAR_1 0, 1}!\r",
+        "Hättest du dich am See für {STRVAR_1 0, 1}\n",
+        "entschieden, hätten wir jetzt\f",
+        "das gleiche Pokémon!\r",
+        "Ich meine, deine Wahl war schon okay...\r",
+        "Ich bin übrigens Lucia.\r",
+        "Ich helfe dem Professor bei der\n",
+        "Erstellung des Pokédex.\r",
+        "Wir beide, du und ich, sind uns\n",
+        "also ähnlich.\r",
+        "Ich bin dir nur ein paar Schritte\n",
+        "voraus, das ist alles.\r",
+        "Ich freue mich schon, dir das ein oder\n",
+        "andere zu erklären.\r",
+        "Es freut mich wirklich, dich kennen-\n",
+        "zulernen, {STRVAR_1 3, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00020",
+      "de_DE": [
+        "Lucius: Der Professor hat mich um Hilfe\n",
+        "gebeten, daher werde ich ebenfalls\f",
+        "daran arbeiten, den Pokédex zu füllen.\r",
+        "So haben wir beide, du und ich,\n",
+        "dasselbe Ziel.\r",
+        "Ich werde dir später noch das ein oder\n",
+        "andere erklären, einverstanden?\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00021",
+      "de_DE": [
+        "Ich bin der Vater von {STRVAR_1 3, 0}.\r",
+        "Und ich werde euch mit Freuden bei\n",
+        "eurer Aufgabe unterstützen.\r",
+        "Hahaha. Äh...\n",
+        "Ich bin mir sicher, wir können\f",
+        "uns auf dich verlassen!"
+      ]
+    },
+    {
+      "id": "msg_0509_00022",
+      "de_DE": [
+        "Professor Eibe hat einen neuen Pokédex\n",
+        "entwickelt, als er zusammen mit einem\f",
+        "Professor aus Kanto gearbeitet hat!"
+      ]
+    },
+    {
+      "id": "msg_0509_00023",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0509_00024",
+      "de_DE": [
+        "Regel Nr. 1 für Abenteurer:\n",
+        "Öffne das Menü mit dem X-Knopf."
+      ]
+    },
+    {
+      "id": "msg_0509_00025",
+      "de_DE": [
+        "Regel Nr. 2 für Abenteurer:\n",
+        "Speichere den Fortschritt mit SICHERN."
+      ]
+    },
+    {
+      "id": "msg_0509_00026",
+      "de_DE": "Es ist voll mit Büchern über Pokémon."
+    },
+    {
+      "id": "msg_0509_00027",
+      "de_DE": [
+        "Das sind Referenzmaterial und\n",
+        "Forschungsberichte zu Pokémon."
+      ]
+    },
+    {
+      "id": "msg_0509_00028",
+      "de_DE": [
+        "Eibe: Ah, {STRVAR_1 3, 0}!\r",
+        "Willst du mir deinen Fortschritt\n",
+        "mit dem Pokédex zeigen?\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00029",
+      "de_DE": [
+        "Hmm...\r",
+        "Du hast {STRVAR_1 52, 0} Pokémon gesehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00030",
+      "de_DE": [
+        "Was ist denn los?\r",
+        "Jetzt sag nicht, du hast erst so wenige\n",
+        "gesehen, dass es sich nicht lohnt,\f",
+        "mir den Pokédex zu zeigen?!?"
+      ]
+    },
+    {
+      "id": "msg_0509_00031",
+      "de_DE": [
+        "Wunderbar, {STRVAR_1 3, 0}!\r",
+        "Du hast alle Pokémon der Region\n",
+        "Sinnoh in deinem Pokédex verzeichnet!\r",
+        "Das wird mir bei meinem Studium der\n",
+        "Entwicklung der Pokémon eine\f",
+        "unbezahlbare Hilfe sein...\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00032",
+      "de_DE": [
+        "Eibe: Ah! {STRVAR_1 3, 0}! Ich habe schon\n",
+        "auf dich gewartet!\r",
+        "Du hast jede Art von Pokémon\n",
+        "in der Region Sinnoh gesehen!\r",
+        "Das wird mir bei meinem Studium der\n",
+        "Entwicklung der Pokémon eine\f",
+        "unbezahlbare Hilfe sein...\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00033",
+      "de_DE": [
+        "Eich: Ich grüße Sie, Professor Eibe!\n",
+        "Wir haben uns lange nicht gesehen!\r",
+        "Ich sage Ihnen, Sinnoh ist wirklich\n",
+        "weit von Kanto entfernt.\r",
+        "Aber Sie werden mir zustimmen: Wenn\n",
+        "man die Gelegenheit hat, neue Pokémon\f",
+        "zu sehen, ist kein Weg zu weit.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00034",
+      "de_DE": [
+        "Eibe: Oh! Na, wenn das nicht mein alter\n",
+        "Kollege Professor Eich ist!\r",
+        "Ich hätte es wissen müssen, dass der\n",
+        "Experte für Pokémon schlechthin den\f",
+        "Weg auf sich nimmt!\r",
+        "Wir haben doch immer gescherzt: “Wo\n",
+        "Pokémon sind, da findet man auch Eich!”\r",
+        "Schön, dass sich das nicht geändert\n",
+        "hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00035",
+      "de_DE": [
+        "Professor Eich, ich möchte Ihnen meinen\n",
+        "Neuzugang im Labor vorstellen.\r",
+        "Dieses junge Wesen hat jede Seite des\n",
+        "Sinnoh-Pokédex für mich gefüllt.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00036",
+      "de_DE": [
+        "Eich: Ah, ja. Freut mich sehr!\r",
+        "Du hast schon mitbekommen,\n",
+        "dass ich Eich heiße.\r",
+        "Professor Eibe hat mir in der letzten\n",
+        "Zeit viele gute Dinge über dich\f",
+        "berichtet.\r",
+        "Er überschlägt sich fast vor Lob für\n",
+        "diesen fantastischen, jungen Trainer.\r",
+        "Und wie ich sehe, wirst du dem gerecht. \n",
+        "Nein! Du bist sogar noch besser!\r",
+        "Und du hast ein ausgesprochenes\n",
+        "Gefühl für das richtige Timing.\r",
+        "Weißt du, ich habe Professor Eibe\n",
+        "auch versprochen, etwas mitzubringen.\r",
+        "Er wollte nämlich, dass ich den\n",
+        "Nationalen Pokédex mitbringe.\r",
+        "Und da du jetzt schon einmal hier bist,\n",
+        "werde ich deinen Pokédex mit dem\f",
+        "Nationalen Modus aufrüsten.\r",
+        "Schließlich gibt es noch viel, viel mehr\n",
+        "Pokémon auf dieser Welt zu entdecken!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00037",
+      "de_DE": [
+        "Der Pokédex von {STRVAR_1 3, 0} wurde mit\n",
+        "dem Nationalen Modus ausgerüstet!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00038",
+      "de_DE": [
+        "Eich: Ich fürchte, es wird nicht einfach\n",
+        "sein, den Nationalen Pokédex zu\f",
+        "vervollständigen.\r",
+        "Aber ich bin überzeugt davon, dass\n",
+        "du dich ehrlich anstrengen wirst,\f",
+        "uns zu helfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00039",
+      "de_DE": [
+        "Eibe: Nur keine Angst, {STRVAR_1 3, 0}\n",
+        "wird die Aufgabe bestens erledigen.\r",
+        "Übrigens, mein alter Freund, was\n",
+        "verschlägt Sie eigentlich in diese\f",
+        "Region?\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00040",
+      "de_DE": [
+        "Eich: Nun... Ich habe gehört, dass\n",
+        "der Park der Freunde nun\f",
+        "offen sein soll.\r",
+        "Wenn ich mich nicht irre, liegt\n",
+        "er am Ende der Route 221.\r",
+        "Dieser Park zieht jede Art von Pokémon\n",
+        "an, sie kommen aus jeder Region.\r",
+        "Ich bin hier, um im Park der Freunde\n",
+        "nach dem Rechten zu sehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00041",
+      "de_DE": [
+        "Du solltest den Park der Freunde\n",
+        "unbedingt mal besuchen, {STRVAR_1 3, 0}.\r",
+        "Oh ha! Ich komme noch zu spät zu einem\n",
+        "Meeting, wenn ich jetzt nicht gehe!\r",
+        "Es war mir eine Freude, euch getroffen\n",
+        "zu haben! Ich verabschiede mich!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00042",
+      "de_DE": [
+        "Du solltest den Park der Freunde\n",
+        "unbedingt mal besuchen, {STRVAR_1 3, 0}.\r",
+        "Oh ha! Ich komme noch zu spät zu einem\n",
+        "Meeting, wenn ich jetzt nicht gehe!\r",
+        "Es war mir eine Freude, euch getroffen\n",
+        "zu haben! Ich verabschiede mich!\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00043",
+      "de_DE": [
+        "Eibe: Und da geht er hin.\n",
+        "Wie immer in Eile...\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00044",
+      "de_DE": [
+        "Nun gut, {STRVAR_1 3, 0}...\r",
+        "Du hast den Pokédex vervollständigt,\n",
+        "daher habe ich hier ein Geschenk\f",
+        "für dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0509_00045",
+      "de_DE": [
+        "Eibe: Dies ist ein Pokémon Radar\n",
+        "oder auch Pokéradar.\r",
+        "Dieses Gerät zeigt dir, wo sich im\n",
+        "hohen Gras Pokémon befinden.\r",
+        "Ich habe es entwickelt, damit meine\n",
+        "Assistenten es leichter haben,\r",
+        "den Sinnoh-Pokédex zu erstellen,\n",
+        "aber das hast du ja schon gemeistert!\r",
+        "Ich denke, es wird dir helfen, den\n",
+        "Nationalen Pokédex zu vervollständigen."
+      ]
+    },
+    {
+      "id": "msg_0509_00046",
+      "de_DE": [
+        "Eibe: Die Welt ist so groß.\r",
+        "Da draußen gibt es noch viel mehr\n",
+        "Pokémon.\r",
+        "Und das bedeutet, dass Nervenkitzel\n",
+        "und Spaß für dich so schnell kein\f",
+        "Ende finden werden!"
+      ]
+    },
+    {
+      "id": "msg_0509_00047",
+      "de_DE": [
+        "{STRVAR_1 3, 0} sieht sich den PC an.\r",
+        "Auf dem Monitor kann man viele Fachbe-\n",
+        "griffe und wissenschaftliche Dinge\f",
+        "lesen, die gar nicht zu verstehen sind."
+      ]
+    },
+    {
+      "id": "msg_0509_00048",
+      "de_DE": [
+        "Die Forschungsunterlagen sind\n",
+        "sorgsam geordnet und verstaut."
+      ]
+    },
+    {
+      "id": "msg_0509_00049",
+      "de_DE": [
+        "Der Kühlschrank ist voller\n",
+        "Süßigkeiten. Oh, lecker..."
+      ]
+    },
+    {
+      "id": "msg_0509_00050",
+      "de_DE": [
+        "Das ist doch wirklich mal was!\r",
+        "Stell dir vor... Jede Art von Pokémon,\n",
+        "die in Sinnoh lebt, wird aufgezeichnet!\r",
+        "Und dann haben wir da {STRVAR_1 3, 0}...\r",
+        "Du bist dem Professor bei seinen\n",
+        "Forschungen über die Entwicklung von\f",
+        "Pokémon eine echte Hilfe!!!"
+      ]
+    },
+    {
+      "id": "msg_0509_00051",
+      "de_DE": [
+        "Ja, das stimmt.\r",
+        "Professor Eibe hat das Pokédex-System\n",
+        "zusammen mit Professor Eich entwickelt.\r",
+        "Professor Eich ist jünger als\n",
+        "Professor Eibe."
+      ]
+    }
+  ]
+}

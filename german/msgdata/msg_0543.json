@@ -1,0 +1,1231 @@
+{
+  "key": 46151,
+  "messages": [
+    {
+      "id": "msg_0543_00000",
+      "de_DE": [
+        "Lind: Ah, da bist du ja, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe schon auf dich gewartet!\r",
+        "Weißt du eigentlich, mit was sich\n",
+        "meine Forschung beschäftigt?\r",
+        "Pokémon in Pokébällen aufzubewahren\n",
+        "und sie überall zur Hand zu haben,\f",
+        "ist heutzutage nichts Besonderes mehr.\r",
+        "Aber vor der Erfindung des Pokéballs\n",
+        "haben die Leute ihre Pokémon alle\f",
+        "mit sich spazieren geführt!\r",
+        "Ja, genau wie deine Freundin Lyra!\r",
+        "Pokémon in Pokébällen mit sich durch die\n",
+        "Gegend zu tragen, ist natürlich eine\f",
+        "komfortable Sache, aber es lohnt sich\f",
+        "auch, ihnen etwas Auslauf zu gönnen!\r",
+        "Es ist nämlich gut möglich, dass dies\n",
+        "beeinflusst, wie und wann sich deine\f",
+        "Pokémon entwickeln!\r",
+        "Und genau da kommst du ins Spiel!\r",
+        "Ich möchte dir eins meiner Pokémon\n",
+        "geben, damit du für mich untersuchen\f",
+        "kannst, ob ein besonderer Bund\f",
+        "zwischen dir und diesem Pokémon\f",
+        "entsteht, wenn du es immer mit dir\f",
+        "spazieren führst.\r",
+        "Du kannst dir eins von diesen Pokémon\n",
+        "hier aussuchen...\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00001",
+      "de_DE": [
+        "Lind: Ah, da bist du ja, {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe schon auf dich gewartet!\r",
+        "Weißt du eigentlich, mit was sich\n",
+        "meine Forschung beschäftigt?\r",
+        "Pokémon in Pokébällen aufzubewahren\n",
+        "und sie überall zur Hand zu haben,\f",
+        "ist heutzutage nichts Besonderes mehr.\r",
+        "Aber vor der Erfindung des Pokéballs\n",
+        "haben die Leute ihre Pokémon alle\f",
+        "mit sich spazieren geführt!\r",
+        "Ja, genau wie dein Freund Klarin!\r",
+        "Pokémon in Pokébällen mit sich durch die\n",
+        "Gegend zu tragen, ist natürlich eine\f",
+        "komfortable Sache, aber es lohnt sich\f",
+        "auch, ihnen etwas Auslauf zu gönnen!\r",
+        "Es ist nämlich gut möglich, dass dies\n",
+        "beeinflusst, wie und wann sich deine\f",
+        "Pokémon entwickeln!\r",
+        "Und genau da kommst du ins Spiel!\r",
+        "Ich möchte dir eins meiner Pokémon\n",
+        "geben, damit du für mich untersuchen\f",
+        "kannst, ob ein besonderer Bund\f",
+        "zwischen dir und diesem Pokémon\f",
+        "entsteht, wenn du es immer mit dir\f",
+        "spazieren führst.\r",
+        "Du kannst dir eins von diesen Pokémon\n",
+        "hier aussuchen...\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00002",
+      "de_DE": "Lind: Oh, ich habe eine E-Mail!\r"
+    },
+    {
+      "id": "msg_0543_00003",
+      "de_DE": "Lind: Aha... hm, na sieh mal einer an...\r"
+    },
+    {
+      "id": "msg_0543_00004",
+      "de_DE": [
+        "Lind: Hör mir zu! Ich habe da einen\n",
+        "Bekannten namens Mr. Pokémon.\r",
+        "Er ist immer gleich völlig aus dem\n",
+        "Häuschen, wenn er meint, einen\f",
+        "besonders seltenen Fund gemacht\f",
+        "zu haben.\r",
+        "Gerade eben hat er mir wieder eine\n",
+        "seiner E-Mails geschickt, in der er mir\f",
+        "versichert, dieses eine Mal wirklich\f",
+        "etwas Besonderes gefunden zu haben.\r",
+        "Höchstwahrscheinlich handelt es sich\n",
+        "dabei mal wieder um ein Pokémon-Ei.\f",
+        "Aber meine Assistenten und ich haben\f",
+        "leider gerade alle Hände voll zu tun...\r",
+        "Hm, was mache ich jetzt nur...\r",
+        "Ich hab’s!\r",
+        "Du könntest der Sache doch für mich\n",
+        "nachgehen, oder? Was sagst du?\r",
+        "Los, du darfst dir dafür auch eins\n",
+        "dieser Pokémon hier aussuchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00005",
+      "de_DE": [
+        "Lind: Wenn du einem wilden Pokémon\n",
+        "begegnest, brauchst du einfach nur dein\f",
+        "Pokémon-Team für dich kämpfen lassen!"
+      ]
+    },
+    {
+      "id": "msg_0543_00006",
+      "de_DE": [
+        "Lind: Warte! Wo willst du denn hin?\n",
+        "Die Pokébälle befinden sich hier in\f",
+        "dieser Vorrichtung, siehst du?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "{STRVAR_1 0, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0543_00008",
+      "de_DE": [
+        "Möchtest du {STRVAR_1 0, 1, 0} einen\n",
+        "Spitznamen geben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0543_00009",
+      "de_DE": [
+        "Bist du mit {STRVAR_1 1, 1, 0} als\n",
+        "Spitzname zufrieden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0543_00010",
+      "de_DE": [
+        "Lind: Na, was sagst du? Mit einem\n",
+        "Pokémon spazieren zu gehen, ist schon\f",
+        "eine sehr entspannte Sache, oder?\r",
+        "Genieße das Gefühl auf dem Weg zum\n",
+        "Haus von Mr. Pokémon!\r",
+        "Und wenn dein Pokémon verletzt ist...\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00011",
+      "de_DE": [
+        "...kannst du es mithilfe dieser\n",
+        "Maschine wieder heilen.\r",
+        "Das geht ganz leicht! Du musst\n",
+        "dafür nur den PC auf meinem\f",
+        "Schreibtisch untersuchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00012",
+      "de_DE": [
+        "Lind: Jedes Mal, wenn Mr. Pokémon auf\n",
+        "Reisen geht, kommt er mit irgendeinem\f",
+        "seltenen Fund im Gepäck zurück.\r",
+        "Er wohnt nur ein kleines Stück nördlich\n",
+        "von Rosalia City.\r",
+        "Vielen Dank schon mal, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0543_00013",
+      "de_DE": [
+        "Lind: Jedes Mal, wenn Mr. Pokémon auf\n",
+        "Reisen geht, kommt er mit irgendeinem\f",
+        "seltenen Fund im Gepäck zurück.\r",
+        "Er wohnt nur ein kleines Stück nördlich\n",
+        "von Rosalia City.\r",
+        "Vielen Dank schon mal, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0543_00014",
+      "de_DE": [
+        "Dieser PC hängt an der Maschine, mit\n",
+        "der du deine Pokémon heilen kannst."
+      ]
+    },
+    {
+      "id": "msg_0543_00015",
+      "de_DE": [
+        "Zwei der kostbaren Pokémon\n",
+        "sind noch übrig...\r",
+        "Aber die gehören dem Professor!"
+      ]
+    },
+    {
+      "id": "msg_0543_00016",
+      "de_DE": [
+        "Eins der kostbaren Pokémon\n",
+        "ist noch übrig...\r",
+        "Oh! Sieh sich das einer an!\r",
+        "Es wird hinter einer dicken Vitrine\n",
+        "aufbewahrt, damit es diesmal auch ja\f",
+        "niemand stibitzen kann!"
+      ]
+    },
+    {
+      "id": "msg_0543_00017",
+      "de_DE": [
+        "Die kostbaren Pokémon sind alle\n",
+        "verschwunden!\r",
+        "Wem Professor Lind das Letzte\n",
+        "wohl geschenkt hat?"
+      ]
+    },
+    {
+      "id": "msg_0543_00018",
+      "de_DE": [
+        "Was? Meinst du mich? Nein, ich\n",
+        "bin nicht der Professor!\r",
+        "Er hält sich weiter hinten im Labor auf!"
+      ]
+    },
+    {
+      "id": "msg_0543_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Hier, sieh das als eine\n",
+        "kleine Entlohnung für deine Dienste an.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00020",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Hier, sieh das als eine\n",
+        "kleine Entlohnung für deine Dienste an.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00021",
+      "de_DE": [
+        "Wenn dir die Situation etwas zu brenzlig\n",
+        "wird, solltest du deinem Pokémon ohne\f",
+        "zu zögern einen Trank geben.\r",
+        "Zu Beginn sind nämlich alle Pokémon\n",
+        "noch leicht zu verletzen.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00022",
+      "de_DE": [
+        "Wenn dir die Situation etwas zu brenzlig\n",
+        "wird, solltest du deinem Pokémon ohne\f",
+        "zu zögern einen Trank geben.\r",
+        "Zu Beginn sind nämlich alle Pokémon\n",
+        "noch leicht zu verletzen."
+      ]
+    },
+    {
+      "id": "msg_0543_00023",
+      "de_DE": [
+        "Was willst du hier? Ich stecke gerade\n",
+        "mitten in den Ermittlungen zu einem\f",
+        "Pokémon-Diebstahl...\r",
+        "Und die erste Regel, die es in einem\n",
+        "solchen Fall zu beachten gilt, lautet:\f",
+        "Der Täter kehrt immer an den Tatort\f",
+        "zurück!\r",
+        "Wer weiß, vielleicht bist du am Ende\n",
+        "ja sogar der TÄTER?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00024",
+      "de_DE": [
+        "Lyra: Einen Moment mal!\n",
+        "Dieser Junge ist unschuldig!\r",
+        "Ich habe nämlich einen Jungen mit\n",
+        "feuerroten Haaren dabei beobachtet,\f",
+        "wie er hier herumgeschnüffelt hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00025",
+      "de_DE": [
+        "Klarin: Einen Moment mal!\n",
+        "Dieses Mädchen ist unschuldig!\r",
+        "Ich habe nämlich einen Jungen mit\n",
+        "feuerroten Haaren dabei beobachtet,\f",
+        "wie er hier herumgeschnüffelt hat!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00026",
+      "de_DE": [
+        "Und du sagst, du hast dir mit diesem\n",
+        "Jungen einen Kampf geliefert?\r",
+        "Hm, dann deutet alles darauf hin,\n",
+        "dass er der wahre Täter ist...\r",
+        "Und kennst du auch den Namen\n",
+        "dieses Jungen?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00027",
+      "de_DE": [
+        "Aha! {STRVAR_1 3, 1, 0} heißt er also!\n",
+        "Habe ich dich richtig verstanden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0543_00028",
+      "de_DE": [
+        "Vielen Dank für die Unterstützung!\r",
+        "Dann lautet mein Auftrag von nun an,\n",
+        "den Jungen mit den roten Haaren\f",
+        "aufzuspüren! Auf geht’s!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00029",
+      "de_DE": [
+        "Oh, habe ich dich falsch verstanden?\r",
+        "Könntest du seinen Namen dann bitte\n",
+        "noch einmal wiederholen?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00030",
+      "de_DE": [
+        "Lyra: Puh, ein Glück, dass wir den\n",
+        "Verdacht von dir abwenden konnten,\f",
+        "nicht wahr, {STRVAR_1 3, 0, 0}?\r",
+        "In Ordnung, dann bis später mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00031",
+      "de_DE": [
+        "Klarin: Puh, ein Glück, dass wir den\n",
+        "Verdacht von dir abwenden konnten,\f",
+        "nicht wahr, {STRVAR_1 3, 0, 0}?\r",
+        "In Ordnung, dann bis später mal!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00032",
+      "de_DE": [
+        "Lind: Oh, {STRVAR_1 3, 0, 0}... hier war ganz\n",
+        "schön was los, sage ich dir!\r",
+        "Aber warum erzählst du mir nicht,\n",
+        "was es mit Mr. Pokémons großem\f",
+        "Fund auf sich hatte?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00033",
+      "de_DE": [
+        "Lind: Oh, {STRVAR_1 3, 0, 0}... hier war ganz\n",
+        "schön was los, sage ich dir!\r",
+        "Aber warum erzählst du mir nicht,\n",
+        "was es mit Mr. Pokémons großem\f",
+        "Fund auf sich hatte?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00034",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} übergibt Professor Lind\n",
+        "das Rätsel-Ei!"
+      ]
+    },
+    {
+      "id": "msg_0543_00035",
+      "de_DE": [
+        "Lind: Gut, dann wollen wir mal sehen!\n",
+        "Das sieht mir ganz... nach einem Ei aus!\r",
+        "Er hat natürlich recht, diese Art Ei\n",
+        "sehe ich gerade auch zum ersten Mal.\r",
+        "Aber außer Mr. Pokémon gibt es\n",
+        "heutzutage niemanden mehr, den ein\f",
+        "neues Ei noch so aus den Socken haut.\r",
+        "Es ist immer dieselbe Leier mit ihm...\r",
+        "Aber... jetzt, wo wir das Ei schon mal\n",
+        "hier haben, wollen wir doch auch mal\f",
+        "sehen, welche Geheimnisse es birgt.\r",
+        "Dann also mal los! Ich werde es eine\n",
+        "Weile lang hierbehalten und genau\f",
+        "untersuchen!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00036",
+      "de_DE": [
+        "Lind: Was? Professor Eich hat dir\n",
+        "einen Pokédex gegeben?!\r",
+        "Ist das echt wahr, {STRVAR_1 3, 0, 0}?\n",
+        "D-das ist ja unglaublich!\r",
+        "Er besitzt das einzigartige Talent,\n",
+        "das wahre Potenzial eines Trainers\f",
+        "erkennen zu können.\r",
+        "Mann, wer hätte das gedacht...\n",
+        "Mir war zwar auch klar, dass du nicht\f",
+        "einfach irgendein Trainer bist, aber\f",
+        "das macht die Sache noch mal ein\f",
+        "ganzes Stück interessanter!\r",
+        "Das Pokémon, das ich dir gegeben\n",
+        "habe, scheint dich auch schon\f",
+        "richtig liebgewonnen zu haben...\r",
+        "In Ordnung!\r",
+        "Was hältst du davon, wenn du dich mal\n",
+        "an den verschiedenen Pokémon-Arenen\f",
+        "dieser Region versuchst? Und dann...\r",
+        "Wenn du dir die Orden aller Arenen\n",
+        "erkämpft hast, warten die Pokémon Liga\f",
+        "und der Titel des Champs auf dich!\r",
+        "...Aber werde nicht übermütig!\r",
+        "Es bis zum Champ zu bringen, ist alles\n",
+        "andere als leicht!\r",
+        "Fürs Erste solltest du dich an der\n",
+        "Arena von Viola City hier in der Nähe\f",
+        "versuchen.\r",
+        "Mit deinem Niveau solltest du dort\n",
+        "bereits einiges erreichen können.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00037",
+      "de_DE": [
+        "Lind: Was? Professor Eich hat dir\n",
+        "einen Pokédex gegeben?!\r",
+        "Ist das echt wahr, {STRVAR_1 3, 0, 0}?\n",
+        "D-das ist ja unglaublich!\r",
+        "Er besitzt das einzigartige Talent,\n",
+        "das wahre Potenzial eines Trainers\f",
+        "erkennen zu können.\r",
+        "Mann, wer hätte das gedacht...\n",
+        "Mir war zwar auch klar, dass du nicht\f",
+        "einfach irgendein Trainer bist, aber\f",
+        "das macht die Sache noch mal ein\f",
+        "ganzes Stück interessanter!\r",
+        "Das Pokémon, das ich dir gegeben\n",
+        "habe, scheint dich auch schon\f",
+        "richtig liebgewonnen zu haben...\r",
+        "In Ordnung!\r",
+        "Was hältst du davon, wenn du dich mal\n",
+        "an den verschiedenen Pokémon-Arenen\f",
+        "dieser Region versuchst? Und dann...\r",
+        "Wenn du dir die Orden aller Arenen\n",
+        "erkämpft hast, warten die Pokémon Liga\f",
+        "und der Titel des Champs auf dich!\r",
+        "...Aber werde nicht übermütig!\r",
+        "Es bis zum Champ zu bringen, ist alles\n",
+        "andere als leicht!\r",
+        "Fürs Erste solltest du dich an der\n",
+        "Arena von Viola City hier in der Nähe\f",
+        "versuchen.\r",
+        "Mit deinem Niveau solltest du dort\n",
+        "bereits einiges erreichen können.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00038",
+      "de_DE": [
+        "In Ordnung, {STRVAR_1 3, 0, 0}...\n",
+        "Wenn du es wirklich darauf anlegst,\f",
+        "alle Arenen dieser Region zu besuchen,\f",
+        "solltest du dich besser auf eine lange\f",
+        "Reise gefasst machen.\r",
+        "Bevor du aufbrichst, solltest du mit\n",
+        "deiner Mutter sprechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00039",
+      "de_DE": [
+        "In Ordnung, {STRVAR_1 3, 0, 0}...\n",
+        "Wenn du es wirklich darauf anlegst,\f",
+        "alle Arenen dieser Region zu besuchen,\f",
+        "solltest du dich besser auf eine lange\f",
+        "Reise gefasst machen.\r",
+        "Bevor du aufbrichst, solltest du mit\n",
+        "deiner Mutter sprechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00040",
+      "de_DE": [
+        "Lind: Gib nicht auf! Ich melde mich\n",
+        "bei dir, sobald ich etwas über dieses\f",
+        "Ei herausgefunden habe!"
+      ]
+    },
+    {
+      "id": "msg_0543_00041",
+      "de_DE": [
+        "Wir haben ein schrecklich lautes\n",
+        "Geräusch von draußen gehört, doch\f",
+        "während wir mit dem Professor nach\f",
+        "dem Rechten gesehen haben, hat\f",
+        "irgendjemand ein Pokémon gestohlen...\r",
+        "...Seufz... ich frage mich, wie es dem\n",
+        "gestohlenen Pokémon jetzt wohl geht...\r",
+        "Man sagt, aus einem Pokémon, das von\n",
+        "einem bösen Menschen trainiert wird,\f",
+        "wird auch mal ein böses Pokémon..."
+      ]
+    },
+    {
+      "id": "msg_0543_00042",
+      "de_DE": [
+        "Lind: Oh, {STRVAR_1 3, 0, 0}! Hast du zufällig\n",
+        "meinen Assistenten getroffen?\r",
+        "Ich hatte ihm gesagt, er soll mit dem Ei\n",
+        "im Pokémon-Supermarkt von Viola City\f",
+        "auf dich warten..."
+      ]
+    },
+    {
+      "id": "msg_0543_00043",
+      "de_DE": [
+        "Lind: Oh, {STRVAR_1 3, 0, 0}! Hast du zufällig\n",
+        "meinen Assistenten getroffen?\r",
+        "Ich hatte ihm gesagt, er soll mit dem Ei\n",
+        "im Pokémon-Supermarkt von Viola City\f",
+        "auf dich warten..."
+      ]
+    },
+    {
+      "id": "msg_0543_00044",
+      "de_DE": [
+        "Lind: Ach, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Du scheinst guter Dinge zu sein!\r",
+        "Nun erzähle mal, was macht das Ei so?\r",
+        "Trägst du es bei deinen Reisen auch\n",
+        "immer schön brav mit dir herum?\r",
+        "Wenn du viel Zeit und Liebe in das Ei\n",
+        "investierst, schlüpft bestimmt einmal\f",
+        "ein fröhliches Pokémon daraus!"
+      ]
+    },
+    {
+      "id": "msg_0543_00045",
+      "de_DE": [
+        "Lind: Ach, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Du scheinst guter Dinge zu sein!\r",
+        "Nun erzähle mal, was macht das Ei so?\r",
+        "Trägst du es bei deinen Reisen auch\n",
+        "immer schön brav mit dir herum?\r",
+        "Wenn du viel Zeit und Liebe in das Ei\n",
+        "investierst, schlüpft bestimmt einmal\f",
+        "ein fröhliches Pokémon daraus!"
+      ]
+    },
+    {
+      "id": "msg_0543_00046",
+      "de_DE": "Huch? Was ist das für ein Pokémon?!\r"
+    },
+    {
+      "id": "msg_0543_00047",
+      "de_DE": [
+        "Hm, ich kann mich nicht entsinnen,\n",
+        "in Johto schon mal so ein Pokémon\f",
+        "gesehen zu haben...\r",
+        "Jetzt verstehe ich auch, worauf\n",
+        "Mr. Pokémon am Telefon hinauswollte.\f",
+        "Das bringt uns den Legendären Poké...\r",
+        "Oh, aber schon gut. Vergiss es.\r",
+        "Eins steht nun aber auf jeden Fall fest:\n",
+        "Wir können in Zukunft noch viele\f",
+        "unglaubliche Dinge von dir erwarten!\r",
+        "Oh, das ist ja alles so aufregend!\n",
+        "Hier, nimm das als Zeichen meines Danks!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00048",
+      "de_DE": [
+        "Hm, ich könnte mich nicht entsinnen,\n",
+        "in Johto schon mal so ein Pokémon\f",
+        "gesehen zu haben...\r",
+        "Jetzt verstehe ich auch, worauf\n",
+        "Mr. Pokémon am Telefon hinauswollte.\f",
+        "Das bringt uns den Legendären Poké...\r",
+        "Oh, aber schon gut. Vergiss es.\r",
+        "Eins steht nun aber auf jeden Fall fest:\n",
+        "Wir können in Zukunft noch viele\f",
+        "unglaubliche Dinge von dir erwarten!\r",
+        "Oh, das ist ja alles so aufregend!\n",
+        "Hier, nimm das als Zeichen meines Danks!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00049",
+      "de_DE": [
+        "Lind: Das ist ein Ewigstein!\r",
+        "Wenn Pokémon sich entwickeln, ändern\n",
+        "sie dabei auch ihre Gestalt.\r",
+        "Wenn sie in diesem Moment allerdings\n",
+        "einen Ewigstein bei sich tragen, lässt\f",
+        "sich die Entwicklung damit aufhalten.\r",
+        "Wenn du ein Pokémon also in seiner\n",
+        "ursprünglichen Form weitertrainieren\f",
+        "willst, gib ihm einen Ewigstein!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00050",
+      "de_DE": [
+        "In Ordnung, {STRVAR_1 3, 0, 0}!\n",
+        "Viel Erfolg noch auf deinen Abenteuern!\r",
+        "Oh, und äh... vergiss nicht, mir bei\n",
+        "meiner Forschung zu helfen!"
+      ]
+    },
+    {
+      "id": "msg_0543_00051",
+      "de_DE": [
+        "In Ordnung, {STRVAR_1 3, 0, 0}!\n",
+        "Viel Erfolg noch auf deinen Abenteuern!\r",
+        "Oh, und äh... vergiss nicht, mir bei\n",
+        "meiner Forschung zu helfen!"
+      ]
+    },
+    {
+      "id": "msg_0543_00052",
+      "de_DE": "Oh, du kannst nichts mehr tragen!"
+    },
+    {
+      "id": "msg_0543_00053",
+      "de_DE": [
+        "Lind: Nanu? Ich dachte, es wäre etwas\n",
+        "aus dem Ei geschlüpft, {STRVAR_1 3, 0, 0}!\f",
+        "Wo ist das Pokémon?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00054",
+      "de_DE": [
+        "Lind: Nanu? Ich dachte, es wäre etwas\n",
+        "aus dem Ei geschlüpft, {STRVAR_1 3, 0, 0}!\f",
+        "Wo ist das Pokémon?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00055",
+      "de_DE": [
+        "...Seufz... ich frage mich, wie es dem\n",
+        "gestohlenen Pokémon jetzt wohl geht...\r",
+        "Man sagt, aus einem Pokémon, das von\n",
+        "einem bösen Menschen trainiert wird,\f",
+        "wird auch mal ein böses Pokémon..."
+      ]
+    },
+    {
+      "id": "msg_0543_00056",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}! Nun hör dir das an!\r",
+        "Die Geschichte ist einfach unglaublich!\r",
+        "Der Dieb, der den Professor bestohlen\n",
+        "hat, ist wieder zurückgekommen, um\f",
+        "ihm sein Pokémon zurückzugeben!\r",
+        "Damit hattest du nicht gerechnet, was?\r",
+        "Und jetzt hör dir mal an, was Professor\n",
+        "Lind zu diesem Dieb gesagt hat!\r",
+        "... ... ...\n",
+        "Dieses Pokémon scheint dich bereits\f",
+        "sehr in sein Herz geschlossen zu haben.\f",
+        "Für ein Pokémon ist es das höchste\f",
+        "Glück, an der Seite eines Menschen sein\f",
+        "zu dürfen, den es gerne hat.\f",
+        "Ich finde, du solltest es behalten.\f",
+        "... ... ...\r",
+        "Findest du das nicht auch ergreifend?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00057",
+      "de_DE": [
+        "Der Dieb... nein, der Junge mit den\n",
+        "roten Haaren hat dann das Pokémon\f",
+        "genommen und ist, ohne ein Wort zu\f",
+        "sagen, wieder gegangen.\r",
+        "Aber... von hier aus konnte ich genau\n",
+        "sehen, dass ihm die Freude darüber\f",
+        "förmlich ins Gesicht geschrieben stand!"
+      ]
+    },
+    {
+      "id": "msg_0543_00058",
+      "de_DE": [
+        "Lyra: {STRVAR_1 3, 0, 0}!\n",
+        "Was, du hast bereits acht Orden?\f",
+        "Das ist ja unglaublich!\r",
+        "Na los, geh schon zum Professor!\n",
+        "Er wartet bereits auf dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00059",
+      "de_DE": [
+        "Klarin: {STRVAR_1 3, 0, 0}!\n",
+        "Was, du hast bereits acht Orden?\f",
+        "Das ist ja unglaublich!\r",
+        "Na los, geh schon zum Professor!\n",
+        "Er wartet bereits auf dich!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00060",
+      "de_DE": [
+        "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Mann, bei dir weiß man wirklich nie, mit\f",
+        "was du einen als Nächstes überraschst!\r",
+        "Dank dir macht meine Forschung\n",
+        "ganz ausgezeichnete Fortschritte!\r",
+        "Hier, bitte nimm das als Zeichen meiner\n",
+        "Dankbarkeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00061",
+      "de_DE": [
+        "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Mann, bei dir weiß man wirklich nie, mit\f",
+        "was du einen als Nächstes überraschst!\r",
+        "Dank dir macht meine Forschung\n",
+        "ganz ausgezeichnete Fortschritte!\r",
+        "Hier, bitte nimm das als Zeichen meiner\n",
+        "Dankbarkeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00062",
+      "de_DE": [
+        "Das ist ein Meisterball!\r",
+        "Egal, mit welchem Pokémon du es auch zu\n",
+        "tun hast, mit diesem wertvollen Pokéball\f",
+        "gelingt es dir garantiert, es zu fangen!\r",
+        "Meisterbälle werden angeblich exklusiv\n",
+        "für herausragende Leistungen im Feld\f",
+        "der Pokémon-Forschung ausgegeben...\r",
+        "Aber ich glaube, du kannst damit mehr\n",
+        "anfangen als ich, {STRVAR_1 3, 0, 0}.\f",
+        "Hier, du kannst ihn haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00063",
+      "de_DE": [
+        "Das ist ein Meisterball!\r",
+        "Egal, mit welchem Pokémon du es auch zu\n",
+        "tun hast, mit diesem wertvollen Pokéball\f",
+        "gelingt es dir garantiert, es zu fangen!\r",
+        "Meisterbälle werden angeblich exklusiv\n",
+        "für herausragende Leistungen im Feld\f",
+        "der Pokémon-Forschung ausgegeben...\r",
+        "Aber ich glaube, du kannst damit mehr\n",
+        "anfangen als ich, {STRVAR_1 3, 0, 0}.\f",
+        "Hier, du kannst ihn haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00064",
+      "de_DE": [
+        "Übrigens...\r",
+        "Vorhin waren ein paar wirklich hübsche\n",
+        "Kimono-Girls hier in meinem Labor!\r",
+        "Sie sagten, sie seien auf der Suche\n",
+        "nach dir, {STRVAR_1 3, 0, 0}...\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00065",
+      "de_DE": [
+        "Übrigens...\r",
+        "Vorhin waren ein paar wirklich hübsche\n",
+        "Kimono-Girls hier in meinem Labor!\r",
+        "Sie sagten, sie seien auf der Suche\n",
+        "nach dir, {STRVAR_1 3, 0, 0}...\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00066",
+      "de_DE": [
+        "Die Kimono-Girls sagten, sie\n",
+        "würden im Tanztheater von\f",
+        "Teak City auf dich warten!\r",
+        "Ich weiß, dass du jede Menge\n",
+        "durchgemacht hast, seit ich dir\f",
+        "dieses Ei anvertraut habe, aber\f",
+        "ich hoffe schwer, dass du nach\f",
+        "all diesen Mühen auch bis zum\f",
+        "Schluss durchhältst!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00067",
+      "de_DE": [
+        "Lyra: Man hört viel Gutes über dich,\n",
+        "weißt du das, {STRVAR_1 3, 0, 0}?\r",
+        "Du hast also den Kimono-Girls aus\n",
+        "der Patsche geholfen, was?\r",
+        "Das finde ich echt toll! Du legst dich\n",
+        "für uns alle so sehr ins Zeug!\r",
+        "Ich bin echt froh darüber, einen\n",
+        "Freund wie dich zu haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00068",
+      "de_DE": [
+        "Klarin: Man hört viel Gutes über dich,\n",
+        "weißt du das, {STRVAR_1 3, 0, 0}?\r",
+        "Du hast also den Kimono-Girls aus\n",
+        "der Patsche geholfen, was?\r",
+        "Das finde ich echt toll! Du legst dich\n",
+        "für uns alle so sehr ins Zeug!\r",
+        "Ich bin echt froh darüber, eine\n",
+        "Freundin wie dich zu haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00069",
+      "de_DE": [
+        "Lind: Die Kimono-Girls sagten, sie\n",
+        "würden im Tanztheater von Teak City\f",
+        "auf dich warten!"
+      ]
+    },
+    {
+      "id": "msg_0543_00070",
+      "de_DE": [
+        "Lind: Haha, gute Arbeit!\r",
+        "Zuerst dachte ich, dieses Ei sei einfach\n",
+        "nur selten und nichts weiter, aber die\f",
+        "Sache hat inzwischen völlig andere\f",
+        "Dimensionen angenommen, was?\r",
+        "Was haben dir die Kimono-Girls erzählt?\r",
+        "Ach, aber das geht mich nichts an.\r",
+        "Das war ganz allein dein Verdienst.\n",
+        "Du hast dich mit Herz und Seele durch\f",
+        "alles durchgekämpft.\r",
+        "Jemand, der aus eigener Kraft so viel\n",
+        "erreicht hat, schafft es sicher auch an\f",
+        "die Spitze der Pokémon Liga!\r",
+        "Mach dich nun also auf den Weg\n",
+        "zum Indigo-Plateau!\r",
+        "Weißt du, wo das ist?\r",
+        "Nimm von hier aus Route 27, bis du\n",
+        "auf Route 26 gelangst. Du musst\f",
+        "immer geradeaus in Richtung Norden!"
+      ]
+    },
+    {
+      "id": "msg_0543_00071",
+      "de_DE": [
+        "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe dich schon erwartet!\r",
+        "Ich habe dich heute zu mir gerufen, weil\n",
+        "ich dir etwas geben möchte.\r",
+        "Hier! Das ist ein Bootsticket.\r",
+        "Damit kannst du auch in Kanto auf\n",
+        "Pokémon-Jagd gehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00072",
+      "de_DE": [
+        "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Ich habe dich schon erwartet!\r",
+        "Ich habe dich heute zu mir gerufen, weil\n",
+        "ich dir etwas geben möchte.\r",
+        "Hier! Das ist ein Bootsticket.\r",
+        "Damit kannst du auch in Kanto auf\n",
+        "Pokémon-Jagd gehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00073",
+      "de_DE": [
+        "Lind: Das Schnellboot, für das dieses\n",
+        "Ticket gültig ist, legt im Hafen von\f",
+        "Oliviana City ab.\r",
+        "Aber das weißt du ja wahrscheinlich\n",
+        "besser als ich, {STRVAR_1 3, 0, 0}...\r",
+        "Du und dein Pokémon-Team, ihr seid\n",
+        "schließlich schon viel zusammen gereist.\r",
+        "Also dann! Wenn du nach Kanto gehst,\n",
+        "grüße bitte Professor Eich von mir!"
+      ]
+    },
+    {
+      "id": "msg_0543_00074",
+      "de_DE": [
+        "Lind: Das Schnellboot, für das dieses\n",
+        "Ticket gültig ist, legt im Hafen von\f",
+        "Oliviana City ab.\r",
+        "Aber das weißt du ja wahrscheinlich\n",
+        "besser als ich, {STRVAR_1 3, 0, 0}...\r",
+        "Du und dein Pokémon-Team, ihr seid\n",
+        "schließlich schon viel zusammen gereist.\r",
+        "Also dann! Wenn du nach Kanto gehst,\n",
+        "grüße bitte Professor Eich von mir!"
+      ]
+    },
+    {
+      "id": "msg_0543_00075",
+      "de_DE": [
+        "Lind: Oh, das PICHU, das dir da durch\n",
+        "die Gegend folgt, ist äußerst selten!\f",
+        "Darf ich mal einen Blick darauf werfen?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00076",
+      "de_DE": [
+        "Hm... dieses Strubbelohr alleine ist\n",
+        "schon außergewöhnlich, aber das\f",
+        "scheint nicht das Einzige zu sein, was\f",
+        "dieses Pokémon von einem gewöhnlichen\f",
+        "PICHU unterscheidet.\r",
+        "So etwas sieht man echt nicht alle Tage.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00077",
+      "de_DE": [
+        "Du hast es im Steineichenwald gefunden?\r",
+        "Dort will man doch auch das mysteriöse\n",
+        "Pokémon CELEBI gesehen haben, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00078",
+      "de_DE": "Da fällt mir ein...\r"
+    },
+    {
+      "id": "msg_0543_00079",
+      "de_DE": [
+        "Wenn ich mich nicht irre, hat Professor\n",
+        "Eich mal für eine Pokémon-Tagung einen\f",
+        "Aufsatz namens “CELEBI und {COLOR 1}Zeitreise{COLOR 0}”\f",
+        "verfasst! Was sagte er da noch gleich?\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00080",
+      "de_DE": [
+        "Lind: CELEBI verfügt über eine\n",
+        "mysteriöse Macht namens {COLOR 1}Zeitreise{COLOR 0}, die\f",
+        "es ihm erlaubt, in die Vergangenheit\f",
+        "oder die Zukunft zu springen.\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00081",
+      "de_DE": [
+        "Wenn Zeitreise der Auslöser dafür war,\n",
+        "dass dieses PICHU zu uns gelangt ist,\f",
+        "solltest du es besser nicht weggeben\f",
+        "und es mit viel Liebe selbst trainieren.\r",
+        "Die weite Reise durch die Zeit mit CELEBI\n",
+        "scheint große körperliche Spuren an\f",
+        "diesem PICHU hinterlassen zu haben.\r",
+        "Ich setze sofort die Pokémon-Center\n",
+        "darüber in Kenntnis.\r",
+        "Wenn sich der Einfluss von CELEBI\n",
+        "irgendwie bemerkbar macht, sollten\f",
+        "dich die Damen am Schalter dort\f",
+        "umgehend darüber in Kenntnis setzen."
+      ]
+    },
+    {
+      "id": "msg_0543_00082",
+      "de_DE": [
+        "Wenn Zeitreise der Auslöser dafür war,\n",
+        "dass dieses PICHU zu uns gelangt ist,\f",
+        "solltest du es besser nicht weggeben\f",
+        "und es mit viel Liebe selbst trainieren.\r",
+        "Die weite Reise durch die Zeit mit CELEBI\n",
+        "scheint große körperliche Spuren an\f",
+        "diesem PICHU hinterlassen zu haben.\r",
+        "Ich setze sofort die Pokémon-Center\n",
+        "darüber in Kenntnis.\r",
+        "Wenn sich der Einfluss von CELEBI\n",
+        "irgendwie bemerkbar macht, sollten\f",
+        "dich die Damen am Schalter dort\f",
+        "umgehend darüber in Kenntnis setzen."
+      ]
+    },
+    {
+      "id": "msg_0543_00083",
+      "de_DE": [
+        "Lind: Dieses PICHU scheint wirklich ein\n",
+        "außergewöhnliches Exemplar zu sein.\f",
+        "Ich werde das weiter untersuchen."
+      ]
+    },
+    {
+      "id": "msg_0543_00084",
+      "de_DE": "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0543_00085",
+      "de_DE": "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\r"
+    },
+    {
+      "id": "msg_0543_00086",
+      "de_DE": [
+        "Das Strubbelohr-PICHU scheint dich\n",
+        "sehr zu mögen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00087",
+      "de_DE": [
+        "Das Strubbelohr-PICHU scheint dich\n",
+        "sehr zu mögen, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00088",
+      "de_DE": [
+        "Hm, seltsam...\r",
+        "Wenn ein PICHU seinen Trainer so gerne\n",
+        "hat, sollte es sich normalerweise zu\f",
+        "einem PIKACHU entwickeln...\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00089",
+      "de_DE": [
+        "Grübel, grübel...\r",
+        "Hmmm...\r",
+        "Vielleicht...\r",
+        "Ja, das wäre denkbar!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00090",
+      "de_DE": [
+        "Es mag komisch klingen, aber dieses\n",
+        "PICHU entwickelt sich nicht weiter!\r",
+        "Der Grund dafür liegt wahrscheinlich an\n",
+        "einer genetischen Veranlagung, die\f",
+        "durch das Einwirken von Zeitreise weiter\f",
+        "begünstigt wurde.\r",
+        "Ein Fall wie dieser ist mir wirklich noch\n",
+        "nicht untergekommen. Wie kann ein\f",
+        "Pokémon, das sich eigentlich entwickeln\f",
+        "müsste, auf Dauer völlig gleich bleiben?"
+      ]
+    },
+    {
+      "id": "msg_0543_00091",
+      "de_DE": [
+        "Lind: Dein Strubbelohr-PICHU scheint\n",
+        "wirklich gut gelaunt zu sein!\r",
+        "Das ist das erste Mal, dass ich ein\n",
+        "PICHU sehe, das sich nicht entwickelt.\f",
+        "Trainiere es mit viel Liebe!"
+      ]
+    },
+    {
+      "id": "msg_0543_00092",
+      "de_DE": "Willst du dein Pokémon-Team heilen? {YESNO 0}"
+    },
+    {
+      "id": "msg_0543_00093",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} öffnet ein Buch.\r",
+        "Regel Nr. 1 für Abenteurer:\r",
+        "Drücke den A-Knopf, um auf dem unteren\n",
+        "Bildschirm mit Leuten zu plaudern\f",
+        "oder deine Umgebung zu untersuchen!"
+      ]
+    },
+    {
+      "id": "msg_0543_00094",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} öffnet ein Buch.\r",
+        "Regel Nr. 2 für Abenteurer:\r",
+        "Der Trainerpass bezeugt, dass du\n",
+        "unterwegs bist, um deine Pokémon\f",
+        "zu trainieren.\r",
+        "Unter “SICHERN” kannst du deinen\n",
+        "Spielstand speichern."
+      ]
+    },
+    {
+      "id": "msg_0543_00095",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} öffnet ein Buch.\r",
+        "Regel Nr. 3 für Abenteurer:\r",
+        "In deinem Beutel gibt es für jeden Typ\n",
+        "von Item eine eigene Tasche."
+      ]
+    },
+    {
+      "id": "msg_0543_00096",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} öffnet ein Buch.\r",
+        "Regel Nr. 4 für Abenteurer:\r",
+        "Die vielen Funktionen des Pokécoms\n",
+        "ermöglichen es dir unter anderem, mit\f",
+        "Leuten zu telefonieren, Radio zu hören\f",
+        "und Landkarten zu studieren.\f",
+        "Er ist ein sehr hilfreiches Gerät!"
+      ]
+    },
+    {
+      "id": "msg_0543_00097",
+      "de_DE": [
+        "Da liegt ein Notizblock...\r",
+        "Wenn ein Pokémon dabei ist, sich zu\n",
+        "entwickeln, kannst du es mit dem\f",
+        "B-Knopf aufhalten."
+      ]
+    },
+    {
+      "id": "msg_0543_00098",
+      "de_DE": [
+        "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Wie geht’s, wie steht’s?\r",
+        "So gut, wie du dich um das Pokémon aus\n",
+        "diesem Ei kümmerst, schaffst du es\f",
+        "bestimmt auch, der Champ zu werden!"
+      ]
+    },
+    {
+      "id": "msg_0543_00099",
+      "de_DE": [
+        "Lind: Oh, hallo {STRVAR_1 3, 0, 0}!\n",
+        "Wie geht’s, wie steht’s?\r",
+        "So gut, wie du dich um das Pokémon aus\n",
+        "diesem Ei kümmerst, schaffst du es\f",
+        "bestimmt auch, der Champ zu werden!"
+      ]
+    },
+    {
+      "id": "msg_0543_00100",
+      "de_DE": [
+        "Du musst mir unbedingt zeigen, was\n",
+        "für ein Pokémon aus diesem Ei\f",
+        "geschlüpft ist! {STRVAR_1 3, 0, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0543_00101",
+      "de_DE": [
+        "Du musst mir unbedingt zeigen, was\n",
+        "für ein Pokémon aus diesem Ei\f",
+        "geschlüpft ist! {STRVAR_1 3, 0, 0}?"
+      ]
+    },
+    {
+      "id": "msg_0543_00102",
+      "de_DE": [
+        "Lind: {STRVAR_1 3, 0, 0}, du warst eine\n",
+        "echte Überraschung für mich!\r",
+        "Warum, fragst du? Na, weil ich\n",
+        "mir nie erträumt hätte, dass es\f",
+        "in meiner näheren Umgebung\f",
+        "einen so tollen Trainer wie dich\f",
+        "gibt, ist doch klar!\r",
+        "Dir verdanke ich es auch, dass ich\n",
+        "langsam, aber sicher dahinterkomme,\f",
+        "wofür es gut ist, sein Pokémon mit\f",
+        "sich spazieren zu führen.\r",
+        "Das zeigt mal wieder eins...\r",
+        "Und zwar, dass wir nie alles über das\n",
+        "Zusammenleben von Menschen und\f",
+        "Pokémon lernen können!\r",
+        "{STRVAR_1 3, 0, 0}, lass mich dir noch einmal\n",
+        "Danke für alles sagen! Vielen Dank!"
+      ]
+    },
+    {
+      "id": "msg_0543_00103",
+      "de_DE": [
+        "Lind: {STRVAR_1 3, 0, 0}, du warst eine\n",
+        "echte Überraschung für mich!\r",
+        "Warum, fragst du? Na, weil ich\n",
+        "mir nie erträumt hätte, dass es\f",
+        "in meiner näheren Umgebung\f",
+        "einen so tollen Trainer wie dich\f",
+        "gibt, ist doch klar!\r",
+        "Dir verdanke ich es auch, dass ich\n",
+        "langsam, aber sicher dahinterkomme,\f",
+        "wofür es gut ist, sein Pokémon mit\f",
+        "sich spazieren zu führen.\r",
+        "Das zeigt mal wieder eins...\r",
+        "Und zwar, dass wir nie alles über das\n",
+        "Zusammenleben von Menschen und\f",
+        "Pokémon lernen können!\r",
+        "{STRVAR_1 3, 0, 0}, lass mich dir noch einmal\n",
+        "Danke für alles sagen! Vielen Dank!"
+      ]
+    },
+    {
+      "id": "msg_0543_00104",
+      "de_DE": [
+        "Hm, ich kann mich nicht entsinnen,\n",
+        "in Johto schon mal so ein Pokémon\f",
+        "gesehen zu haben...\r",
+        "Jetzt verstehe ich auch, worauf\n",
+        "Mr. Pokémon am Telefon hinauswollte.\f",
+        "Eins steht aber auf jeden Fall fest:\r",
+        "Wir können in Zukunft noch viele\n",
+        "unglaubliche Dinge von dir erwarten!\r",
+        "Oh, das ist ja alles so aufregend!\n",
+        "Hier, nimm das als Zeichen meines Danks!\r"
+      ]
+    },
+    {
+      "id": "msg_0543_00105",
+      "de_DE": [
+        "Hm, ich kann mich nicht entsinnen,\n",
+        "in Johto schon mal so ein Pokémon\f",
+        "gesehen zu haben...\r",
+        "Jetzt verstehe ich auch, worauf\n",
+        "Mr. Pokémon am Telefon hinauswollte.\f",
+        "Eins steht aber auf jeden Fall fest:\r",
+        "Wir können in Zukunft noch viele\f",
+        "unglaubliche Dinge von dir erwarten!\r",
+        "Oh, das ist ja alles so aufregend!\n",
+        "Hier, nimm das als Zeichen meines Danks!\r"
+      ]
+    }
+  ]
+}

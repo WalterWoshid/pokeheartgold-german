@@ -1,0 +1,40 @@
+{
+  "key": 17438,
+  "messages": [
+    {
+      "id": "msg_0501_00000",
+      "de_DE": [
+        "Was gibt’s? Ich bin die Verwalterin\n",
+        "dieser Wohnungen.\r",
+        "Aber so sicher, wie sie\n",
+        "gebaut wurden, gibt es hier nicht\f",
+        "viel zu verwalten.\r",
+        "Ich wusste nicht, was ich mit all der\n",
+        "Freizeit hier anstellen sollte, also\f",
+        "habe ich meine Pokémon mitgebracht.\r",
+        "...Ach ja, eins solltest du noch wissen!\r",
+        "In dieser Residenz gibt es zwei Aufzüge!\n",
+        "Vergiss das nicht!"
+      ]
+    },
+    {
+      "id": "msg_0501_00001",
+      "de_DE": "MAUZI: Maaauz!"
+    },
+    {
+      "id": "msg_0501_00002",
+      "de_DE": "PIEPI: Pi pi piiiepi!"
+    },
+    {
+      "id": "msg_0501_00003",
+      "de_DE": "NIDORAN: Nido nido!"
+    },
+    {
+      "id": "msg_0501_00004",
+      "de_DE": [
+        "Dieser Aufzug führt in\n",
+        "den zweiten Stock."
+      ]
+    }
+  ]
+}

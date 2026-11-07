@@ -1,0 +1,41 @@
+{
+  "key": 9287,
+  "messages": [
+    {
+      "id": "msg_0627_00000",
+      "de_DE": [
+        "... ... ...\n",
+        "Du hast einen weiten Weg hinter dir...\f",
+        "Während ich hier meditiert habe, ist\f",
+        "eine neue Kraft in mir erwacht.\r",
+        "Ich möchte sie gerne mit deinen\n",
+        "Pokémon teilen.\f",
+        "Hier, nimm das, mein Kind.\r"
+      ]
+    },
+    {
+      "id": "msg_0627_00001",
+      "garbage": 21
+    },
+    {
+      "id": "msg_0627_00002",
+      "de_DE": [
+        "...Weißt du, was das ist?\r",
+        "Diese Attacke nennt sich Kraftreserve!\r",
+        "Sie bringt die wahre Kraft eines Pokémon\n",
+        "zum Vorschein. Aber vergiss nicht...\r",
+        "Typ und Stärke der Attacke hängen vom\n",
+        "jeweiligen Pokémon ab, dem du sie\f",
+        "beibringst!"
+      ]
+    },
+    {
+      "id": "msg_0627_00003",
+      "de_DE": "Du kannst nichts mehr tragen."
+    },
+    {
+      "id": "msg_0627_00004",
+      "de_DE": "Ich meditiere gerade..."
+    }
+  ]
+}

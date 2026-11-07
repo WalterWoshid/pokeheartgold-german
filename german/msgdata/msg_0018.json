@@ -1,0 +1,208 @@
+{
+  "key": 24832,
+  "messages": [
+    {
+      "id": "msg_0018_00000",
+      "de_DE": [
+        "Welche Einrichtung soll\n",
+        "herausgefordert werden? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0018_00001",
+      "de_DE": "{STRVAR_1 3, 0, 0} ist ausgestiegen.\r"
+    },
+    {
+      "id": "msg_0018_00002",
+      "de_DE": [
+        "Bitte wählt die Pokémon, mit\n",
+        "denen ihr teilnehmen möchtet.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00003",
+      "de_DE": [
+        "Einrichtung und/oder Levelreichweite\n",
+        "ist/sind anders als bei deinem Freund.\f",
+        "Bitte wähle erneut.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00004",
+      "de_DE": "Bitte warte einen Moment."
+    },
+    {
+      "id": "msg_0018_00005",
+      "de_DE": [
+        "Deine Siegesserienstatistik stimmt nicht\n",
+        "mit der deines Freundes überein.\r",
+        "Die Herausforderung wird neu\n",
+        "gestartet.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00006",
+      "de_DE": [
+        "Du und dein Freund habt beide\n",
+        "{STRVAR_1 0, 0, 0} gewählt.\r",
+        "Bitte beratet euch und wählt\n",
+        "unterschiedliche Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00007",
+      "de_DE": [
+        "Du und dein Freund habt beide\n",
+        "{STRVAR_1 0, 0, 0} und {STRVAR_1 0, 1, 0} gewählt.\r",
+        "Bitte beratet euch und wählt\n",
+        "unterschiedliche Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00008",
+      "garbage": 50
+    },
+    {
+      "id": "msg_0018_00009",
+      "de_DE": [
+        "Du und dein Freund habt beide\n",
+        "{STRVAR_1 0, 0, 0} gewählt.\r",
+        "Bitte beratet euch und wählt\n",
+        "unterschiedliche Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00010",
+      "de_DE": [
+        "Du und dein Freund habt beide\n",
+        "{STRVAR_1 0, 0, 0} und {STRVAR_1 0, 1, 0} gewählt.\r",
+        "Bitte beratet euch und wählt\n",
+        "unterschiedliche Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00011",
+      "de_DE": [
+        "Du und dein Freund müsst\n",
+        "dieselbe Pokémon-Art wählen.\r"
+      ]
+    },
+    {
+      "id": "msg_0018_00012",
+      "garbage": 54
+    },
+    {
+      "id": "msg_0018_00013",
+      "garbage": 60
+    },
+    {
+      "id": "msg_0018_00014",
+      "de_DE": [
+        "Welche Herausforderung soll’s sein?\n",
+        "Max. Lv. 50 od. Offener Level? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0018_00015",
+      "de_DE": [
+        "{STRVAR_1 0, 0, 0} hat bereits eine\n",
+        "andauernde Siegesserie.\r",
+        "Möchtest du diese Statistik löschen\n",
+        "und eine neue Herausforderung mit\f",
+        "{STRVAR_1 0, 1, 0} beginnen? {YESNO 0}\n"
+      ]
+    },
+    {
+      "id": "msg_0018_00016",
+      "de_DE": "JA"
+    },
+    {
+      "id": "msg_0018_00017",
+      "de_DE": "NEIN"
+    },
+    {
+      "id": "msg_0018_00018",
+      "de_DE": "Bitte triff erneut eine Auswahl.\r"
+    },
+    {
+      "id": "msg_0018_00019",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0018_00020",
+      "de_DE": "Viel Glück!"
+    },
+    {
+      "id": "msg_0018_00021",
+      "de_DE": [
+        "Möchtest du wieder mit {STRVAR_1 3, 0, 0}\n",
+        "spielen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0018_00022",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0018_00023",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0018_00024",
+      "de_DE": [
+        "Dein Freund wählt noch aus.\n",
+        "Bitte warte einen Moment."
+      ]
+    },
+    {
+      "id": "msg_0018_00025",
+      "de_DE": "{STRVAR_1 3, 0, 0} ist ausgestiegen.\r"
+    },
+    {
+      "id": "msg_0018_00026",
+      "de_DE": "DUELLTURM"
+    },
+    {
+      "id": "msg_0018_00027",
+      "de_DE": "KAMPFFABRIK"
+    },
+    {
+      "id": "msg_0018_00028",
+      "de_DE": "KAMPFPALAIS"
+    },
+    {
+      "id": "msg_0018_00029",
+      "de_DE": "KAMPFSAAL"
+    },
+    {
+      "id": "msg_0018_00030",
+      "de_DE": "KAMPFARKADEN"
+    },
+    {
+      "id": "msg_0018_00031",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0018_00032",
+      "de_DE": "LEVEL 50"
+    },
+    {
+      "id": "msg_0018_00033",
+      "de_DE": "OFFENER LEVEL"
+    },
+    {
+      "id": "msg_0018_00034",
+      "de_DE": [
+        "Es wurde eine Diskrepanz zu dem\n",
+        "gespeicherten Spiel deines Freundes\f",
+        "festgestellt.\r",
+        "Bitte schalte das Gerät aus, wähle\n",
+        "ein anderes Pokémon und\f",
+        "fordere ihn erneut heraus!"
+      ]
+    }
+  ]
+}

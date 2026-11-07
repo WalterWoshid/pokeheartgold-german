@@ -1,3 +1,4 @@
+#include "config.h"
 #include "constants/sndseq.h"
 	.include "macros.inc"
 	.include "overlay_trainer_card_main.inc"
@@ -2932,7 +2933,7 @@ _021E72EC:
 	bl ReadMsgDataIntoString
 	mov r1, #0
 	str r1, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	add r0, r6, #0
 	add r2, r7, #0
@@ -2940,7 +2941,7 @@ _021E72EC:
 	bl BufferString
 	mov r3, #0
 	str r3, [sp]
-	mov r0, #2
+	mov r0, #GAME_LANGUAGE
 	str r0, [sp, #4]
 	add r0, r6, #0
 	mov r1, #1

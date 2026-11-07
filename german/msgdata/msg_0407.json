@@ -1,0 +1,120 @@
+{
+  "key": 22275,
+  "messages": [
+    {
+      "id": "msg_0407_00000",
+      "de_DE": [
+        "Oh, hallo!\r",
+        "Über diesen Eingang soll man einmal\n",
+        "in einen riesigen Turm gelangt sein,\f",
+        "der bis über die Wolken reichte.\r",
+        "Insbesondere seine ungewöhnliche\n",
+        "Form soll Aufsehen erregt haben.\r",
+        "Die Hälfte des Bauwerks wurde wohl\n",
+        "in diesen Steilhang eingearbeitet.\r",
+        "Der Turm ragte also nicht nur weit in\n",
+        "den Himmel, sondern erstreckte sich\f",
+        "auch bis tief unter die Erde!\r",
+        "Und zu guter Letzt soll er auch noch\n",
+        "mit dem Meer verbunden gewesen sein!\r",
+        "Diese Ruinen waren einmal kolossal...\r",
+        "Inzwischen liegt der Turm aber fast\n",
+        "komplett in Trümmern. Viel mehr als der\f",
+        "Eingang und der Mittelbau mit ein\f",
+        "paar merkwürdigen Abbildungen ist\f",
+        "nicht mehr von ihm übrig."
+      ]
+    },
+    {
+      "id": "msg_0407_00001",
+      "de_DE": [
+        "Ich glaube, dieses Bauwerk wurde einmal\n",
+        "zu Ehren eines oder mehrerer Pokémon\f",
+        "errichtet, die dem Meer, dem Land und\f",
+        "dem Himmel stark verbunden waren."
+      ]
+    },
+    {
+      "id": "msg_0407_00002",
+      "de_DE": [
+        "Der gewaltige Strom der Wassermassen,\n",
+        "die den Wasserfall hinabstürzen,\f",
+        "passt ganz hervorragend zu mir, dem\f",
+        "mächtigen Wellenbrecher Marinus!\r",
+        "Und du wagst es, mich trotz dieses\n",
+        "Ehrfurcht einflößenden Schauspiels\f",
+        "einfach so anzusprechen?\r",
+        "Oh, aber dich habe ich doch schon mal\n",
+        "im Prismania Einkaufszentrum getroffen!\f",
+        "Du bist das Kind mit dem Maskenfimmel!\r"
+      ]
+    },
+    {
+      "id": "msg_0407_00003",
+      "de_DE": [
+        "Marinus: Ich bin hier, weil man mir\n",
+        "sagte, in der Nähe von Anemonia City\f",
+        "gäbe es einen tollen Wasserfall...\r",
+        "Und er ist wirklich atemberaubend!\r",
+        "Ohne Wasser gäbe es weder uns\n",
+        "Menschen noch die Pokémon.\r",
+        "Aber seine gewaltige Macht kann uns\n",
+        "auch alle teuer zu stehen kommen!\r"
+      ]
+    },
+    {
+      "id": "msg_0407_00004",
+      "de_DE": [
+        "Marinus: Du bist ein Trainer aus\n",
+        "dieser Region, habe ich recht?\r",
+        "Als Trainer musst du wie das Wasser\n",
+        "gewaltige Energien freisetzen können\f",
+        "und die Herzen der Menschen zum\f",
+        "Überschäumen bringen!\r",
+        "Gib alles und trage deine Maske mit\n",
+        "Stolz, {STRVAR_1 3, 0, 0}!\r"
+      ]
+    },
+    {
+      "id": "msg_0407_00005",
+      "de_DE": [
+        "Hartwig: Oh, wie rührend! Ist das wahr?\n",
+        "Bist du wirklich extra bis hierher\f",
+        "gekommen, nur um mich zu finden?\r",
+        "Komm, diesen feierlichen Augenblick\n",
+        "müssen wir auf einem Foto\f",
+        "festhalten! Meinst du nicht? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0407_00006",
+      "de_DE": [
+        "Hartwig: Gut, dann kann’s losgehen!\n",
+        "Pass auf, dass du jetzt nicht blinzelst!\r"
+      ]
+    },
+    {
+      "id": "msg_0407_00007",
+      "de_DE": [
+        "Hartwig: Das Foto ist toll geworden!\n",
+        "Das ist ein schönes Andenken für dich!"
+      ]
+    },
+    {
+      "id": "msg_0407_00008",
+      "de_DE": [
+        "Hartwig: Na komm schon! Mach doch mit,\n",
+        "wenn du schon mal hier bist!"
+      ]
+    },
+    {
+      "id": "msg_0407_00009",
+      "de_DE": [
+        "Dein Fotoalbum scheint\n",
+        "bereits voll zu sein.\r",
+        "Bitte ordne deine Bilder am PC\n",
+        "neu und schaffe etwas Platz darin."
+      ]
+    }
+  ]
+}

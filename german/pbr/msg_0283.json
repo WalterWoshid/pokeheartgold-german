@@ -1,0 +1,1032 @@
+{
+  "key": 9338,
+  "messages": [
+    {
+      "id": "msg_0283_00000",
+      "de_DE": [
+        "Willkommen im Duellturm!\r",
+        "Ich bin die Anweiserin für die\n",
+        "Einzel- und Doppelkampfräume.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00001",
+      "de_DE": [
+        "Möchtest du die Herausforderung\n",
+        "des Kampfraumes beginnen?"
+      ]
+    },
+    {
+      "id": "msg_0283_00002",
+      "de_DE": "Hoffentlich kommst du bald wieder!"
+    },
+    {
+      "id": "msg_0283_00003",
+      "de_DE": [
+        "In den Kampfräumen für Einzelkämpfe\n",
+        "des Duellturms werden Einzelkämpfe\f",
+        "mit 3 Pokémon ausgetragen.\r",
+        "Es gibt aber auch Räume für\n",
+        "Doppelkämpfe im Duellturm, in denen\f",
+        "mit 4 Pokémon gekämpft wird.\r",
+        "Es gibt viele Räume hier für Teamkämpfe.\r",
+        "In jedem dieser Räume warten sieben\n",
+        "Trainer auf deine Herausforderung.\r",
+        "Schaffst du es, alle sieben zu besiegen,\n",
+        "erhältst du Gewinnpunkte (GP).\r",
+        "Willst du den Kampf unterbrechen,\n",
+        "speichere bitte dein Spiel.\r",
+        "Speicherst du es nicht, wirst du\n",
+        "disqualifiziert.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00004",
+      "de_DE": [
+        "Welchen Kampfraum möchtest du wählen?\n",
+        "Einzel oder Doppel?"
+      ]
+    },
+    {
+      "id": "msg_0283_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00006",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00007",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00008",
+      "de_DE": [
+        "Wähle die Pokémon,\n",
+        "die teilnehmen sollen.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00009",
+      "de_DE": [
+        "Du kannst nur mit unterschiedlichen\n",
+        "Pokémon antreten!\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00010",
+      "de_DE": [
+        "Nur unterschiedliche Items\n",
+        "dürfen getragen werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00011",
+      "de_DE": [
+        "Ich werde dir jetzt den\n",
+        "Kampfraum zeigen."
+      ]
+    },
+    {
+      "id": "msg_0283_00012",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Alle 7 Kämpfe wurden gewonnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00013",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Du hast den Kampfkoloss besiegt!\r",
+        "In Anerkennung deines herausragenden\n",
+        "Talents geben wir dir Gewinnpunkte.\r",
+        "{STRVAR_1 3, 0} erhält {STRVAR_1 50, 1} GP.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00014",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0283_00015",
+      "de_DE": "Komm bald wieder!"
+    },
+    {
+      "id": "msg_0283_00016",
+      "de_DE": [
+        "Wir haben schon auf dich gewartet!\r",
+        "Bevor du einen Kampfraum betrittst,\n",
+        "wird dein Spiel gespeichert.\r",
+        "Speichervorgang... Bitte das\n",
+        "System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0283_00017",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00018",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00019",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du hast die letzte Herausforderung\n",
+        "abgebrochen.\r",
+        "Wir müssen dich daher für diese\n",
+        "Herausforderung disqualifizieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00020",
+      "de_DE": [
+        "Willkommen im Duellturm!\r",
+        "Ich begleite dich durch die\n",
+        "Räume des Multikampfs.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00021",
+      "de_DE": [
+        "Möchtest du dich der Herausforderung\n",
+        "im Multikampf stellen?"
+      ]
+    },
+    {
+      "id": "msg_0283_00022",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00023",
+      "de_DE": [
+        "In den Multikampf-Räumen des Duell-\n",
+        "turms werden Multikämpfe ausgetragen.\r",
+        "Um an einem Multikampf teilnehmen\n",
+        "zu können, musst du mit einem\f",
+        "Trainer im Turm ein Team bilden.\r",
+        "Jeder von euch geht mit 2 Pokémon\n",
+        "in den Kampf.\r",
+        "Im Turm gibt es eine Teamlounge.\n",
+        "Hier triffst du andere Trainer.\r",
+        "Finde einen Partner, der mit dir\n",
+        "an einem Multikampf teilnimmt.\r",
+        "Hast du einen Partner gefunden, kannst\n",
+        "du in den Multikampf-Raum gehen.\r",
+        "Hier warten 7 Teams auf euch.\r",
+        "Schafft ihr es, alle sieben zu besiegen,\n",
+        "erhältst du Gewinnpunkte.\r",
+        "Willst du den Kampf unterbrechen,\n",
+        "speichere bitte dein Spiel.\r",
+        "Speicherst du es nicht, wirst du\n",
+        "disqualifiziert.\r",
+        "Befindest du dich in einem\n",
+        "Teamkampf mit einem Freund, kannst\f",
+        "du den Kampf nicht unterbrechen.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00024",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00025",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00026",
+      "de_DE": [
+        "Möchtest du dich mit einem Freund\n",
+        "verbinden, um ein Team zu bilden?"
+      ]
+    },
+    {
+      "id": "msg_0283_00027",
+      "de_DE": [
+        "Bitte legt fest, wer von euch der\n",
+        "“LEITER” ist.\r",
+        "Der andere Spieler wählt\n",
+        "“MITSPIELER” aus."
+      ]
+    },
+    {
+      "id": "msg_0283_00028",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00029",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00030",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00031",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00032",
+      "de_DE": [
+        "Ich führe dich jetzt zum\n",
+        "Kampfraum für den Multikampf."
+      ]
+    },
+    {
+      "id": "msg_0283_00033",
+      "de_DE": [
+        "Beide Trainer wählten das\n",
+        "Pokémon {STRVAR_1 0, 0}.\r",
+        "Bespreche dich mit dem\n",
+        "anderen Trainer.\r",
+        "Einer von euch muss ein\n",
+        "anderes Pokémon wählen.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00034",
+      "de_DE": [
+        "Beide Trainer wählten die\n",
+        "Pokémon {STRVAR_1 0, 0} und\f",
+        "{STRVAR_1 0, 1}.\r",
+        "Bespreche dich mit dem\n",
+        "anderen Trainer.\r",
+        "Einer von euch muss\n",
+        "andere Pokémon wählen.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00035",
+      "de_DE": "Ich zeige dir die Teamlounge.\r"
+    },
+    {
+      "id": "msg_0283_00036",
+      "de_DE": [
+        "Willkommen im Duellturm!\r",
+        "Ich bin deine Anweiserin für die\n",
+        "Wi-Fi Kampfräume.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00037",
+      "de_DE": [
+        "Möchtest du die Herausforderung\n",
+        "des Wi-Fi Kampfraumes beginnen?"
+      ]
+    },
+    {
+      "id": "msg_0283_00038",
+      "de_DE": [
+        "In den Wi-Fi Kampfräumen des Duellturms\n",
+        "werden Kämpfe über die Nintendo Wi-Fi\f",
+        "Connection (WFC) ausgetragen.\r",
+        "Bei Wi-Fi Kämpfen trittst du mittels der\n",
+        "Nintendo Wi-Fi Connection gegen Trainer\f",
+        "aus der ganzen Welt an.\r",
+        "Im Inneren des Duellturms findest\n",
+        "du zahlreiche Kampfräume vor.\r",
+        "In jedem Kampfraum gilt es,\n",
+        "7 Trainer zu besiegen.\r",
+        "Sollte dir das gelingen,\n",
+        "erhältst du Gewinnpunkte.\r",
+        "Wenn du besonders gut warst, kannst du\n",
+        "sogar der Leiter des Raumes werden!\r",
+        "Außerdem werden Wi-Fi Kampfräume\n",
+        "über ein Rangsystem verwaltet.\r",
+        "Gewinnt ein Trainer Wi-Fi Kämpfe,\n",
+        "klettert er in der Rangliste nach oben.\r",
+        "Umgekehrt sinkt seine Platzierung,\n",
+        "sollte er häufiger verlieren.\r",
+        "Deinen Rang steigerst du durch Siege,\n",
+        "am besten gegen starke Trainer.\r",
+        "Wenn du deine Herausforderung unter-\n",
+        "brechen willst, speichere dein Spiel.\r",
+        "Solltest du nicht speichern,\n",
+        "wirst du disqualifiziert.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00039",
+      "de_DE": "Komm bald wieder!"
+    },
+    {
+      "id": "msg_0283_00040",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00041",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00042",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00043",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00044",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00045",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00046",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00047",
+      "de_DE": [
+        "Gut. Ich führe dich nun\n",
+        "zu deinem Kampfraum.\r",
+        "Bist du bereit?"
+      ]
+    },
+    {
+      "id": "msg_0283_00048",
+      "de_DE": [
+        "Möchtest du speichern und deine\n",
+        "Herausforderung unterbrechen?"
+      ]
+    },
+    {
+      "id": "msg_0283_00049",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00050",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00051",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00052",
+      "de_DE": [
+        "Aus der vergangenen Rangliste des\n",
+        "Kampfraumes {STRVAR_1 52, 1} habe ich\f",
+        "Rang {STRVAR_1 51, 0} ermittelt.\r",
+        "Sieh dir die Resultate auf dem\n",
+        "Ergebnismonitor neben mir an."
+      ]
+    },
+    {
+      "id": "msg_0283_00053",
+      "de_DE": "Danke für’s Mitmachen!\r"
+    },
+    {
+      "id": "msg_0283_00054",
+      "de_DE": [
+        "Herzlichen Glückwunsch!\n",
+        "Alle 7 Kämpfe wurden gewonnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00055",
+      "de_DE": [
+        "{STRVAR_1 3, 0}, du bist außerdem auf\n",
+        "Rang {STRVAR_1 51, 1} gestiegen!\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00056",
+      "de_DE": [
+        "Speichervorgang... \n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0283_00057",
+      "de_DE": [
+        "Möchtest du diese Ergebnisse mithilfe\n",
+        "der Nintendo Wi-Fi Connection senden?"
+      ]
+    },
+    {
+      "id": "msg_0283_00058",
+      "de_DE": [
+        "Für deine Serie von sieben Siegen\n",
+        "belohnen wir dich mit Gewinnpunkten!\r",
+        "{STRVAR_1 3, 0} erhält {STRVAR_1 50, 1} GP.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00059",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00060",
+      "de_DE": [
+        "Deine Ergebnisse wurden über die\n",
+        "Nintendo Wi-Fi Connection gesendet!\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00061",
+      "de_DE": [
+        "Schön, dich wiederzusehen.\r",
+        "Deine vorherigen Ergebnisse wurden\n",
+        "nicht über die Nintendo Wi-Fi Connection\f",
+        "gesendet.\r",
+        "Möchtest du sie vielleicht\n",
+        "jetzt senden?"
+      ]
+    },
+    {
+      "id": "msg_0283_00062",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00063",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00064",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00065",
+      "de_DE": [
+        "Leider wurdest du auf\n",
+        "Rang {STRVAR_1 51, 0} zurückgesetzt...\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00066",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00067",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00068",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00069",
+      "de_DE": [
+        "Bevor du den Kampf beginnst, wird\n",
+        "dein Spiel gespeichert. Warte, bitte."
+      ]
+    },
+    {
+      "id": "msg_0283_00070",
+      "de_DE": [
+        "Glückwunsch zum Erreichen von\n",
+        "Rang {STRVAR_1 51, 0}.\r",
+        "Dein Pokémon-Siegerteam erhält\n",
+        "spezielle Bänder für diesen Erfolg!"
+      ]
+    },
+    {
+      "id": "msg_0283_00071",
+      "de_DE": [
+        "Glückwunsch zum Erreichen von\n",
+        "{STRVAR_1 52, 0} Siegen in Serie!\r",
+        "Dein Pokémon-Siegerteam erhält eine\n",
+        "spezielle Belohnung für diesen Erfolg!"
+      ]
+    },
+    {
+      "id": "msg_0283_00072",
+      "de_DE": "{STRVAR_1 3, 0} erhält {STRVAR_1 8, 1}!"
+    },
+    {
+      "id": "msg_0283_00073",
+      "de_DE": [
+        "Herzlichen Glückwunsch. Du hast nun\n",
+        "50 Siege in Folge verbucht.\r",
+        "Dein Pokémon-Siegerteam erhält\n",
+        "spezielle Bänder für diesen Erfolg!"
+      ]
+    },
+    {
+      "id": "msg_0283_00074",
+      "de_DE": [
+        "Ja, ich habe früher in einer\n",
+        "Region namens Hoenn gelebt.\r",
+        "Einen Ort wie diesen gab es\n",
+        "dort drüben auch."
+      ]
+    },
+    {
+      "id": "msg_0283_00075",
+      "de_DE": [
+        "Die Wi-Fi Kampfräume stecken\n",
+        "voller Überraschungen.\r",
+        "Stell dir vor, du könntest gegen einen\n",
+        "alten Rivalen antreten, der vor langer\f",
+        "Zeit fortgezogen ist!\r",
+        "Wer weiß, was für coole\n",
+        "Aufeinandertreffen dich erwarten?"
+      ]
+    },
+    {
+      "id": "msg_0283_00076",
+      "de_DE": [
+        "Wenn man hier einen Rekord schafft,\n",
+        "kommt man ins Fernsehen.\r",
+        "Das ist meine einzige Chance,\n",
+        "ein Superstar zu werden!"
+      ]
+    },
+    {
+      "id": "msg_0283_00077",
+      "de_DE": [
+        "Ich habe mein Kleines bis\n",
+        "zum Umfallen trainiert.\r",
+        "Wenn einer 100 Siege in Folge schafft,\n",
+        "dann mein Kleines, ich weiß es einfach...\r",
+        "Nicht wahr, PIKACHU?"
+      ]
+    },
+    {
+      "id": "msg_0283_00078",
+      "de_DE": "PIKACHU: ..."
+    },
+    {
+      "id": "msg_0283_00079",
+      "de_DE": [
+        "Oh, là, là!\n",
+        "Du siehst ziemlich stark aus!\r",
+        "Wirklich, ich freue mich schon darauf,\n",
+        "gegen dich anzutreten."
+      ]
+    },
+    {
+      "id": "msg_0283_00080",
+      "de_DE": [
+        "Es gibt so viele gute Trainer\n",
+        "da draußen...\r",
+        "Ganz schön beängstigend, aber wir\n",
+        "geben unser Bestes, PIKACHU!"
+      ]
+    },
+    {
+      "id": "msg_0283_00081",
+      "de_DE": "PKIACHU: Pika! Pikaaa!"
+    },
+    {
+      "id": "msg_0283_00082",
+      "de_DE": [
+        "Herzlichen Glückwunsch. Du hast nun\n",
+        "50 Siege in Folge verbucht.\r",
+        "Die Pokémon deines Teams erhalten\n",
+        "spezielle Bänder zur Erinnerung!"
+      ]
+    },
+    {
+      "id": "msg_0283_00083",
+      "de_DE": [
+        "Glückwunsch zum Aufstieg auf\n",
+        "Rang {STRVAR_1 50, 0}!\r",
+        "Die Pokémon deines Teams erhalten\n",
+        "spezielle Bänder zur Erinnerung!"
+      ]
+    },
+    {
+      "id": "msg_0283_00084",
+      "de_DE": [
+        "Glückwunsch zum Sieg über\n",
+        "den Kampfkoloss!\r",
+        "Die Pokémon deines Teams erhalten\n",
+        "spezielle Bänder zur Erinnerung!"
+      ]
+    },
+    {
+      "id": "msg_0283_00085",
+      "de_DE": [
+        "Glückwunsch zum Erreichen deiner\n",
+        "{STRVAR_1 52, 0}er Siegesserie!\r",
+        "Nimm bitte diese Trophäe für\n",
+        "deine fantastische Leistung!\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00086",
+      "de_DE": [
+        "...Oh-oh... Du hast keinen Platz\n",
+        "mehr für Dekorationsartikel.\r",
+        "Schaffe etwas Platz und komm dann\n",
+        "wieder, um deinen Preis abzuholen."
+      ]
+    },
+    {
+      "id": "msg_0283_00087",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0283_00088",
+      "de_DE": [
+        "Entschuldige bitte!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du benötigst {STRVAR_1 50, 0} verschiedene Pokémon,\n",
+        "um am Wettbewerb teilzunehmen.\r",
+        "Außerdem müssen die Pokémon\n",
+        "unterschiedliche Items tragen.\r",
+        "Eier sind ebenfalls nicht erlaubt.\r",
+        "Komm bitte wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00089",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier und {STRVAR_1 0, 1} sind\n",
+        "nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00090",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1} und {STRVAR_1 0, 2}\n",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00091",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2} und\n",
+        "{STRVAR_1 0, 3} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00092",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3} und {STRVAR_1 0, 4}\f",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00093",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4} und\f",
+        "{STRVAR_1 0, 5} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00094",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5} und {STRVAR_1 0, 6}\n",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00095",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6} und\n",
+        "{STRVAR_1 0, 7} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00096",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7} und {STRVAR_1 0, 8}\f",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00097",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8}\f",
+        "und {STRVAR_1 0, 9} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00098",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9} und {STRVAR_1 0, 10}\n",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00099",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10}\n",
+        "und {STRVAR_1 0, 11} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00100",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10},\n",
+        "{STRVAR_1 0, 11} und {STRVAR_1 0, 12}\f",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00101",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10},\n",
+        "{STRVAR_1 0, 11}, {STRVAR_1 0, 12}\f",
+        "und {STRVAR_1 0, 13} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00102",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10},\n",
+        "{STRVAR_1 0, 11}, {STRVAR_1 0, 12},\r",
+        "{STRVAR_1 0, 13} und {STRVAR_1 0, 14}\n",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00103",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10},\n",
+        "{STRVAR_1 0, 11}, {STRVAR_1 0, 12},\r",
+        "{STRVAR_1 0, 13}, {STRVAR_1 0, 14}\n",
+        "und {STRVAR_1 0, 15} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00104",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10},\n",
+        "{STRVAR_1 0, 11}, {STRVAR_1 0, 12},\r",
+        "{STRVAR_1 0, 13}, {STRVAR_1 0, 14},\n",
+        "{STRVAR_1 0, 15} und {STRVAR_1 0, 16}\f",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00105",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10},\n",
+        "{STRVAR_1 0, 11}, {STRVAR_1 0, 12},\r",
+        "{STRVAR_1 0, 13}, {STRVAR_1 0, 14},\n",
+        "{STRVAR_1 0, 15}, {STRVAR_1 0, 16}\f",
+        "und {STRVAR_1 0, 17} sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00106",
+      "de_DE": [
+        "Entschuldigung!\r",
+        "Du brauchst {STRVAR_1 50, 0} zugelassene Pokémon.\r",
+        "Du brauchst {STRVAR_1 50, 0} verschiedene\n",
+        "Pokémon.\r",
+        "Jedes muss außerdem ein anderes Item\n",
+        "halten.\r",
+        "Eier, {STRVAR_1 0, 1}, {STRVAR_1 0, 2},\n",
+        "{STRVAR_1 0, 3}, {STRVAR_1 0, 4},\r",
+        "{STRVAR_1 0, 5}, {STRVAR_1 0, 6},\n",
+        "{STRVAR_1 0, 7}, {STRVAR_1 0, 8},\r",
+        "{STRVAR_1 0, 9}, {STRVAR_1 0, 10},\n",
+        "{STRVAR_1 0, 11}, {STRVAR_1 0, 12},\r",
+        "{STRVAR_1 0, 13}, {STRVAR_1 0, 14},\n",
+        "{STRVAR_1 0, 15}, {STRVAR_1 0, 16},\r",
+        "{STRVAR_1 0, 17} und {STRVAR_1 0, 18}\n",
+        "sind nicht zugelassen.\r",
+        "Bitte komm wieder, wenn du bereit bist.\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00107",
+      "de_DE": [
+        "Vielen Dank für deine Teilnahme!\n",
+        "Komm bald wieder!"
+      ]
+    },
+    {
+      "id": "msg_0283_00108",
+      "de_DE": [
+        "Hallo, da drüben!\r",
+        "Kannst du mir beschreiben, wie das ist,\n",
+        "wenn man kurz vor einem Kampf im\r",
+        "Duellturm steht? Und wie ist das,\n",
+        "wenn du einen Kampf gewonnen oder\f",
+        "verloren hast?"
+      ]
+    },
+    {
+      "id": "msg_0283_00109",
+      "de_DE": [
+        "Okay! Und wie würdest du dich vor\n",
+        "dem Kampf vorstellen?"
+      ]
+    },
+    {
+      "id": "msg_0283_00110",
+      "de_DE": [
+        "Okay! Und was würdest du sagen,\n",
+        "wenn du einen Kampf verloren hast?"
+      ]
+    },
+    {
+      "id": "msg_0283_00111",
+      "de_DE": [
+        "Okay! Und was würdest du sagen,\n",
+        "wenn du einen Kampf gewonnen hast?"
+      ]
+    },
+    {
+      "id": "msg_0283_00112",
+      "de_DE": [
+        "Vielen Dank! Du würdest also sagen:\n",
+        "“{STRVAR_1 28}”..."
+      ]
+    },
+    {
+      "id": "msg_0283_00113",
+      "de_DE": [
+        "Oh? Du willst es mir nicht sagen?\n",
+        "Jammerschade..."
+      ]
+    },
+    {
+      "id": "msg_0283_00114",
+      "de_DE": [
+        "Offenbar stehen noch keine\n",
+        "Daten zur Verfügung...\r"
+      ]
+    },
+    {
+      "id": "msg_0283_00115",
+      "de_DE": [
+        "Drahtlose DS-Datenübertragung\n",
+        "wird gestartet."
+      ]
+    },
+    {
+      "id": "msg_0283_00116",
+      "de_DE": [
+        "Wir freuen uns schon auf\n",
+        "deinen nächsten Besuch.\r"
+      ]
+    }
+  ]
+}

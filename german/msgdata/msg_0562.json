@@ -1,0 +1,53 @@
+{
+  "key": 5246,
+  "messages": [
+    {
+      "id": "msg_0562_00000",
+      "de_DE": [
+        "Pokémon, die du im Tausch mit anderen\n",
+        "Trainern erhalten hast, lassen sich\f",
+        "schneller und leichter trainieren!\r",
+        "...Aber wenn du nicht den richtigen\n",
+        "Orden besitzt, gehorchen sie dir nicht."
+      ]
+    },
+    {
+      "id": "msg_0562_00001",
+      "de_DE": [
+        "Ich sammele Pokémon! Sag mal,\n",
+        "hast du vielleicht ein KNOFENSA?\r",
+        "Würdest du es gegen mein ONIX\n",
+        "tauschen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0562_00002",
+      "de_DE": [
+        "Oh, wie toll! Jetzt habe ich mein\n",
+        "eigenes KNOFENSA!\f",
+        "Vielen Dank!"
+      ]
+    },
+    {
+      "id": "msg_0562_00003",
+      "de_DE": [
+        "Hä? Aber das ist doch gar kein\n",
+        "KNOFENSA! Wie enttäuschend..."
+      ]
+    },
+    {
+      "id": "msg_0562_00004",
+      "de_DE": [
+        "Du willst also nicht tauschen?\n",
+        "Hmpf, zu dumm..."
+      ]
+    },
+    {
+      "id": "msg_0562_00005",
+      "de_DE": [
+        "Ach, hallo! Wie geht es dem ONIX, das\n",
+        "du im Tausch von mir bekommen hast?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "key": 39276,
+  "messages": [
+    {
+      "id": "msg_0169_00000",
+      "de_DE": [
+        "Du möchtest Frida herausfordern?\r",
+        "Sicher!\n",
+        "Ich warte schon lange auf einen\f",
+        "starken Trainer wie dich!\r",
+        "Aber ich muss dich warnen: Ich\n",
+        "bin stark. Denn ich weiß mich\f",
+        "zu konzentrieren.\r",
+        "Pokémon, Mode, Romanzen...\n",
+        "Alles eine Frage der Konzentration!\r",
+        "Ich zeige dir am besten, was ich\n",
+        "damit meine.\r",
+        "Mach dich bereit zu verlieren!\r"
+      ]
+    },
+    {
+      "id": "msg_0169_00001",
+      "de_DE": [
+        "Wow! Du bist klasse!\n",
+        "Du hast dir meinen Respekt verdient!\r",
+        "Ich glaube, deine Konzentration und\n",
+        "deine Willensstärke haben uns alle\f",
+        "überrollt.\r",
+        "Oh, bevor ich es vergesse...\n",
+        "Ich muss dir ja noch das hier geben!\r"
+      ]
+    },
+    {
+      "id": "msg_0169_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält den\n",
+        "Firnorden von Frida!"
+      ]
+    },
+    {
+      "id": "msg_0169_00003",
+      "de_DE": [
+        "Was das für ein Orden ist?\r",
+        "Das ist der Firnorden. Dank ihm kannst\n",
+        "du jetzt auch Kraxler außerhalb eines\f",
+        "Kampfes einsetzen.\r",
+        "Oh, und hier habe ich noch\n",
+        "etwas für dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0169_00004",
+      "de_DE": [
+        "{STRVAR_1 8, 0} enthält die Attacke\n",
+        "{STRVAR_1 6, 1}.\r",
+        "Nimmt der Anwender Schaden,\n",
+        "verdoppelt sich die Stärke\f",
+        "der Attacke!\r",
+        "Kannst du dir vorstellen, wie\n",
+        "viel Konzentrationskraft du\f",
+        "dafür brauchst?"
+      ]
+    },
+    {
+      "id": "msg_0169_00005",
+      "de_DE": [
+        "Meinst du, ich sollte mich mehr wie eine\n",
+        "Arenaleiterin verhalten, die Attacken\f",
+        "vom Typ Eis einsetzt?\r",
+        "Damit meine ich: Soll ich kühler und\n",
+        "distanzierter sein?!?\r",
+        "Aber damit hätte ich echt Probleme."
+      ]
+    },
+    {
+      "id": "msg_0169_00006",
+      "de_DE": [
+        "Hey, du da!\n",
+        "Wie geht es dem zukünftigen Champ?!?\r",
+        "Siehst du die dicken Schneebälle, die\n",
+        "hier und dort auf dem Boden liegen?\r",
+        "Du musst über das Eis schlittern, und\n",
+        "zwar mit solch einer Geschwindigkeit,\r",
+        "dass du die Schneebälle kaputtmachst.\n",
+        "Die Arenaleiterin setzt Eis-Pokémon ein.\r",
+        "Bring ihre Angriffe zum Schmelzen,\n",
+        "indem du heiße Feuer-Attacken einsetzt.\r",
+        "In dieser Arena kommt es auf die\n",
+        "Konzentration an.\r",
+        "Also konzentrier dich!"
+      ]
+    },
+    {
+      "id": "msg_0169_00007",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0}!\n",
+        "Du hast die Arenaleiterin besiegt!\r",
+        "Du warst konzentrierter, und deine\n",
+        "Pokémon haben das ausgenutzt!"
+      ]
+    },
+    {
+      "id": "msg_0169_00008",
+      "de_DE": [
+        "Pokémon Arena Blizzach\n",
+        "Leiterin: Frida\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 1}"
+      ]
+    },
+    {
+      "id": "msg_0169_00009",
+      "de_DE": [
+        "Pokémon Arena Blizzach\n",
+        "Leiterin: Frida\r",
+        "Anerkannte Trainer:\n",
+        "{STRVAR_1 3, 0}\f",
+        "{STRVAR_1 3, 1}"
+      ]
+    }
+  ]
+}

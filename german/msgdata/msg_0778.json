@@ -1,0 +1,700 @@
+{
+  "key": 15707,
+  "messages": [
+    {
+      "id": "msg_0778_00000",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0778_00001",
+      "de_DE": [
+        "Verbinde mit Nintendo Wi-Fi Connection.\n",
+        "Bitte warten!"
+      ]
+    },
+    {
+      "id": "msg_0778_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} sucht jemanden zum\n",
+        "Kämpfen."
+      ]
+    },
+    {
+      "id": "msg_0778_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} sucht jemanden zum\n",
+        "Tauschen."
+      ]
+    },
+    {
+      "id": "msg_0778_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} sucht jemanden\n",
+        "zum gemeinsamen Kochen."
+      ]
+    },
+    {
+      "id": "msg_0778_00005",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} sucht Teilnehmer\n",
+        "für die Kampfzone."
+      ]
+    },
+    {
+      "id": "msg_0778_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} sucht Teilnehmer\n",
+        "für {STRVAR_3 0, 1, 0}."
+      ]
+    },
+    {
+      "id": "msg_0778_00007",
+      "de_DE": "{STRVAR_1 3, 0, 0} wartet."
+    },
+    {
+      "id": "msg_0778_00008",
+      "de_DE": "Was möchtest du tun?"
+    },
+    {
+      "id": "msg_0778_00009",
+      "de_DE": "Suche Teilnehmer..."
+    },
+    {
+      "id": "msg_0778_00010",
+      "de_DE": "Einladung zurückziehen?"
+    },
+    {
+      "id": "msg_0778_00011",
+      "de_DE": "{STRVAR_1 3, 0, 0} kontaktiert dich!"
+    },
+    {
+      "id": "msg_0778_00012",
+      "de_DE": [
+        "Möchtest du die Verbindung zur Nintendo\n",
+        "WFC beenden?"
+      ]
+    },
+    {
+      "id": "msg_0778_00013",
+      "garbage": 28
+    },
+    {
+      "id": "msg_0778_00014",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat den Voicechat\n",
+        "aktiviert. Du kannst mit ihm sprechen."
+      ]
+    },
+    {
+      "id": "msg_0778_00015",
+      "de_DE": "{STRVAR_1 3, 0, 0} ist gerade beschäftigt..."
+    },
+    {
+      "id": "msg_0778_00016",
+      "de_DE": [
+        "Verbindung mit {STRVAR_1 3, 0, 0} ist\n",
+        "nicht möglich."
+      ]
+    },
+    {
+      "id": "msg_0778_00017",
+      "de_DE": "Kommuniziere mit {STRVAR_1 3, 0, 0}..."
+    },
+    {
+      "id": "msg_0778_00018",
+      "de_DE": "{STRVAR_1 3, 0, 0} antwortet nicht..."
+    },
+    {
+      "id": "msg_0778_00019",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} beendete den\n",
+        "Voicechat."
+      ]
+    },
+    {
+      "id": "msg_0778_00020",
+      "de_DE": "Möchtest du diesen Voicechat beenden?"
+    },
+    {
+      "id": "msg_0778_00021",
+      "de_DE": "Nintendo Wi-Fi Connection"
+    },
+    {
+      "id": "msg_0778_00022",
+      "garbage": 13
+    },
+    {
+      "id": "msg_0778_00023",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0778_00024",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0778_00025",
+      "garbage": 9
+    },
+    {
+      "id": "msg_0778_00026",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0778_00027",
+      "de_DE": "IM KAMPF"
+    },
+    {
+      "id": "msg_0778_00028",
+      "de_DE": "TAUSCH"
+    },
+    {
+      "id": "msg_0778_00029",
+      "de_DE": "TAUSCH LÄUFT..."
+    },
+    {
+      "id": "msg_0778_00030",
+      "de_DE": "KOCHEN"
+    },
+    {
+      "id": "msg_0778_00031",
+      "de_DE": "KOCHE..."
+    },
+    {
+      "id": "msg_0778_00032",
+      "de_DE": "KAMPFZONE"
+    },
+    {
+      "id": "msg_0778_00033",
+      "de_DE": "BEIM WETTKAMPF..."
+    },
+    {
+      "id": "msg_0778_00034",
+      "de_DE": "PLAZA-SPIELE"
+    },
+    {
+      "id": "msg_0778_00035",
+      "de_DE": "BEIM SPIELEN..."
+    },
+    {
+      "id": "msg_0778_00036",
+      "de_DE": "VOICECHAT"
+    },
+    {
+      "id": "msg_0778_00037",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0778_00038",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0778_00039",
+      "de_DE": "ANNEHMEN"
+    },
+    {
+      "id": "msg_0778_00040",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0778_00041",
+      "de_DE": "ZURÜCK"
+    },
+    {
+      "id": "msg_0778_00042",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00043",
+      "de_DE": "GRUPPE"
+    },
+    {
+      "id": "msg_0778_00044",
+      "de_DE": "KAMPFERGEBNIS"
+    },
+    {
+      "id": "msg_0778_00045",
+      "de_DE": "S: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00046",
+      "de_DE": "N: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00047",
+      "de_DE": "POKéMON-TAUSCH"
+    },
+    {
+      "id": "msg_0778_00048",
+      "de_DE": "{STRVAR_1 53, 0, 0}-mal"
+    },
+    {
+      "id": "msg_0778_00049",
+      "de_DE": "GEKOCHTE KNURSPE"
+    },
+    {
+      "id": "msg_0778_00050",
+      "de_DE": "{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00051",
+      "de_DE": "ZULETZT GESPIELT"
+    },
+    {
+      "id": "msg_0778_00052",
+      "de_DE": "DUELLTURM"
+    },
+    {
+      "id": "msg_0778_00053",
+      "de_DE": "KAMPFFABRIK"
+    },
+    {
+      "id": "msg_0778_00054",
+      "de_DE": "KAMPFPALAIS"
+    },
+    {
+      "id": "msg_0778_00055",
+      "de_DE": "KAMPFSAAL"
+    },
+    {
+      "id": "msg_0778_00056",
+      "de_DE": "KAMPFARKADEN"
+    },
+    {
+      "id": "msg_0778_00057",
+      "de_DE": "VORHER"
+    },
+    {
+      "id": "msg_0778_00058",
+      "de_DE": "AKTUELL"
+    },
+    {
+      "id": "msg_0778_00059",
+      "de_DE": "REKORD"
+    },
+    {
+      "id": "msg_0778_00060",
+      "de_DE": "LEVEL 50:"
+    },
+    {
+      "id": "msg_0778_00061",
+      "de_DE": "OFFENER LEVEL:"
+    },
+    {
+      "id": "msg_0778_00062",
+      "de_DE": "LEIHEN/TAUSCH:"
+    },
+    {
+      "id": "msg_0778_00063",
+      "de_DE": "PALAISPUNKTE:"
+    },
+    {
+      "id": "msg_0778_00064",
+      "de_DE": "{STRVAR_1 0, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00065",
+      "de_DE": "SIEGSERIE: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00066",
+      "de_DE": "{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00067",
+      "de_DE": "{STRVAR_1 53, 0, 0} PP"
+    },
+    {
+      "id": "msg_0778_00068",
+      "de_DE": "SIEGSERIE: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00069",
+      "de_DE": "GESCHAFFT: {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00070",
+      "de_DE": "PLAZA-SPIELE GESPIELT"
+    },
+    {
+      "id": "msg_0778_00071",
+      "de_DE": "{STRVAR_3 0, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00072",
+      "de_DE": "{STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00073",
+      "de_DE": "SCHLIESS."
+    },
+    {
+      "id": "msg_0778_00074",
+      "de_DE": "{STRVAR_1 51, 2, 0}. {STRVAR_34 16, 1, 0} {STRVAR_1 53, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00075",
+      "garbage": 15
+    },
+    {
+      "id": "msg_0778_00076",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} möchte sich\n",
+        "dir anschließen!"
+      ]
+    },
+    {
+      "id": "msg_0778_00077",
+      "de_DE": [
+        "Möchtest du noch mal gegen\n",
+        "{STRVAR_1 3, 0, 0} kämpfen?"
+      ]
+    },
+    {
+      "id": "msg_0778_00078",
+      "de_DE": [
+        "Möchtest du noch mal mit {STRVAR_1 3, 0, 0}\n",
+        "tauschen?"
+      ]
+    },
+    {
+      "id": "msg_0778_00079",
+      "de_DE": "Bereit..."
+    },
+    {
+      "id": "msg_0778_00080",
+      "garbage": 7
+    },
+    {
+      "id": "msg_0778_00081",
+      "de_DE": "{STRVAR_1 3, 0, 0} kämpft gerade."
+    },
+    {
+      "id": "msg_0778_00082",
+      "de_DE": "{STRVAR_1 3, 0, 0} tauscht gerade."
+    },
+    {
+      "id": "msg_0778_00083",
+      "de_DE": "{STRVAR_1 3, 0, 0} kocht gerade."
+    },
+    {
+      "id": "msg_0778_00084",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} befindet sich in einem\n",
+        "Wettkampf in der Kampfzone."
+      ]
+    },
+    {
+      "id": "msg_0778_00085",
+      "de_DE": "{STRVAR_1 3, 0, 0} spielt ein Plaza-Spiel."
+    },
+    {
+      "id": "msg_0778_00086",
+      "de_DE": "{STRVAR_1 3, 0, 0} ist gerade im Voicechat."
+    },
+    {
+      "id": "msg_0778_00087",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0778_00088",
+      "de_DE": "Erneut mit der Nintendo WFC verbinden?"
+    },
+    {
+      "id": "msg_0778_00089",
+      "de_DE": [
+        "Zum Tauschen musst du mindestens\n",
+        "zwei Pokémon bei dir haben."
+      ]
+    },
+    {
+      "id": "msg_0778_00090",
+      "de_DE": "Voicechat ist eingeschaltet.\r"
+    },
+    {
+      "id": "msg_0778_00091",
+      "de_DE": "Voicechat ist ausgeschaltet.\r"
+    },
+    {
+      "id": "msg_0778_00092",
+      "de_DE": "???"
+    },
+    {
+      "id": "msg_0778_00093",
+      "de_DE": "EINZELKAMPF"
+    },
+    {
+      "id": "msg_0778_00094",
+      "de_DE": "DOPPELKAMPF"
+    },
+    {
+      "id": "msg_0778_00095",
+      "de_DE": "FREIES EINZEL"
+    },
+    {
+      "id": "msg_0778_00096",
+      "de_DE": "LV. 50 EINZEL"
+    },
+    {
+      "id": "msg_0778_00097",
+      "de_DE": "LV. 100 EINZEL"
+    },
+    {
+      "id": "msg_0778_00098",
+      "de_DE": "FREIES DOPPEL"
+    },
+    {
+      "id": "msg_0778_00099",
+      "de_DE": "LV. 50 DOPPEL"
+    },
+    {
+      "id": "msg_0778_00100",
+      "de_DE": "LV. 100 DOPPEL"
+    },
+    {
+      "id": "msg_0778_00101",
+      "de_DE": "Dein Freund hat den Kampf beendet."
+    },
+    {
+      "id": "msg_0778_00102",
+      "de_DE": [
+        "Verbindung wird hergestellt.\n",
+        "Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0778_00103",
+      "de_DE": [
+        "Du kannst keinen Doppelkampf wählen,\n",
+        "wenn du nur ein Pokémon hast..."
+      ]
+    },
+    {
+      "id": "msg_0778_00104",
+      "de_DE": "Du besitzt keine Beeren..."
+    },
+    {
+      "id": "msg_0778_00105",
+      "de_DE": "Deine Knurspbox ist voll."
+    },
+    {
+      "id": "msg_0778_00106",
+      "de_DE": [
+        "Wenn du keine Knurspbox hast, kannst\n",
+        "du keine Beeren kochen."
+      ]
+    },
+    {
+      "id": "msg_0778_00107",
+      "de_DE": [
+        "Wenn die Spieler bereit sind...\n",
+        "A-Knopf: Bestätigen   B-Knopf: Abbruch"
+      ]
+    },
+    {
+      "id": "msg_0778_00108",
+      "de_DE": [
+        "Jemand möchte beitreten.\n",
+        "Diesen Trainer als Mitglied akzeptieren?"
+      ]
+    },
+    {
+      "id": "msg_0778_00109",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0778_00110",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0778_00111",
+      "de_DE": "Sind diese Mitglieder in Ordnung?"
+    },
+    {
+      "id": "msg_0778_00112",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0778_00113",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0778_00114",
+      "de_DE": "Warte auf Antwort von {STRVAR_1 3, 0, 0}..."
+    },
+    {
+      "id": "msg_0778_00115",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat deine Anfrage zur\n",
+        "Mitgliederregistrierung akzeptiert."
+      ]
+    },
+    {
+      "id": "msg_0778_00116",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat deine Anfrage zur\n",
+        "Mitgliederregistrierung abgelehnt...\r"
+      ]
+    },
+    {
+      "id": "msg_0778_00117",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0778_00118",
+      "de_DE": [
+        "Ein Mitglied ist ausgeschieden. Bitte mit\n",
+        "der Registrierung neu beginnen.\r"
+      ]
+    },
+    {
+      "id": "msg_0778_00119",
+      "de_DE": "Es sind nicht genügend Mitglieder da.\r"
+    },
+    {
+      "id": "msg_0778_00120",
+      "de_DE": "Suche nach Mitgliedern einstellen?"
+    },
+    {
+      "id": "msg_0778_00121",
+      "de_DE": [
+        "Wenn der Leiter ausscheidet, wird die\n",
+        "Gruppe aufgelöst. Einverstanden?"
+      ]
+    },
+    {
+      "id": "msg_0778_00122",
+      "de_DE": "Mitgliedereinladungen abbrechen."
+    },
+    {
+      "id": "msg_0778_00123",
+      "de_DE": "Warte auf andere Mitglieder."
+    },
+    {
+      "id": "msg_0778_00124",
+      "de_DE": "Voicechat anschalten?"
+    },
+    {
+      "id": "msg_0778_00125",
+      "de_DE": "Voicechat ausschalten?"
+    },
+    {
+      "id": "msg_0778_00126",
+      "de_DE": "Suche Knurspköche!"
+    },
+    {
+      "id": "msg_0778_00127",
+      "de_DE": "Suche {STRVAR_3 0, 0, 0}-Spieler!"
+    },
+    {
+      "id": "msg_0778_00128",
+      "de_DE": "Voicechat AN/AUS: X-Knopf"
+    },
+    {
+      "id": "msg_0778_00129",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00130",
+      "de_DE": "ID: {STRVAR_1 54, 0, 0}"
+    },
+    {
+      "id": "msg_0778_00131",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0}\n",
+        "ID: {STRVAR_1 54, 1, 0}"
+      ]
+    },
+    {
+      "id": "msg_0778_00132",
+      "de_DE": [
+        "Der Leiter scheint beschäftigt zu sein.\n",
+        "Versuche es bitte noch einmal.\r"
+      ]
+    },
+    {
+      "id": "msg_0778_00133",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0778_00134",
+      "de_DE": [
+        "Voicechat wird während des Spiels mit\n",
+        "diesem Freund eingeschaltet sein.\r",
+        "Möchtest du die Einladung dieses\n",
+        "Freundes annehmen?"
+      ]
+    },
+    {
+      "id": "msg_0778_00135",
+      "de_DE": [
+        "Voicechat wird während des Spiels mit\n",
+        "diesem Freund ausgeschaltet sein.\r",
+        "Möchtest du auf die Einladung dieses\n",
+        "Freundes antworten?"
+      ]
+    },
+    {
+      "id": "msg_0778_00136",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0778_00137",
+      "garbage": 32
+    },
+    {
+      "id": "msg_0778_00138",
+      "de_DE": [
+        "Der andere Spieler trifft seine\n",
+        "Entscheidung. Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0778_00139",
+      "garbage": 30
+    },
+    {
+      "id": "msg_0778_00140",
+      "garbage": 29
+    },
+    {
+      "id": "msg_0778_00141",
+      "garbage": 23
+    },
+    {
+      "id": "msg_0778_00142",
+      "garbage": 11
+    },
+    {
+      "id": "msg_0778_00143",
+      "garbage": 18
+    },
+    {
+      "id": "msg_0778_00144",
+      "de_DE": "RUNDGANG"
+    },
+    {
+      "id": "msg_0778_00145",
+      "de_DE": "MULTIKAMPF"
+    },
+    {
+      "id": "msg_0778_00146",
+      "de_DE": "2BITADPCM"
+    },
+    {
+      "id": "msg_0778_00147",
+      "de_DE": "3BITADPCM"
+    },
+    {
+      "id": "msg_0778_00148",
+      "de_DE": "4BITADPCM"
+    },
+    {
+      "id": "msg_0778_00149",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0778_00150",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    }
+  ]
+}

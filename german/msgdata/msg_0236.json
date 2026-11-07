@@ -1,0 +1,131 @@
+{
+  "key": 26343,
+  "messages": [
+    {
+      "id": "msg_0236_00000",
+      "de_DE": "Diese Spieler wurden akzeptiert."
+    },
+    {
+      "id": "msg_0236_00001",
+      "de_DE": "Hier kommen die Ergebnisse!"
+    },
+    {
+      "id": "msg_0236_00002",
+      "de_DE": [
+        "Spielzeug von {STRVAR_1 3, 0, 0} wurde\n",
+        "aufgerüstet zu {STRVAR_3 2, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0236_00003",
+      "de_DE": [
+        "Möchtest du {STRVAR_3 0, 0, 0}\n",
+        "weiterspielen?"
+      ]
+    },
+    {
+      "id": "msg_0236_00004",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0236_00005",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0236_00006",
+      "de_DE": [
+        "Jemand ist ausgeschieden.\n",
+        "Das Plaza-Spiel wird abgebrochen."
+      ]
+    },
+    {
+      "id": "msg_0236_00007",
+      "de_DE": [
+        "Von allen zusammen zum Platzen\n",
+        "gebrachte Ballons: {STRVAR_1 51, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0236_00008",
+      "de_DE": [
+        "Glückwunsch! Die Spielzeuge\n",
+        "von allen wurden aufgerüstet!"
+      ]
+    },
+    {
+      "id": "msg_0236_00009",
+      "de_DE": [
+        "Schade...\n",
+        "Dein Spielzeug wurde nicht aufgerüstet."
+      ]
+    },
+    {
+      "id": "msg_0236_00010",
+      "de_DE": "{STRVAR_1 3, 0, 0}"
+    },
+    {
+      "id": "msg_0236_00011",
+      "de_DE": "{STRVAR_1 36, 0, 0}"
+    },
+    {
+      "id": "msg_0236_00012",
+      "de_DE": "{STRVAR_1 37, 0, 0}"
+    },
+    {
+      "id": "msg_0236_00013",
+      "de_DE": "{STRVAR_1 55, 0, 0} Punkte"
+    },
+    {
+      "id": "msg_0236_00014",
+      "de_DE": "{STRVAR_1 54, 0, 0} Punkte"
+    },
+    {
+      "id": "msg_0236_00015",
+      "de_DE": "Warte auf Datenübertragung..."
+    },
+    {
+      "id": "msg_0236_00016",
+      "de_DE": "{STRVAR_3 0, 0, 0}"
+    },
+    {
+      "id": "msg_0236_00017",
+      "de_DE": [
+        "Glückwunsch!\n",
+        "{STRVAR_1 3, 0, 0} hat gewonnen!"
+      ]
+    },
+    {
+      "id": "msg_0236_00018",
+      "de_DE": "{STRVAR_1 3, 0, 0} konnte nicht gewinnen..."
+    },
+    {
+      "id": "msg_0236_00019",
+      "de_DE": [
+        "Dein Spielzeug kann nicht\n",
+        "weiter aufgerüstet werden."
+      ]
+    },
+    {
+      "id": "msg_0236_00020",
+      "de_DE": [
+        "Spielzeug von {COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} wurde\n",
+        "aufgerüstet zu {STRVAR_3 2, 1, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0236_00021",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0}"
+    },
+    {
+      "id": "msg_0236_00022",
+      "de_DE": [
+        "Glückwunsch!\n",
+        "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} hat gewonnen!"
+      ]
+    },
+    {
+      "id": "msg_0236_00023",
+      "de_DE": "{COLOR 2}{STRVAR_1 3, 0, 0}{COLOR 0} konnte nicht gewinnen..."
+    }
+  ]
+}

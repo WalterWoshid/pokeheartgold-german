@@ -1,0 +1,211 @@
+{
+  "key": 20287,
+  "messages": [
+    {
+      "id": "msg_0572_00000",
+      "de_DE": [
+        "Du hast auf dem Weg hierher doch\n",
+        "bestimmt das Meer überquert, oder?\r",
+        "Würde eines deiner Pokémon die\n",
+        "Attacke Fliegen beherrschen, hättest\f",
+        "du dir den ganzen Ärger sparen können!\r"
+      ]
+    },
+    {
+      "id": "msg_0572_00001",
+      "de_DE": [
+        "Aber dafür hättest du natürlich auch\n",
+        "den passenden Orden gebraucht!\f",
+        "Komm wieder, wenn du den Arenaleiter\f",
+        "dieser Stadt besiegt hast!\f",
+        "Dann bekommst du etwas von mir!"
+      ]
+    },
+    {
+      "id": "msg_0572_00002",
+      "de_DE": [
+        "Du hast den Orden von Anemonia City!\r",
+        "Gut, dann will ich dir diese VM schenken!\r"
+      ]
+    },
+    {
+      "id": "msg_0572_00003",
+      "garbage": 22
+    },
+    {
+      "id": "msg_0572_00004",
+      "de_DE": [
+        "Wenn du einem deiner Pokémon die\n",
+        "Attacke Fliegen beibringst, kannst du\f",
+        "sofort in jede beliebige Stadt düsen,\f",
+        "die du bisher besucht hast."
+      ]
+    },
+    {
+      "id": "msg_0572_00005",
+      "de_DE": [
+        "Hihihi! Mein Mann versucht, härter zu\n",
+        "trainieren, weil du ihn besiegt hast.\r",
+        "Das trifft sich gut, denn er hat in\n",
+        "letzter Zeit etwas Speck angesetzt!"
+      ]
+    },
+    {
+      "id": "msg_0572_00006",
+      "de_DE": "Du kannst nichts mehr tragen!"
+    },
+    {
+      "id": "msg_0572_00007",
+      "de_DE": [
+        "Soll ich dir die Telefonnummer\n",
+        "meines Mannes verraten?\r",
+        "Für ihn gibt es nichts Schöneres\n",
+        "im Leben als einen Kampf gegen\f",
+        "einen starken Trainer! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0572_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} hat Hartwigs Nummer\n",
+        "im Pokécom registriert!"
+      ]
+    },
+    {
+      "id": "msg_0572_00009",
+      "de_DE": [
+        "Mittwochabends gönnt er sich immer\n",
+        "eine Pause von seinem Training\f",
+        "unter dem Wasserfall.\r",
+        "Wenn du ihn um diese Zeit herum anrufst,\n",
+        "nimmt er sich bestimmt Zeit für dich!\n"
+      ]
+    },
+    {
+      "id": "msg_0572_00010",
+      "de_DE": [
+        "Was? Ist dir mein Mann vielleicht zu\n",
+        "mickrig als Gegner?"
+      ]
+    },
+    {
+      "id": "msg_0572_00011",
+      "de_DE": [
+        "Du gibst mir deine Nummer, und ich\n",
+        "gebe dir die von meinem Mann, okay? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0572_00012",
+      "de_DE": [
+        "Wenn eins deiner Pokémon die Attacke\n",
+        "Fliegen gelernt hat, gelangst du auch\f",
+        "im Handumdrehen bis nach Oliviana City!"
+      ]
+    },
+    {
+      "id": "msg_0572_00013",
+      "de_DE": [
+        "Hinter den Felsen nördlich der Stadt\n",
+        "findest du viele interessante Items!\r",
+        "Um sie zu finden, musst du lediglich\n",
+        "einem deiner Pokémon den Befehl geben,\f",
+        "die Attacke Zertrümmerer einzusetzen!"
+      ]
+    },
+    {
+      "id": "msg_0572_00014",
+      "de_DE": [
+        "Hartwig, der Arenaleiter, steigt gerne\n",
+        "selbst gegen seine Kampf-Pokémon in\f",
+        "den Ring, um sie abzuhärten."
+      ]
+    },
+    {
+      "id": "msg_0572_00015",
+      "de_DE": [
+        "Eusin: Hallo, {STRVAR_1 3, 0, 0}!\r",
+        "Sag mal... war das eben nicht SUICUNE?\r",
+        "Ich konnte es nicht richtig erkennen,\n",
+        "aber für den Hauch einer Sekunde meinte\f",
+        "ich wirklich, gesehen zu haben, wie da\f",
+        "SUICUNE über das Meer gebrettert ist.\r",
+        "SUICUNE ist so schön und so stolz...\r",
+        "Außerdem läuft es mit atemberaubender\n",
+        "Geschwindigkeit Städte und Straßen ab!\r",
+        "Es ist einfach ein wundervolles Pokémon.\r",
+        "Ich würde es nur zu gerne mal aus\n",
+        "nächster Nähe sehen...\r",
+        "Los, lass uns kämpfen! Wenn ich dich\n",
+        "besiege, erkennt mich SUICUNE vielleicht\f",
+        "als würdigen Trainer an!\r",
+        "Komm schon, {STRVAR_1 3, 0, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0572_00016",
+      "de_DE": [
+        "Das war unglaublich, {STRVAR_1 3, 0, 0}!\r",
+        "Ich glaube, ich verstehe langsam,\n",
+        "warum SUICUNE einen Augenblick lang\f",
+        "innegehalten hat, um dich zu mustern.\r",
+        "Aber deswegen gebe ich meine Suche\n",
+        "nach SUICUNE noch lange nicht auf!\r",
+        "Wir begegnen uns bestimmt mal wieder!\n",
+        "Mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0572_00017",
+      "de_DE": [
+        "Du hast doch sicher die Inseln zwischen\n",
+        "hier und Oliviana City gesehen, oder?\r",
+        "Man erzählt sich, dass unter ihnen ein\n",
+        "mythisches Wesen hausen soll."
+      ]
+    },
+    {
+      "id": "msg_0572_00018",
+      "de_DE": [
+        "Anemonia City\n",
+        "Eine meerumspülte Hafenstadt"
+      ]
+    },
+    {
+      "id": "msg_0572_00019",
+      "de_DE": [
+        "Pokémon-Arena von Anemonia City\n",
+        "Leiter: Hartwig\f",
+        "Er lässt lieber seine Fäuste für\f",
+        "sich sprechen!"
+      ]
+    },
+    {
+      "id": "msg_0572_00020",
+      "de_DE": [
+        "Apotheke von Anemonia City\r",
+        "Seit 500 Jahren im Geschäft.\n",
+        "Wir haben immer ein offenes Ohr\f",
+        "für medizinische Fragen aller Art!"
+      ]
+    },
+    {
+      "id": "msg_0572_00021",
+      "de_DE": [
+        "Fotostudio von Anemonia City\n",
+        "Denke daran, einen Schnappschuss\f",
+        "zur Erinnerung zu machen!"
+      ]
+    },
+    {
+      "id": "msg_0572_00022",
+      "de_DE": [
+        "Dieser Weg führt in die Safari-Zone.\r",
+        "Erlebe spannungsgeladene Abenteuer\n",
+        "mit Pokémon in freier Wildbahn!\r",
+        "Nur wenige Schritte trennen dich von\n",
+        "deinem Safari-Glück!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "key": 38536,
+  "messages": [
+    {
+      "id": "msg_0470_00000",
+      "de_DE": [
+        "Eich: Ah, {STRVAR_1 3, 0}!\n",
+        "Es ist schön, dich zu sehen!\r",
+        "Aber verschwenden wir lieber\n",
+        "keine Zeit.\r",
+        "Sei so nett und wirf einen Blick\n",
+        "auf diese Steintafel.\r",
+        "Genauso eine wurde in Kanto entdeckt,\n",
+        "kann man sich so was vorstellen?\r",
+        "Könntest du mir helfen, das Geheimnis,\n",
+        "das dahinter steckt, zu enthüllen?\r"
+      ]
+    },
+    {
+      "id": "msg_0470_00001",
+      "de_DE": [
+        "Eich: Ah, {STRVAR_1 3, 0}!\n",
+        "Es ist schön, dich zu sehen!\r",
+        "Aber verschwenden wir lieber\n",
+        "keine Zeit.\r",
+        "Sei so nett und wirf einen Blick\n",
+        "auf diese Steintafel.\r",
+        "Genauso eine wurde in Kanto entdeckt,\n",
+        "kann man sich so was vorstellen?\r",
+        "Könntest du mir helfen, das Geheimnis,\n",
+        "das dahinter steckt, zu enthüllen?\r"
+      ]
+    },
+    {
+      "id": "msg_0470_00002",
+      "de_DE": [
+        "Ich habe versucht, die Schriftzeichen\n",
+        "der Steintafel zu entziffern.\r",
+        "Offenbar dient sie einem Trainer zum\n",
+        "Eingravieren seiner Gedanken.\r",
+        "Er verewigt darin seine Gedanken,\n",
+        "nachdem er auf seinem Abenteuer\f",
+        "als Person gereift ist.\r",
+        "Das würde auf einen Trainer wie\n",
+        "dich absolut zutreffen.\r",
+        "Deshalb bitte ich dich auch\n",
+        "um deine Hilfe.\r",
+        "Du bist vielen Leuten und Pokémon\n",
+        "begegnet, und hast viele Dinge erlebt.\r",
+        "Diese Erlebnisse haben das aus dir\n",
+        "gemacht, was ich hier vor mir sehe.\r",
+        "Nun sag mir bitte, wer dich\n",
+        "am meisten berührt hat.\r",
+        "Verrate mir, wem du am\n",
+        "meisten danken willst?\r"
+      ]
+    },
+    {
+      "id": "msg_0470_00003",
+      "de_DE": [
+        "Hm...\r",
+        "Am meisten möchtest du\n",
+        "{STRVAR_1 28, 1} danken?\r",
+        "Bist du dir da absolut sicher?"
+      ]
+    },
+    {
+      "id": "msg_0470_00004",
+      "de_DE": [
+        "Eich: ?!?\n",
+        "Was war das für ein Pokémon?\r",
+        "Gibt es zwischen ihm und der\n",
+        "Steintafel etwa eine Verbindung?\r",
+        "Hm... Wo ist das Pokémon nur hin?\n",
+        "Das ist ja so verwirrend..."
+      ]
+    },
+    {
+      "id": "msg_0470_00005",
+      "de_DE": [
+        "Eich: Stimmt etwas nicht?\r",
+        "Du willst mir doch nicht etwa sagen,\n",
+        "dass dir niemand einfällt, oder?\r",
+        "Verrate mir bitte, wem du am\n",
+        "meisten danken willst.\r"
+      ]
+    },
+    {
+      "id": "msg_0470_00006",
+      "de_DE": [
+        "Die Oberfläche ist makellos.\n",
+        "Sie ist spiegelglatt poliert."
+      ]
+    },
+    {
+      "id": "msg_0470_00007",
+      "de_DE": [
+        "{STRVAR_1 28, 1}, dem ich für\n",
+        "alles danken möchte."
+      ]
+    }
+  ]
+}

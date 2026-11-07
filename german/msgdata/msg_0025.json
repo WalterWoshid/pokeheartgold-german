@@ -1,0 +1,249 @@
+{
+  "key": 10503,
+  "messages": [
+    {
+      "id": "msg_0025_00000",
+      "de_DE": "Was möchtest du mit ihm tun?"
+    },
+    {
+      "id": "msg_0025_00001",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0025_00002",
+      "de_DE": "Dieses Pokémon freilassen?"
+    },
+    {
+      "id": "msg_0025_00003",
+      "de_DE": "{STRVAR_1 1, 0, 0} ist wieder frei."
+    },
+    {
+      "id": "msg_0025_00004",
+      "de_DE": "Tschüss, {STRVAR_1 1, 0, 0}!"
+    },
+    {
+      "id": "msg_0025_00005",
+      "de_DE": "Dein Team ist voll!"
+    },
+    {
+      "id": "msg_0025_00006",
+      "de_DE": "Das ist dein letztes Pokémon!"
+    },
+    {
+      "id": "msg_0025_00007",
+      "de_DE": "Was möchtest du tun?"
+    },
+    {
+      "id": "msg_0025_00008",
+      "garbage": 17
+    },
+    {
+      "id": "msg_0025_00009",
+      "garbage": 12
+    },
+    {
+      "id": "msg_0025_00010",
+      "de_DE": "Wähle ein Hintergrundmotiv."
+    },
+    {
+      "id": "msg_0025_00011",
+      "de_DE": "Die Box verlassen?"
+    },
+    {
+      "id": "msg_0025_00012",
+      "de_DE": "Die Box weiter bearbeiten?"
+    },
+    {
+      "id": "msg_0025_00013",
+      "de_DE": "Die Box ist voll."
+    },
+    {
+      "id": "msg_0025_00014",
+      "de_DE": "Der Beutel ist voll."
+    },
+    {
+      "id": "msg_0025_00015",
+      "de_DE": "Nahm das Item {STRVAR_1 8, 0, 0}."
+    },
+    {
+      "id": "msg_0025_00016",
+      "de_DE": "{STRVAR_1 8, 0, 0} wird nun gehalten."
+    },
+    {
+      "id": "msg_0025_00017",
+      "garbage": 16
+    },
+    {
+      "id": "msg_0025_00018",
+      "de_DE": "Berühre ein Pokémon!"
+    },
+    {
+      "id": "msg_0025_00019",
+      "de_DE": "Wo willst du es ablegen?"
+    },
+    {
+      "id": "msg_0025_00020",
+      "garbage": 6
+    },
+    {
+      "id": "msg_0025_00021",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0025_00022",
+      "garbage": 1
+    },
+    {
+      "id": "msg_0025_00023",
+      "de_DE": "{STRVAR_1 8, 0, 0} nehmen?"
+    },
+    {
+      "id": "msg_0025_00024",
+      "de_DE": "Briefe können nicht gelagert werden!"
+    },
+    {
+      "id": "msg_0025_00025",
+      "garbage": 14
+    },
+    {
+      "id": "msg_0025_00026",
+      "de_DE": "{STRVAR_1 8, 0, 0} weglegen?"
+    },
+    {
+      "id": "msg_0025_00027",
+      "de_DE": "{STRVAR_1 8, 0, 0} im Beutel verstaut."
+    },
+    {
+      "id": "msg_0025_00028",
+      "garbage": 10
+    },
+    {
+      "id": "msg_0025_00029",
+      "de_DE": "Bitte entferne die Ballkapsel."
+    },
+    {
+      "id": "msg_0025_00030",
+      "de_DE": "Brief bitte entfernen."
+    },
+    {
+      "id": "msg_0025_00031",
+      "de_DE": "Du kannst kein Ei freilassen!"
+    },
+    {
+      "id": "msg_0025_00032",
+      "de_DE": "{STRVAR_1 1, 0, 0} kam zurück!"
+    },
+    {
+      "id": "msg_0025_00033",
+      "de_DE": "War es in Sorge um dich?"
+    },
+    {
+      "id": "msg_0025_00034",
+      "de_DE": "Ein Ei kann kein Item halten."
+    },
+    {
+      "id": "msg_0025_00035",
+      "de_DE": "Berühre eine Markierung!"
+    },
+    {
+      "id": "msg_0025_00036",
+      "de_DE": "In diese Box ablegen?"
+    },
+    {
+      "id": "msg_0025_00037",
+      "de_DE": "In dein Team aufnehmen?"
+    },
+    {
+      "id": "msg_0025_00038",
+      "de_DE": "Die Box ist voll."
+    },
+    {
+      "id": "msg_0025_00039",
+      "de_DE": "Dein Team ist voll!"
+    },
+    {
+      "id": "msg_0025_00040",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0025_00041",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0025_00042",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0025_00043",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0025_00044",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0025_00045",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0025_00046",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0025_00047",
+      "garbage": 4
+    },
+    {
+      "id": "msg_0025_00048",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0025_00049",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0025_00050",
+      "de_DE": "Pokémon ablegen"
+    },
+    {
+      "id": "msg_0025_00051",
+      "de_DE": "Pokémon spazieren führen"
+    },
+    {
+      "id": "msg_0025_00052",
+      "de_DE": "Pokémon bewegen"
+    },
+    {
+      "id": "msg_0025_00053",
+      "de_DE": "Item bewegen"
+    },
+    {
+      "id": "msg_0025_00054",
+      "de_DE": "Briefe können nicht bewegt werden!"
+    },
+    {
+      "id": "msg_0025_00055",
+      "de_DE": "Kann {STRVAR_1 8, 0, 0} nicht halten!"
+    },
+    {
+      "id": "msg_0025_00056",
+      "de_DE": "Entferne zuerst den Brief!"
+    },
+    {
+      "id": "msg_0025_00057",
+      "de_DE": "Entferne zuerst die Ballkapsel!"
+    },
+    {
+      "id": "msg_0025_00058",
+      "de_DE": "Das ist dein letztes kampffähiges PKMN!"
+    },
+    {
+      "id": "msg_0025_00059",
+      "de_DE": "Briefe können nicht bewegt werden!"
+    },
+    {
+      "id": "msg_0025_00060",
+      "de_DE": "Gib es einem Pokémon zum Tragen."
+    }
+  ]
+}

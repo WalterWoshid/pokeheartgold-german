@@ -1,0 +1,123 @@
+{
+  "key": 54363,
+  "messages": [
+    {
+      "id": "msg_0268_00000",
+      "de_DE": [
+        "Du... Du bist nur hierher gekommen, um\n",
+        "ein paar Pokémon zu retten?\r",
+        "...Ich verstehe unseren Boss nicht.\n",
+        "Ich habe ihn noch nie verstanden...\r",
+        "Warum lässt er ein Kind wie dich\n",
+        "unbehelligt kommen und gehen...?\r",
+        "Wir, Team Galaktik, nehmen uns,\n",
+        "was wir brauchen, und zerstören\f",
+        "den Rest.\r",
+        "Egal. Du hast es so gewollt. Ich\n",
+        "werde dich willkommen heißen!\r",
+        "Als kleine Rache wegen deiner\n",
+        "Beleidigungen am See.\r"
+      ]
+    },
+    {
+      "id": "msg_0268_00001",
+      "de_DE": [
+        "...Argh!\n",
+        "Warum bist du so stark?\r",
+        "Na gut... Mach doch mit diesen\n",
+        "drei Pokémon, was du willst.\r",
+        "Drück den Knopf auf der Maschine,\n",
+        "um sie zu befreien.\r"
+      ]
+    },
+    {
+      "id": "msg_0268_00002",
+      "de_DE": [
+        "Drück den Knopf, um sie zu befreien.\n",
+        "Deswegen bist du doch hier, oder?"
+      ]
+    },
+    {
+      "id": "msg_0268_00003",
+      "de_DE": [
+        "Unser Boss hat eine Rote Kette aus den\n",
+        "Kristallen der drei Pokémon\f",
+        "geschmiedet.\r",
+        "Diese Rote Kette braucht er, um etwas\n",
+        "auf dem Kraterberg zu fangen.\r",
+        "Aber mehr weiß ich nicht. Wer weiß, was\n",
+        "er da oben wirklich vorhat.\r"
+      ]
+    },
+    {
+      "id": "msg_0268_00004",
+      "de_DE": [
+        "Drück den Knopf, um sie zu befreien.\n",
+        "Deswegen bist du doch hier, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0268_00005",
+      "de_DE": [
+        "Den Knopf drücken und die Pokémon\n",
+        "befreien?"
+      ]
+    },
+    {
+      "id": "msg_0268_00006",
+      "de_DE": [
+        "{STRVAR_1 3, 0} drückt den Knopf und\n",
+        "befreit die Pokémon.\r"
+      ]
+    },
+    {
+      "id": "msg_0268_00007",
+      "de_DE": [
+        "Der Knopf wurde bereits gedrückt.\n",
+        "Hier kannst du nichts mehr tun."
+      ]
+    },
+    {
+      "id": "msg_0268_00008",
+      "de_DE": [
+        "SELFE ist hier eingesperrt! Die Augen\n",
+        "sind zugekniffen. Es hat Schmerzen."
+      ]
+    },
+    {
+      "id": "msg_0268_00009",
+      "de_DE": [
+        "VESPRIT ist hier eingesperrt! Der\n",
+        "Schweif zuckt leicht. Es hat Schmerzen."
+      ]
+    },
+    {
+      "id": "msg_0268_00010",
+      "de_DE": [
+        "TOBUTZ ist hier eingesperrt! Es zittert\n",
+        "und bebt. Es hat Schmerzen."
+      ]
+    },
+    {
+      "id": "msg_0268_00011",
+      "de_DE": [
+        "Die üble Maschine des Teams Galaktik.\n",
+        "Hier war SELFE eingesperrt."
+      ]
+    },
+    {
+      "id": "msg_0268_00012",
+      "de_DE": [
+        "Die üble Maschine des Teams Galaktik.\n",
+        "Hier war VESPRIT eingesperrt."
+      ]
+    },
+    {
+      "id": "msg_0268_00013",
+      "de_DE": [
+        "Die üble Maschine des Teams Galaktik.\n",
+        "Hier war TOBUTZ eingesperrt."
+      ]
+    }
+  ]
+}

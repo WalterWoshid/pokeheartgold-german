@@ -1,0 +1,119 @@
+{
+  "key": 62559,
+  "messages": [
+    {
+      "id": "msg_0576_00000",
+      "de_DE": [
+        "I-ich bin mit den Nerven am Ende...\r",
+        "Irgend so ein fürchterlicher Junge in\n",
+        "deinem Alter mit einem finsteren Blick\f",
+        "und langen Haaren hat mir einfach meine\f",
+        "preisgekrönten Pokémon weggenommen!\r",
+        "Eins habe ich zwar noch übrig, aber ich\n",
+        "habe Angst, dass er wieder zuschlägt!\r",
+        "Du siehst stark aus! Bitte passe\n",
+        "eine Weile auf dieses Pokémon auf! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0576_00001",
+      "de_DE": [
+        "V-v-vielen herzlichen Dank!\n",
+        "Bitte pass gut darauf auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0576_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält das Pokémon\n",
+        "des Sammlers."
+      ]
+    },
+    {
+      "id": "msg_0576_00003",
+      "de_DE": "In deinem Team ist kein Platz mehr."
+    },
+    {
+      "id": "msg_0576_00004",
+      "de_DE": [
+        "U-u-und was soll ich dann tun, wenn er\n",
+        "zurückkommt und wieder zuschlägt?"
+      ]
+    },
+    {
+      "id": "msg_0576_00005",
+      "de_DE": [
+        "Wie geht es meinem Pokémon?\r",
+        "So langsam ist die Gefahr wohl gebannt.\n",
+        "Kann ich jetzt mein Pokémon wieder\f",
+        "zurückhaben? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0576_00006",
+      "de_DE": "Wie geht es meinem Pokémon?"
+    },
+    {
+      "id": "msg_0576_00007",
+      "de_DE": "Danke schön!"
+    },
+    {
+      "id": "msg_0576_00008",
+      "de_DE": [
+        "Äh, ich will ja nichts sagen, aber das\n",
+        "ist nicht mein Pokémon!"
+      ]
+    },
+    {
+      "id": "msg_0576_00009",
+      "de_DE": [
+        "Mein Pokémon scheint dich ja richtig\n",
+        "ins Herz geschlossen zu haben!\r",
+        "In Ordnung, du kannst es behalten.\n",
+        "Aber versprich mir, dass du es auch\f",
+        "immer gut behandeln wirst!"
+      ]
+    },
+    {
+      "id": "msg_0576_00010",
+      "de_DE": [
+        "D-d-da hätte ich mich auch gleich von\n",
+        "diesem Jungen berauben lassen können!"
+      ]
+    },
+    {
+      "id": "msg_0576_00011",
+      "de_DE": [
+        "Für Pokémon ist es das höchste Glück,\n",
+        "wenn sie bei jemandem sein dürfen,\f",
+        "der sie gut behandelt."
+      ]
+    },
+    {
+      "id": "msg_0576_00012",
+      "de_DE": [
+        "Nanu? Nessie scheint irgendein\n",
+        "Item bei sich zu tragen!\r",
+        "Nimm es besser wieder an dich,\n",
+        "bevor du Nessie zurückgibst!"
+      ]
+    },
+    {
+      "id": "msg_0576_00013",
+      "de_DE": [
+        "Nanu? Du hast eine Ballkapsel\n",
+        "an Nessie angebracht!\f",
+        "Entferne sie bitte zuerst!"
+      ]
+    },
+    {
+      "id": "msg_0576_00014",
+      "de_DE": [
+        "Nanu? Du... du hast ja nur ein einziges\n",
+        "Pokémon in deinem Team!\r",
+        "Also dann kann ich unmöglich von dir\n",
+        "verlangen, dass du es mir zurückgibst."
+      ]
+    }
+  ]
+}

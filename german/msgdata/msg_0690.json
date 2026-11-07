@@ -1,0 +1,117 @@
+{
+  "key": 45874,
+  "messages": [
+    {
+      "id": "msg_0690_00000",
+      "de_DE": "Irmgard"
+    },
+    {
+      "id": "msg_0690_00001",
+      "de_DE": [
+        "Dein Pokémon-Team... ist so unglaublich\n",
+        "niedlich! Ich könnte zerschmelzen! Ich\f",
+        "sehe, du liebst Pokémon, genau wie ich!\r",
+        "Ich weiß was! Gibst du mir\n",
+        "deine Telefonnummer?\r",
+        "Dann können wir plaudern!\n",
+        "Das wird bestimmt lustig! {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0690_00002",
+      "de_DE": [
+        "Ehrlich gesagt hätte ich gerne\n",
+        "ein MARILL.\r",
+        "Aber ich muss mit meinem niedlichen\n",
+        "SNUBBULL auskommen.\r",
+        "Mensch, SNUBBULL! Das war\n",
+        "doch bloß Spaß!\f",
+        "Du bist doch noch viel niedlicher!"
+      ]
+    },
+    {
+      "id": "msg_0690_00003",
+      "de_DE": "Oh... das ist enttäuschend...\n"
+    },
+    {
+      "id": "msg_0690_00004",
+      "de_DE": [
+        "Das Pokémon, das du da spazieren\n",
+        "führst, ist wirklich drollig!\r",
+        "Gibst du mir deine Telefonnummer? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0690_00005",
+      "de_DE": [
+        "Oh! {STRVAR_1 3, 0, 0}, auf dich\n",
+        "habe ich schon gewartet.\f",
+        "Hier, das schenke ich dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0690_00006",
+      "de_DE": [
+        "Sag mal, du bist doch gerade auch\n",
+        "im Nationalpark... richtig?\r",
+        "In dem Fall können wir doch\n",
+        "persönlich miteinander reden!"
+      ]
+    },
+    {
+      "id": "msg_0690_00007",
+      "de_DE": [
+        "Ich habe mein {STRVAR_1 0, 10, 0}\n",
+        "gestylt und es ist jetzt noch\f",
+        "süßer als zuvor!\r",
+        "Vor Kurzem habe ich ein wildes\n",
+        "SNUBBULL gesehen.\r",
+        "Mein SNUBBULL, da bin ich sicher,\n",
+        "war viel süßer als das wilde.\r",
+        "Ich melde mich, versprochen."
+      ]
+    },
+    {
+      "id": "msg_0690_00008",
+      "de_DE": [
+        "Ich habe mein {STRVAR_1 0, 10, 0}\n",
+        "gestylt und es ist jetzt noch\f",
+        "süßer als zuvor!\r",
+        "Ich habe neulich zufällig ein wildes\n",
+        "MARILL gesehen. Dachte ich zumindest.\r",
+        "Doch bei näherem Hinsehen stellte ich\n",
+        "fest, dass es ein {STRVAR_1 0, 11, 0} war.\f",
+        "Das hat mich vielleicht geärgert!\r",
+        "Ich melde mich, versprochen."
+      ]
+    },
+    {
+      "id": "msg_0690_00009",
+      "de_DE": [
+        "Mein Mann hat einige Nuggets.\r",
+        "Wenn du möchtest, gebe ich dir eines\n",
+        "dafür, dass du mir geholfen hast.\r",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}.\r",
+        "Komm vorbei, wenn du Zeit hast."
+      ]
+    },
+    {
+      "id": "msg_0690_00010",
+      "de_DE": [
+        "Wie bitte?\n",
+        "Oh, das Nugget?\r",
+        "Nur keine Eile. Ich gehe nirgendwo hin.\r",
+        "Du findest mich hier: {STRVAR_1 4, 3, 0}.\n",
+        "Komm vorbei, wenn du Zeit hast."
+      ]
+    },
+    {
+      "id": "msg_0690_00011",
+      "de_DE": [
+        "Sind deine Pokémon in Top-Form?\n",
+        "Lass uns mal wieder über Pokémon\f",
+        "plaudern."
+      ]
+    }
+  ]
+}

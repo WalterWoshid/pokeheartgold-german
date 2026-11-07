@@ -94,20 +94,28 @@ static BOOL IntroMovie_Scene1_Main(IntroMovieOverlayData *data, IntroMovieScene1
     u8 timer = IntroMovie_GetSceneStepTimer(data);
     switch (IntroMovie_GetSceneStep(data)) {
     case INTRO_SCENE1_APPEAR_COPYRIGHT: // Copyright appear
+#ifndef GERMAN
         BgSetPosTextAndCommit(bgConfig, GF_BG_LYR_MAIN_0, BG_POS_OP_SET_Y, 128);
         GfGfx_EngineATogglePlanes(GX_PLANEMASK_BG0, GF_PLANE_TOGGLE_ON);
+#endif
         GfGfx_EngineBTogglePlanes(GX_PLANEMASK_BG0, GF_PLANE_TOGGLE_ON);
         IntroMovie_AdvanceSceneStep(data);
         break;
     case INTRO_SCENE1_WAIT_COPYRIGHT: // Wait 30 frames then start fade out
         if (timer >= 30) {
             IntroMovie_StartBlendFadeEffect(&bgAnimCnt->blend[0], 1, 0x20, 60, 1, 0);
+#ifndef GERMAN
             IntroMovie_StartBlendFadeEffect(&bgAnimCnt->blend[1], 1, 0x20, 60, 1, 1);
+#endif
             IntroMovie_AdvanceSceneStep(data);
         }
         break;
     case INTRO_SCENE1_WAIT_FADEOUT_COPYRIGHT: // Wait for fade out (60 frames)
-        if (bgAnimCnt->blend[0].finished && bgAnimCnt->blend[1].finished) {
+        if (bgAnimCnt->blend[0].finished
+#ifndef GERMAN
+            && bgAnimCnt->blend[1].finished
+#endif
+        ) {
             IntroMovie_AdvanceSceneStep(data);
         }
         break;
@@ -116,8 +124,12 @@ static BOOL IntroMovie_Scene1_Main(IntroMovieOverlayData *data, IntroMovieScene1
             *sceneData->skipAllowedPtr = TRUE;
             GfGfx_EngineBTogglePlanes(GX_PLANEMASK_BG0, GF_PLANE_TOGGLE_OFF);
             GfGfx_EngineBTogglePlanes(GX_PLANEMASK_BG1, GF_PLANE_TOGGLE_ON);
+#ifdef GERMAN
+            GfGfx_EngineATogglePlanes(GX_PLANEMASK_BG0, GF_PLANE_TOGGLE_ON);
+#else
             BgSetPosTextAndCommit(bgConfig, GF_BG_LYR_MAIN_0, BG_POS_OP_SET_Y, 0);
             G2_SetBlendAlpha(1, 0x20, 0x1F, 0);
+#endif
             IntroMovie_AdvanceSceneStep(data);
         }
         break;
@@ -287,7 +299,11 @@ static void IntroMovie_Scene1_LoadBgGfx(BgConfig *bgConfig) {
     GfGfxLoader_LoadCharData(NARC_demo_opening_gs_opening, 4, bgConfig, GF_BG_LYR_SUB_1, 0, 0, TRUE, HEAP_ID_INTRO_MOVIE);
     GfGfxLoader_LoadCharData(NARC_demo_opening_gs_opening, 5, bgConfig, GF_BG_LYR_MAIN_0, 0, 0, TRUE, HEAP_ID_INTRO_MOVIE);
     GfGfxLoader_LoadScrnData(NARC_demo_opening_gs_opening, 12, bgConfig, GF_BG_LYR_SUB_1, 0, 0, TRUE, HEAP_ID_INTRO_MOVIE);
+#ifdef GERMAN
+    GfGfxLoader_LoadScrnData(NARC_demo_opening_gs_opening, 13, bgConfig, GF_BG_LYR_MAIN_0, 0, 0, TRUE, HEAP_ID_INTRO_MOVIE);
+#else
     GfGfxLoader_LoadScrnData(NARC_demo_opening_gs_opening, 13, bgConfig, GF_BG_LYR_MAIN_0, 0, 0, FALSE, HEAP_ID_INTRO_MOVIE);
+#endif
     GfGfxLoader_LoadScrnData(NARC_demo_opening_gs_opening, 14, bgConfig, GF_BG_LYR_SUB_0, 0, 0, TRUE, HEAP_ID_INTRO_MOVIE);
     GfGfxLoader_LoadCharData(NARC_demo_opening_gs_opening, INTRO_MOVIE_SCENE1_CHARDATA_SUB3, bgConfig, GF_BG_LYR_SUB_3, 0, 0, TRUE, HEAP_ID_INTRO_MOVIE);
     GfGfxLoader_LoadCharData(NARC_demo_opening_gs_opening, INTRO_MOVIE_SCENE1_CHARDATA_MAIN3, bgConfig, GF_BG_LYR_MAIN_3, 0, 0, TRUE, HEAP_ID_INTRO_MOVIE);

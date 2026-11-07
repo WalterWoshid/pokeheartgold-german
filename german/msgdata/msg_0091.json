@@ -1,0 +1,62 @@
+{
+  "key": 54351,
+  "messages": [
+    {
+      "id": "msg_0091_00000",
+      "de_DE": [
+        "Kurt: Gute Arbeit, {STRVAR_1 3, 0, 0}!\n",
+        "Die Typen von Team Rocket\f",
+        "haben Reißaus genommen!\r",
+        "Meiner Hüfte geht es auch\n",
+        "wieder besser. Lass uns gehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0091_00001",
+      "de_DE": [
+        "Lance: Was willst du von mir?\n",
+        "Bei Team Rocket fürchtet man mich als\f",
+        "ganz besonders grausamen Trainer...\r",
+        "Ich werde nicht zulassen, dass du uns\n",
+        "bei unserer Arbeit in die Quere kommst!\r"
+      ]
+    },
+    {
+      "id": "msg_0091_00002",
+      "de_DE": [
+        "Lance: ...Hehehe!\n",
+        "Ja, es stimmt. Team Rocket wurde\f",
+        "vor drei Jahren zerschlagen.\r",
+        "Aber wir haben unsere Arbeit still\n",
+        "und leise im Untergrund fortgesetzt.\r",
+        "Du kannst uns vielleicht das Leben\n",
+        "schwer machen, aber aufhalten wirst\f",
+        "du uns niemals!\r",
+        "Alles, was du tun kannst, ist in\n",
+        "Schrecken auf das zu warten,\f",
+        "was wir weiter im Schilde führen!\r"
+      ]
+    },
+    {
+      "id": "msg_0091_00003",
+      "de_DE": [
+        "Ein FLEGMON mit abgetrennter Rute...\n",
+        "Huch? Es trägt einen Brief bei sich.\r",
+        "Willst du ihn lesen? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0091_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} liest den Brief.\r",
+        "Bitte kümmere dich gut um Opa und\n",
+        "das FLEGMON, während ich weg bin.\f",
+        "Danke, dein Papa"
+      ]
+    },
+    {
+      "id": "msg_0091_00005",
+      "de_DE": "Ein FLEGMON mit abgetrennter Rute..."
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "key": 3245,
+  "messages": [
+    {
+      "id": "msg_0337_00000",
+      "de_DE": "O.K."
+    },
+    {
+      "id": "msg_0337_00001",
+      "de_DE": "Ist dein Pokémon so weit?"
+    },
+    {
+      "id": "msg_0337_00002",
+      "de_DE": "Möchtest du dieses Design speichern?"
+    },
+    {
+      "id": "msg_0337_00003",
+      "de_DE": "Du hast keinen Platz mehr."
+    },
+    {
+      "id": "msg_0337_00004",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00006",
+      "de_DE": "Motto:"
+    },
+    {
+      "id": "msg_0337_00007",
+      "de_DE": "Wohlgestalt"
+    },
+    {
+      "id": "msg_0337_00008",
+      "de_DE": "Gerissenheit"
+    },
+    {
+      "id": "msg_0337_00009",
+      "de_DE": "Erschaffung"
+    },
+    {
+      "id": "msg_0337_00010",
+      "de_DE": "Natürlichkeit"
+    },
+    {
+      "id": "msg_0337_00011",
+      "de_DE": "Farbenfroh"
+    },
+    {
+      "id": "msg_0337_00012",
+      "de_DE": "Stabilität"
+    },
+    {
+      "id": "msg_0337_00013",
+      "de_DE": "Aufgewecktheit"
+    },
+    {
+      "id": "msg_0337_00014",
+      "de_DE": "Prunk & Pracht"
+    },
+    {
+      "id": "msg_0337_00015",
+      "de_DE": "Flexibilität"
+    },
+    {
+      "id": "msg_0337_00016",
+      "de_DE": "Festlichkeit"
+    },
+    {
+      "id": "msg_0337_00017",
+      "de_DE": "Unangreifbar"
+    },
+    {
+      "id": "msg_0337_00018",
+      "de_DE": "Entspanntheit"
+    },
+    {
+      "id": "msg_0337_00019",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00020",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00021",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00022",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00023",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00024",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00025",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00026",
+      "de_DE": [
+        "Geben wir den Teilnehmern Zeit, sich\n",
+        "hinter der Bühne vorzubereiten!\r",
+        "Du hast 60 Sekunden Zeit, um dein\n",
+        "Pokémon mit Accessoires zu schmücken.\r",
+        "Stimmen sie mit dem Motto des Wett-\n",
+        "bewerbs überein, gibt es mehr Punkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00027",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0337_00028",
+      "de_DE": [
+        "Gut! Fangen wir mit dem Training an.\n",
+        "Zunächst der Model-Wettstreit!\r",
+        "Mithilfe des Touchscreens kannst du\n",
+        "Pokémon mit Accessoires ausstatten.\r",
+        "Stimmt die Ausstattung mit dem Motto\n",
+        "überein, bekommt ihr mehr Punkte!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00029",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Wohlgestalt”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00030",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Gerissenheit”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00031",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Erschaffung”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00032",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Natürlichkeit”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00033",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Farbenfroh”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00034",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Stabilität”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00035",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Aufgewecktheit”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00036",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Prunk & Pracht”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00037",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Flexibilität”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00038",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Festlichkeit”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00039",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Unangreifbar”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00040",
+      "de_DE": [
+        "Und unser heutiges Motto ist...\n",
+        "“Entspanntheit”!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00041",
+      "de_DE": [
+        "Du hast 60 Sekunden!\n",
+        "Du darfst {STRVAR_1 51, 0} Accessoires verwenden!\r",
+        "Befestige sie gut!\n",
+        "Die Zeit läuft... ab jetzt!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00042",
+      "de_DE": [
+        "Du hast 60 Sekunden!\n",
+        "Du darfst {STRVAR_1 51, 0} Accessoires verwenden!\r",
+        "Zeig, ob du Modebewusstsein hast!\n",
+        "Die Zeit läuft... ab jetzt!\r"
+      ]
+    },
+    {
+      "id": "msg_0337_00043",
+      "de_DE": "{STRVAR_1 34, 0} {STRVAR_1 35, 1}"
+    },
+    {
+      "id": "msg_0337_00044",
+      "de_DE": "{STRVAR_1 1, 4} v. {STRVAR_1 3, 3}"
+    },
+    {
+      "id": "msg_0337_00045",
+      "de_DE": "{STRVAR_1 28, 0}"
+    },
+    {
+      "id": "msg_0337_00046",
+      "de_DE": [
+        "Verbindung wird gehalten.\n",
+        "Bitte warten..."
+      ]
+    },
+    {
+      "id": "msg_0337_00047",
+      "de_DE": [
+        "Auf der linken Seite des Touchscreens\n",
+        "findest du die Accessoires.\r",
+        "Berühre ein Accessoire und ziehe es\n",
+        "zu deinem Pokémon auf der rechten\f",
+        "Seite. Bringe es sicher an.\r",
+        "Du kannst zehn Accessoires verwenden,\n",
+        "daher solltest du dir deine Sammlung\f",
+        "mithilfe der Pfeiltasten vorher ansehen.\r",
+        "In der Mitte rechts findest du eine\n",
+        "Schaltfläche, mit der du den\f",
+        "Hintergrund ändern kannst.\r",
+        "Alles verstanden? Dann kann\n",
+        "es ja losgehen!"
+      ]
+    },
+    {
+      "id": "msg_0337_00048",
+      "garbage": 0
+    }
+  ]
+}

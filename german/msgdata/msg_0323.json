@@ -1,0 +1,46 @@
+{
+  "key": 21527,
+  "messages": [
+    {
+      "id": "msg_0323_00000",
+      "de_DE": [
+        "Bist du {STRVAR_1 3, 0, 0}?\n",
+        "Prof. Eich wartet in seinem Labor\f",
+        "in Alabastia auf dich!\r",
+        "Ja, genau!\r",
+        "Er wollte, dass ich dir das hier gebe,\n",
+        "wenn ich dir irgendwo begegne.\f",
+        "Ich habe es für dich aufbewahrt!\r"
+      ]
+    },
+    {
+      "id": "msg_0323_00001",
+      "de_DE": [
+        "Bist du {STRVAR_1 3, 0, 0}?\n",
+        "Prof. Eich wartet in seinem Labor\f",
+        "in Alabastia auf dich!\r",
+        "Ja, genau!\r",
+        "Er wollte, dass ich dir das hier gebe,\n",
+        "wenn ich dir irgendwo begegne.\f",
+        "Ich habe es für dich aufbewahrt!\r"
+      ]
+    },
+    {
+      "id": "msg_0323_00002",
+      "de_DE": [
+        "Die Zauberasche ist ein\n",
+        "wirklich sagenhaftes Item,\f",
+        "das deine Pokémon heilt,\f",
+        "wenn sie gerade K.O. sind!"
+      ]
+    },
+    {
+      "id": "msg_0323_00003",
+      "de_DE": [
+        "Nördlich nach Marmoria City.\n",
+        "Südlich nach Vertania City.\r",
+        "Ich bin wie ein Wegweiser, was?"
+      ]
+    }
+  ]
+}

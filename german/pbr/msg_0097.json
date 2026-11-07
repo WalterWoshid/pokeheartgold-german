@@ -1,0 +1,595 @@
+{
+  "key": 5195,
+  "messages": [
+    {
+      "id": "msg_0097_00000",
+      "de_DE": [
+        "Ich bin der Erste, der im Untergrund\n",
+        "Tunnel gegraben hat.\r",
+        "Man nennt mich den Untergrund-Mann.\n",
+        "Also nenne auch du mich so.\r",
+        "Ich habe ein Geschenk für dich.\n",
+        "Setze es mit Verstand ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00001",
+      "de_DE": [
+        "Dieser Forschersack bringt dich in den\n",
+        "Untergrund, wann immer du willst!\r",
+        "Du musst ihn nur verwenden, und\n",
+        "schon bist du in den Tunneln!\r",
+        "Der Untergrund ist eine ganz andere\n",
+        "Welt. Dort kannst du dies, das und\f",
+        "jenes tun. Lass dich überraschen!\r",
+        "Ich kann dir beibringen, ein guter\n",
+        "Höhlenforscher zu werden!\r",
+        "Und? Bist du interessiert?"
+      ]
+    },
+    {
+      "id": "msg_0097_00002",
+      "de_DE": [
+        "Ich kann dir beibringen, ein guter\n",
+        "Höhlenforscher zu werden!\r",
+        "Und? Bist du interessiert?"
+      ]
+    },
+    {
+      "id": "msg_0097_00003",
+      "de_DE": [
+        "Ich hatte gehofft, dir mein Wissen über\n",
+        "die Geheimnisse der Untergrund-Tunnel\f",
+        "weitergeben zu können...\r",
+        "Aber ich kann dich ja nicht zwingen.\n",
+        "Es ist allein deine Entscheidung.\r",
+        "Seufz...\n",
+        "Niemand versteht mich..."
+      ]
+    },
+    {
+      "id": "msg_0097_00004",
+      "de_DE": [
+        "Hm!\n",
+        "Wohl gesprochen!\r",
+        "Du lernst es am besten,\n",
+        "indem du Aufgaben erledigst.\r",
+        "Gehe in den Untergrund! Das ist leicht.\n",
+        "Verwende einfach deinen Forschersack.\r",
+        "Wenn du das geschafft hast, erhältst\n",
+        "du deine nächste Aufgabe."
+      ]
+    },
+    {
+      "id": "msg_0097_00005",
+      "de_DE": [
+        "Du warst noch nicht im Untergrund?\r",
+        "Um dorthin zu gelangen, musst du nur\n",
+        "deinen Forschersack verwenden.\r",
+        "Allerdings musst du dazu draußen sein.\n",
+        "In Häusern oder Höhlen klappt es nicht.\r",
+        "Und jetzt ab mit dir!"
+      ]
+    },
+    {
+      "id": "msg_0097_00006",
+      "de_DE": [
+        "Hm! Ich sehe, dass du im\n",
+        "Untergrund gewesen bist!\r",
+        "Sehr gut!\n",
+        "Hier ist deine Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00007",
+      "de_DE": [
+        "Das hier sind Fallen. Wenn man\n",
+        "darauf tritt, werden sie ausgelöst.\r",
+        "Den Untergrund kannst du\n",
+        "gemeinsam mit Freunden besuchen.\r",
+        "Dabei kannst du deinen Freunden\n",
+        "mit diesen Fallen eine\f",
+        "Überraschung bereiten.\r",
+        "Welchen Auftrag gebe ich dir jetzt..."
+      ]
+    },
+    {
+      "id": "msg_0097_00008",
+      "de_DE": [
+        "Wie war es denn in den\n",
+        "Tunneln im Untergrund?\r",
+        "Groß und leer, sagst du?\r",
+        "Ach, du bist noch ein Anfänger\n",
+        "im Höhlenerforschen!\r",
+        "Es gibt dort so viele Schätze, die mit\n",
+        "bloßem Auge nicht sichtbar sind.\r",
+        "Als Nächstes möchte ich, dass du\n",
+        "mir Schätze und Sphären ausgräbst.\r",
+        "Suche im Untergrund mit dem\n",
+        "Radar nach gelben Punkten.\r",
+        "Gehe dorthin und suche dann mithilfe\n",
+        "des Touchscreens nach Schätzen."
+      ]
+    },
+    {
+      "id": "msg_0097_00009",
+      "de_DE": [
+        "Du hast noch keinen einzigen Schatz\n",
+        "und auch noch keine Sphäre gefunden?\r",
+        "Dann pass mal auf. Verwende das\n",
+        "Radar und gehe zu allen gezeigten\f",
+        "gelben Punkten.\r",
+        "Verwende dann den Touchscreen, um\n",
+        "herauszufinden, wo du graben kannst.\r",
+        "Grabe so nah wie möglich an einem\n",
+        "gelben Punkt des Radars, klar?\r",
+        "Sobald du vor so einem gelben Punkt\n",
+        "stehst, drückst du den A-Knopf!\r",
+        "So, und jetzt mach dich auf die Suche!"
+      ]
+    },
+    {
+      "id": "msg_0097_00010",
+      "de_DE": [
+        "Ah! Du hast ausgegraben, wonach\n",
+        "ich gesucht habe! Gut gemacht!\r",
+        "Du hast dir wieder eine Belohnung\n",
+        "verdient. Hier, bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00011",
+      "de_DE": [
+        "Grabe in den Wänden des Untergrunds,\n",
+        "um verborgene Dinge zu entdecken.\r",
+        "Dort unten findest du Fossilien, Steine\n",
+        "und noch vieles mehr.\r",
+        "Sphären, also Edelsteine, kannst du\n",
+        "nicht nach oben bringen, aber du kannst\f",
+        "sie dort gegen Items eintauschen.\r",
+        "Wie lautet jetzt wohl deine nächste\n",
+        "Aufgabe...?"
+      ]
+    },
+    {
+      "id": "msg_0097_00012",
+      "de_DE": [
+        "Meine Aufgaben für dich sind noch nicht\n",
+        "vorbei! Jetzt geht es um Sphären!\r",
+        "Die Sphären im Untergrund sind etwas\n",
+        "ganz Besonderes.\r",
+        "Wenn sie vergraben sind, wachsen sie.\n",
+        "Langsam, aber stetig.\r",
+        "Ich möchte, dass du diese Sphären im\n",
+        "Untergrund vergräbst.\r",
+        "Das ist die neueste Herausforderung\n",
+        "für dich!"
+      ]
+    },
+    {
+      "id": "msg_0097_00013",
+      "de_DE": [
+        "Du hast die Sphären noch nicht\n",
+        "vergraben? Hast du Angst?\r",
+        "Keine Sorge. Sphären sind schnell\n",
+        "vergraben und ebenso schnell wieder\f",
+        "ausgegraben. Die gehen nicht verloren.\r",
+        "Vergrabe diese Sphären, wie ich es\n",
+        "dir gesagt habe.\r",
+        "Aber merke dir, wo du sie vergraben\n",
+        "hast - der Untergrund ist riesig!"
+      ]
+    },
+    {
+      "id": "msg_0097_00014",
+      "de_DE": [
+        "Gut, gut!\n",
+        "Du hast deine Sphären vergraben!\r",
+        "Wenn du das nächste Mal im Untergrund\n",
+        "bist, sollten sie gewachsen sein!\r",
+        "Aber vergiss nicht, wo du die Sphären\n",
+        "vergraben hast!\r",
+        "Du hast alle Aufgaben sehr gut\n",
+        "gelöst. Hier ist deine Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00015",
+      "de_DE": [
+        "Vielleicht bist du schon den\n",
+        "Sphärensammlern begegnet.\r",
+        "Sie leben im Untergrund und\n",
+        "suchen nach Sphären.\r",
+        "Sie tauschen gerne verschiedene\n",
+        "Items gegen große Sphären.\r",
+        "Nun, was gebe ich dir jetzt für\n",
+        "eine Aufgabe...?"
+      ]
+    },
+    {
+      "id": "msg_0097_00016",
+      "de_DE": [
+        "Die Besuche im Untergrund werden dir\n",
+        "hoffentlich nicht langweilig?\r",
+        "Es ist nämlich noch nicht vorbei!\n",
+        "Jetzt geht es um deine Geheimbasis!\r",
+        "Jawohl! Ich zeige dir, wie du deine\n",
+        "eigene Geheimbasis errichtest!\r",
+        "Du brauchst nur den Einweg-Bohrer, den\n",
+        "ich dir vorhin gegeben habe.\r",
+        "Gehe in den Untergrund und verwende\n",
+        "den Einweg-Bohrer, wo du magst.\r",
+        "Und schon hast du deine eigene\n",
+        "Geheimbasis!\r",
+        "Das ist deine nächste Aufgabe: Errichte\n",
+        "deine eigene Geheimbasis!"
+      ]
+    },
+    {
+      "id": "msg_0097_00017",
+      "de_DE": [
+        "Hm? Du weißt nicht, wie du den Einweg-\n",
+        "Bohrer verwenden sollst?\r",
+        "Okay, es war vielleicht auch ein\n",
+        "bisschen knifflig.\r",
+        "Bei deinen Fallen liegt auch\n",
+        "der Einweg-Bohrer.\r",
+        "Blicke eine Wand an und verwende\n",
+        "den Einweg-Bohrer. Das ist alles.\r",
+        "Nachdem du das gemacht hast,\n",
+        "stellst du dich einfach hin und sagst...\r",
+        "{SIZE 200}Buh!{SIZE 100}\r",
+        "Nein, im Ernst! Mehr brauchst\n",
+        "du nicht zu tun!"
+      ]
+    },
+    {
+      "id": "msg_0097_00018",
+      "de_DE": [
+        "Ah, du hast deine Geheimbasis\n",
+        "errichtet. Exzellent!\r",
+        "Ich hatte schon befürchtet,\n",
+        "das wäre zu schwer für dich...\r",
+        "Sehr gute Arbeit, wirklich!\n",
+        "Dies ist deine Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00019",
+      "de_DE": [
+        "Wie der Name sagt, kann ein Einweg-\n",
+        "Bohrer nur einmal verwendet werden.\r",
+        "Willst du deine Geheimbasis verlegen,\n",
+        "musst du dir einen neuen Einweg-Bohrer\f",
+        "besorgen.\r",
+        "Im Untergrund kannst du Sphären gegen\n",
+        "einen Einweg-Bohrer tauschen.\r",
+        "Zu deiner nächsten Aufgabe..."
+      ]
+    },
+    {
+      "id": "msg_0097_00020",
+      "de_DE": [
+        "Hm! Du hältst ganz schön lange durch!\n",
+        "Dies ist deine letzte Aufgabe.\r",
+        "Du hast zwar eine Geheimbasis, aber sie\n",
+        "ist völlig leer, nicht wahr?\r",
+        "Keine Sorge! Du kannst deine\n",
+        "Geheimbasis nach Belieben einrichten!\r",
+        "Deine letzte Aufgabe ist es, deine\n",
+        "Geheimbasis hübsch einzurichten.\r",
+        "Verwende Dekorationen und Möbel, um\n",
+        "deiner Geheimbasis Stil zu verleihen!"
+      ]
+    },
+    {
+      "id": "msg_0097_00021",
+      "de_DE": [
+        "Aha, es gibt Schwierigkeiten?\r",
+        "Hast du vielleicht die Tür deiner\n",
+        "Geheimbasis offen gelassen?\r",
+        "Im Untergrund wandern viele Trainer\n",
+        "umher. Tag und Nacht.\r",
+        "Es sollte niemand in deine Geheimbasis\n",
+        "stürmen können, während du am\f",
+        "Dekorieren bist, nicht wahr?\r",
+        "Also vergiss nicht, immer die Tür zu\n",
+        "schließen, wenn du renovierst!"
+      ]
+    },
+    {
+      "id": "msg_0097_00022",
+      "de_DE": [
+        "Ah! Du hast es geschafft, deine\n",
+        "Geheimbasis zu dekorieren!\r",
+        "Ich wusste gleich, dass du ein\n",
+        "hervorragender Höhlenforscher bist!\r",
+        "Vergiss nicht, während des Dekorierens\n",
+        "die Tür zu schließen!\r",
+        "Wir wollen doch nicht, dass sich\n",
+        "Besucher versehentlich verletzen!\r",
+        "Und wenn du Items, die du erhalten\n",
+        "hast, platzieren möchtest, verstaue\f",
+        "sie zunächst in deinem PC.\r",
+        "Du hast alles sehr gut gemacht!\n",
+        "Hier ist deine Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00023",
+      "de_DE": [
+        "Du kannst sogar noch mehr\n",
+        "Dekorationsartikel sammeln.\r",
+        "Wenn du Sphären vergräbst und\n",
+        "wachsen lässt, kannst du sie gegen\f",
+        "Möbel und Dekorationen eintauschen.\r",
+        "Außerdem kannst du solche Items\n",
+        "auch mit Freunden tauschen."
+      ]
+    },
+    {
+      "id": "msg_0097_00024",
+      "de_DE": [
+        "Ich habe dir alles beigebracht, was ich\n",
+        "weiß. Aber vielleicht habe ich doch noch\f",
+        "ein kleines Geheimnis für dich.\r",
+        "In deiner Geheimbasis gibt es doch diese\n",
+        "Felsen, die da im Weg liegen, ja?\r",
+        "Es gibt eine Möglichkeit, diese Felsen\n",
+        "aus dem Weg zu schaffen...\r",
+        "Aber im Moment ist das noch zu\n",
+        "gefährlich für dich.\r",
+        "Wenn du ein besserer Höhlenforscher\n",
+        "geworden bist, dann vielleicht...\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00025",
+      "de_DE": [
+        "...Hm! Andererseits bist du wirklich ein\n",
+        "Naturtalent im Höhlenforschen...\r",
+        "Schön! Ich verrate es dir, aber nur,\n",
+        "weil du etwas ganz Besonderes bist!\r",
+        "Du weißt doch, dass man sich mit seinen\n",
+        "Freunden im Untergrund treffen kann.\r",
+        "Das heißt, dass auch deine Freunde ihre\n",
+        "Geheimbasen haben, nicht wahr?\r",
+        "Du musst also Folgendes tun:\n",
+        "Finde die Geheimbasis eines Freundes.\r",
+        "Gehe zu seinem PC und erobere die Fahne\n",
+        "deines Freundes.\r",
+        "Danach musst du in deine Geheimbasis\n",
+        "zurückkehren und die Fahne zu\f",
+        "deinem PC bringen!\r",
+        "Wenn du das schaffst, darfst du die\n",
+        "Felsen bewegen!"
+      ]
+    },
+    {
+      "id": "msg_0097_00026",
+      "de_DE": [
+        "Ah! Mein Höhlenforscher! Genießt du die\n",
+        "Zeit mit deinen Freunden im Untergrund?\r",
+        "Mit Freunden ist es hundert Mal schöner\n",
+        "als allein!\r",
+        "Wenn du die Fahne aus der Geheimbasis\n",
+        "eines Freundes erobert hast, dann\f",
+        "komm vorbei und erzähl mir davon!"
+      ]
+    },
+    {
+      "id": "msg_0097_00027",
+      "de_DE": [
+        "Ist es denn die Möglichkeit!\n",
+        "Du hast eine Fahne erobert?\r",
+        "Exzellent! Dann kannst du ja jetzt\n",
+        "die Großen Felsen in deiner\f",
+        "Geheimbasis bewegen!\r",
+        "Verstaue die Felsen ganz einfach\n",
+        "wie Möbel.\r",
+        "Sehr gut gemacht!\n",
+        "Hier ist deine Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00028",
+      "de_DE": [
+        "Es gibt leider nichts mehr, was ich dir\n",
+        "noch beibringen könnte.\r",
+        "Wenn du mehr Große Felsen wegräumen\n",
+        "oder mehr Dekorationsartikel sammeln\f",
+        "möchtest, erobere mehr Fahnen.\r",
+        "Werde der Höhlenforschermeister!"
+      ]
+    },
+    {
+      "id": "msg_0097_00029",
+      "de_DE": [
+        "Na, Höhlenforscher? Gehst du wieder in\n",
+        "den Untergrund?\r",
+        "Die Tunnel im Untergrund sind riesig.\r",
+        "Dort triffst du viele andere,\n",
+        "die ebenfalls Trainer sind, wie du."
+      ]
+    },
+    {
+      "id": "msg_0097_00030",
+      "de_DE": [
+        "Ah, du hast drei Fahnen erobert!\r",
+        "Gut gemacht!\n",
+        "Dies ist deine Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00031",
+      "de_DE": [
+        "Ah, du hast zehn Fahnen erobert!\r",
+        "Gut gemacht!\n",
+        "Hier ist deine Belohnung!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00032",
+      "de_DE": [
+        "Oh! Oh! Meine Güte!\n",
+        "Fünfzig Fahnen hast du schon erobert!\r",
+        "Fantastisch!\n",
+        "Die Belohnung hast du dir verdient!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00033",
+      "de_DE": [
+        "Du bist unglaublich! Es gibt nichts\n",
+        "mehr, was ich dir beibringen kann.\r",
+        "Von nun an bist du der\n",
+        "Höhlenforschermeister!"
+      ]
+    },
+    {
+      "id": "msg_0097_00034",
+      "de_DE": [
+        "Oh? Dein Untergrund-PC scheint voll zu\n",
+        "sein.\r",
+        "Entferne ein paar Dekorationsartikel\n",
+        "und besuche mich noch einmal."
+      ]
+    },
+    {
+      "id": "msg_0097_00035",
+      "de_DE": [
+        "Hm!\n",
+        "Das gehört dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00036",
+      "de_DE": [
+        "Die Tunnel im Untergrund führen\n",
+        "überallhin!\r",
+        "Besuche sie mit deinen Freunden, indem\n",
+        "du die Drahtlose DS-Datenübertragung\f",
+        "verwendest!"
+      ]
+    },
+    {
+      "id": "msg_0097_00037",
+      "de_DE": [
+        "Auf zu den Schätzen!\r",
+        "Ich bin aus Erzelingen.\n",
+        "Ich arbeite dort im Bergbaumuseum.\r",
+        "Der Untergrund-Mann hat mir Tipps\n",
+        "gegeben, wie man Schätze und\f",
+        "Sphären ausgraben kann.\r",
+        "Und bevor ich loslege, gebe ich\n",
+        "einen Tipp an dich weiter.\r",
+        "Während des Grabens siehst du\n",
+        "manchmal dunkle Steine.\r",
+        "Sie sind sehr hart! Wenn du sie zu oft\n",
+        "schlägst, bricht die Wand zusammen.\r",
+        "Vergiss das nicht. Dann kannst du in\n",
+        "Windeseile Schätze sammeln!"
+      ]
+    },
+    {
+      "id": "msg_0097_00038",
+      "de_DE": [
+        "Oh, möchtest du noch ein paar\n",
+        "Ratschläge über Schätze und\f",
+        "Sphären hören?\r",
+        "In deinem Forschersack sind ein\n",
+        "Vorschlaghammer und eine Spitzhacke.\r",
+        "Wähle eines dieser Werkzeuge und\n",
+        "berühre den Touchscreen, um zu graben.\r",
+        "Schätze, die du ganz freilegst, bevor\n",
+        "die Wand kollabiert, gehören dir.\r",
+        "Vergiss nicht, dass die schwarzen\n",
+        "Steine unzerstörbar sind.\r",
+        "Wenn du sie zu oft triffst, stürzt\n",
+        "die ganze Wand ein.\r",
+        "Vergiss das nicht. Dann kannst du in\n",
+        "Windeseile Schätze sammeln!"
+      ]
+    },
+    {
+      "id": "msg_0097_00039",
+      "de_DE": [
+        "Neu! Zu verkaufen!\n",
+        "Untergrund-Radar!\r",
+        "Der obere Radarbildschirm zeigt Orte,\n",
+        "an denen möglicherweise Schätze liegen.\r",
+        "Der untere Radarbildschirm zeigt\n",
+        "den genauen Fundort an!"
+      ]
+    },
+    {
+      "id": "msg_0097_00040",
+      "de_DE": [
+        "Ein Buch. Der Titel lautet:\n",
+        "“Wissenswertes über den Untergrund”\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00041",
+      "de_DE": "Welche Seite willst du lesen?"
+    },
+    {
+      "id": "msg_0097_00042",
+      "de_DE": [
+        "Fahnen: In jeder Geheimbasis\n",
+        "gibt es eine Fahne.\r",
+        "Erobere die Fahne eines Freundes und\n",
+        "bringe sie in deine eigene Geheimbasis,\f",
+        "um diese verbessern zu können!\r",
+        "Finde die Geheimbasen deiner Freunde\n",
+        "und erobere ihre Fahnen!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00043",
+      "de_DE": [
+        "Sphären: Im Untergrund kannst du\n",
+        "schöne Steine ausgraben. Diese werden\f",
+        "Sphären genannt.\r",
+        "Dort leben auch Menschen, für die diese\n",
+        "Sphären so wertvoll wie Geld sind.\r",
+        "Tausche bei ihnen deine Sphären gegen\n",
+        "Dekorationsartikel und andere Items.\r",
+        "Und wenn man die Sphären vergräbt,\n",
+        "dann wachsen sie. Große Sphären\f",
+        "sind natürlich noch mehr wert.\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00044",
+      "de_DE": [
+        "Fallen: Es gibt Fallen, die man in\n",
+        "den Untergrundtunneln aufstellen kann.\r",
+        "Auf den unaufmerksamen Trainer warten\n",
+        "viele verschiedene Fallen.\r",
+        "Manche Fallen müssen weggeweht, andere\n",
+        "per Berührung entfernt werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00045",
+      "de_DE": [
+        "Deko: Möbel und andere Dekorations-\n",
+        "artikel für deine Geheimbasis.\r",
+        "Tausche Sphären gegen sie ein oder\n",
+        "erhalte sie von deinen Freunden!\r"
+      ]
+    },
+    {
+      "id": "msg_0097_00046",
+      "de_DE": [
+        "Schätze: Seltene Items, die erscheinen,\n",
+        "während du im Untergrund gräbst.\r",
+        "Solange du in den Tunneln bist,\n",
+        "kannst du sie an dich nehmen und\f",
+        "sogar in deinen Beutel stecken.\r",
+        "Grabe überall, um Schätze zu finden!\r"
+      ]
+    }
+  ]
+}

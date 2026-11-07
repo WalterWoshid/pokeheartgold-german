@@ -1,0 +1,253 @@
+{
+  "key": 20267,
+  "messages": [
+    {
+      "id": "msg_0550_00000",
+      "de_DE": [
+        "Du bist noch nicht lange Trainer, oder?\n",
+        "Aha, Volltreffer! Wusste ich’s doch!\r",
+        "Aber das ist schon in Ordnung. Es ist\n",
+        "noch kein Meister vom Himmel gefallen!\r",
+        "Keine Sorge, ich bringe dir gerne ein\n",
+        "paar Tricks bei!\r",
+        "Komm, folge mir!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00001",
+      "de_DE": [
+        "Oh, tut mir leid. Du hast noch keine\n",
+        "Turbotreter, habe ich recht?\r",
+        "Ich werde so langsam für dich laufen,\n",
+        "wie ich nur kann. Versuche bitte, nicht\f",
+        "ganz so weit hinter mir zurückzufallen!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00002",
+      "de_DE": [
+        "Das hier ist ein Pokémon-Center.\n",
+        "Wenn deine Pokémon verletzt sind,\f",
+        "und du sie hier abgibst, werden sie\f",
+        "umgehend für dich geheilt!\r",
+        "Ich kann dir schon jetzt sagen, dass du\n",
+        "hier bald Stammkunde sein wirst!\f",
+        "Du kannst mich beim Wort nehmen!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00003",
+      "de_DE": [
+        "Das hier ist ein Pokémon-Supermarkt.\n",
+        "Hier werden Bälle verkauft, mit denen\f",
+        "du Pokémon fangen kannst, und noch\f",
+        "viele weitere nützliche Items.\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00004",
+      "de_DE": [
+        "Hier entlang geht es zur Route 30.\r",
+        "Du wirst dort vielen Trainern begegnen,\n",
+        "die auf der Suche nach Gegnern für ihre\f",
+        "besten Pokémon sind.\r",
+        "Wenn du ein Stück weit läufst, findest\n",
+        "du dort außerdem auch das Haus von\f",
+        "Mr. Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00005",
+      "de_DE": [
+        "Und das ist das Meer, wie du siehst.\r",
+        "Bestimmte Pokémon halten sich \n",
+        "ausschließlich im Wasser auf!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00006",
+      "de_DE": [
+        "Tja, und das hier... ist mein\n",
+        "bescheidenes Zuhause!\r",
+        "Und als Dank dafür, dass du mich bis\n",
+        "hierher begleitet hast, möchte ich dir\f",
+        "nun ein Paar Turbotreter schenken.\r",
+        "Hier, nimm am besten gleich mein Paar!\n",
+        "Sie sind noch schön warm vom Tragen!\r",
+        "... ... ...\n",
+        "... ... ...\r",
+        "Nein, keine Angst. Das war nur ein Witz.\n",
+        "Hier hast du ein brandneues Paar.\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00007",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Turbotreter!"
+      ]
+    },
+    {
+      "id": "msg_0550_00008",
+      "de_DE": [
+        "Hier ein kleiner Auszug aus der\n",
+        "Gebrauchsanleitung:\r",
+        "Wenn du den Sprint-Knopf auf dem\n",
+        "Touchscreen berührst, kannst du\f",
+        "schneller laufen.\r",
+        "Und hier steht noch:\r",
+        "Du kannst aber auch sprinten, indem\n",
+        "du den B-Knopf gedrückt hältst!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00009",
+      "de_DE": [
+        "Hechel, hechel, keuch...\n",
+        "Puh, Glück gehabt! Nur ein bisschen\f",
+        "später und du wärst weg gewesen...\f",
+        "Ich habe noch ein Geschenk für dich!\r",
+        "Hier, nimm!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00010",
+      "de_DE": [
+        "Pokécom von {STRVAR_1 3, 0, 0} liest Daten\n",
+        "aus dem Karten-Modul des Mannes ein."
+      ]
+    },
+    {
+      "id": "msg_0550_00011",
+      "de_DE": [
+        "Pokécom von {STRVAR_1 3, 0, 0} kann nun\n",
+        "Karten anzeigen!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00012",
+      "de_DE": [
+        "Wähle zunächst auf dem Touchscreen\n",
+        "den Punkt “Pokécom” aus.\f",
+        "Über das Kartensymbol kannst du dir\f",
+        "nun eine Karte der Region anzeigen\f",
+        "lassen, in der du dich gerade aufhältst.\r",
+        "Wenn du deinen Pokécom immer weiter\n",
+        "mit Modulen erweiterst, wird er jedes\f",
+        "Mal ein bisschen nützlicher.\r",
+        "Also dann, viel Erfolg noch!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00013",
+      "de_DE": [
+        "... ... ...\n",
+        "Du hast ein Pokémon aus dem Labor.\r",
+        "Was für eine Verschwendung für einen\n",
+        "Schwächling wie dich!\r",
+        "... ... ...\r",
+        "Was ich damit sagen will, fragst du?\n",
+        "Wie deutlich muss ich denn noch werden?\r",
+        "Dann erkläre ich’s dir eben ganz genau!\n",
+        "Mein Pokémon hier ist auch nicht übel!\f",
+        "Wenn es erst mal mit dir fertig ist,\f",
+        "bleiben keine Fragen mehr offen!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00014",
+      "de_DE": [
+        "... ... ...\r",
+        "Willst du wissen, wer ich bin?\n",
+        "Ich werde es dir sagen!\r",
+        "Ich bin derjenige, den die Leute schon\n",
+        "bald den größten Pokémon-Trainer\f",
+        "aller Zeiten nennen werden!\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00015",
+      "de_DE": [
+        "Gib mir das! Das ist der Trainerpass,\n",
+        "den ich verloren habe! Er gehört mir!\r",
+        "Hmpf... jetzt hast du meinen Namen\n",
+        "gesehen, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00016",
+      "de_DE": [
+        "Hast du schon mit dem alten Mann am\n",
+        "Pokémon-Center gesprochen?\r",
+        "Du kannst eine Karte der Johto-Region\n",
+        "für deinen Pokécom von ihm bekommen!"
+      ]
+    },
+    {
+      "id": "msg_0550_00017",
+      "de_DE": [
+        "Egal, wohin die Reise auch geht, mit\n",
+        "Pokémon als Weggefährten wird es dir\f",
+        "ganz bestimmt nie langweilig!"
+      ]
+    },
+    {
+      "id": "msg_0550_00018",
+      "de_DE": [
+        "Bis zum Haus von Mr. Pokémon ist es\n",
+        "noch ein ganzes Stück.\r",
+        "Mithilfe der Turbotreter könntest du\n",
+        "natürlich schneller dort ankommen.\r",
+        "Aber du würdest dabei so viel Lärm\n",
+        "verursachen, dass wilde Pokémon oder\f",
+        "andere Trainer auf dich aufmerksam\f",
+        "werden könnten und dich angreifen!\f",
+        "Sei also gewarnt!"
+      ]
+    },
+    {
+      "id": "msg_0550_00019",
+      "de_DE": [
+        "Ich habe tapfer gegen die Trainer auf\n",
+        "der Straße gekämpft, aber mein Team\f",
+        "hat verloren und nun sind meine Pokémon\f",
+        "völlig außer Kraft.\r",
+        "Ich muss sie in ein Pokémon-Center\n",
+        "bringen, und zwar schnell..."
+      ]
+    },
+    {
+      "id": "msg_0550_00020",
+      "de_DE": [
+        "Das Pokémon, das ich mir neulich\n",
+        "geangelt habe, hatte ein Item dabei!\r",
+        "Es hieß Zauberwasser oder so...\n",
+        "Aber da ich nur am Angeln von Pokémon\f",
+        "interessiert bin, kannst du es haben.\r"
+      ]
+    },
+    {
+      "id": "msg_0550_00021",
+      "de_DE": "Ich gehe dann mal wieder ans Angeln."
+    },
+    {
+      "id": "msg_0550_00022",
+      "de_DE": "Du kannst nichts mehr tragen!"
+    },
+    {
+      "id": "msg_0550_00023",
+      "de_DE": [
+        "Rosalia City\n",
+        "Die Stadt des Blumendufts"
+      ]
+    },
+    {
+      "id": "msg_0550_00024",
+      "de_DE": [
+        "Haus des Fremdenführers\r",
+        "Er mag zwar alt sein, aber er geht\n",
+        "immer noch ab wie die Feuerwehr!"
+      ]
+    }
+  ]
+}

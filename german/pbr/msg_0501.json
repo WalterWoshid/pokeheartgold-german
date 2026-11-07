@@ -1,0 +1,392 @@
+{
+  "key": 9246,
+  "messages": [
+    {
+      "id": "msg_0501_00000",
+      "de_DE": [
+        "Mutter: {STRVAR_1 3, 0}!\r",
+        "{STRVAR_1 3, 1} war vor kurzem hier\n",
+        "und hat dich gesucht.\r",
+        "Ich weiß nicht, was er damit meinte,\n",
+        "aber er sagte, es gäbe einen Notfall.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00001",
+      "de_DE": [
+        "Mutter: Du weißt doch, wie\n",
+        "ungeduldig {STRVAR_1 3, 0} ist.\r",
+        "Bevor ich ihn nach der Bedeutung fragen\n",
+        "konnte, war er auch schon wieder weg."
+      ]
+    },
+    {
+      "id": "msg_0501_00002",
+      "de_DE": [
+        "Mutter: Mach’s gut, {STRVAR_1 3, 0}!\n",
+        "Pass gut auf dich auf!"
+      ]
+    },
+    {
+      "id": "msg_0501_00003",
+      "de_DE": [
+        "Mutter: Aber {STRVAR_1 3, 0}...\n",
+        "Er möchte dich immer dabeihaben."
+      ]
+    },
+    {
+      "id": "msg_0501_00004",
+      "de_DE": [
+        "Mutter: {STRVAR_1 3, 0}!\n",
+        "Geh nicht ins hohe Gras!\r",
+        "Wilde Pokémon könnten dich angreifen,\n",
+        "wenn du durch hohes Gras gehst.\r",
+        "Das wäre nicht schlimm, wenn du ein\n",
+        "eigenes Pokémon dabeihättest, aber..."
+      ]
+    },
+    {
+      "id": "msg_0501_00005",
+      "de_DE": [
+        "Mutter: Was ist denn, Schatz?\n",
+        "Wartet {STRVAR_1 3, 0} nicht auf dich?"
+      ]
+    },
+    {
+      "id": "msg_0501_00006",
+      "de_DE": [
+        "Mutter: Was gibt es, Schatz?\r",
+        "...\r",
+        "Wow.\n",
+        "Das hast du alles erlebt?!?\r",
+        "Ich bin so froh, dass es dir und\n",
+        "{STRVAR_1 3, 0} gut geht.\r",
+        "Der Professor, den du erwähnt hast, ist\n",
+        "bestimmt Professor Eibe aus\f",
+        "Sandgemme.\r",
+        "Ich habe gehört, seine Studien zu den\n",
+        "Pokémon sind berühmt.\r",
+        "Aber er soll auch sehr einschüchternd\n",
+        "sein...\r",
+        "{STRVAR_1 3, 1}, ich denke, du solltest ihn\n",
+        "in Sandgemme besuchen.\r",
+        "Du solltest ihm genau erklären, warum\n",
+        "du gar keine andere Wahl hattest, als\f",
+        "sein Pokémon zu nehmen.\r",
+        "Und hab keine Angst!\n",
+        "Ich bin sicher, er wird dich verstehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00007",
+      "de_DE": [
+        "Oh, ich habe hier noch etwas für dich!\n",
+        "Hier, {STRVAR_1 3, 0}, zieh die an.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00008",
+      "de_DE": [
+        "{STRVAR_1 3, 0} erhält\n",
+        "{COLOR 1}Turbotreter{COLOR 0}!"
+      ]
+    },
+    {
+      "id": "msg_0501_00009",
+      "de_DE": [
+        "Nach Sandgemme zu gehen ist schon ein\n",
+        "Abenteuer für sich, nicht wahr?\r",
+        "Mit diesen Turbotretern kommst du viel\n",
+        "schneller von einem Ort zum anderen.\r",
+        "So... Ich lese dir vor, wie du sie\n",
+        "verwendest...\r",
+        "“Halte den B-Knopf gedrückt\n",
+        "und renne schneller als je zuvor!\r",
+        "Zieh deine Turbotreter an und\n",
+        "gehe neue Abenteuerwege!”\r",
+        "Na, das ist doch mehr als praktisch!"
+      ]
+    },
+    {
+      "id": "msg_0501_00010",
+      "de_DE": [
+        "Mutter: Ich lese dir vor, wie du die\n",
+        "Turbotreter verwendest...\r",
+        "“Halte den B-Knopf gedrückt\n",
+        "und renne schneller als je zuvor!\r",
+        "Zieh deine Turbotreter an und\n",
+        "gehe neue Abenteuerwege!”\r",
+        "Na, das ist doch mehr als praktisch!"
+      ]
+    },
+    {
+      "id": "msg_0501_00011",
+      "de_DE": [
+        "Mutter: Willkommen zu Hause,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Geht es dir und den Pokémon gut?\r",
+        "Es ist noch früh am Morgen.\n",
+        "Ruh dich doch noch etwas aus.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00012",
+      "de_DE": [
+        "Mutter: Willkommen zu Hause,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Geht es dir und den Pokémon gut?\n",
+        "Ruh dich doch etwas aus.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00013",
+      "de_DE": [
+        "Mutter: Willkommen zu Hause,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Geht es dir und den Pokémon gut?\r",
+        "Ich habe gerade Abendessen gemacht.\n",
+        "Ruh dich doch noch etwas aus.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00014",
+      "de_DE": [
+        "Mutter: Willkommen zu Hause,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Geht es dir und den Pokémon gut?\r",
+        "Es ist mitten in der Nacht.\n",
+        "Ruh dich doch noch etwas aus.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00015",
+      "de_DE": [
+        "Mutter: Oh, {STRVAR_1 3, 0}.\r",
+        "...\r",
+        "Wow. Professor Eibe hat dir so eine\n",
+        "wichtige Aufgabe anvertraut.\r",
+        "Oh, Schatz, viel Glück!\n",
+        "Ich stehe hinter dir!\r",
+        "Oh, richtig! {STRVAR_1 3, 0}, ich\n",
+        "habe etwas für dich.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00016",
+      "de_DE": [
+        "Das ist ein Tagebuch. Hier werden die\n",
+        "Ereignisse eines jeden Tages\f",
+        "aufgeschrieben.\r",
+        "So kannst du immer nachlesen, was\n",
+        "du zuletzt alles erlebt und getan hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00017",
+      "de_DE": [
+        "Wow, eine Reise voller Abenteuer...\n",
+        "Ich beneide dich, Kind!\r",
+        "Und du bist nicht allein.\n",
+        "Du hast Pokémon dabei.\f",
+        "Ich wäre so gerne an deiner Stelle!\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00018",
+      "de_DE": [
+        "Ich mache nur Spaß, Schatz!\n",
+        "Wirklich, {STRVAR_1 3, 0}!\r",
+        "Ich bleibe hier und du gehst und\n",
+        "genießt dein Abenteuer!\r",
+        "Denn wenn du neue Dinge erlebst\n",
+        "und neue Sachen lernst...\f",
+        "Dann bin ich auch glücklich.\r",
+        "...Aber komm ab und zu nach Hause.\r",
+        "Denn ich würde gerne all die Pokémon\n",
+        "sehen, die du gefangen hast.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00019",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Tut mir leid,\n",
+        "aber ist mein kleiner {STRVAR_1 3, 1} hier?\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00020",
+      "de_DE": [
+        "Mutter: Oh...\n",
+        "Nein, ist er nicht...\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00021",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Oh...\n",
+        "Dann ist er wohl schon aufgebrochen...\f",
+        "Was mache ich denn jetzt nur?\r",
+        "Der Junge rief nur, dass er zu einem\n",
+        "Abenteuer aufbrechen würde und\f",
+        "weg war er.\r",
+        "Er ist dickköpfig und rücksichtslos...\n",
+        "Dabei wollte ich, dass er das hier\f",
+        "mitnimmt...\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00022",
+      "de_DE": [
+        "Mutter: Mach dir keine Sorgen.\n",
+        "{STRVAR_1 3, 0} wird ihm das bringen.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00023",
+      "de_DE": [
+        "Das machst du doch, nicht\n",
+        "wahr, {STRVAR_1 3, 0}?\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00024",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Oh, wirklich?\n",
+        "Das würdest du für mich tun?\r",
+        "{STRVAR_1 3, 0}, dann bring dies bitte\n",
+        "{STRVAR_1 3, 1}.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00025",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Oh, wirklich?\n",
+        "Das würdest du für mich tun?\r",
+        "{STRVAR_1 3, 0}, dann bring dies bitte\n",
+        "{STRVAR_1 3, 1}.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00026",
+      "de_DE": [
+        "Mutter von {STRVAR_1 3, 1}: Ich muss kurz\n",
+        "überlegen...\r",
+        "So, wie ich meinen Jungen kenne,\n",
+        "ist er bestimmt direkt nach Jubelstadt\f",
+        "gegangen...\r",
+        "Bitte bring das meinem {STRVAR_1 3, 1}.\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00027",
+      "de_DE": [
+        "Mutter: Mach’s gut, {STRVAR_1 3, 0}!\n",
+        "Genieß dein Abenteuer!\r"
+      ]
+    },
+    {
+      "id": "msg_0501_00028",
+      "de_DE": [
+        "Mutter: Mach’s gut, {STRVAR_1 3, 0}!\n",
+        "Und komm mich ab und zu mal besuchen!"
+      ]
+    },
+    {
+      "id": "msg_0501_00029",
+      "de_DE": [
+        "MC: Hallo, alle zusammen!\r",
+        "Hier ist die Zusammenfassung\n",
+        "des Wettbewerbs!\r",
+        "Der Gewinner des heutigen\n",
+        "Anmut-Wettbewerbs der\f",
+        "Normal-Klasse ist...\r",
+        "Irina, die mit einem atemberaubend\n",
+        "anmutigen Pokémon angetreten ist!\r",
+        "Das war’s für heute von uns!\n",
+        "Bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0501_00030",
+      "de_DE": [
+        "MC: Hallo, alle zusammen!\r",
+        "Hier ist die Zusammenfassung\n",
+        "des Wettbewerbs!\r",
+        "Der Gewinner des heutigen\n",
+        "Klugheits-Wettbewerbs der\f",
+        "Normal-Klasse ist...\r",
+        "Martin, der mit einem vor Klugheit\n",
+        "sprühenden Pokémon angetreten ist!\r",
+        "Das war’s für heute von uns!\n",
+        "Bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0501_00031",
+      "de_DE": [
+        "MC: Hallo, alle zusammen!\r",
+        "Hier ist die Zusammenfassung\n",
+        "des Wettbewerbs!\r",
+        "Der Gewinner des heutigen\n",
+        "Stärke-Wettbewerbs der\f",
+        "Normal-Klasse ist...\r",
+        "Patrick, der mit einem unglaublich\n",
+        "starken Pokémon angetreten ist!\r",
+        "Das war’s für heute von uns!\n",
+        "Bis zum nächsten Mal!"
+      ]
+    },
+    {
+      "id": "msg_0501_00032",
+      "de_DE": [
+        "Im Kühlschrank steht Mamas\n",
+        "Lieblingsdessert."
+      ]
+    },
+    {
+      "id": "msg_0501_00033",
+      "de_DE": [
+        "Mamas Küche ist supersauber.\n",
+        "Man kann sich im Boden spiegeln!"
+      ]
+    },
+    {
+      "id": "msg_0501_00034",
+      "de_DE": [
+        "Hier kocht Mama all die leckeren\n",
+        "Sachen."
+      ]
+    },
+    {
+      "id": "msg_0501_00035",
+      "de_DE": [
+        "Mutter: {STRVAR_1 3, 0}!\r",
+        "{STRVAR_1 3, 1} war vor kurzem hier und\n",
+        "hat nach dir gesucht.\r",
+        "Er meinte, du solltest unbedingt\n",
+        "nach Blizzach kommen und das\f",
+        "Schiff dort nehmen.\r",
+        "Und wie immer hatte ich keine Zeit ihn\n",
+        "zu fragen, was er damit meint, da er\f",
+        "wieder wegrannte wie ein geölter Blitz."
+      ]
+    },
+    {
+      "id": "msg_0501_00036",
+      "de_DE": [
+        "Mutter: {STRVAR_1 3, 0}!\r",
+        "{STRVAR_1 3, 1} war vor kurzem hier und\n",
+        "hat nach dir gesucht.\r",
+        "Er meinte, du solltest unbedingt nach\n",
+        "Blizzach kommen und dort ein Schiff\f",
+        "nehmen.\r",
+        "Und wie immer hatte ich keine Zeit ihn\n",
+        "zu fragen, was er damit meint, da er\f",
+        "wieder wegrannte wie ein geölter Blitz.\r",
+        "Aber wie geht es dir, Kind?\r",
+        "Kommst du gut voran mit der Aufgabe,\n",
+        "die Professor Eibe dir anvertraut hat?"
+      ]
+    }
+  ]
+}

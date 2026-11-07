@@ -1,0 +1,126 @@
+{
+  "key": 1875,
+  "messages": [
+    {
+      "id": "msg_0694_00000",
+      "de_DE": "Amadeus"
+    },
+    {
+      "id": "msg_0694_00001",
+      "de_DE": [
+        "He, du möchtest auch der beste Trainer\n",
+        "sein? Dann sind wir ja Kameraden!\r",
+        "Wenn ich am Wasser noch mehr Items\n",
+        "finde, gebe ich dir welche ab.\r",
+        "Gib mir doch deine Telefonnummer. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0694_00002",
+      "de_DE": [
+        "Ich rufe dich an, wenn ich etwas\n",
+        "Nützliches finde."
+      ]
+    },
+    {
+      "id": "msg_0694_00003",
+      "de_DE": [
+        "Wirklich? Dann muss ich eben eine\n",
+        "Verwendung dafür finden..."
+      ]
+    },
+    {
+      "id": "msg_0694_00004",
+      "de_DE": [
+        "Wenn ich am Wasser noch mehr Items\n",
+        "finde, gebe ich dir welche ab.\r",
+        "Gib mir doch deine Telefonnummer. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0694_00005",
+      "de_DE": [
+        "Ah! Da bist du endlich!\r",
+        "Wie versprochen,\n",
+        "dein Geschenk!\r"
+      ]
+    },
+    {
+      "id": "msg_0694_00006",
+      "de_DE": [
+        "Wenn du schon quasi um die Ecke stehst,\n",
+        "können wir ja wohl persönlich reden!"
+      ]
+    },
+    {
+      "id": "msg_0694_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist schon wieder\n",
+        "gewachsen.\r",
+        "Es war ja schon groß, als ich es fing,\n",
+        "aber jetzt ist es noch größer.\r",
+        "Oh ja, und ich habe ein\n",
+        "wildes {STRVAR_1 0, 11, 0} besiegt.\f",
+        "Es war riesig, ungefähr sooo groß!\r",
+        "Nun, ich glaube, man kann das am\n",
+        "Telefon nicht beschreiben...\f",
+        "Bis demnächst dann!"
+      ]
+    },
+    {
+      "id": "msg_0694_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} ist schon wieder\n",
+        "gewachsen.\r",
+        "Es war ja schon groß, als ich es fing,\n",
+        "aber jetzt ist es noch größer.\r",
+        "Oh ja, und ich habe gegen ein wildes\n",
+        "{STRVAR_1 0, 11, 0} verloren.\f",
+        "Es war riesig, ungefähr sooo groß!\r",
+        "Nun, ich glaube, man kann das am\n",
+        "Telefon nicht beschreiben...\f",
+        "Bis demnächst dann!"
+      ]
+    },
+    {
+      "id": "msg_0694_00009",
+      "de_DE": [
+        "Wir sollten endlich kämpfen!\r",
+        "Ich angele hier: {STRVAR_1 4, 3, 0}.\n",
+        "Schau mal vorbei, wenn du Zeit hast."
+      ]
+    },
+    {
+      "id": "msg_0694_00010",
+      "de_DE": [
+        "Was ist los? Hast du dich verirrt?\n",
+        "Wir kämpfen hier: {STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0694_00011",
+      "de_DE": [
+        "Ob ich etwas Gutes gefunden habe?\n",
+        "Nö, noch nicht.\r",
+        "Es ist wie beim Angeln, du brauchst\n",
+        "Geduld."
+      ]
+    },
+    {
+      "id": "msg_0694_00012",
+      "de_DE": [
+        "Ich habe da etwas Kleines\n",
+        "am Ufer gefunden.\r",
+        "Wie versprochen, es gehört dir!\n",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}."
+      ]
+    },
+    {
+      "id": "msg_0694_00013",
+      "de_DE": [
+        "Ich habe etwas Tolles für dich.\n",
+        "Ich bin hier: {STRVAR_1 4, 3, 0}."
+      ]
+    }
+  ]
+}

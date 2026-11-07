@@ -1,0 +1,410 @@
+{
+  "key": 47427,
+  "messages": [
+    {
+      "id": "msg_0032_00000",
+      "de_DE": [
+        "Willkommen im Kampfpalais.\n",
+        "Mein Name ist Perenus.\r",
+        "Ich handele im Auftrag der Dame\n",
+        "Kattlea, der Besitzerin des Palais.\r",
+        "Zuerst muss ich dich um alle Items\n",
+        "bitten, die deine Pokémon halten.\r",
+        "Du bekommst sie beim Verlassen\n",
+        "des Palais zurück.\r",
+        "Dann habe ich hier 10 Palaispunkte, \n",
+        "PP genannt.\f",
+        "Sie sind nur hier einsetzbar.\r",
+        "Hier, bitte. Sie gehören dir.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00001",
+      "de_DE": [
+        "Willkommen.\r",
+        "{STRVAR_1 3, 0, 0}, die getragenen Items\n",
+        "deiner Pokémon sind abzugeben.\r",
+        "Du bekommst sie zurück, wenn\n",
+        "du das Palais wieder verlässt.\r",
+        "Ich habe auch noch 10 Palaispunkte, PP,\n",
+        "für dich, die nur hier einsetzbar sind.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00002",
+      "de_DE": "Bitte warte einen Moment."
+    },
+    {
+      "id": "msg_0032_00003",
+      "de_DE": [
+        "Nun gut.\n",
+        "Bitte weitergehen."
+      ]
+    },
+    {
+      "id": "msg_0032_00004",
+      "de_DE": [
+        "Deine kampfunfähigen Pokémon\n",
+        "werden wiederbelebt.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00005",
+      "de_DE": [
+        "Als Nächstes folgt Kampf Nr. {STRVAR_1 53, 0, 0}.\n",
+        "Du bist doch bereit, oder?"
+      ]
+    },
+    {
+      "id": "msg_0032_00006",
+      "de_DE": [
+        "Würdest du gern den letzten Kampf\n",
+        "als dein Kampfvideo speichern?"
+      ]
+    },
+    {
+      "id": "msg_0032_00007",
+      "de_DE": [
+        "Kampf von {STRVAR_1 3, 0, 0} wurde als\n",
+        "Kampfvideo gespeichert.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00008",
+      "de_DE": [
+        "Es ist ein Fehler aufgetreten. Kampf-\n",
+        "video konnte nicht gespeichert werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00009",
+      "de_DE": [
+        "Existierendes Kampfvideo löschen\n",
+        "und den letzten Kampf speichern?"
+      ]
+    },
+    {
+      "id": "msg_0032_00010",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0032_00011",
+      "de_DE": [
+        "Möchtest du speichern und\n",
+        "eine Pause einlegen?"
+      ]
+    },
+    {
+      "id": "msg_0032_00012",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0032_00013",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0032_00014",
+      "de_DE": [
+        "Möchtest du dich aus dieser Kampf-\n",
+        "palais-Herausforderung zurückziehen?"
+      ]
+    },
+    {
+      "id": "msg_0032_00015",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0032_00016",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0032_00017",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} wählt gerade.\n",
+        "Bitte warten."
+      ]
+    },
+    {
+      "id": "msg_0032_00018",
+      "garbage": 20
+    },
+    {
+      "id": "msg_0032_00019",
+      "de_DE": "{STRVAR_1 3, 0, 0} hat sich zurückgezogen."
+    },
+    {
+      "id": "msg_0032_00020",
+      "de_DE": "Bitte lege fest, was du tun möchtest.\r"
+    },
+    {
+      "id": "msg_0032_00021",
+      "de_DE": [
+        "Du kannst ein Pokémon heilen\n",
+        "oder ein Item für es ausleihen."
+      ]
+    },
+    {
+      "id": "msg_0032_00022",
+      "de_DE": [
+        "Du kannst einen Blick auf die\n",
+        "Pokémon deines Gegners werfen."
+      ]
+    },
+    {
+      "id": "msg_0032_00023",
+      "de_DE": "Gegen einen Trainer kämpfen."
+    },
+    {
+      "id": "msg_0032_00024",
+      "de_DE": [
+        "Du kannst auf einen Kampf\n",
+        "mit einem Trainer verzichten."
+      ]
+    },
+    {
+      "id": "msg_0032_00025",
+      "de_DE": [
+        "Das macht {STRVAR_1 52, 0, 0} PP.\n",
+        "In Ordnung?"
+      ]
+    },
+    {
+      "id": "msg_0032_00026",
+      "garbage": 2
+    },
+    {
+      "id": "msg_0032_00027",
+      "garbage": 3
+    },
+    {
+      "id": "msg_0032_00028",
+      "de_DE": [
+        "Es tut mir sehr leid.\n",
+        "Du hast nicht genügend PP.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00029",
+      "de_DE": [
+        "Von jetzt an kannst du “VERZICHTEN”\n",
+        "wählen und so einen Kampf vermeiden.\r",
+        "Möchtest du also nicht gegen einen der\n",
+        "Trainer kämpfen, wähle “VERZICHTEN”.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00030",
+      "de_DE": [
+        "Kattlea: ...Perenus!\n",
+        "PP für diesen Trainer! Sofort!"
+      ]
+    },
+    {
+      "id": "msg_0032_00031",
+      "de_DE": [
+        "Perenus: Bravo, {STRVAR_1 3, 1, 0}!\n",
+        "Das war gewiss ein fantastischer Sieg!"
+      ]
+    },
+    {
+      "id": "msg_0032_00032",
+      "de_DE": [
+        "Perenus: Gut gemacht, {STRVAR_1 3, 1, 0}!\n",
+        "Das war ein ziemlich beachtlicher Sieg!"
+      ]
+    },
+    {
+      "id": "msg_0032_00033",
+      "de_DE": [
+        "Perenus: Klasse, {STRVAR_1 3, 1, 0}!\n",
+        "Ein hart erkämpfter Sieg, nicht wahr?"
+      ]
+    },
+    {
+      "id": "msg_0032_00034",
+      "de_DE": "Perenus: Gut gemacht, {STRVAR_1 3, 1, 0}!"
+    },
+    {
+      "id": "msg_0032_00035",
+      "de_DE": [
+        "Perenus: Bravo, {STRVAR_1 3, 1, 0}!\n",
+        "Das war gewiss ein fantastischer Sieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00036",
+      "de_DE": [
+        "Perenus: Gut gemacht, {STRVAR_1 3, 1, 0}!\n",
+        "Das war ein ziemlich beachtlicher Sieg!\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00037",
+      "de_DE": [
+        "Perenus: Klasse, {STRVAR_1 3, 1, 0}.\n",
+        "Ein hart erkämpfter Sieg, nicht wahr?\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00038",
+      "de_DE": "Perenus: Gut gemacht, {STRVAR_1 3, 1, 0}!\r"
+    },
+    {
+      "id": "msg_0032_00039",
+      "de_DE": [
+        "Lady Kattlea hat mich angewiesen,\n",
+        "dich mit {STRVAR_1 51, 0, 0} PP zu belohnen."
+      ]
+    },
+    {
+      "id": "msg_0032_00040",
+      "de_DE": [
+        "Perenus: Glückwunsch zu sieben in\n",
+        "Folge gewonnenen Kämpfen.\r",
+        "{STRVAR_1 3, 0, 0}, nimm diese GP als Lohn\n",
+        "für deine ehrbaren Anstrengungen.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00041",
+      "de_DE": "{STRVAR_1 3, 0, 0} erhielt {STRVAR_1 51, 1, 0} GP!\r"
+    },
+    {
+      "id": "msg_0032_00042",
+      "de_DE": [
+        "Alle Items, die wir für dich aufbewahrt\n",
+        "haben, werden zurückgegeben.\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00043",
+      "de_DE": [
+        "Speichervorgang...\n",
+        "Bitte das System nicht ausschalten."
+      ]
+    },
+    {
+      "id": "msg_0032_00044",
+      "de_DE": [
+        "Kattlea: ...Du verzichtest?\n",
+        "...Wie ungehobelt!"
+      ]
+    },
+    {
+      "id": "msg_0032_00045",
+      "de_DE": "FORTFAHREN"
+    },
+    {
+      "id": "msg_0032_00046",
+      "de_DE": "AUFZEICHNEN"
+    },
+    {
+      "id": "msg_0032_00047",
+      "de_DE": "AUSRUHEN"
+    },
+    {
+      "id": "msg_0032_00048",
+      "de_DE": "ZURÜCKZIEHEN"
+    },
+    {
+      "id": "msg_0032_00049",
+      "de_DE": "SELBST"
+    },
+    {
+      "id": "msg_0032_00050",
+      "de_DE": "GEGNER"
+    },
+    {
+      "id": "msg_0032_00051",
+      "de_DE": "KAMPF"
+    },
+    {
+      "id": "msg_0032_00052",
+      "de_DE": "VERZICHTEN"
+    },
+    {
+      "id": "msg_0032_00053",
+      "de_DE": [
+        "Perenus: Glückwunsch, {STRVAR_1 3, 0, 0}!\r",
+        "Deine andauernde Serie wird dir eine\n",
+        "Empfehlung einbringen.\r",
+        "Die Besitzerin dieses Palais verlangt,\n",
+        "dass du nun gegen den Kammerdiener\f",
+        "antrittst.\r",
+        "Du bist doch vorbereitet, oder?\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00054",
+      "de_DE": [
+        "Perenus: Willkommen.\r",
+        "Ich bin Perenus, wie du weißt.\n",
+        "Ich bin der Kammerdiener.\r",
+        "Für Lady Kattlea, meine Herrin, ist\n",
+        "eine Niederlage keine Option.\r",
+        "Sie kann aber aus einem nicht näher\n",
+        "ausführbaren Grund nicht antreten.\r",
+        "Daher werde ich an ihrer statt\n",
+        "kämpfen.\r",
+        "...Ich werde dich sicher nicht\n",
+        "unterfordern, so viel steht fest.\r",
+        "En garde!\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00055",
+      "de_DE": [
+        "Perenus: Dein Umgang mit Pokémon ist\n",
+        "atemberaubend.\r",
+        "{STRVAR_1 3, 0, 0}, dir gebührt meine\n",
+        "Empfehlung.\r",
+        "...Erlaube mir eine Bemerkung,\n",
+        "was deinen Kampfstil anbelangt.\r",
+        "Immerhin konnte ich dich aus\n",
+        "nächster Nähe beobachten.\r",
+        "Was ist mir also aufgefallen?\r",
+        "Es gehört sich für mich als Trainer, dir\n",
+        "das in einem Kampf zu demonstrieren.\r",
+        "Beginnen wir also!\n",
+        "En garde!\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00056",
+      "de_DE": [
+        "Perenus: {STRVAR_1 3, 0, 0}, du verfügst\n",
+        "wahrhaft über unglaublich viel Talent!\r",
+        "Ich habe all meine über Generationen\n",
+        "erworbenen Erfahrungen und Finessen\f",
+        "eingesetzt.\r",
+        "Dennoch gelang es mir nicht, mich gegen\n",
+        "deinen genialen Kampfstil zu behaupten.\r",
+        "Ich werde Lady Kattlea wegen meiner\n",
+        "Niederlage beschwichtigen müssen.\r",
+        "{STRVAR_1 3, 0, 0}, bitte komme bald wieder\n",
+        "in unser Kampfpalais.\r",
+        "Wir wären erfreut und geehrt, dich\n",
+        "wieder hier begrüßen zu dürfen!\r"
+      ]
+    },
+    {
+      "id": "msg_0032_00057",
+      "de_DE": [
+        "Perenus: Ich bin voller Demut...\r",
+        "Was ich als Schwäche begriff, war\n",
+        "nichts als eine Illusion...\r",
+        "Vielleicht hast du sie auch im Verlauf\n",
+        "unseres Kampfes korrigiert.\r",
+        "Wie auch immer, du warst wieder\n",
+        "einmal umwerfend.\r",
+        "Lady Kattlea ist offensichtlich\n",
+        "tief beeindruckt von deinem Stil.\r",
+        "Bitte komm bald wieder in unser Kampf-\n",
+        "palais, und wenn es nur ihretwillen ist!\r"
+      ]
+    }
+  ]
+}

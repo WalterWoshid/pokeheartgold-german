@@ -1,3 +1,4 @@
+#include "config.h"
 	.include "macros.inc"
 	.include "overlay_48.inc"
 	.include "global.inc"
@@ -2072,11 +2073,20 @@ ov48_02259824: ; 0x02259824
 	str r0, [r4, #0xc]
 	str r0, [r4, #0x10]
 	str r0, [r4, #0x14]
+#ifdef GERMAN
+	mov r0, #0x96
+#else
 	mov r0, #0x69
+#endif
 	lsl r0, r0, #6
 	str r0, [r4, #0x18]
+#ifdef GERMAN
+	mov r0, #0x2a
+	lsl r0, r0, #8
+#else
 	mov r0, #0x1f
 	lsl r0, r0, #0xa
+#endif
 	str r0, [r4, #0x1c]
 	str r2, [r4, #0x20]
 	mov r2, #0x51

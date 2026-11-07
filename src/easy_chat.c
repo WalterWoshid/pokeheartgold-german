@@ -67,6 +67,14 @@ static const u8 sLanguageToGreetingMap[6][2] = {
 // This is a leftover from Diamond that is linked
 // simply because the routines that use it are
 // present in source but dead-stripped at link time.
+#ifdef GERMAN
+static const ecword_t sEasyChatGerman1[] = { 0x0304, 0x03FB };
+static const ecword_t sEasyChatGerman2[] = { 0x02B9, 0x0403 };
+static const ecword_t sEasyChatGerman3[] = { 0x032C, 0x044D };
+static const ecword_t sEasyChatGerman4[] = { 0x0236, 0x0585 };
+static const ecword_t sEasyChatGerman5[] = { 0x0368, 0x0458 };
+static const ecword_t sEasyChatGerman0[] = { 0x03CB, 0x0457 };
+#else
 static const ecword_t sEasyChatHey[] = { EC_WORD_GREETINGS_HEY, EC_WORD_GREETINGS_HEY_2 };
 static const ecword_t sEasyChatHuh_[] = { EC_WORD_GREETINGS_HUH_, EC_WORD_GREETINGS_HUH__2 };
 static const ecword_t sEasyChatI[] = { EC_WORD_PEOPLE_I, EC_WORD_PEOPLE_I_2, EC_WORD_PEOPLE_I_3, EC_WORD_PEOPLE_I_4 };
@@ -79,12 +87,23 @@ static const ecword_t sEasyChatWelcome[] = { EC_WORD_GREETINGS_WELCOME, EC_WORD_
 static const ecword_t sEasyChatWow[] = { EC_WORD_GREETINGS_WOW, EC_WORD_GREETINGS_WOW_2 };
 static const ecword_t sEasyChatPsychic[] = { EC_WORD_MOVE(MOVE_PSYCHIC), EC_WORD_TYPE(TYPE_PSYCHIC) };
 static const ecword_t sEasyChatOk[] = { EC_WORD_GREETINGS_OK, EC_WORD_GREETINGS_OK_2 };
+#endif
 
 typedef struct ECIdenticalPhrases {
     const ecword_t *data;
     s32 count;
 } ECIdenticalPhrases;
 
+#ifdef GERMAN
+static const ECIdenticalPhrases sIdenticalPhrases[] = {
+    { sEasyChatGerman0, NELEMS(sEasyChatGerman0) },
+    { sEasyChatGerman1, NELEMS(sEasyChatGerman1) },
+    { sEasyChatGerman2, NELEMS(sEasyChatGerman2) },
+    { sEasyChatGerman3, NELEMS(sEasyChatGerman3) },
+    { sEasyChatGerman4, NELEMS(sEasyChatGerman4) },
+    { sEasyChatGerman5, NELEMS(sEasyChatGerman5) },
+};
+#else
 static const ECIdenticalPhrases sIdenticalPhrases[12] = {
     { sEasyChatAnticipation, NELEMS(sEasyChatAnticipation) },
     { sEasyChatHey,          NELEMS(sEasyChatHey)          },
@@ -99,6 +118,7 @@ static const ECIdenticalPhrases sIdenticalPhrases[12] = {
     { sEasyChatWow,          NELEMS(sEasyChatWow)          },
     { sEasyChatYou,          NELEMS(sEasyChatYou)          },
 };
+#endif
 
 EasyChatManager *EasyChatManager_New(enum HeapID heapID) {
     EasyChatManager *ret = Heap_Alloc(heapID, sizeof(EasyChatManager));

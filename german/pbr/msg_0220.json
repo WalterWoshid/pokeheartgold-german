@@ -1,0 +1,507 @@
+{
+  "key": 24598,
+  "messages": [
+    {
+      "id": "msg_0220_00000",
+      "de_DE": [
+        "Etwas Gewaltiges steht unmittelbar\n",
+        "bevor.\f",
+        "Vielleicht... Glaube ich... Stimmt’s?\r",
+        "Komm uns nicht in die Quere! Natürlich\n",
+        "wirst du es trotzdem tun, nicht wahr?\r",
+        "Also müssen wir beide dich vorher\n",
+        "besiegen!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00001",
+      "de_DE": [
+        "Etwas Gewaltiges steht unmittelbar\n",
+        "bevor.\f",
+        "Vielleicht... Glaube ich... Stimmt’s?\r",
+        "Komm uns nicht in die Quere! Natürlich\n",
+        "wirst du es trotzdem tun, nicht wahr?\r",
+        "Also müssen wir beide dich vorher\n",
+        "besiegen!\r",
+        "Oh, du hast nur ein einziges Pokémon?\n",
+        "Ha ha ha. Komm, verschwinde lieber!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00002",
+      "de_DE": [
+        "Mann, war das jämmerlich...\r",
+        "Wir lassen dich jetzt durch. Dann\n",
+        "können unsere Bosse dich fertigmachen!"
+      ]
+    },
+    {
+      "id": "msg_0220_00003",
+      "de_DE": [
+        "Boss: ...\r",
+        "Jetzt wird alles enden.\n",
+        "Und alles wird beginnen.\r",
+        "Mit dieser Roten Kette öffne ich das\n",
+        "Portal in eine andere Dimension.\r",
+        "Ich befehle dir, deine Macht für mich\n",
+        "zu entfesseln...\r",
+        "DIALGA, das mythische Pokémon,\n",
+        "Meister der Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00004",
+      "de_DE": [
+        "Boss: ...\r",
+        "Jetzt wird alles enden.\n",
+        "Und alles wird beginnen.\r",
+        "Mit dieser Roten Kette öffne ich das\n",
+        "Portal in eine andere Dimension.\r",
+        "Ich befehle dir, deine Macht für mich\n",
+        "zu entfesseln...\r",
+        "PALKIA, das mythische Pokémon,\n",
+        "Meister des Raumes und der Dimensionen!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00005",
+      "de_DE": [
+        "Boss: ...Die Vernichtung allen Seins\n",
+        "steht bevor.\r",
+        "Wenn alles vergangen ist, wird es keine\n",
+        "Kriege und keinen Streit mehr geben.\r",
+        "Fühlt ihr, wie sich die Zeit verzerrt?\n",
+        "Nur ich kann es jetzt noch aufhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00006",
+      "de_DE": [
+        "Boss: ...Die Vernichtung allen Seins\n",
+        "steht bevor.\r",
+        "Wenn alles vergangen ist, wird es keine\n",
+        "Kriege und keinen Streit mehr geben.\r",
+        "Fühlt ihr, wie sich der Raum verzerrt?\n",
+        "Nur ich kann es jetzt noch aufhalten.\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00007",
+      "de_DE": [
+        "Boss: Das ist das mythische Pokémon,\n",
+        "das Sinnoh erschaffen hat!\r",
+        "DIALGA, das Pokémon der Zeit!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00008",
+      "de_DE": [
+        "Boss: Das ist das mythische Pokémon,\n",
+        "das Sinnoh erschaffen hat!\r",
+        "PALKIA, das Pokémon des Raumes und\n",
+        "der Dimensionen!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00009",
+      "de_DE": "DIALGA: Gugyugubah!\r"
+    },
+    {
+      "id": "msg_0220_00010",
+      "de_DE": "PALKIA: Gagyagyaah!\r"
+    },
+    {
+      "id": "msg_0220_00011",
+      "de_DE": [
+        "Boss: Diese Welt kann nicht mehr\n",
+        "umgeformt werden in das, was ich will!\r",
+        "Eine neue Welt zu erschaffen ist viel\n",
+        "leichter, als die alte zu verändern!\r",
+        "Eine neue Welt, in der ich alleiniger\n",
+        "Herrscher bin! Ich werde eine Gottheit!"
+      ]
+    },
+    {
+      "id": "msg_0220_00012",
+      "de_DE": [
+        "Mars: Nur keine Eile.\r",
+        "Ich verstehe ja, dass du unseren Boss\n",
+        "herausfordern willst, aber erst mal\f",
+        "musst du an mir vorbei.\r",
+        "Immerhin hast du mich schon einige Male\n",
+        "ziemlich bloßgestellt!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00013",
+      "de_DE": [
+        "Jupiter: Und ich bin die Nächste.\r",
+        "Egal, wie zäh du bist - diesmal ziehe\n",
+        "ich die Samthandschuhe aus!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00014",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Augenblick mal!\r",
+        "Ohne mich findet hier keine Party statt.\n",
+        "Klar?\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00015",
+      "de_DE": [
+        "Jupiter: Hmpf!\r",
+        "Ist das nicht der Kleine, der noch am\n",
+        "See der Stärke weinend weggerannt ist?\r",
+        "Na, inzwischen stärker geworden?\n",
+        "Wir schlagen euch zwei gegen zwei!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00016",
+      "de_DE": [
+        "Mars: Oh nein! Jetzt gibt es kein\n",
+        "Entkommen mehr!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00017",
+      "de_DE": [
+        "Mars: Na, Heißsporn?\n",
+        "Wie sieht’s aus?"
+      ]
+    },
+    {
+      "id": "msg_0220_00018",
+      "de_DE": [
+        "Jupiter: Jetzt kriegt ihr Angst, hm?\r",
+        "Jetzt wird euch klar, dass ihr den Boss\n",
+        "niemals besiegen könnt!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00019",
+      "de_DE": [
+        "Jupiter: Na, was ist denn los?\n",
+        "Schlottern dir etwa schon die Knie?"
+      ]
+    },
+    {
+      "id": "msg_0220_00020",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: ...He.\n",
+        "Meine Pokémon sind zäh, stimmt’s?\f",
+        "Ich bin sogar noch zäher!\r",
+        "...Aber ich fürchte, das war’s für uns.\n",
+        "Es gibt kein Zurück mehr...\r",
+        "{STRVAR_1 3, 1}, ich helfe dir!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00021",
+      "de_DE": [
+        "{STRVAR_1 3, 0} heilte alle Pokémon von\n",
+        "{STRVAR_1 3, 1} vollständig!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00022",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, {STRVAR_1 3, 1}!\n",
+        "Es ist so weit! Es liegt in deiner Hand!"
+      ]
+    },
+    {
+      "id": "msg_0220_00023",
+      "de_DE": [
+        "Boss: Oh! DIALGA...\n",
+        "Das ist...\r",
+        "Fantastisch!\n",
+        "Überwältigend!\r",
+        "Die Erschaffung einer neuen Galaxie!\n",
+        "Meine neue Welt!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00024",
+      "de_DE": [
+        "Boss: Oh! PALKIA...\n",
+        "Das ist...\r",
+        "Fantastisch!\n",
+        "Überwältigend!\r",
+        "Die Erschaffung einer neuen Galaxie!\n",
+        "Meine neue Welt!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00025",
+      "de_DE": "Boss: ...W-was?!?\r"
+    },
+    {
+      "id": "msg_0220_00026",
+      "de_DE": "SELFE: Piiih!\r"
+    },
+    {
+      "id": "msg_0220_00027",
+      "de_DE": "VESPRIT: Piiih!\r"
+    },
+    {
+      "id": "msg_0220_00028",
+      "de_DE": "TOBUTZ: Piiih!\r"
+    },
+    {
+      "id": "msg_0220_00029",
+      "de_DE": [
+        "Boss: ...!\r",
+        "Die Rote Kette!\n",
+        "Sie hat sich in Nichts aufgelöst?!?\r",
+        "Wie konnte das passieren?\r",
+        "Wieso erscheint VESPRIT, das Pokémon\n",
+        "vom See der Wahrheit, neben dir?\r",
+        "Egal! Völlig egal!\n",
+        "Es ist alles zu spät!\f",
+        "Meine Galaxie ist zerstört!\r",
+        "...Das lasse ich nicht zu...\r",
+        "Ich werde die drei wieder einfangen und\n",
+        "eine neue Rote Kette schmieden!\r",
+        "Und vorher werde ich dich\n",
+        "zerschmettern!"
+      ]
+    },
+    {
+      "id": "msg_0220_00030",
+      "de_DE": [
+        "Boss: ...!\r",
+        "Was ist für dich das Ultimative?\n",
+        "Was bedeutet für dich Perfektion?\r",
+        "Das Wichtigste...\n",
+        "Das, was am hellsten strahlt...\r",
+        "...Es ist nutzlos, dich zu fragen.\n",
+        "Aber ich werde nicht aufgeben.\r",
+        "Eines Tages werde ich eine\n",
+        "Gottheit sein...\r",
+        "Und das Ultimative wird mein sein..."
+      ]
+    },
+    {
+      "id": "msg_0220_00031",
+      "de_DE": [
+        "Boss: ...!\r",
+        "Was ist für dich das Ultimative?\n",
+        "Was bedeutet für dich Perfektion?\r",
+        "Das Wichtigste...\n",
+        "Freude, die am hellsten strahlt...\r",
+        "...Es ist nutzlos, dich zu fragen.\n",
+        "Aber ich werde nicht aufgeben.\r",
+        "Eines Tages werde ich eine\n",
+        "Gottheit sein...\r",
+        "Und das Ultimative wird mein sein..."
+      ]
+    },
+    {
+      "id": "msg_0220_00032",
+      "de_DE": "DIALGA: Gugyugubah!"
+    },
+    {
+      "id": "msg_0220_00033",
+      "de_DE": "PALKIA: Gagyagyaah!"
+    },
+    {
+      "id": "msg_0220_00034",
+      "de_DE": [
+        "DIALGA kehrte in seine eigene Welt\n",
+        "zurück..."
+      ]
+    },
+    {
+      "id": "msg_0220_00035",
+      "de_DE": [
+        "PALKIA kehrte in seine eigene Welt\n",
+        "zurück..."
+      ]
+    },
+    {
+      "id": "msg_0220_00036",
+      "de_DE": [
+        "Eibe: DIALGA, der Meister der Zeit...\r",
+        "Niemand weiß, ob es wütend oder\n",
+        "traurig ist...\r",
+        "Aber mir scheint, dass DIALGA auf\n",
+        "dich wartet, {STRVAR_1 3, 0}...\r",
+        "Es will dich zu einer Prüfung\n",
+        "herausfordern...\r",
+        "Geh schon, {STRVAR_1 3, 0}.\n",
+        "Stelle dich DIALGA!\r",
+        "Lausche seinem Herzen.\n",
+        "Begreife seine Gedanken.\r",
+        "DIALGA ist außer Kontrolle, weil\n",
+        "die Rote Kette es beherrschte\f",
+        "und ihm Leid zufügte.\r",
+        "DIALGA hat die Hoffnung, dass\n",
+        "du es aufhalten kannst..."
+      ]
+    },
+    {
+      "id": "msg_0220_00037",
+      "de_DE": [
+        "Eibe: PALKIA, der Meister des\n",
+        "Raumes und der Dimensionen...\r",
+        "Niemand weiß, ob es wütend oder\n",
+        "traurig ist...\r",
+        "Aber mir scheint, dass PALKIA auf\n",
+        "dich wartet, {STRVAR_1 3, 0}...\r",
+        "Es will dich zu einer Prüfung\n",
+        "herausfordern...\r",
+        "Gehe hin, {STRVAR_1 3, 0}.\n",
+        "Stelle dich PALKIA!\r",
+        "Lausche seinem Herzen.\n",
+        "Begreife seine Gedanken.\r",
+        "PALKIA ist außer Kontrolle, weil\n",
+        "die Rote Kette es beherrschte\f",
+        "und ihm Leid zufügte.\r",
+        "PALKIA hat die Hoffnung, dass\n",
+        "du es aufhalten kannst..."
+      ]
+    },
+    {
+      "id": "msg_0220_00038",
+      "de_DE": [
+        "Eibe: Gehe hin, {STRVAR_1 3, 0}.\n",
+        "Stelle dich dem Pokémon!\r",
+        "Lausche seinem Herzen.\n",
+        "Begreife seine Gedanken.\r",
+        "Das mythische Pokémon hat die Hoffnung,\n",
+        "dass du es aufhalten kannst...\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00039",
+      "de_DE": [
+        "Lucia: {STRVAR_1 3, 0}... Neulich bin ich\n",
+        "{STRVAR_1 3, 1} begegnet.\r",
+        "Er sagte, dass er an dich glaubt,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Wenn jemand diese Aufgabe bewältigen\n",
+        "kann, dann du.\r",
+        "Und auch ich glaube an dich.\r",
+        "Bitte hilf diesem Pokémon!\r",
+        "Es leidet unter dem, was Team\n",
+        "Galaktik ihm angetan hat!"
+      ]
+    },
+    {
+      "id": "msg_0220_00040",
+      "de_DE": [
+        "Lucius: {STRVAR_1 3, 0}... Neulich bin ich\n",
+        "{STRVAR_1 3, 1} begegnet.\r",
+        "Er sagte, dass er an dich glaubt,\n",
+        "{STRVAR_1 3, 0}.\r",
+        "Wenn jemand diese Aufgabe bewältigen\n",
+        "kann, dann du.\r",
+        "Und er hat recht.\r",
+        "Du musst diesem Pokémon helfen!\r",
+        "Es leidet unter dem, was Team\n",
+        "Galaktik ihm angetan hat!"
+      ]
+    },
+    {
+      "id": "msg_0220_00041",
+      "de_DE": [
+        "Eibe: {STRVAR_1 3, 1}!\n",
+        "Ich weiß nicht, wie...\r",
+        "Du warst hervorragend.\n",
+        "Wirklich, absolut unglaublich.\r",
+        "Ich bin jetzt 60 Jahre alt, aber so\n",
+        "aufgeregt war ich noch nie!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00042",
+      "de_DE": [
+        "Lucia: Seit dem letzten Mal hat der\n",
+        "Professor viel geforscht...\r",
+        "Er hat sich Sorgen um dich gemacht,\n",
+        "{STRVAR_1 3, 1}, und kam extra deinet-\f",
+        "wegen an so einen gefährlichen Ort...\r",
+        "{STRVAR_1 3, 1}, ich bin so froh, dass es\n",
+        "dir gut geht.\r",
+        "Komm, lass uns nach Hause gehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00043",
+      "de_DE": [
+        "Lucius: Seit dem letzten Mal hat der\n",
+        "Professor viel geforscht...\r",
+        "Er hat sich Sorgen um dich gemacht,\n",
+        "{STRVAR_1 3, 1}, und kam extra deinet-\f",
+        "wegen an so einen gefährlichen Ort...\r",
+        "{STRVAR_1 3, 1}, ich bin so froh, dass es\n",
+        "dir gut geht.\r",
+        "Komm, lass uns nach Hause gehen!\r"
+      ]
+    },
+    {
+      "id": "msg_0220_00044",
+      "de_DE": [
+        "Eibe: Niemand hat das Recht, die Zukunft\n",
+        "von jemand anderem oder gar einer\f",
+        "ganzen Welt zu bestimmen..."
+      ]
+    },
+    {
+      "id": "msg_0220_00045",
+      "de_DE": [
+        "Eibe: {STRVAR_1 3, 0}, ich freue mich\n",
+        "schon, deinen Pokédex zu sehen.\r",
+        "Gehe an Orte, an denen du noch\n",
+        "nie warst.\r",
+        "So solltest du Pokémon begegnen,\n",
+        "die du noch nie gesehen hast."
+      ]
+    },
+    {
+      "id": "msg_0220_00046",
+      "de_DE": [
+        "Lucia: ...Dieses Pokémon war etwas ganz\n",
+        "Besonderes, findest du nicht?\r",
+        "War das wirklich das Pokémon, das\n",
+        "ganz Sinnoh geschaffen hat?"
+      ]
+    },
+    {
+      "id": "msg_0220_00047",
+      "de_DE": [
+        "Lucius: ...Dieses Pokémon war etwas\n",
+        "ganz Besonderes, findest du nicht?\r",
+        "War das wirklich das Pokémon, das\n",
+        "ganz Sinnoh geschaffen hat?"
+      ]
+    },
+    {
+      "id": "msg_0220_00048",
+      "de_DE": [
+        "Die Azurflöte von {STRVAR_1 3, 0} macht\n",
+        "ein merkwürdiges Geräusch.\r",
+        "Möchtest du die Azurflöte spielen?"
+      ]
+    },
+    {
+      "id": "msg_0220_00049",
+      "de_DE": "{STRVAR_1 3, 0} spielt die Azurflöte.\r"
+    },
+    {
+      "id": "msg_0220_00050",
+      "de_DE": "Eine Treppe aus Licht erscheint!"
+    },
+    {
+      "id": "msg_0220_00051",
+      "de_DE": [
+        "Die Töne der Azurflöte verhallen hohl\n",
+        "und ungehört...\r",
+        "Sie scheint hier nutzlos zu sein..."
+      ]
+    }
+  ]
+}

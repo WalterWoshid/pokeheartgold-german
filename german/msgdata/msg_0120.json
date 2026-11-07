@@ -1,0 +1,42 @@
+{
+  "key": 17522,
+  "messages": [
+    {
+      "id": "msg_0120_00000",
+      "de_DE": [
+        "Intendant: W-wer bist du?\n",
+        "Was, du bist hier, um mich zu retten?\f",
+        "Vielen, vielen Dank!\r",
+        "A-aber sag mal...\n",
+        "was ist da im Radioturm bloß los?\r",
+        "Was? Dort wimmelt es nur so vor\n",
+        "Team Rocket-Mitgliedern? Na gut!\f",
+        "Hier, nimm diesen Türöffner!\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00001",
+      "garbage": 19
+    },
+    {
+      "id": "msg_0120_00002",
+      "de_DE": [
+        "Intendant: Damit solltest du die Tür\n",
+        "im zweiten Stock aufbekommen!\r"
+      ]
+    },
+    {
+      "id": "msg_0120_00003",
+      "de_DE": [
+        "Bitte! Du weißt ja nicht, zu was sie mit\n",
+        "dem Sender in ihrer Gewalt fähig sind!\r",
+        "Wenn sie mit diesem seltsamen Signal\n",
+        "auf Sendung gehen, könnten sie sogar\f",
+        "Besitz von den Pokémon ergreifen!\r",
+        "Du bist unsere letzte Hoffnung!\n",
+        "Du musst den Radioturm...\f",
+        "nein, alle Pokémon dieser Welt retten!"
+      ]
+    }
+  ]
+}

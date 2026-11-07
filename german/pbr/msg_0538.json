@@ -1,0 +1,26 @@
+{
+  "key": 21534,
+  "messages": [
+    {
+      "id": "msg_0538_00000",
+      "de_DE": [
+        "Es gibt eine Attacke, deren\n",
+        "Wirkung sich verdoppelt.\r",
+        "Sie muss von einem Pokémon angewendet\n",
+        "werden, das vergiftet, paralysiert\f",
+        "oder verbrannt wurde.\r",
+        "Die Technische Maschine für diese\n",
+        "Attacke habe ich hier. Möchtest du sie?\r"
+      ]
+    },
+    {
+      "id": "msg_0538_00001",
+      "de_DE": [
+        "Fassade ist generell ein guter\n",
+        "Angriff für ein Pokémon.\r",
+        "Der Gegner kann da nur schwer Attacken\n",
+        "anwenden, die den Status beeinflussen."
+      ]
+    }
+  ]
+}

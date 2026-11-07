@@ -1,0 +1,93 @@
+{
+  "key": 28307,
+  "messages": [
+    {
+      "id": "msg_0607_00000",
+      "de_DE": [
+        "Pokémon werden immer zutraulicher,\n",
+        "wenn du viel Zeit mit ihnen verbringst."
+      ]
+    },
+    {
+      "id": "msg_0607_00001",
+      "de_DE": [
+        "Bei Nacht erhellen sie für uns das\n",
+        "Meer mit ihrem hellen Licht und führen\f",
+        "uns sicher zum Hafen.\r",
+        "Haben wir kein Schiff, lassen sie uns\n",
+        "auf ihren Rücken klettern und tragen\f",
+        "uns bis ans andere Ende des Ozeans.\r",
+        "Die Pokémon erleichtern uns Menschen\n",
+        "auf so viele Arten das Leben...\r",
+        "Ein Leben ohne sie könnte ich mir\n",
+        "einfach nicht vorstellen."
+      ]
+    },
+    {
+      "id": "msg_0607_00002",
+      "de_DE": [
+        "In Anemonia City auf der anderen\n",
+        "Seite des Ozeans soll es jemanden\f",
+        "geben, der immer mit seinen\f",
+        "seltenen Pokémon angibt."
+      ]
+    },
+    {
+      "id": "msg_0607_00003",
+      "de_DE": [
+        "...In Ordnung! Das wär’s!\n",
+        "Wenn die Leute das sehen, gehen ihnen\f",
+        "vor Staunen bestimmt die Augen über!\r"
+      ]
+    },
+    {
+      "id": "msg_0607_00004",
+      "de_DE": [
+        "Was gibt es? Bist du ein Trainer?\r",
+        "Du kommst genau richtig!\n",
+        "Ich bin gerade mit der Verzierung\f",
+        "einer Ballkapsel fertig geworden!\r",
+        "Würdest du gegen mich kämpfen\n",
+        "und mir dann sagen, wie dir das\f",
+        "Resultat gefällt? {YESNO 0}\n"
+      ]
+    },
+    {
+      "id": "msg_0607_00005",
+      "de_DE": "Hehe, sehr schön! Na gut, dann mal los!\r"
+    },
+    {
+      "id": "msg_0607_00006",
+      "de_DE": [
+        "Wenn du im Besitz von Stickern bist,\n",
+        "kannst du dir am PC eine Ballkapsel\f",
+        "zusammenschustern.\r",
+        "Wäre es nicht toll, einen vollkommen\n",
+        "selbstgemachten Pokéball zu haben?\r",
+        "Versuch es doch auch mal!\r",
+        "Oh, und vergiss nicht! Wenn du mit\n",
+        "einer Ballkapsel fertig bist, musst du\f",
+        "sie noch anbringen, bevor du sie\f",
+        "anwenden kannst!"
+      ]
+    },
+    {
+      "id": "msg_0607_00007",
+      "de_DE": [
+        "Oh, wirklich nicht?\r",
+        "Wenn du doch Lust kriegen solltest,\n",
+        "meine Ballkapsel zu sehen, dann schau\f",
+        "einfach jederzeit wieder hier vorbei!"
+      ]
+    },
+    {
+      "id": "msg_0607_00008",
+      "de_DE": [
+        "Hast du doch Lust bekommen, einen\n",
+        "Blick auf meine Ballkapsel zu werfen?\r",
+        "Ich würde gerne deine Meinung zu\n",
+        "ihr hören. Lass uns also kämpfen! {YESNO 0}"
+      ]
+    }
+  ]
+}

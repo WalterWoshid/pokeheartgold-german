@@ -1,0 +1,73 @@
+{
+  "key": 39401,
+  "messages": [
+    {
+      "id": "msg_0567_00000",
+      "de_DE": [
+        "Kai: Mein Name ist Kai! Wenn es um\n",
+        "Pokémon geht, macht mir keiner was vor!\r",
+        "Irgendwann werde ich mal ein berühmter\n",
+        "Wissenschaftler auf dem Gebiet der\f",
+        "Käfer-Pokémon!\r",
+        "Lass mich dir eine Kostprobe meiner\n",
+        "Forschungsergebnisse geben!\r"
+      ]
+    },
+    {
+      "id": "msg_0567_00001",
+      "de_DE": [
+        "Kai: Wow, das war unglaublich! Du weißt\n",
+        "wirklich gut über Pokémon Bescheid!\r",
+        "Mannomann... Wie’s aussieht, habe ich\n",
+        "noch sehr viel zu lernen!\r",
+        "Aber gut, jetzt erst mal weiter im Text!\n",
+        "Hier hast du deinen Orden!\r"
+      ]
+    },
+    {
+      "id": "msg_0567_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält den\n",
+        "Insektorden!"
+      ]
+    },
+    {
+      "id": "msg_0567_00003",
+      "de_DE": [
+        "Kai: Weißt du schon, welche Vorzüge du\n",
+        "mit dem Insektorden genießt?\r",
+        "Mit ihm gehorchen dir alle Pokémon bis\n",
+        "zu einem Level von 30!\r",
+        "Dazu ist es Pokémon, die mit der\n",
+        "Attacke Zerschneider vertraut sind,\f",
+        "nun möglich, diese jetzt auch außerhalb\f",
+        "von Kämpfen zum Einsatz zu bringen!\r",
+        "Oh, und das hier sollst du auch haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0567_00004",
+      "garbage": 27
+    },
+    {
+      "id": "msg_0567_00005",
+      "de_DE": [
+        "Kai: Die TM89 enthält Kehrtwende!\r",
+        "Setzt ein Pokémon diese Attacke im\n",
+        "Kampf ein, wird es mit einem anderen\f",
+        "aus deinem Team ausgetauscht!\r",
+        "Ist das nicht toll?"
+      ]
+    },
+    {
+      "id": "msg_0567_00006",
+      "de_DE": [
+        "Kai: Käfer-Pokémon sind ein weites Feld.\n",
+        "Es gibt noch jede Menge zu erforschen.\r",
+        "Wenn es für dich auch einen Typ Pokémon\n",
+        "gibt, den du besonders gerne magst,\f",
+        "solltest du ihn gründlichst studieren!"
+      ]
+    }
+  ]
+}

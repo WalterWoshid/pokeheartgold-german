@@ -1,0 +1,56 @@
+{
+  "key": 57073,
+  "messages": [
+    {
+      "id": "msg_0411_00000",
+      "de_DE": "Passwort mit Buena"
+    },
+    {
+      "id": "msg_0411_00001",
+      "de_DE": "Buena"
+    },
+    {
+      "id": "msg_0411_00002",
+      "de_DE": [
+        "Eine Stunde Hörspiel und Dokumentation!\n",
+        "Hier kommt jeder auf seine Kosten!"
+      ]
+    },
+    {
+      "id": "msg_0411_00003",
+      "de_DE": [
+        "Herzzerreißendes, Komisches und mehr -\n",
+        "nur hier auf eurem Lieblingskanaaal!"
+      ]
+    },
+    {
+      "id": "msg_0411_00004",
+      "de_DE": [
+        "Buena: So, meine lieben Zuhörer, hier ist\n",
+        "wieder eure Buena!\n",
+        "Das heutige Passwort lautet...\n",
+        "{STRVAR_34 18, 0, 0}!\n",
+        "Und wehe, ihr vergesst es!\n",
+        "Ich warte auf euch im Radioturm von\n",
+        "Dukatia City. Kommt bitte zahlreich!"
+      ]
+    },
+    {
+      "id": "msg_0411_00005",
+      "de_DE": [
+        "Buena: Hallo, ihr Lieben. Hier ist wieder\n",
+        "eure Buena!\n",
+        "Habt ihr denn auch alle eure Blaue Karte?\n",
+        "Wenn ja, dann schaut bei mir im ersten\n",
+        "Stock des Radioturms von Dukatia City\n",
+        "vorbei und sagt mir das Passwort\n",
+        "aus der Sendung. Liegt ihr\n",
+        "richtig, dann gibt es Punkte auf eure\n",
+        "Blaue Karte! Wenn ihr fleißig Punkte\n",
+        "sammelt, könnt ihr ganz tolle\n",
+        "Preise bekommen! Na, worauf wartet ihr?\n",
+        "Nichts wie los!!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "key": 58463,
+  "messages": [
+    {
+      "id": "msg_0261_00000",
+      "de_DE": [
+        "Der Fernseher wirkt gruselig...\n",
+        "Er scheint einen anzustarren..."
+      ]
+    },
+    {
+      "id": "msg_0261_00001",
+      "de_DE": [
+        "Innen im Fernseher...\n",
+        "Da scheint ein Pokémon drin zu sein!\r",
+        "Das Pokémon würde anscheinend gerne\n",
+        "herauskommen. Am Fernseher wackeln?"
+      ]
+    },
+    {
+      "id": "msg_0261_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0} hat am\n",
+        "Fernseher gewackelt!\r"
+      ]
+    },
+    {
+      "id": "msg_0261_00003",
+      "de_DE": "ROTOM verschwand im Fernseher..."
+    }
+  ]
+}

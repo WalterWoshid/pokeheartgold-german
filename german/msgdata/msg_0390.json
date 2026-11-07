@@ -1,0 +1,191 @@
+{
+  "key": 19207,
+  "messages": [
+    {
+      "id": "msg_0390_00000",
+      "de_DE": [
+        "Da ist ein merkwürdiger Baum!\n",
+        "Setzt du die Schiggykanne ein? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0390_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} setzt die\n",
+        "Schiggykanne ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0390_00002",
+      "de_DE": [
+        "Der merkwürdige Baum krümmt sich unter\n",
+        "dem Wasser aus der Schiggykanne!\r",
+        "Er greift dich an!\r"
+      ]
+    },
+    {
+      "id": "msg_0390_00003",
+      "de_DE": [
+        "Tag, Kumpel!\r",
+        "Kennst du das, wenn du irgendwo durch\n",
+        "willst, aber so ein fetter Stein macht\f",
+        "dir einen Strich durch die Rechnung?\r",
+        "Na klar kennst du das!\n",
+        "Dann schau mal her, ich habe hier genau\f",
+        "die richtige VM für dich, Kumpel!\r"
+      ]
+    },
+    {
+      "id": "msg_0390_00004",
+      "de_DE": [
+        "Du hast also den Baum, der den Weg\n",
+        "blockiert hat, aus dem Weg geräumt?\r",
+        "Danke, Kumpel! Hier, nimm das!\r"
+      ]
+    },
+    {
+      "id": "msg_0390_00005",
+      "de_DE": [
+        "Darin befindet sich Zertrümmerer!\r",
+        "Solange du den Orden aus der Arena\n",
+        "von Viola City hast, kriegst du damit\f",
+        "jeden bröckligen Felsen klein!\r",
+        "Aber die Sache hat einen Haken!\r",
+        "Wenn du die Attacke aus dieser VM\n",
+        "einem Pokémon beibringst, vergisst\f",
+        "es sie so schnell nicht wieder!\r",
+        "Überlege dir also besser zweimal,\n",
+        "welches Pokémon sie lernen soll, Kumpel!"
+      ]
+    },
+    {
+      "id": "msg_0390_00006",
+      "de_DE": "Du hast nicht genug Stauraum, Kumpel!"
+    },
+    {
+      "id": "msg_0390_00007",
+      "de_DE": [
+        "Nur wegen dieses merkwürdigen Baums\n",
+        "kann ich nicht nach Teak City.\f",
+        "Warum unternimmt denn niemand etwas?"
+      ]
+    },
+    {
+      "id": "msg_0390_00008",
+      "de_DE": [
+        "Der merkwürdige Baum ist wie vom\n",
+        "Erdboden verschluckt...\f",
+        "Was? Das war ein Pokémon?\r",
+        "Na ja, wenigstens kommt man jetzt\n",
+        "wieder leichter nach Teak City.\r",
+        "Du erreichst die Stadt, wenn du von\n",
+        "der Stelle, wo dieser merkwürdige\f",
+        "Baum den Weg versperrt hat, nach\f",
+        "Norden läufst."
+      ]
+    },
+    {
+      "id": "msg_0390_00009",
+      "de_DE": [
+        "Route 36\n",
+        "Nördlich nach Teak City"
+      ]
+    },
+    {
+      "id": "msg_0390_00010",
+      "de_DE": [
+        "Alph-Ruinen\n",
+        "Nordeingang"
+      ]
+    },
+    {
+      "id": "msg_0390_00011",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Selbst Pokémon vom gleichen Typ haben\n",
+        "immer ganz unterschiedliche Stärken.\r",
+        "Sie fangen alle in etwa mit den gleichen\n",
+        "Voraussetzungen an, aber mit ein wenig\f",
+        "Training zeigen sich große Unterschiede."
+      ]
+    },
+    {
+      "id": "msg_0390_00012",
+      "de_DE": [
+        "Tipps für Trainer\r",
+        "Die Attacke Schaufler bringt dich in\n",
+        "Sekundenschnelle zurück zum Eingang.\r",
+        "Wenn du eine Höhle erkundest, kann es\n",
+        "sehr praktisch sein, ein Pokémon dabei\f",
+        "zu haben, das diese Attacke kennt."
+      ]
+    },
+    {
+      "id": "msg_0390_00013",
+      "de_DE": [
+        "Ich bin Flora vom Blumenladen!\r",
+        "Ich muss dir was erzählen!\n",
+        "Als ich ein bisschen Wasser auf diesen\f",
+        "wandelnden Baum geschüttet habe,\f",
+        "ist er vor Schrecken zusammengezuckt!\f",
+        "Das ist bestimmt irgendein Pokémon!\r",
+        "Wenn du noch mehr Wasser darüber\n",
+        "kippst, zeigt es dir bestimmt auch seine\f",
+        "wahre Gestalt!"
+      ]
+    },
+    {
+      "id": "msg_0390_00014",
+      "de_DE": [
+        "Ich bin Flora vom Blumenladen!\r",
+        "Ich muss dir was erzählen!\n",
+        "Als ich ein bisschen Wasser auf diesen\f",
+        "wandelnden Baum geschüttet habe,\f",
+        "ist er vor Schrecken zusammengezuckt!\f",
+        "Das ist bestimmt irgendein Pokémon!\r",
+        "Wenn du noch mehr Wasser darüber\n",
+        "kippst, zeigt es dir bestimmt auch seine\f",
+        "wahre Gestalt!\r",
+        "Na los, schütte ihm mehr Wasser über\n",
+        "die Mütze! Mach schon, mach schon!"
+      ]
+    },
+    {
+      "id": "msg_0390_00015",
+      "de_DE": [
+        "Haha, das war vielleicht ein Spaß!\r",
+        "Hier, das ist ein Dankeschön dafür,\n",
+        "dass du mich so gut unterhalten hast!\r"
+      ]
+    },
+    {
+      "id": "msg_0390_00016",
+      "de_DE": [
+        "Mit dem Pflanzset ist es ein Kinderspiel,\n",
+        "Beeren aus allen Regionen anzupflanzen!\r"
+      ]
+    },
+    {
+      "id": "msg_0390_00017",
+      "de_DE": [
+        "Ach ja, richtig. Hier, ich gebe dir\n",
+        "noch ein paar Beeren dazu!\r",
+        "Mit dem Pflanzset alleine würdest\n",
+        "du nicht sehr weit kommen.\r"
+      ]
+    },
+    {
+      "id": "msg_0390_00018",
+      "de_DE": [
+        "Wenn aus diesen Beeren etwas wachsen\n",
+        "soll, musst du sie in den Erdboden\f",
+        "einpflanzen und gelegentlich wässern.\r",
+        "Alles klar! Ich werde morgen nach\n",
+        "Dukatia City zurückkehren.\f",
+        "Und du? Willst du nach Teak City gehen?\f",
+        "Dann musst du von hier aus nach Norden.\r",
+        "Also dann, bis irgendwann mal!\r"
+      ]
+    }
+  ]
+}

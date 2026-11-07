@@ -1,0 +1,115 @@
+{
+  "key": 12505,
+  "messages": [
+    {
+      "id": "msg_0715_00000",
+      "de_DE": "Monika"
+    },
+    {
+      "id": "msg_0715_00001",
+      "de_DE": [
+        "Hmmm... du willst offensichtlich\n",
+        "mehr über mich wissen!\r",
+        "Na gut. Wieso tauschen wir nicht\n",
+        "unsere Telefonnummern aus? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0715_00002",
+      "de_DE": [
+        "Ab jetzt aber keine falsche Scheu mehr!\n",
+        "Du kannst mich jederzeit anrufen!"
+      ]
+    },
+    {
+      "id": "msg_0715_00003",
+      "de_DE": [
+        "Ach so...\n",
+        "Dann habe ich mir dein Interesse\f",
+        "wohl nur eingebildet."
+      ]
+    },
+    {
+      "id": "msg_0715_00004",
+      "de_DE": [
+        "Hah! Ich wusste es! Du willst doch\n",
+        "mehr über mich wissen!\r",
+        "Also gut. Tauschen wir nun\n",
+        "Telefonnummern? {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0715_00005",
+      "de_DE": [
+        "Wir sind wohl schüchtern, was?\n",
+        "Komm doch vorbei, wenn du reden willst.\f",
+        "Ich bin ja ganz in der Nähe."
+      ]
+    },
+    {
+      "id": "msg_0715_00006",
+      "de_DE": [
+        "Ich liebe mein {STRVAR_1 0, 10, 0}! Es ist\n",
+        "immer mit Feuereifer dabei!\r",
+        "Welches ist dein Lieblingspokémon?\n",
+        "Komm mal vorbei und zeige es mir!"
+      ]
+    },
+    {
+      "id": "msg_0715_00007",
+      "de_DE": [
+        "Du glaubst es nicht! Gestern habe\n",
+        "ich gegen ein {STRVAR_1 0, 11, 0} gekämpft.\r",
+        "Ich habe es verschlafen, rechtzeitig\n",
+        "meinen Trank einzusetzen, und\f",
+        "dachte schon, das wäre es gewesen!\f",
+        "Aber mein Pokémon-Team hat\f",
+        "durchgehalten und wir haben\f",
+        "mit Ach und Krach gesiegt!\r",
+        "Ab und zu gibt es einfach\n",
+        "solche Momente."
+      ]
+    },
+    {
+      "id": "msg_0715_00008",
+      "de_DE": [
+        "Hebst du alle Pokémon, die du\n",
+        "fängst, in deiner PC-Box auf?\r",
+        "Ich entlasse häufig Pokémon\n",
+        "zurück in die freie Wildbahn.\r",
+        "Neulich habe ich sogar ein\n",
+        "{STRVAR_1 0, 11, 0} freigelassen!\r",
+        "Im Nachhinein ärgere ich\n",
+        "mich ein wenig über mich selbst."
+      ]
+    },
+    {
+      "id": "msg_0715_00009",
+      "de_DE": [
+        "He, du! Wollen wir nicht mal\n",
+        "wieder gegeneinander kämpfen?\r",
+        "Ich warte hier auf dich:\n",
+        "{STRVAR_1 4, 3, 0}. Du kommst, oder?"
+      ]
+    },
+    {
+      "id": "msg_0715_00010",
+      "de_DE": [
+        "Hallo-ho! Jemand da?\n",
+        "Hast du unsere Verabredung vergessen?\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!\n",
+        "Worauf? Na, auf meinen Pokémon-Kampf!\f",
+        "Also schwing die Hufe!"
+      ]
+    },
+    {
+      "id": "msg_0715_00011",
+      "de_DE": [
+        "Im Minirock in den Park zu gehen\n",
+        "war eine echt dämliche Idee.\r",
+        "Nun sind meine Beine voller Kratzer\n",
+        "von all dem pieksigen Laub!"
+      ]
+    }
+  ]
+}

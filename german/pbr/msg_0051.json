@@ -1,0 +1,63 @@
+{
+  "key": 29699,
+  "messages": [
+    {
+      "id": "msg_0051_00000",
+      "de_DE": [
+        "Hallo.\n",
+        "Dies ist die Bibliothek von Fleetburg.\r",
+        "Bitte sei leise, damit du die anderen\n",
+        "Leser nicht störst."
+      ]
+    },
+    {
+      "id": "msg_0051_00001",
+      "de_DE": [
+        "H-hallo!\n",
+        "Dies ist die Bibliothek von Fleetburg.\r",
+        "Bitte sei leise, damit du die anderen\n",
+        "Leser nicht störst.\r",
+        "Und ich habe ganz bestimmt nicht\r",
+        "{SIZE 200}“Uuuaaaahaaa!!!”{SIZE 100}\r",
+        "{SIZE 200}{SIZE 100}gebrüllt oder\r",
+        "{SIZE 200}“Hiiiilf miiiir!!!”{SIZE 100}\r",
+        "{SIZE 200}{SIZE 100}Nee, nee. Ich habe ganz bestimmt nicht\n",
+        "herumgeschrien."
+      ]
+    },
+    {
+      "id": "msg_0051_00002",
+      "de_DE": "...\r"
+    },
+    {
+      "id": "msg_0051_00003",
+      "de_DE": [
+        "Was ist denn?!?\n",
+        "Bitte stör mich nicht beim Lesen.\r"
+      ]
+    },
+    {
+      "id": "msg_0051_00004",
+      "de_DE": [
+        "Ich bitte alle, mich nicht\n",
+        "beim Lesen zu stören...\r",
+        "Ich hätte gar nicht auf dich reagieren\n",
+        "sollen. Jetzt bin ich ganz aufgeregt!"
+      ]
+    },
+    {
+      "id": "msg_0051_00005",
+      "de_DE": [
+        "Die deckenhohen Regale sind\n",
+        "vollgestopft mit Büchern."
+      ]
+    },
+    {
+      "id": "msg_0051_00006",
+      "de_DE": [
+        "Die Regale sind voll mit vom\n",
+        "Lesen abgenutzten Büchern."
+      ]
+    }
+  ]
+}

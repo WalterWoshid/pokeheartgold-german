@@ -1,0 +1,46 @@
+{
+  "key": 54307,
+  "messages": [
+    {
+      "id": "msg_0245_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Verflixt!\n",
+        "Was war denn das!?!\r",
+        "Oh, hey, {STRVAR_1 3, 1}. Dieser Avenaro\n",
+        "hat uns echt auseinandergenommen!\r",
+        "Mann... Hier in der Gegend gibt es\n",
+        "ziemlich viele starke Trainer.\r",
+        "Egal! Ich muss einfach noch besser\n",
+        "und härter werden, das ist alles.\r",
+        "Dafür gibt’s ja den Duellturm\n",
+        "und die Duellzone."
+      ]
+    },
+    {
+      "id": "msg_0245_00001",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Verflixt! Ich fasse es\n",
+        "nicht, dass wir verloren haben.\r",
+        "Egal! Ich muss einfach noch besser\n",
+        "und härter werden, das ist alles.\r",
+        "Dafür gibt’s ja den Duellturm\n",
+        "und die Duellzone."
+      ]
+    },
+    {
+      "id": "msg_0245_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 0}: Hey, {STRVAR_1 3, 1}!\n",
+        "Hast du immer noch Pokémon bei dir?\r",
+        "Ich? Da fragst du noch? Natürlich!\n",
+        "Das sind meine Partner!\r",
+        "Ich mische den Duellturm mit\n",
+        "ihnen auf, wie es sich gehört.\r",
+        "Ich beweise jedem, wie stark\n",
+        "ich geworden bin.\r",
+        "Der Typ dort kann sich auf\n",
+        "etwas gefasst machen."
+      ]
+    }
+  ]
+}

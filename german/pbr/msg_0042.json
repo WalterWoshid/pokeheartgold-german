@@ -1,0 +1,276 @@
+{
+  "key": 17459,
+  "messages": [
+    {
+      "id": "msg_0042_00000",
+      "de_DE": [
+        "{STRVAR_1 3, 1}: Hey, {STRVAR_1 3, 0}!\n",
+        "Bist du auch hier, um etwas zu lernen?\r",
+        "Ich habe alles auswendig gelernt,\n",
+        "was an der Tafel gestanden hat.\r",
+        "Schließlich habe ich als Trainer dafür\n",
+        "zu sorgen, dass meine Pokémon\f",
+        "im Kampf nicht verletzt werden.\r",
+        "Und was machst du hier, {STRVAR_1 3, 0}?\n",
+        "Was?\f",
+        "Du hast etwas für mich?\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00001",
+      "de_DE": "{STRVAR_1 3, 0} hat das Paket übergeben."
+    },
+    {
+      "id": "msg_0042_00002",
+      "de_DE": [
+        "{STRVAR_1 3, 1}: Und was ist das...?\r",
+        "Klasse!\n",
+        "Das ist eine Landkarte!\r",
+        "Oh?!?\n",
+        "Wieso sind das gleich zwei Karten?\r",
+        "Ich finde die ja klasse, aber ich\n",
+        "brauche nur eine.\r",
+        "Hier, {STRVAR_1 3, 0}, du kannst eine\n",
+        "haben!\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 1}: Hmm...\r",
+        "Wenn ich mir die Karte so betrachte,\n",
+        "werde ich als Nächstes wohl nach\f",
+        "Erzelingen gehen.\r",
+        "Dort gibt es eine Arena. Genau das\n",
+        "Richtige, um das Pokémon, das ich\f",
+        "gerade gefangen habe, zu stärken.\r",
+        "Ich bin schließlich auf dem besten\n",
+        "Weg, der größte Trainer aller Zeiten\f",
+        "zu werden!\r",
+        "Man sieht sich!\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00004",
+      "de_DE": [
+        "Du bist noch nicht so lange ein\n",
+        "Trainer, stimmt’s?\r",
+        "Du solltest dir die Sachen durchlesen,\n",
+        "von denen du noch keine Ahnung hast."
+      ]
+    },
+    {
+      "id": "msg_0042_00005",
+      "garbage": 0
+    },
+    {
+      "id": "msg_0042_00006",
+      "de_DE": [
+        "Heute haben wir etwas über die\n",
+        "verschiedenen Typen von Pokémon\f",
+        "gelernt. Ähm...\r",
+        "Der Pflanzen-Typ ist schwach\n",
+        "gegenüber Feuer.\r",
+        "Feuer ist schwach gegenüber Wasser.\n",
+        "Wasser ist schwach gegenüber Pflanze.\f",
+        "Glaube ich wenigstens..."
+      ]
+    },
+    {
+      "id": "msg_0042_00007",
+      "de_DE": [
+        "Pokémon können Items tragen.\r",
+        "Aber sie wissen nicht, was sie mit Items\n",
+        "von Menschen wie Trank oder Gegengift\f",
+        "machen sollen."
+      ]
+    },
+    {
+      "id": "msg_0042_00008",
+      "de_DE": [
+        "Ich habe ein Essay geschrieben:\n",
+        "“Was zeichnet einen wahren\f",
+        "Pokémon-Trainer aus?”"
+      ]
+    },
+    {
+      "id": "msg_0042_00009",
+      "de_DE": [
+        "Am schnellsten lernt man etwas, indem\n",
+        "man es einfach tut. Können wir kämpfen?"
+      ]
+    },
+    {
+      "id": "msg_0042_00010",
+      "de_DE": [
+        "Los!\n",
+        "Los, mein Pokémon!\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00011",
+      "de_DE": [
+        "Au! Dennoch! Am besten lernt man\n",
+        "etwas über Pokémon, wenn man\f",
+        "sie kämpfen lässt!"
+      ]
+    },
+    {
+      "id": "msg_0042_00012",
+      "de_DE": [
+        "Wenn man nicht genügend Pokémon zur\n",
+        "Auswahl hat, gewinnt man nur schwer."
+      ]
+    },
+    {
+      "id": "msg_0042_00013",
+      "de_DE": [
+        "Puh! Du bist wirklich gut!\r",
+        "Wir üben jeden Tag und haben\n",
+        "doch keine Chance gegen dich!\r",
+        "Du wirst diese Technische Maschine\n",
+        "mit Sicherheit richtig einsetzen!\f",
+        "Hier, bitte!\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00014",
+      "de_DE": [
+        "Eine Technische Maschine, auch TM\n",
+        "genannt, enthält eine Pokémon-Attacke.\r",
+        "Setzt du eine TM ein, kann ein Pokémon\n",
+        "sofort eine Attacke lernen.\r",
+        "Aber eine TM kann nur einmal eingesetzt\n",
+        "werden. Verschwende sie nicht!"
+      ]
+    },
+    {
+      "id": "msg_0042_00015",
+      "de_DE": [
+        "Ich habe mich gerade erst mit meinen\n",
+        "Pokémon angefreundet.\r",
+        "Daher weiß ich nicht, ob das klug ist...\n",
+        "Aber können wir gegeneinander kämpfen?"
+      ]
+    },
+    {
+      "id": "msg_0042_00016",
+      "de_DE": [
+        "Ich muss immer alle Dinge\n",
+        "ausprobieren, die ich gelernt habe.\f",
+        "Bevor ich sie wieder vergesse...\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00017",
+      "de_DE": [
+        "Buuuh!\n",
+        "Und du willst ein Abenteurer sein?!?\r",
+        "Als Abenteurer darfst du nicht\n",
+        "schüchtern sein, sondern musst auf die\r",
+        "Leute zugehen, mit ihnen reden und dann\n",
+        "könnt ihr gegeneinander antreten!"
+      ]
+    },
+    {
+      "id": "msg_0042_00018",
+      "de_DE": [
+        "Meinst du, es wäre besser gelaufen,\n",
+        "wenn ich einen Trank verwendet hätte?"
+      ]
+    },
+    {
+      "id": "msg_0042_00019",
+      "de_DE": [
+        "Wir waren eigentlich recht zuver-\n",
+        "sichtlich, dass wir es schaffen würden.\r",
+        "Und jetzt bin ich einfach nur platt, wie\n",
+        "stark du bist! Wow!\r",
+        "Wenn du magst, sprich meinen Freund\n",
+        "hier an. Er hat sicher eine TM für dich!"
+      ]
+    },
+    {
+      "id": "msg_0042_00020",
+      "de_DE": [
+        "Auf der Tafel sind die Statusverände-\n",
+        "rungen von Pokémon aufgelistet.\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00021",
+      "de_DE": "Welches Thema möchtest du lesen?"
+    },
+    {
+      "id": "msg_0042_00022",
+      "de_DE": [
+        "Wenn ein Pokémon vergiftet wurde,\n",
+        "wird es ständig KP verlieren.\r",
+        "Die Auswirkungen des Giftes halten\n",
+        "auch nach dem Kampf an.\r",
+        "Die KP eines vergifteten Pokémon\n",
+        "werden auch unterwegs weiter sinken.\r",
+        "Mit einem Gegengift kann das Pokémon\n",
+        "geheilt werden.\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00023",
+      "de_DE": [
+        "Wurde ein Pokémon paralysiert, sinkt\n",
+        "seine Initiative.\r",
+        "Es kann passieren, dass es während des\n",
+        "Kampfes bewegungsunfähig wird.\r",
+        "Die Paralyse hält auch nach dem Kampf\n",
+        "an. Heile das Pokémon mit Para-Heiler.\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00024",
+      "de_DE": [
+        "Wenn ein Pokémon einschläft, kann es\n",
+        "nicht mehr angreifen.\r",
+        "Das Pokémon wird vielleicht von selbst\n",
+        "wieder wach, aber wenn der Kampf endet\f",
+        "und es noch schläft, schläft es weiter.\r",
+        "Wecke es mit Aufwecker auf.\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00025",
+      "de_DE": [
+        "Eine Verbrennung senkt die Kraft des\n",
+        "Angriffs. Die KP nehmen ständig ab.\r",
+        "Eine Verbrennung hält auch nach dem\n",
+        "Kampf an. Setze Feuerheiler ein!\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00026",
+      "de_DE": [
+        "Wurde ein Pokémon eingefroren, so ist\n",
+        "es völlig hilflos.\r",
+        "Vielleicht taut es aus eigener Kraft \n",
+        "während des Kampfes auf.\r",
+        "Aber ist der Kampf zu Ende, hält der\n",
+        "Zustand an! Setze Eisheiler ein.\r"
+      ]
+    },
+    {
+      "id": "msg_0042_00027",
+      "de_DE": [
+        "Das ist das Heft eines Schülers...\r",
+        "“Pokémon werden mit Pokébällen\n",
+        "gefangen.\r",
+        "Bis zu sechs Pokémon können den\n",
+        "Trainer begleiten.\r",
+        "Ein Trainer ist jemand, der Pokémon\n",
+        "fängt, sie aufzieht und mit ihnen\f",
+        "kämpft.\r",
+        "Die Aufgabe eines Trainers ist es, die\n",
+        "starken Trainer, die ihn in den Arenen\f",
+        "erwarten, zu besiegen.”"
+      ]
+    }
+  ]
+}

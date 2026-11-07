@@ -1,0 +1,142 @@
+{
+  "key": 33887,
+  "messages": [
+    {
+      "id": "msg_0070_00000",
+      "de_DE": [
+        "Atlas: Sieh mal einer an... du hast\n",
+        "es endlich bis hierher geschafft!\r",
+        "Offensichtlich hast du einiges an\n",
+        "Talent als Trainer!\r",
+        "Wir haben den Radiosender besetzt,\n",
+        "um der ganzen Nation zu verkünden,\f",
+        "dass wir wieder da sind!\r",
+        "Wenn wir das tun, wird sicher auch\n",
+        "Giovanni wieder von seiner\f",
+        "Lehr- und Wanderreise zurückkehren!\r",
+        "Wir werden wieder zu unserem\n",
+        "früheren Glanz zurückfinden!\f",
+        "Du kommst uns dabei nicht in die Quere!\r"
+      ]
+    },
+    {
+      "id": "msg_0070_00001",
+      "de_DE": [
+        "Atlas: ...Ich kann es nicht glauben.\r",
+        "Es ist vorbei. All meine Träume sind\n",
+        "geplatzt.\f",
+        "Ich war wohl doch nicht gut genug.\r",
+        "In Ordnung.\n",
+        "Hiermit löse ich Team Rocket\f",
+        "auf, genau wie es einst Giovanni tat.\r",
+        "Leb wohl.\r"
+      ]
+    },
+    {
+      "id": "msg_0070_00002",
+      "de_DE": [
+        "Intendant: Oooh!\n",
+        "Hast du ihn etwa schon besiegt?\f",
+        "Vielen Dank! Wirklich vielen Dank!\r",
+        "Mit deinen tapferen Taten hast du jedes\n",
+        "einzelne Pokémon im Land gerettet!\r",
+        "Na gut! Jemand wie du ist würdig,\n",
+        "dies zu besitzen.\f",
+        "Bitte, akzeptiere meine Gabe!\r"
+      ]
+    },
+    {
+      "id": "msg_0070_00003",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Buntschwinge!"
+      ]
+    },
+    {
+      "id": "msg_0070_00004",
+      "de_DE": [
+        "{STRVAR_1 3, 0, 0} erhält\n",
+        "Silberflügel!"
+      ]
+    },
+    {
+      "id": "msg_0070_00005",
+      "de_DE": [
+        "Diese Buntschwinge wurde an der Spitze\n",
+        "des Turms entdeckt, der hier früher\f",
+        "stand und der später dann zu diesem\f",
+        "Radiosender umfunktioniert wurde.\r",
+        "Mithilfe der Buntschwinge kannst du\n",
+        "in Teak City den Glockenturm erklimmen!\r",
+        "Diese Geschichte hat mir mal\n",
+        "eine Bekannte aus Anemonia City\f",
+        "erzählt.\r",
+        "Gut, dann will ich mich langsam mal\n",
+        "wieder in mein Büro zurückziehen.\f",
+        "Mach’s gut!\r"
+      ]
+    },
+    {
+      "id": "msg_0070_00006",
+      "de_DE": [
+        "Dieser Silberflügel wurde an der Spitze\n",
+        "des Turms entdeckt, der hier früher\f",
+        "stand und der später dann zu diesem\f",
+        "Radiosender umfunktioniert wurde.\r",
+        "Mithilfe des Silberflügels kannst du\n",
+        "ins Innere der Strudelinseln vor-\f",
+        "dringen! Diese Geschichte hat mir mal\f",
+        "eine Bekannte aus Anemonia City\f",
+        "erzählt.\r",
+        "Gut, dann will ich mich langsam mal\n",
+        "wieder in mein Büro zurückziehen.\r"
+      ]
+    },
+    {
+      "id": "msg_0070_00007",
+      "de_DE": [
+        "Ach ja!\r",
+        "Beinahe hätte ich’s vergessen!\r",
+        "Meine Bekannte in Anemonia City sagte,\n",
+        "selbst wenn man mit der Buntschwinge\f",
+        "den Glockenturm erklimmt, sei das noch\f",
+        "lange nicht genug, um das Legendäre\f",
+        "Pokémon zu sehen.\r",
+        "Sie meinte, dafür benötige man noch\n",
+        "einen zusätzlichen Gegenstand...\f",
+        "Hat sie mir eigentlich gesagt, welchen?\f",
+        "Oder hat sie’s mir doch nicht gesagt?\f",
+        "Wie war das noch gleich?\r",
+        "Ach, ich kann mich nicht mehr erinnern!\r"
+      ]
+    },
+    {
+      "id": "msg_0070_00008",
+      "de_DE": [
+        "Ach ja!\r",
+        "Beinahe hätte ich’s vergessen!\r",
+        "Meine Bekannte in Anemonia City sagte,\n",
+        "wenn man mit dem Silberflügel ins\f",
+        "Innere der Strudelinseln vordringt, sei\f",
+        "das noch lange nicht genug, um das\f",
+        "Legendäre Pokémon zu sehen.\r",
+        "Sie meinte, dafür benötige man noch\n",
+        "einen zusätzlichen Gegenstand...\f",
+        "Hat sie mir eigentlich gesagt, welchen?\f",
+        "Oder hat sie’s mir doch nicht gesagt?\f",
+        "Wie war das noch gleich?\r",
+        "Ach, ich kann mich nicht mehr erinnern!\r"
+      ]
+    },
+    {
+      "id": "msg_0070_00009",
+      "de_DE": [
+        "Nein, keine Sorge! Ich bin schon fertig!\n",
+        "Diese Technik nennt\f",
+        "man Antäuschen!\r",
+        "Alles klar! Jetzt gehe ich aber\n",
+        "wirklich mal zurück in mein Büro!\r"
+      ]
+    }
+  ]
+}

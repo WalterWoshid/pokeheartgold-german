@@ -1,0 +1,135 @@
+{
+  "key": 26649,
+  "messages": [
+    {
+      "id": "msg_0700_00000",
+      "de_DE": "Rosemarie"
+    },
+    {
+      "id": "msg_0700_00001",
+      "de_DE": [
+        "Du kennst dich aber gut\n",
+        "mit Pokémon aus!\r",
+        "Nach den Kämpfen geben mir\n",
+        "die Jungs immer Items.\r",
+        "Manchmal weiß ich\n",
+        "gar nicht mehr, wohin damit.\r",
+        "Wenn du möchtest, kann ich mit dir\n",
+        "teilen. Gib mir deine Nummer. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0700_00002",
+      "de_DE": [
+        "Wenn ich das nächste Mal etwas nach\n",
+        "einem Kampf bekomme, teile ich mit dir!\r",
+        "Bin ich deshalb ein schlechter Mensch?"
+      ]
+    },
+    {
+      "id": "msg_0700_00003",
+      "de_DE": [
+        "Was, du möchtest es nicht?\n",
+        "Aber es ist kostenlos..."
+      ]
+    },
+    {
+      "id": "msg_0700_00004",
+      "de_DE": [
+        "Ich teile meine Geschenke mit dir.\n",
+        "Verrate mir deine Telefonnummer. {YESNO 0}"
+      ]
+    },
+    {
+      "id": "msg_0700_00005",
+      "de_DE": [
+        "Hi! Kommst du wegen des Geschenks?\n",
+        "Es wird deinen Tag retten!\r"
+      ]
+    },
+    {
+      "id": "msg_0700_00006",
+      "de_DE": [
+        "Findest du es nicht auch anziehend,\n",
+        "wenn das Mädchen den Jungen\f",
+        "zuerst anruft?\r",
+        "Was, nicht?\r",
+        "Haha! Gib’s zu, du bist ganz in\n",
+        "der Nähe! Komm doch her,\f",
+        "dann können wir persönlich reden."
+      ]
+    },
+    {
+      "id": "msg_0700_00007",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wird immer süßer!\n",
+        "Ich habe schon viele Fotos gemacht!\r",
+        "Neulich haben wir gekämpft,\n",
+        "und im Handumdrehen war\f",
+        "das wilde {STRVAR_1 0, 11, 0} K.O.\r",
+        "Das kommt bestimmt davon, dass du mir\n",
+        "Kampftipps gegeben hast.\r",
+        "Man sieht sich!"
+      ]
+    },
+    {
+      "id": "msg_0700_00008",
+      "de_DE": [
+        "Mein {STRVAR_1 0, 10, 0} wird immer süßer!\n",
+        "Ich habe schon viele Fotos gemacht!\r",
+        "Und neulich ist mir wieder \n",
+        "ein wildes {STRVAR_1 0, 11, 0} entwischt!\r",
+        "Es war so knapp! Wirklich, noch ein\n",
+        "bisschen mehr und ich hätte...\r",
+        "Sei’s drum. Dann bis später!"
+      ]
+    },
+    {
+      "id": "msg_0700_00009",
+      "de_DE": [
+        "Ich bin gerade hier: {STRVAR_1 4, 3, 0}!\r",
+        "Lass uns mal wieder kämpfen,\n",
+        "wenn du wieder in der Nähe bist.\f",
+        "Ich erwarte dich!"
+      ]
+    },
+    {
+      "id": "msg_0700_00010",
+      "de_DE": [
+        "Hi! Du hast dein Versprechen, gegen\n",
+        "mich zu kämpfen, nicht vergessen, oder?\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0700_00011",
+      "de_DE": [
+        "Oh! Du wolltest ein Geschenk?\n",
+        "Ich habe eines, aber ich will es\f",
+        "behalten.\r",
+        "Gedulde dich noch ein wenig!"
+      ]
+    },
+    {
+      "id": "msg_0700_00012",
+      "de_DE": [
+        "Weißt du?\n",
+        "Ich habe ein gutes Geschenk für dich!\r",
+        "Wie versprochen, es gehört dir!\r",
+        "Ich bin sicher, du wirst es mögen.\r",
+        "Ich gebe dir durch, wo du es abholen\n",
+        "kannst: {STRVAR_1 4, 3, 0}!"
+      ]
+    },
+    {
+      "id": "msg_0700_00013",
+      "de_DE": [
+        "Hallo?\r",
+        "Wenn du nicht bald hier auftauchst\n",
+        "und dein Geschenk abholst, gebe ich\f",
+        "es jemand anderem.\r",
+        "Ich warte hier: {STRVAR_1 4, 3, 0}!"
+      ]
+    }
+  ]
+}
